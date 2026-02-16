@@ -1,0 +1,5 @@
+{%- if site.twitter_username -%}
+  <a rel="me" href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}" title="{{ site.twitter_username | escape }}">
+    <svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
+  </a>
+{%- endif -%}

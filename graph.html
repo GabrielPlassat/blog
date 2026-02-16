@@ -1,0 +1,386 @@
+---
+layout: page
+title: Graphe de connaissances
+permalink: /graph/
+---
+
+<div class="graph-page">
+  <header class="page-header">
+    <h1>🕸️ Graphe de connaissances</h1>
+    <p class="subtitle">Visualisation des connexions entre articles et thématiques</p>
+  </header>
+
+  <div class="graph-controls">
+    <button id="btn-reset" class="btn">↻ Réinitialiser</button>
+    <button id="btn-tags" class="btn btn-active">🏷️ Tags</button>
+    <button id="btn-timeline" class="btn">📅 Timeline</button>
+    <select id="tag-filter">
+      <option value="">Tous les tags</option>
+    </select>
+  </div>
+
+  <div id="graph-container"></div>
+
+  <div class="graph-legend">
+    <h3>Légende</h3>
+    <ul>
+      <li><span class="node-article"></span> Article</li>
+      <li><span class="node-tag"></span> Tag</li>
+      <li><span class="link-weak"></span> Connexion faible (1-2 articles communs)</li>
+      <li><span class="link-strong"></span> Connexion forte (3+ articles communs)</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Include D3.js -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<style>
+.graph-page {
+  max-width: 100%;
+  padding: 2rem;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #6c757d;
+}
+
+.graph-controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  background: white;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.btn:hover {
+  background: #f8f9fa;
+  border-color: #007bff;
+}
+
+.btn-active {
+  background: #007bff;
+  border-color: #007bff;
+  color: white;
+}
+
+#tag-filter {
+  padding: 0.75rem 1.5rem;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#graph-container {
+  width: 100%;
+  height: 800px;
+  background: #f8f9fa;
+  border: 2px solid #dee2e6;
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+}
+
+.graph-legend {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+}
+
+.graph-legend h3 {
+  margin-top: 0;
+}
+
+.graph-legend ul {
+  list-style: none;
+  padding: 0;
+}
+
+.graph-legend li {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.node-article, .node-tag, .link-weak, .link-strong {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.node-article {
+  background: #007bff;
+}
+
+.node-tag {
+  background: #28a745;
+}
+
+.link-weak, .link-strong {
+  border-radius: 0;
+  height: 3px;
+}
+
+.link-weak {
+  background: #dee2e6;
+}
+
+.link-strong {
+  background: #007bff;
+}
+
+/* Tooltips */
+.graph-tooltip {
+  position: absolute;
+  background: white;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  padding: 1rem;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  max-width: 300px;
+  z-index: 1000;
+}
+
+.graph-tooltip h4 {
+  margin: 0 0 0.5rem;
+  color: #007bff;
+}
+
+.graph-tooltip p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+@media (max-width: 768px) {
+  #graph-container {
+    height: 600px;
+  }
+  
+  .graph-controls {
+    flex-direction: column;
+  }
+  
+  .btn, #tag-filter {
+    width: 100%;
+  }
+}
+</style>
+
+<script>
+// Charger les données des articles
+fetch('/search.json')
+  .then(response => response.json())
+  .then(posts => {
+    console.log(`Chargé ${posts.length} articles`);
+    
+    // Créer le graphe
+    createGraph(posts);
+  })
+  .catch(error => console.error('Erreur chargement:', error));
+
+function createGraph(posts) {
+  const container = document.getElementById('graph-container');
+  const width = container.clientWidth;
+  const height = container.clientHeight;
+  
+  // Extraire les tags et créer les nœuds
+  const tagMap = new Map();
+  const nodes = [];
+  const links = [];
+  
+  // Compter les tags
+  posts.forEach(post => {
+    post.tags.forEach(tag => {
+      if (!tagMap.has(tag)) {
+        tagMap.set(tag, { tag, count: 0, posts: [] });
+      }
+      tagMap.get(tag).count++;
+      tagMap.get(tag).posts.push(post);
+    });
+  });
+  
+  // Garder seulement les tags les plus fréquents
+  const topTags = Array.from(tagMap.values())
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 30);
+  
+  // Créer les nœuds pour les tags
+  topTags.forEach(tagData => {
+    nodes.push({
+      id: tagData.tag,
+      type: 'tag',
+      count: tagData.count,
+      posts: tagData.posts
+    });
+  });
+  
+  // Créer les liens entre tags (si ils partagent des articles)
+  for (let i = 0; i < topTags.length; i++) {
+    for (let j = i + 1; j < topTags.length; j++) {
+      const tag1 = topTags[i];
+      const tag2 = topTags[j];
+      
+      const commonPosts = tag1.posts.filter(p1 => 
+        tag2.posts.some(p2 => p2.url === p1.url)
+      );
+      
+      if (commonPosts.length > 0) {
+        links.push({
+          source: tag1.tag,
+          target: tag2.tag,
+          value: commonPosts.length
+        });
+      }
+    }
+  }
+  
+  console.log(`Graphe: ${nodes.length} nœuds, ${links.length} liens`);
+  
+  // Créer la visualisation D3
+  const svg = d3.select('#graph-container')
+    .append('svg')
+    .attr('width', width)
+    .attr('height', height);
+  
+  // Simulation de forces
+  const simulation = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links)
+      .id(d => d.id)
+      .distance(d => 150 - d.value * 10))
+    .force('charge', d3.forceManyBody().strength(-300))
+    .force('center', d3.forceCenter(width / 2, height / 2))
+    .force('collision', d3.forceCollide().radius(d => Math.sqrt(d.count) * 5));
+  
+  // Dessiner les liens
+  const link = svg.append('g')
+    .selectAll('line')
+    .data(links)
+    .join('line')
+    .attr('stroke', '#dee2e6')
+    .attr('stroke-width', d => Math.sqrt(d.value))
+    .attr('stroke-opacity', 0.6);
+  
+  // Dessiner les nœuds
+  const node = svg.append('g')
+    .selectAll('g')
+    .data(nodes)
+    .join('g')
+    .call(drag(simulation));
+  
+  node.append('circle')
+    .attr('r', d => Math.sqrt(d.count) * 3)
+    .attr('fill', d => d.type === 'tag' ? '#28a745' : '#007bff')
+    .attr('stroke', 'white')
+    .attr('stroke-width', 2);
+  
+  node.append('text')
+    .text(d => d.id)
+    .attr('x', 0)
+    .attr('y', d => Math.sqrt(d.count) * 3 + 15)
+    .attr('text-anchor', 'middle')
+    .attr('font-size', '10px')
+    .attr('fill', '#212529')
+    .attr('font-weight', 'bold');
+  
+  // Tooltip
+  const tooltip = d3.select('body')
+    .append('div')
+    .attr('class', 'graph-tooltip');
+  
+  node.on('mouseover', function(event, d) {
+    tooltip
+      .style('opacity', 1)
+      .html(`
+        <h4>${d.id}</h4>
+        <p>${d.count} article${d.count > 1 ? 's' : ''}</p>
+      `)
+      .style('left', (event.pageX + 10) + 'px')
+      .style('top', (event.pageY - 10) + 'px');
+    
+    d3.select(this).select('circle')
+      .attr('stroke', '#007bff')
+      .attr('stroke-width', 3);
+  })
+  .on('mouseout', function() {
+    tooltip.style('opacity', 0);
+    d3.select(this).select('circle')
+      .attr('stroke', 'white')
+      .attr('stroke-width', 2);
+  })
+  .on('click', function(event, d) {
+    window.location.href = '/tags/#' + d.id.toLowerCase().replace(/\s+/g, '-');
+  });
+  
+  // Animation
+  simulation.on('tick', () => {
+    link
+      .attr('x1', d => d.source.x)
+      .attr('y1', d => d.source.y)
+      .attr('x2', d => d.target.x)
+      .attr('y2', d => d.target.y);
+    
+    node.attr('transform', d => `translate(${d.x},${d.y})`);
+  });
+  
+  // Contrôles
+  document.getElementById('btn-reset').addEventListener('click', () => {
+    simulation.alpha(1).restart();
+  });
+  
+  // Drag
+  function drag(simulation) {
+    function dragstarted(event) {
+      if (!event.active) simulation.alphaTarget(0.3).restart();
+      event.subject.fx = event.subject.x;
+      event.subject.fy = event.subject.y;
+    }
+    
+    function dragged(event) {
+      event.subject.fx = event.x;
+      event.subject.fy = event.y;
+    }
+    
+    function dragended(event) {
+      if (!event.active) simulation.alphaTarget(0);
+      event.subject.fx = null;
+      event.subject.fy = null;
+    }
+    
+    return d3.drag()
+      .on('start', dragstarted)
+      .on('drag', dragged)
+      .on('end', dragended);
+  }
+}
+</script>

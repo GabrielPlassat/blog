@@ -1,0 +1,70 @@
+# Configuration Jekyll - Transports du Futur
+title: "Transports du Futur"
+description: "Exploration des mobilités, de l'innovation et des transports de demain (2009-2024)"
+baseurl: "/blog"
+url: "https://gabrielplassat.github.io"
+
+# Auteur (sans email)
+author:
+  name: Gabriel Plassat
+
+# Build settings
+theme: minima
+remote_theme: jekyll/minima
+
+# Paramètres
+permalink: /:year/:month/:day/:title/
+timezone: Europe/Paris
+lang: fr
+encoding: utf-8
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 20
+paginate_path: "/page/:num/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# SEO
+twitter:
+  username: gabrielplassat
+  card: summary
+
+social:
+  name: Gabriel Plassat
+  links:
+    - https://twitter.com/gabrielplassat
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - convert_blog.py
+  - conversion_stats.json
+  - node_modules
+  - vendor
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Sass
+sass:
+  style: compressed

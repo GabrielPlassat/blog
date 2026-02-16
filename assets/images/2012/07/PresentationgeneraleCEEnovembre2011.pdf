@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://atee.fr/sites/default/files/favicon_0.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Page non trouvée | Atee - Association Technique Energie Environnement</title>
+  <link type="text/css" rel="stylesheet" href="http://atee.fr/sites/default/files/css/css_Z_KQyXTcIGmFPRfGZOOTJ1xsEckXlqMhF53CkTgnOVA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://atee.fr/sites/default/files/css/css_nFSwTU7y2b7cYvYLfY5mvCkL3Zi_4L8Wa_XAzxQqDgM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://atee.fr/sites/default/files/css/css_Vo2kxtO3rFvlb6ec1Oy5PX6V2S6ZI5CjLtJoJR3wlYA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://atee.fr/sites/default/files/css/css_3zAqx-xEUQkXetIj8S317Gu5F2oSUrnp-pF-R8g1vHg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://atee.fr/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://atee.fr/sites/all/themes/atee/css/ie.css?npsa0j" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://atee.fr/sites/all/themes/atee/css/ie6.css?npsa0j" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://atee.fr/sites/default/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="http://atee.fr/sites/default/files/js/js_4RLg_0mcLz8_00RMt9A9Ud5xsS4fiSi3ArVfSZMKjy4.js"></script>
+<script type="text/javascript" src="http://atee.fr/sites/default/files/js/js_Mtfc2F53PnFQ9XU7GbtgnX-UeAOdFq9TwodyFTKhYaQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"atee","theme_token":"8J-wqZVCKcM35eap2ciEMrmeuYqyJQnx943fa6JlBrk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"public:\/\/languages\/fr_g7JpuGPvmdA1x9ise8reSNwFanqJPWnFUm4wHxKppd0.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/atee\/css\/layout.css":1,"sites\/all\/themes\/atee\/css\/style.css":1,"sites\/all\/themes\/atee\/css\/colors.css":1,"sites\/all\/themes\/atee\/css\/print.css":1,"sites\/all\/themes\/atee\/css\/ie.css":1,"sites\/all\/themes\/atee\/css\/ie6.css":1}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:81b77cbfbbaed37edc48f894b027c456":{"view_name":"actus_recentes_newsletter","view_display_id":"block_1","view_args":"","view_path":"node\/1324","view_base_path":"rss.xml","view_dom_id":"81b77cbfbbaed37edc48f894b027c456","pager_element":0},"views_dom_id:153b86385ad59988308db23f47823d51":{"view_name":"liste_des_manifestations_newsletter","view_display_id":"block_1","view_args":"","view_path":"node\/1324","view_base_path":null,"view_dom_id":"153b86385ad59988308db23f47823d51","pager_element":0}}},"superfish":{"1":{"id":"1","sf":{"delay":"0","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"supposition":false,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+  
+<!--[if lte IE 9]> 
+<script type="text/javascript" src="/~ateewyuj/sites/all/themes/atee/js/roundies.js"> 
+</script>
+<script>
+DD_roundies.addRule('div#page-wrapper', '20px');
+DD_roundies.addRule('div#block-views-slide3actus-block', '10px');
+DD_roundies.addRule('div#block-views-agenda-block', '10px'); 
+DD_roundies.addRule('div#bloc_haut_compte', '10px');
+DD_roundies.addRule('a.button', '15px'); 
+</script>
+<![endif]-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38890970-1']);
+  _gaq.push(['_setDomainName', 'atee.fr']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-1324 triptych footer-columns"  id="bodyuser-0" itemscope itemtype="http://schema.org/WebPage">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Aller au contenu principal</a>
+  </div>
+    <style>
+#superfish-1 li#menu-377-1 {
+background:#fff;
+-khtml-border-radius-top-right: 5px;
+-moz-border-radius-topright:5px;
+-webkit-border-radius-top-right: 5px;
+border-top-right-radius: 5px;
+-khtml-border-radius-top-left: 5px;
+-moz-border-radius-topleft:5px;
+-webkit-border-radius-top-left: 5px;
+border-top-left-radius: 5px;
+}
+#superfish-1 li#menu-377-1 a{
+background:none;
+color:#185FA2;
+text-decoration:none;
+}
+#superfish-1 li#menu-377-1 ul li a{
+color:#333;
+}
+#superfish-1 li#menu-377-1 ul li a:hover{
+text-decoration:underline;
+}
+</style>
+<img class="background" alt="" src="/sites/all/themes/atee/images/Fond-body1.jpg" />
+<div class="background2boite">
+<div id="page-wrapper">
+<div id="page">
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          
+        <div class="region region-logo-region">
+    <div id="block-block-16" class="block block-block">
+
+    
+  <div class="content">
+    <a href="/" title="Atee - Association Technique Energie Environnement" rel="home" style="float:left;">
+        <img src="/images/logo-atee.png" alt="Accueil"  height="100px"/>
+</a>  </div>
+</div>
+  </div>
+	
+	
+
+	<div id="bloc_haut_compte">
+    	<div id="inner_bloc_haut_compte">
+      <div class="region region-header">
+    <div id="block-block-51" class="block block-block">
+
+    <h2 class="element-invisible">Banniere ATEE OpenX</h2>
+  
+  <div class="content">
+    <!--/* OpenX Javascript Tag v2.8.10 */-->
+
+<!--/** L'image de sauvegarde de cette balise a été générée pour être utilisée sur une page 	* non-SSL. Ci cette balise doit être placée sur une page SSL, changez le 	*   'http://openx.atee.fr/www/delivery/...' 	* par 	*   'https://openx.atee.fr/www/delivery/...' 	*
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://openx.atee.fr/www/delivery/ajs.php':'http://openx.atee.fr/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://openx.atee.fr/www/delivery/ck.php?n=a5056440&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.atee.fr/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5056440' border='0' alt='' /></a></noscript>  </div>
+</div>
+  </div>
+
+
+        
+    	<div style="clear:both;"></div>
+    	</div>
+    </div>
+
+  </div></div> <!-- /.section, /#header -->
+	
+	    
+    
+          <div id="menuhaut"><div class="section">
+          <div class="region region-menuhaut">
+    <div id="block-superfish-1" class="block block-superfish">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-default sf-total-items-6 sf-parent-items-2 sf-single-items-4"><li id="menu-237-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Accueil</a></li><li id="menu-376-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-9 sf-parent-children-1 sf-single-children-8 menuparent"><a href="/actualite-quoi-de-neuf-atee" title="" class="sf-depth-1 menuparent">L&#039;association</a><ul><li id="menu-818-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/actualite-quoi-de-neuf-atee" title="" class="sf-depth-2">Quoi de neuf</a></li><li id="menu-1440-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-1 sf-single-children-6 menuparent"><a href="/management-de-lenergie-efficacite-energetique-reglementation" title="Management de l&#039;énergie - veille réglementaire" class="sf-depth-2 menuparent">Management de l’énergie</a><ul><li id="menu-1443-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/management-de-lenergie-efficacite-energetique-reglementation" class="sf-depth-3">Veille réglementaire</a></li><li id="menu-1453-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/management-de-lenergie-efficacite-energetique-normes" title="Normes" class="sf-depth-3">Normes</a></li><li id="menu-1450-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/management-de-lenergie-audit-energetique" title="Audit énergétique FAQ - répertoire des BE" class="sf-depth-3">Audit énergétique</a></li><li id="menu-1444-1" class="middle even sf-item-4 sf-depth-3 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/management-de-lenergie-bonnes-pratiques-retours-dexperience" title="Bonnes pratiques" class="sf-depth-3 menuparent">Bonnes pratiques</a><ul><li id="menu-1458-1" class="first odd sf-item-1 sf-depth-4 sf-no-children"><a href="/management-de-lenergie-bonnes-pratiques-retours-dexperience" class="sf-depth-4">Retours d’expérience</a></li><li id="menu-1459-1" class="last even sf-item-2 sf-depth-4 sf-no-children"><a href="/publications-atee" class="sf-depth-4">Publications ATEE</a></li></ul></li><li id="menu-1451-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/management-de-lenergie-outils-du-responsable-energie" title="outils du responsable énergie" class="sf-depth-3">Outils MDE</a></li><li id="menu-1449-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/management-de-lenergie-statistiques-etudes" title="Données statistiques, études, rapports" class="sf-depth-3">Statistiques, études</a></li><li id="menu-1442-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/management-de-lenergie-efficacite-energetique-articles" title="comptage de l&#039;énergie, gestion de l&#039;air comprimé, pompes et circulateurs, ISO 50001" class="sf-depth-3">Articles dans Energie Plus</a></li></ul></li><li id="menu-716-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/latee-association-technique-energie-environnement" title="L&#039;ATEE" class="sf-depth-2">L&#039;ATEE</a></li><li id="menu-533-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/latee-missions" title="Missions de l&#039;ATEE" class="sf-depth-2">Missions</a></li><li id="menu-535-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/latee-organisation" title="Organanisation de l&#039;ATEE" class="sf-depth-2">Organisation</a></li><li id="menu-536-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/adherents" title="Les adhérents de l&#039;ATEE" class="sf-depth-2">Adhérents</a></li><li id="menu-537-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/adherer" title="Comment adhérer à l&#039;ATEE" class="sf-depth-2">Adhérer</a></li><li id="menu-1422-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/rubriques/publications" title="" class="sf-depth-2">Publications</a></li><li id="menu-1137-1" class="last odd sf-item-9 sf-depth-2 sf-no-children"><a href="/dossiers" class="sf-depth-2">Supports de conférences</a></li></ul></li><li id="menu-377-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/" title="" class="sf-depth-1 menuparent">Les clubs</a><ul><li id="menu-555-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/biogaz" class="sf-depth-2">Club biogaz</a></li><li id="menu-811-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/c2e" class="sf-depth-2">Club C2E</a></li><li id="menu-1029-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/stockage-%C3%A9nergie" class="sf-depth-2">Club Stockage d&#039;énergies</a></li><li id="menu-1028-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/cog%C3%A9n%C3%A9ration" class="sf-depth-2">Club cogénération</a></li></ul></li><li id="menu-378-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/energie-plus-magazine" class="sf-depth-1">Energie plus</a></li><li id="menu-706-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/r%C3%A9gion" class="sf-depth-1">ATEE en régions</a></li><li id="menu-390-1" class="last even sf-item-6 sf-depth-1 sf-no-children"><a href="http://boutique.atee.fr" title="" class="sf-depth-1">La boutique</a></li></ul>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.menuhaut, /#sidebar-first -->
+       
+   
+    
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+	<div id="breadcrumb" itemprop="breadcrumb">
+    <a href="#"><img src="/sites/all/themes/atee/images/bouton-home.png" border="0" /></a> / <a href="/">Accueil</a> /
+	<a href="/c2e">c2e</a> / <a href="/c2e/cp">cp</a> / 45 / Presentation generale CEE novembre 2011.pdf    </div>
+
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-block-42" class="block block-block">
+
+    <h2><a href="http://atee.fr/sites/default/files/ATEE/Fichiers/plaquette12pagesatee_01-13web.pdf" class="block-title-link">Téléchargez notre plaquette</a></h2>
+  
+  <div class="content">
+    <p><a href="http://atee.fr/sites/default/files/ATEE/Fichiers/plaquetteatee_09-2014_web.pdf" target="_blank"><img alt="Plaquette de présentation de l'ATEE" id="Présentation de l'ATEE" src="/sites/default/files/ATEE/Images/page1_plaquetteatee.jpg" style="width: 225px; height: 318px;" title="Présentation de l'ATEE" /></a></p>
+<p><a href="http://atee.fr/dossiers" target="_blank"><img alt="" src="/sites/default/files/ATEE/Images/bouton_supports_de_conference.jpg" style="width: 225px; height: 225px;" /></a></p>
+<p><a href="http://www.cop21.gouv.fr/fr" target="_blank"><img alt="" src="/sites/default/files/ATEE/Images/logo_tousensemble.jpg" style="width: 220px; height: 319px; float: left;" /></a></p>
+  </div>
+</div>
+<div id="block-block-72" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://www.atee.fr/sites/default/files/ATEE/MDE/guide_atee_-_fin_des_trv_vdef_num_v3.pdf"><img alt="" src="/sites/default/files/ATEE/MDE/couverturefindestrv.jpg" style="width: 220px; height: 311px; float: left;" /></a></p>
+  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+           
+                   <h1 class="title titreclassique" id="page-title">
+          Page non trouvée        </h1>
+            
+      <h1 class="title titretaxonomy65" id="page-title">
+		Supports de conf&eacute;rences biogaz et m&eacute;thanisation 	
+       </h1>
+      
+	                <div class="tabs">
+                  </div>
+            
+            
+                    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    La page demandée "/c2e/cp/45/Presentation%20generale%20CEE%20novembre%202011.pdf" n'a pas pu être trouvée.  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+          <div id="sidebar-second" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-second">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/c2e/cp/45/Presentation%20generale%20CEE%20novembre%202011.pdf" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulaire de recherche</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Recherche </label>
+ <input title="Indiquer les termes à rechercher" onblur="if (this.value == &#039;&#039;) {this.value = &#039;Recherche dans tout le site&#039;;}" onfocus="if (this.value == &#039;Recherche dans tout le site&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Recherche dans tout le site" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Recherche" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-kGVtZzP_JBRXVxR5J8GyagN8Z7lKCcxRmki-NQFvWzU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-block-56" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="/search">Recherche avancée</a></p>
+  </div>
+</div>
+<div id="block-block-45" class="block block-block">
+
+    <h2>Connexion</h2>
+  
+  <div class="content">
+    <form method=post action="#" id="loginmembrebloc">
+Connectez-vous avec votre mot de passe ATEE
+<input type="password" name="passlogin"  value="" id="passlogin" />
+<input type="submit" id="edit-submit" name="op" value="Se connecter" class="form-submit" />
+</form>
+<br />
+<a href="/mot-de-passe-perdu">Mot de passe perdu ?</a>
+  </div>
+</div>
+<div id="block-views-dernier-mag-sidebar-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-dernier-mag-sidebar view-id-dernier_mag_sidebar view-display-id-block view-dom-id-6296d84aba0391cf711092d0b7eaef12">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/energie-plus-magazine/actualites/mar-02062015-1130-dossier-certificats-deconomies-denergie-en-route"><img typeof="foaf:Image" src="http://atee.fr/sites/default/files/styles/medium/public/e547_minicouv.jpg" width="220" height="283" alt="Certificats d&#039;économies d&#039;énergie : en route pour 3 ans... et plus" title="Energie Plus 547 du 1er juin : Dossier Les certificats d&#039;économies d&#039;énergie en route pour 3 ans... et plus !" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-70" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://www.atee.fr/energie-plus-magazine/actualites/mer-25032015-1554-dossier-efficacite-energetique-dans-lindustrie" target="_blank"><img alt="" src="/sites/default/files/energieplus/Images/e542_couv2.jpg" style="width: 220px; height: 283px; float: left;" />   </a></p>
+<p><a href="http://www.cop21.gouv.fr/fr" target="_blank">             </a></p>
+  </div>
+</div>
+<div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p><a class="iframe" href="http://atee.fr/inscription-à-la-newsletter"><img src="/sites/all/themes/atee/images/newsletter.png" style="width: 220px;" /></a></p>
+  </div>
+</div>
+<div id="block-block-50" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="/sites/default/files/ATEE/Fichiers/audit_nrjfinal.pdf" target="_blank"><img alt="" src="/sites/default/files/ATEE/Images/couv_audit_nrjlight_0.jpg" style="border-width: 1px; border-style: solid; width: 220px; height: 311px;" title="L'audit énergétique dans l'entreprise" /></a></p>
+<p><a href="http://www.atee.fr/sites/default/files/ATEE/Images/plaquette_tb_v6.pdf"><img alt="" src="/sites/default/files/ATEE/MDE/couverture_avec_filet.jpg" style="width: 220px; height: 311px;" /></a></p>
+  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-second -->
+        
+
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  <div id="footer-wrapper"><div class="section">
+
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-firstcolumn">
+    <div id="block-block-8" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="/biogaz">Biogaz/méthanisation</a><br /><a href="/cog%C3%A9n%C3%A9ration">Cogénération</a><br /><a href="/c2e">C2E</a><br /><a href="/stockage-energie">Stockage d'énergies</a><a href="/energie-plus-magazine"><br />Energie Plus</a></p>
+<div firebugversion="1.5.4" id="_firebugConsole" style="display: none;"> </div>
+  </div>
+</div>
+  </div>
+          <div class="region region-footer-secondcolumn">
+    <div id="block-block-9" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="/adhérer">Adhérer</a><br /><a href="/missions">Missions</a><br /><a href="/organisation">Organisation</a><br /><a href="/agenda">Agenda</a><a href="/energie-plus-magazine/publicité"><br />Publicité</a></p>
+  </div>
+</div>
+  </div>
+          <div class="region region-footer-thirdcolumn">
+    <div id="block-block-11" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://boutique.atee.fr" target="_blank">Boutique</a><br /><a href="/liens-utiles">Liens utiles</a><br /><a href="/user">Espace privé</a><br /><a href="/mentions-légales">Mentions légales</a><br /><a href="/nous-contacter">Nous contacter</a></p>
+<div style="display: none;" id="_firebugConsole" firebugversion="1.5.4"> </div>
+  </div>
+</div>
+  </div>
+          <div class="region region-footer-fourthcolumn">
+    <div id="block-block-10" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="/"><img alt="" src="/sites/default/files/atee-logo-blanc.png" style="width: 110px; height: 60px;" /></a></p>
+  </div>
+</div>
+  </div>
+      </div> <!-- /#footer-columns -->
+    
+      </div></div> 
+  <div style="margin-top:10px;font-size:12px;"><img src="/images/cadenas.png" width="20" style="position:relative;top:2px;"/> contenu r&eacute;serv&eacute; aux membres de l'ATEE. <a href="/adherer">En savoir plus</a> | <a href="/sitemap">Plan du site</a></div>
+  <!-- /.section, /#footer-wrapper -->
+</div></div></div> <!-- /#page /#page-wrapper /* background2boite -->  </body>
+</html>

@@ -1,0 +1,949 @@
+<!DOCTYPE html>
+<!--[if lt IE 10 ]>    <html class="lt-ie10 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if gte IE 10]><!--> <html class="no-js"  lang="en" dir="ltr" > <!--<![endif]-->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="http://auto.xprize.org/profiles/xprize_profile/themes/custom/imagine/favicon.ico" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="description" content="XPRIZE is an educational nonprofit organization whose mission is to bring about radical breakthroughs for the benefit of humanity" />
+<meta name="keywords" content="xprize, x-prize, foundation, nonprofit, incentive, prize, competition, grand-challenges" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://auto.xprize.org/" />
+<link rel="shortlink" href="http://auto.xprize.org/" />
+<meta property="og:site_name" content="Progressive Insurance Automotive XPRIZE" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://auto.xprize.org/" />
+<meta property="og:title" content="Progressive Insurance Automotive XPRIZE" />
+<meta property="og:description" content="Making the Impossible Possible" />
+    <title>Progressive Insurance Automotive XPRIZE Home Page</title>
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" />
+<link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_dGYDLbc-S6u7-47scH4T23mAMlhJc2u-kQAy1pGqLjw.css" />
+<link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" />
+<link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_FzuWyq7vn7_Sajkp3nGAxELHiAoEAnG3zOAw3js55Mk.css" />
+<link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_Awhnl7kxW4DbJLMDT35U2AmIItg29uYAxwwbufW9lr0.css" />
+<link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_KEwCyrTvXgL8V0L4CX2u5QRVMYOwentTg76T8S43Oeo.css" />
+<link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_vy4DeFtmMW1_9rSheLCZNFL0EucOCXrDqUAOa61HcuY.css" media="print" />
+<link rel="stylesheet" href="http://auto.xprize.org/sites/default/files/css/css_eDhK8UaV6ptzvDums1SN_sjxXZ2_8VgKBwBWSMyJVo8.css" />
+<style media="screen">.competition-overview__with-bg{background-image:url(http://auto.xprize.org/sites/default/files/styles/competition_overview_bg_breakpoints_theme_imagine_bg_image/public/Progressive-Prize-Flag-Image.jpg?itok=F-4r4rnF);min-height:663px;}@media screen and (max-width:640px){.competition-overview__with-bg{background-image:url(http://auto.xprize.org/sites/default/files/styles/competition_overview_bg_breakpoints_theme_imagine_small_1x/public/progressive-prize-flag-image-640x2100.jpg?itok=Fh6XZsh9)!important;-webkit-background-size:100% auto !important;background-attachment:scroll !important;background-position:bottom center !important;min-height:inherit;padding:!important;}.ansari-xprize .competition-overview__with-bg,.archon-genomics-xprize .competition-overview__with-bg,.progressive-insurance-automotive-xprize .competition-overview__with-bg{padding-bottom:0!important;}}
+body.front .latest-news .pane-title,body.front #page-content .latest-news a.more-news__link.more{color:;}@media screen and (max-width:640px){.competition-panel-page #page-content .competition-facts .competition-fact{color:;}.competition-fact{border-bottom-color:rgba(0,0,0,0.2);}}.pane-competition-call-to-action{background-color:;}.front .pane-activity-stream{background-color:;}#competition-navigation{background-color:#7e9e0d;}.competition-panel-page #page-content{background:#586f09 url(http://auto.xprize.org/sites/default/files/auto-background.jpg) top center repeat-y;}.highlight--block,.button,.og-context-xprize-competition .call-to-action__links .field-items .field-item,.hero-slider__title-content,.mc_embed_signup input.button,.competition-overview__learn-more.button{background:#fbb82a;}.static-header__mailchimp-form .mc_embed_signup input.button{border:solid #fbb82a;}.search-form input[type='submit']{background-color:#fbb82a !important;}.hero-slider__title{border-left-color:#fbb82a;}.hero-slider__title > *{background:#fbb82a;}.registration-count{color:#000000;}.latest-news__story-block--basic .latest-news__story-date,.whats-new__story-block--basic .whats-new__story-date,.whats-new__story-block--basic .latest-news__story-date{color:#ffffff;background:#fbb82a;}.competition-panel-page #page-content a,.competition-panel-page #page-content a:hover,.static-header__more-link a,.static-header__more-link a:hover,.xprize-user-menu__username a,.xprize-user-menu__username a:hover,.mailchimp-form .pane-title{color:#fbb82a;}.competition-panel-page #page-content a.competition-overview__learn-more:hover{color:#FFFFFF;}#competition-main-menu > li:hover{background:rgba(0,0,0,.80);-ms-filter:'progid:DXImageTransform.Microsoft.gradient(startColorstr=#000000,endColorstr=#000000)';}#footer-section{border-top-color:#fbb82a;}.team-directory--attachment a,.team-directory--section a,.team-directory--attachment a:hover,.team-directory--section a:hover{color:#fbb82a;}#breadcrumb{background-color:#7e9e0d;background:rgba(126,158,13,.6);}.leaflet-top,.leaflet-bottom{z-index:33;}.blog-pager ul{padding:0;margin:2em 0;}.blog-pager ul li{list-style:none;display:block;}.blog-pager ul li:first-child{float:left;}.blog-pager ul li:last-child{float:right;}.blog-pager a{display:inline-block;padding:.75em;text-decoration:none;color:#fff;font-family:FuturaRdMedium,Helvetica,Arial,sans-serif;text-transform:uppercase;background-color:#fbb82a;}.blog-pager a:hover{text-decoration:underline;}.latest-news__story-block--featured .social-count{color:#fbb82a;}.og-context-xprize-competition .upcoming-events__date .month,.og-context-xprize-competition .upcoming-events__date .day{color:#fbb82a;}@media (max-width:40em) and (min-width:0){#competition-main-menu .submenu{background-color:#7e9e0d;background:rgba(126,158,13,.8);}#competition-main-menu > li,#competition-main-menu > li:hover{background:rgba(126,158,13,1);background:-moz-linear-gradient(left,rgba(126,158,13,1) 50%,rgba(126,158,13,0) 100%);background:-webkit-gradient(left top,right top,color-stop(0%,rgba(126,158,13,1)),color-stop(100%,rgba(126,158,13,1)));background:-webkit-linear-gradient(left,rgba(126,158,13,0) 50%,rgba(126,158,13,1) 100%);background:-o-linear-gradient(left,rgba(126,158,13,0) 50%,rgba(126,158,13,1) 100%);background:-ms-linear-gradient(left,rgba(126,158,13,0) 50%,rgba(126,158,13,1) 100%);background:linear-gradient(to right,rgba(126,158,13,0) 50%,rgba(126,158,13,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='126,158,13',endColorstr='126,158,13',GradientType=1);}#competition-title{background:rgba(126,158,13,1);background:-moz-linear-gradient(left,rgba(126,158,13,0) 0%,rgba(126,158,13,1) 65%);background:-webkit-gradient(left top,right top,color-stop(0%,rgba(126,158,13,0)),color-stop(100%,rgba(126,158,13,0)));background:-webkit-linear-gradient(left,rgba(126,158,13,1) 0%,rgba(126,158,13,0) 65%);background:-o-linear-gradient(left,rgba(126,158,13,1) 0%,rgba(126,158,13,0) 65%);background:-ms-linear-gradient(left,rgba(126,158,13,1) 0%,rgba(126,158,13,0) 65%);background:linear-gradient(to right,rgba(126,158,13,1) 0%,rgba(126,158,13,0) 65%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='126,158,13',endColorstr='126,158,13',GradientType=1);}#competition-title #competition-hamburger.hamburger-nav{background-color:#7e9e0d;background:rgba(126,158,13,1);}.og-context-xprize-competition .upcoming-events__date .year{color:#fbb82a;}.og-context-xprize-competition #page-content .media-mentions a.more-news__link,.og-context-xprize-competition #page-content .media-mentions a.more-news__link:hover{color:#fff;background:#fbb82a;}.highlight--block.latest-news__date{color:#ffffff;background:#fbb82a;}}
+</style>
+    <script src="http://auto.xprize.org/sites/default/files/js/js_PTeWeS0A_EtXa41FkBrAqVDTM0j5ruMUL9CciQkHQMg.js"></script>
+<script src="http://auto.xprize.org/sites/default/files/js/js_i8keGY20wNXLAsHryJu8bP6lNmW-fC7dH6LYA03hREY.js"></script>
+<script src="http://auto.xprize.org/sites/default/files/js/js_zqiP3Qxv8v7_0XGi7f6ack3KzuX7pziCqCQKlXWSIn0.js"></script>
+<script>document.createElement( "picture" );</script>
+<script src="http://auto.xprize.org/sites/default/files/js/js_nr6RdloejsbmJG2EebGD9Bk8Bg4larl8r94hOnMwGlc.js"></script>
+<script src="http://auto.xprize.org/sites/default/files/js/js_4MQzPJxEhBMfeEPJoGRsToxj6xgJFHMjAlr9RFelhQg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"imagine","theme_token":"KZ9YQMwGnmYSNZF718p0Lg7sp-OmZH5yrYyEu5G0Zq8","js":{"profiles\/xprize_profile\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"profiles\/xprize_profile\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/xprize_profile\/modules\/contrib\/browserclass\/browserclass.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/doubletaptogo.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/doubletaptogo-init.js":1,"profiles\/xprize_profile\/libraries\/jquery-validation\/dist\/jquery.validate.js":1,"profiles\/xprize_profile\/modules\/custom\/xprize_social\/js\/mce-validation.js":1,"profiles\/xprize_profile\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/xprize_profile\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/xprize_profile\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/xprize_profile\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/xprize_profile\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/xprize_profile\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"profiles\/xprize_profile\/modules\/contrib\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"0":1,"profiles\/xprize_profile\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/xprize_profile\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/xprize_profile\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/xprize_profile\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/xprize_profile\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"profiles\/xprize_profile\/libraries\/jcarousel\/jquery.jcarousel.min.js":1,"profiles\/xprize_profile\/modules\/contrib\/jcarousel\/js\/jcarousel.js":1,"profiles\/xprize_profile\/libraries\/flexslider\/jquery.flexslider-min.js":1,"profiles\/xprize_profile\/modules\/contrib\/flexslider_views_slideshow\/js\/flexslider_views_slideshow.js":1,"profiles\/xprize_profile\/modules\/custom\/xprize_social\/js\/activity-stream.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/jquery.BlackAndWhite.min.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/css3-mediaqueries.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/jquery.browser.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/jquery.autoellipsis.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/bootstrap\/js\/affix.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/bootstrap\/js\/dropdown.min.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/imagine.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/column-count.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/padded-multiline.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/homepage-scroll-snap.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/equal-height.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/modernizr.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/google-tracking-helpers.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/hypher\/jquery.hypher.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/js\/hypher\/en-us.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/components\/formalize\/assets\/js\/jquery.formalize.min.js":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/components\/REM-unit-polyfill\/js\/rem.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/xprize_profile\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/xprize_profile\/modules\/contrib\/panopoly_admin\/panopoly-admin.css":1,"profiles\/xprize_profile\/modules\/contrib\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-modal.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/xprize_profile\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/xprize_profile\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/xprize_profile\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/xprize_profile\/modules\/contrib\/facebook_pull\/facebook_pull.css":1,"profiles\/xprize_profile\/modules\/contrib\/jcarousel\/skins\/default\/jcarousel-default.css":1,"profiles\/xprize_profile\/modules\/contrib\/jcarousel\/skins\/tango\/jcarousel-tango.css":1,"profiles\/xprize_profile\/modules\/contrib\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/ff0f34671d4c224f170c470df7086cbc.css":1,"profiles\/xprize_profile\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"profiles\/xprize_profile\/libraries\/flexslider\/flexslider.css":1,"profiles\/xprize_profile\/modules\/contrib\/menu_minipanels\/css\/menu_minipanels.css":1,"profiles\/xprize_profile\/modules\/custom\/xprize_social\/css\/mce-validation.css":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/stylesheets\/style.css":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/stylesheets\/style-1.css":1,"profiles\/xprize_profile\/themes\/custom\/imagine\/stylesheets\/print.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1,"0":1,"1":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"http:\/\/auto.xprize.org\/jcarousel\/ajax\/views"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"viewsSlideshow":{"competition_hero_slideshow-panel_pane_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"flexslider_views_slideshow":{"#flexslider_views_slideshow_main_competition_hero_slideshow-panel_pane_1":{"num_divs":1,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"competition_hero_slideshow-panel_pane_1","namespace":"hero-slider__","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":7000,"directionNav":true,"controlNav":false,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"ogContext":{"groupType":"xprize_competition","gid":"46"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+    <!--[if lt IE 10]>
+    <script src="/profiles/xprize_profile/themes/custom/imagine/js/lt-ie10.js"></script>
+    <![endif]-->
+  </head>
+  <body class="html front not-logged-in no-sidebars og-context og-context-xprize-competition og-context-xprize-competition-46 competition-panel-page page-content--full-width--adjusted progressive-insurance-automotive-xprize page-content--full-width--small region-content" >
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TM8ZMP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">var mainDomain = document.location.hostname.match(/(([^.\/]+\.[^.\/]{2,3}\.[^.\/]{2})|(([^.\/]+\.)[^.\/]{2,4}))(\/.*)?$/)[1];
+try{dataLayer.push({'baseDomain': mainDomain.toLowerCase()});}
+catch(err){ dataLayer = [{'baseDomain': mainDomain.toLowerCase()}];}</script>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TM8ZMP');</script>
+<!-- End Google Tag Manager -->
+    <div id="skip-link">
+      <a href="#main" class="element-invisible element-focusable" role="link">Skip to main content</a>
+    </div>
+        
+<div class="panel-display boxton clearfix container " id="page">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-panels-mini pane-static-header"  id="static-header" >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-static_header">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-hamburger static-header__hamburger-nav"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="static-header__hamburger-nav-logo"></div>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-page-logo static-header__logo"  >
+  
+      
+  
+  <div class="pane-content">
+    <a href="http://www.xprize.org" rel="home" id="logo" title="Home"><img src="http://auto.xprize.org/profiles/xprize_profile/themes/custom/imagine/logo.png" alt="Home" /></a>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-custom pane-1 static-header__more-link"  >
+  
+      
+  
+  <div class="pane-content">
+    <p>XPRIZE is an innovation engine. <a href="//www.youtube.com/embed/SsZev7S4Rzs?width=853&amp;height=480&amp;iframe=true" class="more colorbox-load cboxElement">See who we are</a></p>
+  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-block pane-system-user-menu static-header__user-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="xprize-user-menu" class="">
+  </div>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-block pane-on-the-web-0 static-header__social-icons social-icons social-icons--sm"  >
+  
+      
+  
+  <div class="pane-content">
+    <span class="on-the-web otw-twitter otw-0"><a href="https://twitter.com/xprize" title="Find Progressive Insurance Automotive XPRIZE on Twitter" target="_blank">twitter</a></span><span class="on-the-web otw-facebook otw-1"><a href="https://www.facebook.com/xprize" title="Find Progressive Insurance Automotive XPRIZE on Facebook" target="_blank">facebook</a></span><span class="on-the-web otw-googleplus otw-2"><a href="https://plus.google.com/102997835182088845710/posts" title="Find Progressive Insurance Automotive XPRIZE on Google+" target="_blank">googleplus</a></span><span class="on-the-web otw-youtube otw-3"><a href="https://www.youtube.com/user/xprize/" title="Find Progressive Insurance Automotive XPRIZE on YouTube" target="_blank">youtube</a></span><span class="on-the-web otw-linkedin otw-4"><a href="https://www.linkedin.com/company/x-prize-foundation" title="Find Progressive Insurance Automotive XPRIZE on LinkedIn" target="_blank">linkedin</a></span>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-mailchimp-form static-header__mailchimp-form mailchimo-form"  >
+  
+        <h2 class="pane-title">Get Updates</h2>
+    
+  
+  <div class="pane-content">
+    <!-- Begin MailChimp Signup Form -->
+<div class="mc_embed_signup">
+<form action="//xprize.us1.list-manage.com/subscribe/post?u=f222b9e533e2a79451b36e7ef&amp;id=3ab8e5f3ed&group[33][4194304]=true" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="dataLayer.push({'event': 'eventTracker', 'eventCat': 'Forms', 'eventAct': 'Subscribe', 'eventLbl': 'Newsletter', 'eventVal': 0 });">
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address" required aria-required="true">
+</div>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_f222b9e533e2a79451b36e7ef_3ab8e5f3ed" tabindex="-1" value=""></div>
+    <div class="clearfix"><input type="submit" value="Go" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-pane-header"  id="main-navigation" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="header">
+  <div class="section clearfix">
+    <div id="logo-title">
+
+              <a href="http://www.xprize.org" title="Home" rel="home" id="logo">
+          <img src="http://auto.xprize.org/profiles/xprize_profile/themes/custom/imagine/logo.png" alt="Home" />
+        </a>
+      
+      <div id="name-and-slogan">
+                              <h1 id="site-name">
+              <a href="http://www.xprize.org" title="Home" rel="home"><span>Progressive Insurance Automotive XPRIZE</span></a>
+            </h1>
+                  
+                  <div id="site-slogan">Making the Impossible Possible</div>
+              </div> <!-- /name-and-slogan -->      
+    </div> <!-- /logo-title -->
+
+    <div id="navigation" class="menu withprimary ">
+      <div id="primary" class="clearfix">
+      <ul id="main-menu" class="links clearfix inline"><li class="accent-border accent-border--blue first"><a href="http://www.xprize.org/about" class="accent-border accent-border--blue menu-minipanel menu-minipanel-4996">About XPRIZE</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-9">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu submenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.xprize.org/about/who-we-are" class="accent--half-circle--orange">Who We Are</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/what-is-an-xprize" class="hidden--in-content-menu-item">What is an XPRIZE?</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/media-room" class="accent--half-circle--blue">Media Room</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/board-of-trustees" class="accent--half-circle--red">Board of Trustees</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/foundation-partners-sponsors" class="accent--half-circle--dark-turquoise">Partners &amp; Sponsors</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/government-partners" class="accent--half-circle--green">Government Partners</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/xprize-in-india" class="accent--half-circle--purple">XPRIZE in India</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/staff" class="accent--half-circle--orange">Staff</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/education" class="accent--half-circle--blue">Education</a></li>
+<li class="leaf"><a href="http://www.xprize.org/about/event-calendar" class="accent--half-circle--red">Event Calendar</a></li>
+<li class="collapsed"><a href="http://www.xprize.org/about/careers" class="accent--half-circle--purple">Careers</a></li>
+<li class="last leaf"><a href="http://www.xprize.org/about/contact" class="accent--half-circle--dark-turquoise">Contact</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="accent-border accent-border--red"><a href="http://www.xprize.org/prizes" class="accent-border accent-border--red menu-minipanel menu-minipanel-7996">Prizes</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-10">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu submenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.xprize.org/xprize_competition/56">Adult Literacy XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/51">Global Learning XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/31">Wendy Schmidt Ocean Health XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/6">Nokia Sensing XCHALLENGE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/26">Qualcomm Tricorder XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/11">Google Lunar XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/16">Ansari XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/36">Northrop Grumman Lunar Lander XCHALLENGE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/46">Progressive Insurance Automotive XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/21">Archon Genomics XPRIZE</a></li>
+<li class="leaf"><a href="http://www.xprize.org/xprize_competition/41">Wendy Schmidt Oil Cleanup XCHALLENGE</a></li>
+<li class="last leaf"><a href="http://www.xprize.org/prizes/future-prizes">Future Prizes</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="accent-border accent-border--green"><a href="http://www.xprize.org/grand-challenges" class="accent-border accent-border--green menu-minipanel menu-minipanel-5076">Grand Challenges</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-11">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu submenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.xprize.org/grand-challenges/energy-environment">Energy &amp; Environment</a></li>
+<li class="leaf"><a href="http://www.xprize.org/grand-challenges/exploration">Exploration</a></li>
+<li class="leaf"><a href="http://www.xprize.org/grand-challenges/global-development">Global Development</a></li>
+<li class="leaf"><a href="http://www.xprize.org/grand-challenges/learning">Learning</a></li>
+<li class="leaf"><a href="http://www.xprize.org/grand-challenges/life-sciences">Life Sciences</a></li>
+<li class="last leaf"><a href="http://www.xprize.org/grand-challenges/vote">Vote on Grand Challenges</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="accent-border accent-border--orange"><a href="http://www.xprize.org/news" class="accent-border accent-border--orange menu-minipanel menu-minipanel-12311">Ideas &amp; Innovation</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-12">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu submenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.xprize.org/news">News &amp; Ideas</a></li>
+<li class="last leaf"><a href="http://www.xprize.org/ideas/visioneering">Visioneering</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="accent-border accent-border--purple"><a href="http://www.xprize.org/benefactors" class="accent-border accent-border--purple menu-minipanel menu-minipanel-8811">Benefactors</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-13">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu submenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.xprize.org/benefactors/vision-circle" title="Our highest level of support, their input is vital to our success as they underwrite the operations of the Foundation" rel="supporter" class="half-circle-thumb--grid--menu--yellow">Vision Circle</a></li>
+<li class="leaf"><a href="http://www.xprize.org/benefactors/innovation-board" title="The innovation Board works closely with the Foundation to define Grand Challenge topics for Trustee&#039;s Visioneering" rel="supporter">Innovation Board</a></li>
+<li class="leaf"><a href="http://www.xprize.org/benefactors/spirit-of-innovation" title="Members provide the seed capital used to design and launch XPRIZE competitions as well as support the Foundation mission" rel="supporter">Spirit of Innovation</a></li>
+<li class="leaf"><a href="http://www.xprize.org/content/entrepreneurs-circle" title="Innovators contribute private stock in their companies, providing future capital to support the Foundation mission" rel="supporter">Entrepreneur&#039;s Circle</a></li>
+<li class="leaf"><a href="mailto:alliancesweb@xprize.org?subject=Alliances Website Inquiry" rel="supporter" class="accent--bg--bright-blue">Join Us Today</a></li>
+<li class="last leaf"><a href="http://ipp.biz" title="Learn from the world&#039;s brightest innovators to create breakthrough business models harnessing exponential technologies" rel="supporter" target="_blank">Innovation Partnership Program</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="accent-border accent-border--turquoise"><a href="http://www.xprize.org/get-involved" class="accent-border accent-border--turquoise menu-minipanel menu-minipanel-5136">Get Involved</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-14">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu submenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.xprize.org/grand-challenges/vote">Vote on Grand Challenges</a></li>
+<li class="leaf"><a href="http://www.xprize.org/prizes/future-prizes/vote">Vote on Future Prizes</a></li>
+<li class="leaf"><a href="http://www.xprize.org/donate">Donate</a></li>
+<li class="last leaf"><a href="http://www.xprize.org/signup">Newsletter Signup</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="accent-border accent-border--yellow last"><a href="https://www.xprize.org/donate" class="accent-border accent-border--yellow">Donate</a></li>
+</ul>    </div>
+  
+  
+</div> <!-- /navigation -->
+
+  </div> <!-- /section -->
+</div> <!-- /header -->
+  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-competition-header"  id="competition-navigation" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="competition-header">
+  <div class="section clearfix">
+    <div id="competition-title" class="competition-title">
+
+              <a href="http://auto.xprize.org/" title="Progressive Insurance Automotive XPRIZE" id="competition-logo">
+          <img src="http://auto.xprize.org/sites/default/files/prize-logos/progressive-title-header.png" alt="Progressive Insurance Automotive XPRIZE" />
+        </a>
+      
+    </div> <!-- /logo-title -->
+
+    <div id="competition-navigation__menu" class=" menu withprimary ">
+              <div id="competition-primary" class="clearfix">
+          <ul class="links competition-links" id="competition-main-menu"><li class="menu-16571 first active"><a href="http://auto.xprize.org/" class="menu-minipanel menu-minipanel-16571 active">About</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu submenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://auto.xprize.org/about/overview">Overview</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/guidelines">Guidelines</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/schedule">Schedule</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/technical-information">Technical Information</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/judges-advisors">Judges &amp; Advisors</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/progressive-insurance">Progressive Insurance</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/partners-supporters">Partners &amp; Supporters</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/sponsors-donors">Sponsors &amp; Donors</a></li>
+<li class="leaf"><a href="http://auto.xprize.org/about/media-room">Media Room</a></li>
+<li class="last leaf"><a href="http://auto.xprize.org/about/contact">Contact</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="menu-16826"><a href="http://auto.xprize.org/news" class="menu-minipanel menu-minipanel-16826">News</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-1">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+          </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+<li class="menu-16616 last"><a href="http://auto.xprize.org/teams" class="menu-minipanel menu-minipanel-16616">Teams</a><ul class="menu-minipanel-panel menu-minipanel-xprize-submenu">
+  <li class="first odd last">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-xprize_submenu-2">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+          </div>
+  </div>
+</div><!-- /.boxton -->
+  </li>
+</ul>
+</li>
+</ul>        </div>
+          </div> <!-- /navigation -->
+
+  </div> <!-- /section -->
+</div> <!-- /header -->  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-pane-messages"  id="admin-content-bar" >
+  
+      
+  
+  <div class="pane-content">
+      <div class="tabs"></div>
+  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-page-content"  id="page-content" >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-layout aurora-sample-layout " >
+  <section class="aurora-sample-section aurora-section-first">
+      </section>
+  <section class="aurora-sample-section aurora-section-second">
+    <div class="panel-pane pane-views-panes pane-competition-hero-slideshow-panel-pane-1 hero-flipper"  id="competition-hero-flipper" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-competition-hero-slideshow view-id-competition_hero_slideshow view-display-id-panel_pane_1 view-dom-id-a7f4ad7ac21c75955af6615cf09ece6c">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="flexslider_views_slideshow_main_competition_hero_slideshow-panel_pane_1" class="flexslider_views_slideshow_main views_slideshow_main"><div class="flex-nav-container">
+  <div class="flexslider">
+    <ul id="flexslider_views_slideshow_competition_hero_slideshow-panel_pane_1" class="flexslider-views-slideshow-main-frame slides">
+        <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd">
+    <div class="hero-slider__img">
+      <a href="http://auto.xprize.org/auto/teams" >
+    <picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="http://auto.xprize.org/sites/default/files/styles/hero_breakpoints_theme_imagine_xxlarge_1x/public/hero/progressive-hero-1.jpg?itok=F8ZwimWd 1x" media="(min-width: 120.063em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/hero_breakpoints_theme_imagine_xlarge_1x/public/hero/progressive-hero-1.jpg?itok=dShsSzdt 1x" media="(min-width: 90.063em) and (max-width: 120em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/hero_breakpoints_theme_imagine_large_1x/public/hero/progressive-hero-1.jpg?itok=xG6gFcz3 1x" media="(min-width: 64.063em) and (max-width: 90em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/hero_breakpoints_theme_imagine_medium_1x/public/hero/progressive-hero-1.jpg?itok=SvukF2Ss 1x" media="(min-width: 40.063em) and (max-width: 64em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/hero_breakpoints_theme_imagine_small_1x/public/hero/progressive-hero-1.jpg?itok=8OjlRayG 1x" media="(min-width: 0em) and (max-width: 40em)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img src="http://auto.xprize.org/sites/default/files/styles/hero_breakpoints_theme_imagine_small_1x/public/hero/progressive-hero-1.jpg?itok=8OjlRayG" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  srcset="http://auto.xprize.org/sites/default/files/styles/hero_breakpoints_theme_imagine_small_1x/public/hero/progressive-hero-1.jpg?itok=8OjlRayG 640w" alt="" title="" />
+<!-- <![endif]-->
+</picture>    </a>
+<div>
+  
+    <div class="hero-slider__info ">
+          <a href="http://auto.xprize.org/auto/teams" >
+        <span class="hero-slider__title  padded-multiline"><span class="padded-multiline__content hero-slider__title-content">ACCELERATING THE FUTURE</span></span>
+              <span class="hero-slider__cta padded-multiline"><span class="padded-multiline__content hero-slider__cta-content button ">See the Competition results</span></span>
+          </a>
+  </div>
+  </li>
+    </ul>
+  </div>
+</div></div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-views-panes pane-competition-video-panel-pane-1 competition-overview"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-competition-video view-id-competition_video view-display-id-panel_pane_1 view-dom-id-792eb53d1d4e06638c4e4a1e39ab6734">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div class="competition-overview__with-bg">  
+  <div class="views-field views-field-nothing">        <span class="field-content competition-overview__info"><span class="competition-overview__headline"><p style="font-size:55px">A $10M COMPETITION TO INSPIRE</p>
+<p style="font-size:55px">A NEW GENERATION OF SUPER</p>
+<p style="font-size:55px">FUEL-EFFICIENT VEHICLES.</p>
+</span>
+<span class="competition-overview__final-result"><p>The Progressive Insurance Automotive XPRIZE challenged competitors to build safe, affordable, production-capable, super- fuel-efficient cars with the ultimate goal of offering consumers more choice in fuel-efficient travel.  Awarded in September 2010, three teams shared the purse, and the competition generated a new consumer metric for measuring fuel efficiency, MPGe. It also inspired a group of high-risk teens to get involved and almost make it to the finals, proving that a big idea can come from anyone, anywhere.</p>
+</span>
+<span class="competition-overview__cta"><a href="http://auto.xprize.org/about/overview" class="competition-overview__learn-more button">Learn more about the competition</a></span></span>  </div></div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-views-panes pane-competition-latest-news-panel-pane-1 latest-news"  >
+  
+        <h2 class="pane-title">Latest Updates</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-competition-latest-news view-id-competition_latest_news view-display-id-panel_pane_1 latest-news--competition view-dom-id-2896c8fdcc832e4f5cd180e383d67dd1">
+            <div class="view-header">
+      <p><a href="/news" class="more-news__link more">More News</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last latest-news__story-block latest-news__story-block--featured">
+      
+  <div class="views-field views-field-created">        <span class="field-content latest-news__date highlight--block"><span class="latest-news__story-date">9.16.2010</span></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content latest-news__story-title"><a href="http://auto.xprize.org/news/super-cars-split-10-million-xprize-race">SUPER-CARS SPLIT $10 MILLION IN XPRIZE RACE</a></span>  </div>  
+  <div class="views-field views-field-field-hero-image">        <div class="field-content latest-news__img"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_featured_breakpoints_theme_imagine_xxlarge_1x/public/piaxp_20100521_auto_show_license_plate_915x470.jpg?itok=qMbOpxXb 1x" media="(min-width: 120.063em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_featured_breakpoints_theme_imagine_xlarge_1x/public/piaxp_20100521_auto_show_license_plate_915x470.jpg?itok=y_8HBjIV 1x" media="(min-width: 90.063em) and (max-width: 120em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_featured_breakpoints_theme_imagine_large_1x/public/piaxp_20100521_auto_show_license_plate_915x470.jpg?itok=EJ4uKR6p 1x" media="(min-width: 64.063em) and (max-width: 90em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_featured_breakpoints_theme_imagine_medium_1x/public/piaxp_20100521_auto_show_license_plate_915x470.jpg?itok=sirFi7yX 1x" media="(min-width: 40.063em) and (max-width: 64em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_featured_breakpoints_theme_imagine_small_1x/public/piaxp_20100521_auto_show_license_plate_915x470.jpg?itok=r-THVwpA 1x" media="(min-width: 0em) and (max-width: 40em)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img src="http://auto.xprize.org/sites/default/files/styles/whats_new_featured_breakpoints_theme_imagine_small_1x/public/piaxp_20100521_auto_show_license_plate_915x470.jpg?itok=r-THVwpA" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_featured_breakpoints_theme_imagine_small_1x/public/piaxp_20100521_auto_show_license_plate_915x470.jpg?itok=r-THVwpA 640w" alt="" title="" />
+<!-- <![endif]-->
+</picture></div>  </div>  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-competition-latest-news view-id-competition_latest_news view-display-id-attachment_1 latest-news--additional-news">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first latest-news__story-block latest-news__story-block--basic">
+      
+  <div class="views-field views-field-created">        <span class="field-content latest-news__date"><span class="latest-news__story-date">9.16.2010</span></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content latest-news__story-title"><a href="http://auto.xprize.org/news/three-fuel-efficient-cars-win-automotive-xprize-competition"><span class="story-title">THREE FUEL-EFFICIENT CARS WIN AUTOMOTIVE XPRIZE COMPETITION</span></a></span>  </div>  
+          <div class="field-content latest-news__img"><a href="http://auto.xprize.org/news/three-fuel-efficient-cars-win-automotive-xprize-competition"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_xxlarge_1x/public/piaxp_20100624_finals_teams_edison2_freers_u6o6397_305x230.jpg?itok=XMpiIkdM 1x" media="(min-width: 120.063em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_xlarge_1x/public/piaxp_20100624_finals_teams_edison2_freers_u6o6397_305x230.jpg?itok=M6mgSK8s 1x" media="(min-width: 90.063em) and (max-width: 120em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_large_1x/public/piaxp_20100624_finals_teams_edison2_freers_u6o6397_305x230.jpg?itok=-DIk3d-E 1x" media="(min-width: 64.063em) and (max-width: 90em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_medium_1x/public/piaxp_20100624_finals_teams_edison2_freers_u6o6397_305x230.jpg?itok=L2VUZpgT 1x" media="(min-width: 40.063em) and (max-width: 64em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_small_1x/public/piaxp_20100624_finals_teams_edison2_freers_u6o6397_305x230.jpg?itok=R6PBryrd 1x" media="(min-width: 0em) and (max-width: 40em)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img src="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_small_1x/public/piaxp_20100624_finals_teams_edison2_freers_u6o6397_305x230.jpg?itok=R6PBryrd" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_small_1x/public/piaxp_20100624_finals_teams_edison2_freers_u6o6397_305x230.jpg?itok=R6PBryrd 640w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div>    </div>
+  <div class="views-row views-row-2 views-row-even views-row-last latest-news__story-block latest-news__story-block--basic">
+      
+  <div class="views-field views-field-created">        <span class="field-content latest-news__date"><span class="latest-news__story-date">9.16.2010</span></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content latest-news__story-title"><a href="http://auto.xprize.org/news/automotive-xprize-winner-gets-1025-mpg"><span class="story-title">AUTOMOTIVE XPRIZE WINNER GETS 102.5 MPG</span></a></span>  </div>  
+          <div class="field-content latest-news__img"><a href="http://auto.xprize.org/news/automotive-xprize-winner-gets-1025-mpg"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_xxlarge_1x/public/piaxp_20100726_finals_mg_9165_305x230.jpg?itok=3cbZVAN9 1x" media="(min-width: 120.063em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_xlarge_1x/public/piaxp_20100726_finals_mg_9165_305x230.jpg?itok=ft3k-ND7 1x" media="(min-width: 90.063em) and (max-width: 120em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_large_1x/public/piaxp_20100726_finals_mg_9165_305x230.jpg?itok=7TRKBzFq 1x" media="(min-width: 64.063em) and (max-width: 90em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_medium_1x/public/piaxp_20100726_finals_mg_9165_305x230.jpg?itok=Ty9KN3V3 1x" media="(min-width: 40.063em) and (max-width: 64em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_small_1x/public/piaxp_20100726_finals_mg_9165_305x230.jpg?itok=872WbG2_ 1x" media="(min-width: 0em) and (max-width: 40em)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img src="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_small_1x/public/piaxp_20100726_finals_mg_9165_305x230.jpg?itok=872WbG2_" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  srcset="http://auto.xprize.org/sites/default/files/styles/whats_new_thumbnail_breakpoints_theme_imagine_small_1x/public/piaxp_20100726_finals_mg_9165_305x230.jpg?itok=872WbG2_ 640w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-facts"  >
+  
+      
+  
+  <div class="pane-content">
+      </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-entity-field pane-xprize-competition-field-competition-timeline competition-timeline show--medium-up"  >
+  
+        <h2 class="pane-title">Prize Progress</h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-competition-timeline field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_xxlarge_1x/public/progressive-timeline.jpg?itok=wQ7BD-H9 1x" media="(min-width: 120.063em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_xlarge_1x/public/progressive-timeline.jpg?itok=YpGZ-cKi 1x" media="(min-width: 90.063em) and (max-width: 120em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_large_1x/public/progressive-timeline.jpg?itok=FC71CUxK 1x" media="(min-width: 64.063em) and (max-width: 90em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_medium_1x/public/progressive-timeline.jpg?itok=TKuojyTZ 1x" media="(min-width: 40.063em) and (max-width: 64em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_small_1x/public/progressive-timeline.jpg?itok=nTsubPgg 1x" media="(min-width: 0em) and (max-width: 40em)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img src="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_small_1x/public/progressive-timeline.jpg?itok=nTsubPgg" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_small_1x/public/progressive-timeline.jpg?itok=nTsubPgg 1280w" alt="" title="" />
+<!-- <![endif]-->
+</picture></div></div></div>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-entity-field pane-xprize-competition-field-competition-timeline-verti show--small competition-timeline"  >
+  
+        <h2 class="pane-title">Prize Progress</h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-competition-timeline-verti field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_xxlarge_1x/public/piaxp_mobile_new-timeline.jpg?itok=BknS9c37 1x" media="(min-width: 120.063em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_xlarge_1x/public/piaxp_mobile_new-timeline.jpg?itok=pPhGsHH7 1x" media="(min-width: 90.063em) and (max-width: 120em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_large_1x/public/piaxp_mobile_new-timeline.jpg?itok=JCDs13K0 1x" media="(min-width: 64.063em) and (max-width: 90em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_medium_1x/public/piaxp_mobile_new-timeline.jpg?itok=6uk2x7W1 1x" media="(min-width: 40.063em) and (max-width: 64em)" />
+<source srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_small_1x/public/piaxp_mobile_new-timeline.jpg?itok=irCIrJEb 1x" media="(min-width: 0em) and (max-width: 40em)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img src="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_small_1x/public/piaxp_mobile_new-timeline.jpg?itok=irCIrJEb" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  srcset="http://auto.xprize.org/sites/default/files/styles/competition_timeline_breakpoints_theme_imagine_small_1x/public/piaxp_mobile_new-timeline.jpg?itok=irCIrJEb 640w" alt="" title="" />
+<!-- <![endif]-->
+</picture></div></div></div>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-activity-stream"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul id="social-stream">
+  
+  <li class="social-stream__stream stream-twitter">
+    <span class="social-stream__icon icon-twitter"></span>
+    <div class="social-stream__status">
+      <p>RT <a target="_blank" href="http://twitter.com/InsidePhilanthr">@InsidePhilanthr</a>: There's An <a target="_blank" href="http://twitter.com/search?q=%23App">#App</a> for Everything, So These Funders Ask: Why Not Adult Literacy? <a href="http://t.co/lDLmNxnkHl" target="_blank">http://t.co/lDLmNxnkHl</a> <a target="_blank" href="http://twitter.com/xprize">@xprize</a> http://t.…</p>
+      <time>13 hours 10 min ago</time>
+    </div>
+  </li>
+
+  
+  <li class="social-stream__stream stream-facebook">
+    <span class="social-stream__icon icon-facebook"></span>
+    <div class="social-stream__status">
+      <p>A robot that can 3D print a steel bridge in on the spot, or rather, in mid-air. You can watch it in action too! <a href="http://www.fastcodesign.com/3047350/this-robot-can-3-d-print-a-steel-bridge-in-mid-air?partner=rss" target="_blank">http://www.fastcodesign.com/3047350/this-robot-can-3-d-print-a-steel-bridge-in-mid-air?partner=rss</a></p>
+      <time>15 hours 47 min ago</time>
+    </div>
+  </li>
+
+  
+  <li class="social-stream__stream stream-gplus">
+    <span class="social-stream__icon icon-gplus"></span>
+    <div class="social-stream__status">
+      <p><p>Are planes going electric? Looks like it. Take a look at the future of aviation by Airbus. <br /><a href="http://flightclub.jalopnik.com/electric-airbus-kills-your-excuses-for-not-having-a-pil-1710820730">http://flightclub.jalopnik.com/electric-airbus-kills-your-excuses-for-not-having-a-pil-1710820730</a>﻿ <a href="https://plus.google.com/+xprize/posts/bKBjJR1CfSE" class="view-more">View on Google+</a></p>
+</p>
+      <time>19 hours 22 min ago</time>
+    </div>
+  </li>
+
+  </ul>  </div>
+
+  
+  </div>
+  </section>
+  <section class="aurora-sample-section aurora-section-third">
+    <div class="panel-pane pane-views-panes pane-media-mentions-panel-pane-1"  >
+  
+        <h2 class="pane-title">Media Mentions</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-media-mentions view-id-media_mentions view-display-id-panel_pane_1 media-mentions view-dom-id-fcb95ef98b67b1af647074e4453aecda">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first media-mentions__post">
+      
+  <div class="views-field views-field-field-logo media-mentions__logo">        <div class="field-content"><img class="media-mention" src="http://auto.xprize.org/sites/default/files/styles/media_mention/public/nyt.jpg?itok=9IgmM3oh" width="360" height="45" alt="" /></div>  </div>  
+  <div class="views-field views-field-created media-mentions__date">        <span class="field-content">September 17, 2010</span>  </div>  
+  <div class="views-field views-field-title media-mentions__title">        <span class="field-content"><a href="http://www.nytimes.com/2010/09/19/automobiles/19PRIZE.html" title="For the Auto XPRIZE, a Race to the Finish" target="_blank" onclick="dataLayer.push({'event': 'eventTracker', 'eventCat': 'Media Mention', 'eventAct': 'Click', 'eventLbl': 'http://www.nytimes.com/2010/09/19/automobiles/19PRIZE.html', 'eventVal': 0});">For the Auto XPRIZE, a Race to the Finish</a></span>  </div>  
+  <div class="views-field views-field-body media-mentions__snipet">        <div class="field-content"><p><span>The $10 million Progressive Insurance Automotive XPRIZE, the competition to create fuel-efficient vehicles that ended last week with three winners, would have appeared to favor all the technology and finesse that goes with electric vehicles.</span></p>
+</div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even media-mentions__post">
+      
+  <div class="views-field views-field-field-logo media-mentions__logo">        <div class="field-content"><img class="media-mention" src="http://auto.xprize.org/sites/default/files/styles/media_mention/public/msnbc.com_.jpg?itok=twUm44nb" width="360" height="45" alt="" /></div>  </div>  
+  <div class="views-field views-field-created media-mentions__date">        <span class="field-content">September 16, 2010</span>  </div>  
+  <div class="views-field views-field-title media-mentions__title">        <span class="field-content"><a href="http://www.msnbc.msn.com/id/39202585/ns/technology_and_science/" title="Super-cars split $10 million in XPRIZE race" target="_blank" onclick="dataLayer.push({'event': 'eventTracker', 'eventCat': 'Media Mention', 'eventAct': 'Click', 'eventLbl': 'http://www.msnbc.msn.com/id/39202585/ns/technology_and_science/', 'eventVal': 0});">Super-cars split $10 million in XPRIZE race</a></span>  </div>  
+  <div class="views-field views-field-body media-mentions__snipet">        <div class="field-content"><p><span>Edison2, Li-ion and X-Tracer are big winners in fuel-efficiency contest, thanks to lightweight materials and aerodynamic design a four-seat car that gets 102 miles per gallon is the top winner in a $10 million contest designed to encourage the development of ultra-efficient automobiles.</span></p></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last media-mentions__post">
+      
+  <div class="views-field views-field-field-logo media-mentions__logo">        <div class="field-content"><img class="media-mention" src="http://auto.xprize.org/sites/default/files/styles/media_mention/public/detroit-news.jpg?itok=BD0-ycVB" width="360" height="45" alt="" /></div>  </div>  
+  <div class="views-field views-field-created media-mentions__date">        <span class="field-content">September 16, 2010</span>  </div>  
+  <div class="views-field views-field-title media-mentions__title">        <span class="field-content"><a href="http://detnews.com/article/20100916/AUTO01/9160478/X-Prize-split-three-ways-for-100-plus-mpg-autos" title="XPRIZE split three ways for 100-plus mpg autos" target="_blank" onclick="dataLayer.push({'event': 'eventTracker', 'eventCat': 'Media Mention', 'eventAct': 'Click', 'eventLbl': 'http://detnews.com/article/20100916/AUTO01/9160478/X-Prize-split-three-ways-for-100-plus-mpg-autos', 'eventVal': 0});">XPRIZE split three ways for 100-plus mpg autos</a></span>  </div>  
+  <div class="views-field views-field-body media-mentions__snipet">        <div class="field-content"><p><span>Three teams split $10 million in prize money winning the Progressive Automotive XPRIZE for building test vehicles that can get more than 100 miles per gallon.</span></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/about/media-room" class="more-news__link more">See more</a></p>
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+  </section>
+</div>
+  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-mailchimp-form mailchimp-form mailchimp--block-end"  >
+  
+        <h2 class="pane-title">Become a Part of the Future! <strong>Sign Up for Our Newsletter:</strong></h2>
+    
+  
+  <div class="pane-content">
+    <!-- Begin MailChimp Signup Form -->
+<div class="mc_embed_signup">
+<form action="//xprize.us1.list-manage.com/subscribe/post?u=f222b9e533e2a79451b36e7ef&amp;id=3ab8e5f3ed&group[33][4194304]=true" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="dataLayer.push({'event': 'eventTracker', 'eventCat': 'Forms', 'eventAct': 'Subscribe', 'eventLbl': 'Newsletter', 'eventVal': 0 });">
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address" required aria-required="true">
+</div>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_f222b9e533e2a79451b36e7ef_3ab8e5f3ed" tabindex="-1" value=""></div>
+    <div class="clearfix"><input type="submit" value="Stay Informed" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-panels-mini pane-footer-section"  id="footer-section" >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-footer_section">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-menu-tree pane-footer-menu footer-section__menu pane-centered-list pane-list-with-headers"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-footer-menu-1 menu-name-footer-menu parent-mlid-footer-menu:0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-5176"><a href="http://www.xprize.org/about">About XPRIZE</a><ul class="menu"><li class="first leaf menu-mlid-17746"><a href="http://www.xprize.org/about/who-we-are">Who We Are</a></li>
+<li class="leaf menu-mlid-5181"><a href="http://www.xprize.org/about/what-is-an-xprize">What is an XPRIZE?</a></li>
+<li class="leaf menu-mlid-5206"><a href="http://www.xprize.org/about/media-room">Media Room</a></li>
+<li class="leaf menu-mlid-5186"><a href="http://www.xprize.org/about/board-of-trustees">Board of Trustees</a></li>
+<li class="leaf menu-mlid-5191"><a href="http://www.xprize.org/about/foundation-partners-sponsors">Partners &amp; Sponsors</a></li>
+<li class="leaf menu-mlid-36161"><a href="http://www.xprize.org/about/government-partners">Government Partners</a></li>
+<li class="leaf menu-mlid-36156"><a href="http://www.xprize.org/about/xprize-in-india">XPRIZE in India</a></li>
+<li class="leaf menu-mlid-5196"><a href="http://auto.xprize.org/about/staff">Staff</a></li>
+<li class="leaf menu-mlid-36166"><a href="http://www.xprize.org/about/education">Education</a></li>
+<li class="leaf menu-mlid-36171"><a href="http://www.xprize.org/about/event-calendar">Event Calendar</a></li>
+<li class="leaf menu-mlid-5201"><a href="http://auto.xprize.org/about/careers">Careers</a></li>
+<li class="last leaf menu-mlid-5211"><a href="http://www.xprize.org/about/contact">Contact</a></li>
+</ul></li>
+<li class="expanded menu-mlid-5216"><a href="http://www.xprize.org/prizes">Prizes</a><ul class="menu"><li class="first leaf menu-mlid-58966"><a href="http://auto.xprize.org/xprize_competition/56">Adult Literacy XPRIZE</a></li>
+<li class="leaf menu-mlid-26926"><a href="http://auto.xprize.org/xprize_competition/51">Global Learning XPRIZE</a></li>
+<li class="leaf menu-mlid-5236"><a href="http://www.xprize.org/xprize_competition/31">Wendy Schmidt Ocean Health XPRIZE</a></li>
+<li class="leaf menu-mlid-5231"><a href="http://www.xprize.org/xprize_competition/6">Nokia Sensing XCHALLENGE</a></li>
+<li class="leaf menu-mlid-5226"><a href="http://www.xprize.org/xprize_competition/26">Qualcomm Tricorder XPRIZE</a></li>
+<li class="leaf menu-mlid-5221"><a href="http://www.xprize.org/xprize_competition/11">Google Lunar XPRIZE</a></li>
+<li class="leaf menu-mlid-5241"><a href="http://www.xprize.org/xprize_competition/16">Ansari XPRIZE</a></li>
+<li class="leaf menu-mlid-5251"><a href="http://www.xprize.org/xprize_competition/36">Northrop Grumman Lunar Lander XCHALLENGE</a></li>
+<li class="leaf menu-mlid-5246"><a href="http://www.xprize.org/xprize_competition/46">Progressive Insurance Automotive XPRIZE</a></li>
+<li class="leaf menu-mlid-16941"><a href="http://www.xprize.org/xprize_competition/21">Archon Genomics XPRIZE</a></li>
+<li class="leaf menu-mlid-16946"><a href="http://www.xprize.org/xprize_competition/41">Wendy Schmidt Oil Cleanup XCHALLENGE</a></li>
+<li class="last leaf menu-mlid-16951"><a href="http://www.xprize.org/prizes/future-prizes">Future Prizes</a></li>
+</ul></li>
+<li class="expanded menu-mlid-5256"><a href="http://www.xprize.org/grand-challenges">Grand Challenges</a><ul class="menu"><li class="first leaf menu-mlid-5261"><a href="http://www.xprize.org/grand-challenges/energy-environment">Energy &amp; Environment</a></li>
+<li class="leaf menu-mlid-5266"><a href="http://www.xprize.org/grand-challenges/exploration">Exploration</a></li>
+<li class="leaf menu-mlid-5271"><a href="http://www.xprize.org/grand-challenges/global-development">Global Development</a></li>
+<li class="leaf menu-mlid-5276"><a href="http://www.xprize.org/grand-challenges/learning">Learning</a></li>
+<li class="leaf menu-mlid-5281"><a href="http://www.xprize.org/grand-challenges/life-sciences">Life Sciences</a></li>
+<li class="last leaf menu-mlid-17756"><a href="http://www.xprize.org/grand-challenges/vote">Vote on Grand Challenges</a></li>
+</ul></li>
+<li class="expanded menu-mlid-5286"><a href="http://www.xprize.org/news">Ideas &amp; Innovation</a><ul class="menu"><li class="first leaf menu-mlid-5291"><a href="http://www.xprize.org/news">News &amp; Ideas</a></li>
+<li class="last leaf menu-mlid-5296"><a href="http://www.xprize.org/ideas/visioneering">Visioneering</a></li>
+</ul></li>
+<li class="expanded menu-mlid-17741"><a href="http://www.xprize.org/benefactors">Benefactors</a><ul class="menu"><li class="first leaf menu-mlid-17761"><a href="http://www.xprize.org/benefactors/vision-circle">Vision Circle</a></li>
+<li class="leaf menu-mlid-17766"><a href="http://www.xprize.org/benefactors/innovation-board">Innovation Board</a></li>
+<li class="leaf menu-mlid-17771"><a href="http://www.xprize.org/benefactors/spirit-of-innovation">Spirit of Innovation</a></li>
+<li class="leaf menu-mlid-17776"><a href="http://www.xprize.org/content/entrepreneurs-circle">Entrepreneur&#039;s Circle</a></li>
+<li class="last leaf menu-mlid-5306"><a href="http://ipp.biz">Innovation Partnership Program</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-5316"><a href="http://www.xprize.org/get-involved">Get Involved</a><ul class="menu"><li class="first leaf menu-mlid-5326"><a href="http://www.xprize.org/donate">Donate</a></li>
+<li class="leaf menu-mlid-5346"><a href="http://www.xprize.org/signup">Get Our Newsletter</a></li>
+<li class="leaf menu-mlid-5336"><a href="http://www.xprize.org/grand-challenges/vote">Vote On Grand Challenges</a></li>
+<li class="last leaf menu-mlid-5331"><a href="http://www.xprize.org/prizes/future-prizes/vote">Vote on Future Prizes</a></li>
+</ul></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-block pane-on-the-web-0 footer-section__social-icons social-icons social-icons--sm"  >
+  
+        <h2 class="pane-title">Join the conversation</h2>
+    
+  
+  <div class="pane-content">
+    <span class="on-the-web otw-twitter otw-0"><a href="https://twitter.com/xprize" title="Find Progressive Insurance Automotive XPRIZE on Twitter" target="_blank">twitter</a></span><span class="on-the-web otw-facebook otw-1"><a href="https://www.facebook.com/xprize" title="Find Progressive Insurance Automotive XPRIZE on Facebook" target="_blank">facebook</a></span><span class="on-the-web otw-googleplus otw-2"><a href="https://plus.google.com/102997835182088845710/posts" title="Find Progressive Insurance Automotive XPRIZE on Google+" target="_blank">googleplus</a></span><span class="on-the-web otw-youtube otw-3"><a href="https://www.youtube.com/user/xprize/" title="Find Progressive Insurance Automotive XPRIZE on YouTube" target="_blank">youtube</a></span><span class="on-the-web otw-linkedin otw-4"><a href="https://www.linkedin.com/company/x-prize-foundation" title="Find Progressive Insurance Automotive XPRIZE on LinkedIn" target="_blank">linkedin</a></span>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-panels-mini pane-footer-legal-section footer-section--legal"  >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-display boxton clearfix container " id="mini-panel-footer_legal_section">
+  <div class="row-fluid">
+    <div class="boxton-container boxton-content boxton-content-region panel-panel span12">
+      <div class="panel-pane pane-block pane-menu-legal-menu footer-section--legal__legal-menu inline"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.xprize.org/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li class="last leaf"><a href="http://www.xprize.org/privacy-policy">Privacy Policy</a></li>
+</ul>  </div>
+
+  
+  </div>
+
+<div class="panel-pane pane-custom pane-2 footer-section--legal__copyright inline"  >
+  
+      
+  
+  <div class="pane-content">
+    <p>©2015 XPRIZE Foundation. All Rights Reserved.</p>
+  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div><!-- /.boxton -->
+    <script src="http://auto.xprize.org/sites/default/files/js/js_7mPrkj5F0V3ScZQAoug8lRGZLjIQgSnhAgUSNRduvUI.js"></script>
+  </body>
+</html>

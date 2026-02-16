@@ -1,0 +1,2804 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- copyright
+		This file is part of a software application licensed from
+		TEKgroup International, Inc. (www.tekgroup.com). The application
+		software, database and associated files cannot be duplicated, copied or
+		modified without the written permission of TEKgroup International, Inc.
+		-->
+		
+		
+		
+
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		
+
+		<meta name="keywords" content="Toyota Newsroom, Toyota Media Room, Toyota Press Room, Toyota Press Releases, Toyota PR Contacts">
+		<meta name="description" content="Hub official site for press releases, photos, video, audio, pr contact information, presskits and more.">
+		<meta name="google-site-verification" content="FjSsdGOsY5hIOoqu5rv50hfXCL11sPu5UIRcogasGcA">
+		
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Toyota USA Newsroom" />
+
+		<title>Toyota USA Newsroom</title>
+
+		
+
+		<link rel="alternate" type="application/rss+xml" title="Hub" href="/rss.xml">
+
+		
+		<link href="/css/toyota_combined_css.cfm?brand_id=5" rel="stylesheet" media="screen">
+		
+		<link href="/css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+		<!--[if gte IE 9]>
+		  <style type="text/css">
+		    .gradient {
+		       filter: none;
+		    }
+			.relatedSite {font-family: arial; font-weight: bold;}
+		  </style>
+		<![endif]-->
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+
+		
+		<script src="/bootstrap/js/bootstrap-select.min.js" type="text/javascript"></script>
+		
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.selectpicker').selectpicker();
+
+				
+
+				var left_offset = $("#corporate").offset().left;
+
+				$(document).on({
+				    mouseenter: function () {
+						var this_ul_offset = $(this).children("ul").offset().left;
+						if(this_ul_offset > 0){
+							var new_offset = left_offset - this_ul_offset;
+
+							//console.log("ul offset: " + this_ul_offset + " corp offset: " + left_offset + " new offset: " + new_offset);
+							var this_display = $(this).children("ul").css("display");
+
+							$(this).children("ul").css("margin-left", new_offset);
+						}
+
+						$(this).children("ul").css("display", "block");
+
+				    },
+				    mouseleave: function () {
+
+						$(this).children("ul").css("display", "none");
+
+				    }
+				}, ".dropdown");
+
+			});
+		</script>
+
+
+		
+		 
+			<!-- Google Analytics: start -->
+			
+
+			<script type="text/javascript">
+
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-451241-3']);
+			  _gaq.push(['_trackPageview']);
+
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+
+			</script>
+			<!-- Google Analytics: end -->
+
+			
+			
+				<script type="text/javascript">
+
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-11625112-43']);
+				  _gaq.push(['_trackPageview']);
+
+				  (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+
+				</script>
+			
+	<script src='/js/jwplayer/jwplayer.js'></script></head>
+<body>
+
+	
+	
+
+	
+	
+	
+
+	<div id="left_flyout_menu">
+		<ul class="main_menu_container nav flyout">
+			<li class="menuClose"><span class="glyphicon glyphicon-align-justify pull-right"></span></li>
+
+			
+					
+					
+
+					<div id="brand_4" class="brand_nav_container">
+						
+						<li class="hdr_logo">
+							<span>Corporate</span>
+						</li>
+						
+						<li>
+							<ul>
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com" target="_top" title="Corporate Newsroom Home">Corporate Newsroom Home</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/releases/" target="_top" title="All Corporate News">All Corporate News</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/sales-financial/releases/" target="_top" title="Sales&#x2f;Financial">Sales&#x2f;Financial</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/environmental/releases/" target="_top" title="Environmental">Environmental</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/philanthropy/releases/" target="_top" title="Community Giving">Community Giving</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/toyota/advanced-technology/releases/" target="_top" title="Advanced Technology">Advanced Technology</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/safety-recall/" target="_top" title="Safety&#x2f;Recall">Safety&#x2f;Recall</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/menu/corporate/manufacturing+engineering/" target="_top" title="Manufacturing &#x2f; Engineering &#x2f; Design">Manufacturing &#x2f; Engineering &#x2f; Design</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://latinonews.pressroom.toyota.com" target="_top" title="Latino News">Latino News</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/biographies/" target="_top" title="Executive Bios">Executive Bios</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/speeches/" target="_top" title="Executive Speeches">Executive Speeches</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/awards/" target="_top" title="Awards">Awards</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/company+history/" target="_top" title="Company History">Company History</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/multidistrict+litigation/" target="_top" title="Multidistrict Litigation">Multidistrict Litigation</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/fact-sheets/" target="_top" title="Fact Sheets">Fact Sheets</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/photos/" target="_top" title="All Corporate Photos">All Corporate Photos</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					
+					<li class="collapsable channel submenu">
+						<a href="http://corporatenews.pressroom.toyota.com/corporate/video/" target="_top" title="All Corporate Videos">All Corporate Videos</a>
+						<div class="submenu_content"></div>
+					</li>
+					<li class="navBorderBottom"></li>
+					</ul></li></div> 
+					
+					
+
+					<div id="brand_1" class="brand_nav_container">
+						
+						<li class="hdr_logo">
+							<span>Toyota</span>
+						</li>
+						
+						<li>
+							<ul>
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com" target="_top" title="Toyota Newsroom Home">Toyota Newsroom Home</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/toyota/releases/" target="_top" title="All Toyota News">All Toyota News</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/cars-minivans/" target="_top" title="Cars &amp; Minivans">Cars &amp; Minivans</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/trucks/" target="_top" title="Trucks">Trucks</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/crossovers-suvs/" target="_top" title="Crossovers &amp; SUVs">Crossovers &amp; SUVs</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/hybrids-evs/" target="_top" title="Hybrids &amp; EVS">Hybrids &amp; EVS</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/toyota/concept+vehicles/" target="_top" title="Future&#x2f;Concept">Future&#x2f;Concept</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/toyota/historic-vehicles/" target="_top" title="Historic Vehicles">Historic Vehicles</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/toyota/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/press_kit_index.cfm" target="_top" title="Press Kits">Press Kits</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://toyotanews.pressroom.toyota.com/toyota/photos/" target="_top" title="All Toyota Images">All Toyota Images</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					
+					<li class="collapsable channel submenu">
+						<a href="http://toyotanews.pressroom.toyota.com/toyota/video/" target="_top" title="All Toyota Video">All Toyota Video</a>
+						<div class="submenu_content"></div>
+					</li>
+					<li class="navBorderBottom"></li>
+					</ul></li></div> 
+					
+					
+
+					<div id="brand_2" class="brand_nav_container">
+						
+						<li class="hdr_logo">
+							<span>Lexus</span>
+						</li>
+						
+						<li>
+							<ul>
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com" target="_top" title="Lexus Newsroom Home">Lexus Newsroom Home</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/lexus/releases/" target="_top" title="All Lexus News">All Lexus News</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/menu/lexus/sedans/" target="_top" title="Sedans&#x2f; Coupes">Sedans&#x2f; Coupes</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/menu/lexus/suvs/" target="_top" title="SUVs">SUVs</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/menu/lexus/convertibles/" target="_top" title="Convertibles">Convertibles</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/menu/lexus/hybrids/" target="_top" title="Hybrids">Hybrids</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/menu/lexus/f-f-sport/" target="_top" title="F Vehicles">F Vehicles</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/lexus/concept+vehicles/" target="_top" title="Future&#x2f;Concept">Future&#x2f;Concept</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/lexus/historic-vehicles/" target="_top" title="Historic Vehicles">Historic Vehicles</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/lexus/lifestyle/releases/" target="_top" title="Lexus Lifestyle">Lexus Lifestyle</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/lexus/philanthropy/releases/" target="_top" title="Lexus Philanthropy">Lexus Philanthropy</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/lexus/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/press_kit_index.cfm" target="_top" title="Press Kits">Press Kits</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.lexus.com/lexus/photos/" target="_top" title="All Lexus Images">All Lexus Images</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					
+					<li class="collapsable channel submenu">
+						<a href="http://pressroom.lexus.com/lexus/video/" target="_top" title="All Lexus Video">All Lexus Video</a>
+						<div class="submenu_content"></div>
+					</li>
+					<li class="navBorderBottom"></li>
+					</ul></li></div> 
+					
+					
+
+					<div id="brand_3" class="brand_nav_container">
+						
+						<li class="hdr_logo">
+							<span>Scion</span>
+						</li>
+						
+						<li>
+							<ul>
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com" target="_top" title="Scion Newsroom Home">Scion Newsroom Home</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/scion/releases/" target="_top" title="All Scion News">All Scion News</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/menu/scion/fr-s/" target="_top" title="FR-S">FR-S</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/menu/scion/iA/" target="_top" title="iA">iA</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/menu/scion/iM/" target="_top" title="iM">iM</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/menu/scion/iq/" target="_top" title="iQ">iQ</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/menu/scion/tc/" target="_top" title="tC">tC</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/menu/scion/xb/" target="_top" title="xB">xB</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/scion/concept+vehicles/" target="_top" title="Future&#x2f;Concept">Future&#x2f;Concept</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/scion/life/" target="_top" title="Scion Lifestyle">Scion Lifestyle</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/scion/racing/" target="_top" title="Scion Racing">Scion Racing</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/scion/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/press_kit_index.cfm" target="_top" title="Press Kits">Press Kits</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					<li>
+						<a href="http://pressroom.scion.com/scion/photos/" target="_top" title="All Scion Images">All Scion Images</a>
+					</li>
+					<li class="navLi"></li>
+					
+				
+					
+					
+					<li class="collapsable channel submenu">
+						<a href="http://pressroom.scion.com/scion/video/" target="_top" title="All Scion Video">All Scion Video</a>
+						<div class="submenu_content"></div>
+					</li>
+					<li class="navBorderBottom"></li>
+					</ul></li></div> 
+		</ul>
+	</div>
+	<!-- END left menu flyout -->
+
+
+
+	<div id="slide_right">
+	<header>
+		<div id="header">
+			<div class="container">
+				<div id="headerTop" class="row">
+					<div class="col-xs-12 col-sm-6"><a id="headerTopLogo" class="navbar-brand pull-left" href="http://pressroom.toyota.com" title="Hub"></a></div>
+					<div class="col-xs-12 col-sm-6">
+						<form action="/search_results.cfm" method="post" name="searchForm" id="searchForm" class="form-inline" role="form">
+							<input type="hidden" name="newsearch" value="" />
+							<input type="hidden" name="stype" value="1,2,3,7,4,5,6,8,9,10" />
+							<div id="header_stype" class="form-group">
+								<label class="sr-only hidden-xs" for="aff_brand_id">Search Content Type</label>
+								
+								<select id="aff_brand_id" name="aff_brand_id" class="headerSearchDD selectpicker">
+									<option value="0" >Search all Content</option>
+									<option value="2" >Search all Lexus</option>
+									<option value="3" >Search all Scion</option>
+								</select>
+							</div>
+							<div class="form-group">
+								
+								<label class="sr-only" for="search">Keyword</label>
+								<input type="text" class="form-control input-sm" name="keywords" id="search" placeholder="Search" value="">
+							</div>
+							<input type="submit" name="submit" value="Search" class="btn btn-primary btn-sm" title="Search">
+							<div class="pull-right">
+								<a id="advSearchLink" href="/search.cfm" class="btn btn-link pull-right">ADV Search</a>
+							</div>
+							<div class="clearfix"></div>
+							<div class="pull-right">
+								
+									<a href="http://pressroom.toyota.com/cart_contents.cfm" class="btn btn-link cartlink pull-right" title="View Media Cart">
+										<span class="tek-button-addcart"></span>View Cart</a>
+								
+							</div>
+							<div class="clearfix"></div>
+							<div class="spacer5"></div>
+						</form>
+					</div>
+				</div>
+			</div>
+
+			<div id="headerBottom" class="row">
+				<div class="container">
+					<nav id="headerNavWrapper" class="navbar navbar-default" role="navigation">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div><!-- navbar-header -->
+						<div id="headerNav" class="collapse navbar-collapse navbar-ex1-collapse">
+							<ul class="nav navbar-nav nav-justified" role="navigation">
+								
+										
+										<li id="corporate" class="dropdown brand headerBottomLnk col-md-3 borderLeftFaint borderRightFaint">
+											<a class="dropdown-toggle topLevelLink" data-brandid="4" href="http://corporatenews.pressroom.toyota.com" target="_top" title="Corporate">Corporate</a>
+											<ul class="dropdown-menu headernavigation col-md-12">
+												
+												<li class="displayInline col-md-3 articlesAfterHere_1 vertNav">
+													<ul class="leftNavItem col-md-12">
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="772" data-classid="1" data-sectioncontenttype="2671">
+											<a href="http://corporatenews.pressroom.toyota.com" target="_top" title="Corporate Newsroom Home">Corporate Newsroom Home</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="401" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/releases/" target="_top" title="All Corporate News">All Corporate News</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="394" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/sales-financial/releases/" target="_top" title="Sales&#x2f;Financial">Sales&#x2f;Financial</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="442" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/environmental/releases/" target="_top" title="Environmental">Environmental</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="395" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/philanthropy/releases/" target="_top" title="Community Giving">Community Giving</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="372" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/toyota/advanced-technology/releases/" target="_top" title="Advanced Technology">Advanced Technology</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="547" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/safety-recall/" target="_top" title="Safety&#x2f;Recall">Safety&#x2f;Recall</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="659" data-classid="1" data-sectioncontenttype="2744">
+											<a href="http://corporatenews.pressroom.toyota.com/menu/corporate/manufacturing+engineering/" target="_top" title="Manufacturing &#x2f; Engineering &#x2f; Design">Manufacturing &#x2f; Engineering &#x2f; Design</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="975" data-classid="1" data-sectioncontenttype="2671">
+											<a href="http://latinonews.pressroom.toyota.com" target="_top" title="Latino News">Latino News</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="2" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/biographies/" target="_top" title="Executive Bios">Executive Bios</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="376" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/speeches/" target="_top" title="Executive Speeches">Executive Speeches</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="546" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/awards/" target="_top" title="Awards">Awards</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="545" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/company+history/" target="_top" title="Company History">Company History</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="586" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/multidistrict+litigation/" target="_top" title="Multidistrict Litigation">Multidistrict Litigation</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="373" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/fact-sheets/" target="_top" title="Fact Sheets">Fact Sheets</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="922" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="400" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/photos/" target="_top" title="All Corporate Photos">All Corporate Photos</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="399" data-classid="1" data-sectioncontenttype="2568">
+											<a href="http://corporatenews.pressroom.toyota.com/corporate/video/" target="_top" title="All Corporate Videos">All Corporate Videos</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+										</ul></li></ul></li> 
+										
+										<li id="toyota" class="dropdown brand headerBottomLnk col-md-3 borderRightFaint">
+											<a class="dropdown-toggle topLevelLink" data-brandid="1" href="http://toyotanews.pressroom.toyota.com" target="_top" title="Toyota">Toyota</a>
+											<ul class="dropdown-menu headernavigation col-md-12">
+												
+												<li class="displayInline col-md-3 articlesAfterHere_2 vertNav">
+													<ul class="leftNavItem col-md-12">
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="773" data-classid="2" data-sectioncontenttype="2671">
+											<a href="http://toyotanews.pressroom.toyota.com" target="_top" title="Toyota Newsroom Home">Toyota Newsroom Home</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="414" data-classid="2" data-sectioncontenttype="2568">
+											<a href="http://toyotanews.pressroom.toyota.com/toyota/releases/" target="_top" title="All Toyota News">All Toyota News</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="682" data-classid="2" data-sectioncontenttype="2744">
+											<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/cars-minivans/" target="_top" title="Cars &amp; Minivans">Cars &amp; Minivans</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="681" data-classid="2" data-sectioncontenttype="2744">
+											<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/trucks/" target="_top" title="Trucks">Trucks</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="680" data-classid="2" data-sectioncontenttype="2744">
+											<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/crossovers-suvs/" target="_top" title="Crossovers &amp; SUVs">Crossovers &amp; SUVs</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="679" data-classid="2" data-sectioncontenttype="2744">
+											<a href="http://toyotanews.pressroom.toyota.com/menu/toyota/hybrids-evs/" target="_top" title="Hybrids &amp; EVS">Hybrids &amp; EVS</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="598" data-classid="2" data-sectioncontenttype="2568">
+											<a href="http://toyotanews.pressroom.toyota.com/toyota/concept+vehicles/" target="_top" title="Future&#x2f;Concept">Future&#x2f;Concept</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="675" data-classid="2" data-sectioncontenttype="2568">
+											<a href="http://toyotanews.pressroom.toyota.com/toyota/historic-vehicles/" target="_top" title="Historic Vehicles">Historic Vehicles</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="672" data-classid="2" data-sectioncontenttype="2568">
+											<a href="http://toyotanews.pressroom.toyota.com/toyota/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="671" data-classid="2" data-sectioncontenttype="2671">
+											<a href="http://toyotanews.pressroom.toyota.com/press_kit_index.cfm" target="_top" title="Press Kits">Press Kits</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="411" data-classid="2" data-sectioncontenttype="2568">
+											<a href="http://toyotanews.pressroom.toyota.com/toyota/photos/" target="_top" title="All Toyota Images">All Toyota Images</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="408" data-classid="2" data-sectioncontenttype="2568">
+											<a href="http://toyotanews.pressroom.toyota.com/toyota/video/" target="_top" title="All Toyota Video">All Toyota Video</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+										</ul></li></ul></li> 
+										
+										<li id="lexus" class="dropdown brand headerBottomLnk col-md-3 borderRightFaint">
+											<a class="dropdown-toggle topLevelLink" data-brandid="2" href="http://pressroom.lexus.com" target="_top" title="Lexus">Lexus</a>
+											<ul class="dropdown-menu headernavigation col-md-12">
+												
+												<li class="displayInline col-md-3 articlesAfterHere_3 vertNav">
+													<ul class="leftNavItem col-md-12">
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="774" data-classid="3" data-sectioncontenttype="2671">
+											<a href="http://pressroom.lexus.com" target="_top" title="Lexus Newsroom Home">Lexus Newsroom Home</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="415" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/releases/" target="_top" title="All Lexus News">All Lexus News</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="743" data-classid="3" data-sectioncontenttype="2744">
+											<a href="http://pressroom.lexus.com/menu/lexus/sedans/" target="_top" title="Sedans&#x2f; Coupes">Sedans&#x2f; Coupes</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="742" data-classid="3" data-sectioncontenttype="2744">
+											<a href="http://pressroom.lexus.com/menu/lexus/suvs/" target="_top" title="SUVs">SUVs</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="741" data-classid="3" data-sectioncontenttype="2744">
+											<a href="http://pressroom.lexus.com/menu/lexus/convertibles/" target="_top" title="Convertibles">Convertibles</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="740" data-classid="3" data-sectioncontenttype="2744">
+											<a href="http://pressroom.lexus.com/menu/lexus/hybrids/" target="_top" title="Hybrids">Hybrids</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="739" data-classid="3" data-sectioncontenttype="2744">
+											<a href="http://pressroom.lexus.com/menu/lexus/f-f-sport/" target="_top" title="F Vehicles">F Vehicles</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="599" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/concept+vehicles/" target="_top" title="Future&#x2f;Concept">Future&#x2f;Concept</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="733" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/historic-vehicles/" target="_top" title="Historic Vehicles">Historic Vehicles</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="231" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/lifestyle/releases/" target="_top" title="Lexus Lifestyle">Lexus Lifestyle</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="230" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/philanthropy/releases/" target="_top" title="Lexus Philanthropy">Lexus Philanthropy</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="732" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="731" data-classid="3" data-sectioncontenttype="2671">
+											<a href="http://pressroom.lexus.com/press_kit_index.cfm" target="_top" title="Press Kits">Press Kits</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="412" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/photos/" target="_top" title="All Lexus Images">All Lexus Images</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="409" data-classid="3" data-sectioncontenttype="2568">
+											<a href="http://pressroom.lexus.com/lexus/video/" target="_top" title="All Lexus Video">All Lexus Video</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+										</ul></li></ul></li> 
+										
+										<li id="scion" class="dropdown brand headerBottomLnk col-md-3 borderRightFaint">
+											<a class="dropdown-toggle topLevelLink" data-brandid="3" href="http://pressroom.scion.com" target="_top" title="Scion">Scion</a>
+											<ul class="dropdown-menu headernavigation col-md-12">
+												
+												<li class="displayInline col-md-3 articlesAfterHere_4 vertNav">
+													<ul class="leftNavItem col-md-12">
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="775" data-classid="4" data-sectioncontenttype="2671">
+											<a href="http://pressroom.scion.com" target="_top" title="Scion Newsroom Home">Scion Newsroom Home</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="416" data-classid="4" data-sectioncontenttype="2568">
+											<a href="http://pressroom.scion.com/scion/releases/" target="_top" title="All Scion News">All Scion News</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="759" data-classid="4" data-sectioncontenttype="2744">
+											<a href="http://pressroom.scion.com/menu/scion/fr-s/" target="_top" title="FR-S">FR-S</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="1040" data-classid="4" data-sectioncontenttype="2744">
+											<a href="http://pressroom.scion.com/menu/scion/iA/" target="_top" title="iA">iA</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="1039" data-classid="4" data-sectioncontenttype="2744">
+											<a href="http://pressroom.scion.com/menu/scion/iM/" target="_top" title="iM">iM</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="758" data-classid="4" data-sectioncontenttype="2744">
+											<a href="http://pressroom.scion.com/menu/scion/iq/" target="_top" title="iQ">iQ</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="757" data-classid="4" data-sectioncontenttype="2744">
+											<a href="http://pressroom.scion.com/menu/scion/tc/" target="_top" title="tC">tC</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="756" data-classid="4" data-sectioncontenttype="2744">
+											<a href="http://pressroom.scion.com/menu/scion/xb/" target="_top" title="xB">xB</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="600" data-classid="4" data-sectioncontenttype="2568">
+											<a href="http://pressroom.scion.com/scion/concept+vehicles/" target="_top" title="Future&#x2f;Concept">Future&#x2f;Concept</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="749" data-classid="4" data-sectioncontenttype="2568">
+											<a href="http://pressroom.scion.com/scion/life/" target="_top" title="Scion Lifestyle">Scion Lifestyle</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="750" data-classid="4" data-sectioncontenttype="2568">
+											<a href="http://pressroom.scion.com/scion/racing/" target="_top" title="Scion Racing">Scion Racing</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="748" data-classid="4" data-sectioncontenttype="2568">
+											<a href="http://pressroom.scion.com/scion/auto-shows-events/" target="_top" title="Auto Shows&#x2f;Events">Auto Shows&#x2f;Events</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="747" data-classid="4" data-sectioncontenttype="2671">
+											<a href="http://pressroom.scion.com/press_kit_index.cfm" target="_top" title="Press Kits">Press Kits</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="413" data-classid="4" data-sectioncontenttype="2568">
+											<a href="http://pressroom.scion.com/scion/photos/" target="_top" title="All Scion Images">All Scion Images</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+									
+										
+										<li class="hoverSectionArticles " data-sectionid="410" data-classid="4" data-sectioncontenttype="2568">
+											<a href="http://pressroom.scion.com/scion/video/" target="_top" title="All Scion Video">All Scion Video</a>
+										</li>
+										
+										<li class="navBorderBottom hidden-xs"></li>
+										</ul></li></ul></li> 
+							</ul>
+						</div>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</header>
+
+			<div id="breadcrumbs" class="row">
+				<div class="col-md-12">
+					<div class="container">
+						<ol class="breadcrumb">
+							<li><a href="http://pressroom.toyota.com">Home</a></li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		
+			<script type="text/javascript">
+				$(function() {
+					var glblClicked = "";
+
+					
+					$("body").on("click", ".addThisCall", function(e){
+						e.stopPropagation();
+
+						var clickedNode = e.target.nodeName;
+						
+						var addId = $(this).attr("id");
+						var id = $(this).data("add_this_id");
+						var art_url =  $(this).data("add_this_url");
+						var sm_type =  $(this).data("add_this_sm_type");
+						var sm_title =  $(this).data("add_this_sm_title");
+						var sm_seo_type =  $(this).data("add_this_sm_seo_type");
+						var sm_content_type =  $(this).data("sm_content_type_id");
+						var allow_display_share =  $(this).data("add_this_allow_display_share");
+						var dataAddThisContainer = $(this).data("add_this_content_id");
+						var do_print = $(this).data("add_this_do_print");
+						var thisHtmlStr = $(this).html();
+						var downloadLink = $(this).data("dnldlnk");
+						var downloadLinkLow = $(this).data("dnldlnklow");
+						var ckText = $(this).text();
+						var n = ckText.indexOf("Download");
+						var display_cart = $(this).data("display_cart");
+						var show_label = $(this).data("show_label");
+						var team_toyota = "teamToyota";
+
+						glblClicked = addId;
+
+						//if(clickedNode.toLowerCase() != 'a'){
+						if(n < 0){
+
+							
+							var thisHtmlStr = $("#" + dataAddThisContainer).html();
+
+							
+							$(".addThisContent").html('');
+						}
+
+						
+						var request = $.ajax({
+							url: "/rmt/rmtMng.cfc?method=addThisShare",
+							type: "POST",
+							data: {
+								   article_id : id,
+								   sm_url: art_url,
+								   sm_type : sm_type,
+								   sm_title : sm_title,
+								   sm_seo_type : sm_seo_type,
+								   allow_display_share : allow_display_share,
+								   sm_content_type_id: sm_content_type,
+								   dnldLnk: downloadLink,
+								   do_print: do_print,
+								   display_cart: display_cart,
+								   show_label: show_label,
+								   team_toyota_flag:'',
+								   dnldlnklow: downloadLinkLow
+								  },
+							dataType: "html",
+							async: true
+						});
+
+						request.done(function(data) {
+
+							$("#" + dataAddThisContainer).html(data);
+
+							addthis.toolbox('.addthis_toolbox');
+							addthis.counter(".addthis_counter");
+
+						});
+
+						request.fail(function(jqXHR, textStatus) {
+							//alert( "There was an error while retrieving the AddThis gadget. Please try again later.");
+						});
+
+					});
+
+				});
+			</script>
+			
+<div id="contentMain">
+	<div id="contentTopHalf">
+		<div class="container">
+			<div id="featuredNews" class="row">
+				<div class="col-md-12">
+					<h1>Featured News</h1>
+				</div>
+				<div id="leftFeaturedNews" class="col-md-8">
+					
+							<div id="featuredImg">
+								<img class="img-thumbnail" src="/images/Toyota_i_Road_002_featured_20150616090000559.jpg" alt="Texas Welcomes Its First i-Rodeo" title="Texas Welcomes Its First i-Rodeo">
+							</div>
+						
+						<h2 class="headline-lg">
+							<a href="/releases/texas+irodeo+2015.htm">Texas Welcomes Its First i-Rodeo</a>
+						</h2>
+						<div class="rel-dt">June 16, 2015</div>
+						<div class="excerpt">
+							DALLAS (June 16, 2015) &ndash; Texans are taking a zippy zero emission spin, courtesy of Toyota.&nbsp; &nbsp;&nbsp;<br>
+<br>
+North Texas residents met the i-Road, three wheeled electric vehicle, and COMS, super-compact electric vehicle, last weekend at the American Airlines center in Dallas.&nbsp; The 65 participants spent time taking the cars through their paces, answering questions about their driving preferences, how ultra-compact electric vehicles could be used in their daily lives, and providing product feedback to Toyota researchers.<br>
+&nbsp;
+							<div class="sectionTags">
+								
+
+								
+								<script type="text/javascript">
+									var addthis_config = addthis_config||{};
+									addthis_config.data_track_addressbar = false;
+									addthis_config.data_track_clickback = false;
+								</script>
+
+								
+								<div class="addthis_toolbox addthis_default_style  noLoad"
+									addthis:url="http&#x3a;&#x2f;&#x2f;toyota.us&#x2f;1SjA1Od"
+					       			addthis:title="Texas Welcomes Its First i-Rodeo">
+									<a class="addthis_button_facebook noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_twitter noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_google_plusone_share noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_linkedin noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_pinterest_share noLoad" style="cursor:pointer"></a>
+									
+									<a class="addthis_button_email noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_compact noLoad"><span class="addThisCall"></span></a>
+									
+			<a href="javascript:add_cart_item('5111','article','2560');" class="tek-button-addcart tek-at300" title="Add To Cart"></a>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+								</div>
+								
+							</div>
+						</div>
+					
+				</div>
+				<div id="rightRailFeaturedNews" class="col-md-4">
+					
+						<div id="rightRailFeatured1">
+							
+								<div class="rightRailFeaturedImg">
+									<img class="img-thumbnail" src="/images/2015_Toyota_Patents_002_97DD2F2DCD902DFF2C9A3C72EB27C9E8B8E85F62_featured.jpg" alt="Slim Jims and Side Curtains&#x3a; Toyota Celebrates 20 Years of Patented North American Innovation" title="Slim Jims and Side Curtains&#x3a; Toyota Celebrates 20 Years of Patented North American Innovation">
+								</div>
+							
+							<h2 class="headline">
+								<a href="/releases/toyota+2015+patents+innovation.htm">Slim Jims and Side Curtains&#x3a; Toyota Celebrates 20 Years of Patented North American Innovation</a>
+							</h2>
+							<div class="rel-dt">June 15, 2015</div>
+							<div class="sectionTags">
+								
+
+								
+								<script type="text/javascript">
+									var addthis_config = addthis_config||{};
+									addthis_config.data_track_addressbar = false;
+									addthis_config.data_track_clickback = false;
+								</script>
+
+								
+								<div class="addthis_toolbox addthis_default_style  noLoad"
+									addthis:url="http&#x3a;&#x2f;&#x2f;toyota.us&#x2f;1GnXF6Z"
+					       			addthis:title="Slim Jims and Side Curtains&#x3a; Toyota Celebrates 20 Years of Patented North American Innovation">
+									<a class="addthis_button_facebook noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_twitter noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_google_plusone_share noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_linkedin noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_pinterest_share noLoad" style="cursor:pointer"></a>
+									
+									<a class="addthis_button_email noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_compact noLoad"><span class="addThisCall"></span></a>
+									
+			<a href="javascript:add_cart_item('5110','article','2560');" class="tek-button-addcart tek-at300" title="Add To Cart"></a>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+								</div>
+								
+							</div>
+						</div>
+					
+						<div id="rightRailFeatured2">
+							
+								<div class="rightRailFeaturedImg">
+									<img class="img-thumbnail" src="/images/2015_Toyota_Camatte_hot_dog_2B23A79A785A9FE4E91B64E11437B2E79CD1EFD5_featured.jpg" alt="Childhood Vehicle Playsets Meet the Information Age at the Tokyo Toy Show" title="Childhood Vehicle Playsets Meet the Information Age at the Tokyo Toy Show">
+								</div>
+							
+							<h2 class="headline">
+								<a href="/releases/childhood+vehicle+camatte+2015+tokyo+toy.htm">Childhood Vehicle Playsets Meet the Information Age at the Tokyo Toy Show</a>
+							</h2>
+							<div class="rel-dt">June 15, 2015</div>
+							<div class="sectionTags">
+								
+
+								
+								<script type="text/javascript">
+									var addthis_config = addthis_config||{};
+									addthis_config.data_track_addressbar = false;
+									addthis_config.data_track_clickback = false;
+								</script>
+
+								
+								<div class="addthis_toolbox addthis_default_style  noLoad"
+									addthis:url="http&#x3a;&#x2f;&#x2f;toyota.us&#x2f;1GnW157"
+					       			addthis:title="Childhood Vehicle Playsets Meet the Information Age at the Tokyo Toy Show">
+									<a class="addthis_button_facebook noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_twitter noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_google_plusone_share noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_linkedin noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_pinterest_share noLoad" style="cursor:pointer"></a>
+									
+									<a class="addthis_button_email noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_compact noLoad"><span class="addThisCall"></span></a>
+									
+			<a href="javascript:add_cart_item('5109','article','2560');" class="tek-button-addcart tek-at300" title="Add To Cart"></a>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+								</div>
+								
+							</div>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+
+	
+	<div class="container">
+		<div id="contentArea" class="row">
+			<div id="leftContentArea" class="col-md-8">
+				<div class="row">
+					<div id="latestNews" class="col-md-12">
+						<h2 class="large">Latest News</h2>
+						
+								<div class="row remainingArticles noMgnBtmLst">
+									
+									<div class="col-md-4 leftThumbImage">
+										<img class="img-thumbnail" src="/images/Lexus_logo_bug_2013_thumb_20150608201905269.jpg" alt="Lexus Swings into Action at the U.S. Open Championship" title="Lexus Swings into Action at the U.S. Open Championship">
+									</div>
+									<div class="col-md-8 rightArticleInfo">
+									
+										<h2 class="headline">
+											<a href="/releases/lexus+usga+partnership+2015+us+open.htm">Lexus Swings into Action at the U.S. Open Championship</a>
+										</h2>
+										<div class="rel-dt">June 15, 2015</div>
+										<div class="excerpt">
+											<span>TORRANCE, Calif. (June 15, 2015) &mdash; Fore! Get ready to cheer on your favorite world-class golfers during this year&rsquo;s U.S. Open Championship June 18&ndash;21 at Chambers Bay Golf Course in University Place, Washington. Lexus returns as the official vehicle of the U.S. Open Championships</span><span style="font-family: 'Times New Roman'; font-size: medium; line-height: normal;">&nbsp;in partnership with the United States Golf Association (USGA) to once again produce exciting moments that speak to performance, precision and perfection.&nbsp;</span>...&nbsp;<a href="/releases/lexus+usga+partnership+2015+us+open.htm" class="morelinks">more</a>
+										</div>
+										<div class="sectionTags">
+											
+											
+				
+				<div id="addThis1" class="addThisCall addThispad15"
+						data-add_this_id="5101"
+						data-add_this_url="http://toyota.us/1BV9opl"
+						data-add_this_sm_type="A"
+						data-add_this_sm_title="Lexus\x20Swings\x20into\x20Action\x20at\x20the\x20U.S.\x20Open\x20Championship"
+						data-add_this_sm_seo_type="article"
+						data-add_this_allow_display_share="1"
+						data-add_this_content_id="addThisContent1"
+						data-sm_content_type_id="2560"
+						data-display_cart="0"
+						data-add_this_do_print="1">
+				</div>
+				
+			<div class="tek-container-addcart">
+			<a href="javascript:add_cart_item('5101','article','2560');" class="cartlink" title="Add To Cart">
+				<span class="tek-button-addcart"></span> Add To Cart
+			</a>
+			</div>
+			<div class="tek-addcart-clear"></div>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+				<div id="addThisContent1" class="addThisContent"></div>
+			
+										</div>
+									</div>
+								</div>
+								<hr>
+							
+								<div class="row remainingArticles noMgnBtmLst">
+									
+									<div class="col-md-4 leftThumbImage">
+										<img class="img-thumbnail" src="/images/Congressional_baseball_001_3AB5E3E09BFFC2306B8870044CF227F6328FC09B_thumb_20150612131225270.jpg" alt="Take Me Out to the Ballgame&#x3a; Toyota USA Foundation and Toyota Give Back at Annual Congressional Baseball Game" title="Take Me Out to the Ballgame&#x3a; Toyota USA Foundation and Toyota Give Back at Annual Congressional Baseball Game">
+									</div>
+									<div class="col-md-8 rightArticleInfo">
+									
+										<h2 class="headline">
+											<a href="/releases/toyota+congressional+baseball+2015.htm">Take Me Out to the Ballgame&#x3a; Toyota USA Foundation and Toyota Give Back at Annual Congressional Baseball Game</a>
+										</h2>
+										<div class="rel-dt">June 12, 2015</div>
+										<div class="excerpt">
+											WASHINGTON, DC (June 12, 2015) &mdash; While Democrats bested Republicans 5-2 at last night&rsquo;s 2015 Congressional Baseball Game before 5,000 fans, the real winners were young people across the country....&nbsp;<a href="/releases/toyota+congressional+baseball+2015.htm" class="morelinks">more</a>
+										</div>
+										<div class="sectionTags">
+											
+											
+				
+				<div id="addThis2" class="addThisCall addThispad15"
+						data-add_this_id="5108"
+						data-add_this_url="http://toyota.us/1FYD8lS"
+						data-add_this_sm_type="A"
+						data-add_this_sm_title="Take\x20Me\x20Out\x20to\x20the\x20Ballgame\x3A\x20Toyota\x20USA\x20Foundation\x20and\x20Toyota\x20Give\x20Back\x20at\x20Annual\x20Congressional\x20Baseball\x20Game"
+						data-add_this_sm_seo_type="article"
+						data-add_this_allow_display_share="1"
+						data-add_this_content_id="addThisContent2"
+						data-sm_content_type_id="2560"
+						data-display_cart="0"
+						data-add_this_do_print="1">
+				</div>
+				
+			<div class="tek-container-addcart">
+			<a href="javascript:add_cart_item('5108','article','2560');" class="cartlink" title="Add To Cart">
+				<span class="tek-button-addcart"></span> Add To Cart
+			</a>
+			</div>
+			<div class="tek-addcart-clear"></div>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+				<div id="addThisContent2" class="addThisContent"></div>
+			
+										</div>
+									</div>
+								</div>
+								<hr>
+							
+								<div class="row remainingArticles noMgnBtmLst">
+									
+									<div class="col-md-4 leftThumbImage">
+										<img class="img-thumbnail" src="/images/camry_dad_art_EA32CFC68E6BD6ACA128E47ECC88294C96987F7E_thumb_20150612010236288.JPG" alt="Hey Dad&#x3a; Happy Father&rsquo;s Day from Toyota" title="Hey Dad&#x3a; Happy Father&rsquo;s Day from Toyota">
+									</div>
+									<div class="col-md-8 rightArticleInfo">
+									
+										<h2 class="headline">
+											<a href="/releases/toyota+2015+fathers+day+campaign.htm">Hey Dad&#x3a; Happy Father&rsquo;s Day from Toyota</a>
+										</h2>
+										<div class="rel-dt">June 12, 2015</div>
+										<div class="excerpt">
+											TORRANCE, Calif. (June 12, 2015) &ndash; The day to celebrate dads is almost here, and Toyota Camry is driving them into the limelight.<br>
+&nbsp;...&nbsp;<a href="/releases/toyota+2015+fathers+day+campaign.htm" class="morelinks">more</a>
+										</div>
+										<div class="sectionTags">
+											
+											
+				
+				<div id="addThis3" class="addThisCall addThispad15"
+						data-add_this_id="5107"
+						data-add_this_url="http://toyota.us/1I863FK"
+						data-add_this_sm_type="A"
+						data-add_this_sm_title="Hey\x20Dad\x3A\x20Happy\x20Father\u2019s\x20Day\x20from\x20Toyota"
+						data-add_this_sm_seo_type="article"
+						data-add_this_allow_display_share="1"
+						data-add_this_content_id="addThisContent3"
+						data-sm_content_type_id="2560"
+						data-display_cart="0"
+						data-add_this_do_print="1">
+				</div>
+				
+			<div class="tek-container-addcart">
+			<a href="javascript:add_cart_item('5107','article','2560');" class="cartlink" title="Add To Cart">
+				<span class="tek-button-addcart"></span> Add To Cart
+			</a>
+			</div>
+			<div class="tek-addcart-clear"></div>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+				<div id="addThisContent3" class="addThisContent"></div>
+			
+										</div>
+									</div>
+								</div>
+								<hr>
+							
+								<div class="row remainingArticles noMgnBtmLst">
+									
+									<div class="col-md-4 leftThumbImage">
+										<img class="img-thumbnail" src="/images/TTC_GroundBreaking_Aerial_DEF099B3CC711107B8A815432A6D9246DF1865C2_thumb_20150611161940343.jpg" alt="Toyota Breaks Ground on Expansion in Michigan at Toyota Technical Center" title="Toyota Breaks Ground on Expansion in Michigan at Toyota Technical Center">
+									</div>
+									<div class="col-md-8 rightArticleInfo">
+									
+										<h2 class="headline">
+											<a href="/releases/toyota+technical+center+breaks+ground+expansion.htm">Toyota Breaks Ground on Expansion in Michigan at Toyota Technical Center</a>
+										</h2>
+										<div class="rel-dt">June 11, 2015</div>
+										<div class="excerpt">
+											<strong>ANN ARBOR, Mich. (June 11, 2015) &ndash; </strong>With the push of a plow by a 2015 Tundra TRD Pro<strong>, </strong>Toyota officially broke ground today on the expansion of the Toyota Technical Center (TTC) in Michigan. The ceremony at Toyota&rsquo;s campus in York Township marks the first visible step toward its growing investment and employment in the state while strengthening its North American research and development operations....&nbsp;<a href="/releases/toyota+technical+center+breaks+ground+expansion.htm" class="morelinks">more</a>
+										</div>
+										<div class="sectionTags">
+											
+											
+				
+				<div id="addThis4" class="addThisCall addThispad15"
+						data-add_this_id="5106"
+						data-add_this_url="http://toyota.us/1C1cLuZ"
+						data-add_this_sm_type="A"
+						data-add_this_sm_title="Toyota\x20Breaks\x20Ground\x20on\x20Expansion\x20in\x20Michigan\x20at\x20Toyota\x20Technical\x20Center"
+						data-add_this_sm_seo_type="article"
+						data-add_this_allow_display_share="1"
+						data-add_this_content_id="addThisContent4"
+						data-sm_content_type_id="2560"
+						data-display_cart="0"
+						data-add_this_do_print="1">
+				</div>
+				
+			<div class="tek-container-addcart">
+			<a href="javascript:add_cart_item('5106','article','2560');" class="cartlink" title="Add To Cart">
+				<span class="tek-button-addcart"></span> Add To Cart
+			</a>
+			</div>
+			<div class="tek-addcart-clear"></div>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+				<div id="addThisContent4" class="addThisContent"></div>
+			
+										</div>
+									</div>
+								</div>
+								<hr>
+							
+								<div class="row remainingArticles noMgnBtmLst">
+									
+									<div class="col-md-4 leftThumbImage">
+										<img class="img-thumbnail" src="/images/TMMMS_Special_Olympics_Torch_001_AA4AC1672EC86B9B99BAAADEF636365334A69767_low1_6DB71E807883FBB84ABC3A2C581BC3E3E3A8240C_thumb.JPG" alt="Special Olympics Flame of Hope Arrives at Toyota Mississippi" title="Special Olympics Flame of Hope Arrives at Toyota Mississippi">
+									</div>
+									<div class="col-md-8 rightArticleInfo">
+									
+										<h2 class="headline">
+											<a href="/releases/toyota+mississippi+special+olympics+torch.htm">Special Olympics Flame of Hope Arrives at Toyota Mississippi</a>
+										</h2>
+										<div class="rel-dt">June 10, 2015</div>
+										<div class="excerpt">
+											Blue Springs, Miss., June 10, 2015 &ndash; Toyota Mississippi today celebrated Special Olympics athletes at its Blue Springs, Miss., production facility. Local athlete Justin Rosenthal, who will be competing in golf at this year&rsquo;s world games, participated by cheering on Toyota team members and Vice President Sean Suggs as they carried the Flame of Hope in a one-mile torch run on its way to the 2015 Special Olympics World Games....&nbsp;<a href="/releases/toyota+mississippi+special+olympics+torch.htm" class="morelinks">more</a>
+										</div>
+										<div class="sectionTags">
+											
+											
+				
+				<div id="addThis5" class="addThisCall addThispad15"
+						data-add_this_id="5103"
+						data-add_this_url="http://toyota.us/1I0ckTO"
+						data-add_this_sm_type="A"
+						data-add_this_sm_title="Special\x20Olympics\x20Flame\x20of\x20Hope\x20Arrives\x20at\x20Toyota\x20Mississippi"
+						data-add_this_sm_seo_type="article"
+						data-add_this_allow_display_share="1"
+						data-add_this_content_id="addThisContent5"
+						data-sm_content_type_id="2560"
+						data-display_cart="0"
+						data-add_this_do_print="1">
+				</div>
+				
+			<div class="tek-container-addcart">
+			<a href="javascript:add_cart_item('5103','article','2560');" class="cartlink" title="Add To Cart">
+				<span class="tek-button-addcart"></span> Add To Cart
+			</a>
+			</div>
+			<div class="tek-addcart-clear"></div>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+				<div id="addThisContent5" class="addThisContent"></div>
+			
+										</div>
+									</div>
+								</div>
+								<hr>
+							
+								<div class="row remainingArticles noMgnBtmLst">
+									
+									<div class="col-md-4 leftThumbImage">
+										<img class="img-thumbnail" src="/images/buckle_up_life_002_thumb_20150609080000211.jpg" alt="Summer Travel Safety Alert&#x3a; Five Must-Know Car Seat Tips for Child Passengers" title="Summer Travel Safety Alert&#x3a; Five Must-Know Car Seat Tips for Child Passengers">
+									</div>
+									<div class="col-md-8 rightArticleInfo">
+									
+										<h2 class="headline">
+											<a href="/releases/summer+travel+safety+car+seat+tips+for+children.htm">Summer Travel Safety Alert&#x3a; Five Must-Know Car Seat Tips for Child Passengers</a>
+										</h2>
+										<div class="rel-dt">June 09, 2015</div>
+										<div class="excerpt">
+											New York, N.Y., June 9, 2015 -- Heading out for a road trip with your family this summer? Got your sunscreen? Check. Road tunes? Check. Sunglasses? Check. A properly installed car seat?&nbsp; The answer may not be as simple as you think.<br>
+&nbsp;...&nbsp;<a href="/releases/summer+travel+safety+car+seat+tips+for+children.htm" class="morelinks">more</a>
+										</div>
+										<div class="sectionTags">
+											
+											
+				
+				<div id="addThis6" class="addThisCall addThispad15"
+						data-add_this_id="5099"
+						data-add_this_url="http://toyota.us/1MCGJLZ"
+						data-add_this_sm_type="A"
+						data-add_this_sm_title="Summer\x20Travel\x20Safety\x20Alert\x3A\x20Five\x20Must\x2DKnow\x20Car\x20Seat\x20Tips\x20for\x20Child\x20Passengers"
+						data-add_this_sm_seo_type="article"
+						data-add_this_allow_display_share="1"
+						data-add_this_content_id="addThisContent6"
+						data-sm_content_type_id="2560"
+						data-display_cart="0"
+						data-add_this_do_print="1">
+				</div>
+				
+			<div class="tek-container-addcart">
+			<a href="javascript:add_cart_item('5099','article','2560');" class="cartlink" title="Add To Cart">
+				<span class="tek-button-addcart"></span> Add To Cart
+			</a>
+			</div>
+			<div class="tek-addcart-clear"></div>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+				<div id="addThisContent6" class="addThisContent"></div>
+			
+										</div>
+									</div>
+								</div>
+								<hr>
+							
+							<div class="pull-right">
+								<a href="/releases/" class="btn btn-primary">More News</a>
+							</div>
+						
+					</div>
+				</div>
+				<div class="row">
+					<div id="socialMedia" class="col-md-12">
+						<h2 class="large">Social Media</h2>
+						
+		 <div class="wrapTwitter">
+			 <a class="twitter-timeline" href="https://twitter.com/Toyota" data-widget-id="386128165623459840">Tweets by @Toyota</a>
+		 </div>
+	
+					</div>
+				</div>
+			</div>
+
+			
+			
+	<div id="rightRailContentArea" class="col-md-4">
+		
+		<ul>
+			
+			
+		</ul>
+
+		 
+						
+						
+						
+						<script type="text/javascript">
+							$(function() {
+								$("body").on("click", ".videoToLoad", function(e){
+									
+									var vidId = $(this).data('loadid');
+									
+									$('.loadVideo').addClass('hideVideo');
+									
+									$('#' + vidId).removeClass('hideVideo');
+									
+									$('.videoToLoad').removeClass('active');
+									
+									$(this).addClass('active');
+								});
+							});
+						</script>
+
+						
+						<h2>Featured Video</h2>
+						<div class="railMultimediaBox video">
+							
+							
+
+								
+								<div id="video_28892" class="loadVideo ">
+									
+						<div id="media_player_67639"></div>
+						<script type='text/javascript'>
+
+						    jwplayer('media_player_67639').setup({
+						        file: '/images/media_gallery/video_files/Toyota_RACER_RAV_RALLY_episode2_H264_399681AAB7CB72CCF22577B6AD2A156400CDE156_low.mp4',
+								image: '/images/Toyota_RACER_RAV_RALLY_episode2_H264_399681AAB7CB72CCF22577B6AD2A156400CDE156.jpg',
+						        
+									width: '100%',
+								
+						        height: '190'
+						    });
+						</script>
+					
+								</div>
+							
+
+								
+								<div id="video_28883" class="loadVideo hideVideo">
+									
+
+					<iframe  width="100%"  height="190" src="http://www.youtube.com/embed/Wo3ZVMjX2YE" frameborder="0" allowfullscreen></iframe>
+				
+				
+								</div>
+							
+
+								
+								<div id="video_28882" class="loadVideo hideVideo">
+									
+
+					<iframe  width="100%"  height="190" src="http://www.youtube.com/embed/Xi2uOudIp2I" frameborder="0" allowfullscreen></iframe>
+				
+				
+								</div>
+							
+
+								
+								
+								<div id="loadVideo_1" class="videoToLoad active addThisCall noIco" data-loadid="video_28892"
+													data-add_this_sec_id = "0"
+													data-dnldlnk="/video_display.cfm?video_id=28892"
+													data-add_this_id="28892"
+													data-add_this_url="/video_display.cfm?video_id=28892"
+													data-add_this_sm_type="P"
+													data-add_this_sm_title="It&#x27;s A Huge Trust Issue..."
+													data-add_this_sm_seo_type="video"
+													data-add_this_allow_display_share="1"
+													data-sm_content_type_id="2564"
+													data-add_this_content_id="addThisFeaturedVidContent1"
+													data-add_this_do_print=0>
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											
+					<a class="" href="/video_display.cfm?video_id=28892" title="It&#x27;s A Huge Trust Issue...">
+				
+				<div class="thumb-mini">
+					
+								<img class="img-thumbnail" src="/images/Toyota_RACER_RAV_RALLY_episode2_H264_399681AAB7CB72CCF22577B6AD2A156400CDE156.jpg" alt="It&#x27;s A Huge Trust Issue..." title="It&#x27;s A Huge Trust Issue...">
+							
+							<span class="play">
+								<span></span>
+							</span>
+						
+				</div>
+				
+					</a>
+				
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a class="" title="It&#x27;s A Huge Trust Issue...">
+													It&#x27;s A Huge Trust Issue...
+												</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">Off-road racer Ryan Millen&rsquo;s new challenge for 2015 is stage rallying. But the Baja 1000 class winner is taking the road less travelled, choosing to build and race a production-based Toyota RAV4. The family-friendly, crossover SUV will be competing against rally-honed machinery like the Ford Fiesta and Subaru WRX, but taking such a different approach is half the fun.<br>
+&nbsp;</div>
+											
+											
+											<div id="addThisFeaturedVidContent1" class="addThisContent">
+												
+												
+													<div class="sectionTags">
+														
+
+								
+								<script type="text/javascript">
+									var addthis_config = addthis_config||{};
+									addthis_config.data_track_addressbar = false;
+									addthis_config.data_track_clickback = false;
+								</script>
+
+								
+								<div class="addthis_toolbox addthis_default_style  noLoad"
+									addthis:url="http&#x3a;&#x2f;&#x2f;pressroom.toyota.com&#x2f;video_display.cfm&#x3f;video_id&#x3d;28892"
+					       			addthis:title="It&#x27;s A Huge Trust Issue...">
+									<a class="addthis_button_facebook noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_twitter noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_google_plusone_share noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_linkedin noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_pinterest_share noLoad" style="cursor:pointer"></a>
+									
+									<a class="addthis_button_email noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_compact noLoad"><span class="addThisCall"></span></a>
+									
+			<a href="javascript:add_cart_item('28892','video','2564');" class="tek-button-addcart tek-at300" title="Add To Cart"></a>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+								</div>
+								
+													</div>
+													<a href="/video_display.cfm?video_id=28892" class="dnldLink noLoad splash" title="Download">Download Video</a>
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							
+
+								
+								
+								<div id="loadVideo_2" class="videoToLoad  addThisCall noIco" data-loadid="video_28883"
+													data-add_this_sec_id = "0"
+													data-dnldlnk="/video_display.cfm?video_id=28883"
+													data-add_this_id="28883"
+													data-add_this_url="/video_display.cfm?video_id=28883"
+													data-add_this_sm_type="P"
+													data-add_this_sm_title="Father&rsquo;s Day Reunion &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota"
+													data-add_this_sm_seo_type="video"
+													data-add_this_allow_display_share="1"
+													data-sm_content_type_id="2564"
+													data-add_this_content_id="addThisFeaturedVidContent2"
+													data-add_this_do_print=0>
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											
+					<a class="" href="/video_display.cfm?video_id=28883" title="Father&rsquo;s Day Reunion &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota">
+				
+				<div class="thumb-mini">
+					
+				<img class="img-thumbnail" src="/graphics/9021/thumbnail_toyota.jpg" alt="Father’s Day Reunion / Presented by The Bold 2015 Camry / Toyota" title="Father’s Day Reunion / Presented by The Bold 2015 Camry / Toyota">
+			
+							<span class="play">
+								<span></span>
+							</span>
+						
+				</div>
+				
+					</a>
+				
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a class="" title="Father&rsquo;s Day Reunion &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota">
+													Father&rsquo;s Day Reunion &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota
+												</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">What do most dads want for Father&rsquo;s Day? To spend time with their kids. Which is why Toyota sent one L.A. native on a thousand-mile journey to spend Father&rsquo;s Day with his dad for the first time in 13 years. #OneBoldChoice</div>
+											
+											
+											<div id="addThisFeaturedVidContent2" class="addThisContent">
+												
+												
+													<div id="addThisFeaturedVidContent2" class="addThisContent"></div>
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							
+
+								
+								
+								<div id="loadVideo_3" class="videoToLoad  addThisCall noIco" data-loadid="video_28882"
+													data-add_this_sec_id = "0"
+													data-dnldlnk="/video_display.cfm?video_id=28882"
+													data-add_this_id="28882"
+													data-add_this_url="/video_display.cfm?video_id=28882"
+													data-add_this_sm_type="P"
+													data-add_this_sm_title="Father&rsquo;s Day Redo &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota"
+													data-add_this_sm_seo_type="video"
+													data-add_this_allow_display_share="1"
+													data-sm_content_type_id="2564"
+													data-add_this_content_id="addThisFeaturedVidContent3"
+													data-add_this_do_print=0>
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											
+					<a class="" href="/video_display.cfm?video_id=28882" title="Father&rsquo;s Day Redo &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota">
+				
+				<div class="thumb-mini">
+					
+				<img class="img-thumbnail" src="/graphics/9021/thumbnail_toyota.jpg" alt="Father’s Day Redo / Presented by The Bold 2015 Camry / Toyota" title="Father’s Day Redo / Presented by The Bold 2015 Camry / Toyota">
+			
+							<span class="play">
+								<span></span>
+							</span>
+						
+				</div>
+				
+					</a>
+				
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a class="" title="Father&rsquo;s Day Redo &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota">
+													Father&rsquo;s Day Redo &#x2f; Presented by The Bold 2015 Camry &#x2f; Toyota
+												</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">When it comes to Father&rsquo;s Day, dads usually get the short end of the stick. We learned that people spend about $7 billion more for Mother&rsquo;s Day than for Father&rsquo;s Day. In fact, many dads are lucky to even get a card or call. This year, Toyota wanted to help make Father&rsquo;s Day mean something more. #OneBoldChoice</div>
+											
+											
+											<div id="addThisFeaturedVidContent3" class="addThisContent">
+												
+												
+													<div id="addThisFeaturedVidContent3" class="addThisContent"></div>
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							
+							<div class="clearfix"></div>
+							<div class="moreItems"><a href="/video/">more videos</a></div>
+						</div>
+					
+						<script type="text/javascript">
+							$(function() {
+								$("body").on("click", ".photoToLoad", function(event){
+									var clickedClass = $(event.target).attr('class');
+									var clickedNode = event.target.nodeName;
+
+									if(clickedClass == undefined || (clickedNode.toLowerCase() == 'div' && clickedClass.indexOf("noLoad") <= 0 && clickedClass != 'dnldLink')) {
+										
+										var vidId = $(this).data('loadid');
+										
+										$('.loadPhoto').addClass('hidePhoto');
+
+										
+										$('#' + vidId).removeClass('hidePhoto');
+
+										
+										$('.photoToLoad').removeClass('active');
+										
+										$(this).addClass('active');
+									}else if (clickedNode.toLowerCase() == 'img'){
+										var clickedNodeParent = $(this).closest('.photoToLoad').attr('id');
+
+										
+										var vidId = $("#" + clickedNodeParent).data('loadid');
+
+										
+										$('.loadPhoto').addClass('hidePhoto');
+
+										
+										$('#' + vidId).removeClass('hidePhoto');
+
+										
+										$('.photoToLoad').removeClass('active');
+										
+										$(this).addClass('active');
+									}else{
+										event.stopPropagation();
+										return true;
+									}
+								});
+							});
+						</script>
+
+						<h2>Featured Photos</h2>
+						<div class="railMultimediaBox image">
+							
+							
+								<div id="loadPhoto_28877" class="loadPhoto ">
+									
+				<div class="thumb-rr">
+					
+								<img class="img-thumbnail" src="/images/TTC_GroundBreaking_Aerial_DEF099B3CC711107B8A815432A6D9246DF1865C2_low.jpg" alt="Toyota Technical Center - York Township Expansion Groundbreaking 001" title="Toyota Technical Center - York Township Expansion Groundbreaking 001">
+							
+				</div>
+				
+								</div>
+							
+								<div id="loadPhoto_28830" class="loadPhoto hidePhoto">
+									
+				<div class="thumb-rr">
+					
+								<img class="img-thumbnail" src="/images/Toyota_Yellowstone_Battery_001_33E01F6405EF4678BFC9A91C6B775FE895CAA5E1_low.jpg" alt="2015 Toyota&#x2f;Yellowstone Lamar Buffalo Ranch Battery Project 001" title="2015 Toyota&#x2f;Yellowstone Lamar Buffalo Ranch Battery Project 001">
+							
+				</div>
+				
+								</div>
+							
+								<div id="loadPhoto_28787" class="loadPhoto hidePhoto">
+									
+				<div class="thumb-rr">
+					
+								<img class="img-thumbnail" src="/images/Toyota_Mirai_Pace_Car1_4_23_15_001_577DAAC822981C228D553F3A5B563F51D944CA1A_low.jpg" alt="2015 Motorsports - 2016 Toyota Mirai Pace Car 001" title="2015 Motorsports - 2016 Toyota Mirai Pace Car 001">
+							
+				</div>
+				
+								</div>
+							
+								<div id="loadPhoto_28678" class="loadPhoto hidePhoto">
+									
+				<div class="thumb-rr">
+					
+								<img class="img-thumbnail" src="/images/2015_NYIAS_2016ToyotaRAV4Hybrid_Reveal_002_66903_42747_low.jpg" alt="2015 NYIAS - 2016 Toyota RAV4 Hybrid Reveal 002" title="2015 NYIAS - 2016 Toyota RAV4 Hybrid Reveal 002">
+							
+				</div>
+				
+								</div>
+							
+								<div id="loadPhoto_28667" class="loadPhoto hidePhoto">
+									
+				<div class="thumb-rr">
+					
+								<img class="img-thumbnail" src="/images/2015_NYAS_Lexus_RX_Reveal_002_66862_2524_low.jpg" alt="2015 NYIAS - 2016 Lexus RX Reveal 002" title="2015 NYIAS - 2016 Lexus RX Reveal 002">
+							
+				</div>
+				
+								</div>
+							
+								<div id="loadPhoto_28662" class="loadPhoto hidePhoto">
+									
+				<div class="thumb-rr">
+					
+								<img class="img-thumbnail" src="/images/2015_NYIAS_Scion_Reveal_003_66847_2524_low.jpg" alt="2015 Scion Momentum - 2016 Scion iM and iA Reveal 002" title="2015 Scion Momentum - 2016 Scion iM and iA Reveal 002">
+							
+				</div>
+				
+								</div>
+							
+
+								<div id="loadPhoto_1" class="photoToLoad active addThisCall noIco"
+										data-loadid="loadPhoto_28877"
+										data-dnldlnk="javascript:media_link_action('28877', '/photo_display.cfm?photo_id=28877&amp;download=true');"
+										data-dnldlnklow="javascript:media_link_action('28877', '/photo_display.cfm?photo_id=28877&amp;download=true&amp;lowres=1');"
+									    data-add_this_sec_id = "0"
+										data-add_this_id="28877"
+										data-add_this_url="/photo_display.cfm?photo_id=28877&view=lowres"
+										data-add_this_sm_type="P"
+										data-add_this_sm_title="Toyota Technical Center - York Township Expansion Groundbreaking 001"
+										data-add_this_sm_seo_type="photo"
+										data-add_this_allow_display_share="1"
+										data-sm_content_type_id="2562"
+										data-add_this_content_id="addThisFeaturedPhotoContent1"
+										data-add_this_do_print=0
+										>
+
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											<div class="photoPlayBtn">
+												
+				<div class="thumb-mini">
+					
+								<img class="img-thumbnail" src="/images/TTC_GroundBreaking_Aerial_DEF099B3CC711107B8A815432A6D9246DF1865C2_thumb.jpg" alt="Toyota Technical Center - York Township Expansion Groundbreaking 001" title="Toyota Technical Center - York Township Expansion Groundbreaking 001">
+							
+				</div>
+				
+											</div>
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a title="Terms and Conditions">Toyota Technical Center - York Township Expansion Groundbreaking 001</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">Toyota Technical Center breaks ground for its expansion on June 11, 2015. During the event, Toyota team members&nbsp;<strong>&ndash; </strong> and soon-to-be Michigan residents <strong>&ndash; </strong>stand at the construction site in the outline of where their future office building will sit.</div>
+											
+												
+												<div id="addThisFeaturedPhotoContent1" class="addThisContent">
+													<div class="sectionTags">
+														
+
+								
+								<script type="text/javascript">
+									var addthis_config = addthis_config||{};
+									addthis_config.data_track_addressbar = false;
+									addthis_config.data_track_clickback = false;
+								</script>
+
+								
+								<div class="addthis_toolbox addthis_default_style  noLoad"
+									addthis:url="http&#x3a;&#x2f;&#x2f;pressroom.toyota.com&#x2f;photo_display.cfm&#x3f;photo_id&#x3d;28877&amp;view&#x3d;lowres"
+					       			addthis:title="Toyota Technical Center - York Township Expansion Groundbreaking 001">
+									<a class="addthis_button_facebook noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_twitter noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_google_plusone_share noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_linkedin noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_pinterest_share noLoad" style="cursor:pointer"></a>
+									
+									<a class="addthis_button_email noLoad" style="cursor:pointer"></a>
+									<a class="addthis_button_compact noLoad"><span class="addThisCall"></span></a>
+									
+			<a href="javascript:add_cart_item('28877','photo','2562');" class="tek-button-addcart tek-at300" title="Add To Cart"></a>
+		
+		<script type="text/javascript">
+		function add_cart_item(a,b,c) {
+			$.fancybox({
+				'type' : 'iframe',
+				'href'	: "http://pressroom.toyota.com/cart_add_item.cfm?mode=addmediaitem&content_id="+a+"&content_type_desc="+b+"&content_type_id="+c,
+				'width' : 200,
+				'height' : 200
+			});
+		};
+		</script>
+		
+								</div>
+								
+													</div>
+
+													<a href="javascript:media_link_action('28877', '/photo_display.cfm?photo_id=28877&amp;download=true&amp;lowres=1');" class="dnldLnkLow noLoad splash" title="Download">Download Low Res.</a>
+													<a href="javascript:media_link_action('28877', '/photo_display.cfm?photo_id=28877&amp;download=true');" class="dnldLink noLoad splash" title="Download">Download High Res.</a>
+												</div>
+											
+										</div>
+									</div>
+								</div>
+							
+
+								<div id="loadPhoto_2" class="photoToLoad  addThisCall noIco"
+										data-loadid="loadPhoto_28830"
+										data-dnldlnk="javascript:media_link_action('28830', '/photo_display.cfm?photo_id=28830&amp;download=true');"
+										data-dnldlnklow="javascript:media_link_action('28830', '/photo_display.cfm?photo_id=28830&amp;download=true&amp;lowres=1');"
+									    data-add_this_sec_id = "0"
+										data-add_this_id="28830"
+										data-add_this_url="/photo_display.cfm?photo_id=28830&view=lowres"
+										data-add_this_sm_type="P"
+										data-add_this_sm_title="2015 Toyota&#x2f;Yellowstone Lamar Buffalo Ranch Battery Project 001"
+										data-add_this_sm_seo_type="photo"
+										data-add_this_allow_display_share="1"
+										data-sm_content_type_id="2562"
+										data-add_this_content_id="addThisFeaturedPhotoContent2"
+										data-add_this_do_print=0
+										>
+
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											<div class="photoPlayBtn">
+												
+				<div class="thumb-mini">
+					
+								<img class="img-thumbnail" src="/images/Toyota_Yellowstone_Battery_001_33E01F6405EF4678BFC9A91C6B775FE895CAA5E1_thumb.jpg" alt="2015 Toyota&#x2f;Yellowstone Lamar Buffalo Ranch Battery Project 001" title="2015 Toyota&#x2f;Yellowstone Lamar Buffalo Ranch Battery Project 001">
+							
+				</div>
+				
+											</div>
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a title="Terms and Conditions">2015 Toyota&#x2f;Yellowstone Lamar Buffalo Ranch Battery Project 001</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">At the Lamar Buffalo Ranch field campus in Yellowstone National Park, solar panels generate renewable electricity stored within 208 used Toyota Camry Hybrid battery packs.</div>
+											
+												<div id="addThisFeaturedPhotoContent2" class="addThisContent"></div>
+											
+										</div>
+									</div>
+								</div>
+							
+
+								<div id="loadPhoto_3" class="photoToLoad  addThisCall noIco"
+										data-loadid="loadPhoto_28787"
+										data-dnldlnk="javascript:media_link_action('28787', '/photo_display.cfm?photo_id=28787&amp;download=true');"
+										data-dnldlnklow="javascript:media_link_action('28787', '/photo_display.cfm?photo_id=28787&amp;download=true&amp;lowres=1');"
+									    data-add_this_sec_id = "0"
+										data-add_this_id="28787"
+										data-add_this_url="/photo_display.cfm?photo_id=28787&view=lowres"
+										data-add_this_sm_type="P"
+										data-add_this_sm_title="2015 Motorsports - 2016 Toyota Mirai Pace Car 001"
+										data-add_this_sm_seo_type="photo"
+										data-add_this_allow_display_share="1"
+										data-sm_content_type_id="2562"
+										data-add_this_content_id="addThisFeaturedPhotoContent3"
+										data-add_this_do_print=0
+										>
+
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											<div class="photoPlayBtn">
+												
+				<div class="thumb-mini">
+					
+								<img class="img-thumbnail" src="/images/Toyota_Mirai_Pace_Car1_4_23_15_001_577DAAC822981C228D553F3A5B563F51D944CA1A_thumb.jpg" alt="2015 Motorsports - 2016 Toyota Mirai Pace Car 001" title="2015 Motorsports - 2016 Toyota Mirai Pace Car 001">
+							
+				</div>
+				
+											</div>
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a title="Terms and Conditions">2015 Motorsports - 2016 Toyota Mirai Pace Car 001</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">The 2016 Toyota Mirai will be the first hydrogen fuel cell vehicle to pace a NASCAR race in the Toyota Owners 400 NASCAR Sprint Cup Series race at Richmond International Raceway Saturday night, April 25, 2015. Photo: Toyota Racing</div>
+											
+												<div id="addThisFeaturedPhotoContent3" class="addThisContent"></div>
+											
+										</div>
+									</div>
+								</div>
+							
+
+								<div id="loadPhoto_4" class="photoToLoad  addThisCall noIco"
+										data-loadid="loadPhoto_28678"
+										data-dnldlnk="javascript:media_link_action('28678', '/photo_display.cfm?photo_id=28678&amp;download=true');"
+										data-dnldlnklow="javascript:media_link_action('28678', '/photo_display.cfm?photo_id=28678&amp;download=true&amp;lowres=1');"
+									    data-add_this_sec_id = "0"
+										data-add_this_id="28678"
+										data-add_this_url="/photo_display.cfm?photo_id=28678&view=lowres"
+										data-add_this_sm_type="P"
+										data-add_this_sm_title="2015 NYIAS - 2016 Toyota RAV4 Hybrid Reveal 002"
+										data-add_this_sm_seo_type="photo"
+										data-add_this_allow_display_share="1"
+										data-sm_content_type_id="2562"
+										data-add_this_content_id="addThisFeaturedPhotoContent4"
+										data-add_this_do_print=0
+										>
+
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											<div class="photoPlayBtn">
+												
+				<div class="thumb-mini">
+					
+								<img class="img-thumbnail" src="/images/2015_NYIAS_2016ToyotaRAV4Hybrid_Reveal_002_66902_42747_thumb.jpg" alt="2015 NYIAS - 2016 Toyota RAV4 Hybrid Reveal 002" title="2015 NYIAS - 2016 Toyota RAV4 Hybrid Reveal 002">
+							
+				</div>
+				
+											</div>
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a title="Terms and Conditions">2015 NYIAS - 2016 Toyota RAV4 Hybrid Reveal 002</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">Bill Fay, Group Vice President and General Manager of Toyota Division speaks with media after the reveal of the all-new 2016 Toyota RAV4 Hybrid at the 2015 New York Auto Show on April 2, 2015. Photo: Joe Polimeni/Toyota</div>
+											
+												<div id="addThisFeaturedPhotoContent4" class="addThisContent"></div>
+											
+										</div>
+									</div>
+								</div>
+							
+
+								<div id="loadPhoto_5" class="photoToLoad  addThisCall noIco"
+										data-loadid="loadPhoto_28667"
+										data-dnldlnk="javascript:media_link_action('28667', '/photo_display.cfm?photo_id=28667&amp;download=true');"
+										data-dnldlnklow="javascript:media_link_action('28667', '/photo_display.cfm?photo_id=28667&amp;download=true&amp;lowres=1');"
+									    data-add_this_sec_id = "0"
+										data-add_this_id="28667"
+										data-add_this_url="/photo_display.cfm?photo_id=28667&view=lowres"
+										data-add_this_sm_type="P"
+										data-add_this_sm_title="2015 NYIAS - 2016 Lexus RX Reveal 002"
+										data-add_this_sm_seo_type="photo"
+										data-add_this_allow_display_share="1"
+										data-sm_content_type_id="2562"
+										data-add_this_content_id="addThisFeaturedPhotoContent5"
+										data-add_this_do_print=0
+										>
+
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											<div class="photoPlayBtn">
+												
+				<div class="thumb-mini">
+					
+								<img class="img-thumbnail" src="/images/2015_NYAS_Lexus_RX_Reveal_002_66861_2524_thumb.jpg" alt="2015 NYIAS - 2016 Lexus RX Reveal 002" title="2015 NYIAS - 2016 Lexus RX Reveal 002">
+							
+				</div>
+				
+											</div>
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a title="Terms and Conditions">2015 NYIAS - 2016 Lexus RX Reveal 002</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">Lexus Group Vice President and General Manager Jeff Bracken reveals the 2016 Lexus RX and RX Hybrid at the New York International Auto Show April 1, 2015. Photo: Joe Polimeni</div>
+											
+												<div id="addThisFeaturedPhotoContent5" class="addThisContent"></div>
+											
+										</div>
+									</div>
+								</div>
+							
+
+								<div id="loadPhoto_6" class="photoToLoad  addThisCall noIco"
+										data-loadid="loadPhoto_28662"
+										data-dnldlnk="javascript:media_link_action('28662', '/photo_display.cfm?photo_id=28662&amp;download=true');"
+										data-dnldlnklow="javascript:media_link_action('28662', '/photo_display.cfm?photo_id=28662&amp;download=true&amp;lowres=1');"
+									    data-add_this_sec_id = "0"
+										data-add_this_id="28662"
+										data-add_this_url="/photo_display.cfm?photo_id=28662&view=lowres"
+										data-add_this_sm_type="P"
+										data-add_this_sm_title="2015 Scion Momentum - 2016 Scion iM and iA Reveal 002"
+										data-add_this_sm_seo_type="photo"
+										data-add_this_allow_display_share="1"
+										data-sm_content_type_id="2562"
+										data-add_this_content_id="addThisFeaturedPhotoContent6"
+										data-add_this_do_print=0
+										>
+
+									<div class="row">
+										<div class="col-md-4 playLeft">
+											<div class="photoPlayBtn">
+												
+				<div class="thumb-mini">
+					
+								<img class="img-thumbnail" src="/images/2015_NYIAS_Scion_Reveal_003_66846_2524_thumb.jpg" alt="2015 Scion Momentum - 2016 Scion iM and iA Reveal 002" title="2015 Scion Momentum - 2016 Scion iM and iA Reveal 002">
+							
+				</div>
+				
+											</div>
+										</div>
+										<div class="col-md-8 playRight">
+											<h3 class="media-kiosk">
+												<a title="Terms and Conditions">2015 Scion Momentum - 2016 Scion iM and iA Reveal 002</a>
+											</h3>
+											
+											
+												<div class="media-kiosk">Scion Group Vice President Doug Murtha reveals the Scion iM and iA at the Scion Momentum event in New York on March 31, 2015. Photo: Joe Polimeni</div>
+											
+												<div id="addThisFeaturedPhotoContent6" class="addThisContent"></div>
+											
+										</div>
+									</div>
+								</div>
+							
+							<div class="clearfix"></div>
+							<div class="moreItems"><a href="/photos/">more photos</a></div>
+						</div>
+					
+	<h2>Follow Us</h2>
+	
+		<a href="http://www.facebook.com/toyota" class="rrSM" id="facebook" target="_blank"></a>
+	
+		<a href="https://twitter.com/Toyota" class="rrSM" id="twitter" target="_blank"></a>
+	
+		<a href="http://www.youtube.com/user/ToyotaUSA" class="rrSM" id="youtube" target="_blank"></a>
+	
+		<a href="http://instagram.com/ToyotaUSA" class="rrSM" id="instagram" target="_blank"></a>
+	
+		<a href="https://plus.google.com/+toyotausa/posts" class="rrSM" id="gplus" target="_blank"></a>
+	
+		<a href="http://pinterest.com/toyotausa" class="rrSM" id="pinterest" target="_blank"></a>
+	
+		<a href="http://new.livestream.com/Toyota" class="rrSM" id="livestream" target="_blank"></a>
+	
+	<a href="/register.cfm" class="rrSM" id="email"></a>
+	<a href="/rss_feeds.cfm" class="rrSM" id="rss"></a>
+
+	<h2>Related Sites</h2>
+	
+		<div class="rrRelated"><span class="relatedSite">Toyota USA</span>&nbsp;<a href="http://www.toyota.com" target="_blank">www.toyota.com</a></div>
+	
+		<div class="rrRelated"><span class="relatedSite">Toyota Global</span>&nbsp;<a href="http://www.toyota-global.com" target="_blank">www.toyota-global.com</a></div>
+	
+		<div class="rrRelated"><span class="relatedSite">Toyota Global Newsroom</span>&nbsp;<a href="http://newsroom.toyota.co.jp/" target="_blank">newsroom.toyota.co.jp&#x2f;</a></div>
+	
+		<div class="rrRelated"><span class="relatedSite">Toyota Europe Newsroom</span>&nbsp;<a href="http://newsroom.toyota.eu" target="_blank">newsroom.toyota.eu</a></div>
+	
+		<div class="rrRelated"><span class="relatedSite">Toyota Canada Newsroom</span>&nbsp;<a href="http://media.toyota.ca/pr/tci/en/default.aspx" target="_blank">media.toyota.ca&#x2f;pr&#x2f;tci&#x2f;en&#x2f;default.aspx</a></div>
+	
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+	<footer>
+		<div class="spacer15"></div>
+		<hr class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-2">
+					Company
+					
+							<ul class="footer list-unstyled">
+								<li><a href="http://www.toyota.com/" target="_blank">Toyota</a></li>
+								<li><a href="http://www.toyotafinancial.com/" target="_blank">Toyota Financial</a></li>
+								<li><a href="http://www.toyotaracing.com/" target="_blank">Toyota Motorsports</a></li>
+								<li><a href="http://www.toyota.com/espanol" target="_blank">Toyota en Espa&#241;ol</a></li>
+							</ul>
+						
+				</div><!-- end col-sm-2 -->
+
+				<div class="col-sm-2">
+					Connect
+					
+							<ul class="footer list-unstyled">
+								<li><a href="/toyota/social/">Toyota Social</a></li>
+								<li><a href="/rss_feeds.cfm">RSS</a></li>
+							</ul>
+						
+				</div><!-- end col-sm-2 -->
+
+				<div class="col-sm-2">
+					Policies
+					
+							<ul class="footer list-unstyled">
+								<li><a href="/terms-agreements/">Legal Terms</a></li>
+								<li><a href="/social-policy/">Social Policy</a></li>
+							</ul>
+						
+				</div><!-- end col-sm-2 -->
+
+				<div class="col-sm-6">
+					<h4 id="mediaContactsFooter" class="pull-right">
+						<a href="http://pressroom.toyota.com/contacts/"><span id="mediaIco" style="margin-right: 5px;"></span>media contacts</a>
+					</h4>
+					<div class="clearfix"></div>
+					<h4 id="mediaContactsFooter" class="pull-right">
+						<a href="mailto:Brin_Wall@Toyota.com">website assistance</a>
+					</h4>
+					<div class="clearfix"></div>
+					<p class="pull-right">&copy; Toyota Motor Sales, U.S.A., Inc.</p>
+					<div class="clearfix"></div>
+				</div><!-- end col-sm-6 -->
+			</div><!-- end row -->
+		</div><!-- end container -->
+
+	</footer>
+
+	
+	<div style="display:none;">
+		
+		<input type="text" name="disable_popup_flg" id="disable_popup_flg" class="form-control" size="2" value="0">
+	</div>
+
+		
+		<script type="text/javascript">
+			$(function(){
+				
+				var supportsTouch = 'ontouchstart' in window || navigator.msMaxTouchPoints;
+				if(supportsTouch){
+					var aTouchEvent = "touchend";
+				}else{
+					var aTouchEvent = "click";
+					
+					$( ".dropdown-toggle" ).removeAttr( "data-toggle");
+					$( ".dropdown-toggle" ).attr( "data-hover", "dropdown");
+				}
+			});
+		</script>
+
+		<script src="/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+
+		
+
+		
+		
+		<script type="text/javascript" src="/js/condensed.min.js"></script>
+
+
+		
+		<script type="text/javascript">
+			$(function(){
+				
+				var supportsTouch = 'ontouchstart' in window || navigator.msMaxTouchPoints;
+				if(supportsTouch){
+					var aTouchEvent = "touchstart";
+					$( ".dropdown-toggle" ).removeAttr( "data-hover");
+					$( ".dropdown-toggle" ).attr( "data-toggle", "dropdown");
+				}else{
+					var aTouchEvent = "click";
+					
+					$( ".dropdown-toggle" ).removeAttr( "data-toggle");
+					$( ".dropdown-toggle" ).attr( "data-hover", "dropdown");
+				}
+
+				function ajaxDDMenuContent(){
+					var viewportWidth = $(window).width();
+					$( "li.hoverSectionArticles" ).unbind();
+
+					
+					if(viewportWidth > 768){
+						
+						$( "li.hoverSectionArticles" ).on( "mouseover", function() {
+							var sec_id = $(this).data("sectionid");
+							var appendClass = "articlesAfterHere_" + $(this).data("classid");
+							var sectionType= $(this).data("sectioncontenttype");
+
+							
+							var request = $.ajax({
+								url: "/rmt/rmtMng.cfc?method=getHeaderContent",
+								type: "POST",
+								data: {railRootId : sec_id,
+									   sectionType: sectionType
+									  },
+								dataType: "html"
+							});
+
+							request.done(function(data) {
+								$('.removeItems').remove();
+								$( "." + appendClass).after(data);
+							});
+						});
+						$(".vertNav").after('<li class="displayInline removeItems col-md-3 hidden-xs hidden-sm"></li><li class="displayInline removeItems col-md-3 hidden-xs hidden-sm"></li><li class="displayInline removeItems col-md-3 hidden-xs hidden-sm"></li>');
+					}else{
+						
+						$( "li.hoverSectionArticles" ).unbind();
+					};
+				};
+
+				function menuFlyout(){
+					var viewportWidth = $(window).width();
+					$( "a.topLevelLink" ).unbind();
+					$( ".menuClose" ).unbind();
+
+					
+					if(viewportWidth <= 768 || viewportWidth >= 768 && viewportWidth <= 1024 && supportsTouch && window.matchMedia("(orientation: landscape)").matches){
+						
+						$('a.topLevelLink').on( aTouchEvent, function(e) {
+							$(this).attr('href','javascript:void(0)');
+						});
+
+						
+						$( ".topLevelLink" ).on( aTouchEvent, function(e) {
+							e.preventDefault();
+
+							var showBrand = $(this).data("brandid");
+
+							$('.brand_nav_container').css('display','none');
+
+							
+							 // run the effect
+							$( "#slide_right").animate({
+								left: "325"
+							}, {queue: false,duration: 1000}, function() {
+								// Animation complete.
+								$("#left_flyout_menu").css('z-index','9999');
+							});
+							$( "#left_flyout_menu").animate({
+								left: "0"
+							}, {queue: false,duration: 1000}, function() {
+								// Animation complete.
+							});
+							$("#brand_" + showBrand).css('display','block');
+
+							$( ".dropdown-toggle" ).removeAttr( "data-hover");
+							$( ".dropdown-toggle" ).attr( "data-toggle", "dropdown");
+						});
+
+						$( ".menuClose" ).on( aTouchEvent, function() {
+							$("#left_flyout_menu").css('z-index','9');
+							 // run the effect
+							
+							$( "#slide_right").animate({
+								left: "0"
+							}, {queue: false,duration: 1000}, function() {
+								// Animation complete.
+								$("#left_flyout_menu").css('z-index','9999');
+							});
+							$( "#left_flyout_menu").animate({
+								left: "-325"
+							}, {queue: false,duration: 1000}, function() {
+								// Animation complete.
+							});
+
+						});
+
+					}else{
+						$('a.topLevelLink').each(function( index ) {
+							
+							var thisHref = $(this).data("linkref");
+							$(this).attr('href',thisHref);
+						});
+					}
+				};
+
+				function testViewport(){
+					var viewportWidth = $(window).width();
+
+					
+					if(viewportWidth <= 768 || viewportWidth >= 768 && viewportWidth <= 1024 && supportsTouch && window.matchMedia("(orientation: landscape)").matches){
+					//if(viewportWidth <= 768 || (viewportWidth >= 768 && viewportWidth <= 1024 && window.matchMedia("(orientation: landscape)").matches)){
+						
+						
+						$( ".headernavigation").addClass('displayNone');
+						$( ".brand").removeClass('dropdown');
+
+						$( ".dropdown-toggle" ).removeAttr( "data-hover");
+						$( ".dropdown-toggle" ).attr( "data-toggle", "dropdown");
+
+						
+						$('a.topLevelLink').on( aTouchEvent, function(e) {
+							$(this).attr('href','javascript:void(0)');
+						});
+
+
+					}else{
+						$( ".brand").addClass('dropdown');
+						$( ".dropdown-menu").removeClass('displayNone');
+						$( ".dropdown-toggle" ).removeAttr( "data-toggle");
+						$( ".dropdown-toggle" ).attr( "data-hover","dropdown");
+
+						$('a.topLevelLink').each(function( index ) {
+							
+							var thisHref = $(this).data("linkref");
+							$(this).attr('href',thisHref);
+						});
+					}
+				}
+
+				ajaxDDMenuContent();
+				menuFlyout();
+				testViewport();
+
+				
+				$( window ).resize(function() {
+					ajaxDDMenuContent();
+					menuFlyout();
+					testViewport();
+				});
+			});
+		</script>
+
+	
+			<div style="display: none;">
+				<div id="loginwarning" style="width:400px;height:200px;overflow:hidden;">
+
+						<b>You must be logged in to view this item.</b><br>
+						
+						<form action="/login.cfm" method="post">
+							<label for="login_id">Login:</label><br>
+							<input type="text" name="login_id" id="login_id" class="form-control" size="25"><br>
+
+							<label for="site_pass">Password:</label><br>
+							<input type="password" name="site_pass" id="site_pass" class="form-control" size="25"><br>
+
+							
+							<input type="submit" name="submit" value="Login" class="tekbutton" tabindex="3">
+							<input type="hidden" name="new_path_info" value="&#x2f;index.cfm">
+						</form>
+
+				</div>
+			</div>
+			
+			<div style="display: none;">
+				<div id="nonmediawarning" style="width:400px;height:120px;overflow:hidden;">
+					<p>
+						This area is reserved for members of the news media. If you qualify, please <a href="/user_profile.cfm">update your user
+						profile</a> and check the box marked "Check here to register as an accredited member of the news media". Please include any notes
+						in the "Supporting information for media credentials" box. We will notify you of your status via e-mail in one business day.
+					</p>
+				</div>
+			</div>
+			
+				<div id="wrap_tandc_warning">
+				<div id="tandcwarning">
+			
+					<p><p><b>Copyright Notice</b></p><p>All materials on this site are for editorial use only.  The use of these materials for advertising, marketing or any other commercial purpose is prohibited. They may be cropped but not otherwise modified. To download these materials, you must agree to abide by these terms.</p> <P></p>
+
+					<form action="/photo_display.cfm" method="post">
+						<input type="hidden" name="photo_id" id="photo_id" value="0">
+						<input type="hidden" name="intended_url" value="intended_url" id="intended_url">
+						<input type="hidden" name="tandc_check" id="tandc_check" value="1">
+						<input type="hidden" name="download" id="download" value="true">
+						
+							<div class="text-center">
+								<input type="button" name="iagreetotandc" id="iagreetotandc" value="I agree to the terms" class="tekbutton">
+							</div>
+						
+					</form>
+
+				</div>
+			</div>
+			
+		
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	
+
+	
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=tekgroupcsm"></script>
+
+	
+	</div>
+	</body>
+</html>
