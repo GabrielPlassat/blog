@@ -3,7 +3,11 @@ layout: post
 title: "Quel financement possible pour les transports publics ?"
 date: 2011-12-07 17:48:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'commuter', 'données réelles', 'Infrastructure', 'innovation', 'stationnement']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "donn\u00e9es r\u00e9elles", "Infrastructure", "innovation", "stationnement"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ce sujet largement [**étudié **](http://www.predit.prd.fr/predit4/politiques-de-transport/)est éclairé par l'actualité récente. D'une part Veolia vient de décider de se séparer de sa branche transport car [**le transport est une activité capitalistique et ne rentre pas dans nos priorités d'investissement**]()", et d'autre part, le [**tarif unique en île de France**]() soulève la question de son financement.
@@ -151,7 +155,11 @@ Des solutions de tarification dynamique sont étudiées comme le [road pricing](
 
 **Pensez le financement des transports publics nécessite de penser l'intégralité des modes de transports en considérant les véhicules, les infrastructures, et sans doute demain les énergies. La présentation ci dessous résume en 20 diapos cette vision systémique **:
 
+<<<<<<< HEAD
  [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2011-12-07 17:48:44https://transportsdufutur.ademe.fr/2011/12/quel-financement-possible-pour-les-transports-publics.htmlautorité des transports|citoyen|collectivité|commuter|données réelles|Infrastructure|innovation|stationnementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatquel-financement-possible-pour-les-transports-publics2015-07-21 16:36:40>[Financement Transports publics ]() 
+=======
+ [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2011-12-07 17:48:44/2011/12/07/quel-financement-possible-pour-les-transports-publics/autorité des transports|citoyen|collectivité|commuter|données réelles|Infrastructure|innovation|stationnementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatquel-financement-possible-pour-les-transports-publics2015-07-21 16:36:40>[Financement Transports publics ]() 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

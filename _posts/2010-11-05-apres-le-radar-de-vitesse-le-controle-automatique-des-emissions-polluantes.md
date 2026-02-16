@@ -3,7 +3,11 @@ layout: post
 title: "Après le radar de vitesse, le contrôle automatique des émissions polluantes"
 date: 2010-11-05 16:02:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['emission', 'surveillance', 'Véhicule']
+=======
+tags: ["emission", "surveillance", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les technologies de mesures progressent permettant d'avoir de nouveaux outils de surveillance (voir **[ici ](/2010/03/apres-la-surveillance-la-sousveillance.html)**le sujet de la surveillance). Il est désormais possible de connaître les émissions réelles en bord de route comme on contrôle une vitesse. Tous les usages de cette nouvelle donnée sont possibles : tarifs adaptés, interdiction, verbalisation, ...

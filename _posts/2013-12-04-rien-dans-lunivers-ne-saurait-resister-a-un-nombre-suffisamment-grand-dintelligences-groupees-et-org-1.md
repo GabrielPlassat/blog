@@ -3,7 +3,11 @@ layout: post
 title: "Rien dans l'univers ne saurait résister à un nombre suffisamment grand d'intelligences groupées et organisées"
 date: 2013-12-04 23:01:05 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'innovation', 'intelligence collective', 'open innovation', 'plate-forme', "Plateforme d'idées"]
+=======
+tags: ["ADEME", "innovation", "intelligence collective", "open innovation", "plate-forme", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cette citation de Teihard de Chardin résume une certaine perception de ces deux jours du séminaire Mobilités Mutations (Petit rappel vers [**la plate-forme**](https://transportation-mobility.cloud.3ds.com/#community:811), outil de synchronisation du collectif). Deux jours pour donner et recevoir. Donner son opinion, ses idées, ses rêves, ses aspirations, ses richesses. Recevoir des points de vues, des énergies, des connaissances, des visions du futur, et recevoir des raisons de croire qu'un intérêt collectif peut transcender les intérêts individuels. 
@@ -40,4 +44,8 @@ Puis mettre en oeuvre des processus et des techniques virales pour que se propag
 
  
 
+<<<<<<< HEAD
 "2013-12-04 23:01:05https://transportsdufutur.ademe.fr/2013/12/rien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-1.htmlADEME|innovation|intelligence collective|open innovation|plate-forme|Plateforme d'idéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-12015-07-21 16:35:37
+=======
+"2013-12-04 23:01:05/2013/12/04/rien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-1/ADEME|innovation|intelligence collective|open innovation|plate-forme|Plateforme d'idéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-12015-07-21 16:35:37
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

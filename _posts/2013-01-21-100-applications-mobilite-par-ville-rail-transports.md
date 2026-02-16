@@ -3,7 +3,11 @@ layout: post
 title: "100 applications Mobilité par Ville, Rail & Transports"
 date: 2013-01-21 12:20:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['application', 'assistant de mobilité', 'autopartage', 'citoyen', 'commuter', 'congestion', 'connectivité', 'covoiturage', 'donnée data', 'Efficacité énergétique', 'gratuit', 'internet']
+=======
+tags: ["application", "assistant de mobilit\u00e9", "autopartage", "citoyen", "commuter", "congestion", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gratuit", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Simplificateur et facilitateur, reliant les usagers, créateur de nouvelles données, notre assistant personnel de mobilité (APM) est là. Comme cela a été décrit dans la **[MétaNote N°10](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**, il s'agit d'un premier niveau. La vague suivante va aggréger de nombreuses applications, automatiser de nombreuses tâches, autodéterminer et choisir elle-même des options. L'APM aspire à lui les innovations. Mais plus que tout, c'est bien le caractère bi-directionnel des flux de données qui est réellement inédit. L'utilisateur accède à des connaissances contextualisées lui permettant de résoudre son problème, de choisir en fonction de", et c'est précisement ce choix individuel "en fonction de" qui est appris, intégré, mis en forme et ré-introduit dans les modèles. 
@@ -20,6 +24,10 @@ La magazine Ville, Rail & Transports propose une liste à jour des 100 principal
 
  
 
+<<<<<<< HEAD
  ** [100 applications transports]() ** from **[Les transports du futur]()** "2013-01-21 12:20:07https://transportsdufutur.ademe.fr/2013/01/100-applications-mobilite-par-ville-rail-transports.htmlapplication|assistant de mobilité|autopartage|citoyen|commuter|congestion|connectivité|covoiturage|donnée data|Efficacité énergétique|gratuit|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassat100-applications-mobilite-par-ville-rail-transports2015-07-21 16:35:45width=""479""> 
+=======
+ ** [100 applications transports]() ** from **[Les transports du futur]()** "2013-01-21 12:20:07/2013/01/21/100-applications-mobilite-par-ville-rail-transports/application|assistant de mobilité|autopartage|citoyen|commuter|congestion|connectivité|covoiturage|donnée data|Efficacité énergétique|gratuit|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassat100-applications-mobilite-par-ville-rail-transports2015-07-21 16:35:45width=""479""> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  ** [100 applications transports]() ** from **[Les transports du futur]()** "

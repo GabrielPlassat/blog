@@ -3,7 +3,11 @@ layout: post
 title: "Créer de nouvelles connaissances - le fond et la forme"
 date: 2013-03-20 10:11:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'confiance', 'données réelles', 'externalité', 'gouvernance', 'Infrastructure', 'innovation', 'intelligence collective', 'internet des objets', 'management de la mobilité', 'mode doux', 'multimodes', 'partage de données', 'partage de la voirie', 'péage urbain']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "confiance", "donn\u00e9es r\u00e9elles", "externalit\u00e9", "gouvernance", "Infrastructure", "innovation", "intelligence collective", "internet des objets", "management de la mobilit\u00e9", "mode doux", "multimodes", "partage de donn\u00e9es", "partage de la voirie", "p\u00e9age urbain"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 TrafficCOM incarne de nouvelles règles, de nouvelles relations entre les citoyens, de nouveaux modes de conception et de design, de nouveaux modes de gouvernance et de décision et de nouveaux modèles d'affaires également. Tout cela à la fois. Le fond et la forme.
@@ -28,4 +32,8 @@ Poursuivez cette tendance en ajoutant un peu d'internet des objets pour rendre c
 
  
 
+<<<<<<< HEAD
 "2013-03-20 10:11:55https://transportsdufutur.ademe.fr/2013/03/creer-de-nouvelles-connaissances-le-fond-et-la-forme.htmlcité|citoyen|collectivité|confiance|données réelles|externalité|gouvernance|Infrastructure|innovation|intelligence collective|internet des objets|management de la mobilité|mode doux|multimodes|partage de données|partage de la voirie|péage urbainpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcreer-de-nouvelles-connaissances-le-fond-et-la-forme2015-07-21 16:35:44
+=======
+"2013-03-20 10:11:55/2013/03/20/creer-de-nouvelles-connaissances-le-fond-et-la-forme/cité|citoyen|collectivité|confiance|données réelles|externalité|gouvernance|Infrastructure|innovation|intelligence collective|internet des objets|management de la mobilité|mode doux|multimodes|partage de données|partage de la voirie|péage urbainpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcreer-de-nouvelles-connaissances-le-fond-et-la-forme2015-07-21 16:35:44
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

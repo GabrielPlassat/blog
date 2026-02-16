@@ -3,7 +3,11 @@ layout: post
 title: "Google soutient un projet de mobilité - Shweeb - à hauteur de 1 M$"
 date: 2010-09-27 20:49:18 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['google', 'internet', 'mode doux', 'philanthropie', 'vélo']
+=======
+tags: ["google", "internet", "mode doux", "philanthropie", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Déjà détaillé dans ce blog (voir **[ici](/2010/03/shweeb.html)**), **[Shweeb](http://shweeb.com/)** est un concept de transport individuel en milieu urbain pour des trajets courts et moyens, dans des nacelles à pédale lancées sur un monorail. Google propose la somme d'1 million de dollars américains pour financer la recherche et le développement de la technologie Shweeb, afin qu'elle puisse être testée en milieu urbain.

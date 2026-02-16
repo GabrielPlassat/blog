@@ -3,7 +3,11 @@ layout: post
 title: "Walkscore Appartment révolutionne la recherche d'un bien immobilier par les données de transports"
 date: 2011-09-28 16:18:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'données réelles', "guide d'achat", 'marchabilité', 'mode doux']
+=======
+tags: ["cit\u00e9", "citoyen", "donn\u00e9es r\u00e9elles", "guide d'achat", "marchabilit\u00e9", "mode doux"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**Walkscore **](http://www.walkscore.com)(déjà mentionné [**ICI**](/2010/08/lier-choix-de-lieux-dhabitations-et-de-transports.html)) permet de déterminer un indice de marchabilité d'un bien immobilier pour accéder à des services (école, supermarché, ...) à pied. Cet indice s'est largement diffusé dans plusieurs villes américaines, jusqu'à être repris par les agences immobilières pour mieux vendre un bien. Désormais plusieurs agences indiquent pour chaque bien, l'indice de marchabilité.

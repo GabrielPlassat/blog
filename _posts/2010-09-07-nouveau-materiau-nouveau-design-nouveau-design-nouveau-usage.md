@@ -3,7 +3,11 @@ layout: post
 title: "Nouveau matériau, nouveau design - nouveau design, nouveau usage"
 date: 2010-09-07 15:15:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['allemagne', 'léger', 'VE']
+=======
+tags: ["allemagne", "l\u00e9ger", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Apple a breveté, au départ pour le [Macbook](http://www.maccro.net/20100303105/le-design-unibody-appartient-definitivement-a-apple.html), le design apporté notamment par le procédé de fabrication de la coque arrière de l'ordinateur. Ce design permet une reconnaissance immédiate du produit, et lui donne une finesse inédite.

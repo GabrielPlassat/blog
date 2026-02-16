@@ -3,7 +3,11 @@ layout: post
 title: "La donnée, nouveau carburant renouvelable - quelle taxe ? pourquoi ?"
 date: 2012-12-04 10:34:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'donnée data', 'fiscalité', 'google']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "fiscalit\u00e9", "google"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Deloitte vient de publier une synthèse sur l'open data en Angleterre qui permet de bien présenter les principaux flux de données et d'euros, de comprendre les mécanismes à la fois simples et complexes et de présenter les acteurs en présence ainsi que les nouveaux métiers. De tout cela, il faut se former pour prendre une place active et inventer les futurs modèles d'affaires rendus possibles (comme par exemple en lisant **[ceci](http://donneesouvertes.info/author/schignard/)**). Quand le numérique bouleverse tant de situation, de modes de communication et d'échanges, il ne faut pas vouloir lui brancher" des solutions du passé. Le schéma ci dessous est alors fort utile :
@@ -48,7 +52,11 @@ Ainsi les nouvelles données générées par l'usager ayant accepté l'intrusion
 
  
 
+<<<<<<< HEAD
  "2012-12-04 10:34:46https://transportsdufutur.ademe.fr/2012/12/la-donnee-nouveau-carburant-renouvelable-quelle-taxe-pourquoi.htmlautorité des transports|citoyen|collectivité|donnée data|fiscalité|googlepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-donnee-nouveau-carburant-renouvelable-quelle-taxe-pourquoi2015-07-21 16:35:47>L'idée de taxer "simplement" les données comme on taxe un produit apparaît comme une idée à revoir/compléter en prenant en compte l'intégralité du système et notamment **les bénéfices individuels et collectifs engendrés par les changements d'usage rendus possibles par les données et autres API**. Donc la taxe aussi ne sera pas "simple"... 
+=======
+ "2012-12-04 10:34:46/2012/12/04/la-donnee-nouveau-carburant-renouvelable-quelle-taxe-pourquoi/autorité des transports|citoyen|collectivité|donnée data|fiscalité|googlepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-donnee-nouveau-carburant-renouvelable-quelle-taxe-pourquoi2015-07-21 16:35:47>L'idée de taxer "simplement" les données comme on taxe un produit apparaît comme une idée à revoir/compléter en prenant en compte l'intégralité du système et notamment **les bénéfices individuels et collectifs engendrés par les changements d'usage rendus possibles par les données et autres API**. Donc la taxe aussi ne sera pas "simple"... 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

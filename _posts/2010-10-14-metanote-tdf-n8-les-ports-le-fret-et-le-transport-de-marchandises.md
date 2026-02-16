@@ -3,7 +3,11 @@ layout: post
 title: "MétaNote TdF N°8 - Les ports, le fret et le transport de marchandises"
 date: 2010-10-14 16:18:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'citoyen', 'données réelles', 'Efficacité énergétique', "guide d'achat", 'Infrastructure', 'internet', 'logistique', 'marchandises', 'partage de données', 'partage de la voirie', 'port']
+=======
+tags: ["assurance", "citoyen", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "guide d'achat", "Infrastructure", "internet", "logistique", "marchandises", "partage de donn\u00e9es", "partage de la voirie", "port"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Jamais un sujet de fond n’avait présenté également autant « d’apparitions visibles» ou signaux faibles ces derniers jours. Grèves dans les ports, réponse des **[acteurs économiques](http://www.collectifport.com/)**…
@@ -43,7 +47,11 @@ Pour garder leur avance d’image environnementale, **[les entreprises « leade
 
  
  
+<<<<<<< HEAD
 - Des **solutions technologiques et/ou organisationnelles innovantes** permettant d’améliorer leur bilan en interne et chez leurs sous-traitants. Le transport de marchandises apparaît ici comme un élément du système complet de production. 
+=======
+- Des **solutions technologiques et/ou organisationnelles innovantes** permettant d’améliorer leur bilan en interne et chez leurs sous-traitants. Le transport de marchandises apparaît ici comme un élément du système complet de production. _x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  
 - Des **groupements d’entreprises** permettant par un partage intelligent de mieux utiliser les sous ou coproduits, et/ou les  pertes énergétiques. Ces groupements seront supérieurs et plus efficaces en performance énergétique et environnemental à la somme des entreprises qui les composent.  Neste Oil et Stora Enso préfigurent ce type de groupement, un pétrolier particulièrement innovant en matière de biocarburant de synthèse et un des plus grand papetier au monde qui gère de la biomasse et qui génère des bio-déchets utilisable par le pétrolier. Voir **[ici](/2010/02/focus-sur-la-finlande.html)** et **[là](/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses.html)**. 
 - **Des systèmes « surveilleurs » (capteurs, analyse de données …) en interne et chez leurs sous traitants devenus nécessaire pour évaluer des systèmes très complexe de production au niveau mondial**. Ces systèmes permettront également aux assureurs d’accéder à des informations essentielles de maîtrise des risques, mais également à des données stratégiques. **[Les compagnies d’assurance](/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages.html)**, elles-mêmes assurées pour diluer les risques, revoient actuellement les coûts d’assurance du transport longue distance en liaison avec le changement climatique, les actes de piraterie... 

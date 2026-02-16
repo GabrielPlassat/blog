@@ -3,7 +3,11 @@ layout: post
 title: "Du serious game à la ville laboratoire puis à la ville Living lab\"\""
 date: 2010-04-30 17:20:05 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'connectivité', 'internet', 'internet des objets', 'living lab', 'partage de données']
+=======
+tags: ["citoyen", "collectivit\u00e9", "connectivit\u00e9", "internet", "internet des objets", "living lab", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En matière de mobilités, après une ère d'innovation basée sur des produits, nous devons passer à des innovations sur des systèmes implicant également des changements d'usages. Nous avons pour cela plusieurs outils du serious game au living lab, avec comme fil conducteur une implication de plus en plus grande du citoyen, et des progrès issus d'une utilisation réelle" des services, basés aussi bien sur des erreurs que sur des succès. 

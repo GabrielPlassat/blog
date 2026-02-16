@@ -3,7 +3,11 @@ layout: post
 title: "Territoires en mouvements, comment se déplacer en 2020 ?"
 date: 2010-07-22 10:03:14 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'internet', 'internet des objets', 'iphone', 'open source', 'partage de données', 'Service de mobilité', 'téléphone', 'TIC', 'transition générationnelle', 'twitter']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "internet", "internet des objets", "iphone", "open source", "partage de donn\u00e9es", "Service de mobilit\u00e9", "t\u00e9l\u00e9phone", "TIC", "transition g\u00e9n\u00e9rationnelle", "twitter"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le Conseil général des Côtes d'Armor organise la cinquième édition du Congrès Systèmes de Transports Intelligents (ITS) les 30 septembre et 1 octobre, sur le thème Territoires en mouvements, comment se déplacer en 2020?". 

@@ -3,7 +3,11 @@ layout: post
 title: "Le chaînon manquant : un capteur qualité de l'air intégré à votre téléphone"
 date: 2010-05-17 14:27:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'connectivité', 'données réelles', 'internet des objets', 'living lab', 'partage de données', 'sousveillance']
+=======
+tags: ["citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet des objets", "living lab", "partage de donn\u00e9es", "sousveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[Intel labs](http://berkeley.intel-research.net/Intel-Labs-Berkeley-2010.pdf)** annonce récemment la faisabilité d'intégrer dans un téléphone portable des capteurs permettant de mesurer les polluants suivants : CO, NOx et ozone. Aujourd'hui inclus dans le boitier présenté ci dessous, ceci est vraissemblable dans quelques années, la miniaturisation étant la marque de fabrique de cette industrie.

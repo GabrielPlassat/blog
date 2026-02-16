@@ -3,7 +3,11 @@ layout: post
 title: "Repenser les villes dans une société post Carbone @ademe"
 date: 2011-12-02 14:48:36 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'cité']
+=======
+tags: ["ADEME", "cit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La mission prospective du CGDD – MEEDDM et l’ADEME copilotent le programme « **Repenser les villes dans une société post carbone** » depuis début 2009.

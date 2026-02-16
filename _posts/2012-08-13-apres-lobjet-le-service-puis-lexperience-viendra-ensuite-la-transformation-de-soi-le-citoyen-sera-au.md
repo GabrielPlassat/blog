@@ -3,7 +3,11 @@ layout: post
 title: "Après l'objet, le service, puis l'expérience. Viendra ensuite la transformation de soi, le citoyen sera au centre"
 date: 2012-08-13 10:53:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'données réelles', 'economie circulaire', "économie de l'expérience", 'Efficacité énergétique', 'holoptisme', 'innovation', 'intelligence collective', 'Service de mobilité', 'TED']
+=======
+tags: ["citoyen", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie de l'exp\u00e9rience", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "holoptisme", "innovation", "intelligence collective", "Service de mobilit\u00e9", "TED"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b017744197e06970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017744197e06970d-pi.jpg)

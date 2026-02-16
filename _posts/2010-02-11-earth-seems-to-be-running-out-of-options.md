@@ -3,7 +3,11 @@ layout: post
 title: "Earth seems to be running out of options\"\""
 date: 2010-02-11 17:27:45 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'Véhicule']
+=======
+tags: ["Infrastructure", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Une nouvelle fois, **[la cour suprême de Delhi suit la pétition d'une ONG Manushi](http://timesofindia.indiatimes.com/city/delhi/Deflated-cops-brace-for-chaos/articleshow/5558501.cms)**, et revient sur une décision précédente : les vélo-rickshaws auront de nouveau accès aux artères principales. Et ceci malgré les avis contraires de la Police et des experts du Trafic, pour des **[raisons de sécurité](/2010/02/no-comment-.html)**. En complément, le gouvernement travaille maintenant sur des voies dédiées aux véhicules lents. 

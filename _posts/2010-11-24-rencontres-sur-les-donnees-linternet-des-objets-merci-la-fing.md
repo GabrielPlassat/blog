@@ -3,7 +3,11 @@ layout: post
 title: "Rencontres sur Les données, l'Internet des Objets ... merci la Fing"
 date: 2010-11-24 14:26:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'donnée data', 'données réelles', 'internet', 'internet des objets', 'management de la mobilité', 'open innovation', 'open source', 'partage de données']
+=======
+tags: ["assistant de mobilit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "management de la mobilit\u00e9", "open innovation", "open source", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Parce que bien sûr toutes ces innovations touche(ro)nt le monde des transports (voir **[ici](/2010/01/linternet-des-objets-quelles-consequences-pour-la-mobilite.html)**), parce que les technologies ne font jamais que ce que l'on décide (voir **[ici](/2009/12/les-technologies-ne-feront-jamais-que-ce-que-lon-en-decide.html)**), parce que la donnée devient stratégique (voir **[ici](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html)**), parce que ces technologies et l'accès aux données changent l'usage que l'on fait de nos objets (voir **[ici](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**), parce que l'innovation vient plus des utilisateurs que des industries (voir **[ici](/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies.html)**), autant de raisons, et bien d'autres, d'aller écouter et participer à ces rencontres. Merci la **[FING ](http://www.fing.org/)**!
@@ -90,4 +94,8 @@ Les données publiques s’annoncent comme une nouvelle ressource pour l’innov
 
 [+] [Programme et inscription]()
 
+<<<<<<< HEAD
 "2010-11-24 14:26:55https://transportsdufutur.ademe.fr/2010/11/rencontres-sur-les-donnees-linternet-des-objets-merci-la-fing.htmlassistant de mobilité|donnée data|données réelles|internet|internet des objets|management de la mobilité|open innovation|open source|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrencontres-sur-les-donnees-linternet-des-objets-merci-la-fing2015-07-21 16:37:33
+=======
+"2010-11-24 14:26:55/2010/11/24/rencontres-sur-les-donnees-linternet-des-objets-merci-la-fing/assistant de mobilité|donnée data|données réelles|internet|internet des objets|management de la mobilité|open innovation|open source|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrencontres-sur-les-donnees-linternet-des-objets-merci-la-fing2015-07-21 16:37:33
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

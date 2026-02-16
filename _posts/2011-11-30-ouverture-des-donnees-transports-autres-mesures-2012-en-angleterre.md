@@ -3,7 +3,11 @@ layout: post
 title: "Ouverture des données - Transports & autres - Mesures 2012 en Angleterre"
 date: 2011-11-30 08:22:09 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'management de la mobilité', 'marchandises', 'open innovation', 'open source', 'partage de données']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "management de la mobilit\u00e9", "marchandises", "open innovation", "open source", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le Cabinet britanique propose les mesures suivantes pour 2012 pour le secteur des transports :

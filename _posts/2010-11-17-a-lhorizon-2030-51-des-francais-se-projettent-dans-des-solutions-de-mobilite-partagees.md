@@ -3,7 +3,11 @@ layout: post
 title: "À l'horizon 2030, 51 % des français se projettent dans des solutions de mobilité partagées"
 date: 2010-11-17 21:39:27 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'Service de mobilité']
+=======
+tags: ["citoyen", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ce dernier « Baromètre de l'opinion des Français sur la mobilité durable » commandé au CSA par la SNCF, Mobivia Groupe (ex.Norauto) et les Ateliers de la Terre, sera présenté jeudi à Evian où le think tank du développement durable organise son édition annuelle du 17 au 19 novembre.
@@ -36,7 +40,11 @@ La lutte promet d'être rude pour savoir qui, d'ici 20 ans, sera le mieux placé
 
 Non seulement la lutte sera rude pour prendre la place d'opérateur de mobilité (voir le **[dernier article sur General Electric ]()**sur ce sujet), mais de nombreuses questions connexes sont à traiter pour proposer des services de mobilité porte à porte fluides et  économiques : organiser des plates formes permettant de regrouper tous les acteurs nécessaires au développement de solutions systémiques, revoir et adapter la gouvernance, ouvrir - mettre à disposition - exploiter - partager les données liées aux transports, débattre des conséquences sur l'intrusivité et l'accès à des données privées, être capable de collecter l'innovation des citoyens, de les inclure dans les procédés de choix et d'aboutir à des solutions pleinement exploitables, transparentes, correspondantes aux besoins réels.
 
+<<<<<<< HEAD
 "2010-11-17 21:39:27https://transportsdufutur.ademe.fr/2010/11/a-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees.htmlcitoyen|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassata-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees2015-07-21 16:37:33text-align: justify"">L'intérêt du baromètre réside aussi dans la partie prospective. A l'horizon 2030, les Français pensent qu'ils se déplaceront autant, voire plus, qu'aujourd'hui. Un constat en décalage avec certains discours sur la baisse de la mobilité grâce aux nouvelles solutions de type téléprésence, télétravail, etc... **Mais, à une courte majorité (51 %), ils se voient plutôt dans des véhicules partagés (transports en commun, autopartage, covoiturage...) qu'individuels (46 %). « De conceptuelle, la multimodalité est devenue plus concrète, observe Bénédicte Barbry. Les Français ont besoin d'être accompagnés mais sont confiants dans la capacité des acteurs à mettre en oeuvre des solutions transversales. »**
+=======
+"2010-11-17 21:39:27/2010/11/17/a-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees/citoyen|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassata-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees2015-07-21 16:37:33text-align: justify"">L'intérêt du baromètre réside aussi dans la partie prospective. A l'horizon 2030, les Français pensent qu'ils se déplaceront autant, voire plus, qu'aujourd'hui. Un constat en décalage avec certains discours sur la baisse de la mobilité grâce aux nouvelles solutions de type téléprésence, télétravail, etc... **Mais, à une courte majorité (51 %), ils se voient plutôt dans des véhicules partagés (transports en commun, autopartage, covoiturage...) qu'individuels (46 %). « De conceptuelle, la multimodalité est devenue plus concrète, observe Bénédicte Barbry. Les Français ont besoin d'être accompagnés mais sont confiants dans la capacité des acteurs à mettre en oeuvre des solutions transversales. »**
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

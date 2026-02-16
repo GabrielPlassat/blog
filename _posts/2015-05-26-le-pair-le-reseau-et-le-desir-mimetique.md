@@ -3,7 +3,11 @@ layout: post
 title: "Le pair, le réseau, le blockchain et le désir mimétique"
 date: 2015-05-26 09:30:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur numérique des Mobilités et des Logistiques', 'art de la guerre', 'assistant de mobilité', 'Assistant Personnel de Consommation', 'autopartage', 'bitcoin', 'blockchain', 'citoyen', 'Comment agir pour changer les pratiques ?', 'communs', 'confiance', 'connectivité', 'covoiturage', 'donnée data', 'gouvernance', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'monnaie complémentaire', 'multimodes', 'open innovation', 'plate-forme', 'réseaux', 'Service de mobilité', 'sousveillance', 'Usager Client Citoyen Multitude']
+=======
+tags: ["Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "art de la guerre", "assistant de mobilit\u00e9", "Assistant Personnel de Consommation", "autopartage", "bitcoin", "blockchain", "citoyen", "Comment agir pour changer les pratiques ?", "communs", "confiance", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "internet des objets", "monnaie compl\u00e9mentaire", "multimodes", "open innovation", "plate-forme", "r\u00e9seaux", "Service de mobilit\u00e9", "sousveillance", "Usager Client Citoyen Multitude"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Blablacar publiait récemment une [**étude**](https://www.covoiturage.fr/blog/securite-routiere-influence-positive-covoiturage) montrant que le covoiturage conduit à des pratiques de conduite moins accidentogène qu'en étant seul dans sa voiture. Ce constat est vrai dans de nombreux domaines : par exemple, l'alimentation diffère entre les personnes qui mangent seules et celles qui mangent en groupe. **L'autosurveillance de soi est modifié sous le regard des autres. **En conséquence, la mise en réseau, favorisant la rencontre, comme le partage de biens et de services créent les conditions favorables à des changements de comportement individuel. Ce triptyque - Soi, objet désiré, médiateur - n'est pas nouveau, c'est la thèse centrale de [**René Girard**](https://kindle.amazon.com/work/rene-girard-mimetisme-lhominisation-differante-ebook/B004MKZW7K/B00817JOQ0/posts) sur le désir mimétique comme socle de nos sociétés.
@@ -73,4 +77,8 @@ D'autres idées ? échanger les : [**Le Blockchain dans les transports et les mo
 
  
 
+<<<<<<< HEAD
 "2015-05-26 09:30:00https://transportsdufutur.ademe.fr/2015/05/le-pair-le-reseau-et-le-desir-mimetique.htmlActeur numérique des Mobilités et des Logistiques|art de la guerre|assistant de mobilité|Assistant Personnel de Consommation|autopartage|bitcoin|blockchain|citoyen|Comment agir pour changer les pratiques ?|communs|confiance|connectivité|covoiturage|donnée data|gouvernance|holoptisme|innovation|intelligence collective|internet|internet des objets|monnaie complémentaire|multimodes|open innovation|plate-forme|réseaux|Service de mobilité|sousveillance|Usager Client Citoyen Multitudepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-pair-le-reseau-et-le-desir-mimetique2017-05-05 15:35:32
+=======
+"2015-05-26 09:30:00/2015/05/26/le-pair-le-reseau-et-le-desir-mimetique/Acteur numérique des Mobilités et des Logistiques|art de la guerre|assistant de mobilité|Assistant Personnel de Consommation|autopartage|bitcoin|blockchain|citoyen|Comment agir pour changer les pratiques ?|communs|confiance|connectivité|covoiturage|donnée data|gouvernance|holoptisme|innovation|intelligence collective|internet|internet des objets|monnaie complémentaire|multimodes|open innovation|plate-forme|réseaux|Service de mobilité|sousveillance|Usager Client Citoyen Multitudepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-pair-le-reseau-et-le-desir-mimetique2017-05-05 15:35:32
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

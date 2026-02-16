@@ -3,7 +3,11 @@ layout: post
 title: "Les lunettes Google traduisent une évolution millénaire, présentent de nombreux intérêts dans la mobilité et la consommation, et posent de nombreuses questions … philosophiques"
 date: 2012-02-27 10:31:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'Assistant Personnel de Consommation', 'citoyen', 'collectivité', 'confiance', 'connectivité', 'données réelles', 'google', 'gouvernance', 'gratuit', 'holoptisme', 'intelligence collective', 'internet', 'internet des objets', 'living lab', 'management de la mobilité', 'marchandises', 'marketing individualisé', 'monnaie complémentaire', 'multimodes', 'partage de données', 'pensée complexe', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "Assistant Personnel de Consommation", "citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "google", "gouvernance", "gratuit", "holoptisme", "intelligence collective", "internet", "internet des objets", "living lab", "management de la mobilit\u00e9", "marchandises", "marketing individualis\u00e9", "monnaie compl\u00e9mentaire", "multimodes", "partage de donn\u00e9es", "pens\u00e9e complexe", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La rumeur se confirme (déjà abordé dans 2 précédents articles: **[ici ](/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse-.html)**et **[là](/2011/11/apres-casinoauchanleclerccarrefour-drive-amazon-flow-tesco-drive-betterplace.html)**). **[Google devrait commercialiser fin 2012 des lunettes](http://bits.blogs.nytimes.com/2012/02/21/google-to-sell-terminator-style-glasses-by-years-end/)** intégrant les principales fonctionnalités d’un smartphone : téléphone, connexion web, GPS, mémoire, appareil photo, avec une projection des informations sur les verres. Cet objet arrivera d’ici quelques mois, il concentre et cristallise de nombreuses évolutions à venir dans nos rapports au contexte, à l’environnement, aux autres. Il crée également de nouveaux risques qu’il faudra comprendre, débattre et limiter pour profiter des avantages dans de nombreux domaines, ceux des mobilités et des chaînes logistiques.
@@ -52,7 +56,11 @@ Dans le domaine des transports, il est alors probable que les gains de productiv
 
  
 
+<<<<<<< HEAD
 Cette paire d
+=======
+Cette paire d_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 e lunettes confirme également l’arrivée des géants numériques dans le monde physique ; quand il leur apparaît nécessaire de matérialiser sous des formes précises (kindle, ipad, …) leurs services, leurs Univers pour se positionner dans la chaîne de valeurs. Quand investiront-ils les secteurs de l’énergie et des transports ?
 
  

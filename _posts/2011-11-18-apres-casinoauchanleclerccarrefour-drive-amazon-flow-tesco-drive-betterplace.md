@@ -3,7 +3,11 @@ layout: post
 title: "Après CasinoAuchanLeclercCarrefour Drive ... Amazon Flow + Tesco + Drive + BetterPlace"
 date: 2011-11-18 12:18:18 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'better place', 'connectivité', 'données réelles', 'drive-in', 'holoptisme', 'intelligence collective', 'internet', 'iphone', 'logistique', 'marchandises', 'téléphone']
+=======
+tags: ["Assistant Personnel de Consommation", "better place", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "drive-in", "holoptisme", "intelligence collective", "internet", "iphone", "logistique", "marchandises", "t\u00e9l\u00e9phone"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les solutions Auchan, Leclerc, Carrefour ou **[Casino Drive](http://www.mescoursescasino.fr/Pages/Index.aspx)** … se développent, complétant la palette d’imbrication du monde physique (les marchandises) avec le monde numérique. Le point de rencontre entre la marchandise et la personne, se déplace entre l’intérieur du magasin (achat classique) et le domicile du particulier (achat internet et livraison), quelque part sur un parking …

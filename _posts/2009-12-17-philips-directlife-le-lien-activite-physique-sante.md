@@ -3,7 +3,11 @@ layout: post
 title: "Philips DirectLife, le lien activité physique – santé"
 date: 2009-12-17 17:37:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Philips', "Plateforme d'idées", 'Santé', 'TIC']
+=======
+tags: ["Philips", "Plateforme d'id\u00e9es", "Sant\u00e9", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’article «**[ Mobilité, Obésité, Santé, Innovons…vite ! ](/2009/11/mobilite-obesite-sante-innovons-vite.html)**» détaillait le lien activité physique, santé et mobilité. **[Philips propose un objet](http://www.directlife.philips.com/companies/health_benefit/)** portable permettant de réaliser ce lien, et également des services associés pour les entreprises dans le but de favoriser l’activité physique, source de bien être pour les salariés, d’absentéisme réduit, et de productivité améliorée. Il faut rappeler que **[Virgin Health Miles](http://virginhealthmiles.com/)** propose également un système similaire aux USA, mais l’arrivée d’un géant comme Philips montre l’intérêt de ce type de produit.

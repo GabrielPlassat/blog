@@ -3,7 +3,11 @@ layout: post
 title: "$600 millions d'aide pour des projets liés aux Transports aux USA"
 date: 2010-11-24 21:50:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'innovation']
+=======
+tags: ["Infrastructure", "innovation"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Earlier this week, the **[U.S. Department of Transportation ](http://t4america.org/blog/2010/10/22/tiger-map-launch/)**gave out $600 million in grants for innovative transportation projects across the country that address economic, environmental and travel issues at once.

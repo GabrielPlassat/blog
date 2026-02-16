@@ -3,7 +3,11 @@ layout: post
 title: "Livre - Transports et Mobilités du Futur, Quelles rencontres pour le 21ème siècle ?"
 date: 2012-02-23 11:07:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'carburant', 'cité', 'collectivité', 'cybercar', 'données réelles', 'economie circulaire', 'économie fonctionnalité', 'Efficacité énergétique', 'emission', 'Energie', 'google', 'Infrastructure', 'innovation', 'internet', 'internet des objets', 'iphone', 'léger', 'living lab', 'logistique', 'management de la mobilité', 'marche', 'megacity', 'nexbtl', 'open source', 'partage de données', 'partage de la voirie', 'Pay as You Move', 'PAYD', 'péage urbain', 'pensée complexe', 'pétrole', 'port', 'Précarité', "qualité de l'air", 'robustesse', 'RSE', 'Santé', 'simplicité', 'stationnement', 'Tata nano', 'téléphone', 'temporalité', 'tendance', 'théorie des jeux', 'VE', 'véhicule mono-usage', 'vélo', 'web2.0', 'yield management']
+=======
+tags: ["autorit\u00e9 des transports", "carburant", "cit\u00e9", "collectivit\u00e9", "cybercar", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "google", "Infrastructure", "innovation", "internet", "internet des objets", "iphone", "l\u00e9ger", "living lab", "logistique", "management de la mobilit\u00e9", "marche", "megacity", "nexbtl", "open source", "partage de donn\u00e9es", "partage de la voirie", "Pay as You Move", "PAYD", "p\u00e9age urbain", "pens\u00e9e complexe", "p\u00e9trole", "port", "Pr\u00e9carit\u00e9", "qualit\u00e9 de l'air", "robustesse", "RSE", "Sant\u00e9", "simplicit\u00e9", "stationnement", "Tata nano", "t\u00e9l\u00e9phone", "temporalit\u00e9", "tendance", "th\u00e9orie des jeux", "VE", "v\u00e9hicule mono-usage", "v\u00e9lo", "web2.0", "yield management"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Reprenant plusieurs métanotes, ce livre n’engage que son auteur et non l’institution à laquelle il appartient. L’objet de cette diffusion est de stimuler le débat, d’appeler des commentaires et des critiques, de synchroniser les différents acteurs pour accélérer le passage  à l’action.
@@ -22,4 +26,8 @@ Pour cela, un **[groupe de discussion]()** (groupe ouvert Les Transports du Futu
 
  
 
+<<<<<<< HEAD
 "2012-02-23 11:07:32https://transportsdufutur.ademe.fr/2012/02/livre-transports-et-mobilites-du-futur-quelles-rencontres-pour-le-21eme-siecle.htmlautorité des transports|carburant|cité|collectivité|cybercar|données réelles|economie circulaire|économie fonctionnalité|Efficacité énergétique|emission|Energie|google|Infrastructure|innovation|internet|internet des objets|iphone|léger|living lab|logistique|management de la mobilité|marche|megacity|nexbtl|open source|partage de données|partage de la voirie|Pay as You Move|PAYD|péage urbain|pensée complexe|pétrole|port|Précarité|qualité de l'air|robustesse|RSE|Santé|simplicité|stationnement|Tata nano|téléphone|temporalité|tendance|théorie des jeux|VE|véhicule mono-usage|vélo|web2.0|yield managementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlivre-transports-et-mobilites-du-futur-quelles-rencontres-pour-le-21eme-siecle2015-07-21 16:36:35
+=======
+"2012-02-23 11:07:32/2012/02/23/livre-transports-et-mobilites-du-futur-quelles-rencontres-pour-le-21eme-siecle/autorité des transports|carburant|cité|collectivité|cybercar|données réelles|economie circulaire|économie fonctionnalité|Efficacité énergétique|emission|Energie|google|Infrastructure|innovation|internet|internet des objets|iphone|léger|living lab|logistique|management de la mobilité|marche|megacity|nexbtl|open source|partage de données|partage de la voirie|Pay as You Move|PAYD|péage urbain|pensée complexe|pétrole|port|Précarité|qualité de l'air|robustesse|RSE|Santé|simplicité|stationnement|Tata nano|téléphone|temporalité|tendance|théorie des jeux|VE|véhicule mono-usage|vélo|web2.0|yield managementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlivre-transports-et-mobilites-du-futur-quelles-rencontres-pour-le-21eme-siecle2015-07-21 16:36:35
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

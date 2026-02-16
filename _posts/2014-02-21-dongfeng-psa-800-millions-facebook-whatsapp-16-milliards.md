@@ -3,7 +3,11 @@ layout: post
 title: "Dongfeng/PSA et Facebook/WhatsApp"
 date: 2014-02-21 11:38:57 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['application', 'art de la guerre', 'assistant de mobilité', 'autopartage', 'cité', 'citoyen', 'collectivité', 'commuter', 'donnée data', 'données réelles', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'google', 'holoptisme', 'intelligence collective', 'marketing individualisé', 'monnaie complémentaire', 'open innovation', 'partage de données', 'plate-forme', 'Service de mobilité', 'territoire', 'transition générationnelle', 'transparence']
+=======
+tags: ["application", "art de la guerre", "assistant de mobilit\u00e9", "autopartage", "cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "google", "holoptisme", "intelligence collective", "marketing individualis\u00e9", "monnaie compl\u00e9mentaire", "open innovation", "partage de donn\u00e9es", "plate-forme", "Service de mobilit\u00e9", "territoire", "transition g\u00e9n\u00e9rationnelle", "transparence"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En même temps, Dongfeng injecte [**800 Millions d'euro**](http://www.lemonde.fr/economie/article/2014/02/20/dongfeng-psa-un-accord-gagnant-gagnant_4370013_3234.html) et Facebook rachète WhatsApp [**16 Milliards d'euro**](http://siliconvalley.blog.lemonde.fr/2014/02/20/facebook-rachete-whatsapp-pour-16-milliards-de-dollars/). Ces deux évènements ont lieu. Jouant probablement dans deux mondes différents. En tout cas, ce sont deux visions du monde qui vient. La première Alliance tente de prolonger une économie de la rareté, utilisant des ressources finies pour des marchés à remplir. La seconde met en oeuvre des ressources immatérielles (appuyées sur des techniques et des investissements lourds), des ressources infinies pour des expériences à inventer.

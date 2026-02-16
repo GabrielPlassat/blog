@@ -3,7 +3,11 @@ layout: post
 title: "Plan National ITS - appel à l'action !"
 date: 2011-03-16 20:16:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'données réelles', 'Infrastructure', 'innovation', 'internet', 'internet des objets', 'management de la mobilité', 'multimodes', 'partage de données', 'réseaux', 'Service de mobilité']
+=======
+tags: ["connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "innovation", "internet", "internet des objets", "management de la mobilit\u00e9", "multimodes", "partage de donn\u00e9es", "r\u00e9seaux", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le3 mars 2011, **[ATEC - ITS France ](http://www.atec-itsfrance.net/evenements.cfm?codrub=EVENTS&codsrub=JOURNEES&codssrub=JOURNEES&atexpo_id=103)**a lancé une réflexion sur les ITS en France.

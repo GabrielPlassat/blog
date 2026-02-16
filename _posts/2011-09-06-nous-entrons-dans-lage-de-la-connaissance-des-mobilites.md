@@ -3,7 +3,11 @@ layout: post
 title: "Nous entrons dans l'âge de la connaissance des mobilités"
 date: 2011-09-06 14:05:01 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'données réelles', 'gouvernance', 'innovation', 'internet', 'management de la mobilité', 'marketing individualisé', 'open innovation', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "gouvernance", "innovation", "internet", "management de la mobilit\u00e9", "marketing individualis\u00e9", "open innovation", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Nous sommes en train de passer des statistiques issues d’enquêtes ménages à l’exploitation de modèle prédictif basé sur des données réelles de mobilité**. Les conséquences sont immenses, pour tous les acteurs. Comme nous l’indique cet **[article](http://www.atelier.net/articles/letude-de-mobilite-humaine-se-bien-foursquare?utm_source=twitterfeed&utm_medium=twitter)** de l’atelier BNP Paribas,  l’exploitation d’information géolocalisée permet d’accéder à de nouvelles connaissances, de nouveaux savoirs. Cette approche multiple dans l’exploitation des données a été décrite dans un autre **[article](/2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite.html)** montrant que cela va impacter tous les acteurs : industries, collectivités, état, citoyen, opérateurs. 
@@ -32,4 +36,8 @@ Place de la Toile sur France Culture lui a consacré la **[dernière émission](
 
 Un des risques évoqués dans l’émission vient du contrôle des modèles et outils prédictifs uniquement par des sociétés marchandes dans le but de mieux/plus vendre des produits/services. Sur le sujet des transports, il apparaît essentiel que les entités publiques prennent un rôle dans la mise en œuvre, dans la gestion des énormes bases de données, et dans l’utilisation sociale de ces outils.
 
+<<<<<<< HEAD
  [Mobility pattern]() View more [documents]() from [Les transports du futur](). "2011-09-06 14:05:01https://transportsdufutur.ademe.fr/2011/09/nous-entrons-dans-lage-de-la-connaissance-des-mobilites.htmlassistant de mobilité|autorité des transports|citoyen|collectivité|données réelles|gouvernance|innovation|internet|management de la mobilité|marketing individualisé|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-entrons-dans-lage-de-la-connaissance-des-mobilites2015-07-21 16:36:43
+=======
+ [Mobility pattern]() View more [documents]() from [Les transports du futur](). "2011-09-06 14:05:01/2011/09/06/nous-entrons-dans-lage-de-la-connaissance-des-mobilites/assistant de mobilité|autorité des transports|citoyen|collectivité|données réelles|gouvernance|innovation|internet|management de la mobilité|marketing individualisé|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-entrons-dans-lage-de-la-connaissance-des-mobilites2015-07-21 16:36:43
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

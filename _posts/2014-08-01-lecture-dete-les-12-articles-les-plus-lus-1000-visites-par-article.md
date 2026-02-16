@@ -3,7 +3,11 @@ layout: post
 title: "Lecture d'été : les 12 articles les plus lus (+1000 visites par article)"
 date: 2014-08-01 15:58:05 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['innovation', 'open innovation', "Plateforme d'idées"]
+=======
+tags: ["innovation", "open innovation", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Merci et bonnes vacances !

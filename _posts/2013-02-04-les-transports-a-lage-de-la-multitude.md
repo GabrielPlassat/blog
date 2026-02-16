@@ -3,7 +3,11 @@ layout: post
 title: "Les transports à l'âge de la multitude"
 date: 2013-02-04 09:11:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'assistant de mobilité', 'citoyen', 'connectivité', 'de Rosnay', 'donnée data', "économie de l'expérience", 'google', 'gouvernance', 'innovation', 'intelligence collective', 'internet des objets', 'lien social', 'pensée complexe', 'plate-forme', 'transition générationnelle', 'Véhicule']
+=======
+tags: ["Amazon", "assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "de Rosnay", "donn\u00e9e data", "\u00e9conomie de l'exp\u00e9rience", "google", "gouvernance", "innovation", "intelligence collective", "internet des objets", "lien social", "pens\u00e9e complexe", "plate-forme", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Depuis 20 ans, le numérique s'insère partout et ce n'est que le début. ** 
@@ -56,7 +60,11 @@ Il n'existe pas, pour le moment, de plate-forme Mobilités. [Google Mobility Ser
 
  
 
+<<<<<<< HEAD
 "2013-02-04 09:11:00https://transportsdufutur.ademe.fr/2013/02/les-transports-a-lage-de-la-multitude.htmlAmazon|assistant de mobilité|citoyen|connectivité|de Rosnay|donnée data|économie de l'expérience|google|gouvernance|innovation|intelligence collective|internet des objets|lien social|pensée complexe|plate-forme|transition générationnelle|Véhiculepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-transports-a-lage-de-la-multitude2015-07-21 16:35:45text-align: justify"">**Les plate-formes**
+=======
+"2013-02-04 09:11:00/2013/02/04/les-transports-a-lage-de-la-multitude/Amazon|assistant de mobilité|citoyen|connectivité|de Rosnay|donnée data|économie de l'expérience|google|gouvernance|innovation|intelligence collective|internet des objets|lien social|pensée complexe|plate-forme|transition générationnelle|Véhiculepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-transports-a-lage-de-la-multitude2015-07-21 16:35:45text-align: justify"">**Les plate-formes**
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

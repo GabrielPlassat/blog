@@ -3,7 +3,11 @@ layout: post
 title: "Et si la richesse n'était pas synonyme de plus ? La monnaie des économies de CO2"
 date: 2013-11-29 11:06:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['credit carbone', 'Efficacité énergétique', 'externalité', 'innovation', 'intelligence collective']
+=======
+tags: ["credit carbone", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "innovation", "intelligence collective"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le crédit Mutuel Arkéa via la société 450 lance le compte épargne CO2 pour les particuliers. 450 est une jeune entreprise innovante immatriculée au RCS de Brest qui a inventé le produit nommé « Compte épargne CO2® ». La vision et la volonté de 450 est d'encourager et d'inciter positivement les citoyens à réduire leurs émissions de CO2 en récompensant les baisses d'émissions. 450 a reçu l'agrément de l'Etat pour distribuer ses « kgs de CO2 Kyoto » aux entreprises et aux ménages qui réduisent leurs émissions. 450 a choisi de s'appuyer sur le Protocole de Kyoto, actuellement en cours de renégociation, car il est un instrument juridique international puissant qui permet d'agir concrètement contre le changement climatique dès aujourd'hui.

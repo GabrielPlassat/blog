@@ -3,7 +3,11 @@ layout: post
 title: "Les « smart cities » arrivent. Risques et opportunités pour les différents acteurs ?"
 date: 2011-10-12 14:54:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'confiance', 'connectivité', 'données réelles', 'économie fonctionnalité', 'Efficacité énergétique', 'gouvernance', 'Infrastructure', 'internet des objets', 'management de la mobilité', 'robustesse']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "Infrastructure", "internet des objets", "management de la mobilit\u00e9", "robustesse"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’utilisation massive des données remontant de la ville et de ses activités, intelligence communautaire pour mieux gérer en temps réel, mieux planifier et anticiper le court terme, faire participer les citoyens aux processus de la ville… toutes ces actions arrivent (certaines sont déjà là). Qui gagnera à ces développements ? comment assurez des bénéfices collectifs ambitieux et partagés ? Le cabinet d’études [**ABI Research**](http://www.abiresearch.com/press/3715-Smart+City+Technologies+Will+Grow+Fivefold+to+Exceed+$39+Billion+in+2016) indique que pour les 5 prochaines années, ce sont 116 milliards de dollars qui seront investis dans ces programmes : e-gouvernement, systèmes de transports intelligents, gestion intégrée des déchets et du recyclage…

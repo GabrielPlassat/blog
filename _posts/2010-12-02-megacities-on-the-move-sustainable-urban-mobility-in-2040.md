@@ -3,7 +3,11 @@ layout: post
 title: "Megacities on the move, sustainable urban mobility in 2040"
 date: 2010-12-02 14:25:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autarcie', 'autopartage', 'autorité des transports', 'better place', 'biocarburant', 'carburant', 'cité', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'covoiturage', 'cybercar', 'données réelles', 'Efficacité énergétique', 'Energie', 'gouvernance', 'Infrastructure', 'innovation', 'internet', 'internet des objets', 'keicar', 'living lab', 'logistique', 'management de la mobilité', 'marchandises', 'marche', 'megacity', 'mode doux', 'multimodes', 'open innovation', 'partage de la voirie', 'Pay as You Move', 'PAYD', 'péage urbain', 'pétrole', 'prix carburant', "qualité de l'air", 'rickshaw', 'roadpricing', 'Santé', 'Service de mobilité', 'smartgrid']
+=======
+tags: ["assistant de mobilit\u00e9", "autarcie", "autopartage", "autorit\u00e9 des transports", "better place", "biocarburant", "carburant", "cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "covoiturage", "cybercar", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "gouvernance", "Infrastructure", "innovation", "internet", "internet des objets", "keicar", "living lab", "logistique", "management de la mobilit\u00e9", "marchandises", "marche", "megacity", "mode doux", "multimodes", "open innovation", "partage de la voirie", "Pay as You Move", "PAYD", "p\u00e9age urbain", "p\u00e9trole", "prix carburant", "qualit\u00e9 de l'air", "rickshaw", "roadpricing", "Sant\u00e9", "Service de mobilit\u00e9", "smartgrid"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Stackable electric cars which you can hire all over big cities, a website where you can rent out your vehicle when you’re not using it, lifelike ‘telepresence’ screens which let you talk to people in different countries and feel you’re in the same room – these are just some of today’s innovations which hint at what life may be like in 2040, according to a new report from Forum for the Future.

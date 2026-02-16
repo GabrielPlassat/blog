@@ -3,7 +3,11 @@ layout: post
 title: "Dans le monde entier, nous voyons de plus en plus de gens adhérer à cette vie de piéton"
 date: 2011-09-07 07:49:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'commuter', 'Efficacité énergétique', 'gouvernance', 'Infrastructure', 'internet', 'management de la mobilité', 'marche', 'mode doux']
+=======
+tags: ["cit\u00e9", "commuter", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "Infrastructure", "internet", "management de la mobilit\u00e9", "marche", "mode doux"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Pour [**Alex Steffen**](http://www.ted.com/speakers/alex_steffen.html), *nous substituons dans nos vies l'accès aux choses que nous voulons. Nous sortons et nous sautons en voiture et nous allons d'un endroit à un autre. Et en gros nous utilisons la mobilité pour avoir l'accès dont nous avons besoin. Mais quand nous vivons dans une communauté plus dense, soudain, ce que nous voyons, bien sûr, c'est que ce dont on a besoin n'est pas loin. Et puisque le trajet le plus durable est celui qu'en premier lieu vous ne ferez jamais, tout de suite, nos vies deviennent plus durables. Et il est possible, bien sûr, d'augmenter la densité des communautés environnantes.*

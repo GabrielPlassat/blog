@@ -3,7 +3,11 @@ layout: post
 title: "Arzens et Dyson"
 date: 2010-02-02 17:19:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['arzens', 'Energie', 'low cost', 'simplicité', 'VE', 'Véhicule']
+=======
+tags: ["arzens", "Energie", "low cost", "simplicit\u00e9", "VE", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Près de 60 ans les séparent et pourtant, l’œuf de **[Paul Arzens](http://fr.wikipedia.org/wiki/Paul_Arzens)** et l’aspirateur Dyson city sont tout deux issus de la même volonté : la conception d’objet apparemment « simple ». 

@@ -3,7 +3,11 @@ layout: post
 title: "Ouverture des données publiques en France"
 date: 2010-08-24 14:32:58 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'open source', 'partage de données']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "open source", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b0134866dff0b970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134866dff0b970c-pi.jpg) 

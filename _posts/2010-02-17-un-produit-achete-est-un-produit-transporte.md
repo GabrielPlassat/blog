@@ -3,7 +3,11 @@ layout: post
 title: "Un produit acheté est un produit transporté"
 date: 2010-02-17 09:49:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'logistique', 'marketing', 'open source', 'partage de données', 'TIC']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "logistique", "marketing", "open source", "partage de donn\u00e9es", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Et l'inverse est vrai ! La consommation et son évolution conditionnent le transport de marchandises. La publicité, les promotions, les centres commerciaux, les nouveaux concepts de magasins éphémères, toutes les évolutions dans ce domaine sont à connaître. Il s'agit d'anticiper les besoins, de développer de nouvelles solutions, de nouveaux outils pour que le consommateur intègre facilement les critères du développement durable dans ces choix (voir également **[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)** et **[ici](/2010/01/le-telephone-te-guidera.html)**), avec pour conséquences des modifications des chaînes logistiques.
@@ -37,4 +41,8 @@ L’offre de publicité mobile géolocalisée est disponible sur Paris et Ile-de
 
 Parce que la façon dont nous consommerons, influencera les modes de transport que nous choisirons, parce qu'un produit qui n'est pas acheté, ne sera plus transporté. google_protectAndRun(render_ads.js::google_render_ad", google_handleError, google_render_ad) 
 
+<<<<<<< HEAD
 "2010-02-17 09:49:23https://transportsdufutur.ademe.fr/2010/02/un-produit-achete-est-un-produit-transporte.htmldonnées réelles|logistique|marketing|open source|partage de données|TICpublish18gabriel plassatun-produit-achete-est-un-produit-transporte2010-02-17 09:49:23
+=======
+"2010-02-17 09:49:23/2010/02/17/un-produit-achete-est-un-produit-transporte/données réelles|logistique|marketing|open source|partage de données|TICpublish18gabriel plassatun-produit-achete-est-un-produit-transporte2010-02-17 09:49:23
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

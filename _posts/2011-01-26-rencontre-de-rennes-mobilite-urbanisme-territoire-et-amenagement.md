@@ -3,7 +3,11 @@ layout: post
 title: "Rencontre de Rennes - Mobilité, Urbanisme, Territoire et  Aménagement"
 date: 2011-01-26 08:54:31 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'autorité des transports', 'cité', 'citoyen', 'collectivité', 'connectivité', 'économie fonctionnalité', 'gouvernance', 'innovation', 'internet', 'internet des objets', 'management de la mobilité', 'marchandises', 'partage de données', 'partage de la voirie', 'Service de mobilité']
+=======
+tags: ["ADEME", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "\u00e9conomie fonctionnalit\u00e9", "gouvernance", "innovation", "internet", "internet des objets", "management de la mobilit\u00e9", "marchandises", "partage de donn\u00e9es", "partage de la voirie", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Issu du site d' [ITS Bretagne](http://www.itsbretagne.net/agenda/details/46-rencontresrennes.html)* * * *Comment concilier développement urbain et optimisation et maîtrise des déplacements contraints? * *De la réflexion stratégique à l’opérationnel, comment mieux cerner, à chaque étape, le rôle de la  gouvernance et de l’ingénierie associée?*

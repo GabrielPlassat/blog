@@ -3,7 +3,11 @@ layout: post
 title: "Une mesure de la congestion du trafic sous la neige"
 date: 2010-12-14 11:43:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'assistant de mobilité', 'Efficacité énergétique', 'Energie', 'téléphone']
+=======
+tags: ["ADEME", "assistant de mobilit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "t\u00e9l\u00e9phone"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Mercredi 8 décembre en région Parisienne, les intempéries annoncées sont là... dès la fin de matinée la neige tombe, et entraîne les perturbations routières dont les médias ont tant parlé...

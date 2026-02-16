@@ -3,7 +3,11 @@ layout: post
 title: "Quand viendra l’heure de la connaissance des émissions réelles…"
 date: 2010-01-19 17:02:20 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Energie', "guide d'achat", 'internet', 'internet des objets', 'iphone', 'partage de données', 'TIC', 'Véhicule']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Energie", "guide d'achat", "internet", "internet des objets", "iphone", "partage de donn\u00e9es", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La responsabilité sociale des entreprises (sujet détaillé [**ici**](/2010/01/la-responsabilite-sociale-de-lentreprise-et-les-tic.html)), le contenu carbone des produits et donc la logistique et le transport de marchandises en général (détaillé dans une étude récente de PriceWaterhouseCoopers – **[Transportation & Logistic 2030](http://www.pwc.com/gx/en/forms/tl2030.jhtml)**), la gestion d’une flotte de véhicule en location (voir **[ici](http://www.arval.fr/fre/location-longue-duree/home/actualite-presse/communiques-de-presse/articles/trophee-2009-environnement-secu.html)**), tous ces éléments (et bien d’autres !) vont conduire au développement de solutions plus ou moins intrusives permettant de connaître en temps réel les émissions de gaz à effet de serre, mais également les émissions polluantes (NOx notamment) des véhicules en circulation.
@@ -66,7 +70,11 @@ Il est désormais possible d’accéder à la consommation réelle (qui peut dif
 
  
 
+<<<<<<< HEAD
 Mais il est probable que certains parviendront à estimer en temps réel les émissions polluantes (CO, HC, NOx et peut être même les particules) avec une précision correcte en complément des émissions de CO2. **La performance environnementale complète du véhicule sera alors accessible en temps réel selon son utilisation réelle**. Les valeurs d’émissions sur les cycles d’homologation ne serviront plus comme critère de décision, de taxation ou de sélec
+=======
+Mais il est probable que certains parviendront à estimer en temps réel les émissions polluantes (CO, HC, NOx et peut être même les particules) avec une précision correcte en complément des émissions de CO2. **La performance environnementale complète du véhicule sera alors accessible en temps réel selon son utilisation réelle**. Les valeurs d’émissions sur les cycles d’homologation ne serviront plus comme critère de décision, de taxation ou de sélec_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 tion (voir **[ici ](/2009/12/la-hollande-franchit-une-etape-majeure-en-matiere-de-mobilite-individuelle.html)**le cas de la Hollande), les valeurs réelles les remplaceront. Ces données seront partagées pour construire des bases de données publiques, source de puissants outils d'aide à la décision.
 
  

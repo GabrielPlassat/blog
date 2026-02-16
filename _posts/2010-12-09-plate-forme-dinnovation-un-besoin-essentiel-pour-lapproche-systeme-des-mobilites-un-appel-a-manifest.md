@@ -3,7 +3,11 @@ layout: post
 title: "Plate forme d'innovation, un besoin essentiel pour l'approche système des mobilités, un appel à manifestation en cours"
 date: 2010-12-09 15:20:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'innovation', "Plateforme d'idées"]
+=======
+tags: ["citoyen", "innovation", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Déjà abordé dans ce blog (Voir **[quelles plateformes pour concevoir et réaliser des systèmes de mobilités 2.0 ](/2010/06/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20.html)**?), les plate formes d'innovations sont essentielles pour rassembler des entités et compétences variées nécessaires pour innover, mais également pour partager des moyens d'essais, de calculs ou encore pour impliquer les utilisateurs à la co-conception.

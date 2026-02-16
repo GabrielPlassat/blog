@@ -3,7 +3,11 @@ layout: post
 title: "Navibus par Moviken"
 date: 2010-06-03 10:47:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'connectivité', 'données réelles', 'Efficacité énergétique', 'internet']
+=======
+tags: ["citoyen", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[Moviken-SLE](http://www.moviken.com/)** dévoilera Navibus, premier contenu de navigation conçu pour les véhicules de transports de voyageurs, qu'il s'agisse de bus, trams, ou trains... A l'occasion du Salon Européen des Transports Publics qui se tiendra à Paris du 8 au 10 juin, présentera sa solution Navibus qui permettra aux véhicules de transports de voyageurs de bénéficier de la navigation, alliant l'information en temps réel, la géolocalisation par GPS et la cartographie des réseaux et des territoires.

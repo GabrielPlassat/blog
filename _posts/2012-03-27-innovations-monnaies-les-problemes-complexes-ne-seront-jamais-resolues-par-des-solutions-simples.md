@@ -3,7 +3,11 @@ layout: post
 title: "Innovations & Monnaies, les problèmes complexes ne seront jamais résolus par des solutions simples..."
 date: 2012-03-27 10:14:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance', 'gouvernance', 'holoptisme', 'innovation', 'intelligence collective', 'monnaie complémentaire', 'open innovation']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance", "gouvernance", "holoptisme", "innovation", "intelligence collective", "monnaie compl\u00e9mentaire", "open innovation"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ingénieurs, concepteurs, technologues, vous maîtrisez les sciences et les techniques, il faut également s'intéresser au sujet de la monnaie ou plutôt des monnaies. Ces dernières sont, et seront encore plus demain, de véritables catalyseurs d'innovations si elles sont bien conçues, bien adaptées aux produits/services développés. Elles permettront, notamment, aux acteurs économiques de tisser des relations de confiance avec des consommateurs plus fidèles, de concevoir des produits/services répondant parfaitement aux besoins clairement identifiés. **En conséquence, dès la conception des objets ou des services, il faut maintenant intégrer dans la conception les monnaies complémentaires associées comme étant une partie du dispositif. La monnaie, entre autre, apporte un supplément en matière d'intelligence collective: l'holoptisme. Elle permet ainsi de rendre visible l'émergence du groupe, de l'intérêt commun.** 
@@ -47,4 +51,8 @@ Ce livre s’adresse à tous les acteurs qui veulent concevoir et mettre en oeuv
 
  
 
+<<<<<<< HEAD
 "2012-03-27 10:14:00https://transportsdufutur.ademe.fr/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples.htmlcitoyen|collectivité|confiance|gouvernance|holoptisme|innovation|intelligence collective|monnaie complémentaire|open innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatinnovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples2015-07-21 16:36:33
+=======
+"2012-03-27 10:14:00/2012/03/27/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples/citoyen|collectivité|confiance|gouvernance|holoptisme|innovation|intelligence collective|monnaie complémentaire|open innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatinnovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples2015-07-21 16:36:33
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

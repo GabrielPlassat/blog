@@ -3,7 +3,11 @@ layout: post
 title: "BP energy outlook 2030"
 date: 2011-01-25 17:53:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'prix carburant']
+=======
+tags: ["Energie", "prix carburant"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [2030 energy outlook_booklet](http://www.slideshare.net/transportsdufutur/2030-energy-outlookbooklet) View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 

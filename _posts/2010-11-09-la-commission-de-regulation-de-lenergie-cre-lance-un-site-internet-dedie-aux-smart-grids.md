@@ -3,7 +3,11 @@ layout: post
 title: "La Commission de régulation de l'énergie (CRE) lance un site internet dédié aux Smart grids"
 date: 2010-11-09 15:47:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'smartgrid', 'VE']
+=======
+tags: ["Infrastructure", "smartgrid", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Créée en 2000, la **[CRE](http://www.cre.fr/fr/presentation/statut) (commission de régulation de l'énergie) **dispose d'un statut garantissant l'indépendance des missions généralement dévolues aux autorités administratives indépendantes chargées de la régulation d'un secteur économique en voie d'ouverture à la concurrence et marqué par la présence d'opérateurs publics. Elle comprend un collège et un comité de règlement des différends et des sanctions.
@@ -41,4 +45,8 @@ Ce site vise à :
 - Susciter la réflexion en regroupant tous les acteurs concernés par les Smart grids et en organisant des mini-forums bimensuels sur des thèmes qui intéressent un large public 
 - Partager l’expertise en suscitant des échanges entre les parties prenantes. En présentant les diverses expérimentations et les projets menés de Smart grids dans le monde, ce site a vocation à être prospectif 
 - Mieux informer sur l’état de la réflexion et d’avancement des projets en matière de Smart  grids proposant des dossiers thématiques sur lesquels les contributeurs sont invités à participer. 
+<<<<<<< HEAD
  [Dossier de presse_smart_grids[1]]() View more [documents]() from [transportsdufutur](). "2010-11-09 15:47:13https://transportsdufutur.ademe.fr/2010/11/la-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids.htmlInfrastructure|smartgrid|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids2015-07-21 16:37:34
+=======
+ [Dossier de presse_smart_grids[1]]() View more [documents]() from [transportsdufutur](). "2010-11-09 15:47:13/2010/11/09/la-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids/Infrastructure|smartgrid|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids2015-07-21 16:37:34
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

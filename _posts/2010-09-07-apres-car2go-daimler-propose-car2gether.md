@@ -3,7 +3,11 @@ layout: post
 title: "Après Car2Go, Daimler propose Car2gether"
 date: 2010-09-07 11:09:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['allemagne', 'covoiturage', 'internet', 'Service de mobilité', 'téléphone', 'transition générationnelle', 'twitter']
+=======
+tags: ["allemagne", "covoiturage", "internet", "Service de mobilit\u00e9", "t\u00e9l\u00e9phone", "transition g\u00e9n\u00e9rationnelle", "twitter"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Après Car2Go, solution de véhicule partagé à Ulm, Daimler propose Car2Gether, solution de partage de trajets visant tout d'abord les étudiants puis tous les citadins sans voiture. Participation des utilisateurs au design et à l'amélioration, utilisation des TIC (internet, téléphone) et des réseaux sociaux (facebook, twitter), ce service de mobilité est connecté aux autres solutions Car2Go, transports en commun, taxis.**

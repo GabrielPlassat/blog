@@ -3,7 +3,11 @@ layout: post
 title: "vialsace.eu"
 date: 2010-02-09 18:02:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['multimodes', 'simplicité']
+=======
+tags: ["multimodes", "simplicit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b0120a87c1c7e970b-pi.gif)](/assets/images/old/6a0120a66d2ad4970b0120a87c1c7e970b-pi.gif) 

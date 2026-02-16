@@ -3,7 +3,11 @@ layout: post
 title: "DHL bis, un exemple concret d'Assistant Personnel de Consommation"
 date: 2011-04-26 18:11:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'carburant', 'centre commercial', 'citoyen', "guide d'achat", 'iphone', 'marchandises']
+=======
+tags: ["Assistant Personnel de Consommation", "carburant", "centre commercial", "citoyen", "guide d'achat", "iphone", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après avoir abordé sous plusieurs formes le besoin, les exemples et l'écosystème d'un Assistant Personnel de Mobilité ou APM (voir **[ici ](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**et **[là](/2011/04/personnal-travel-assistant-assistant-personnel-de-mobilite-seoul.html)**), **[l'article précédent portant sur une étude de DHL ](/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c.html)**nous montre l'intérêt pour tous les acteurs d'un affichage carbone des produits basé sur des normes et des standards largement partagés.
@@ -50,7 +54,11 @@ Indirectement l'APC guidera le consommateur vers les produits les plus sobres é
 
 *Save 10¢, 20¢, 30¢ or More Per Gallon of Gas with Stop & Shop's Gas Rewards Program : Use your Stop & Shop Card when you shop and for every dollar spent in store or online at Peapod by Stop & Shop, you'll earn 1 point. For every 100 points earned, you'll save 10¢ per gallon of gas.*
 
+<<<<<<< HEAD
 "2011-04-26 18:11:17https://transportsdufutur.ademe.fr/2011/04/dhl-bis-un-exemple-concret-dassistant-personnel-de-consommation.htmlAssistant Personnel de Consommation|carburant|centre commercial|citoyen|guide d'achat|iphone|marchandisespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdhl-bis-un-exemple-concret-dassistant-personnel-de-consommation2015-07-21 16:37:21>***[Extrait ]()**: An iPhone app launching today provides a glimpse into the future of shopping. Created by Modiv Media, the app lets customers scan items while they shop, presents them with personalized offers as they go, and speeds up their checkout. One of the first companies to deploy the app is [Stop & Shop](), which operates more than 375 supermarkets in the eastern United States.*
+=======
+"2011-04-26 18:11:17/2011/04/26/dhl-bis-un-exemple-concret-dassistant-personnel-de-consommation/Assistant Personnel de Consommation|carburant|centre commercial|citoyen|guide d'achat|iphone|marchandisespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdhl-bis-un-exemple-concret-dassistant-personnel-de-consommation2015-07-21 16:37:21>***[Extrait ]()**: An iPhone app launching today provides a glimpse into the future of shopping. Created by Modiv Media, the app lets customers scan items while they shop, presents them with personalized offers as they go, and speeds up their checkout. One of the first companies to deploy the app is [Stop & Shop](), which operates more than 375 supermarkets in the eastern United States.*
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

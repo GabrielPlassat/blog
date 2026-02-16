@@ -3,7 +3,11 @@ layout: post
 title: "Facebook achète Moves, solution de tracking"
 date: 2014-04-24 17:47:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Santé', 'surveillance']
+=======
+tags: ["Sant\u00e9", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**Moves**](http://www.moves-app.com/) vient d'annoncer son rachat par Facebook (lire l'[**article du WSJ**](http://blogs.wsj.com/digits/2014/04/24/with-app-acquisition-facebook-enters-fitness-tracking-market/)). Moves (voir l'[**article du MIT**](http://www.technologyreview.com/news/510491/every-step-you-take-tracked-automatically/)) permet de tracer intégralement votre activité physique quotidienne en identifiant automatiquement l'activité physique ou votre mode de transport. Il s'agit pour Facebook de proposer une solution permettant de mieux connaître son activité, pour améliorer ses pratiques et se maintenir en forme. 

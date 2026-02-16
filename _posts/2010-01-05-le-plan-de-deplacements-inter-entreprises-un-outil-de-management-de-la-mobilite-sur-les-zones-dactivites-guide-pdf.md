@@ -3,7 +3,11 @@ layout: post
 title: "Le Plan de déplacements inter-entreprises, un outil de management de la mobilité sur les zones d'activités"
 date: 2010-01-05 16:16:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Infrastructure', 'PDIE', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["ADEME", "Infrastructure", "PDIE", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Depuis un demi-siècle, l’extension spatiale des villes en France s’est effectuée principalement dans les couronnes périurbaines, sous la forme de lotissements de maisons individuelles et de zones d’activités pour l’accueil des entreprises.

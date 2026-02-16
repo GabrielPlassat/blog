@@ -3,7 +3,11 @@ layout: post
 title: "Le choc à venir entre industrie automobile et industrie numérique"
 date: 2012-09-10 16:16:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'assistant de mobilité', 'citoyen', 'collectivité', 'connectivité', 'covoiturage', 'cybercar', 'donnée data', 'données réelles', "économie de l'expérience", 'économie fonctionnalité', 'Efficacité énergétique', 'google', 'holoptisme', 'Infrastructure', 'intelligence collective', 'internet des objets', 'partage de la voirie', 'Service de mobilité']
+=======
+tags: ["Amazon", "assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "covoiturage", "cybercar", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "holoptisme", "Infrastructure", "intelligence collective", "internet des objets", "partage de la voirie", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'industrie automobile a choisi de concevoir, développer et commercialiser des produits qui s'adaptent à tous les territoires, tous les usages, et tous les clients. Après une formation simple (le permis de conduire), le même véhicule peut être mis entre toutes les mains. Ainsi, il a été choisi d'optimiser uniquement le véhicule. Cette stratégie enveloppe" a atteint clairement sa limite. Devant la complexité quotidienne de nos déplacements, toutes les innovations placées dans le véhicule seul ne sont pas suffisantes il convient d'optimiser dès le départ **le véhicule et le conducteur dans son contexte**. **Et paradoxalement, il est désormais probable que la meilleure optimisation consistera à supprimer le conducteur ...**
@@ -62,4 +66,8 @@ Les cybercars pourront à leur tour produire de nouvelles données permettant de
 
  
 
+<<<<<<< HEAD
 "2012-09-10 16:16:38https://transportsdufutur.ademe.fr/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.htmlAmazon|assistant de mobilité|citoyen|collectivité|connectivité|covoiturage|cybercar|donnée data|données réelles|économie de l'expérience|économie fonctionnalité|Efficacité énergétique|google|holoptisme|Infrastructure|intelligence collective|internet des objets|partage de la voirie|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires2015-07-21 16:36:26
+=======
+"2012-09-10 16:16:38/2012/09/10/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/Amazon|assistant de mobilité|citoyen|collectivité|connectivité|covoiturage|cybercar|donnée data|données réelles|économie de l'expérience|économie fonctionnalité|Efficacité énergétique|google|holoptisme|Infrastructure|intelligence collective|internet des objets|partage de la voirie|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires2015-07-21 16:36:26
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

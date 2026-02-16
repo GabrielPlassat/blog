@@ -3,7 +3,11 @@ layout: post
 title: "L’automobile et le centre commercial, un même destin ?"
 date: 2009-12-16 12:16:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['centre commercial', 'drive-in', 'Energie', 'Infrastructure', 'Véhicule']
+=======
+tags: ["centre commercial", "drive-in", "Energie", "Infrastructure", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Alors que les ventes dans les hypermarchés poursuivent leur descente, les grands centres commerciaux eux aussi ne font plus recettes ([moins 6,8% en novembre par rapport à 2008](http://www.lemonde.fr/economie/article/2009/12/14/face-a-un-certain-essoufflement-le-modele-du-centre-commercial-tente-de-se-reinventer_1280306_3234.html)). Ironie de l’histoire, pour certains c’est la prime à la casse automobile qui serait à l’origine en « aspirant » le budget des ménages, les conduisant à des économies sur les autres postes. Le couple automobile / supermarché est-il fâché ?
@@ -61,7 +65,11 @@ En étant capable de « condenser » en un point l’espace-temps, ces endroit
 
  
 
+<<<<<<< HEAD
 A ce moment, les mobilités des personnes et des marchandises n’auront alors jamais été plus inter liées, plus performantes, mais aussi pl
+=======
+A ce moment, les mobilités des personnes et des marchandises n’auront alors jamais été plus inter liées, plus performantes, mais aussi pl_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 us complexes à gérer, impliquant de nouveaux métiers, des données fiables et partagées, et une grande maîtrise de l’espace public.
 
  

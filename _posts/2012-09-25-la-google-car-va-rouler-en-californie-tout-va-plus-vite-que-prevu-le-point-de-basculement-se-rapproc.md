@@ -3,7 +3,11 @@ layout: post
 title: "La Google Car va rouler en Californie. Tout va plus vite que prévu. Le point de basculement se rapproche."
 date: 2012-09-25 10:58:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['carburant', 'citoyen', 'collectivité', 'commuter', 'confiance', 'connectivité', 'cybercar', 'donnée data', 'Efficacité énergétique', 'Infrastructure', 'innovation', 'internet des objets', 'ITS', 'multimodes', 'partage de données', 'partage de la voirie', 'Service de mobilité', 'véhicule propre']
+=======
+tags: ["carburant", "citoyen", "collectivit\u00e9", "commuter", "confiance", "connectivit\u00e9", "cybercar", "donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure", "innovation", "internet des objets", "ITS", "multimodes", "partage de donn\u00e9es", "partage de la voirie", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Google, et je ne dis pas cela négativement, ils voulaient tout maintenant". Cette phrase a été prononcée par M.Posner, lobbyist pour Google, dans la procédure de validation permettant à des véhicules sans chauffeur de rouler en Californie. Elle résume à elle seule la situation : Google veut opérer des véhicules robots dans l'état américain le plus puissant, rapidement.

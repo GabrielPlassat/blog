@@ -54,7 +54,11 @@ Le journaliste américain Tom Vanderbilt est fasciné par la circulation. Ayant 
 
  
 
+<<<<<<< HEAD
 Vanderbilt écrit que les routes sont remplies de gens qui pensent qu'elles ne sont faites que pour eux. Il propose des pages mémorables sur le stress du changement de voie, la complexité psychique des déplacements motorisés, les mécanismes cognitifs mobilisés pour nous repérer, les dangers des habitudes
+=======
+Vanderbilt écrit que les routes sont remplies de gens qui pensent qu'elles ne sont faites que pour eux. Il propose des pages mémorables sur le stress du changement de voie, la complexité psychique des déplacements motorisés, les mécanismes cognitifs mobilisés pour nous repérer, les dangers des habitudes_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 (nous faisons moins attention aux trajets familiers). Reprenant des thèses établies, notre passionné soutient que plus on se sent en sécurité, plus notre conduite sera à risque. Traverser en dehors des passages piétons peut être à cet égard moins dangereux - car nous sommes alors davantage sur nos gardes -que de les respecter. 
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "MétaNote TdF 4 - Les énergies"
 date: 2010-03-17 16:15:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['batiment', 'citoyen', 'Efficacité énergétique', 'Infrastructure', 'internet', 'mode doux', 'multimodes', 'PDIE', 'Service de mobilité']
+=======
+tags: ["batiment", "citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure", "internet", "mode doux", "multimodes", "PDIE", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cette MétaNote vise à faire un bilan dans le domaine des énergies utilisées pour les transports. Le graphique suivant est sans appel, en France, la consommation d'énergie est focalisée sur la route, donc sur le pétrole. Est-ce que cette concentration est robuste aux cygnes noirs (voir [**ici**](/2009/11/quel-sera-le-prochain-cygne-noir-.html) - évènements fortement improbables qui changent tout quand ils arrivent)? Quelles évolutions de la demande de transport, de l'offre énergétique peut-on déjà envisager ? Dans un monde de services de mobilité, quelle pourrait être la place d'un énergéticien ?
@@ -75,7 +79,11 @@ Dans ce contexte de diversification énergétique, de spécialisation et de réd
 
  
 
+<<<<<<< HEAD
 "2010-03-17 16:15:41https://transportsdufutur.ademe.fr/2010/03/les-energies.htmlMétaNotesbatiment|citoyen|Efficacité énergétique|Infrastructure|internet|mode doux|multimodes|PDIE|Service de mobilitépublish18gabriel plassatles-energies2017-11-02 16:38:347846"" target=""_blank"">ici un exemple) ou à des batailles pour conserver les ressources primaires (il y a déjà aujourd'hui plusieurs utilisateurs d'huile de palme : industries alimentaire, des savons et demain des énergies), 
+=======
+"2010-03-17 16:15:41/2010/03/17/les-energies/MétaNotesbatiment|citoyen|Efficacité énergétique|Infrastructure|internet|mode doux|multimodes|PDIE|Service de mobilitépublish18gabriel plassatles-energies2017-11-02 16:38:347846"" target=""_blank"">ici un exemple) ou à des batailles pour conserver les ressources primaires (il y a déjà aujourd'hui plusieurs utilisateurs d'huile de palme : industries alimentaire, des savons et demain des énergies), 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 - des bilans environnementaux multicritères de plus en plus complexes variables dans le temps (en fonction de la demande d'un ou plusieurs co-produits) et dans l'espace (les marchés ne sont pas homogènes selon les territoires). 
  
 

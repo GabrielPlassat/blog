@@ -3,11 +3,16 @@ layout: post
 title: "Le programme Apollo par Baidu, le pire scénario pour l'industrie automobile européenne"
 date: 2017-04-19 10:01:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur numérique des Mobilités et des Logistiques', 'art de la guerre', 'Baidu', 'Comment agir pour changer les pratiques ?', 'communs', 'cybercar', 'données réelles', 'Fabrique des mobilités', 'google', 'open innovation', 'open source', 'plate-forme']
+=======
+tags: ["Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "art de la guerre", "Baidu", "Comment agir pour changer les pratiques ?", "communs", "cybercar", "donn\u00e9es r\u00e9elles", "Fabrique des mobilit\u00e9s", "google", "open innovation", "open source", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Baidu a annoncé aujourd'hui un nouveau projet intitulé "Apollo" qui fournira une plate-forme logicielle ouverte, complète et fiable pour ses partenaires dans l'industrie de la conduite automobile et autonome afin de développer leurs propres systèmes de conduite autonome avec des véhicules de référence et une plate-forme matérielle.
 
+<<<<<<< HEAD
 En ouvrant sa technologie de conduite autonome robuste, mature et sûre à l'industrie, Baidu vise à construire un écosystème collaboratif, en utilisant ses forces dans la technologie de l'intelligence artificielle (IA) pour collaborer avec d'autres entreprises afin de promouvoir le développement et la vulgarisation de la conduite autonome.
 
 Le projet Apollo fournit une solution complète de services matériels et logiciels qui comprend une plateforme de véhicule, une plateforme matérielle de capteur, une plateforme logicielle et des services de données. Baidu ouvrira les codes sources gérant la perception des obstacles, la planification de la trajectoire, le contrôle des véhicules, les systèmes d'exploitation des véhicules et d'autres fonctions, ainsi qu'un ensemble complet d'outils de test.
@@ -22,4 +27,38 @@ Un [**précédent article**](https://www.linkedin.com/pulse/constructeurs-vos-pl
 
 En Europe, aucune initiative de ce type, aucune volonté de construire une plateforme industrielle ouverte à l'échelle de l'union. [**La Fabrique des Mobilités**](http://lafabriquedesmobilites.fr) lance un tel chantier en souhaitant *industrialiser *la production de communs. Toutes les communautés peuvent désormais répliquer cette approche d’identifier des communs et de production en répondant à [**l’appel à communs**](http://wiki.lafabriquedesmobilites.fr/wiki/La_Fabrique_%C3%A0_Projets_-_Open_FabMob) sur des thèmes identifiés. Les ateliers thématiques sur l’open source (soft, hard) ont bien fonctionné avec maintenant plus de [**250 ressources identifiées**](http://communs.lafabriquedesmobilites.fr). La Fabrique accompagne également un partenaire industriel, Renault, dans l’ouverture de la [**Twizy**](http://wiki.lafabriquedesmobilites.fr/wiki/Twizy_Open_Source_POM) pour identifier les meilleurs compromis pour Renault et l’écosystème. L’étude d’un boitier connecté open source est également initié.
 
+=======
+_x000D_
+
+En ouvrant sa technologie de conduite autonome robuste, mature et sûre à l'industrie, Baidu vise à construire un écosystème collaboratif, en utilisant ses forces dans la technologie de l'intelligence artificielle (IA) pour collaborer avec d'autres entreprises afin de promouvoir le développement et la vulgarisation de la conduite autonome.
+
+_x000D_
+
+Le projet Apollo fournit une solution complète de services matériels et logiciels qui comprend une plateforme de véhicule, une plateforme matérielle de capteur, une plateforme logicielle et des services de données. Baidu ouvrira les codes sources gérant la perception des obstacles, la planification de la trajectoire, le contrôle des véhicules, les systèmes d'exploitation des véhicules et d'autres fonctions, ainsi qu'un ensemble complet d'outils de test.
+
+_x000D_
+
+[![baidu_apollo](http://transportsdufutur.ademe.fr/assets/images/2017/04/baidu_apollo.jpg)](http://transportsdufutur.ademe.fr/assets/images/2017/04/baidu_apollo.jpg)
+
+_x000D_
+
+_x000D_
+
+Baidu lancera également une alliance de partenariat pour fournir les véhicules, les capteurs et les autres composants, afin d'obtenir une large participation d'un écosystème en pleine expansion activé par Project Apollo. Baidu ouvrira d'abord sa technologie de conduite autonome pour un environnement restreint en juillet. Il va ensuite partager sa technologie pour les voitures fonctionnant de manière autonome dans les conditions simples de la route urbaine vers la fin de l'année.
+
+_x000D_
+
+Pour Anning Chen, directeur général de Chery, "*la recherche et le développement de technologies de conduite autonomes ont un seuil très élevé. L'ouverture de la plate-forme de Baidu revêt une grande importance pour l'industrie automobile*". Le couplage d'une plate-forme ouverte avec des coûts de matériel réduits signifie que la conduite autonome peut devenir populaire plus rapidement. **[Baidu a quelques mois de retard sur Waymo](https://www.theinformation.com/how-baidu-is-leading-chinas-self-driving-car-push)**, mais possède plusieurs avantages en dehors des aspects politiques. Et notamment une très grande fragmentation des constructeurs et équipementiers chinois qui permet à Baidu de jouer un rôle central dans un marché domestique immense.
+
+_x000D_
+
+Un [**précédent article**](https://www.linkedin.com/pulse/constructeurs-vos-plateformes-br%C3%BBlent-gabriel-plassat) décrivait un tel scénario mais, dans mon hypothèse, il était porté par Google. Il est toujours fort probable que Google mène un développement similaire. Pourquoi écrire que ce scénario est le pire ? Nous [**savons maintenant**](/2017/02/24/lhistoire-repete-parfois/) comment fonctionne les plateformes numériques dominantes, maintenant renforcées par les IA : elles aspirent à elles les données pour mieux construire les modèles et les logiciels. C'est donc tout simplement stratégique et incontournable dans un monde numérique.
+
+_x000D_
+
+En Europe, aucune initiative de ce type, aucune volonté de construire une plateforme industrielle ouverte à l'échelle de l'union. [**La Fabrique des Mobilités**](http://lafabriquedesmobilites.fr) lance un tel chantier en souhaitant *industrialiser *la production de communs. Toutes les communautés peuvent désormais répliquer cette approche d’identifier des communs et de production en répondant à [**l’appel à communs**](http://wiki.lafabriquedesmobilites.fr/wiki/La_Fabrique_%C3%A0_Projets_-_Open_FabMob) sur des thèmes identifiés. Les ateliers thématiques sur l’open source (soft, hard) ont bien fonctionné avec maintenant plus de [**250 ressources identifiées**](http://communs.lafabriquedesmobilites.fr). La Fabrique accompagne également un partenaire industriel, Renault, dans l’ouverture de la [**Twizy**](http://wiki.lafabriquedesmobilites.fr/wiki/Twizy_Open_Source_POM) pour identifier les meilleurs compromis pour Renault et l’écosystème. L’étude d’un boitier connecté open source est également initié.
+
+_x000D_
+
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 Les infrastructure numériques ([**slack**](http://fabmobteam.slack.com), [**wiki**](http://wiki.lafabriquedesmobilites.fr/)) et physiques ([**ateliers, conférences**](http://wiki.lafabriquedesmobilites.fr/wiki/Ev%C3%A9nements)) mises en œuvre permettent à tous les membres de la Fabrique d’organiser des évènements, à créer des communautés, à documenter des connaissances, à échanger en groupe ouvert/fermé, à impliquer tout le monde dans la contribution. **Si vous pensez que cette approche est pertinente et complémentaire aux approches traditionnelles, rejoignez nous ! Nous avons besoin de toutes les énergies !**

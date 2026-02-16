@@ -3,7 +3,11 @@ layout: post
 title: "Changer. Enfin."
 date: 2014-12-09 14:57:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'Fabrique des mobilités', 'holoptisme', 'innovation', 'intelligence collective', 'management de la mobilité', 'marketing individualisé', 'temporalité', 'territoire']
+=======
+tags: ["citoyen", "confiance", "Fabrique des mobilit\u00e9s", "holoptisme", "innovation", "intelligence collective", "management de la mobilit\u00e9", "marketing individualis\u00e9", "temporalit\u00e9", "territoire"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Partout il est question d'accompagner le changement, de le conduire, d'amener les citoyens à changer de moyens de transport. Par de l'information, par des exemples à suivre, par des guides, par des incitatifs ou des contraintes. Ce changement n'est plus une option tant le développement de l'offre de transport est limité. Pour autant, plus la volonté de changer est grande, plus, dans les faits, les pratiques ne changent pas ou très lentement. 

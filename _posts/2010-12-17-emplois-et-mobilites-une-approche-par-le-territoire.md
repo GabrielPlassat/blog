@@ -3,7 +3,11 @@ layout: post
 title: "Emplois et mobilités, une approche par le territoire"
 date: 2010-12-17 11:06:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['agence mobilité', 'citoyen', 'collectivité', 'gouvernance', 'maison de la mobilité', 'management de la mobilité', 'Service de mobilité']
+=======
+tags: ["agence mobilit\u00e9", "citoyen", "collectivit\u00e9", "gouvernance", "maison de la mobilit\u00e9", "management de la mobilit\u00e9", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Entre 2008 et 2010, la Maison de l'Emploi des Hautes Alpes a initié une démarche de diagnostic territorial partagé sur l'emploi en partenariat avec une douzaine de communautés de communes. Sur l'ensemble du département, ces diagnostics  locaux ont mis en évidence les difficultés d'accès à l'emploi et aux services qui lui sont liés. La Maison de l'Emploi a donc décidé de mener une étude **Mobilité vers l'emploi**" pour mieux cerner les besoins et les initiatives déjà existantes. La réalisation de cette étude étant confiée à **[l'ADRETS]()**.
@@ -26,4 +30,8 @@ Entre 2008 et 2010, la Maison de l'Emploi des Hautes Alpes a initié une démarc
 - Organiser les déplacements, 
 - Organiser les solutions de proximité, 
 - Propositions suivant le type de public 
+<<<<<<< HEAD
  [Etude mobilite vers_l_emploi_dans_les_hautes_alpes_-_finalise]() View more [documents]() from [transportsdufutur](). "2010-12-17 11:06:32https://transportsdufutur.ademe.fr/2010/12/emplois-et-mobilites-une-approche-par-le-territoire.htmlagence mobilité|citoyen|collectivité|gouvernance|maison de la mobilité|management de la mobilité|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatemplois-et-mobilites-une-approche-par-le-territoire2015-07-21 16:37:30
+=======
+ [Etude mobilite vers_l_emploi_dans_les_hautes_alpes_-_finalise]() View more [documents]() from [transportsdufutur](). "2010-12-17 11:06:32/2010/12/17/emplois-et-mobilites-une-approche-par-le-territoire/agence mobilité|citoyen|collectivité|gouvernance|maison de la mobilité|management de la mobilité|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatemplois-et-mobilites-une-approche-par-le-territoire2015-07-21 16:37:30
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

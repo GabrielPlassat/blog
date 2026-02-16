@@ -3,7 +3,11 @@ layout: post
 title: "Vision US des transports 2020"
 date: 2010-04-12 11:34:08 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'citoyen', 'connectivité', 'covoiturage', 'données réelles', 'Efficacité énergétique', 'emission', 'Energie', 'internet', 'internet des objets', 'iphone', 'mode doux', 'multimodes', 'partage de données', 'Santé', 'Service de mobilité', 'transition générationnelle', 'véhicule propre']
+=======
+tags: ["autopartage", "citoyen", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "internet", "internet des objets", "iphone", "mode doux", "multimodes", "partage de donn\u00e9es", "Sant\u00e9", "Service de mobilit\u00e9", "transition g\u00e9n\u00e9rationnelle", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cette vision 2020 des mobilités aux USA (*Steve McCallion is executive creative director at Ziba Design, in Portland, Ore) *est intéressante. Plus de véhicules partagés, des véhicules plus petits, plus légers, innovants, des mobilités vendus à l'usage, intégrant des passerelles avec la santé (forfait car + gym), connecté aux réseaux sociaux. Mais certaines barrières ne sont pas évoquées : confiance, surveillance notamment.
@@ -58,4 +62,8 @@ People in 2020 are more open to sharing mobility resources, as pride of ownershi
 
 *Steve McCallion is executive creative director at Ziba Design, in Portland, Ore.*
 
+<<<<<<< HEAD
 "2010-04-12 11:34:08https://transportsdufutur.ademe.fr/2010/04/cette-vision-2020-des-mobilites-aux-usa-steve-mccallion-is-executive-creative-director-at-ziba-design-in-portland-ore-es.htmlautopartage|citoyen|connectivité|covoiturage|données réelles|Efficacité énergétique|emission|Energie|internet|internet des objets|iphone|mode doux|multimodes|partage de données|Santé|Service de mobilité|transition générationnelle|véhicule proprepublish18gabriel plassatcette-vision-2020-des-mobilites-aux-usa-steve-mccallion-is-executive-creative-director-at-ziba-design-in-portland-ore-es2010-04-12 11:34:08
+=======
+"2010-04-12 11:34:08/2010/04/12/cette-vision-2020-des-mobilites-aux-usa-steve-mccallion-is-executive-creative-director-at-ziba-design-in-portland-ore-es/autopartage|citoyen|connectivité|covoiturage|données réelles|Efficacité énergétique|emission|Energie|internet|internet des objets|iphone|mode doux|multimodes|partage de données|Santé|Service de mobilité|transition générationnelle|véhicule proprepublish18gabriel plassatcette-vision-2020-des-mobilites-aux-usa-steve-mccallion-is-executive-creative-director-at-ziba-design-in-portland-ore-es2010-04-12 11:34:08
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

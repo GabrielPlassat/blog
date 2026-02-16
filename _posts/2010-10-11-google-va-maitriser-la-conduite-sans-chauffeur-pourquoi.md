@@ -3,7 +3,11 @@ layout: post
 title: "Google (va) maîtrise(r) la conduite sans chauffeur... Mais Pourquoi ?"
 date: 2010-10-11 10:41:45 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cybercar', 'donnée data', 'données réelles', 'google', 'internet des objets', 'partage de données', 'sécurité', 'surveillance']
+=======
+tags: ["cybercar", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "google", "internet des objets", "partage de donn\u00e9es", "s\u00e9curit\u00e9", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Récemment, Google vient d'annoncer son projet de voiture automatique en milieu urbain. « *Nous avons développé une technologie de pilotage automatique pour les voitures* », explique l'ingénieur Sebastian Thrun sur le blog officiel de la société. Les modèles sont équipés de caméras vidéo, de capteurs sensoriels ainsi que d'un télémètre laser pour analyser l'état du trafic routier. A ces outils s'ajoute une base de données de cartes géographiques collectées à partir des voitures classiques. Ces informations sont ensuite envoyées vers les centres de données de Google afin d'être traitées.

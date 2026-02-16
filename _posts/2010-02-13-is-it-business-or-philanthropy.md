@@ -3,7 +3,11 @@ layout: post
 title: "Après la microfinance, la microphilanthropie ?"
 date: 2010-02-13 19:05:40 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['marketing', 'philanthropie', 'Précarité', 'TIC']
+=======
+tags: ["marketing", "philanthropie", "Pr\u00e9carit\u00e9", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Pourquoi s'intéresser à la philanthropie dans la mobilité (déjà un peu abordé **[ici](/2010/02/3000-euros-doption-dans-une-twingo-.html)**) ? **Parce qu'en agissant du coté de l'offre (industries) et de la demande (consommateur), elle pourrait permettre de faire pénétrer massivement des solutions aujourd'hui marginales en s'intéressant aux plus faibles et en restaurant du lien social**. Mais aussi parce qu'elle va se fondre dans la communication des entreprises, parce que le don et le produit seront vendus ensemble, nous avons tous intérêt à bien comprendre cette philanthropie 2.0, **[sujet central du blog La Fontaine de Pierre](http://fontainedepierres.blogspot.com/)**. Il faudra ensuite tenter d'en prévoir les effets, les limites, les risques et les opportunités.

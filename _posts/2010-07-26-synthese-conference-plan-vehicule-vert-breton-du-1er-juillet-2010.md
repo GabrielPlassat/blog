@@ -3,7 +3,11 @@ layout: post
 title: "Synthèse conférence Plan Véhicule Vert Breton du 1er juillet 2010"
 date: 2010-07-26 12:08:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'collectivité', 'economie circulaire', 'économie fonctionnalité', 'Infrastructure', 'internet', 'living lab', 'partage de données', "Plateforme d'idées", 'Service de mobilité', 'véhicule propre']
+=======
+tags: ["cit\u00e9", "collectivit\u00e9", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Infrastructure", "internet", "living lab", "partage de donn\u00e9es", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Il appartenait à Christian Le Renard, Président de Novincie, au nom des organisateurs de **[cette journée](/2010/06/la-bretagne-precurseur-dun-nouveau-standard-de-mobilite.html)**, d’accueillir les participants. Plaçant d’emblée l’usager au coeur de sa réflexion, il posa la question essentielle : les véhicules de demain vont-ils rendre « la vie plus vivable » dans les villes, en associant urbanité et mobilité ? « On est entré, dit-il, dans l’ère de l’hyper mobilité grâce aux techniques d’information et de communication. Nous devons réinventer la cité, c'est-à-dire la « ré-enchanter ». Et de montrer qu’en Bretagne, tous les maillons de la chaîne du futur sont présents : quelque 25 000 travailleurs dans l’automobile, 10 000 spécialistes des TIC, sans compter l’expertise technologique et industrielle dans les composites. Se succédèrent alors une série de propos introductifs aux travaux de la journée. Premier intervenant prestigieux, le Président du Conseil Régional de Bretagne, Jean-Yves Le Drian, qui à ce premier titre ajoute ceux de Président de l’Agence Economique de Bretagne, et au niveau européen, de Président de l’intergroupe « crise automobile » du Comité des régions inter européennes.

@@ -3,7 +3,11 @@ layout: post
 title: "Robotisation, automatisation des véhicules en 2020. Qui sera le Patagonia de l'automobile ?"
 date: 2013-09-09 12:26:11 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'citoyen', 'connectivité', 'covoiturage', 'données réelles', 'economie circulaire', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'externalité', 'FORD', 'google', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'management de la mobilité', 'Service de mobilité', 'Véhicule', 'véhicule mono-usage', 'véhicule propre']
+=======
+tags: ["art de la guerre", "citoyen", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "FORD", "google", "innovation", "intelligence collective", "internet", "internet des objets", "management de la mobilit\u00e9", "Service de mobilit\u00e9", "V\u00e9hicule", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Patagonia expérimente le futur de l'automobile (lire les MétaNotes N°14 **[L'avenir de l'automobile](/2012/07/lavenir-de-lautomobile.html)**). La marque propose à ses clients **[de moins consommer](http://online.wsj.com/article/SB10001424052702303513404577352221465986612.html)**, de **[moins acheter ses produits](http://www.patagonia.com/email/11/112811.html)**, de les réparer, de les échanger.   

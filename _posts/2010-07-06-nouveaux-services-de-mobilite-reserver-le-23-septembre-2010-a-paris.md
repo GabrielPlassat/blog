@@ -3,7 +3,11 @@ layout: post
 title: "Nouveaux Services de Mobilité, réservez le 23 Septembre 2010 à Paris"
 date: 2010-07-06 15:09:42 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Service de mobilité']
+=======
+tags: ["ADEME", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’extension des territoires urbains, des demandes de déplacements des voyageurs de plus en plus diffuses dans le temps et l'espace, ainsi que les limites des transports collectifs conventionnels et la recherche d'alternatives à la voiture individuelle, ont fait émerger de nouveaux services à la mobilité tels que : transport à la demande, autopartage, covoiturage, vélos en libre-service, carapattes", etc. Favorisés par les innovations technologiques, ces services posent question sur leur domaine de pertinence, leur mode de gouvernance et leur modèle économique.

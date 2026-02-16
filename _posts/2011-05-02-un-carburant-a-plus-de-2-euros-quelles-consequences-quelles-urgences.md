@@ -3,7 +3,11 @@ layout: post
 title: "Un carburant à plus de 2 euros, conséquences et urgences"
 date: 2011-05-02 17:46:11 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'carburant', 'données réelles', 'Energie', 'externalité', 'Pay as You Move']
+=======
+tags: ["assurance", "carburant", "donn\u00e9es r\u00e9elles", "Energie", "externalit\u00e9", "Pay as You Move"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Une enquête réalisée par **[l'Association de transport routier (RHA)](http://www.roadtransport.com/Articles/2011/03/23/138355/Fuel-theft-cases-soar-as-diesel-prices-hit-all-time.htm)** a vu six répondants sur 10 (58,2%) indiqués avoir été victimes de vol de carburant au cours des 12 derniers mois. Ceci se retrouve dans une enquête en France (voir **[Ici](/assets/images/2011/05/CPVolDeGasoil.pdf)**). Il y a une corrélation entre prix du carburant à la pompe et vol de ce dernier. Une des conséquences sera donc un développement du vol de carburant conduisant à plusieurs solutions visant à le réduire : protection des véhicules (réservoir), protection des infrastructures de stockage des véhicules (parking sécurisé), protection des lieux de stockage et de livraison du carburant (station service, cuve)... ainsi qu'une augmentation de la surveillance interne à l'entreprise et externalisée par le biais des assurances.

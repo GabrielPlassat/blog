@@ -3,7 +3,11 @@ layout: post
 title: "Et si la logistique copiait la structure d'Internet, vers l'Internet Physique @PhysicInternet"
 date: 2012-01-19 11:25:12 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'Efficacité énergétique', 'Infrastructure', 'internet']
+=======
+tags: ["donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Mines Paris Tech étudie avec de nombreux partenaires cette transition (voir [**Vidéo**](http://www.armines.net/WebTV/economie-management-societe_WC2/eric-ballot-presents-the-physical-internet-initiative_V161/)). L'objectif est ici d'appliquer aux flux physiques de marchandises les principes structurels des flux d'informations. Certaines technologies de suivi, traçage, géolocalisation, puis demain l'internet des objets, rendent possible cette évolution.
@@ -38,7 +42,11 @@ Web : [**http://physicalinternetinitiative.org/**]() — Tweeter : @PhysicIntern
 
 Lien vers une [**étude du PREDITOPENFRET**]()
 
+<<<<<<< HEAD
 "2012-01-19 11:25:12https://transportsdufutur.ademe.fr/2012/01/et-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet.htmldonnée data|Efficacité énergétique|Infrastructure|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet2015-07-21 16:36:38padding-left: 30px"">Fort de premiers résultats novateurs et significatifs, une simulation de déploiement sur des produits de la grande consommation et une expérimentation à échelle réduite OTC_KAYPAL(r)MR sont en cours.
+=======
+"2012-01-19 11:25:12/2012/01/19/et-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet/donnée data|Efficacité énergétique|Infrastructure|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet2015-07-21 16:36:38padding-left: 30px"">Fort de premiers résultats novateurs et significatifs, une simulation de déploiement sur des produits de la grande consommation et une expérimentation à échelle réduite OTC_KAYPAL(r)MR sont en cours.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 Des projets sont également menés en Amérique et en Europe à travers l’Initiative de l’Internet Physique pour faire émerger des standards ouverts, sans oublier le lien avec l’Asie."
 
  

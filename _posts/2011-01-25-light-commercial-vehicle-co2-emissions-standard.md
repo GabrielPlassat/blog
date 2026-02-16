@@ -3,7 +3,11 @@ layout: post
 title: "Light commercial vehicle CO2 emissions standard"
 date: 2011-01-25 17:16:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Europe', 'véhicule propre']
+=======
+tags: ["Europe", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 The European Council discussed the proposed CO2 emission standards for light commercial vehicles. The agreed text introduces a limit of 175 g CO2/km for the average CO2 emissions from new vehicles registered in the EU. This target will apply to a small van of average mass while specific targets for individual vehicles would vary according to their weight. The limits will be phased in between 2014 and 2017.

@@ -3,7 +3,11 @@ layout: post
 title: "Le consommateur du futur : [R]évolution"
 date: 2011-10-28 12:23:29 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'citoyen', 'connectivité', 'données réelles', 'economie circulaire', 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'Energie', "guide d'achat", 'holoptisme', 'internet', 'marketing individualisé', 'open innovation', 'open source', 'partage de données']
+=======
+tags: ["Assistant Personnel de Consommation", "citoyen", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "guide d'achat", "holoptisme", "internet", "marketing individualis\u00e9", "open innovation", "open source", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Sainsbury’s et Unilever ont réalisé avec le Forum for the Future une étude particulièrement intéressante sur l’évolution des consommateurs : **[consumer futures 2020](http://www.forumforthefuture.org/project/consumer-futures-2020/overview)**. L’objectif est relativement classique pour des entreprises : anticiper les besoins des futurs clients pour développer les produits et services adaptés. Après une lecture critique de ce document, nous pouvons faire ressortir 3 qualités principales des produits et services seront proposées.
@@ -85,7 +89,11 @@ En se plaçant du point du consommateur, le cahier des charges d’un produit ou
 - Le vrai : la vérité sur le produit ou le service, la transparence totale dans tous les domaines, incluant les avis des autres consommateurs. 
  
 
+<<<<<<< HEAD
 Ces 3 qualités sont bien sûr liées entre elles, mettant en œuvre de nouveaux mécanismes de partage, de réseaux entre les consommateurs. Ces derniers ont déjà commencé à construire ces outils d’intelligence collective mett
+=======
+Ces 3 qualités sont bien sûr liées entre elles, mettant en œuvre de nouveaux mécanismes de partage, de réseaux entre les consommateurs. Ces derniers ont déjà commencé à construire ces outils d’intelligence collective mett_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ant fin au marketing de M.Berney. Le « reverse marketing » est en train de se déployer. Il est, à ce titre, étonnant, que, dans ce rapport, des entreprises continuent de croire que le marketing « descendant » peut encore avoir un impact dans un monde où le consommateur sera informé partout, tout le temps, selon les critères qu’il aura choisi.
 
  

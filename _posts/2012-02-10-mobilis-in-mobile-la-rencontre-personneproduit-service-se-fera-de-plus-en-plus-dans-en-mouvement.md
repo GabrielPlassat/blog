@@ -3,7 +3,11 @@ layout: post
 title: "Mobilis in Mobile, La rencontre personne/produit-service se fera de plus en plus en mouvement"
 date: 2012-02-10 17:58:27 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'Assistant Personnel de Consommation', 'centre commercial', 'citoyen', 'connectivité', 'Infrastructure', 'internet', 'iphone', 'marchandises', 'marketing', 'marketing individualisé']
+=======
+tags: ["assistant de mobilit\u00e9", "Assistant Personnel de Consommation", "centre commercial", "citoyen", "connectivit\u00e9", "Infrastructure", "internet", "iphone", "marchandises", "marketing", "marketing individualis\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Jules Verne fait de l'énigmatique devise du capitaine Némo - mobilis in mobile (mobile dans l'élément mobile) - le pilier de sa vie : cette capacité d'adaptation de l'homme à des notions aussi mouvantes et abstraites que son époque et la société dans laquelle il évolue.
@@ -37,4 +41,8 @@ Dans ce schéma d'évolutions, l'arrêt disparaît sauf si il se justifie pleine
 
  
 
+<<<<<<< HEAD
 "2012-02-10 17:58:27https://transportsdufutur.ademe.fr/2012/02/mobilis-in-mobile-la-rencontre-personneproduit-service-se-fera-de-plus-en-plus-dans-en-mouvement.htmlassistant de mobilité|Assistant Personnel de Consommation|centre commercial|citoyen|connectivité|Infrastructure|internet|iphone|marchandises|marketing|marketing individualisépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobilis-in-mobile-la-rencontre-personneproduit-service-se-fera-de-plus-en-plus-dans-en-mouvement2015-07-21 16:36:36
+=======
+"2012-02-10 17:58:27/2012/02/10/mobilis-in-mobile-la-rencontre-personneproduit-service-se-fera-de-plus-en-plus-dans-en-mouvement/assistant de mobilité|Assistant Personnel de Consommation|centre commercial|citoyen|connectivité|Infrastructure|internet|iphone|marchandises|marketing|marketing individualisépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobilis-in-mobile-la-rencontre-personneproduit-service-se-fera-de-plus-en-plus-dans-en-mouvement2015-07-21 16:36:36
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

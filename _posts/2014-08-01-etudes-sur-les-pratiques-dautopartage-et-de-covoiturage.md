@@ -3,7 +3,11 @@ layout: post
 title: "Etudes sur les pratiques d'autopartage et de covoiturage"
 date: 2014-08-01 15:28:09 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'autopartage', 'citoyen', 'commuter', 'covoiturage']
+=======
+tags: ["ADEME", "autopartage", "citoyen", "commuter", "covoiturage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Cet article a été rédigé par Mathieu Chassignet, Ingénieur à l'ADEME.*

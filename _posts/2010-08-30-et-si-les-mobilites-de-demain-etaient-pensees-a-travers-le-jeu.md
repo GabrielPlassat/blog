@@ -3,7 +3,11 @@ layout: post
 title: "Et si les mobilités de demain étaient pensées à travers le jeu ?"
 date: 2010-08-30 12:04:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'internet', 'jeu vidéo', 'living lab', 'partage de données', 'réseaux', 'TED', 'transition générationnelle']
+=======
+tags: ["connectivit\u00e9", "internet", "jeu vid\u00e9o", "living lab", "partage de donn\u00e9es", "r\u00e9seaux", "TED", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Des jeux comme World of Warcraft donnent aux joueurs les moyens de sauver des mondes et des motivations pour apprendre les habitudes des héros. Des jeux comme **[Sim City](http://www.youtube.com/watch?v=krM4cw5oYDk&feature=related)** propose des modules spécifiques liés aux transports pour jouer (est ce encore un jeu ?) à construire des systèmes de mobilité performants. Que se passerait-il si nous pouvions utiliser la puissance des joueurs pour résoudre des problèmes du monde réel ?

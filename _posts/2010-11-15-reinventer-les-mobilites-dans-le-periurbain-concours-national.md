@@ -3,7 +3,11 @@ layout: post
 title: "Réinventer les mobilités dans le périurbain - concours national"
 date: 2010-11-15 15:57:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'commuter', 'connectivité', 'innovation', 'internet', 'Service de mobilité']
+=======
+tags: ["citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "innovation", "internet", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’Agence d’urbanisme de l’agglomération rennaise (**[Audiar](http://www.audiar.org)**) et ses partenaires proposent aux étudiants de participer à un concours national d’idées sur les mobilités dans le périurbain. Les étudiants sont sollicités pour proposer des idées dans cinq domaines : la communication, la pédagogie, le marketing, l’information, l’aménagement urbain et le design.

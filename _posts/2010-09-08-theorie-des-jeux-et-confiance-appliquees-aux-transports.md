@@ -3,7 +3,11 @@ layout: post
 title: "Théorie des jeux et confiance appliquées aux transports"
 date: 2010-09-08 17:13:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['théorie des jeux']
+=======
+tags: ["th\u00e9orie des jeux"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La [**théorie des jeux**](http://fr.wikipedia.org/wiki/Theorie_des_jeux) étudie les situations où les choix de *deux* protagonistes — ou davantage — ont des conséquences pour l’un comme pour l’autre. Cette théorie analyse notamment les comportements — prévus, réels, ou tels que justifiés *a posteriori* — d’individus face à des situations d’antagonisme, et cherche à mettre en évidence des stratégies optimales. Des situations apparemment très différentes peuvent parfois être représentées avec des structures d’incitation comparables, et constituant autant d’exemples d’un même jeu.

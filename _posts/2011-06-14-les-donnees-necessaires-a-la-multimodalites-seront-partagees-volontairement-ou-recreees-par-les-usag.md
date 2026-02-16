@@ -3,7 +3,11 @@ layout: post
 title: "Les données nécessaires à la multimodalités seront partagées volontairement ou recréées par les usagers"
 date: 2011-06-14 08:37:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'confiance', 'connectivité', 'donnée data', 'données réelles', 'multimodes', 'partage de données', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "confiance", "connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "multimodes", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Allons droit au but. Le rôle clé des données est connu, déjà abordé dans ce blog (voir **[MétaNote N°7, la donnée](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html)**). Les données publiques se libèrent plus ou moins, et il est pensable, dès à présent, d'avoir accès directement ou indirectement à ces informations essentielles. Par contre les données produits ou gérées par des structures privées restent elles majoritairement protégées car jugées stratégiques. Ainsi, par exemple, les horaires temps réel des trains, de nombreux bus ou cars ne sont pas accessibles, pénalisant les usagers. Aucun outil de multimodalité porte à porte temps réel ne peut être développé, renforçant l'usage de la voiture particulière...

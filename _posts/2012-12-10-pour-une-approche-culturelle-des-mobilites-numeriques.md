@@ -3,7 +3,11 @@ layout: post
 title: "Pour une approche culturelle de la mobilité numérique"
 date: 2012-12-10 11:15:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['google', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'pensée complexe', 'philosophie']
+=======
+tags: ["google", "holoptisme", "innovation", "intelligence collective", "internet", "internet des objets", "pens\u00e9e complexe", "philosophie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le numérique change nos vies. Il influence, notamment, nos façons de nous déplacer, d'appréhender les territoires. Le monde virtuel limité, il y a peu, à la connaissance, s'étend dans tous les domaines. Il arrive dans les objets en leur reliant entre eux avec le tout. Le tissage", déjà abordé dans plusieurs articles précédents (**[l'exemple d'Ingress]()**, **[le logiciel]()**), entre l'objet et le logiciel, se poursuit construisant un monde nouveau avec de nouvelles règles, de nouveaux modèles d'affaires. Déjà, plusieurs entreprises ont investi ces territoires vierges, elles y inventent -seules- leur loi, leur vision du monde. 
@@ -32,7 +36,11 @@ S.Vial nous propose onze caractéristiques fondamentales pour décrire l'ontoph
 
 Nous utilisons toujours la communication orale, l'écrit ne l'a pas supprimée. **Le numérique ne va pas supprimer l'écrit et l'oral. De même, le numérique -Hermès- ne va pas supprimer les industries de la transformation -Prométhée, il va par contre les modifier et sans doute les dominer.**
 
+<<<<<<< HEAD
 "2012-12-10 11:15:25https://transportsdufutur.ademe.fr/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques.htmlgoogle|holoptisme|innovation|intelligence collective|internet|internet des objets|pensée complexe|philosophiepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpour-une-approche-culturelle-des-mobilites-numeriques2015-07-21 16:35:46> 
+=======
+"2012-12-10 11:15:25/2012/12/10/pour-une-approche-culturelle-des-mobilites-numeriques/google|holoptisme|innovation|intelligence collective|internet|internet des objets|pensée complexe|philosophiepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpour-une-approche-culturelle-des-mobilites-numeriques2015-07-21 16:35:46> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

@@ -3,7 +3,11 @@ layout: post
 title: "Classement des villes les plus congestionnées utilisant les données réelles TOMTOM"
 date: 2010-04-22 15:35:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'données réelles', 'internet', 'partage de données']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **CONDITIONS DE CIRCULATION ROUTIERE EN EUROPE : 

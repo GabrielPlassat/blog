@@ -3,7 +3,11 @@ layout: post
 title: "Piaggo et Enel"
 date: 2010-03-02 14:03:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'Energie', 'Infrastructure', 'péage urbain', "qualité de l'air", 'véhicule propre']
+=======
+tags: ["cit\u00e9", "Energie", "Infrastructure", "p\u00e9age urbain", "qualit\u00e9 de l'air", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Piaggo et Enel ont annoncé une collaboration dans le domaine des 2-3 roues électriques. Les mobilités 2.0 étant basées sur une approche systémique [Véhicule-Energie-Information-Infrastructure], ce partenariat préfigure les prochaines alliances en la matière. En réponse à Autolib, nous retrouvons bien les 4 entités que ce sont groupées : constructeur, gestionnaire de parking, opérateur transport...

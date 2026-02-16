@@ -3,7 +3,11 @@ layout: post
 title: "De Jacques Ellul à Ray Kurzweil, les techniques visant à rendre les machines autonomes vont se diffuser"
 date: 2012-12-26 12:05:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'cybercar', 'données réelles', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'pensée complexe']
+=======
+tags: ["citoyen", "cybercar", "donn\u00e9es r\u00e9elles", "innovation", "intelligence collective", "internet", "internet des objets", "pens\u00e9e complexe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'automatisation des machines dont les automobiles n'est pas un sujet nouveau. Il s'inscrit dans une tendance de fond des Techniques, au sens large. Les opportunités ont déjà été identifiées dans plusieurs **[articles](/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc.html)**. Les risques issus de l'intelligence des machines sont tout aussi essentiels à connaître.

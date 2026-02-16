@@ -3,7 +3,11 @@ layout: post
 title: "STRAP GAME - the joy of Public Transport"
 date: 2011-12-16 10:05:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'connectivité', 'internet', 'jeu', 'jeu vidéo', 'TC']
+=======
+tags: ["citoyen", "connectivit\u00e9", "internet", "jeu", "jeu vid\u00e9o", "TC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b0154385efef7970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0154385efef7970c-800wi.jpg)

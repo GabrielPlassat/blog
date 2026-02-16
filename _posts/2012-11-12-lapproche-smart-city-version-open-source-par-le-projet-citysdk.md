@@ -3,7 +3,11 @@ layout: post
 title: "L'approche Smart City version Open Source par le projet CitySDK"
 date: 2012-11-12 12:21:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'collectivité', 'commuter', 'connectivité', 'donnée data', 'Europe', 'FP7', 'gouvernance', 'intelligence collective', 'internet', 'open source', 'partage de données']
+=======
+tags: ["cit\u00e9", "collectivit\u00e9", "commuter", "connectivit\u00e9", "donn\u00e9e data", "Europe", "FP7", "gouvernance", "intelligence collective", "internet", "open source", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le projet européen [**CitySDK** ](http://www.citysdk.eu/)(2012-2014) vise à développer un kit Open Source permettant à d'autres villes de mettre en oeuvre des produits/services numériques innovants dans les domaines des **[transports](http://www.citysdk.eu/mobility/)** et du tourisme.

@@ -3,7 +3,11 @@ layout: post
 title: "Certains ont compris que les données ne sont qu'un carburant pour mieux comprendre les changements de comportements"
 date: 2012-08-09 10:12:03 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'citoyen', 'collectivité', 'connectivité', 'donnée data', 'données réelles', 'internet', 'internet des objets', 'ITS', 'marketing', 'marketing individualisé', 'pensée complexe', 'Service de mobilité']
+=======
+tags: ["assurance", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "ITS", "marketing", "marketing individualis\u00e9", "pens\u00e9e complexe", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Plusieurs articles ont déjà été rédigés sur le rôle clé des données pour faciliter la multimodalité, le passage d'un mode à l'autre. Ceci nécessite un premier niveau de production de données temps réel des différents modes, de protocoles d'échanges et de partages, de mise en commun. De nombreux acteurs travaillent ce sujet, des avancées sont visibles tous les jours (exemple [**la RATP**](http://www.ratp.fr/de/ratp/r_70350/open-data/)), une [**directive européenne sur les ITS**](http://ec.europa.eu/transport/its/road/action_plan/action_plan_en.htm) est en cours de transposition.
@@ -37,4 +41,8 @@ Le numérique permet dès lors de visualiser, de quantifier, de comprendre les b
 
  
 
+<<<<<<< HEAD
 "2012-08-09 10:12:03https://transportsdufutur.ademe.fr/2012/08/certains-ont-compris-que-les-donnees-ne-sont-quun-carburant-pour-mieux-comprendre-les-changements-de.htmlassurance|citoyen|collectivité|connectivité|donnée data|données réelles|internet|internet des objets|ITS|marketing|marketing individualisé|pensée complexe|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcertains-ont-compris-que-les-donnees-ne-sont-quun-carburant-pour-mieux-comprendre-les-changements-de2015-07-21 16:36:29
+=======
+"2012-08-09 10:12:03/2012/08/09/certains-ont-compris-que-les-donnees-ne-sont-quun-carburant-pour-mieux-comprendre-les-changements-de/assurance|citoyen|collectivité|connectivité|donnée data|données réelles|internet|internet des objets|ITS|marketing|marketing individualisé|pensée complexe|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcertains-ont-compris-que-les-donnees-ne-sont-quun-carburant-pour-mieux-comprendre-les-changements-de2015-07-21 16:36:29
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

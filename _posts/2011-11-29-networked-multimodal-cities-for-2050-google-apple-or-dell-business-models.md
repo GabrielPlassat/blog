@@ -3,7 +3,11 @@ layout: post
 title: "Networked, multimodal cities for 2050 - Google, Apple or Dell business models ?"
 date: 2011-11-29 18:02:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Apple', 'assistant de mobilité', 'autorité des transports', 'cité', 'collectivité', 'commuter', 'congestion', 'connectivité', 'Dell', 'données réelles', 'Efficacité énergétique', 'Energie', 'google', 'gouvernance', 'intelligence collective', 'internet', 'ITS', 'management de la mobilité', 'mode doux', 'multimodes', 'open innovation', 'partage de données', 'Service de mobilité']
+=======
+tags: ["Apple", "assistant de mobilit\u00e9", "autorit\u00e9 des transports", "cit\u00e9", "collectivit\u00e9", "commuter", "congestion", "connectivit\u00e9", "Dell", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "google", "gouvernance", "intelligence collective", "internet", "ITS", "management de la mobilit\u00e9", "mode doux", "multimodes", "open innovation", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 AD Little publie un **[rapport ](http://www.adlittle.com/multimodal-cities-of-2050.html)**sur la mobilité urbaine, identifiant les verrous et les pistes possibles en s'appuyant sur les modèles d'affaire de Google, Apple ou Dell (Google Mobility service voir **[ICI](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html)**)... Les propositions sont bien dans l'air du temps : fournisseur de mobilité, penser intégré, réduire l'individuel, penser système synchronisé, définir des indicateurs de performances des systèmes de mobilité pour tirer vers le haut et améliorer la gouvernance (voir le rapport plus bas).

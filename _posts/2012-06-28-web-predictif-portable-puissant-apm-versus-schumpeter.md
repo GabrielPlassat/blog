@@ -3,7 +3,11 @@ layout: post
 title: "Web prédictif portable = puissant APM versus Schumpeter"
 date: 2012-06-28 11:39:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'collectivité', 'connectivité', 'données réelles', 'FORD', 'innovation', 'internet des objets', 'marketing individualisé', 'multimodes', 'open innovation']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "FORD", "innovation", "internet des objets", "marketing individualis\u00e9", "multimodes", "open innovation"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Yann Le Tilly ([**TransID**](http://transid.blogspot.fr/2012/06/un-assistant-personnel-de-mobilite-sur.html)) nous informe dune nouvelle fonction du système Android : [**Google Now**](), permettant notamment de faciliter la multimodalité, d'anticiper les bouchons, de trouver un service. Pour cela, Google utilise sa panoplie d'outils existants et les rassemble en intégrant du web [**prédictif**](). Le film ci dessous présente le service. Google poursuit ses développements pour jouer un rôle majeur dans nos mobilités. Quelles conséquences et propositions pour les acteurs historiques ?
@@ -66,7 +70,11 @@ En parallèle les acteurs du numérique pourraient faire fabriquer des objets pe
 
 La mutation du secteur automobile apparaît alors inévitable par le contexte actuel, mais également souhaitable. **Peut on également innover en matière de soutien à ce secteur ? Quelles sont les formations clés pour préparer les acteurs à devenir des Fournisseurs mondiaux de Mobilité Multimodales ? Doit-on reconduire les aides classiques au renouvellement des véhicules ?**
 
+<<<<<<< HEAD
 "2012-06-28 11:39:17https://transportsdufutur.ademe.fr/2012/06/web-predictif-portable-puissant-apm-versus-schumpeter.htmlassistant de mobilité|citoyen|collectivité|connectivité|données réelles|FORD|innovation|internet des objets|marketing individualisé|multimodes|open innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatweb-predictif-portable-puissant-apm-versus-schumpeter2015-07-21 16:36:31pour eux, la version "béta" peut durer longtemps, les utilisateurs peuvent être impliqués dans les processus de mise au point, une erreur est acceptable si elle corrigée par la version suivante. En même temps, ces évolutions et les bouleversements engendrés interrogent nos critères, nos lois, à de vitesses incompatibles. Et cela risque encore de s'accélérer ...
+=======
+"2012-06-28 11:39:17/2012/06/28/web-predictif-portable-puissant-apm-versus-schumpeter/assistant de mobilité|citoyen|collectivité|connectivité|données réelles|FORD|innovation|internet des objets|marketing individualisé|multimodes|open innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatweb-predictif-portable-puissant-apm-versus-schumpeter2015-07-21 16:36:31pour eux, la version "béta" peut durer longtemps, les utilisateurs peuvent être impliqués dans les processus de mise au point, une erreur est acceptable si elle corrigée par la version suivante. En même temps, ces évolutions et les bouleversements engendrés interrogent nos critères, nos lois, à de vitesses incompatibles. Et cela risque encore de s'accélérer ...
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

@@ -3,7 +3,11 @@ layout: post
 title: "New York Sustainable Streets"
 date: 2010-07-05 13:52:29 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports']
+=======
+tags: ["autorit\u00e9 des transports"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Since taking over as New York City's Commissioner of the [Department of Transportation](http://www.nyc.gov/html/dot/html/home/home.shtml) in mid-2007, [Janette Sadik-Khan](http://www.streetfilms.org/archives/tag/janette-sadik-khan) has taken on the challenge of making NYC streets more bike & pedestrian friendly while emphasizing livable streets and re-orienting them to accommodate all modes. She and her staff have done it quickly with innovative concepts, thinking outside the box and drawing on successful street designs from around the world to come up with a NYC model that is already changing the way our city feels.

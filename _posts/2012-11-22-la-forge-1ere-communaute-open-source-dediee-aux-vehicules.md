@@ -3,7 +3,11 @@ layout: post
 title: "La Forge, 1ère communauté open-source dédiée aux véhicules"
 date: 2012-11-22 10:07:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'commuter', 'economie circulaire', 'Efficacité énergétique', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'marketing individualisé', 'mode doux', 'open innovation', 'open source', 'plate-forme']
+=======
+tags: ["citoyen", "commuter", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "holoptisme", "innovation", "intelligence collective", "internet", "marketing individualis\u00e9", "mode doux", "open innovation", "open source", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La mise à disposition d'outils de conception numériques se simplifie - Siemens propose une [**offre gratuite** ](http://www.plm.automation.siemens.com/en_us/about_us/goplm/arc/se-academic/solid-edge-student.cfm)de Solid Edge aux étudiants, la synchronisation d'un grand nombre de compétences est désormais possible à faible coût, et les moyens de production dé-professionnalisés" se créent - la **[fablab]()** en est l'emblême. Ces moyens techniques (lire notamment sur ce sujet Le Système Technicien de J.Ellul et **[mes notes]()** sur ce livre) peuvent permettre à des collectifs de designer, concevoir, produire et expérimenter des systèmes de plus en plus complexes. Il faut pour cela que les acteurs partagent consciemment un objectif commun. Utilisant l'open source, les outils de collaboration étendus, l'intelligence collective globale, l'individu peut alors co-concevoir, co-construire "ensemble de façon autonome" des produits parfaitement adaptés utilisant des sources locales, réparables, recyclables. 

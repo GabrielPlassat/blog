@@ -3,7 +3,11 @@ layout: post
 title: "Uber, jusqu’où allez-vous aller M.Kalanick ?"
 date: 2014-09-05 12:18:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'assistant de mobilité', 'autopartage', 'citoyen', 'commuter', 'confiance', 'congestion', 'connectivité', 'covoiturage', 'données réelles', 'innovation', 'logistique', 'marketing individualisé', 'plate-forme', 'Service de mobilité', 'taxi', 'Uber']
+=======
+tags: ["art de la guerre", "assistant de mobilit\u00e9", "autopartage", "citoyen", "commuter", "confiance", "congestion", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "innovation", "logistique", "marketing individualis\u00e9", "plate-forme", "Service de mobilit\u00e9", "taxi", "Uber"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cet été, Uber vient de passer une étape majeure. Valorisé à plus de 3 milliards de dollars, lié à Google par sa dernière lever de fond, Uber appartient à la classe des start-up mondiales. Réliée à la multitude par des interfaces séduisantes pour proposer un véhicule avec chauffeur dans plusieurs villes, Uber et son CEO **[M.Kalanick](http://www.crunchbase.com/person/travis-kalanick)**, se livrent à la fois à un marathon et des sprints, sur plusieurs services, **[dans plusieurs pays](http://www.tdg.ch/geneve/actu-genevoise/uber-lance-service-limousines-lowcost-geneve/story/31798785)**. Uber vient d’ouvrir sa plateforme via des API, pour satisfaire les besoins de la multitude.

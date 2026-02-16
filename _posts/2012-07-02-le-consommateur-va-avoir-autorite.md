@@ -3,7 +3,11 @@ layout: post
 title: "Le consommateur va avoir autorité"
 date: 2012-07-02 08:46:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'citoyen', 'congestion', 'connectivité', 'données réelles', 'economie circulaire', 'Efficacité énergétique', 'google', "guide d'achat", 'internet', 'internet des objets']
+=======
+tags: ["Assistant Personnel de Consommation", "citoyen", "congestion", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "guide d'achat", "internet", "internet des objets"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Peu à peu les outils numériques peuvent permettre d'apporter l'information partout, tout le temps sur tous les supports ([**ATAWAD**](http://cap2020.experts-comptables.com/Bienvenue-dans-le-grand-Vortex/nouvelles_technologies/2020_sera_atawad_anytime_anywhere_anydevice_ou_ne_sera_pas)). Cette capacité (ou potentiel) peut se transformer, pour le consommateur, en un formidable moyen d'accéder à de nouvelles connaissances, lui permettant de mieux choisir **ses** produits, sur la base de **ses** critères : bio, local (moins de x km), commerce équitable, sans X (allergie), 20% maxi de surcout par rapport au produit le moins cher, avec emballage recyclable à x%, et chercher le même produit d'occasion ... Vers un assistant personnel de consommation.

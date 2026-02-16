@@ -3,7 +3,11 @@ layout: post
 title: "FP7 transportations & logistics Projects 2007-2013"
 date: 2012-02-29 15:12:31 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Europe', 'FP7', 'Infrastructure', 'innovation', 'marchandises', 'multimodes', 'TIC', 'transit']
+=======
+tags: ["Europe", "FP7", "Infrastructure", "innovation", "marchandises", "multimodes", "TIC", "transit"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Tous les projets en cours dans le domaine des transports de personnes et de marchandises soutenus par la Commission Européenne sont dans le document ci-dessous. En utilisant le module de recherche du document pdf vous pouvez accéder à vos besoins.

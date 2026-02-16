@@ -3,7 +3,11 @@ layout: post
 title: "Liste des villes retenues pour renforcer la lutte contre la pollution : les ZAPA"
 date: 2010-12-09 14:30:57 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'autorité des transports', 'cité', 'citoyen', 'collectivité', 'données réelles', 'péage urbain', "qualité de l'air", 'Santé']
+=======
+tags: ["ADEME", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "p\u00e9age urbain", "qualit\u00e9 de l'air", "Sant\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Afin de renforcer la **lutte contre la pollution de l’air dans les agglomérations françaises**, l'article 181 de la loi Grenelle 2 offre la possibilité aux communes ou groupements de communes de **plus de 100 000 habitants**, où une mauvaise qualité de l’air est avérée, d’expérimenter un projet de Zones d’Actions Prioritaires pour l’Air **(ZAPA).**  

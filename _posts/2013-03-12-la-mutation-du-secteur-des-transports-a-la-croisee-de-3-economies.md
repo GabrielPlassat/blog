@@ -3,7 +3,11 @@ layout: post
 title: "La mutation du secteur des transports à la croisée de 3 économies"
 date: 2013-03-12 12:02:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['application', 'autopartage', 'collectivité', 'covoiturage', 'economie circulaire', 'Efficacité énergétique', 'Fablab', 'gouvernance', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'low cost', 'management de la mobilité', 'marketing individualisé', 'monnaie complémentaire', 'multimodes', 'open innovation', 'plate-forme', "Plateforme d'idées", 'Service de mobilité']
+=======
+tags: ["application", "autopartage", "collectivit\u00e9", "covoiturage", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Fablab", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "low cost", "management de la mobilit\u00e9", "marketing individualis\u00e9", "monnaie compl\u00e9mentaire", "multimodes", "open innovation", "plate-forme", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La mise en parallèle de **[l'interview de M.Midler](http://www.withoutmodel.com/article.php?ID=2778#.UT2Gr7Sii1o.twitter)**, Directeur de Recherche à l'école Polytechnique sur le management de l'innovation, et un extrait de l'âge de la multitude apparaît comme particulièrement éclairante. 

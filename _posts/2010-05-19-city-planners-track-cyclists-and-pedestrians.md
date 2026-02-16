@@ -3,7 +3,11 @@ layout: post
 title: "City planners track cyclists and pedestrians"
 date: 2010-05-19 21:25:28 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'commuter', 'données réelles', 'partage de la voirie']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "commuter", "donn\u00e9es r\u00e9elles", "partage de la voirie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Recent **[paper from USA today](http://www.usatoday.com/news/nation/2010-05-10-bike-counters_N.htm)** indicates estimation of cyclists increase based on assumption, but city planners develop more and more counting. Without those numbers, you're leaning on intuition and assumption, which don't carry a lot of weight when you're deciding budgets in a recession," Norvell says. "The way we change concrete and asphalt is to start counting people." 

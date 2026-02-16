@@ -3,7 +3,11 @@ layout: post
 title: "Qu’est ce qu’un véhicule propre ? réponse et outil de la commission européenne …"
 date: 2010-12-07 09:52:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Europe', 'véhicule propre']
+=======
+tags: ["Europe", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La CE vient de lancer son site **[www.cleanvehicle.eu](http://www.cleanvehicle.eu/)** faisant suite à la Directive du même nom, Véhicule propre et économe. Cette directive (disponible **[ici](http://europa.eu/legislation_summaries/energy/energy_efficiency/en0011_fr.htm)**, déjà évoquée **[là](/2010/04/european-strategy-for-clean-and-efficient-vehicles.html)**) oblige toutes les commandes publiques européennes de véhicules lourds et légers d’abonner le seul critère du moins disant économique, et d’intégrer les externalités, c'est-à-dire les coûts globaux d’utilisation du véhicule sur son cycle de vie : les coûts liées aux émissions de CO2, de polluants (CO, HC, NOx, Particules), et les coûts liées à la consommation d’énergie. Un site complet est également proposé : **[clean vehicle Directive](http://ec.europa.eu/transport/urban/vehicles/directive/directive_en.htm)**.

@@ -3,11 +3,16 @@ layout: post
 title: "MétaNote TdF 5 – Les entreprises"
 date: 2010-04-13 17:41:29 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Efficacité énergétique', 'emission', 'Infrastructure', 'internet', 'multimodes', 'open source', 'partage de données', 'robustesse', 'RSE', 'Service de mobilité']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Infrastructure", "internet", "multimodes", "open source", "partage de donn\u00e9es", "robustesse", "RSE", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La transition de l’objet (véhicule) aux services (mobilités) (voir **[ici](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**) dans un secteur industriel lourd implique de s’interroger sur les évolutions nécessaires des entreprises. Comment sera dirigée une entreprise en 2020 ? comment concilier à la fois production massive d’objet et vente de services localement adaptés, changeant, modelables ?
 
+<<<<<<< HEAD
 Le leader en 2020, est supposé construire une vision, inspirer de nouvelles représentations du futur, et finalement fabriquer une stratégie qui guidera le développement de son activité. La revue Sociétal N°63 (**[Entreprise 2020](http://www.societal.fr/acc_id/liens_accid.asp?cid=200963&ccodoper=3#)** – Un leader engagé, Olivier Basso et Elisabeth Lulin) indique trois modèles pour envisager son avenir.
 
 Le premier modèle, appelé téléologique, consiste à définir un futur désirable, ce à quoi ressemblera l’entreprise à l’horizon voulu, et à tracer de manière raisonnée, étape par étape, le chemin pour y aller : un point A (aujourd’hui), un point B (le demain que l’on souhaite) et **une ligne droite pour se rendre de A à B**. Le leader est celui qui sait définir le point B le plus pertinent et déterminer la trajectoire pour s’y rendre.
@@ -35,4 +40,64 @@ La revue Sociétal N°66 propose également un article sur la RSE (**[Economie d
 
 Il apparaît clairement que la RSE s’inscrit dans un double champ de forces. En premier lieu un mouvement issu de la vague de la création de valeur : montée en puissance des investisseurs institutionnels, puis des autres parties prenantes avec une implication de l’Etat et un activisme d’ONG. En deuxième lieu, du fait de la sensibilisation croissante de la société au DD et au changement climatique, **la logique RSE de l’entreprise se trouve amplifiée par des forces beaucoup plus profondes dans la société**. Jusqu’à ces dernières années, la théorie financière était organisée autour des entreprises, des banques et des actionnaires. La donne a changé : aux actionnaires, il faut ajouter les consommateurs, les salariés et les citoyens. Il faut réfléchir aux externalités et aux conséquences à long terme de la production. L’entreprise s’intègre dans un dispositif institutionnel plus large impliquant d’emblée l’ensemble des parties prenantes. Ce dispositif s’appuie sur un changement de valeurs de ses actionnaires, de ses salariés, de ses consommateurs, changements relayés par de nouvelles formes d’activisme d’ONG, d’agences d’évaluation, de médias.
 
+=======
+_x000D_
+
+Le leader en 2020, est supposé construire une vision, inspirer de nouvelles représentations du futur, et finalement fabriquer une stratégie qui guidera le développement de son activité. La revue Sociétal N°63 (**[Entreprise 2020](http://www.societal.fr/acc_id/liens_accid.asp?cid=200963&ccodoper=3#)** – Un leader engagé, Olivier Basso et Elisabeth Lulin) indique trois modèles pour envisager son avenir.
+
+_x000D_
+_x000D_
+_x000D_
+
+Le premier modèle, appelé téléologique, consiste à définir un futur désirable, ce à quoi ressemblera l’entreprise à l’horizon voulu, et à tracer de manière raisonnée, étape par étape, le chemin pour y aller : un point A (aujourd’hui), un point B (le demain que l’on souhaite) et **une ligne droite pour se rendre de A à B**. Le leader est celui qui sait définir le point B le plus pertinent et déterminer la trajectoire pour s’y rendre.
+
+_x000D_
+
+Le second modèle, appelé essais/erreurs, consiste à aborder l’avenir non en définissant de manière équivoque un futur unique, bien délimité, représentant l’objectif à atteindre, mais en choisissant une direction : on ne préjuge pas du terme du voyage, mais du moins sait-on reconnaître qu’il se trouve ici une bifurcation et que, parmi les voies proposées, celle-ci est plus prometteuse que celle là. Dans ce modèle, la capacité du leader est, d’une part, **d’être attentif aux bifurcations**, de savoir se rendre compte des grandes options ouvertes à un instant donné et, d’autre part, d’être capable de reconnaître une erreur, de prendre conscience qu’une mauvaise direction a été prise et d’accepter d’en changer. Il ne s’agit plus véritablement d’un talent pour prévoir l’avenir ou le construire mais d’une **vigilance face aux signaux faibles**, d’une imagination suffisamment **plastique** pour concevoir des alternatives et d’une certaine **humilité** pour accepter de **se remettre en cause**.
+
+_x000D_
+
+Le troisième modèle enfin, plus darwinien, consiste à considérer que le moteur de l’entreprise n’est pas une vision énoncée d’en haut, mais d’une **multiplicité d’initiatives prises localement**, sur chaque marché, chaque segment de clientèle, chaque pays et que la stratégie est rationalisation ex post de ces initiatives, dont certaines réussissent, et sont alors encouragées par plus d’allocation de capital, plus de **prééminence organisationnelle**, plus de **liberté de manœuvre**, tandis que d’autres échouent et sont éliminés. Le rôle du leader est de créer un contexte organisationnel qui permet tout d’abord l’éclosion de ces initiatives (donc autorise **l’expérimentation** et admet le **droit à l’erreur**, mais sans favoriser non plus une prise de risque excessive), et qui entraîne ensuite leur évaluation, le tri entre celles qui méritent d’être promues et celles qui doivent être arrêtées, l’adaptation permanente de l’entreprise pour valoriser le plus vite et le plus pleinement possible les initiatives les plus prometteuses. Le dirigeant devient un **régulateur**.
+
+_x000D_
+
+**Nous pensons qu’en 2020 le premier type de modèle et le type de leader associé n’existeront plus**. L’environnement des grandes entreprises multinationales, actives sur plusieurs métiers, plusieurs marchés, plusieurs géographies, qui est déjà aujourd’hui complexe et instable le sera plus encore. Il deviendra évident que **la complexité du dispositif ne se prête plus à un pilotage par un seul chef.**
+
+_x000D_
+
+Selon la nature des métiers, nous pensons que les entreprises de 2020 s’organiseront selon deux modèles. Le premier sera fortement capitalistique, requérant des montants unitaires d’investissement élevés pour développer un nouveau produit, se prêtera mal à une approche darwinienne. Le deuxième correspondra aux entreprises de services, reposant fortement sur le dynamisme de petites équipes, s’accommodera fort bien de l’approche darwinienne. En tout état de cause, cela signifiera des leaders moins autocentrés, plus ouverts sur l’environnement, plus arbitres et régulateurs d’une équipe que réalisateurs individuels.
+
+_x000D_
+_x000D_
+
+**Le secteur automobile est actuellement centré sur le premier modèle, et devrait, en développant des services de mobilités, également reposer sur le second. Cette double compétence nécessitera de nouveaux modes d’organisation, de management, d’être capable à la fois d’organiser de lourds investissements structurels destinés à produire des véhicules, pour des applications beaucoup plus volatiles, changeantes, adaptables, de gérer à la fois le « soft » et le « hard ».**
+
+_x000D_
+
+Au-delà des dimensions personnelles et des modalités de l’exercice du pouvoir, le dirigeant de l’an 2020 devra aussi maîtriser deux grandes problématiques dont ses prédécesseurs d’aujourd’hui se déchargent souvent sur leurs collaborateur_x000D_
+s : l’attractivité de l’organisation et l’inscription sociétale de l’entreprise, confiée au directeur du développement durable.
+
+_x000D_
+
+La question de la RSE, déjà abordée dans ce blog (voir **[ici](/2010/01/la-responsabilite-sociale-de-lentreprise-et-les-tic.html)**, **[ici](/2010/02/is-it-business-or-philanthropy-.html)** et **[là](/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse.html)**) n’est plus de savoir si les entreprises doivent s’engager, mais comment elles doivent le faire. D’autant que les technologies de l’information vont profondément bouleverser **l’intrusion du citoyen/consommateur au cœur de l’entreprise** (voir **[ici](/2010/01/le-telephone-te-guidera.html)**),et lui permettre de vérifier, valider, accepter les bilans environnementaux des produits (voir **[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)**), des activités, des organisations, donc des dirigeants. L’entreprise et ses dirigeants seront pris en tenaille : 
+
+_x000D_
+
+· obligation de communiquer tous les indicateurs environnementaux et énergétiques par produit, par procédé, par activité… L’absence de communication ne sera pas acceptée par le client, la communication devra également être totale : données accessibles tout le temps, partout. Les TIC s’étendront largement dans tous les procédés de fabrication, tous les schémas logistiques,
+
+_x000D_
+
+· le client choisira ses produits en tenant compte de tous les indicateurs, critères, labels, et autres agrégés par de puissants outils (qui deviendront un point central d’autorité et dont la question « qui développeront ces outils ? » reste ouverte pour le meilleur ou pour le pire), étant accessibles partout, tout le temps. Là encore les TIC placeront le consommateur au moment de son choix, « **dans** internet », lui donnant accès aux bonnes informations.
+
+_x000D_
+
+La revue Sociétal N°66 propose également un article sur la RSE (**[Economie de la connaissance](http://www.societal.fr/acc_id/liens_accid.asp?cid=200966&ccodoper=3#)**, La RSE est elle soluble dans la maximisation du profit ?). Bref retour en arrière : depuis les années 2000, les **dispositifs de RSE ont pour objectif de redonner confiance, image et légitimité à l’économie de marché**. La montée progressive du développement durable constitue un facteur de mise en cause du modèle de création de valeur. Le Global Compact, initiative lancée en 1999 au forum de Davos par Kofi Annan, invite les entreprises à adopter, soutenir et appliquer un **ensemble de dix valeurs fondamentales** dans les domaines des droits de l’homme, des normes du travail, de l’environnement et de la lutte contre la corruption.
+
+_x000D_
+
+Il apparaît clairement que la RSE s’inscrit dans un double champ de forces. En premier lieu un mouvement issu de la vague de la création de valeur : montée en puissance des investisseurs institutionnels, puis des autres parties prenantes avec une implication de l’Etat et un activisme d’ONG. En deuxième lieu, du fait de la sensibilisation croissante de la société au DD et au changement climatique, **la logique RSE de l’entreprise se trouve amplifiée par des forces beaucoup plus profondes dans la société**. Jusqu’à ces dernières années, la théorie financière était organisée autour des entreprises, des banques et des actionnaires. La donne a changé : aux actionnaires, il faut ajouter les consommateurs, les salariés et les citoyens. Il faut réfléchir aux externalités et aux conséquences à long terme de la production. L’entreprise s’intègre dans un dispositif institutionnel plus large impliquant d’emblée l’ensemble des parties prenantes. Ce dispositif s’appuie sur un changement de valeurs de ses actionnaires, de ses salariés, de ses consommateurs, changements relayés par de nouvelles formes d’activisme d’ONG, d’agences d’évaluation, de médias.
+
+_x000D_
+
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 Les industries automobiles innovent en permanence dans un secteur invisible du grand public : **leur organisation** pour produire en 3-4 ans des objets d'une grande complexité, à bas prix, répondant à de multiples contraintes réglementaires, en impliquant des équipes réparties sur le globe, et de nombreux sous-traitants. **Ces organisations ne sont jamais figées, toujours en changement. Il faudra encore accroitre cette complexité**, pour mieux se protéger (voir **[ici](/2010/04/ce-que-lalliance-renaultdaimler-prefigure.html)**), pour construire des systèmes de mobilités plus robustes aux crises (voir **[ici](/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir.html)**) dont on ne connaît ni le lieu, ni la date, ni l'intensité, ni la durée. Et pour cela, trouver des partenaires dans d'autres domaines complémentaires (bancassurance, telecom, infrastructures, acteurs territoriaux ...), dévoiler totalement à ses clients ses indicateurs de performances environnementaux, et impliquer le citoyen/consommateur dans la conception des produits dès le départ (living lab, voir **[ici](http://www.openlivinglabs.eu/ict-usage-lab.html)**).

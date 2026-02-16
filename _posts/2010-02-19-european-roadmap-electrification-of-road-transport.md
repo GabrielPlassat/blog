@@ -3,7 +3,11 @@ layout: post
 title: "European Roadmap, Electrification of Road Transport"
 date: 2010-02-19 22:00:11 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ERTRAC', 'Europe', 'multimodes', 'Service de mobilité', 'smartgrid', 'TIC', 'VE']
+=======
+tags: ["ERTRAC", "Europe", "multimodes", "Service de mobilit\u00e9", "smartgrid", "TIC", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Quatre documents synthétisent la recherche sur ce sujet en Europe. Regroupant successivement 3 plateformes européennes : ERTRAC (European Road Transport Research Advisory Council), EPoSS (European Technology Platform on Smart System Integration et SmartGrids, un groupe dédié a été crée par la DG Recherche de la Commission Européenne.

@@ -3,7 +3,11 @@ layout: post
 title: "Nokia pourrait préfigure l'avenir de plusieurs constructeurs automobiles : la guerre des produits est devenue la guerre des écosystèmes\"\""
 date: 2011-06-24 12:38:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'gouvernance', 'innovation']
+=======
+tags: ["art de la guerre", "gouvernance", "innovation"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En début d'année, le patron du géant finlandais Nokia, leader mondial des téléphones mobiles, vient d'inviter son entreprise à une courageuse autocritique.
@@ -43,4 +47,8 @@ Les défis des transports sont dominés par un manque d'accord sur les valeurs a
 
 Apple et Google ont réussi à créer deux *mondes *(très différents Fermé / Ouvert), jouent sur des aires différentes mais apportent aux utilisateurs des produits/services de haute valeur ajoutée. Ils ont résussi à dépasser les découpages technico-industriel classiques et ainsi concurrencer des producteurs d'objet. Dans le domaine de la mobilité, les alliances type Nokia/Microsoft seront sans doute nécessaires, avec des difficultés puisque les modèles de fonctionnement (économique, technique, propriété intellectuel,...) ne pourront être trouvés qu'en avançant, en proposant leur vision du monde non pas sur la base d'un produit mais d'un écosystème ...
 
+<<<<<<< HEAD
 "2011-06-24 12:38:44https://transportsdufutur.ademe.fr/2011/06/nokia-pourrait-prefigure-lavenir-de-plusieurs-constructeurs-automobiles-la-guerre-des-produits-est-d.htmlart de la guerre|gouvernance|innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnokia-pourrait-prefigure-lavenir-de-plusieurs-constructeurs-automobiles-la-guerre-des-produits-est-d2015-07-21 16:36:46
+=======
+"2011-06-24 12:38:44/2011/06/24/nokia-pourrait-prefigure-lavenir-de-plusieurs-constructeurs-automobiles-la-guerre-des-produits-est-d/art de la guerre|gouvernance|innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnokia-pourrait-prefigure-lavenir-de-plusieurs-constructeurs-automobiles-la-guerre-des-produits-est-d2015-07-21 16:36:46
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

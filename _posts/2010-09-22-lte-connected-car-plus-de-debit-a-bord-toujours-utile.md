@@ -3,7 +3,11 @@ layout: post
 title: "LTE Connected car, plus de débit à bord, toujours utile ?"
 date: 2010-09-22 17:14:24 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cybercar', 'internet']
+=======
+tags: ["cybercar", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Soon the must-have option for new cars won't be a sunroof or leather seats—it will be ultra high-speed, high-bandwidth connectivity that revolutionizes the in-vehicle experience for drivers and passengers.  Within the [LTE Connected Car](http://ngconnect.org/ecosystem/connected-car.htm), consumers will be able to access network- and cloud-based applications that put on-demand entertainment, infotainment, diagnostics, navigation and much more at their fingertips.**

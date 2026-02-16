@@ -3,7 +3,11 @@ layout: post
 title: "Ford s'allie à Google pour mieux utiliser un hybride plugin - quand le soft devient aussi important que le hard"
 date: 2011-08-24 15:46:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'autorité des transports', 'citoyen', 'collectivité', 'données réelles', 'Efficacité énergétique', 'Energie', 'google', 'internet', 'internet des objets', 'management de la mobilité', 'TIC']
+=======
+tags: ["assurance", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "google", "internet", "internet des objets", "management de la mobilit\u00e9", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'idée est simple, comme toujours... Avec un hybride rechargeable, la batterie peut être rechargée. Cela permet de rajouter un réservoir donc un degré de liberté, qu'il est essentiel d'intégrer dans le système complet pour l'optimiser. Et là, il est nécessaire de créer des données, beaucoup de données, de les analyser, puis de les utiliser pour prévoir l'avenir.

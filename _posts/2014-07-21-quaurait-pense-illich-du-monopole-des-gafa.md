@@ -3,7 +3,11 @@ layout: post
 title: "Qu'aurait pensé Illich du monopole radical des GAFA ?"
 date: 2014-07-21 15:01:12 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'collectivité', 'commuter', 'confiance', 'Illich', 'pensée complexe', 'philosophie']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "confiance", "Illich", "pens\u00e9e complexe", "philosophie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ivan Illich a décrit parfaitement la dépendance à l'automobile. Il a forgé le concept de monopole radical pour décrire cette situation : Il désigne non pas la situation monopolistique d'une marque particulière mais le monopole induit d'une ou plusieurs marques visant à modifier, contrôler et à terme contraindre des populations à modifier radicalement (d'où l'épithète « radical ») leurs habitudes quotidiennes notamment en restreignant leurs choix et leurs libertés [...] Le monopole radical touche à tous les domaines de la vie quotidienne mais essentiellement ceux qui impliquent nécessairement un acte participatif d'achat et de consommation. Il impose ainsi de nouvelles habitudes alimentaires, vestimentaires, des contraintes dans la manière de se déplacer (marche à pied et vélo vaincus par les véhicules motorisés), d'accéder à la culture, de se soigner ou encore d'apprendre.

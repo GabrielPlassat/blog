@@ -3,7 +3,11 @@ layout: post
 title: "Quand l'art utilise l'espace public"
 date: 2010-05-26 14:00:05 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'stationnement']
+=======
+tags: ["Infrastructure", "stationnement"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La [**Saemes**](http://www.saemes.fr/), société d'économie mixte qui gère les parkings de la Ville de Paris, organise des expositions à caractère artistique dans [**ses parcs souterrains**](http://www.saemes.fr/actualite_parking/semaine_des_epl.php). 
@@ -22,4 +26,8 @@ L'artiste propose une visite guidée de son exposition le 26 mai, à 19 heures. 
 
  
 
+<<<<<<< HEAD
  [![]()]() [![]()]() [![]()]() [youtube http://www.youtube.com/watch?v=PxIpb58zQQk&color1=0xb1b1b1&color2=0xd0d0d0&hl=en_US&feature=player_embedded&fs=1]"2010-05-26 14:00:05https://transportsdufutur.ademe.fr/2010/05/quand-lart-utilise-lespace-public.htmlInfrastructure|stationnementpublish18gabriel plassatquand-lart-utilise-lespace-public2010-05-26 14:00:05
+=======
+ [![]()]() [![]()]() [![]()]() [youtube http://www.youtube.com/watch?v=PxIpb58zQQk&color1=0xb1b1b1&color2=0xd0d0d0&hl=en_US&feature=player_embedded&fs=1]"2010-05-26 14:00:05/2010/05/26/quand-lart-utilise-lespace-public/Infrastructure|stationnementpublish18gabriel plassatquand-lart-utilise-lespace-public2010-05-26 14:00:05
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

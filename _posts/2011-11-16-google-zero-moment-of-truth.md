@@ -3,7 +3,11 @@ layout: post
 title: "Google Zero Moment of Truth"
 date: 2011-11-16 16:31:56 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'connectivité', 'google', 'marchandises']
+=======
+tags: ["citoyen", "connectivit\u00e9", "google", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Parce qu'internet bouleverse le marketing (70% des américains tiennent compte des commentaires sur internet avant d'acheter un produit, 79% utilisent un smartphone quand ils font des courses), donc la relation consommateur - acteur économique, donc le choix du produit acheté. Créer, distribuer, proposer de meilleures informations, transparentes, et ouvertes devient essentiel, ouvrant des possibilités pour de nouveaux acteurs.

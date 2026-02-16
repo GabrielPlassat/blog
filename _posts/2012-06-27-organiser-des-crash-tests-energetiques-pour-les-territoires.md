@@ -3,7 +3,11 @@ layout: post
 title: "Organiser des crash tests énergétiques dans les territoires"
 date: 2012-06-27 10:07:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'catastrophe', 'citoyen', 'collectivité', 'confiance', 'donnée data', 'données réelles', 'intelligence collective', 'management de la mobilité', 'Précarité', 'transition générationnelle']
+=======
+tags: ["assistant de mobilit\u00e9", "catastrophe", "citoyen", "collectivit\u00e9", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "intelligence collective", "management de la mobilit\u00e9", "Pr\u00e9carit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le Centre d'Analyse Stratégique, dans son rapport sur [**les mobilités dans les territoires périubains et ruraux**](http://www.strategie.gouv.fr/content/rapport-les-nouvelles-mobilites-dans-les-territoires-periurbains-et-ruraux), décrivait un scénario noir possible dès 2015 : le risque de l'inaction.

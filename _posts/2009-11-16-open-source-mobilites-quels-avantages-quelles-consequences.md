@@ -3,7 +3,11 @@ layout: post
 title: "Open source & mobilités, quels avantages, quelles conséquences ?"
 date: 2009-11-16 16:01:01 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['open source', 'partage de données', 'Service de mobilité', 'TIC', 'Véhicule', 'web2.0']
+=======
+tags: ["open source", "partage de donn\u00e9es", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule", "web2.0"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Définition open-source / logiciel libre (source : wiki, www.apitux.org)**

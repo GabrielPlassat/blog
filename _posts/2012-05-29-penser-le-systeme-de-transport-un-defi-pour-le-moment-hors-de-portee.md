@@ -3,7 +3,11 @@ layout: post
 title: "Penser nos systèmes de transport, un défi, que seul un élan politique hors du commun, peut nous permettre de relever"
 date: 2012-05-29 09:06:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['catastrophe', 'cité', 'citoyen', 'collectivité', 'commuter', 'innovation', 'intelligence collective']
+=======
+tags: ["catastrophe", "cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "innovation", "intelligence collective"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 S’extraire de la situation actuelle dans laquelle nous nous sommes enfermés, franchir les murs énergétiques, environnementaux, économiques et sociaux qui nous entourent, impose de non seulement de maîtriser les fondamentaux technologiques, politiques, organisationnels, tarifaires des différents modes de transports actuels, mais également de développer des compétences, des connaissances, des outils, des approches systémiques.

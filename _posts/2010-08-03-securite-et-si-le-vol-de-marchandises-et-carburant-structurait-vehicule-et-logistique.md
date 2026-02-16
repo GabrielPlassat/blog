@@ -3,7 +3,11 @@ layout: post
 title: "Sécurité, et si le vol de marchandises et carburant structurait véhicule et logistique ?"
 date: 2010-08-03 16:19:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'logistique', 'marchandises', 'sécurité', 'surveillance']
+=======
+tags: ["assurance", "logistique", "marchandises", "s\u00e9curit\u00e9", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le dernier **[article](http://www.wk-transport-logistique.fr/actualites/detail/29371/enquete-sur-le-vol-de-fret-un-risque-qui-monte.html)** de l'Officiel des Transporteurs porte sur le vol de fret (voir ci dessous). Il analyse les statistiques, les moyens mis en oeuvre coté pouvoirs publics et coté des entreprises pour réduire ce risque, puis donne la parole aux assurances. Déjà abordé dans ce blog (voir **[ici](/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite.html)**), le prix des matières premières, dont le **[pétrole](http://ma-tvideo.france3.fr/video/iLyROoafYg3g.html)**, influence directement les vols et les actes de vandalisme.
@@ -74,7 +78,11 @@ En complément, émission de Public sénat sur la surveillance :
 
  
 
+<<<<<<< HEAD
 "2010-08-03 16:19:53https://transportsdufutur.ademe.fr/2010/08/securite-et-si-le-vol-de-marchandises-et-carburant-structurait-vehicule-et-logistique.htmlassurance|logistique|marchandises|sécurité|surveillancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsecurite-et-si-le-vol-de-marchandises-et-carburant-structurait-vehicule-et-logistique2015-07-21 16:37:42DISPLAY: block"">[Assurance cahier technique-transport-2010vfinale]() 
+=======
+"2010-08-03 16:19:53/2010/08/03/securite-et-si-le-vol-de-marchandises-et-carburant-structurait-vehicule-et-logistique/assurance|logistique|marchandises|sécurité|surveillancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsecurite-et-si-le-vol-de-marchandises-et-carburant-structurait-vehicule-et-logistique2015-07-21 16:37:42DISPLAY: block"">[Assurance cahier technique-transport-2010vfinale]() 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  View more [documents]() from [transportsdufutur](). 
 

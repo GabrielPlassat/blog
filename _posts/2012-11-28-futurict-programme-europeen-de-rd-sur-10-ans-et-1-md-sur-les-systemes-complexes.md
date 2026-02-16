@@ -3,7 +3,11 @@ layout: post
 title: "FuturICT programme européen de R&D sur 10 ans et 1 Md€ sur les systèmes complexes"
 date: 2012-11-28 15:19:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Europe', 'FP7', 'intelligence collective', 'internet', 'internet des objets', 'pensée complexe', 'TIC']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Europe", "FP7", "intelligence collective", "internet", "internet des objets", "pens\u00e9e complexe", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le projet **[FuturICT](http://www.futurict.eu/the-project)** est un méta-projet européen d'une durée de 10 ans, d'un budget d'1 Md€. Il vise à exploiter pleinement le potentiel des outils numériques connectés pour mieux comprendre les systèmes complexes, dont les liens entre sciences, technologies et société, pour des objectifs de résilience et de durabilité. Cette approche rejoint la mise en oeuvre de système intégré de transports.

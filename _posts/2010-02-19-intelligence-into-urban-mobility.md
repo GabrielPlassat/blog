@@ -3,7 +3,11 @@ layout: post
 title: "Intelligence into Urban Mobility"
 date: 2010-02-19 20:54:40 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'Ertico', 'Infrastructure', 'TIC', 'VE', 'Véhicule']
+=======
+tags: ["assistant de mobilit\u00e9", "Ertico", "Infrastructure", "TIC", "VE", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ERTICO organisait Le 4/02 un workshop sur la **[mobilité urbaine et l'apport des TIC](http://www.ertico.com/en/events/past_events/intelligence_into_urban_mobility_breakfast_workshop.htm)**. 

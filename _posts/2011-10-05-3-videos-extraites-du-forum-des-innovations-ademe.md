@@ -3,7 +3,11 @@ layout: post
 title: "3 vidéos extraites du Forum des innovations ADEME"
 date: 2011-10-05 18:45:10 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'citoyen', 'innovation', 'internet', 'Service de mobilité', 'transition générationnelle']
+=======
+tags: ["autopartage", "citoyen", "innovation", "internet", "Service de mobilit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Toutes les vidéos sont accessibles [**ICI**](http://extranet.bca.le-public-systeme.fr/img/ADEME/VIDEO/VIDEO_ADEME.html). Trois extraits : un dans le domaine de l'autopartage particulier à particulier, deux en matière d'évolutions de notre société.

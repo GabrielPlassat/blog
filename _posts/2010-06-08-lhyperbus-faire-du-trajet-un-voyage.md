@@ -3,7 +3,11 @@ layout: post
 title: "L'Hyperbus, faire du trajet un voyage"
 date: 2010-06-08 17:19:57 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['BHNS', 'connectivité', 'données réelles', "qualité de l'air", 'temporalité']
+=======
+tags: ["BHNS", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "qualit\u00e9 de l'air", "temporalit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Qu’est-ce que l’hyperbus** [**[issu du site de la FING](http://fing.org/?L-hyperbus)**]

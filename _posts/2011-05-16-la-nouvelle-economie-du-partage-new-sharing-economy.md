@@ -3,7 +3,11 @@ layout: post
 title: "La nouvelle économie du partage - New sharing economy"
 date: 2011-05-16 09:22:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'connectivité', 'economie circulaire', 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'internet', 'partage de données', 'réseaux', 'transition générationnelle']
+=======
+tags: ["citoyen", "connectivit\u00e9", "economie circulaire", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "partage de donn\u00e9es", "r\u00e9seaux", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'économie de la fonctionnalité, du quaternaire fait un lien direct avec l'économie du partage, de la mise en commun puisque les utilisateurs s'intéressent avant tout à la fonction et non à l'objet. Nous nous intéressons ici aux avantages de cette économie du partage en ce sens qu'elle conduit à revoir, à repenser le cahier des charges des objets.
@@ -60,7 +64,11 @@ From enormous marketplaces such as [eBay]() and [Craigslist](), to emerging sect
 
  
 
+<<<<<<< HEAD
  [The new sharing economy]() View more [presentations]() from [Mitya Voskresensky]() "2011-05-16 09:22:53https://transportsdufutur.ademe.fr/2011/05/la-nouvelle-economie-du-partage-new-sharing-economy.htmlcitoyen|connectivité|economie circulaire|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|internet|partage de données|réseaux|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-nouvelle-economie-du-partage-new-sharing-economy2015-07-21 16:36:48>The research was prompted by a recent surge in sharing startups driven by social technology, a generational shift, and [new consumption patterns]() brought on by economic and environmental crisis. Two new books, [*What’s Mine is Yours: The Rise of Collaborative Consumption*]() and [*The Mesh*](), argue that this [trend]() is part of a fundamental shift from an ownership to an access economy. They document the rapid growth of the sector and its reach into an increasing number categories of shared use including [office space](), [travel accommodations](), [textbooks](), [kids clothes](), [parking spaces](), [garden plots](), [private planes](), [camera lenses](), [luxury handbags](), [boats](), [household items](), and [more]().
+=======
+ [The new sharing economy]() View more [presentations]() from [Mitya Voskresensky]() "2011-05-16 09:22:53/2011/05/16/la-nouvelle-economie-du-partage-new-sharing-economy/citoyen|connectivité|economie circulaire|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|internet|partage de données|réseaux|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-nouvelle-economie-du-partage-new-sharing-economy2015-07-21 16:36:48>The research was prompted by a recent surge in sharing startups driven by social technology, a generational shift, and [new consumption patterns]() brought on by economic and environmental crisis. Two new books, [*What’s Mine is Yours: The Rise of Collaborative Consumption*]() and [*The Mesh*](), argue that this [trend]() is part of a fundamental shift from an ownership to an access economy. They document the rapid growth of the sector and its reach into an increasing number categories of shared use including [office space](), [travel accommodations](), [textbooks](), [kids clothes](), [parking spaces](), [garden plots](), [private planes](), [camera lenses](), [luxury handbags](), [boats](), [household items](), and [more]().
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

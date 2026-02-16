@@ -3,7 +3,11 @@ layout: post
 title: "Les constructeurs automobiles au Consumer Electronic Show 2011, innovation ou obligation ?"
 date: 2011-01-10 15:24:29 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'innovation', 'internet', 'internet des objets', 'partage de données', 'véhicule propre']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "innovation", "internet", "internet des objets", "partage de donn\u00e9es", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ils sont présents avec des « nouveautés », **[BMW](http://www.bmw.com/com/en/insights/technology/connecteddrive/overview.html)**, **[Audi](http://www.greencarcongress.com/2011/01/bluelink-20100106.html)**, **[Toyota](http://rumors.automobilemag.com/ces-2011-toyotas-entune-navigates-books-restaurants-buys-movie-tickets-12133.html)**, **[Hyundai](http://www.greencarcongress.com/2011/01/bluelink-20100106.html)**, **[Ford](http://media.ford.com/mini_sites/10031/FocusElectric/)** … Smartphone on wheels, connected car, de plus en plus d’électronique depuis des décennies, orientés vers le consommateur, le dernier CES (**[Consumer Electronic Show](http://www.cesweb.org/)**) voit arriver, naturellement, en masse les constructeurs. S’agit-il d’innovations automobiles, ou simplement d’une obligation pour eux de suivre l’accélération réelle du monde électronique vers l’ubiquité totale ? Qui gardera le contact avec le client final ? 

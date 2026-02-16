@@ -3,7 +3,11 @@ layout: post
 title: "Obésité, quand l'automobile devient un pharmacone"
 date: 2012-01-18 08:38:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'citoyen', 'commuter', 'donnée data', 'Energie', 'mode doux', 'multimodes', 'obésité', 'Santé', 'surveillance', 'vélo']
+=======
+tags: ["assurance", "citoyen", "commuter", "donn\u00e9e data", "Energie", "mode doux", "multimodes", "ob\u00e9sit\u00e9", "Sant\u00e9", "surveillance", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le choix du mode de transport, ou l'absence possible de choix, impacte notamment la santé. L'obésité ou encore le diabète deviennent alors des traceurs de l'usage excessif de l'automobile. Quand l'automobile devient un pharmacone, à la fois drogue et solution selon la dose. 

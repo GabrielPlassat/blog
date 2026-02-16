@@ -3,7 +3,11 @@ layout: post
 title: "La logistique du futur"
 date: 2012-08-06 15:36:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'citoyen', 'collectivité', 'confiance', 'connectivité', 'données réelles', 'economie circulaire', 'économie fonctionnalité', 'Efficacité énergétique', 'Fablab', 'gouvernance', 'innovation', 'intelligence collective', 'internet des objets', 'logistique', 'marchandises', 'normalisation', 'propaganda', 'roadpricing']
+=======
+tags: ["Assistant Personnel de Consommation", "citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Fablab", "gouvernance", "innovation", "intelligence collective", "internet des objets", "logistique", "marchandises", "normalisation", "propaganda", "roadpricing"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le transport de marchandises est le reflet visible de notre mode de vie. Nous sommes ce que nous achetons, ce que nous mangeons. Nous partirons de deux citations de A.Tocqueville et A.Smith pour tenter de comprendre les tendances de fond dans le domaine de la logistique pour les poursuivre en intégrant des innovations venant du numérique.

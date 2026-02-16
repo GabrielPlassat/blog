@@ -3,7 +3,11 @@ layout: post
 title: "Par le troc de données, et si on inventait aujourd'hui de nouveaux contrats ?"
 date: 2015-01-06 11:24:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'autorité des transports', 'citoyen', 'collectivité', 'confiance', 'connectivité', 'covoiturage', 'donnée data', 'données réelles', 'gouvernance', 'intelligence collective', 'internet', 'management de la mobilité', 'marketing individualisé', 'partage de données', 'pensée complexe', 'Service de mobilité', 'surveillance', 'Uber']
+=======
+tags: ["autopartage", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "gouvernance", "intelligence collective", "internet", "management de la mobilit\u00e9", "marketing individualis\u00e9", "partage de donn\u00e9es", "pens\u00e9e complexe", "Service de mobilit\u00e9", "surveillance", "Uber"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En modifiant le couple support/message, [**Michel Serres**](http://www.academie-francaise.fr/actualites/communication-de-m-michel-serres) nous décrit comment le numérique, comme les précédents, bouleverse le droit établi.

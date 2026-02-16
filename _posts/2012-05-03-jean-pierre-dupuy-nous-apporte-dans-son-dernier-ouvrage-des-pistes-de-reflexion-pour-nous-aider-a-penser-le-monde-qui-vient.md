@@ -3,7 +3,11 @@ layout: post
 title: "Vers un avenir souhaitable et crédible - aide philosophique de J-P.Dupuy"
 date: 2012-05-03 09:22:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['catastrophe', 'citoyen', 'collectivité', 'crise', 'donnée data', 'Energie', 'holoptisme', 'intelligence collective', 'internet', 'pensée complexe', 'théorie des jeux']
+=======
+tags: ["catastrophe", "citoyen", "collectivit\u00e9", "crise", "donn\u00e9e data", "Energie", "holoptisme", "intelligence collective", "internet", "pens\u00e9e complexe", "th\u00e9orie des jeux"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ﻿Jean-Pierre DUPUY nous apporte dans son dernier ouvrage, [***l’avenir de l’économie***](http://www.amazon.fr/LAvenir-leconomie-lecomystification-Jean-Pierre-Dupuy/dp/toc/2081253453), des pistes de réflexion pour nous aider à penser le monde qui vient. Il poursuit ici les concepts développés dans ses précédents livres sur la place du Sacré, sur nos moyens de concevoir l'avenir, et les enseignements philosophiques que l’on peut apprendre des catastrophes. Hélas pour les futurs lecteurs, les thèses proposées ne sont pas *simples*, elles reflètent la complexité de nos choix liés à de nombreux bouclages que nous aborderons. Décidemment, il n’y a pas de solutions simples pour résoudre nos problèmes …

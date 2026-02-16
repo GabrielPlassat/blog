@@ -3,7 +3,11 @@ layout: post
 title: "Les bioraffineries, panorama et potentiel"
 date: 2011-08-05 11:48:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'biocarburant', 'bioraffinerie', 'carburant', 'Energie']
+=======
+tags: ["ADEME", "biocarburant", "bioraffinerie", "carburant", "Energie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Une étude complète a été menée sur le sujet à l'ADEME. Les principales conclusions sont reprises ci dessous. Des schémas complets qui présentent les principales filières sont également insérés. Nous avons pour ce sujet d'avenir, également un nouvel écosystème en construction avec des acteurs qui sont, à la fois, concurrents et indispensables à coordonner, pour que naisse de nouveaux vecteurs énergétiques. Ces vecteurs devront être parfaitement caractérisés en terme de contenu carbone, pollution, ressource en eau et en terre arable, ses indicateurs devront être transparents et accessibles à tous. 

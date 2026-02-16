@@ -3,7 +3,11 @@ layout: post
 title: "Le passage de l'objet à la fonction puis à l'accès, opportunités et risques"
 date: 2010-07-05 10:43:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'confiance', 'economie circulaire', 'Efficacité énergétique', 'internet', 'partage de données', 'partage de la voirie', 'Service de mobilité']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "confiance", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "partage de donn\u00e9es", "partage de la voirie", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Plusieurs notes ont déjà été rédigées sur la transition de l'objet *véhicule* au service de *mobilité*. Parmis les avantages, nous pourrons retenir en priorité que, ne pas posséder de véhicule *peut* conduire à accroître l'efficacité énergétique, car le mode, public ou privé, individuel ou collectif, deux roues à 4 roues, est mieux choisi. Le passage à des services de mobilité ouvre le monde de la multimodalité fluide en temps réel rendu techniquement possible par les TIC. C'est donc une **[chance pour l'environnement, le citoyen, et également pour les entreprises](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**, si ces dernières acceptent de revoir leur ADN" comme le propose le MIT dans [***Reinventing the Automobile***]()*** : ***véhicule léger et efficace, connecté aux (différents) réseaux, éventuellement électrique, conçu pour s'inscrire dans des systèmes de mobilités. L'objet n'étant plus dédié à des particuliers, la conception peut être revue et, à l'économie de la fonctionnalité s'ajoute celle de l'économie circulaire. Cette synergie (détaillée **[ici]()**) permettra de cumuler les bénéfices apportés par le système à ceux apportés par des gestions circulaires de flux de matière et d'énergie rendues possibles par des objets gérés par des professionnels. 

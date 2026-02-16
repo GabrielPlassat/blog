@@ -3,7 +3,11 @@ layout: post
 title: "Supply Chain Meter, un agrégateur d'indicateur"
 date: 2010-04-08 10:42:39 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['logistique', 'marchandises']
+=======
+tags: ["logistique", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Supply Chain Meter® est né d’un **programme de recherche** mené par : 

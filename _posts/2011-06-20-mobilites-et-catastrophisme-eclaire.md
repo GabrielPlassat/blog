@@ -3,7 +3,11 @@ layout: post
 title: "Mobilités et catastrophisme éclairé"
 date: 2011-06-20 16:52:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['carburant', 'catastrophe', 'citoyen', 'collectivité', 'Infrastructure', 'prix carburant']
+=======
+tags: ["carburant", "catastrophe", "citoyen", "collectivit\u00e9", "Infrastructure", "prix carburant"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le **[dernier rapport du CAS sur la voiture](http://www.strategie.gouv.fr/content/rapport-la-voiture-de-demain-carburants-et-electricite-0)** replace le VE dans un scénario plus mesuré, rappelant notamment le rôle puissant de la réglementation sur le CO2, des marges de progrès sur les véhicules thermiques et thermiques-électriques. Même si le rapport indique comme principaux clients les flottes et les services d’autopartage, il remet peu en perspective l’arrivée de solutions intégrées dans lesquelles le VE pourrait être géré par des sociétés privées opérant les véhicules. Néanmoins, ce rapport ouvre des scénarios dans lesquels le VE aurait une place limitée, nécessitant pour atteindre des objectifs Facteur 4, de trouver « d’autres pistes de progrès ». Il est proposé dans cet article de s’intéresser à des situations dans lesquelles il n’y a pas de solution technologique « simple et disponible » qui permettrait aux citoyens et aux entreprises de fonctionner « comme avant ».  Dès lors, ces situations peuvent être qualifiées, dans certains cas, de catastrophiques, d’un point de vue technologique, économique, écologique, social et philosophique.

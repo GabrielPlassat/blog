@@ -3,7 +3,11 @@ layout: post
 title: "De l’urgence d’une anticipation stratégique & prospective dans les secteurs d’activités arrivés à maturité…"
 date: 2010-02-05 15:10:12 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['philanthropie', 'tendance', 'transition générationnelle']
+=======
+tags: ["philanthropie", "tendance", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Article issu du **[blog](http://smartfutur.blogspirit.com/)** de R.Duringer, l'observatoire des tendances ...

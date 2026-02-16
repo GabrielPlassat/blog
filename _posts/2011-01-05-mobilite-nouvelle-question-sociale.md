@@ -3,7 +3,11 @@ layout: post
 title: "Mobilité, nouvelle question sociale ?"
 date: 2011-01-05 12:03:03 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['agence mobilité', 'anthropologie', 'assistant de mobilité', 'assurance', 'citoyen', 'collectivité', 'commuter', 'covoiturage', 'maison de la mobilité', 'Précarité']
+=======
+tags: ["agence mobilit\u00e9", "anthropologie", "assistant de mobilit\u00e9", "assurance", "citoyen", "collectivit\u00e9", "commuter", "covoiturage", "maison de la mobilit\u00e9", "Pr\u00e9carit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans la revue SociologieS, Jean-Pierre ORFEUIL dresse un panorama complet de l’accès ou aptitude à la mobilité pour une partie importante de la population française. Après avoir rappelé des ordres de grandeur particulièrement intéressants, JP. Orfeuil analyse les causes et origines de cette situation, la compare aux autres pays européens et aux USA, et propose une liste de mesures déjà expérimentées  par des « innovateurs sociaux » qu’il faudrait adapter au plus vite à notre situation nationale.

@@ -3,7 +3,11 @@ layout: post
 title: "Autorité des transports, vers une (r)évolution ?"
 date: 2009-11-16 17:06:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'autorité des transports', 'cité', 'citoyen', 'données réelles', 'Infrastructure', 'internet', 'internet des objets', 'logistique', 'multimodes', 'partage de données', 'péage urbain', "Plateforme d'idées", 'Précarité', "qualité de l'air", 'roadpricing', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["autopartage", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "internet des objets", "logistique", "multimodes", "partage de donn\u00e9es", "p\u00e9age urbain", "Plateforme d'id\u00e9es", "Pr\u00e9carit\u00e9", "qualit\u00e9 de l'air", "roadpricing", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En France, une **autorité organisatrice de transports**, habituellement abrégé en **AOT**, est une des collectivités auxquelles la loi d'orientation pour les transports intérieurs n° 82-1153 du [30](http://www.typepad.com/wiki/30_decembre) [décembre](http://www.typepad.com/wiki/Decembre) [1982](http://www.typepad.com/wiki/1982) dite *Loti* a confié la mission d'organiser les transports.

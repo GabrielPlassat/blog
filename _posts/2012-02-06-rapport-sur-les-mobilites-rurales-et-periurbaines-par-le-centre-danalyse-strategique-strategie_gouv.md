@@ -3,7 +3,11 @@ layout: post
 title: "Rapport sur les mobilités rurales et périurbaines par le Centre d’Analyse Stratégique @strategie_gouv @ademe"
 date: 2012-02-06 16:10:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'commuter', 'données réelles', 'Service de mobilité', 'territoire']
+=======
+tags: ["citoyen", "collectivit\u00e9", "commuter", "donn\u00e9es r\u00e9elles", "Service de mobilit\u00e9", "territoire"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Faisant suite au précédent [**rapport général sur le changement nécessaire en matière d'usage de l'automobile**](/2010/11/les-nouvelles-mobilites-adapter-lautomobile-aux-modes-de-vie-de-demain.html), le CAS produit un second rapport focalisé sur les déplacements dans les territoires ruraux et péri-urbains.

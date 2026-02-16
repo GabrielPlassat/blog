@@ -3,7 +3,11 @@ layout: post
 title: "Self-driving car, the next revolution by KPMG a new frontier is opening in the realm of mobility services\"\""
 date: 2012-08-20 18:05:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'commuter', 'connectivité', 'covoiturage', 'donnée data', 'Efficacité énergétique', 'Energie', 'innovation', 'internet', 'ITS', 'KPMG', 'pensée complexe', 'Service de mobilité']
+=======
+tags: ["citoyen", "commuter", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "innovation", "internet", "ITS", "KPMG", "pens\u00e9e complexe", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ce rapport de **KPMG** et **CAR** (Center for Automotive Research) confirme les éléments proposés dans 2 articles précédents de ce blog :
@@ -45,7 +49,11 @@ Giant retailers with a core competence in managing complex distribution channels
 
  
 
+<<<<<<< HEAD
 "2012-08-20 18:05:04https://transportsdufutur.ademe.fr/2012/08/self-driving-car-the-next-revolution-by-kpmg-a-new-frontier-is-opening-in-the-realm-of-mobility-serv.htmlcitoyen|commuter|connectivité|covoiturage|donnée data|Efficacité énergétique|Energie|innovation|internet|ITS|KPMG|pensée complexe|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatself-driving-car-the-next-revolution-by-kpmg-a-new-frontier-is-opening-in-the-realm-of-mobility-serv2015-07-21 16:36:29>"Who will play the leading role in this ecosystem when self-driving becomes a reality? Who will create value, and who will claim it in the self-driving ecosystem?"
+=======
+"2012-08-20 18:05:04/2012/08/20/self-driving-car-the-next-revolution-by-kpmg-a-new-frontier-is-opening-in-the-realm-of-mobility-serv/citoyen|commuter|connectivité|covoiturage|donnée data|Efficacité énergétique|Energie|innovation|internet|ITS|KPMG|pensée complexe|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatself-driving-car-the-next-revolution-by-kpmg-a-new-frontier-is-opening-in-the-realm-of-mobility-serv2015-07-21 16:36:29>"Who will play the leading role in this ecosystem when self-driving becomes a reality? Who will create value, and who will claim it in the self-driving ecosystem?"
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

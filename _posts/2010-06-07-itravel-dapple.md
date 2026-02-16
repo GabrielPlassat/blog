@@ -3,7 +3,11 @@ layout: post
 title: "iTravel d'Apple"
 date: 2010-06-07 14:06:39 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'connectivité', 'internet', 'internet des objets', 'iphone', 'partage de données']
+=======
+tags: ["assistant de mobilit\u00e9", "connectivit\u00e9", "internet", "internet des objets", "iphone", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [article de **[Consomap](http://consomac.fr/index.php?idnews=890)**] Alors que les potentielles utilisations des NFC, *Near Field Communication* (communication en champ proche), étaient déjà nombreuses (voir dépêche : *[La révolution sera proche](http://consomac.fr/news-875.html)*), **Apple vient de déposer deux nouveaux brevets nous montrant qu'elle prend ce sujet très au sérieux**. Cette semaine, nous découvrons donc une application nommée iTravel, permettant entre autres de remplacer le billet d'avion, et un logiciel portant le nom de Transaction, destiné à remplacer le porte-monnaie.

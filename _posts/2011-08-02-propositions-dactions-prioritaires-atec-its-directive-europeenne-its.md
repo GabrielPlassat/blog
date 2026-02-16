@@ -3,7 +3,11 @@ layout: post
 title: "Propositions d'actions prioritaires - ATEC ITS - Directive européenne ITS"
 date: 2011-08-02 16:53:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'collectivité', 'connectivité', 'donnée data', 'données réelles', 'Energie', 'Europe', 'gouvernance', 'innovation', 'internet', 'internet des objets', 'ITS', 'living lab', 'marchandises', 'multimodes', 'normalisation', 'partage de données', 'partage de la voirie', 'plate-forme', 'Service de mobilité', 'stationnement', 'TIC']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Energie", "Europe", "gouvernance", "innovation", "internet", "internet des objets", "ITS", "living lab", "marchandises", "multimodes", "normalisation", "partage de donn\u00e9es", "partage de la voirie", "plate-forme", "Service de mobilit\u00e9", "stationnement", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les principales actions proposées par les acteurs français sont reprises ci dessous :

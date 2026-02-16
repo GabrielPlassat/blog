@@ -3,7 +3,11 @@ layout: post
 title: "Tweet feed back du séminaire Mobilités Mutations"
 date: 2013-12-06 21:06:12 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'plate-forme']
+=======
+tags: ["ADEME", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les 3 et 4 décembre ont eu lieu à l'ADEME Sophia Antipolis [**le séminaire Mobilités Mutations**](http://fr.slideshare.net/transportsdufutur/programme-sminaire-mobilits-mutations) rassemblant 130 pionniers: acteurs économiques de l'écosystème, chercheurs, territoires engagés et étudiants. Parmi les livrables, 20 interventions, 9 visions prospectives et 19 nouvelles initiatives.

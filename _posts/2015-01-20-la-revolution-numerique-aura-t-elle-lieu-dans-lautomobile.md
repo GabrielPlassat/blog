@@ -3,7 +3,11 @@ layout: post
 title: "(Quand et où) La révolution numérique aura-t-elle lieu dans l'automobile ?"
 date: 2015-01-20 10:02:05 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'art de la guerre', 'connectivité', 'cybercar', 'E.Musk', "économie de l'expérience", 'internet', 'Service de mobilité', 'Uber', 'UX', 'VE']
+=======
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "art de la guerre", "connectivit\u00e9", "cybercar", "E.Musk", "\u00e9conomie de l'exp\u00e9rience", "internet", "Service de mobilit\u00e9", "Uber", "UX", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'article de Bernard Jullien du GERPISA [**Quelques solides raisons de penser que la révolution digitale n'aura pas lieu dans l'automobile**]()" fait donc le pari que l'automobile sortira indemne de la révolution numérique, que cette filière industrielle restera intacte et qu'elle l'intégrera comme les précédents assauts "sans renoncer à ses caractéristiques fondamentales". Cette question est centrale : Est ce que la révolution (ou plutôt transition) numérique va changer les fondamentaux de l'industrie automobile ? C'est à dire l'arrivée de nouveaux acteurs majeurs, son positionnement dans la chaîne de valeur, son contact et sa connaissance des clients, son modèle d'usage basé sur la propriété et la possession.
@@ -64,7 +68,11 @@ Il y a donc un écart grandissant entre les expériences vécues au quotidien et
 
 **Et si la transition énergétique tant attendue (notamment avec le VE) n'était réalisable qu'en intégrant la culture numérique ? (voir les travaux de la Fing sur le sujet des [Transitions]())**
 
+<<<<<<< HEAD
 "2015-01-20 10:02:05https://transportsdufutur.ademe.fr/2015/01/la-revolution-numerique-aura-t-elle-lieu-dans-lautomobile.htmlActeur historique des Mobilités et Logistiques|Acteur numérique des Mobilités et des Logistiques|art de la guerre|connectivité|cybercar|E.Musk|économie de l'expérience|internet|Service de mobilité|Uber|UX|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-revolution-numerique-aura-t-elle-lieu-dans-lautomobile2017-05-05 15:39:01>![]()
+=======
+"2015-01-20 10:02:05/2015/01/20/la-revolution-numerique-aura-t-elle-lieu-dans-lautomobile/Acteur historique des Mobilités et Logistiques|Acteur numérique des Mobilités et des Logistiques|art de la guerre|connectivité|cybercar|E.Musk|économie de l'expérience|internet|Service de mobilité|Uber|UX|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-revolution-numerique-aura-t-elle-lieu-dans-lautomobile2017-05-05 15:39:01>![]()
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

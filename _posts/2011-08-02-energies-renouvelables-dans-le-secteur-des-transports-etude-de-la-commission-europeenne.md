@@ -3,7 +3,11 @@ layout: post
 title: "Energies renouvelables dans le secteur des transports - Etude de la Commission Européenne"
 date: 2011-08-02 16:32:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['biocarburant', 'carburant', 'Europe']
+=======
+tags: ["biocarburant", "carburant", "Europe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[La collaboration entre le Centre commun de recherche de l'Union européenne Commission (JRC), EUCAR et CONCAWE a étudié le potentiel des biocarburants ](http://ies.jrc.ec.europa.eu/jec-research-collaboration/activities-jec/jec-biofuels-programme.html)**et autres sources d'énergie alternatives pour atteindre l'objectif 10% d'énergie renouvelables pour le secteur des transports de l'UE en 2020 comme le prévoit la directive sur les énergies renouvelables (RED).

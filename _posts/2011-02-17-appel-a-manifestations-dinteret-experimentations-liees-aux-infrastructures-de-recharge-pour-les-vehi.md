@@ -3,7 +3,11 @@ layout: post
 title: "Appel à Manifestations d'Intérêt - Expérimentations liées aux infrastructures de recharge pour les véhicules électriques et hybrides rechargeables"
 date: 2011-02-17 11:37:19 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'partage de données', 'Service de mobilité', 'VE']
+=======
+tags: ["ADEME", "partage de donn\u00e9es", "Service de mobilit\u00e9", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cet **[appel à manifestations d’intérêt ](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=75174&p1=1)**vient **renforcer le plan d’actions (Predit, prime 5 000 € sur les véhicules, fonds démonstrateurs de l’ADEME…) mis en place par le gouvernement pour soutenir le développement du véhicule décarboné**, avec l’objectif de voir circuler 2 millions d’unités en 2020. 

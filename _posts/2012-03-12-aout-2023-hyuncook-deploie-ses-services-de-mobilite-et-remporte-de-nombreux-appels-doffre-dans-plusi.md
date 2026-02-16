@@ -3,7 +3,11 @@ layout: post
 title: "Août 2023, HyunCook déploie ses services de mobilité et remporte de nombreux appels d’offre dans plusieurs mégalopoles."
 date: 2012-03-12 16:58:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'logistique', 'marchandises']
+=======
+tags: ["Assistant Personnel de Consommation", "innovation", "intelligence collective", "internet", "internet des objets", "logistique", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ce conglomérat asiatique n’avait pourtant aucun lien avec l’industrie automobile dix ans auparavant. Mais le contexte a bien changé, et les contraintes économiques et énergétiques sont tellement fortes aujourd’hui.
@@ -32,4 +36,8 @@ Industrialiser des objets faits de tôle pliée, d’électroniques, de moteurs 
 
 Pour les collectivités et les citoyens, HyunCook propose également un des meilleurs jeux simulant le fonctionnement complet d’une ville et ses flux de personnes et marchandises, reprenant les anciennes versions de [**SimCity et RushHour**]()  vous devez bien sûr construire, optimiser, développer votre système de mobilité, utilisant les services HyunCook, modifier simultanément les offres et les demandes en inventant de nouvelles formes de contraintes (taxes, limitations, normes…) et de récompenses (voie réservée, réduction…). Ce serious game de très haute technologie permet à HyunCook d’avoir des informations sur l’adaptation de ses services à tous les environnements pour, ainsi, mieux se préparer à réinventer…
 
+<<<<<<< HEAD
 "2012-03-12 16:58:07https://transportsdufutur.ademe.fr/2012/03/aout-2023-hyuncook-deploie-ses-services-de-mobilite-et-remporte-de-nombreux-appels-doffre-dans-plusi.htmlAssistant Personnel de Consommation|innovation|intelligence collective|internet|internet des objets|logistique|marchandisespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassataout-2023-hyuncook-deploie-ses-services-de-mobilite-et-remporte-de-nombreux-appels-doffre-dans-plusi2015-07-21 16:36:34
+=======
+"2012-03-12 16:58:07/2012/03/12/aout-2023-hyuncook-deploie-ses-services-de-mobilite-et-remporte-de-nombreux-appels-doffre-dans-plusi/Assistant Personnel de Consommation|innovation|intelligence collective|internet|internet des objets|logistique|marchandisespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassataout-2023-hyuncook-deploie-ses-services-de-mobilite-et-remporte-de-nombreux-appels-doffre-dans-plusi2015-07-21 16:36:34
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

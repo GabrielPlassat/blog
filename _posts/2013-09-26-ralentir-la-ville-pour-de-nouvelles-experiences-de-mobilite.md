@@ -3,7 +3,11 @@ layout: post
 title: "Ralentir la ville pour de nouvelles expériences de mobilité"
 date: 2013-09-26 18:41:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'citoyen', 'collectivité', 'commuter', 'congestion', 'Efficacité énergétique', 'emission', 'externalité', 'Infrastructure', 'innovation', 'management de la mobilité', 'temporalité']
+=======
+tags: ["art de la guerre", "citoyen", "collectivit\u00e9", "commuter", "congestion", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "externalit\u00e9", "Infrastructure", "innovation", "management de la mobilit\u00e9", "temporalit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La recherche de la vitesse a guidé les politiques de mobilité, sans résoudre l'engorgement et la congestion des villes ni réduire les usages de la voiture individuelle. Comment changer de paradigme et développer des politiques de mobilité pour ralentir dans la ville? Quels changements sont nécessaires pour réellement développer l'usage du vélo ou de la marche ? Le ralentissement s'accompagne-t-il d'une meilleure fluidité ? 
@@ -47,5 +51,9 @@ Le numérique avait promis une certaine maîtrise du temps. Cette promesse n’e
 
  
 
+<<<<<<< HEAD
 **Il est proposé de penser la rue, la vitesse comme des leviers pour mieux vivre en convivialité. De concevoir également différemment ces nouvelles règles, ces nouveaux choix. De tisser le numérique à la fois dans la concertation, dans les propositions et dans les solutions de mobilités et d’immobilités. Nous avons besoin d
+=======
+**Il est proposé de penser la rue, la vitesse comme des leviers pour mieux vivre en convivialité. De concevoir également différemment ces nouvelles règles, ces nouveaux choix. De tisser le numérique à la fois dans la concertation, dans les propositions et dans les solutions de mobilités et d’immobilités. Nous avons besoin d_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ’une culture des « temps riches ».**

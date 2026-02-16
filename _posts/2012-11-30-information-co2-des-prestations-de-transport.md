@@ -3,7 +3,11 @@ layout: post
 title: "Information CO2 des prestations de transport"
 date: 2012-11-30 16:11:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Assistant Personnel de Consommation', 'donnée data', 'Efficacité énergétique', 'externalité', 'marchandises', 'RSE', 'Véhicule', 'véhicule propre']
+=======
+tags: ["ADEME", "Assistant Personnel de Consommation", "donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "marchandises", "RSE", "V\u00e9hicule", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [so**[urce Ministère de l'Ecologie, du Développement durable et de l'Energie](http://www.developpement-durable.gouv.fr/Presentation-de-la-reglementation,29898.html)**] Dans l’objectif de valoriser les transports les moins émetteurs de CO2, l’obligation d’information CO2 des prestations de transport impose aux opérateurs (entreprises de transports de personnes ou de marchandises, de déménagement, taxis, commissionnaires, agents de voyages), d’informer leurs clients, lors de chaque déplacement, des émissions de CO2 de leur prestation. Cette obligation adoptée dans le cadre de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l’environnement est reprise dans le code des transports (article L 1431-3).

@@ -3,7 +3,11 @@ layout: post
 title: "Et si l'autopartage était réalisé avec des voitures à des prix ultracompétitifs\" ?\""
 date: 2010-05-06 12:44:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'low cost', 'Véhicule']
+=======
+tags: ["autopartage", "low cost", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En croisant deux informations, imaginons que les futures systèmes de véhicules partagés, en libre service utilisent massivement des véhicules à très bas prix pour plusieurs raisons :

@@ -3,7 +3,11 @@ layout: post
 title: "Retailtainement"
 date: 2010-09-16 15:05:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'jeu', 'marchandises']
+=======
+tags: ["Infrastructure", "jeu", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**[source](http://twinpartners.wordpress.com/2010/09/10/reenchanter-le-point-de-vente-avec-le-retailtainement/)**] Le nouveau concept du « **[retailtainement](http://www.e-marketing.fr/Tribunes-Experts/Les-nouveaux-espaces-de-distribution-Tribune100.html)** » a pour but de combiner achats et loisirs :

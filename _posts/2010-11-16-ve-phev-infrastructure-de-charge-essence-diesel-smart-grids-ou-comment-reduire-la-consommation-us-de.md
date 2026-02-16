@@ -3,7 +3,11 @@ layout: post
 title: "VE, PHEV, infrastructure de charge, essence, Diesel, smart grids, ou comment réduire la consommation US de pétrole de 1 milliard de baril (jusqu’en 2025) tout en réduisant le coût total de possession de $6,000 par véhicule ?"
 date: 2010-11-16 12:32:09 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'Efficacité énergétique', 'Energie', 'EPA', 'Infrastructure', 'innovation', 'sécurité', 'smartgrid', 'stationnement', 'VE']
+=======
+tags: ["citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "EPA", "Infrastructure", "innovation", "s\u00e9curit\u00e9", "smartgrid", "stationnement", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le 21 mai 2010, le président Obama demande à l’**[EPA](http://www.epa.gov)**, la **[NHTSA](http://www.nhtsa.gov)** et le **[CARB ](http://www.arb.ca.gov/)**de remettre en Septembre un rapport complet coordonné visant à définir la stratégie nationale des USA en matière de véhicules « légers ».
@@ -67,4 +71,8 @@ La seconde, liée à la première, pourrait venir de "l'apprentissage cumulé" o
 
 Cette étude focalisée sur les véhicules, élargie aux énergies et infrastructures, est une base de travail remarquable. Elle nécessiterait d'être complétée et revue en incluant l'apport des technologies de l'information permettant de reconsidérer les usages possibles, donc les choix technologiques. Cette boucle itérative complexe ne peut être, à mon sens, finalisée qu'en incluant les utilisateurs citoyens, qu'en utilisant concrétement toutes ces solutions.
 
+<<<<<<< HEAD
  [Prosp techno usa]() View more [documents]() from [transportsdufutur](). "2010-11-16 12:32:09https://transportsdufutur.ademe.fr/2010/11/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de.htmlcitoyen|Efficacité énergétique|Energie|EPA|Infrastructure|innovation|sécurité|smartgrid|stationnement|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de2015-07-21 16:37:33
+=======
+ [Prosp techno usa]() View more [documents]() from [transportsdufutur](). "2010-11-16 12:32:09/2010/11/16/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de/citoyen|Efficacité énergétique|Energie|EPA|Infrastructure|innovation|sécurité|smartgrid|stationnement|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de2015-07-21 16:37:33
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

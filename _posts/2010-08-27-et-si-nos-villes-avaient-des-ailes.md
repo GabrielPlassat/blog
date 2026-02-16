@@ -3,7 +3,11 @@ layout: post
 title: "Et si nos villes avaient des ailes ?"
 date: 2010-08-27 14:21:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['artiste', 'cybercar', 'Service de mobilité']
+=======
+tags: ["artiste", "cybercar", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Se déplacer aujourd'hui en ville tourne vite au cauchemar. Comment résoudre nos problèmes de transport ?

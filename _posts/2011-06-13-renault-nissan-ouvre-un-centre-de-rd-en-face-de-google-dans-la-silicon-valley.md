@@ -3,7 +3,11 @@ layout: post
 title: "Renault-Nissan ouvre un centre de R&D en face de Google dans la Silicon Valley !"
 date: 2011-06-13 21:50:11 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cybercar', 'Energie', 'google', 'internet', 'smartgrid', 'VE']
+=======
+tags: ["cybercar", "Energie", "google", "internet", "smartgrid", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Au programme ! véhicule communicant, technologies de l'informations, smart-grid, bien sûr le tout en lien avec le VE... Conscient des opportunités offertes par l'industrialisation en masse du VE pour changer d'échelle en matière de services à bord du véhicule et plus généralement de services de mobilité, l'Alliance avance ainsi un pion majeur pour se protéger des risques et innover ... L'article complet de Reuter :

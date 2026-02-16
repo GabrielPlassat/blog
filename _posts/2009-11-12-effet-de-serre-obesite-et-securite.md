@@ -3,7 +3,11 @@ layout: post
 title: "Effet de serre, obésité et sécurité"
 date: 2009-11-12 13:34:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'obésité', 'Santé', 'Véhicule']
+=======
+tags: ["Energie", "ob\u00e9sit\u00e9", "Sant\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [](/assets/images/2009/11/effetdeserreobsitetscurit.jpg)Une étude anglaise démontre, chiffres à l'appuie, le lien entre la possession d'un, ou plusieurs, véhicule et l'obésité dans la société. En effet, depuis la seconde guerre mondiale, l'équipement continu en véhicule particulier a conduit à réduire fortement la part de la marche à pied : le carburant fossile se substituant au muscle. 

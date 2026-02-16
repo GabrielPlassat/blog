@@ -3,7 +3,11 @@ layout: post
 title: "Le management du trafic, Karrus une start-up issue de l'INRIA"
 date: 2010-08-27 16:05:05 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'données réelles', 'Infrastructure', 'internet des objets', 'partage de la voirie', 'surveillance']
+=======
+tags: ["connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet des objets", "partage de la voirie", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Créée en février 2010, la jeune société [Karrus ](http://www.karrus.fr/)propose une technologie permettant la surveillance et la gestion automatiques du trafic automobile**.

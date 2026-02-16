@@ -3,7 +3,11 @@ layout: post
 title: "Nouveau label \"véhicule propre\" aux USA"
 date: 2010-09-01 14:29:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['VE', 'Véhicule', 'véhicule propre']
+=======
+tags: ["VE", "V\u00e9hicule", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'EPA et le National Highway Traffic Safety Administration (NHTSA) sont en train de revoir l'étiquetage des véhicules neufs aux USA. Ci dessous un exemple d'un véhicule thermique, d'un véhicule électrique  et d'un hybride plug-in où l'on trouve notamment une donnée intéressante l'efficacité énergétique (kWh/km) ... Ceci pourrait donner des idées en Europe ... Noter également l'indication des émissions polluantes en base 10 et un flashcode pour accéder directement à toutes les données et comparer des véhicules entre eux.

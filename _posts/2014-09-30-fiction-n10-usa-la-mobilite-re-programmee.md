@@ -3,7 +3,11 @@ layout: post
 title: "[Fiction N°10] USA, la mobilité Re-programmée"
 date: 2014-09-30 16:23:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cybercar', 'économie du quaternaire', 'économie fonctionnalité', 'fiction', 'low cost', 'marchabilité', 'véhicule propre']
+=======
+tags: ["cybercar", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "fiction", "low cost", "marchabilit\u00e9", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Fortement appuyés sur la technologie et le numérique, quatre scénario sont proposés par le [**Centre Rudin (USA)**](http://wagner.nyu.edu/rudincenter/) pour 2030. Ces scénarios sont conçus comme des provocations aux décideurs et aux aménageurs pour stimuler les débats : Growth, Collapse, Constraint ou Transformation...

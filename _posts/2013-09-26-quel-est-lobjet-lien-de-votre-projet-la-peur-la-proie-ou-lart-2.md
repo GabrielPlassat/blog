@@ -3,7 +3,11 @@ layout: post
 title: "Quel est l'objet lien de votre projet : la peur, la proie ou l'Art ?"
 date: 2013-09-26 11:13:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', "économie de l'expérience", 'gouvernance', 'holoptisme', 'innovation', 'intelligence collective']
+=======
+tags: ["citoyen", "confiance", "\u00e9conomie de l'exp\u00e9rience", "gouvernance", "holoptisme", "innovation", "intelligence collective"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La description d’un projet « innovant » est toujours révélatrice des dynamiques mises en œuvre par les partenaires, et en général des finalités réelles de cette innovation. Est-ce que le projet est engagé en réaction à des projets concurrents réels ou supposés ? ou encore pour éviter que d’autres ne le fassent avant vous ? ou bien pour améliorer une version précédente ? pour répondre à de nouvelles normes ? Dans ces cas-là, ce qui fédère ce collectif est la peur : de perdre un marché ou une rente. Dans le domaine de l’intelligence collective, cet « agent » fédérateur s’appelle « l’objet lien ». L'action de chacun des membres se construit autour et/ou avec un objet commun" (physique ou symbolique) qui va servir de catalyseur et de support pendant le projet. La peur est un objet lien bien connu, souvent utilisé, mais conduisant à de très faibles innovations de rupture.

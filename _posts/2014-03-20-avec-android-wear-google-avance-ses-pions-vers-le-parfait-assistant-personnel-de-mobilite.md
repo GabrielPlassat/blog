@@ -3,7 +3,11 @@ layout: post
 title: "Avec Android Wear, Google avance ses pions vers le parfait Assistant Personnel de Mobilité"
 date: 2014-03-20 12:33:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'commuter', 'google']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "commuter", "google"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après une version actualisée de Google Map (lire [**Google Map devient dans les faits Google Mobility**](/2014/02/google-maps-devient-dans-les-faits-google-mobility.html)) qui fait la part belle aux transports (trafic, comparaison multimodale, dénivelé pour le vélo, ...), Google prend une position majeure dans le domaine des objets connectés. [**Android Wear**](http://googleblog.blogspot.fr/2014/03/sharing-whats-up-our-sleeve-android.html) vise à apporter l'information dont vous avez besoin, à l'endroit désiré, au bon moment. Et encore une fois, les exemples présentés touchent nos mobilités.
@@ -34,7 +38,11 @@ Avec une interface aussi simple et dépouillée, ne permettant pas une explorati
 
 **Les véhicules, assemblages de tôle et de plastique, ne deviendront bientôt que des supports physiques générateurs de données. Ce sera l'information qui permettra de se déplacer en optimisant la gestion des sièges libres en circulation.**
 
+<<<<<<< HEAD
 "2014-03-20 12:33:32https://transportsdufutur.ademe.fr/2014/03/avec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite.htmlassistant de mobilité|citoyen|commuter|googlepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatavec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite2015-07-21 16:35:34>**Cette couche logicielle va conduire à une main mise dans la production de données hypercontextualisées, donc très riches. Très peu d'acteurs auront autant de connaissances pour comprendre les pratiques et les comportements dans le domaine des transports. Il n'aura fallu qu'une dizaine d'années pour construire un empire. **
+=======
+"2014-03-20 12:33:32/2014/03/20/avec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite/assistant de mobilité|citoyen|commuter|googlepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatavec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite2015-07-21 16:35:34>**Cette couche logicielle va conduire à une main mise dans la production de données hypercontextualisées, donc très riches. Très peu d'acteurs auront autant de connaissances pour comprendre les pratiques et les comportements dans le domaine des transports. Il n'aura fallu qu'une dizaine d'années pour construire un empire. **
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

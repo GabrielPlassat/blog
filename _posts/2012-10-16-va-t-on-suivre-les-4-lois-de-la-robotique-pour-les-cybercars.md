@@ -3,7 +3,11 @@ layout: post
 title: "Va-t-on suivre les 4 lois de la robotique pour les cybercars ?"
 date: 2012-10-16 09:37:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cybercar', 'google', 'internet']
+=======
+tags: ["cybercar", "google", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La robotisation est déjà présente dans de nombreux objets roulants et volants mais la mise de robots dans l'espace public" soulève directement son acceptabilité sociale et politique. Alors qu'un accident dû à une défaillance humaine est accepté malgré sa forte occurence actuelle, personne ne connaît les conséquences d'un accident dû à un robot dans l'espace public. 
@@ -64,4 +68,8 @@ Pour la suite, plusieurs pistes sont possibles :
 
 La robotisation se développe, et ce développement est en cours d'accélération. [**Aujourd'hui un ordinateur coûte moins cher qu'un Lego**](). Des acteurs économiques et des territoires ont déjà intérêt aujourd'hui à faire rouler des cybercars. Malheureusement pour nous, jusqu'à présent, la Californie n'est pas seulement capable d'inventer des objets et des services, elle invente des chaînes de valeur et des processus qui changent nos modes de vie. Les risques sont à la hauteur des opportunités, immenses, multiformes et multidomaines. 
 
+<<<<<<< HEAD
 "2012-10-16 09:37:21https://transportsdufutur.ademe.fr/2012/10/va-t-on-suivre-les-4-lois-de-la-robotique-pour-les-cybercars.htmlcybercar|google|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatva-t-on-suivre-les-4-lois-de-la-robotique-pour-les-cybercars2015-07-21 16:36:26
+=======
+"2012-10-16 09:37:21/2012/10/16/va-t-on-suivre-les-4-lois-de-la-robotique-pour-les-cybercars/cybercar|google|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatva-t-on-suivre-les-4-lois-de-la-robotique-pour-les-cybercars2015-07-21 16:36:26
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

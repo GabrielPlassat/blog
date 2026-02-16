@@ -3,7 +3,11 @@ layout: post
 title: "Lancement de l'outil Partenariat pour faciliter la mise en relation dans le domaine des Transports & Mobilités - AMI Mobilité"
 date: 2011-03-17 14:51:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'gouvernance', 'innovation', 'living lab', 'logistique', 'management de la mobilité', 'mode doux', 'multimodes', 'Service de mobilité']
+=======
+tags: ["ADEME", "gouvernance", "innovation", "living lab", "logistique", "management de la mobilit\u00e9", "mode doux", "multimodes", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un [outil ](http://amimobilite.ademe.fr)dédié à la mise en relation est lancé sur la thématique vaste et complexe des Transports et Mobilités. Il facilite le montage de projet visant à innover par des approches intégrées et globales. Cet outil pourra être utilisé pour construire ou finaliser des projets soumis à l'Appel à Manifestation d'Intérêt de l'ADEME.

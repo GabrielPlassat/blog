@@ -3,7 +3,11 @@ layout: post
 title: "10 exemples concrets d'utilisation des données pour construire des bases de connaissances et des outils d'aide"
 date: 2011-12-20 07:06:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'donnée data', 'données réelles']
+=======
+tags: ["cit\u00e9", "citoyen", "donn\u00e9e data", "donn\u00e9es r\u00e9elles"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ces 10 exemples d'utilisation des données dans le domaine des transports de marchandises (déchets notamment) et des personnes, préfigurent les futurs outils d'aide qui seront orientés en fonction des utilisateurs : citoyen, ménage, collectivité, entreprise, état...
@@ -188,7 +192,11 @@ A simple but powerful idea. The population of New York during the day and at nig
 
  
 
+<<<<<<< HEAD
 Another well-known MIT project from Seansable City Lab. Using different data sets and maps designed to explain the impact of rain on the level of use of the taxi in the city, predicted travel time based on changing traffic conditions , the heat island effect or continuous flow of arrivals and departures of peopl
+=======
+Another well-known MIT project from Seansable City Lab. Using different data sets and maps designed to explain the impact of rain on the level of use of the taxi in the city, predicted travel time based on changing traffic conditions , the heat island effect or continuous flow of arrivals and departures of peopl_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 e and goods in a city that serves as a hub of the global economy. The [video ](http://www.youtube.com/watch?v=2aEPkyOBtRo&feature=player_embedded)explains it all.
 
  

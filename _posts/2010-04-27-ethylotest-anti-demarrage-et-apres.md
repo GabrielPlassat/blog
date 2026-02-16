@@ -3,7 +3,11 @@ layout: post
 title: "Ethylotest Anti Démarrage et après ?"
 date: 2010-04-27 16:35:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'collectivité', 'confiance', 'covoiturage', 'données réelles', 'PAYD']
+=======
+tags: ["assurance", "collectivit\u00e9", "confiance", "covoiturage", "donn\u00e9es r\u00e9elles", "PAYD"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Obligatoire pour le transport d'enfant depuis janvier 2010, ce système (déjà abordé **[ici](/2010/03/vers-plus-de-securite.html)**)va s'étendre à tous les véhicules de transport en commun public, et sans doute ensuite au transport en commun privé", comme le covoiturage.

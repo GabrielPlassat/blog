@@ -17,4 +17,8 @@ Cette initiative a pour objectifs fondamentaux d’augmenter le recours au desig
 
 La dernière newsletter :
 
+<<<<<<< HEAD
  [Newsletter pdtsd-1010]() View more [documents]() from [transportsdufutur](). "2010-10-07 08:59:21https://transportsdufutur.ademe.fr/2010/10/pas-de-transports-sans-design-newsletter-2.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpas-de-transports-sans-design-newsletter-22015-07-21 16:37:37
+=======
+ [Newsletter pdtsd-1010]() View more [documents]() from [transportsdufutur](). "2010-10-07 08:59:21/2010/10/07/pas-de-transports-sans-design-newsletter-2/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpas-de-transports-sans-design-newsletter-22015-07-21 16:37:37
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -38,7 +38,11 @@ Et si [**Bolloré**]() ou [**Transdev**]() designaient des [**services de mobili
 
  
 
+<<<<<<< HEAD
 "2014-05-12 18:39:36https://transportsdufutur.ademe.fr/2014/05/amazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatamazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne2015-07-21 16:35:33>D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : "A*ll the plans and blueprints for TABBY can be downloaded in the website’s **[download]()** section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV **[forum]()**.*" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre [**à moins de 3000 euros**](). [**Urban Tabby**]() est le véhicule urbain par excellence.
+=======
+"2014-05-12 18:39:36/2014/05/12/amazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatamazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne2015-07-21 16:35:33>D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : "A*ll the plans and blueprints for TABBY can be downloaded in the website’s **[download]()** section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV **[forum]()**.*" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre [**à moins de 3000 euros**](). [**Urban Tabby**]() est le véhicule urbain par excellence.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

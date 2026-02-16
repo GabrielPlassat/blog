@@ -3,7 +3,11 @@ layout: post
 title: "Dans le monde de la rareté, le partage d'un véhicule ne sera plus une option"
 date: 2012-06-20 12:36:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'covoiturage', 'Service de mobilité', 'yield management']
+=======
+tags: ["cit\u00e9", "citoyen", "covoiturage", "Service de mobilit\u00e9", "yield management"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**Covoiturage.fr / Blablacar**](http://www.covoiturage.fr/blog/european-growth) nous fournit quelques précieuses données permettant de quantifier les flux de personnes et de véhicules réalisés grâce au covoiturage, au partage de siège libre en circulation. Les résultats sont là : l'équivalent de 800 TGV par mois, 5 milliards de voy.km transportés sur 8 ans, 1 million de siège libre disponible actuellement ...

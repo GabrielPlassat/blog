@@ -3,7 +3,11 @@ layout: post
 title: "Gouvernance des systèmes de transports"
 date: 2010-11-05 15:08:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'gouvernance']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "gouvernance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un colloque a lieu le 22 novembre à Lyon sur ce sujet (voir également **[la vidéo de Roland Ries](/2010/11/mobilites-20-vues-par-mroland-ries.html)**).
@@ -28,6 +32,10 @@ La question qui semble la plus importante est celle de l’échelle de la nouvel
 
 La question des déplacements quotidiens de personnes influe directement sur la création d’intercommunalités à fiscalité propre et quand celles-ci ne jugent pas ce critère comme fondamental pour la délimitation de leur entité institutionnelle, cette interrogation oblige à définir une stratégie collective dans certains domaines, les transports étant le premier critère obligeant à une politique globale.
 
+<<<<<<< HEAD
  [Gouvernance mobilité intro]() View more [documents]() from [transportsdufutur](). [Gouvernance mobilité]() View more [documents]() from [transportsdufutur](). "2010-11-05 15:08:21https://transportsdufutur.ademe.fr/2010/11/gouvernance-des-systemes-de-transports.htmlcité|citoyen|collectivité|gouvernancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgouvernance-des-systemes-de-transports2015-07-21 16:37:34et quand celles-ci ne jugent pas ce critère comme fondamental pour la délimitation de leur entité institutionnelle, cette interrogation oblige à définir une stratégie collective dans certains domaines, les transports étant le premier critère obligeant à une politique globale.
+=======
+ [Gouvernance mobilité intro]() View more [documents]() from [transportsdufutur](). [Gouvernance mobilité]() View more [documents]() from [transportsdufutur](). "2010-11-05 15:08:21/2010/11/05/gouvernance-des-systemes-de-transports/cité|citoyen|collectivité|gouvernancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgouvernance-des-systemes-de-transports2015-07-21 16:37:34et quand celles-ci ne jugent pas ce critère comme fondamental pour la délimitation de leur entité institutionnelle, cette interrogation oblige à définir une stratégie collective dans certains domaines, les transports étant le premier critère obligeant à une politique globale.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  [Gouvernance mobilité intro]() View more [documents]() from [transportsdufutur](). [Gouvernance mobilité]() View more [documents]() from [transportsdufutur](). "

@@ -3,7 +3,11 @@ layout: post
 title: "Biomarqueurs, suivi sanitaire et mode doux"
 date: 2010-02-25 12:23:18 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'mode doux', 'obésité', 'Santé', 'vélo']
+=======
+tags: ["assurance", "mode doux", "ob\u00e9sit\u00e9", "Sant\u00e9", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le sujet de la santé et son lien avec les transports a déjà abordé plusieurs fois (**[santé 2.0](/2010/02/vers-la-sante-20.html)**, **[obésité](/2009/11/mobilite-obesite-sante-innovons-vite.html)** ou **[sécurité](/2009/11/effet-de-serre-obesite-et-securite.html)**). Le PIPAME (pôle interministériel de prospective et d'anticipation des mutations économiques) vient de publier un rapport de prospective sur les **[biomarqueurs](http://fr.wikipedia.org/wiki/Biomarqueur)** (téléchargeable **[ici](http://www.industrie.gouv.fr/p3e/etudes/bio/etudes11.php)**). 

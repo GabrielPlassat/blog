@@ -3,7 +3,11 @@ layout: post
 title: "Intelligence Collective et Transports du Futur"
 date: 2011-11-16 09:07:09 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'connectivité', 'holoptisme', 'intelligence collective', 'internet']
+=======
+tags: ["citoyen", "collectivit\u00e9", "connectivit\u00e9", "holoptisme", "intelligence collective", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Notre capacité à comprendre le monde et proposer des solutions évolue. [**L'intelligence collective**](http://fr.wikipedia.org/wiki/Intelligence_collective) rendue possible et visible par le biais des TIC se crée, maintenant, en permanence. Cette période est historique comme l'indique M.Serres, elle est équivalente à l'invention de l'écriture puis de l'imprimerie. Bien entendu ce saut vers l'inconnu peut faire peur, contient des risques. Pour vous permettre de vous faire une opinion, il est proposé plusieurs pistes : 

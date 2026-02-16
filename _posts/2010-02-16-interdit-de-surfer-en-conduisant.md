@@ -3,7 +3,11 @@ layout: post
 title: "Interdit de surfer en conduisant !"
 date: 2010-02-16 16:35:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'TIC', 'transition générationnelle', 'Véhicule']
+=======
+tags: ["connectivit\u00e9", "TIC", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le problème avec une voiture, c'est que le conducteur ne peut pas être connecter sur internet et surfer. A l'inverse, le bus de demain ne pourra pas faire l'économie d'un connectivité totale, gratuite et fiable (voir également **[précédente note](/2009/12/vers-des-bus-sans-chauffeur-mais-avec-plus-dechanges.html)**).

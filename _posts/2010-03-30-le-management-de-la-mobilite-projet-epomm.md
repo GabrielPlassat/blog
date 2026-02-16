@@ -3,7 +3,11 @@ layout: post
 title: "Le Management de la Mobilité (projet EPOMM)"
 date: 2010-03-30 18:13:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'multimodes', "Plateforme d'idées"]
+=======
+tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "multimodes", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Ce projet européen sur le management de la mobilité, développe des outils, des méthodes pour aborder la mobilité dans son ensemble, pour apporter une vision systémique, pour gérer l'offre et la demande.[![](/assets/images/old/6a0120a66d2ad4970b01310ffbb757970c-500pi.gif)](/assets/images/old/6a0120a66d2ad4970b01310ffbb757970c-pi.gif) 

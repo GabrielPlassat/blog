@@ -3,7 +3,11 @@ layout: post
 title: "Entre Daimler et Zappos, qui proposera la meilleure expérience de mobilité ?"
 date: 2013-05-07 10:29:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'BHNS', 'citoyen', 'collectivité', 'commuter', 'donnée data', 'données réelles', 'gouvernance', 'innovation', 'internet', 'ITS', 'mode doux', 'plate-forme', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "BHNS", "citoyen", "collectivit\u00e9", "commuter", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "gouvernance", "innovation", "internet", "ITS", "mode doux", "plate-forme", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Daimler confirme son engagement dans de nouvelles formes de mobilités. Avec une couverture mondiale pour **[Car2Go](https://www.daimler.com/technology-and-innovation/mobility-concepts/car2go)** et ses 100.000 clients, **[Daimler Mobility Services](https://www.daimler.com/technology-and-innovation/mobility-concepts)** regroupe toutes les activités du Groupe dans le domaine. Stuttgart devient le principal **[Living lab](https://www.daimler.com/dccom/0-5-886397-1-1439926-1-0-0-0-0-0-17180-7165-0-0-0-0-0-0-0.html)** notamment pour tester **[Moovel](https://www.daimler.com/dccom/0-5-1511581-1-1511582-1-0-0-0-0-0-17180-7165-0-0-0-0-0-0-0.html)**. **[Car2gether](https://www.daimler.com/technology-and-innovation/mobility-concepts/car2gether)** (covoiturage temps réel) et **[Car2share](https://www.daimler.com/dccom/0-5-1586002-1-1586753-1-0-0-0-0-0-0-7165-0-0-0-0-0-0-0.html)** (autopartage P2P) complètent les services en cours de développement. Cette approche systémique basée sur la vente de services de mobilité est également engagée à Las Vegas d'une toute autre façon par Tony Hsieh, CEO de Zappos.
@@ -48,7 +52,11 @@ Il vient d'inaugurer un projet de transport urbain ambitieux appelé **[Projet10
 
 Ces 2 exemples montrent que l'objectif est maintenant clair, compris, "simple". Ils montrent également que la route à emprunter, les acteurs impliqués et les méthodes ne sont pas, eux, connus. Qui d'un constructeur automobile mondial ou d'un industriel de la vente en ligne sera capable de proposer [**la meilleure expérience de mobilité** ]()? Qui construira en même temps un imaginaire en ligne avec les tendances actuelles ? 
 
+<<<<<<< HEAD
 "2013-05-07 10:29:37https://transportsdufutur.ademe.fr/2013/05/entre-daimler-et-zappos-qui-proposera-la-meilleure-experience-de-mobilite.htmlassistant de mobilité|BHNS|citoyen|collectivité|commuter|donnée data|données réelles|gouvernance|innovation|internet|ITS|mode doux|plate-forme|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatentre-daimler-et-zappos-qui-proposera-la-meilleure-experience-de-mobilite2015-07-21 16:35:42padding-left: 30px"">*We want the member experience to be as simple as possible. That’s why we’re focused on the simplicity of a mobile application. What goes on behind the scenes is anything but simple and we don’t want our members to have to worry about any of that.*
+=======
+"2013-05-07 10:29:37/2013/05/07/entre-daimler-et-zappos-qui-proposera-la-meilleure-experience-de-mobilite/assistant de mobilité|BHNS|citoyen|collectivité|commuter|donnée data|données réelles|gouvernance|innovation|internet|ITS|mode doux|plate-forme|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatentre-daimler-et-zappos-qui-proposera-la-meilleure-experience-de-mobilite2015-07-21 16:35:42padding-left: 30px"">*We want the member experience to be as simple as possible. That’s why we’re focused on the simplicity of a mobile application. What goes on behind the scenes is anything but simple and we don’t want our members to have to worry about any of that.*
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

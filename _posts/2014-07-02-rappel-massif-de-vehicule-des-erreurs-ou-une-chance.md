@@ -3,7 +3,11 @@ layout: post
 title: "Rappel massif de véhicule, des erreurs ou une chance?"
 date: 2014-07-02 09:42:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'citoyen', 'innovation', 'intelligence collective', 'plate-forme', "Plateforme d'idées", 'Service de mobilité', 'véhicule mono-usage', 'véhicule propre']
+=======
+tags: ["Amazon", "citoyen", "innovation", "intelligence collective", "plate-forme", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **En 2014, les constructeurs vont rappeler aux USA l'équivalent du parc automobile français, près de 30 millions de voiture** (lire l[**'article source**](http://www.washingtonpost.com/blogs/wonkblog/wp/2014/06/23/more-than-one-in-every-10-vehicles-on-the-road-has-been-recalled-since-january/)). Soit un véhicule sur dix. Ce n'est plus un détail, c'est un phénomène structurant de cette industrie. Les liens entre constructeurs, entre équipementiers, entre constructeurs et équipementiers font que les composants des uns et des autres se mêlent. Un incident chez l'un a des conséquences chez plusieurs. Personne ne peut prévoir, ni garantir, qu'aucun rappel ne sera fait sur ses véhicules.
@@ -86,7 +90,11 @@ Et si certains garagistes devenaient des ressources de formation, des experts po
 
  
 
+<<<<<<< HEAD
 "2014-07-02 09:42:38https://transportsdufutur.ademe.fr/2014/07/rappel-massif-de-vehicule-des-erreurs-ou-une-chance.htmlAmazon|citoyen|innovation|intelligence collective|plate-forme|Plateforme d'idées|Service de mobilité|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrappel-massif-de-vehicule-des-erreurs-ou-une-chance2015-07-21 16:35:31width=""427""> 
+=======
+"2014-07-02 09:42:38/2014/07/02/rappel-massif-de-vehicule-des-erreurs-ou-une-chance/Amazon|citoyen|innovation|intelligence collective|plate-forme|Plateforme d'idées|Service de mobilité|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrappel-massif-de-vehicule-des-erreurs-ou-une-chance2015-07-21 16:35:31width=""427""> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  ** [Slides OSVehicle Tabby Maker Faire Rome 2013]() ** from **[osvehicle]()** 
 

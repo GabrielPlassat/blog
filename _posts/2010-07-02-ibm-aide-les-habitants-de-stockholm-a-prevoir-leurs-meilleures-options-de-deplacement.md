@@ -3,7 +3,11 @@ layout: post
 title: "IBM aide les habitants de Stockholm à prévoir leurs meilleures options de déplacement"
 date: 2010-07-02 16:23:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'connectivité', 'données réelles', 'Infrastructure', 'internet', 'internet des objets', 'multimodes']
+=======
+tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "internet des objets", "multimodes"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 IBM annonce aujourd'hui sa collaboration avec le [KTH Royal Institute of Technology](http://www.kth.se/?l=en_UK) en Suède pour permettre aux habitants et aux autorités de la ville Stockholm de gérer et d’utiliser les transports de façon plus intelligente.

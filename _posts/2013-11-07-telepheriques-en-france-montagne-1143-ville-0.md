@@ -3,7 +3,11 @@ layout: post
 title: "Téléphériques en France. Montagne 1143 / Ville 0."
 date: 2013-11-07 12:05:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'collectivité', 'commuter', 'congestion', 'Efficacité énergétique', 'Infrastructure']
+=======
+tags: ["cit\u00e9", "collectivit\u00e9", "commuter", "congestion", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [Il s'agit d'un billet invité, bienvenue à Charlotte Boffetti, **[Creative Urban Projects](http://gondolaproject.com/gondola-project-team/)**]

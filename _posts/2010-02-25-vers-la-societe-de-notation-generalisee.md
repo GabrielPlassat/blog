@@ -3,7 +3,11 @@ layout: post
 title: "Vers la société de notation généralisée ?"
 date: 2010-02-25 15:23:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'connectivité', 'données réelles', "guide d'achat", 'internet', 'iphone', 'marchandises', 'open source', 'partage de données', 'réseaux', 'RSE', 'téléphone', 'TIC']
+=======
+tags: ["citoyen", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "guide d'achat", "internet", "iphone", "marchandises", "open source", "partage de donn\u00e9es", "r\u00e9seaux", "RSE", "t\u00e9l\u00e9phone", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [](/assets/images/old/6a0120a66d2ad4970b0120a8d28dc9970b-pi.gif)

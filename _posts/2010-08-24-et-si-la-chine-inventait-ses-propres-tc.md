@@ -3,7 +3,11 @@ layout: post
 title: "Et si la Chine inventait ses propres TC ?"
 date: 2010-08-24 16:14:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['BHNS', 'TC']
+=======
+tags: ["BHNS", "TC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [youtube http://www.youtube.com/watch?v=iQxP_un15iQ&fs=1&hl=fr_FR] 

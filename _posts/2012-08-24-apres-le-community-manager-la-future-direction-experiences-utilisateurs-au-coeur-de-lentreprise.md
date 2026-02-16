@@ -3,7 +3,11 @@ layout: post
 title: "Après le community manager, la future Direction « Expériences Utilisateurs » au cœur de l’entreprise"
 date: 2012-08-24 09:26:20 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'holoptisme', 'innovation', 'intelligence collective', 'jeu', 'monnaie complémentaire', 'transition générationnelle', 'transparence', 'UX', 'virtuel']
+=======
+tags: ["citoyen", "confiance", "holoptisme", "innovation", "intelligence collective", "jeu", "monnaie compl\u00e9mentaire", "transition g\u00e9n\u00e9rationnelle", "transparence", "UX", "virtuel"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’objet s’intègre dans un service par l’économie de la fonctionnalité dans laquelle la fonction prime sur la matière. Puis de nombreuses entreprises leaders dans leur domaine ont compris que les services devaient être valorisés sous forme **[d’expériences ](http://www.experience-marketing.fr/les-xperts/experimenter-et-customiser-35/)**: **[l’économie de l’expérience](/2012/08/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au.html)**. Le client devient un invité, l’objectif est de lui faire vivre une expérience mémorable. Apple, Starbuck, sans doute [BMW](http://www.fastcoexist.com/1680408/bmw-brings-luxury-electric-vehicle-sharing-to-the-us).

@@ -3,7 +3,11 @@ layout: post
 title: "L'esprit twitter et Apps Iphone souffle sur l'automobile"
 date: 2010-01-11 14:26:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'internet', 'internet des objets', 'iphone', 'open source', 'Service de mobilité', 'TIC', 'twitter', 'Véhicule']
+=======
+tags: ["connectivit\u00e9", "internet", "internet des objets", "iphone", "open source", "Service de mobilit\u00e9", "TIC", "twitter", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le **[2010 International Consumer Electronics Show (CES)](http://www.cesweb.org/faq/generalFAQs.asp#general)** qui se déroule actuellement à Las Vegas présente toutes les nouveautés liées aux technologies de l'information, dont les applications transports et automobile.

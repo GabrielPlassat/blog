@@ -42,7 +42,11 @@ La SNDD (Stratégie Nationale pour le Développement Durable) propose une archit
 
  
 
+<<<<<<< HEAD
 ·         **la démographie, l’immigration et l’inclusion sociale **dont l’impact sur l’économie et l’équilibre de nos systèmes de protection sociale est déterminant, en nous a
+=======
+·         **la démographie, l’immigration et l’inclusion sociale **dont l’impact sur l’économie et l’équilibre de nos systèmes de protection sociale est déterminant, en nous a_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ttachant à lutter contre toutes les exclusions dues notamment à l’âge, à la pauvreté, à l’insuffisance d’éducation et de formation et en s’appuyant sur la dimension pluricuturelle de la société française ;
 
  

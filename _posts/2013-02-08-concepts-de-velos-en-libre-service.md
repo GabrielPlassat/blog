@@ -3,7 +3,11 @@ layout: post
 title: "Concepts de vélos en libre service"
 date: 2013-02-08 20:41:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['2 roues', 'citoyen', 'collectivité', 'commuter', 'Efficacité énergétique', 'mode doux', 'multimodes', 'Service de mobilité', 'vélo']
+=======
+tags: ["2 roues", "citoyen", "collectivit\u00e9", "commuter", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "mode doux", "multimodes", "Service de mobilit\u00e9", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La [**MétaNote N°12**](/2011/05/metanote-tdf-12-lavenir-du-velo.html) propose une certaine vision du futur pour le vélo. Les concepts [**d'un concours de vélos en libre service**](http://bicycledesign.net/2013/02/vote-for-the-winner-of-the-isuda-bike-share-design-competition/) vont dans le même sens. La mise à disposition de vélo en libre service permet notamment d'apporter vite et partout dans la ville une certaine quantité de vélo. Cette masse" de vélo en circulation redonne une place à ce mode en relatif aux autres, notamment à la voiture, dans la "[**bataille de la route**]()". Cela accélère le report modal sur le vélo en général qu'il soit public ou privé.

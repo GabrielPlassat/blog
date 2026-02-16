@@ -3,7 +3,11 @@ layout: post
 title: "State Of Europe Environment, Megatrends and Policies for Transportation"
 date: 2010-12-02 15:20:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'Europe']
+=======
+tags: ["Energie", "Europe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 SOER 2010 provides a set of assessments of the current state of Europe's environment, its likely future state, what is being done and what could be done to improve it, how **[global megatrends ](http://www.eea.europa.eu/soer/europe-and-the-world/megatrends)**might affect future trends… and more, like specific country profile (**[France ](http://www.eea.europa.eu/soer/countries/fr#c6=CommonalityReport&c6=FlexibilityReport&c12=all&c5=)**for example).

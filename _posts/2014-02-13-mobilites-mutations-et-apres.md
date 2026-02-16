@@ -3,7 +3,11 @@ layout: post
 title: "Mobilités Mutations, et après ?"
 date: 2014-02-13 16:41:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'innovation', 'intelligence collective', 'open innovation', 'plate-forme', "Plateforme d'idées"]
+=======
+tags: ["ADEME", "innovation", "intelligence collective", "open innovation", "plate-forme", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le séminaire Mobilités Mutations (3-4/12/2013) a conduit à plusieurs livrables échangeables comme les [**interventions**](/2014/01/interventions-du-seminaire-mobilites-mutations.html), les [**visions prospectives 2015/2065**](/2014/01/seminaire-mobilites-mutations-prospectives-2015-a-2065.html), les [**défis identifiés**](/2013/12/mur-des-defis.html), les [**échanges pendant le séminaire**](/2013/12/tweet-feed-back-du-seminaire-mobilites-mutations.html). Bien sûr d'autres [**richesses non échangeables**](/2013/12/rien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-1.html) mais exprimables ont été produites pendant ce séminaire, des liens ont été créés, des dynamiques collaboratives ont été mises en oeuvre. Une synthèse est en cours de production, complétée par des interviews filmées. 

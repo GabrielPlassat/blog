@@ -3,7 +3,11 @@ layout: post
 title: "XPrice 2010, c'est parti !"
 date: 2010-04-29 14:04:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Efficacité énergétique', 'véhicule propre']
+=======
+tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[XPrice](http://www.xprize.org/)** est une fondation qui a pour but de susciter l'innovation dans des secteurs clés, via la compétition. Concernant les transports, le programme Progressive Insurance Automotive X Price existe depuis plusieurs années.

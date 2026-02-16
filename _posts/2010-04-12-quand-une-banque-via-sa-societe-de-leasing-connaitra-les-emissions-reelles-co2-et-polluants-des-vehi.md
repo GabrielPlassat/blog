@@ -3,7 +3,11 @@ layout: post
 title: "Quand une banque, via sa société de leasing, connaîtra les émissions réelles CO2 et polluants des véhicules"
 date: 2010-04-12 09:51:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['banque', 'connectivité', 'données réelles', "guide d'achat", 'internet', 'iphone', 'partage de données', 'Service de mobilité', 'véhicule propre']
+=======
+tags: ["banque", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "guide d'achat", "internet", "iphone", "partage de donn\u00e9es", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Elle n’achètera pas ses prochains véhicules de la même façon**.

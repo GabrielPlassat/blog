@@ -3,7 +3,11 @@ layout: post
 title: "La Fabrique des Mobilités s'éveille"
 date: 2015-01-30 12:13:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'art de la guerre', 'Comment agir pour changer les pratiques ?', 'Que sait-on de nos mobilités ?', 'Territoire Collectivité Etat Europe']
+=======
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "art de la guerre", "Comment agir pour changer les pratiques ?", "Que sait-on de nos mobilit\u00e9s ?", "Territoire Collectivit\u00e9 Etat Europe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Présentée au NUMA dans ces principes au NUMA le 22 Janvier, La Fabrique des Mobilités est un nouveau dispositif de soutien à l'innovation. Centré sur les entrepreneurs, notamment les start-ups, ce dispositif vise à compléter les solutions de financement, d'incubation et d'accélération existants. Il contient :

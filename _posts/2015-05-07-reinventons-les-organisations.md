@@ -3,7 +3,11 @@ layout: post
 title: "Réinventons les organisations"
 date: 2015-05-07 09:46:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur historique des Mobilités et Logistiques', 'anthropologie', 'citoyen', 'communs', 'Fabrique des mobilités', 'Générateur de Mobilité', 'holoptisme', 'innovation', 'intelligence collective', 'open innovation', 'open source', 'pensée complexe', 'philanthropie', 'philosophie']
+=======
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "anthropologie", "citoyen", "communs", "Fabrique des mobilit\u00e9s", "G\u00e9n\u00e9rateur de Mobilit\u00e9", "holoptisme", "innovation", "intelligence collective", "open innovation", "open source", "pens\u00e9e complexe", "philanthropie", "philosophie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La structure d'un collectif détermine fortement sa performance, son adaptabilité, sa capacité à innover. Les différences entre un groupe industriel et une startup (qui réussit) viennent notamment des choix d'organisation, des processus de décision qui conditionnent l'activité au quotidien. Quelles seraient les performances pour des groupes industriels qui s'organiseraient de façon radicalement différente ? Au delà, que donnerait un écosystème industriel dans lequel tous les acteurs fonctionneraient de façon décentralisés tout en étant intimement connectés ?
@@ -73,7 +77,11 @@ Frédéric Laloux l'indique clairement. Ce changement commence par le président
 
  
 
+<<<<<<< HEAD
 "2015-05-07 09:46:00https://transportsdufutur.ademe.fr/2015/05/reinventons-les-organisations.htmlActeur historique des Mobilités et Logistiques|anthropologie|citoyen|communs|Fabrique des mobilités|Générateur de Mobilité|holoptisme|innovation|intelligence collective|open innovation|open source|pensée complexe|philanthropie|philosophiepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatreinventons-les-organisations2017-05-05 15:36:17>"*Une organisation ne peut pas évoluer au delà du niveau de développement de son leader [...] Un grand nombre de psychologue, philosophe et anthropologue ont analysé l'évolution du niveau de conscience des organisations collectives au cours de notre histoire. Ils ont trouvé que depuis environ 100 000 ans, nous sommes passés par plusieurs niveaux successifs. A chaque niveau, nous avons fait un saut dans nos capacités cognitives, morales et psychologiques pour comprendre et agir dans notre environnement. Il y a un aspect important que les chercheurs ont sous-estimé: à chaque passage à un niveau supérieur, nous avons inventé de nouvelles façons de collaborer, de nouveaux modèles d'organisations.*"
+=======
+"2015-05-07 09:46:00/2015/05/07/reinventons-les-organisations/Acteur historique des Mobilités et Logistiques|anthropologie|citoyen|communs|Fabrique des mobilités|Générateur de Mobilité|holoptisme|innovation|intelligence collective|open innovation|open source|pensée complexe|philanthropie|philosophiepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatreinventons-les-organisations2017-05-05 15:36:17>"*Une organisation ne peut pas évoluer au delà du niveau de développement de son leader [...] Un grand nombre de psychologue, philosophe et anthropologue ont analysé l'évolution du niveau de conscience des organisations collectives au cours de notre histoire. Ils ont trouvé que depuis environ 100 000 ans, nous sommes passés par plusieurs niveaux successifs. A chaque niveau, nous avons fait un saut dans nos capacités cognitives, morales et psychologiques pour comprendre et agir dans notre environnement. Il y a un aspect important que les chercheurs ont sous-estimé: à chaque passage à un niveau supérieur, nous avons inventé de nouvelles façons de collaborer, de nouveaux modèles d'organisations.*"
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

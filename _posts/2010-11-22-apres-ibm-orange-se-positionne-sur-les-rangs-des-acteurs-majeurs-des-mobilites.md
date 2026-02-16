@@ -3,7 +3,11 @@ layout: post
 title: "Après IBM, Orange se positionne sur les rangs des acteurs majeurs des mobilités"
 date: 2010-11-22 18:35:01 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'internet', 'Service de mobilité', 'surveillance', 'TIC']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "internet", "Service de mobilit\u00e9", "surveillance", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La dernière étude d'IBM **[Advancing Mobility](http://www-935.ibm.com/services/us/gbs/thoughtleadership/ibv-ibm-global-mobility.html)**, remarquable par les éléments apportés et la large vision mondiale, se voit conforter par l'étude récente d'Orange **[Transport collectif : l'ère du voyageur numérique]()**". L'une partant plutôt sur les mutations à venir du secteur industriel automobile, dont la première vocation est de faire/vendre des automobiles, l'autre partant plutôt de l'apport des TIC dans les transports publics, les deux se rejoignant sur la naissance d'opérateur de mobilités multimodales privées publiques mais surtout porte à porte.
@@ -28,4 +32,8 @@ Pour que tous les consommateurs citoyens en sortent gagnants, ainsi que les mobi
 
 Déjà abordé dans ce blog (voir les **[métanotes ]()**notamment 0,1 et 9), l'opportunité inédite offerte par les TIC, cumulée aux contraintes sans prédédent appliquées d'une part aux industriels et d'autre part aux citoyens, permettrait d'accéder à un niveau de mobilité "supérieure" (plus rapide, plus économique, plus efficace, plus social, plus connectée, ...) pour tous partout. De nombreuses conditions, partiellement identifiées au dessus, sont encore à vérifier pour éviter que l'hyperempire, comme le nomme J.Attali dans **[Une brève histoire de l'avenir]()**, n'intègre ces technologies pour accroître l'hypermobilité de quelques uns au détriment du plus grand nombre.
 
+<<<<<<< HEAD
  [Ibm mobility]() View more [documents]() from [transportsdufutur](). [Orange transport collec]() View more [documents]() from [transportsdufutur](). "2010-11-22 18:35:01https://transportsdufutur.ademe.fr/2010/11/apres-ibm-orange-se-positionne-sur-les-rangs-des-acteurs-majeurs-des-mobilites.htmlassistant de mobilité|autorité des transports|internet|Service de mobilité|surveillance|TICpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapres-ibm-orange-se-positionne-sur-les-rangs-des-acteurs-majeurs-des-mobilites2015-07-21 16:37:33
+=======
+ [Ibm mobility]() View more [documents]() from [transportsdufutur](). [Orange transport collec]() View more [documents]() from [transportsdufutur](). "2010-11-22 18:35:01/2010/11/22/apres-ibm-orange-se-positionne-sur-les-rangs-des-acteurs-majeurs-des-mobilites/assistant de mobilité|autorité des transports|internet|Service de mobilité|surveillance|TICpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapres-ibm-orange-se-positionne-sur-les-rangs-des-acteurs-majeurs-des-mobilites2015-07-21 16:37:33
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

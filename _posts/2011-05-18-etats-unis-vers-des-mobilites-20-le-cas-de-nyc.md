@@ -3,7 +3,11 @@ layout: post
 title: "Etats-unis vers des mobilités 2.0, le cas de NYC"
 date: 2011-05-18 18:20:22 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'autorité des transports', 'cité', 'citoyen', 'collectivité', 'commuter', 'donnée data', 'données réelles', 'Efficacité énergétique', 'partage de données', 'partage de la voirie']
+=======
+tags: ["assurance", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "partage de donn\u00e9es", "partage de la voirie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La récente étude réalisée par Brookings concernant l'impact des transports public sur l'emploi ou la capacité à accéder à l'emploi, ainsi que l'appel à manifestation d'intérêt lancé par la ville de New York DriveSmart Technology" confirme que les **[tensions sur le prix de l'énergie ]()**libèrent des opportunités, (ré)affirment le rôle clé des données et de la gouvernance.
@@ -45,7 +49,11 @@ Les bénéfices attendus pour les utilisateurs sont listés :
 
 Une fois de plus, les TIC, si elles sont pensées dans une approche systémique, peuvent changer les usages et les jeux d'acteurs : assurance, style de conduite, choix des routes, utilisation des couloirs, paiement du stationnement, et ma préférée : mileage based pricing structure. Il est donc évoqué ici la possibilité de substituer la taxe sur le carburant par une taxe à l'usage. Cette option a déjà été mentionnée dans ce blog (car très probable) ... voir **[ICI]()**.
 
+<<<<<<< HEAD
  [0512 jobs transit]() View more [documents]() from [transportsdufutur](). [2011 rfei drivesmart]() View more [documents]() from [transportsdufutur](). "2011-05-18 18:20:22https://transportsdufutur.ademe.fr/2011/05/etats-unis-vers-des-mobilites-20-le-cas-de-nyc.htmlassurance|autorité des transports|cité|citoyen|collectivité|commuter|donnée data|données réelles|Efficacité énergétique|partage de données|partage de la voiriepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatetats-unis-vers-des-mobilites-20-le-cas-de-nyc2015-07-21 16:36:47 
+=======
+ [0512 jobs transit]() View more [documents]() from [transportsdufutur](). [2011 rfei drivesmart]() View more [documents]() from [transportsdufutur](). "2011-05-18 18:20:22/2011/05/18/etats-unis-vers-des-mobilites-20-le-cas-de-nyc/assurance|autorité des transports|cité|citoyen|collectivité|commuter|donnée data|données réelles|Efficacité énergétique|partage de données|partage de la voiriepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatetats-unis-vers-des-mobilites-20-le-cas-de-nyc2015-07-21 16:36:47 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 - Software applications that provide opportunities for additional financial savings to drivers, such as personalized feedback on fuel efficiency and information on the total costs of alternative routes and modes 
 - Software applications that provide “Smart Motorist” information (e.g., fastest route or most reliable route based on real‐time traffic conditions, pre‐trip traffic alerts, personalized feedback on safety, summaries of overall travel covering mileage, travel time, estimated delay, fuel usage, etc.) 
 - Crowd‐sourcing applications that enhance real‐time information and provide benchmarks for individual motorists to compare their fuel efficiency, travel time and cost savings and driving safety with anonymized data from other users 

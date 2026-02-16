@@ -3,7 +3,11 @@ layout: post
 title: "les VE, la gestion de la pointe, les smart grids, et les hackers"
 date: 2010-10-15 17:31:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'internet', 'réseaux', 'smartgrid', 'VE']
+=======
+tags: ["donn\u00e9e data", "internet", "r\u00e9seaux", "smartgrid", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La perspective future d'une diffusion du VE en France et plus généralement en Europe, conduit immédiatement à questionner la production d'électricité (disponible en temps réel, voir **[ici](http://goo.gl/IYyA)**), et notamment la gestion de la pointe. Les smart grids sont présentés comme une solutions permettant par de nouvelles informations de mieux gérer le système. Mais quels sont les risques ? 

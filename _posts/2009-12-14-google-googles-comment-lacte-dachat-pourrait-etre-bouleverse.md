@@ -3,7 +3,11 @@ layout: post
 title: "Google googles, comment l’acte d’achat pourrait être bouleversé !"
 date: 2009-12-14 10:18:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'google', "Plateforme d'idées", 'propaganda', 'TIC']
+=======
+tags: ["Energie", "google", "Plateforme d'id\u00e9es", "propaganda", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Donc les stratégies des entreprises, donc leurs organisations, donc les flux de matières et de produits, et donc les transports associés. Apporter l’information, la bonne, au plus près du consommateur au moment de son acte décisif d’achat est une révolution dans le monde du marketing. Depuis E.Bernay (neveu de Freund, et auteur de Propaganda en 1928 que **[je vous encourage à lire ici](http://www.editions-zones.fr/spip.php?article21)**), le consommateur n’a pas toutes les informations lui permettant de faire le bon choix selon ses critères. Le marketing peut alors se déployer pour apporter une information partielle, sélective.

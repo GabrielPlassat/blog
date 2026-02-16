@@ -3,7 +3,11 @@ layout: post
 title: "Parce que les Mobilités de demain passent par l'Internet du Futur"
 date: 2011-04-18 11:30:27 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'collectivité', 'connectivité', 'données réelles', 'internet', 'internet des objets', 'management de la mobilité', 'yield management']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "management de la mobilit\u00e9", "yield management"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La Commission Européenne lance une action spécifique **[Future Internet Public Private Partnership]()**", intégré dans un programme plus général **[Future Internet]()**. L'internet du futur va bien évidemment façonner une partie de nos actions quotidiennes, et donc influencer notamment les transports. Des éléments généraux sont présentés ainsi qu'un projet, *Instant Mobility piloté par THALES et ORANGE*, directement lié à la Mobilité des biens et des personnes utilisant des briques de l'Internet du Futur. Parce que les Mobilités de demain passent par l'Internet du Futur ... 
@@ -43,7 +47,11 @@ Il est notamment indiqué que le projet testera la rencontre en temps réel de l
 
 **Qui de l'objet ou du service procurera la plus grande valeur ajoutée en matière de mobilité, répondra aux besoins de "simplexité" croissant des citoyens, utilisera au mieux les progrès des domaines connexes comme les TIC et internet ?**
 
+<<<<<<< HEAD
 "2011-04-18 11:30:27https://transportsdufutur.ademe.fr/2011/04/parce-que-les-mobilites-de-demain-passent-par-linternet-du-futur.htmlassistant de mobilité|citoyen|collectivité|connectivité|données réelles|internet|internet des objets|management de la mobilité|yield managementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatparce-que-les-mobilites-de-demain-passent-par-linternet-du-futur2015-07-21 16:37:24and their experimentation and validation in real application contexts. It brings together the demand and the supply sides, and also requires involving users early into the research lifecycle. The platform to be developed will thus be used by many actors, in particular by SMEs and public administration services, to validate the technologies in the context of smart applications and their viability to support «user driven» innovation schemes.
+=======
+"2011-04-18 11:30:27/2011/04/18/parce-que-les-mobilites-de-demain-passent-par-linternet-du-futur/assistant de mobilité|citoyen|collectivité|connectivité|données réelles|internet|internet des objets|management de la mobilité|yield managementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatparce-que-les-mobilites-de-demain-passent-par-linternet-du-futur2015-07-21 16:37:24and their experimentation and validation in real application contexts. It brings together the demand and the supply sides, and also requires involving users early into the research lifecycle. The platform to be developed will thus be used by many actors, in particular by SMEs and public administration services, to validate the technologies in the context of smart applications and their viability to support «user driven» innovation schemes.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

@@ -3,7 +3,11 @@ layout: post
 title: "500 $ pour une localisation temps réel d’une ligne de bus, combien pour des minutes perdues tous les jours ?"
 date: 2010-04-21 14:17:09 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['collectivité', 'connectivité', 'données réelles', 'internet', 'partage de données']
+=======
+tags: ["collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [from **[Planetizen](http://www.planetizen.com/node/43852)**] With the brilliant help of graduates from Hoboken's [**Stevens Institute of Technology**](http://www.stevens.edu/), our local community shuttle bus (a.k.a. The Hop, formerly known as The Downtown Crosstown Shuttle) can now be viewed live on the **[city's website](http://www.hobokennj.org/departments/transportation-parking/the-hop/)** as it cruises along narrow Hoboken city streets from 7:00 AM to 7:00 PM (EST), Monday through Friday. **If you're not near the internet, try texting “crosstown” to 41411 to get a return text with the location of the bus**' whereabouts whenever it's running, then run down to the corner before you miss it!

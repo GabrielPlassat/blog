@@ -3,7 +3,11 @@ layout: post
 title: "Bonnes pratiques d'ouverture ou de réutilisation des données publiques"
 date: 2010-11-05 11:24:59 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'donnée data', 'données réelles', 'economie circulaire', 'Efficacité énergétique', 'Energie', 'partage de données']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le sujet de la donnée, déjà abordé dans ce blog **[ici ](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html)**et **[là](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**, sera l'objet de la conférence organisée notamment par la FING.

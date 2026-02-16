@@ -3,7 +3,11 @@ layout: post
 title: "Et si le bus était le transport public le plus résilient ? leçons du dernier rapport Modernizing Public Transportation"
 date: 2010-10-18 17:26:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['BHNS', 'collectivité']
+=======
+tags: ["BHNS", "collectivit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 A new report, “[Modernizing Public Transportation](http://www.embarq.org/en/modernizing-public-transportation),” presents the first comprehensive review of major bus improvements in 13 Latin America and Asia cities.

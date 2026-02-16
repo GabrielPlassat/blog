@@ -3,7 +3,11 @@ layout: post
 title: "Trans Urban Electrified Project - Call for Partners"
 date: 2011-04-29 14:22:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Europe', 'multimodes']
+=======
+tags: ["Europe", "multimodes"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 The Trans Urban Electrified Project is looking for partners being public or private organisations, setting up a local/regional pilot site.

@@ -3,7 +3,11 @@ layout: post
 title: "Demain nous connaîtrons en temps réel nos émissions de CO2 liées à nos déplacements, et après demain, les mutuelles de santé s’en serviront pour adapter les tarifs"
 date: 2011-01-12 14:04:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'assurance', 'citoyen', 'collectivité', 'connectivité', 'données réelles', 'internet', 'marche', 'obésité', 'Santé', 'surveillance', 'vélo']
+=======
+tags: ["assistant de mobilit\u00e9", "assurance", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "marche", "ob\u00e9sit\u00e9", "Sant\u00e9", "surveillance", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le MIT développe un outil **[CO2GO ](http://senseable.mit.edu/co2go/)**qui estime, sans aucune action de la personne, ses émissions de CO2 liées à ces déplacements. Utilisant les capteurs inclus dans un smartphone (GPS, acceleromètre, et demain ?), il est déjà capable « d’auto-identifier » le mode de transport, puis en appliquant des facteurs d’émissions par défaut et connaissant les distances, les émissions de CO2 sont estimées. Ceci est disponible aujourd’hui.

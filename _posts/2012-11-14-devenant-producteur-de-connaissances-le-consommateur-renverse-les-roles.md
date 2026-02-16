@@ -3,7 +3,11 @@ layout: post
 title: "Devenant producteur de connaissances, le consommateur renverse les rôles"
 date: 2012-11-14 17:37:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'citoyen', 'collectivité', 'donnée data', 'Efficacité énergétique', 'marchandises', 'marketing', 'propaganda']
+=======
+tags: ["Assistant Personnel de Consommation", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "marchandises", "marketing", "propaganda"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le numérique portable et l'internet changent le rapport de force entre le consommateur et le distributeur d'un produit à plusieurs niveaux. Les conséquences seront multiples, et iront jusqu'à modifier les chaînes logistiques. D'ici quelques années, le **[client du futur](/2011/10/le-consommateur-du-futur-revolution.html)** pourra gérer un choix multicritère complexe, avoir l'avis de ses pairs, connaître le mode de production du produit, son contenu carbone, identifier la présence de composés allergiques, mais également faire savoir à son réseau qu'il achète ou n'achète pas pour telle ou telle raison. Ceci sera possible partout, tout le temps. L'asymétrie d'informations dans laquelle était maintenue, volontairement, le consommateur s'inverse; désormais plus rien ne lui sera inconnu. Bienvenue dans l'ère de la transparence, obligatoire, éventuellement positive et libératrice.  
@@ -41,7 +45,11 @@ Dans cette transition, **[le consommateur reprends la main]()**, il construit pr
 
  
 
+<<<<<<< HEAD
 "2012-11-14 17:37:21https://transportsdufutur.ademe.fr/2012/11/devenant-producteur-de-connaissances-le-consommateur-renverse-les-roles.htmlAssistant Personnel de Consommation|citoyen|collectivité|donnée data|Efficacité énergétique|marchandises|marketing|propagandapublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdevenant-producteur-de-connaissances-le-consommateur-renverse-les-roles2015-07-21 16:35:48title=""Mesgouts"" />
+=======
+"2012-11-14 17:37:21/2012/11/14/devenant-producteur-de-connaissances-le-consommateur-renverse-les-roles/Assistant Personnel de Consommation|citoyen|collectivité|donnée data|Efficacité énergétique|marchandises|marketing|propagandapublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdevenant-producteur-de-connaissances-le-consommateur-renverse-les-roles2015-07-21 16:35:48title=""Mesgouts"" />
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 *                mesgouts.fr*
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "L'Internet des Objets, quelles conséquences pour la mobilité ?"
 date: 2010-01-28 12:13:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'Infrastructure', 'internet', 'internet des objets', 'Précarité', 'RFID', 'Santé', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["Energie", "Infrastructure", "internet", "internet des objets", "Pr\u00e9carit\u00e9", "RFID", "Sant\u00e9", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Vaste sujet, tant il embrassera des champs larges et variés de nos secteurs d'activités et de nos vies, tant la direction et l'amplitude qu'investira l'Internet des Objets (Ido) n'est absolument pas défini. Il faut comprendre que, par exemple, la puce RFID sur une caisse logistique qui communique quelques données, même si elle permet de parler d'IdO, ne sera q'un détail de l'histoire. Tout dépend alors de nos capacités à intégrer ces technologies dans les objets, tout en reconsidérant en même temps, la façon dont ils sont conçus, fabriqués, utilisés, recyclés et pourquoi ils le sont. 

@@ -3,7 +3,11 @@ layout: post
 title: "Les données Transports, levier de nos créations"
 date: 2015-03-13 10:37:24 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur numérique des Mobilités et des Logistiques', 'ADEME', 'art de la guerre', 'assistant de mobilité', 'citoyen', 'donnée data', 'données réelles', 'Fabrique des mobilités', 'google', 'innovation', 'internet', 'plate-forme', 'Que sait-on de nos mobilités ?', 'Service de mobilité']
+=======
+tags: ["Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "ADEME", "art de la guerre", "assistant de mobilit\u00e9", "citoyen", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Fabrique des mobilit\u00e9s", "google", "innovation", "internet", "plate-forme", "Que sait-on de nos mobilit\u00e9s ?", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le rapport sur l'Ouverture des données Transports présidé par Francis Jutand était remis hier au Ministre des Transports, M.Vidalies. Le rapport est disponible par ce [**lien**](/assets/images/2015/03/vf_rapport_jutand.pdf), et la soirée suivie par @15marches via ce [**storify**](https://storify.com/15marches/l-opendata-dans-les-transports-un-nouveau-depart). L'ouverture des données était au rendez vous !
@@ -58,7 +62,11 @@ Blablacar s'appelait Covoiturage.fr (ci dessous en 2005 avec 28 trajets proposé
 
  
 
+<<<<<<< HEAD
 "2015-03-13 10:37:24https://transportsdufutur.ademe.fr/2015/03/les-donnees-transports-levier-de-nos-creations.htmlActeur numérique des Mobilités et des Logistiques|ADEME|art de la guerre|assistant de mobilité|citoyen|donnée data|données réelles|Fabrique des mobilités|google|innovation|internet|plate-forme|Que sait-on de nos mobilités ?|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-donnees-transports-levier-de-nos-creations2017-05-05 15:37:52width=""477""> 
+=======
+"2015-03-13 10:37:24/2015/03/13/les-donnees-transports-levier-de-nos-creations/Acteur numérique des Mobilités et des Logistiques|ADEME|art de la guerre|assistant de mobilité|citoyen|donnée data|données réelles|Fabrique des mobilités|google|innovation|internet|plate-forme|Que sait-on de nos mobilités ?|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-donnees-transports-levier-de-nos-creations2017-05-05 15:37:52width=""477""> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  ** [Les transports du futur mobilite des personnes le programmev2]() ** from **[Les transports du futur]()** 
 

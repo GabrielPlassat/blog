@@ -3,7 +3,11 @@ layout: post
 title: "Assistant de Mobilité, pour les particuliers et les professionnels"
 date: 2010-04-12 11:03:03 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'connectivité', 'données réelles', 'Efficacité énergétique', 'internet', 'partage de données']
+=======
+tags: ["assistant de mobilit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Accès à des indicateurs nouveaux, consommation, CO2, pour tous les modes de transport, réalisation d’outils métier à partir de ces données, élaboration de coûts totaux de possession basés sur des usages réels … Cela intéresse du monde, Al Gore, Richard Branson notamment … mais également vous et moi.

@@ -3,7 +3,11 @@ layout: post
 title: "Quand le sol ne suffit plus ..."
 date: 2011-12-26 15:46:43 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['2 roues', 'chine', 'cité', 'citoyen', 'commuter', 'congestion', 'cybercar', 'Infrastructure', 'innovation', 'mode doux', 'multimodes', 'rickshaw', 'véhicule mono-usage']
+=======
+tags: ["2 roues", "chine", "cit\u00e9", "citoyen", "commuter", "congestion", "cybercar", "Infrastructure", "innovation", "mode doux", "multimodes", "rickshaw", "v\u00e9hicule mono-usage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'accès à la [**vitesse bon marché**]()" a permis d'accéder à la maison-jardin pour certains, à échapper à la pression des prix de l'immobilier pour d'autres, à se rapprocher de ses semblables pour la plupart. Cette opportunité d'accéder au "meilleur sol" se transforme petit à petit, mais sûrement, sous la forme de multiples risques, de multiples fractures, de multiples formes d'immobilités. Ainsi des gradients apparaissent : accès à l'emploi, accès aux loisirs et aux aux savoirs, accès aux autres.

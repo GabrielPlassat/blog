@@ -3,7 +3,11 @@ layout: post
 title: "Grand Sud-Est, fracture à venir en matière de mobilité pour un million de personne (rural, péri-urbain)"
 date: 2012-01-06 15:33:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'donnée data', 'périurbain', 'pétrole', 'territoire']
+=======
+tags: ["citoyen", "donn\u00e9e data", "p\u00e9riurbain", "p\u00e9trole", "territoire"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**L'INSEE vient de publier une note**](http://www.insee.fr/fr/themes/document.asp?reg_id=8&ref_id=18130) portant sur l'accès aux services dans le Grand Sud-Est. **Cette note constate que, dans cette région, la mobilité de près d'un million de personne habitant en milieu rural et péri-urbain pourrait devenir difficile si le prix des carburants continue d'augmenter**.
@@ -42,4 +46,8 @@ Le périurbain/rural devrait devenir le sujet principal des réflexions en mati�
 
  
 
+<<<<<<< HEAD
 "2012-01-06 15:33:26https://transportsdufutur.ademe.fr/2012/01/grand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain.htmlcitoyen|donnée data|périurbain|pétrole|territoirepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgrand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain2015-07-21 16:36:38
+=======
+"2012-01-06 15:33:26/2012/01/06/grand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain/citoyen|donnée data|périurbain|pétrole|territoirepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgrand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain2015-07-21 16:36:38
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "J'ai testé pour vous le véhicule non-autonome et déconnecté"
 date: 2014-06-18 11:20:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'connectivité', 'économie fonctionnalité', 'innovation', 'lien social', 'Véhicule', 'virtuel']
+=======
+tags: ["citoyen", "connectivit\u00e9", "\u00e9conomie fonctionnalit\u00e9", "innovation", "lien social", "V\u00e9hicule", "virtuel"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cet article a été rédigé par **[Lomig Unger](http://www.lomigunger.com/)**, animateur de communauté, conduite du changement. ***

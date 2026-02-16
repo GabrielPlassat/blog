@@ -3,7 +3,11 @@ layout: post
 title: "Sécheresse en Inde, pluie au Brésil, tension sur le sucre et éthanol en hausse …"
 date: 2010-01-04 16:45:18 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'éthanol', 'sucre']
+=======
+tags: ["Energie", "\u00e9thanol", "sucre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les **[cours du sucre](http://www.publicsenat.fr/vod/conversation-d-avenirs/le-sucre/62943)** (sucre, saccharas, mot d'origine sanscrit) ont atteint des niveaux historiquement hauts, les plus élevés depuis plus de 28 ans. Les origines sont multiples : hausse globale de la consommation de sucre liée à l’augmentation de la population – malgré une baisse dans les pays développés, forte sécheresse en Inde (2ème pays producteur, équilibriste importation / exportation selon les années) dans les zones productrices, et exploitation décalée au Brésil (1er pays producteur, 1er pays utilisateur d’éthanol carburant).

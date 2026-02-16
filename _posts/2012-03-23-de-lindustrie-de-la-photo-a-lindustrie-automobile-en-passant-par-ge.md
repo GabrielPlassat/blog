@@ -3,7 +3,11 @@ layout: post
 title: "De l'industrie de la photo à l'industrie #automobile en passant par #GE"
 date: 2012-03-23 10:00:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'données réelles', 'économie du quaternaire', 'économie fonctionnalité', 'General Electric', 'intelligence collective', 'internet', 'partage de données', 'Service de mobilité']
+=======
+tags: ["citoyen", "donn\u00e9es r\u00e9elles", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "General Electric", "intelligence collective", "internet", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La récente chute de KODAK ne peut pas laisser indifférent. Reprenant [**ParisTechReview**](http://www.paristechreview.com/2012/02/20/kodak-lecons-faillite/) Lorsqu'apparaissent des technologies de rupture, certaines entreprises sont totalement prises au dépourvu. D'autres sentent le vent tourner et s'adaptent avec le temps. Et il y a celles qui, comme Kodak, ont vu venir et n'ont pas su réagir.". Car le plus étonnant est là : Kodak avait, avant les autres, travaillé la photo numérique, déposé des brevets... Mais ils ont été incapables de voir le monde qui vient, de changer de point de vue.

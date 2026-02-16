@@ -3,7 +3,11 @@ layout: post
 title: "Focus sur la Finlande"
 date: 2010-02-05 09:27:28 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'finlande', 'Infrastructure', 'nexbtl', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["Energie", "finlande", "Infrastructure", "nexbtl", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Comment un pays semi désertique, soumis à un climat rigoureux, habité par seulement 5.3 millions de personnes, se place en tête des classements internationaux (**[IDH](http://fr.wikipedia.org/wiki/Classement_IDH_des_pays)**, **[legatum prosperity](http://prosperity.com/country.aspx?id=FI)**), ainsi qu'en matière de recherche dans le domaine des transports.

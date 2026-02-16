@@ -3,7 +3,11 @@ layout: post
 title: "Voter pour le meilleur Assistant Personnel de Mobilité en Europe ! en France Multicity par Citroën et Eco-comparateur par la SNCF"
 date: 2011-12-08 10:41:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'Europe']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "Europe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Although Europe boasts more than 100 different **journey planners**, not one of them covers all countries and all transport modes. The technology exists and the need is there to give travellers practical tools allowing them to choose how to travel, be it quickly, cheaply or in a way that least affects the environment. As the European Commission believes citizens are entitled to travel in a way that best suits their needs, it launched a challenge this year to stimulate the development of a truly integrated multimodal and cross-border journey planner. **Multimodal travel **is a key part of the European Commission’s [strategy for the future of transport](http://ec.europa.eu/transport/strategies/2001_white_paper_en.htm), aimed at making transport more efficient and clean and ensuring high quality of service.

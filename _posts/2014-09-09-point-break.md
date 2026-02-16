@@ -3,7 +3,11 @@ layout: post
 title: "Point Break"
 date: 2014-09-09 14:44:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'citoyen', 'données réelles', 'google', 'transparence', 'Uber', 'véhicule propre']
+=======
+tags: ["art de la guerre", "citoyen", "donn\u00e9es r\u00e9elles", "google", "transparence", "Uber", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Certaines évolutions sont prévisibles, inscrites dans les tendances historiques. Le beau, bon et vrai" produit est toujours préféré par le citoyen. Quand la connaissance permettant de juger si le produit/service est "beau, bon et vrai" n'est pas accesssible, la réglementation ajoute quelques barrières pour protéger du mieux possible ce dernier. Mais ce n'est pas du tout équivalent. La pollution automobile correspond parfaitement à ce cas.
@@ -73,4 +77,8 @@ Et quand, sont déjà "entrés" dans l'automobile, les géants du numérique, co
 
  
 
+<<<<<<< HEAD
 "2014-09-09 14:44:23https://transportsdufutur.ademe.fr/2014/09/point-break.htmlart de la guerre|citoyen|données réelles|google|transparence|Uber|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpoint-break2015-07-21 16:35:29
+=======
+"2014-09-09 14:44:23/2014/09/09/point-break/art de la guerre|citoyen|données réelles|google|transparence|Uber|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpoint-break2015-07-21 16:35:29
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

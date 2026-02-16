@@ -3,7 +3,11 @@ layout: post
 title: "Garmin EcoRoute, ce n'est qu'un début, vers plus de transparence"
 date: 2010-06-09 21:25:11 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Efficacité énergétique', 'emission', 'Energie']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b013483a40572970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b013483a40572970c-pi.jpg) **[Garmin](http://www.garmin.com/garmin/cms/site/fr/extras/services/ecoroute/)** vient de dévoiler l’ecoRoute HD, un petit module qui transforme votre GPS Garmin en véritable ordinateur de bord. L’ecoRoute HD est un petit boitier qui se branche sur la prise OBD2 de la voiture, et communique avec le PND Garmin par Bluetooth. Grâce à ce module, le conducteur peut connaître ses consommations précises, ses résultats de conduite (vitesse, vitesse moyenne, accélération, freinage, …). La fonction ecoRoute lui permet également de mieux maitriser sa consommation de carburant. Encore mieux, avec EcoRoute HD, le conducteur peut connaître en permanence les performances et le bon fonctionnement de sa voiture : température de l’air à l’admission, température du liquide de refroidissement, position de l’accélérateur et charge du moteur, pression d’air dans le collecteur d’admission, état de la batterie et son système de charge, émission de CO2, … Un bon moyen de conduire  en maitrisant sa consommation de carburant. Le système ecoRoute HD s’appaire très simplement en Bluetooth sur de nombreux navigateur Nüvi. Il suffit de se rendre sur le site Garmin pour voir si votre appareil est compatible et de télécharger la mise jour du logiciel. 

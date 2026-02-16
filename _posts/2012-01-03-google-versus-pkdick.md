@@ -3,7 +3,11 @@ layout: post
 title: "Google versus P.K.Dick"
 date: 2012-01-03 10:22:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'Assistant Personnel de Consommation', 'citoyen', 'Dell', 'google', 'holoptisme', 'intelligence collective', 'internet des objets', 'MIT', 'Service de mobilité', 'téléphone', 'transition générationnelle']
+=======
+tags: ["assistant de mobilit\u00e9", "Assistant Personnel de Consommation", "citoyen", "Dell", "google", "holoptisme", "intelligence collective", "internet des objets", "MIT", "Service de mobilit\u00e9", "t\u00e9l\u00e9phone", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les mouvements de fond en place depuis des années deviennent visibles comme les tremblements de terre sont observables mais imprévisibles alors que les mouvements des plaques tectoniques sont inobservables mais prévisibles.

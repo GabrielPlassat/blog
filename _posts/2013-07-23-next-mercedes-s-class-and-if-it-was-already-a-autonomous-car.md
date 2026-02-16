@@ -43,7 +43,11 @@ At the same time, in 2013, **[IBM and Sprint]()** have announced their collabora
 *
 *
 
+<<<<<<< HEAD
 "2013-07-23 15:31:41https://transportsdufutur.ademe.fr/2013/07/next-mercedes-s-class-and-if-it-was-already-a-autonomous-car.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnext-mercedes-s-class-and-if-it-was-already-a-autonomous-car2015-07-21 16:35:40>At the same time, in 2013, **[IBM and Sprint]()** have announced their collaboration to offer an industrial offer based on the use of cloud. **[ACCENTURE and Michelin]()** also launch EFIFFUEL with the Cloud of Accenture.
+=======
+"2013-07-23 15:31:41/2013/07/23/next-mercedes-s-class-and-if-it-was-already-a-autonomous-car/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnext-mercedes-s-class-and-if-it-was-already-a-autonomous-car2015-07-21 16:35:40>At the same time, in 2013, **[IBM and Sprint]()** have announced their collaboration to offer an industrial offer based on the use of cloud. **[ACCENTURE and Michelin]()** also launch EFIFFUEL with the Cloud of Accenture.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

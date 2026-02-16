@@ -3,7 +3,11 @@ layout: post
 title: "En usage réel, Euro V pas vraiment mieux qu'Euro III (NOx) !"
 date: 2010-03-26 09:22:54 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['camion', 'données réelles', 'emission', 'Europe', 'PEMS']
+=======
+tags: ["camion", "donn\u00e9es r\u00e9elles", "emission", "Europe", "PEMS"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 TNO nous confirme (voir notes précédentes **[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)** et  **[ici](/2010/02/la-pollution-un-probleme-resolu.html)**), grâce à des progrès sur les moyens de mesures,  que les émissions polluantes en utilisation réelle diffèrent de celles quantifiées sur les cycles d'homologation. A tel point qu'en usage réel dans un environnement urbain, un camion Euro V équipé d'un système SCR n'est pas tellement plus propre qu'un Euro III. Ce constat, scientifique, nécessite une remise à plat complète de nos procédures d'homologation, de nos méthodes industrielles de conception/validation, et de nos travaux à l'échelle de l'UE, tant sur les véhicules que sur les politiques de management de la mobilité urbaine comme les Low Emissions Zones.

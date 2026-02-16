@@ -3,7 +3,11 @@ layout: post
 title: "Brevets, Open source et innovations"
 date: 2014-06-16 11:49:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'E.Musk', 'innovation', 'intelligence collective', 'internet', 'marketing', 'open innovation', 'open source', 'pensée complexe', 'plate-forme', "Plateforme d'idées", 'Service de mobilité', 'véhicule propre']
+=======
+tags: ["citoyen", "confiance", "E.Musk", "innovation", "intelligence collective", "internet", "marketing", "open innovation", "open source", "pens\u00e9e complexe", "plate-forme", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Elon Musk vient de décider de donner accès aux brevets déposés par Tesla (lire le [**blog de Tesla**](http://www.teslamotors.com/blog/all-our-patent-are-belong-you)). Les raisons évoquées questionnent intégralement les processus d'innovation en oeuvre.

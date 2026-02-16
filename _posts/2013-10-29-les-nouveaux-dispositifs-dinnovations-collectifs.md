@@ -3,7 +3,11 @@ layout: post
 title: "Les nouveaux dispositifs d'innovations collectifs"
 date: 2013-10-29 08:51:10 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['holoptisme', 'innovation', 'intelligence collective', 'internet', 'open innovation', 'pensée complexe', 'philosophie', 'TED']
+=======
+tags: ["holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "pens\u00e9e complexe", "philosophie", "TED"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Rassembler un écosystème étendu, hétérogène, pluriel, avec de nombreuses contraintes industrielles et économiques, des histoires et des modes de pensées. Lui donner les conditions de se rencontrer, de se sentir en tant que groupe. Sans modifier les spécificités individuelles, lui permettre de faire émerger une conscience collective, une émanation du tout, à la fois supérieur à la somme des parties et inférieur. Accéder à une sensation **[d'holoptisme](/2011/09/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements.html)**.

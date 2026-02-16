@@ -3,7 +3,11 @@ layout: post
 title: "Moins on possède plus on devient multimodal"
 date: 2012-09-03 17:14:22 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'citoyen', 'commuter', 'covoiturage', 'Efficacité énergétique', 'internet', 'multimodes', 'Service de mobilité']
+=======
+tags: ["autopartage", "citoyen", "commuter", "covoiturage", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "multimodes", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **L'article suivant est issu du Blog** [**http://envillesansmavoiture.com**](http://envillesansmavoiture.com). 

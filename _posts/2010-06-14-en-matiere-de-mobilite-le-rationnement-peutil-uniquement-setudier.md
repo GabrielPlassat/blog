@@ -3,7 +3,11 @@ layout: post
 title: "En matière de mobilité, le rationnement peut-il uniquement s'étudier ?"
 date: 2010-06-14 13:55:40 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autarcie', 'collectivité', 'economie circulaire', 'Efficacité énergétique', 'internet', 'living lab', 'partage de données', "Plateforme d'idées"]
+=======
+tags: ["autarcie", "collectivit\u00e9", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "living lab", "partage de donn\u00e9es", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Pour accroître nos résiliences aux chocs futurs, pour mieux nous préparer, pour l'avoir étudié ou pratiqué collectivement avant d'être obligé de, le rationnement est un outil que l'on ne peut pas ne pas étudier. Poser la question du rationnement, en choisissant volontairement ce terme pour en appeler à des actions collectives, devrait permettre de ne pas être pris de court demain. C'est une exploration de ce que pourront être nos modes de vie dans une société où l'énergie sera chère et rare, pour éviter, ou du moins réduire, le rationnement inégalitaire basé uniquement sur les revenus.

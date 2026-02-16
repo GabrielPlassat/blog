@@ -3,7 +3,11 @@ layout: post
 title: "La Logistique by Amazon : Work Hard, Have Fun, Make History"
 date: 2012-03-02 10:58:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'donnée data', 'données réelles', 'logistique', 'marchandises']
+=======
+tags: ["Amazon", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "logistique", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Enorme (70 000 m2), cet entrepôt de Saran (Loiret) où en ce moment 2 000 personnes travaillent 24 heures sur 24, 7 jours sur 7, est censé disposer d’au moins un exemplaire de chaque produit vendu par le géant du commerce en ligne. C’est dire ! [**Visite de cet endroit très particulier**](http://www.journaldunet.com/ebusiness/commerce/reportage-chez-amazon-france/) ...

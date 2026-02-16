@@ -3,7 +3,11 @@ layout: post
 title: "Cyberespace, Sérendipité et Art de la guerre, Quels seront nos futurs ?"
 date: 2014-01-05 14:57:28 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'Apple', 'art de la guerre', 'citoyen', 'cygne noir', "économie de l'expérience", 'économie fonctionnalité', 'google', 'holoptisme', 'innovation', 'intelligence collective', 'open innovation']
+=======
+tags: ["Amazon", "Apple", "art de la guerre", "citoyen", "cygne noir", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie fonctionnalit\u00e9", "google", "holoptisme", "innovation", "intelligence collective", "open innovation"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La première MétaNote rédigée en 2007 (et publiée sur ce blog en 2009), [**N°0 - L'origine**](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html), proposait plusieurs prévisions. Tout d'abord l'irruption du numérique en tant que facilitateur, disrupteur du secteur historique des transports. Le développement de services de mobilités portés par le numérique était proposé, engendrant de nouvelles expériences, puis de nouveaux comportements, et bientôt de nouveaux rêves. Bien sûr le statut social de l'automobile et les pseudo-libertés qui lui sont associées, nous sommes et serons surveillés. De nouveaux acteurs, sans usine, pensent services, fonctionnalités et scalabilité. Ces prévisions se sont réalisées, elles sont visibles (lire l'article [**Le numérique remet tout en cause**](http://www.ionis-group.com/actualites/gilles-babinet)). Mais elles ne traduisent pas les principaux changements qui opérent aujourd'hui. Elles ne sont que l'écume des vagues. Il faut se préparer à des courants plus profonds. Tenter de les esquisser pour revenir à soi-même : quelles formations, cultures et richesses pour voir, comprendre, agir et être heureux dans le chaos ?

@@ -3,7 +3,11 @@ layout: post
 title: "Mobilité partagée, Multimodalités, Partages des données ... Mais qui jouera le rôle de tiers de confiance ?"
 date: 2011-11-24 17:13:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'donnée data', 'données réelles', 'économie fonctionnalité', 'innovation', 'internet', 'partage de données']
+=======
+tags: ["citoyen", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "\u00e9conomie fonctionnalit\u00e9", "innovation", "internet", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ce blog a déjà abordé plusieurs fois le sujet de la [**confiance**](/?s=confiance). Ce point clé ressort maintenant clairement comme étant un verrou majeur, donc une opportunité pour un ou plusieurs acteurs.

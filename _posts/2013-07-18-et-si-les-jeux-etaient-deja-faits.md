@@ -3,7 +3,11 @@ layout: post
 title: "Et si les jeux étaient déjà faits ? l'iMaaS va s'imposer."
 date: 2013-07-18 16:37:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance', 'connectivité', 'donnée data', "économie de l'expérience", 'économie fonctionnalité', 'Efficacité énergétique', 'Fablab', 'FORD', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'living lab', 'marketing individualisé', 'monnaie complémentaire', 'PAYD', 'plate-forme', 'roadpricing', 'Service de mobilité', 'simplicité', 'UX']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "donn\u00e9e data", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Fablab", "FORD", "holoptisme", "innovation", "intelligence collective", "internet", "living lab", "marketing individualis\u00e9", "monnaie compl\u00e9mentaire", "PAYD", "plate-forme", "roadpricing", "Service de mobilit\u00e9", "simplicit\u00e9", "UX"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b0192ac125646970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0192ac125646970d-pi.jpg)
@@ -53,7 +57,11 @@ D'autant plus qu'arrivent de nouvelles formes de production locales, pour adapte
 
  
 
+<<<<<<< HEAD
 "2013-07-18 16:37:35https://transportsdufutur.ademe.fr/2013/07/et-si-les-jeux-etaient-deja-faits.htmlcitoyen|collectivité|confiance|connectivité|donnée data|économie de l'expérience|économie fonctionnalité|Efficacité énergétique|Fablab|FORD|holoptisme|innovation|intelligence collective|internet|living lab|marketing individualisé|monnaie complémentaire|PAYD|plate-forme|roadpricing|Service de mobilité|simplicité|UXpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-les-jeux-etaient-deja-faits2015-07-21 16:35:40width=""479""> ** [Article bma juillet 2013 vdéf]() ** from **[Les transports du futur]()** 
+=======
+"2013-07-18 16:37:35/2013/07/18/et-si-les-jeux-etaient-deja-faits/citoyen|collectivité|confiance|connectivité|donnée data|économie de l'expérience|économie fonctionnalité|Efficacité énergétique|Fablab|FORD|holoptisme|innovation|intelligence collective|internet|living lab|marketing individualisé|monnaie complémentaire|PAYD|plate-forme|roadpricing|Service de mobilité|simplicité|UXpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-les-jeux-etaient-deja-faits2015-07-21 16:35:40width=""479""> ** [Article bma juillet 2013 vdéf]() ** from **[Les transports du futur]()** 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 D'autant plus qu'arrivent de nouvelles formes de production locales, pour adapter le standard au spécifique, pour faire le "sur mesure". Le Fablab, **[mentionné par Ford]()**, va progressivement permettre cette fusion du hard et du soft pour chaque démonstrateur, chaque living lab, chaque territoire, chaque communauté. 
 

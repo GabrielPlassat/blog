@@ -3,7 +3,11 @@ layout: post
 title: "Mieux acheter des véhicules propres"
 date: 2012-07-06 17:23:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'collectivité', 'données réelles', 'Efficacité énergétique', 'Europe', 'externalité', "guide d'achat", 'véhicule propre']
+=======
+tags: ["ADEME", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Europe", "externalit\u00e9", "guide d'achat", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La transposition de la [**Directive Européenne**](/2011/05/directive-vehicule-propre-et-econome-etat-davancement-et-un-outil-facilitateur.html) sur les véhicules propres et économes a conduit à la rédaction d'un guide méthologique pour aider les personnes à rédiger les marchés. Cette directive s'applique pour tous les achats publics de véhicules lourds et légers. Elle vise, en intégrant les coûts externes engendrés par les émissions polluantes et les émissions de GES, à pouvoir acheter un véhicule plus cher (d'un point de vue strictement économique) si la somme des coûts externes et des coûts économiques est la plus faible.

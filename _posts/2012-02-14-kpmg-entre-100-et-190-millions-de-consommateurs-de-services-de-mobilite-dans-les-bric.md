@@ -3,7 +3,11 @@ layout: post
 title: "#KPMG entre 100 et 190 millions de consommateurs de services de mobilité dans les BRIC"
 date: 2012-02-14 11:31:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['chine', 'Service de mobilité', 'transition générationnelle']
+=======
+tags: ["chine", "Service de mobilit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**Ce rapport de KPMG **](http://www.kpmg.com/fr/fr/issuesandinsights/articlespublications/press-releases/pages/2012-industrie-automobile.aspx)aborde l'évolution des marchés automobiles en incluant précisement les changements d'usage rendus possibles par les TIC, et la création de valeurs à travers les services de mobilité. Extraits :
@@ -28,7 +32,11 @@ tags: ['chine', 'Service de mobilité', 'transition générationnelle']
 
 [![]()]()
 
+<<<<<<< HEAD
  [ ]() Kpmg 20122401 etude-automobile View more [documents]() from [Les transports du futur]()."2012-02-14 11:31:44https://transportsdufutur.ademe.fr/2012/02/kpmg-entre-100-et-190-millions-de-consommateurs-de-services-de-mobilite-dans-les-bric.htmlchine|Service de mobilité|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatkpmg-entre-100-et-190-millions-de-consommateurs-de-services-de-mobilite-dans-les-bric2015-07-21 16:36:36padding-left: 30px"">"**Dans le développement des nouvelles offres de mobilité, les acteurs les plus à même de s’imposer dans la chaîne de valeur ne sont pas encore précisément identifiés. Pour 30% des répondants, les constructeurs devront impérativement s’allier avec d’autres acteurs **(loueurs, gestionnaires d’infrastructure, fournisseurs de transport public, etc.)."
+=======
+ [ ]() Kpmg 20122401 etude-automobile View more [documents]() from [Les transports du futur]()."2012-02-14 11:31:44/2012/02/14/kpmg-entre-100-et-190-millions-de-consommateurs-de-services-de-mobilite-dans-les-bric/chine|Service de mobilité|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatkpmg-entre-100-et-190-millions-de-consommateurs-de-services-de-mobilite-dans-les-bric2015-07-21 16:36:36padding-left: 30px"">"**Dans le développement des nouvelles offres de mobilité, les acteurs les plus à même de s’imposer dans la chaîne de valeur ne sont pas encore précisément identifiés. Pour 30% des répondants, les constructeurs devront impérativement s’allier avec d’autres acteurs **(loueurs, gestionnaires d’infrastructure, fournisseurs de transport public, etc.)."
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

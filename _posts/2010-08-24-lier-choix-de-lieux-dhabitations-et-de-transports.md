@@ -3,7 +3,11 @@ layout: post
 title: "Lier choix de lieux d'habitations et de transports"
 date: 2010-08-24 16:23:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'cité', 'commuter', 'données réelles', "guide d'achat", 'multimodes']
+=======
+tags: ["assistant de mobilit\u00e9", "cit\u00e9", "commuter", "donn\u00e9es r\u00e9elles", "guide d'achat", "multimodes"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Venant des USA (encore !!), cet outil permet de calculer son indice de walkability" en fonction du lieu d'habitation, pour trouver un "walkable place to live".

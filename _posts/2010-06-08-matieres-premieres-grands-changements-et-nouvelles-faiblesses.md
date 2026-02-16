@@ -3,7 +3,11 @@ layout: post
 title: "Matières premières, grands changements et nouvelles faiblesses"
 date: 2010-06-08 13:25:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['carburant', 'Energie', 'finlande', 'prix carburant']
+=======
+tags: ["carburant", "Energie", "finlande", "prix carburant"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Diversification énergétique, nouvelles technologies, des changements majeurs sont en cours visant à recourir à **[d'autres sources d'énergies](/2010/03/les-energies.html)**, à utiliser de nouvelles ressources pour de nouveaux produits. Cette course vers, notamment, moins de pétrole, plus de biomasse, et plus de terres rares, conduit également à augmenter la complexité du système.

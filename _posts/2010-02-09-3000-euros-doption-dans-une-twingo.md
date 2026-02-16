@@ -3,7 +3,11 @@ layout: post
 title: "3000 euros d’option dans une twingo ?"
 date: 2010-02-09 11:29:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['keicar', 'marketing', 'philanthropie', 'Service de mobilité', 'Véhicule']
+=======
+tags: ["keicar", "marketing", "philanthropie", "Service de mobilit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cela ne risque pas d’arriver à court terme. Par contre, c’est le **[montant moyen dépensé](http://www.lesechos.fr/info/metiers/020343181554-la-mini-se-multiplie-pour-rester-dans-la-course.html)** par chaque client de Mini, véhicule qui possède environ la même taille qu’une twingo pour un prix double. Pourquoi ? La personnalisation voyons ! Tous les **[marketeurs professionnels](/2010/02/les-automobilistes-vont-configurer-leurs-voitures-en-fonction-de-leurs-besoins.html)** vous le diront, les clients veulent de plus en plus des produits uniques, « customisés », avec par exemple, un compteur central **[en 3D ou un générateur de bruit](/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel.html)** … Ce type d’automobile devient progressivement comme l’industrie du vêtement, en renouvellement permanent, et d’ailleurs des Mini ont été griffés par des grands couturiers.

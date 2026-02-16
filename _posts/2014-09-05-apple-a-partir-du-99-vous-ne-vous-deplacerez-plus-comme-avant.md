@@ -3,7 +3,11 @@ layout: post
 title: "[Apple et iWatch] A partir du 9/9, vous ne vous déplacerez plus comme avant ..."
 date: 2014-09-05 15:51:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Apple', 'assistant de mobilité', 'assurance', 'citoyen', 'commuter', 'donnée data', 'données réelles', 'internet des objets', 'Santé', 'surveillance', 'vélo']
+=======
+tags: ["Apple", "assistant de mobilit\u00e9", "assurance", "citoyen", "commuter", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "internet des objets", "Sant\u00e9", "surveillance", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Professionnels du transport et des mobilités, le 9/9, Apple en la personne de TimCook va présenter lors de son show annuel de nouveaux produits ([**lien pour ajouter à son agenda**](http://www.apple.com/live/event.ics)) et notamment sa montre iWatch et [**iHealth**](https://www.apple.com/ios/ios8/health/), la plateforme dédiée à la santé. **Cela n'a rien à voir avec les transports. Et pourtant, cela pourrait bouleverser la façon de se déplacer.**
@@ -42,4 +46,8 @@ Ce marché "*données privées contre réduction tarifaire*" s'applique égaleme
 
  
 
+<<<<<<< HEAD
 "2014-09-05 15:51:32https://transportsdufutur.ademe.fr/2014/09/apple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant.htmlApple|assistant de mobilité|assurance|citoyen|commuter|donnée data|données réelles|internet des objets|Santé|surveillance|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant2015-07-21 16:35:29
+=======
+"2014-09-05 15:51:32/2014/09/05/apple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant/Apple|assistant de mobilité|assurance|citoyen|commuter|donnée data|données réelles|internet des objets|Santé|surveillance|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant2015-07-21 16:35:29
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

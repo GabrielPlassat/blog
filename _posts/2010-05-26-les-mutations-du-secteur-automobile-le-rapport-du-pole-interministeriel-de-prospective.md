@@ -3,7 +3,11 @@ layout: post
 title: "Les mutations du secteur automobile, le rapport du Pôle Interministériel de Prospective"
 date: 2010-05-26 09:03:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Service de mobilité', 'véhicule propre']
+=======
+tags: ["Service de mobilit\u00e9", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le PIPAME, Pôle Interministériel de Prospective et d’Anticipation des Mutations Economiques, présente aujourd’hui [**son rapport**](http://www.industrie.gouv.fr/p3e/etudes/automobile/automobile.php) concernant les mutations économiques du secteur automobile.

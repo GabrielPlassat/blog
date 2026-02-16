@@ -3,7 +3,11 @@ layout: post
 title: "Accélérer, c'est bien. Mais pour aller où ?"
 date: 2014-12-18 12:23:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['collectivité', 'Fabrique des mobilités', 'innovation', 'open source', 'partage de données']
+=======
+tags: ["collectivit\u00e9", "Fabrique des mobilit\u00e9s", "innovation", "open source", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 S'intéresser à l'innovation dans le domaine des transports amène forcément aux start-ups. Force est de constater que certaines ont réussi à modifier des usages (que l'on croit long à changer, lire [**l'article Changer, Enfin**](/2014/12/changer-de-mobilite.html)), à bouleverser des acteurs historiques (que l'on croit stable), à prendre des positions sur des niches en se liant fortement avec leurs usagers". Qui dit start-up, dit accélérateur : "dispositif permettant de faire plus vite, c'est à dire de trouver son modèle d'affaire, son marché et ses financements, plus vite".
@@ -69,7 +73,11 @@ Porté par les Investissements d'Avenir et la communauté French Tech, BPI vient
 
  
 
+<<<<<<< HEAD
 "2014-12-18 12:23:34https://transportsdufutur.ademe.fr/2014/12/accelerer-cest-bien-mais-pour-aller-ou.htmlcollectivité|Fabrique des mobilités|innovation|open source|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassataccelerer-cest-bien-mais-pour-aller-ou2015-07-21 16:35:261912998232'"" style=""max-width: 100%/>
+=======
+"2014-12-18 12:23:34/2014/12/18/accelerer-cest-bien-mais-pour-aller-ou/collectivité|Fabrique des mobilités|innovation|open source|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassataccelerer-cest-bien-mais-pour-aller-ou2015-07-21 16:35:261912998232'"" style=""max-width: 100%/>
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

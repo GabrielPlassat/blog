@@ -3,7 +3,11 @@ layout: post
 title: "Voiture autonome, carte et Twitter"
 date: 2014-01-08 10:15:49 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'connectivité', 'cybercar', 'DARPA', 'google', 'Infrastructure', 'internet', 'internet des objets', 'Service de mobilité', 'waze']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "cybercar", "DARPA", "google", "Infrastructure", "internet", "internet des objets", "Service de mobilit\u00e9", "waze"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Libération a publié un [**article classique**](http://www.liberation.fr/economie/2014/01/05/l-automobile-a-mains-levees_970721) sur les voitures autonomes en interrogeant notamment certains constructeurs dont PSA. Quelques extraits : Vincent Abadie, responsable des aides à la conduite chez PSA, annonce pour 2017 *« l’introduction dans les gammes Peugeot et Citroën de nouvelles fonctionnalités favorisant l’aide à la conduite et, à l’horizon 2020, l’émergence de voitures fortement automatisées. Quant au véhicule autonome, *poursuit-il, *ce sera plutôt aux alentours de 2025».*
@@ -69,7 +73,11 @@ Après avoir indexé le web pour permettre une recherche et le développement d'
 - Mise en forme des besoins pour développer des robots : Google car 
  
 
+<<<<<<< HEAD
 "2014-01-08 10:15:49https://transportsdufutur.ademe.fr/2014/01/voiture-autonome-carte-et-twitter.htmlassistant de mobilité|citoyen|connectivité|cybercar|DARPA|google|Infrastructure|internet|internet des objets|Service de mobilité|wazepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvoiture-autonome-carte-et-twitter2015-07-21 16:35:36>**La transition ou le choc ?**
+=======
+"2014-01-08 10:15:49/2014/01/08/voiture-autonome-carte-et-twitter/assistant de mobilité|citoyen|connectivité|cybercar|DARPA|google|Infrastructure|internet|internet des objets|Service de mobilité|wazepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvoiture-autonome-carte-et-twitter2015-07-21 16:35:36>**La transition ou le choc ?**
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

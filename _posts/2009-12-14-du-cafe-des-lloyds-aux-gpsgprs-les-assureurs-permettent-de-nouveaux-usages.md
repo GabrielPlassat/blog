@@ -3,7 +3,11 @@ layout: post
 title: "Du café des Lloyd’s aux GPS/GPRS, les assureurs permettent de nouveaux usages"
 date: 2009-12-14 21:09:24 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'données réelles', "lloyd's", 'partage de données', 'PAYD', 'Service de mobilité', 'TIC']
+=======
+tags: ["assurance", "donn\u00e9es r\u00e9elles", "lloyd's", "partage de donn\u00e9es", "PAYD", "Service de mobilit\u00e9", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 S’ils n’ont pas inventé l’assurance maritime – introduite à Londres au XVIIème siècle par les Lombards en marge de leur activité financières – les Lloyd’s ont été les premiers à l’organiser à grande échelle. En 1688, Edward Lloyd ouvre un café en plein cœur du quartier des affaires de la City, et s’efforce d’attirer la clientèle des marchands en leur fournissant **des informations** sur les déplacements des bateaux de sa majesté, Elisabeth I. Initialement affichées dans son café, ces nouvelles seront publiées dans un quotidien, *Lloyd’s list*, qui existe encore aujourd’hui : position et destination de tous les navires marchands du monde !
@@ -59,7 +63,11 @@ En matière de transport, les solutions PAYD – Pay As You Drive - sont de plus
 
  
 
+<<<<<<< HEAD
 Portant sur 1 500 conducteurs, l’étude pilote a démontré que les jeunes conducteurs, un groupe à très haut risque, avaient 20 % d’accidents en moins s’ils se voyaient facturés une prime de 1,4 dollar par kilomètre pour l’utilisation de leur véhicule entre 23h00 et 6h00. En résultante, deux produits PAYD ont été lancés en 2006. L’un concerne les jeunes conducteurs qui représentent 45 % des accidents routiers entre 23h00 et 6h00. Le coût de la « boîte noire » se chiffre à 100 dollars mais pourrait générer des économies sur l’assurance de près de 30 % par an. Le second produit concerne les « bons conducteurs », âgés de 24 à 70 ans, qui conduisent moins de 13 000 kilomètres par an sur des routes rapides et à des heures « sûres ». Il est adapté à tous ceux qui n’ont pas besoin d’utiliser leur véhicule aux heures de pointe le matin, dans les zones urbaines. La conduite autoroutière peut s’avé
+=======
+Portant sur 1 500 conducteurs, l’étude pilote a démontré que les jeunes conducteurs, un groupe à très haut risque, avaient 20 % d’accidents en moins s’ils se voyaient facturés une prime de 1,4 dollar par kilomètre pour l’utilisation de leur véhicule entre 23h00 et 6h00. En résultante, deux produits PAYD ont été lancés en 2006. L’un concerne les jeunes conducteurs qui représentent 45 % des accidents routiers entre 23h00 et 6h00. Le coût de la « boîte noire » se chiffre à 100 dollars mais pourrait générer des économies sur l’assurance de près de 30 % par an. Le second produit concerne les « bons conducteurs », âgés de 24 à 70 ans, qui conduisent moins de 13 000 kilomètres par an sur des routes rapides et à des heures « sûres ». Il est adapté à tous ceux qui n’ont pas besoin d’utiliser leur véhicule aux heures de pointe le matin, dans les zones urbaines. La conduite autoroutière peut s’avé_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 rer jusqu’à 10 fois plus sûre que la conduite urbaine à vitesse réduite.
 
  

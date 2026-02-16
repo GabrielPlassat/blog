@@ -3,7 +3,11 @@ layout: post
 title: "PSA ouvre sa R&D, Google Wallet, Etalab - Quelles actions vont structurer nos mobilités en 2020 ?"
 date: 2011-05-30 17:53:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'données réelles', 'Efficacité énergétique', 'emission', 'Energie', 'google', 'innovation', 'internet', 'marketing individualisé', 'multimodes', 'open innovation', 'partage de données']
+=======
+tags: ["donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "google", "innovation", "internet", "marketing individualis\u00e9", "multimodes", "open innovation", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Vendredi 27 mai, les échos. Trois informations dans un même journal :
@@ -29,4 +33,8 @@ Ainsi, la maîtrise des réseaux (sociaux) est bien évidemment structurant pour
 
 Qui maîtrisera ces données ? et sera capable de proposer la mobilité (ou immobilité) répondant aux besoins et minimisant les émissions ?
 
+<<<<<<< HEAD
 "2011-05-30 17:53:06https://transportsdufutur.ademe.fr/2011/05/rd-psa-google-wallet-etalab-quelles-priorites-pour-nos-mobilites-en-2020.htmldonnée data|données réelles|Efficacité énergétique|emission|Energie|google|innovation|internet|marketing individualisé|multimodes|open innovation|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrd-psa-google-wallet-etalab-quelles-priorites-pour-nos-mobilites-en-20202015-07-21 16:36:47
+=======
+"2011-05-30 17:53:06/2011/05/30/rd-psa-google-wallet-etalab-quelles-priorites-pour-nos-mobilites-en-2020/donnée data|données réelles|Efficacité énergétique|emission|Energie|google|innovation|internet|marketing individualisé|multimodes|open innovation|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrd-psa-google-wallet-etalab-quelles-priorites-pour-nos-mobilites-en-20202015-07-21 16:36:47
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

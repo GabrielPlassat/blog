@@ -3,7 +3,11 @@ layout: post
 title: "Changer de mode de transport doit être une conséquence et non un objectif"
 date: 2013-11-13 09:57:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['centre commercial', 'citoyen', 'Efficacité énergétique', 'innovation', 'intelligence collective', 'internet', 'management de la mobilité', 'temporalité']
+=======
+tags: ["centre commercial", "citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "intelligence collective", "internet", "management de la mobilit\u00e9", "temporalit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Chaque jour en France environ 175 millions de déplacement ont lieu. Tous les modes sont utilisés. Ces déplacements résultent d'une organisation des différents collectifs" impliqués : ménages, entreprises, territoires, ... Pour chaque déplacement, le choix du mode de transport est le fruit d'une réflexion et/ou de multiples contraintes et/ou d'offres et/ou de ressources (matérielles, intellectuelles, ...). Tout ceci est tissé ensemble. Nous (société) avons très peu d'éléments pour comprendre ces liens, ce tissage (lire la [**MétaNote N°18 Pour une ontologie de la demande**]()). 
@@ -94,7 +98,11 @@ Pour modifier profondément nos pratiques de mobilités et de façon importante 
 
  
 
+<<<<<<< HEAD
 "2013-11-13 09:57:00https://transportsdufutur.ademe.fr/2013/11/changer-de-mode-de-transport-doit-etre-une-consequence-et-non-un-objectif.htmlcentre commercial|citoyen|Efficacité énergétique|innovation|intelligence collective|internet|management de la mobilité|temporalitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatchanger-de-mode-de-transport-doit-etre-une-consequence-et-non-un-objectif2015-07-21 16:35:37>"Avant la mise en service d’un nouveau dispositif (un produit, un service de mobilité, une technologie), l’évaluation *a priori* de l’intention d’usage permet de s’assurer que l’utilisateur accepte et/ou utilisera la solution, avec les comportements appropriés. Ces derniers sont ceux que les concepteurs ont imaginés, avec leur ensemble de contraintes et d’habitudes à adopterpar exemple, l’usage d’un espace de co-working suppose le respect de certaines règles de confidentialité, de bienséance, de collaboration… Mesurer les déterminants de l’intention qu’ont les usagers d’utiliser une solution, permet également très directement d’identifier des leviers pour inciter, communiquer, renforcer son usage, à grande échelle.
+=======
+"2013-11-13 09:57:00/2013/11/13/changer-de-mode-de-transport-doit-etre-une-consequence-et-non-un-objectif/centre commercial|citoyen|Efficacité énergétique|innovation|intelligence collective|internet|management de la mobilité|temporalitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatchanger-de-mode-de-transport-doit-etre-une-consequence-et-non-un-objectif2015-07-21 16:35:37>"Avant la mise en service d’un nouveau dispositif (un produit, un service de mobilité, une technologie), l’évaluation *a priori* de l’intention d’usage permet de s’assurer que l’utilisateur accepte et/ou utilisera la solution, avec les comportements appropriés. Ces derniers sont ceux que les concepteurs ont imaginés, avec leur ensemble de contraintes et d’habitudes à adopterpar exemple, l’usage d’un espace de co-working suppose le respect de certaines règles de confidentialité, de bienséance, de collaboration… Mesurer les déterminants de l’intention qu’ont les usagers d’utiliser une solution, permet également très directement d’identifier des leviers pour inciter, communiquer, renforcer son usage, à grande échelle.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 ## 3 temps, 3 mesures : avant, pendant, après l’usage

@@ -43,6 +43,10 @@ Les briques techniques mises en oeuvre dans le Bitcoin peuvent être utilisées 
 
 *Merci à [Marc Tirel]() po*ur son alerte !
 
+<<<<<<< HEAD
 "2014-11-27 08:02:00https://transportsdufutur.ademe.fr/2014/11/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatstart-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre2015-07-21 16:35:27>*Merci à [Marc Tirel]() po*ur son alerte !
+=======
+"2014-11-27 08:02:00/2014/11/27/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatstart-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre2015-07-21 16:35:27>*Merci à [Marc Tirel]() po*ur son alerte !
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 "

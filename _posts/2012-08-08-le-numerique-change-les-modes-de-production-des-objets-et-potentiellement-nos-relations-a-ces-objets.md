@@ -3,7 +3,11 @@ layout: post
 title: "Le numérique change les modes de production des objets et potentiellement nos relations à ces objets"
 date: 2012-08-08 14:57:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['allégement', 'Amazon', 'autarcie', 'citoyen', 'economie circulaire', 'économie fonctionnalité', 'Efficacité énergétique', 'Energie', 'innovation', 'intelligence collective', 'internet', 'léger', 'logistique', 'low cost', 'MIT', 'open innovation', 'open source', 'TED']
+=======
+tags: ["all\u00e9gement", "Amazon", "autarcie", "citoyen", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "innovation", "intelligence collective", "internet", "l\u00e9ger", "logistique", "low cost", "MIT", "open innovation", "open source", "TED"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Nous sommes en train d’entrer dans une nouvelle ère concernant la production des objets qui nous entourent. Si nous modifions les modes de production, la logistique et les flux seront entièrement changés, et plus important encore, nos relations à ces objets pourront être très différentes.

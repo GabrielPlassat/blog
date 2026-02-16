@@ -3,7 +3,11 @@ layout: post
 title: "L'être et l'écran\", ou la philosophie de la révolution numérique\""
 date: 2013-09-23 09:44:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'connectivité', 'holoptisme', 'intelligence collective', 'internet', 'internet des objets', 'philosophie']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "holoptisme", "intelligence collective", "internet", "internet des objets", "philosophie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La thèse de Stéphane Vial rassemble des points essentiels à connaître concernant la révolution numérique, son livre [**l'être et l'écran"**](http://t.co/8YgGkSLoxs) vient de paraître. La MétaNote [**N°17 "La révolution numérique et la fin de l'automobile"**]() propose une déclinaison concrète des conséquences de cette 3ème technique dominante dans le domaine des transports.
@@ -33,7 +37,11 @@ S.Vial propose que la technique dominante, ici le numérique, après le charbon 
 
  
 
+<<<<<<< HEAD
 "2013-09-23 09:44:00https://transportsdufutur.ademe.fr/2013/09/la-these-de-stephane-vial-rassemble-des-points-essentiels-a-connaitre-concernant-la-revolution-numerique-la-metanote.htmlassistant de mobilité|citoyen|connectivité|holoptisme|intelligence collective|internet|internet des objets|philosophiepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-these-de-stephane-vial-rassemble-des-points-essentiels-a-connaitre-concernant-la-revolution-numerique-la-metanote2015-07-21 16:35:39title=""Etreecran"" />
+=======
+"2013-09-23 09:44:00/2013/09/23/la-these-de-stephane-vial-rassemble-des-points-essentiels-a-connaitre-concernant-la-revolution-numerique-la-metanote/assistant de mobilité|citoyen|connectivité|holoptisme|intelligence collective|internet|internet des objets|philosophiepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-these-de-stephane-vial-rassemble-des-points-essentiels-a-connaitre-concernant-la-revolution-numerique-la-metanote2015-07-21 16:35:39title=""Etreecran"" />
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 L'aura numérique, proposée par Daniel Kaplan, des objets ne se questionne plus. Il se constate. Et ce n'est qu'un début. Tous les produits industriels issus de la 2ème technique dominante, celle de l'acier et du charbon, se numérisent. D'abord l'électronique est ajouté, puis des interfaces, puis des écrans, puis le numérique renverse le design et devient le point d'entrée. Les promesses du numérique sont nombreusescertaines n'ont pas eu lieu, d'autres, inattendues, nous bouleversent. La FING les étudie pour mieux s'en imprégner. 
 
  ** [Questions Numériques 2013/ 2014 : les promesses du numérique]() ** from **[La Fing]()** 

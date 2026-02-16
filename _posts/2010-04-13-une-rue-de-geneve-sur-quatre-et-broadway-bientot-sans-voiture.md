@@ -3,7 +3,11 @@ layout: post
 title: "Une rue de Genève sur quatre et Broadway bientôt sans voiture"
 date: 2010-04-13 12:13:58 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['collectivité', 'Infrastructure', 'mode doux', 'partage de la voirie', "qualité de l'air", 'stationnement', 'Véhicule']
+=======
+tags: ["collectivit\u00e9", "Infrastructure", "mode doux", "partage de la voirie", "qualit\u00e9 de l'air", "stationnement", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le Conseil municipal de la **[Ville de Genève](http://www.letemps.ch/Page/Uuid/88eb1912-060b-11df-aa65-c3870f357d4b/Fermer_200_rues_aux_automobiles_une_utopie_genevoise)** a décidé d’interdire 200 artères du centre-ville aux voitures. Par son ampleur, la mesure fait du canton un pionnier et intéresse les experts. Si elle se concrétise, la fermeture de 200 rues du centre-ville à la circulation automobile fera de Genève un laboratoire en matière de mobilité. Le nombre important de rues concernées donne au canton un rôle de pionnier, relève le géographe **[Pierre Dessemontet](http://personnes.epfl.ch/pierre.dessemontet)** , spécialiste des questions de mobilité. Le 19 janvier 2010, la majorité de gauche du Conseil municipal (parlement) de la Ville, appuyée par les radicaux, a voté l’initiative «pour 200 rues piétonnes» proposée par les Verts. Le vote positif de l’assemblée, compétente pour adopter une initiative, fait que le texte ne sera pas soumis au scrutin populaire. Désormais, l’exécutif de la Ville dispose de trois mois pour élaborer un plan d’action. Il devra concrétiser l’initiative au cours des quatre prochaines années, en proposant une liste de rues interdites aux voitures sur les 800 artères de la commune.
@@ -42,6 +46,10 @@ The really good news in this story is that this could be a transition to a time 
 
  
 
+<<<<<<< HEAD
 **The signs are all pointing in the same direction; the post-car future may be much nearer th
+=======
+**The signs are all pointing in the same direction; the post-car future may be much nearer th_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 an we think and we need to get serious about planning for it.
 **

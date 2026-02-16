@@ -3,7 +3,11 @@ layout: post
 title: "Où sont les ménages sans voiture et sans accès aux transports en commun ?"
 date: 2011-08-19 16:24:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'donnée data', 'données réelles', 'marketing individualisé', 'partage de données']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "marketing individualis\u00e9", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans plusieurs endroits des Etats-Unis - comme la ville de New York - le transport public répond à de nombreux besoins de mobilités. Mais ce n'est pas vrai partout, et une voiture est souvent nécessaire pour se déplacer. Mais alors que la majorité des Américains ont accès soit à un véhicule, soit au transport en commun, il y a beaucoup de gens qui n'ont ni l’u ni l’autre. Si le transport en commun souhaite devenir une alternative à la voiture, il a besoin pour mieux servir ces personnes.
@@ -48,4 +52,8 @@ Toutes les villes sont analysées en tenant compte des budgets des ménages, en 
 
 Globalement cette étude montre que nous manquons des données pour construire ce type d’outils d’aide à la décision pour les ménages (habitation, emploi, budgets), les entreprises (implantation, accessibilité des employés, résilience), les collectivités (attractivité du territoire, identification des plus fragiles, justification des investissements) et l’état (attractivité, aménagement, identification des plus faibles, justification des investissements). Ces outils sont en construction : **[ICI ]()**et **[LA]()**.
 
+<<<<<<< HEAD
 "2011-08-19 16:24:48https://transportsdufutur.ademe.fr/2011/08/dans-plusieurs-endroits-des-etats-unis-comme-la-ville-de-new-york-le-transport-public-repond-a-de-nombreux-besoins-de-m.htmlautorité des transports|citoyen|collectivité|donnée data|données réelles|marketing individualisé|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdans-plusieurs-endroits-des-etats-unis-comme-la-ville-de-new-york-le-transport-public-repond-a-de-nombreux-besoins-de-m2015-07-21 16:36:44
+=======
+"2011-08-19 16:24:48/2011/08/19/dans-plusieurs-endroits-des-etats-unis-comme-la-ville-de-new-york-le-transport-public-repond-a-de-nombreux-besoins-de-m/autorité des transports|citoyen|collectivité|donnée data|données réelles|marketing individualisé|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdans-plusieurs-endroits-des-etats-unis-comme-la-ville-de-new-york-le-transport-public-repond-a-de-nombreux-besoins-de-m2015-07-21 16:36:44
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "Du coté du pétrole et du gaz"
 date: 2010-04-07 14:12:36 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'gaz', 'pétrole', 'prix carburant']
+=======
+tags: ["Energie", "gaz", "p\u00e9trole", "prix carburant"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Du coté du pétrole, deux récents rapports américains issus du DoE et du DoD indiquent des tensions dès 2012 (source [http://petrole.blog.lemonde.fr](http://petrole.blog.lemonde.fr/))  :**
@@ -46,7 +50,11 @@ La récession économique, le développement de ressources gazières non convent
 
  
 
+<<<<<<< HEAD
 De nouvelles perspectives
+=======
+De nouvelles perspectives_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 pour la sécurité gazière. Six objectifs peuvent ainsi être fixés : 
 
  
@@ -95,5 +103,9 @@ Les tendances sont donc claires, le moyen terme est connu, les transitions reste
 
  
 
+<<<<<<< HEAD
 ·     localement, en fonction des ressources, des carburants issus des déchets ménagers, communaux ou industriels (estérification d’huile usagée, méthanisation de déchets…), ou encore issus de co-productions ind
+=======
+·     localement, en fonction des ressources, des carburants issus des déchets ménagers, communaux ou industriels (estérification d’huile usagée, méthanisation de déchets…), ou encore issus de co-productions ind_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ustriels permettant de mieux valoriser tous les produits et services, prendront des parts marginales en terme d’énergie, mais importantes en terme de robustesse vis-à-vis des fluctuations des marchés.

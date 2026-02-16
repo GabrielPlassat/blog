@@ -3,7 +3,11 @@ layout: post
 title: "A qui appartiendra le temps ? sera-t-il gratuit ou marchand ?"
 date: 2010-04-06 09:32:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['mode doux', 'multimodes', 'temporalité']
+=======
+tags: ["mode doux", "multimodes", "temporalit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Derrière le temps, se cache nos temporalités, nos rythmes, nos contraintes ou nos plaisirs, le passer dans les bouchons ou méditer. Entre la dictature de l'urgence et le besoin de planifier nos actions, de proposer des projets de société à long terme à des individus libres, donc changeant d'avis, et obnubilés par le court terme, le temps reste un sujet majeur.
@@ -32,4 +36,8 @@ Dans la palette des critères de performance des transports du futur, la vitess
 
  
 
+<<<<<<< HEAD
 "2010-04-06 09:32:48https://transportsdufutur.ademe.fr/2010/04/a-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand.htmlmode doux|multimodes|temporalitépublish18gabriel plassata-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand2010-04-06 09:32:48
+=======
+"2010-04-06 09:32:48/2010/04/06/a-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand/mode doux|multimodes|temporalitépublish18gabriel plassata-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand2010-04-06 09:32:48
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

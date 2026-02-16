@@ -3,7 +3,11 @@ layout: post
 title: "Informations Multimodales Temps réel, le projet TICTAC"
 date: 2010-07-06 11:54:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'assistant de mobilité', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'internet', 'partage de données']
+=======
+tags: ["ADEME", "assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "internet", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le projet **[TICTAC](http://www.vulog.fr/tictac/)** est financé par l’ADEME dans le cadre du programme de recherche PREDIT (GO3) pour une durée de 2 ans. Les partenaires sont la société Vulog, l’INRIA, MHC consultants, la Communauté d’Agglomération de Sophia-Antipolis, et le CETE Med. L’objectif est de mettre en place et d’évaluer de manière approfondie des systèmes d’information temps réel sur pour les personnes prenant les TC pour venir travailler à Sophia-Antipolis, notamment sur l’axe Nice/Cannes-Antibes-Sophia, en vue d’améliorer le niveau de service et in fine la part modale du TC, en prenant en compte le projet de TCSP Antibes-Sophia en cours d’étude. 

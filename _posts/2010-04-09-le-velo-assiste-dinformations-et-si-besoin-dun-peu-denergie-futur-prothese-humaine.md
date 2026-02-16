@@ -3,7 +3,11 @@ layout: post
 title: "Le vélo assisté d'informations et si besoin d'un peu d'énergie, futur prothèse humaine ?"
 date: 2010-04-09 11:33:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Santé', 'transition générationnelle', 'véhicule propre', 'vélo']
+=======
+tags: ["Sant\u00e9", "transition g\u00e9n\u00e9rationnelle", "v\u00e9hicule propre", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En 2009, dans un contexte de crise économique, les ventes de cycles, d'équipements et d'accessoires pour cycles se sont beaucoup mieux comportées que celles constatées dans la majorité des autres secteurs économiques. Elles se sont élevées à 1,3 milliard d'euros, en retrait de 4,5%.

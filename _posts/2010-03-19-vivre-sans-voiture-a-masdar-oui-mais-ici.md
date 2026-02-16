@@ -3,7 +3,11 @@ layout: post
 title: "Vivre sans voiture à Masdar oui, mais ici ?"
 date: 2010-03-19 09:04:24 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'Energie', 'Infrastructure', 'marchandises', 'mode doux']
+=======
+tags: ["cit\u00e9", "Energie", "Infrastructure", "marchandises", "mode doux"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 C’est à Berne Bümpliz qu’est implanté le premier lotissement où seuls les locataires sans voiture sont les bienvenus. Le quartier Vauban à Fribourg-en-Brisgau démontre qu’habiter dans une telle zone est très demandé. Abu Dhabi va plus loin: une ville entière y est interdite au trafic motorisé. L'avenir est dans le désert. Il a pour nom **[Masdar City](http://www.masdarcity.ae/en/index.aspx)** et se trouve à 30 kilomètres d’Abu Dhabi. La ville est censée un jour abriter 50000 habitants et offrir 90000 emplois – et elle s’applique à résoudre tous les problèmes d’énergie et de trafic à l’aide de méthodes révolutionnaires. La cité ne produira aucun déchet et sera exclusivement alimentée par des énergies renouvelables. Environ 80 pour cent proviendront du soleil, le reste étant couvert par des installations éoliennes et la transformation des déchets.

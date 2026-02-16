@@ -3,7 +3,11 @@ layout: post
 title: "Branchés ?"
 date: 2010-02-14 12:33:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['batiment', 'Energie', 'Infrastructure', 'Véhicule']
+=======
+tags: ["batiment", "Energie", "Infrastructure", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Suite au Grenelle, en 2012, les immeubles de bureaux et d’habitation en construction et comprenant un parking devront obligatoirement disposer de prises de recharge, avec instauration d’un « droit à la prise » pour les propriétaires et locataires. En 2015, les prises de recharges seront obligatoires dans les parkings d’immeubles de travail. Les pays européens sont en discussion pour normaliser une prise unique européenne de recharge des véhicules. Plus de détail, **[ici](http://www.secteurpublic.fr/public/article/le-plan-national-pour-le-developpement-des-vehicules-electriques-et-hybrides-rechargeables.html?id=23381&C5=226)**.

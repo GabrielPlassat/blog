@@ -3,7 +3,11 @@ layout: post
 title: "Parce que la confiance est essentielle"
 date: 2010-03-05 11:16:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'connectivité', 'données réelles', 'Service de mobilité', 'TIC']
+=======
+tags: ["citoyen", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Service de mobilit\u00e9", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La transition vers des services de mobilité passe entre autre par la confiance. Confiances entre citoyens, avec les autorités, dans l'utilisation de données publiques, dans la surveillance ...

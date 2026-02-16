@@ -3,7 +3,11 @@ layout: post
 title: "Le temps n’a pas d’importance, seule la vie est importante"
 date: 2010-07-22 18:29:54 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'voyage']
+=======
+tags: ["citoyen", "voyage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En période de vacances, les transports sont également directement lies aux voyages. Le voyage fait également parti de nos imaginaires, et d’une certaine image du luxe. Comment voyagerons nous demain ? Quels voyages nous feront rêver ?

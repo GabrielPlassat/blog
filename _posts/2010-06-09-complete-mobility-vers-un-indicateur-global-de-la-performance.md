@@ -3,7 +3,11 @@ layout: post
 title: "« Complete Mobility », vers un indicateur global de la performance"
 date: 2010-06-09 10:55:08 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'Europe', 'Infrastructure']
+=======
+tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "Europe", "Infrastructure"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Financée par *Siemens*, cette étude, réalisée par *MRC Mc Lean Hazel*, a développé une méthode et un indicateur global permettant de caractériser la mobilité en tant que système complet (**[résumé](http://www.siemens.com/press/en/materials/industry/imo/uitp_2009.php)**, **[étude complète](/assets/images/2010/06/wienstudie_en.pdf)**). Après une présentation de cette étude et des principaux résultats, deux questions se posent :
@@ -72,7 +76,11 @@ L’étude propose 11 indicateurs, des notes par indicateurs, un score global, d
  
 
 ***[![](/assets/images/old/6a0120a66d2ad4970b0133f077ba9f970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f077ba9f970b-pi.jpg) 
+<<<<<<< HEAD
 
+=======
+_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 60;*** 
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "1ère étape, la voiture connectée par IBM - 2ème étape Ingress par Google"
 date: 2012-11-23 10:39:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'assistant de mobilité', 'citoyen', 'connectivité', "économie de l'expérience", 'google', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'pensée complexe']
+=======
+tags: ["art de la guerre", "assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "\u00e9conomie de l'exp\u00e9rience", "google", "innovation", "intelligence collective", "internet", "internet des objets", "pens\u00e9e complexe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 IBM, dans son dernier **[Executive Report Transforming Retail / Engaging customers through information, influencers and interactions](http://www-935.ibm.com/services/us/gbs/thoughtleadership/ibv-transforming-automotive-retail.html)**, propose aux industries historiques" du monde automobile d'intégrer 4 nouvelles dimensions à leurs produits : differenciation de rupture, expérience connectée, innovation sociale et plate-forme d'intermédiation pour de nouveaux services. Rappelant que l'objet *automobile* est toujours vendu de la même façon depuis 100 ans, IBM souligne qu'il serait bon d'évoluer pour satisfaire le consommateur connecté d'aujourd'hui et de demain.

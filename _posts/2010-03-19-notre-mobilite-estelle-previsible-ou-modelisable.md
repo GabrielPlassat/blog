@@ -3,7 +3,11 @@ layout: post
 title: "Notre mobilité est-elle prévisible ou modélisable ?"
 date: 2010-03-19 09:59:14 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'connectivité', 'données réelles', 'internet', 'internet des objets', 'iphone', 'multimodes', 'partage de données', 'partage de la voirie']
+=======
+tags: ["autorit\u00e9 des transports", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "iphone", "multimodes", "partage de donn\u00e9es", "partage de la voirie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La récente étude (voir **[ici](/assets/images/2010/03/201002-19_Science-Predictability.pdf)**) mise en lumière par un article de la FING (voir des extraits ci dessous et **[ici](http://www.internetactu.net/2010/03/16/notre-mobilite-est-previsible-et-reguliere/)**) montre que nos comportements de mobilité sont relativement prévisibles. 

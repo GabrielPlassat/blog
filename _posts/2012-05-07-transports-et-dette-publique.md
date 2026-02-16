@@ -3,7 +3,11 @@ layout: post
 title: "Transports et Dette publique"
 date: 2012-05-07 09:38:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'dette']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "dette"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Plusieurs experts nationaux viennent de publier une étude particulièrement intéressante; voir ci-dessous. Elle résume, condense et met en perspective plusieurs dépenses liées aux transports en matière d'investissement et de fonctionnement. Le résume est sans appel, au rythme actuel nos depenses de 40 milliards par an ne sont pas soutenables, et conduisent en 2030 a une dérive déficitaire supplémentaire de 130 milliards. Le groupe a proposé un scenario alternatif qui au contraire permet de réduire de 110 milliards nos déficits.

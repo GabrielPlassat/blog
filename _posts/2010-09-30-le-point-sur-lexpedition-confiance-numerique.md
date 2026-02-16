@@ -3,7 +3,11 @@ layout: post
 title: "Le point sur l'expédition Confiance Numérique\"\""
 date: 2010-09-30 17:25:22 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['confiance', 'TIC']
+=======
+tags: ["confiance", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Qui dit service de mobilité, dit partage d'objet, donc une certaine confiance ... sujet déjà abordé **[ici](/2010/03/parce-que-la-confiance-est-essentielle.html)**.

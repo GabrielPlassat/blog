@@ -3,7 +3,11 @@ layout: post
 title: "La responsabilité sociale de l'entreprise et les TIC"
 date: 2010-01-14 22:41:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'partage de données', 'philanthropie', 'RSE', 'TIC']
+=======
+tags: ["Energie", "partage de donn\u00e9es", "philanthropie", "RSE", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La **responsabilité sociale (ou sociétale) des entreprises** (RSE) est un concept dans lequel les entreprises intègrent les préoccupations sociales, environnementales, et économiques dans leurs activités et dans leurs interactions avec leurs parties prenantes sur une base volontaire.
@@ -60,5 +64,9 @@ Le couple internet/smart phone apportera les bons indicateurs au bon moment en t
 
  
 
+<<<<<<< HEAD
 Dans l'entreprise, toutes les actions, les choix, les procédures, les achat devront être revus pour minimiser les consommations/émissions. La mobilité des salariés sera alors, el
+=======
+Dans l'entreprise, toutes les actions, les choix, les procédures, les achat devront être revus pour minimiser les consommations/émissions. La mobilité des salariés sera alors, el_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 le aussi, sous contrainte. Des alternatives à l'autosoliste devront être mises en oeuvre, non pas directement pour des raisons environnementales mais pour que l'entreprise affiche les meilleurs indicateurs pour ces produits.

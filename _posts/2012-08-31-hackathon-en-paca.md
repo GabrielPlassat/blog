@@ -3,7 +3,11 @@ layout: post
 title: "Hackathon en PACA"
 date: 2012-08-31 17:30:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['application', 'carburant', 'citoyen', 'collectivité', 'données réelles', 'innovation', 'intelligence collective', 'internet']
+=======
+tags: ["application", "carburant", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "innovation", "intelligence collective", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En utilisant les données libérées (open data) généralement gratuites, il devient possible de créer de nouvelles connaissances, de nouveaux outils uniquement en organisant, exploitant, réorganisant, couplant, plusieurs jeux de données jusqu'à présent cachés" ou peu accessibles.
@@ -24,7 +28,11 @@ Il est déjà constaté que certaines entreprises sont attirées par le territoi
 
 [**La donnée devient un carburant**]() (renouvelable) pour alimenter des applications nous guidant dans nos actions. Les futures données produites par nos actions "modifiées" par les applications développées par le Hackathon seront, elles aussi, utilisées pour nourrir des moteurs d'apprentissage. Ces moteurs apprendront les changements de comportement générés par l'utilisation des applications. Est ce que ces moteurs seront eux aussi ouverts ? hackables ?
 
+<<<<<<< HEAD
 "2012-08-31 17:30:33https://transportsdufutur.ademe.fr/2012/08/hackathon-en-paca.htmlapplication|carburant|citoyen|collectivité|données réelles|innovation|intelligence collective|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassathackathon-en-paca2015-07-21 16:36:28width=""427""> ** [Open Data Garage - "Comment évaluer l'impact économique de l'open data local ?"]() ** from **[La Cantine numérique rennaise]()** 
+=======
+"2012-08-31 17:30:33/2012/08/31/hackathon-en-paca/application|carburant|citoyen|collectivité|données réelles|innovation|intelligence collective|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassathackathon-en-paca2015-07-21 16:36:28width=""427""> ** [Open Data Garage - "Comment évaluer l'impact économique de l'open data local ?"]() ** from **[La Cantine numérique rennaise]()** 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 Il est déjà constaté que certaines entreprises sont attirées par le territoire grâce à l'open data. Tous les domaines sont touchés, notamment bien sûr les transports et la mobilité, comme le montre l'exemple de [**Bordeaux**](), d'[**Ottawa** ]()ou de [**Singapour**]().
 

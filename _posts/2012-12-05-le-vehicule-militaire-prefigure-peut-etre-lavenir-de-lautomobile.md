@@ -3,7 +3,11 @@ layout: post
 title: "Le véhicule militaire préfigure peut être l'avenir de l'automobile"
 date: 2012-12-05 12:33:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['DARPA', 'Fablab', 'General Electric', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'MIT', 'plate-forme']
+=======
+tags: ["DARPA", "Fablab", "General Electric", "innovation", "intelligence collective", "internet", "internet des objets", "MIT", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Non pas forcément au niveau de l'objet (même si Transit City propose de nombreux éléments sur ce sujet : **[War Mobility](http://transit-city.blogspot.fr/2012/10/next-mule-smlxl.html)**), mais **au niveau de la façon dont il sera conçu**. Le véhicule devra s'adapter à un écosystème de plus en plus complexe, inconnu au début de la conception, implicant de plus en plus d'acteurs, imposant d'aller capter l'innovation diffuse externe aux entreprises. [**GE et le MIT mettent en oeuvre pour le DARPA** ](http://www.businesswire.com/news/home/20120405006106/en)une plate forme dématérialisée de crownsourcing permettant de révolutionner la conception et la production.

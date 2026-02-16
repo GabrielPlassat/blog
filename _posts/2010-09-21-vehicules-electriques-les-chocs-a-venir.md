@@ -3,7 +3,11 @@ layout: post
 title: "Véhicules électriques : Le(s) choc(s) à venir"
 date: 2010-09-21 14:58:50 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'batterie', 'BYD', 'économie fonctionnalité', 'VE', 'Véhicule']
+=======
+tags: ["art de la guerre", "batterie", "BYD", "\u00e9conomie fonctionnalit\u00e9", "VE", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le marché automobile de l'OCDE est globalement saturé, sous de fortes contraintes environnementales, sociales, et subissant de fortes congestions. Des transitions générationnelles opèrent dans plusieurs milieux sociaux, la possession d'un véhicule individuel n'est plus nécessaire pour devenir adulte (voir **[ici](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**). Les constructeurs mondiaux de ces pays (re)naissent dans les zones à forte croissance : Amérique du sud, Inde, Chine et Russie, tout en conservant des attaches d’origine qui représente(ro)nt environ 50% de leurs ventes (voir **[ici](http://www.lemonde.fr/depeches/2010/09/20/renault-pourrait-realiser-50-des-ventes-hors-d-europe-en-2013_3234_439_43427747.html)**). Après avoir regardé du coté de l'économie du véhicule électrique, en considérant le système global de la mobilité (voir **[ici](/2010/08/valeurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform.html)**), quel rôle majeur pourrait jouer la Chine ?

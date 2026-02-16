@@ -3,7 +3,11 @@ layout: post
 title: "Fiat ouvre la conception de la Mio aux utilisateurs (au Brésil)"
 date: 2011-07-27 10:53:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['innovation', 'internet', 'marketing', 'open innovation', 'open source', "Plateforme d'idées", 'TED']
+=======
+tags: ["innovation", "internet", "marketing", "open innovation", "open source", "Plateforme d'id\u00e9es", "TED"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Faisant suite aux propositions détaillées dans l'article **[Google Mobility Service](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html)**, l'ouverture de la conception du véhicule faisait partie de ces pistes. Fiat a engagé **[depuis plusieurs années le partage d'une partie du cahier des charges de la Mio au Brésil](/2009/11/open-source-mobilites-quels-avantages-quelles-consequences.html)**.
@@ -50,7 +54,11 @@ Et pourtant le web a inversé les rôles. En reprenant **[Emakina ]()**"*A l'èr
 
 Et ce n'est donc pas étonnant si Emakina et Netvibes s'allient pour mettre en oeuvre des **[outils de dashboard professionnels]()**. Il faudra alors revoir entièrement les modèles économiques et les fondamentaux de cette industrie, et penser autrement la chaîne de valeur et la relation avec les clients.
 
+<<<<<<< HEAD
 "2011-07-27 10:53:00https://transportsdufutur.ademe.fr/2011/07/fiat-ouvre-la-conception-de-la-mio-aux-utilisateurs-au-bresil.htmlinnovation|internet|marketing|open innovation|open source|Plateforme d'idées|TEDpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatfiat-ouvre-la-conception-de-la-mio-aux-utilisateurs-au-bresil2015-07-21 16:36:45>*Working with AgênciaClick Isobar, Fiat Brazil has developed Fiat Mio, the first ever crowdsourced car. This concept car is the result of an online collaboration among thousands of consumers and experts from around the globe. The Fiat Mio, which is being unveiled this month at the 2010 São Paulo Auto Show, evolved as part of an ongoing interactive, collaborative process, through its website. The site so far has attracted more than 2 million viewers from 160 countries, of whom more than 17,000 officially registered as potential collaborators, contributing more than 10,000 ideas and suggestions. Fiat Brazil has described this process, which solicited consumers' opinions about the design theme, choice of materials and features, even manufacturing processes, as "learning again how to make an automobile."*
+=======
+"2011-07-27 10:53:00/2011/07/27/fiat-ouvre-la-conception-de-la-mio-aux-utilisateurs-au-bresil/innovation|internet|marketing|open innovation|open source|Plateforme d'idées|TEDpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatfiat-ouvre-la-conception-de-la-mio-aux-utilisateurs-au-bresil2015-07-21 16:36:45>*Working with AgênciaClick Isobar, Fiat Brazil has developed Fiat Mio, the first ever crowdsourced car. This concept car is the result of an online collaboration among thousands of consumers and experts from around the globe. The Fiat Mio, which is being unveiled this month at the 2010 São Paulo Auto Show, evolved as part of an ongoing interactive, collaborative process, through its website. The site so far has attracted more than 2 million viewers from 160 countries, of whom more than 17,000 officially registered as potential collaborators, contributing more than 10,000 ideas and suggestions. Fiat Brazil has described this process, which solicited consumers' opinions about the design theme, choice of materials and features, even manufacturing processes, as "learning again how to make an automobile."*
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

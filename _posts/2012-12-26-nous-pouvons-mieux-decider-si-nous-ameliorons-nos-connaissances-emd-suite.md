@@ -3,7 +3,11 @@ layout: post
 title: "Nous pouvons mieux décider si nous améliorons nos connaissances (EMD suite)"
 date: 2012-12-26 16:00:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'collectivité', 'commuter', 'congestion', 'connectivité', 'Efficacité énergétique', 'gouvernance', 'internet']
+=======
+tags: ["assistant de mobilit\u00e9", "collectivit\u00e9", "commuter", "congestion", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans un précédent **[article](/2012/12/les-enquetes-menages-deplacements-vont-disparaitre-mais-nous-ferons-beaucoup-mieux.html)**, il était indiqué que nous pouvions dès aujourd'hui faire évoluer les Enquêtes Ménages Déplacements en utilisant les potentiels offerts par les outils numériques dont le GPS et le téléphone. Cette **[étude](http://newscenter.berkeley.edu/2012/12/20/cellphone-gps-data-suggest-new-strategy-for-alleviating-traffic-tie-ups/)** récente réalisée aux USA confirme cela et donne déjà quelques exemples intéressants. Le rapport complet est disponible **[ici](http://www.nature.com/srep/2012/121220/srep01001/full/srep01001.html)**.

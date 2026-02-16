@@ -3,7 +3,11 @@ layout: post
 title: "La voiture servicielle, retour du colloque Chronos - Le Monde - TNS"
 date: 2009-11-20 22:38:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Séminaire', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["ADEME", "S\u00e9minaire", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[Ce colloque](http://chronosconference.org/) **détaillé dans une note **[précédente](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/6a0120a66d2ad4970b012875b2efcb970c/edit) **a connu un certain succès puisque la salle du Monde Professionnel affichée *complet*. L'ensemble des intervenants de la matinée (**[Veolia, Zipcar, Europcar](http://www.groupechronos.org/blog/temps-reel-quels-services-quels-reseaux-pour-un-marche-unique-des-deplacements)**, **[RATP, Orange](http://www.groupechronos.org/blog/temps-reel-comment-integrer-la-voiture-servicielle-dans-le-systeme-global-de-mobilite)**) ont tous détaillé les multiples limites de l'automobile possédée, le besoin de changement, l'intérêt des TIC citant à nombreuses reprises l'iPhone. Tous ont également mentionnés la nécessité de collaboration, d'ouverture des bases de données, de partage d'informations.

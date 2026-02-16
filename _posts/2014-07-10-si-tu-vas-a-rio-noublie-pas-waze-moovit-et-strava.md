@@ -3,7 +3,11 @@ layout: post
 title: "Si tu vas à Rio…N’oublie pas Waze, Moov’it et Strava…"
 date: 2014-07-10 08:43:01 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'commuter', 'confiance', 'congestion', 'connectivité', 'données réelles', 'innovation', 'intelligence collective', 'internet']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "confiance", "congestion", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "innovation", "intelligence collective", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [source : [article](http://www.forbes.com/sites/parmyolson/2014/07/07/why-google-waze-helps-local-governments-track-its-users/) Forbes]

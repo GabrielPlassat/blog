@@ -3,7 +3,11 @@ layout: post
 title: "Connaitre, Choisir, Changer, Comprendre, Synchroniser, Co-concevoir, Fabriquer les Transports du Futur - Tout en 1"
 date: 2012-02-14 16:32:49 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'collectivité', 'confiance', 'congestion', 'connectivité', 'donnée data', 'economie circulaire', 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'General Motor', 'holoptisme', 'Infrastructure', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'ITS', 'living lab', 'management de la mobilité', 'marketing individualisé', 'monnaie complémentaire', 'multimodes', 'open innovation', 'open source', 'partage de données', 'partage de la voirie', 'péage urbain', 'plate-forme', 'yield management']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "confiance", "congestion", "connectivit\u00e9", "donn\u00e9e data", "economie circulaire", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "General Motor", "holoptisme", "Infrastructure", "innovation", "intelligence collective", "internet", "internet des objets", "ITS", "living lab", "management de la mobilit\u00e9", "marketing individualis\u00e9", "monnaie compl\u00e9mentaire", "multimodes", "open innovation", "open source", "partage de donn\u00e9es", "partage de la voirie", "p\u00e9age urbain", "plate-forme", "yield management"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Tentative de synthèse dans ce schéma ci dessous**.

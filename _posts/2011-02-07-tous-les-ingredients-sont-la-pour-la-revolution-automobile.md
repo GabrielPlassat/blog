@@ -3,7 +3,11 @@ layout: post
 title: "Tous les ingrédients sont là pour LA révolution automobile"
 date: 2011-02-07 12:28:29 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autopartage', 'autorité des transports', 'citoyen', 'collectivité', 'connectivité', 'covoiturage', 'economie circulaire', 'Efficacité énergétique', 'Energie', 'Infrastructure', 'innovation', 'internet', 'open innovation', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "autopartage", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "covoiturage", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "Infrastructure", "innovation", "internet", "open innovation", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[EDAG](http://www.technologicvehicles.com/fr/actualite-mobilite-verte/487)** présente à Genève un véhicule électrique. Un de plus. Pas vraiment. Ce véhicule pourrait préfigurer l’avenir de l’automobile. Conçu **uniquement** pour s’intégrer dans des services de mobilité comme l’autopartage, la location courte durée, éventuellement le taxi partagé, ce véhicule électrique doit donc être vu comme, à la fois, une solution de transport public individuel et privé collectif. Mais ce véhicule n’est rien sans une remise en question de toutes les interfaces. Les infrastructures de recharge, la gestion de l’énergie associée, le système de réservation/localisation/paiement utilisant les TIC, la capacité de le partager simplement sans problème d’assurance, les modèles économiques pour en favoriser le développement dans tous les territoires (denses ou ruraux), pour tous les citoyens consommateurs, tout doit être considéré. Le véhicule n’est plus qu’une commodité. La chaîne de valeur s’étend dans d’autres domaines, s’ouvre à d’autres acteurs.
@@ -45,4 +49,8 @@ En reprenant le schéma précédent, les principaux champs d’innovations conce
 
  [![]()]()
 
+<<<<<<< HEAD
  [Ibm smart transport]() View more [documents]() from [transportsdufutur](). "2011-02-07 12:28:29https://transportsdufutur.ademe.fr/2011/02/tous-les-ingredients-sont-la-pour-la-revolution-automobile.htmlassistant de mobilité|autopartage|autorité des transports|citoyen|collectivité|connectivité|covoiturage|economie circulaire|Efficacité énergétique|Energie|Infrastructure|innovation|internet|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattous-les-ingredients-sont-la-pour-la-revolution-automobile2015-07-21 16:37:27
+=======
+ [Ibm smart transport]() View more [documents]() from [transportsdufutur](). "2011-02-07 12:28:29/2011/02/07/tous-les-ingredients-sont-la-pour-la-revolution-automobile/assistant de mobilité|autopartage|autorité des transports|citoyen|collectivité|connectivité|covoiturage|economie circulaire|Efficacité énergétique|Energie|Infrastructure|innovation|internet|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattous-les-ingredients-sont-la-pour-la-revolution-automobile2015-07-21 16:37:27
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

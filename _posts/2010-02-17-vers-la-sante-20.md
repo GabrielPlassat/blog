@@ -3,7 +3,11 @@ layout: post
 title: "Vers la santé 2.0"
 date: 2010-02-17 15:34:39 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'Infrastructure', 'partage de données', 'Santé', 'TIC', 'Véhicule']
+=======
+tags: ["Energie", "Infrastructure", "partage de donn\u00e9es", "Sant\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Imaginons que l'on soit capable de quantifier les gains apportés par la pratique quotidienne des modes doux dits aussi actifs et de les intégrer dans les mécanismes existants (Certificat Economie d'Energie, TGAP, taxe carbone, mais aussi assurance maladie ...) : gains économiques directs", gains en terme de santé donc de coûts évités "privés" mais aussi "publics", gain en terme de pollution donc de coûts "publics", gain en terme de consommation d'énergie et d'émissions de CO2. Compte tenu des bénéfices économiques directs et indirects, publics et privés, des mécanismes de type PPP (partenariat public privé) pourraient se mettre en oeuvre pour que "naturellement" se développent ces pratiques. **Des compagnies d'assurance maladie publiques ou privées pourraient ainsi financer des pistes cyclables parce qu'elles génèrent suffisamment de profit (somme des coûts évités ci dessus).** 

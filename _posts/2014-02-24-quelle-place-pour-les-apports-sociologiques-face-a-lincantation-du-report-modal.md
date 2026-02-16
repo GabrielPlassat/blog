@@ -3,7 +3,11 @@ layout: post
 title: "Quelle place pour les apports de la psychologie sociale face à l’incantation du report modal ?"
 date: 2014-02-24 18:13:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'anthropologie', 'autorité des transports', 'citoyen', 'collectivité', 'commuter', 'confiance', 'innovation', 'maison de la mobilité', 'management de la mobilité', 'marketing individualisé']
+=======
+tags: ["ADEME", "anthropologie", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "confiance", "innovation", "maison de la mobilit\u00e9", "management de la mobilit\u00e9", "marketing individualis\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Cet article invité est rédigé par Yannick PAILLET, ingénieur à l'ADEME en direction régionale Picardie.*

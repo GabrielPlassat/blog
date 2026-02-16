@@ -3,7 +3,11 @@ layout: post
 title: "Bajaj RE60 contient les bases d'un basculement vers de nouvelles mobilités"
 date: 2012-01-03 14:55:40 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['BAJAJ', 'cité', 'citoyen', 'Efficacité énergétique', 'General Electric', 'internet', 'Service de mobilité', 'simplicité']
+=======
+tags: ["BAJAJ", "cit\u00e9", "citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "General Electric", "internet", "Service de mobilit\u00e9", "simplicit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Annoncé plusieurs fois, BAJAJ vient de présenter officiellement la **[RE60 sa voiture low-cost](http://motoroids.com/news/bajaj-auto-reveals-its-small-car-in-delhi-calls-it-the-re60.html)** au prochain salon de DELHI. Ces caractéristiques sont sans appel. Le véhicule en lui-même n'est pas intéressant. [**TATA**](/2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites.html) n'a d'ailleurs pas rencontré de succès en Inde, car nous continuons à considérer cet objet comme une voiture à acheter. Essayons de la penser comme un objet à utiliser quelques minutes par jour, à la place d'un vélo quand il pleut. Alors ce véhicule contient, par ses caractéristiques, les bases d'un basculement vers de nouvelles mobilités rendues possible par le déploiement d'un système de valeurs totalement différent. Quatre courants vont se rencontrer pour permettre ce basculement. Il est imminent et touchera tous les acteurs.
@@ -50,7 +54,11 @@ Les comportements d'une quantité suffisante de personnes seront totalement comp
 
 De micro-solutions de niche déconnectées les unes des autres, elles seront agrégées par de nouveaux opérateurs (comme [**General Electric**]()) et fourniront les principaux moyens pour se déplacer dans nos villes. Ces véhicules seront achetés par des industriels et des fournisseurs de service pour être opérés, et jamais par des particuliers. Un nouveau marché de masse de niche connecté les unes aux autres sera créé et ouvert à toutes les innovations. Bien sûr de nombreux risques sont associés à ces changements (dépendance aux TIC, données privées, opacité des forfaits de mobilité, ...) mais il est vraissemblable que ce soit la seule voie ... Un diaporama (vu plus de 3500 fois) est disponible pour partager cette vision :
 
+<<<<<<< HEAD
  [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2012-01-03 14:55:40https://transportsdufutur.ademe.fr/2012/01/bajaj-re60-contient-les-bases-dun-basculement-vers-de-nouvelles-mobilites.htmlBAJAJ|cité|citoyen|Efficacité énergétique|General Electric|internet|Service de mobilité|simplicitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatbajaj-re60-contient-les-bases-dun-basculement-vers-de-nouvelles-mobilites2015-07-21 16:36:39title=""Zipcar"" />
+=======
+ [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2012-01-03 14:55:40/2012/01/03/bajaj-re60-contient-les-bases-dun-basculement-vers-de-nouvelles-mobilites/BAJAJ|cité|citoyen|Efficacité énergétique|General Electric|internet|Service de mobilité|simplicitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatbajaj-re60-contient-les-bases-dun-basculement-vers-de-nouvelles-mobilites2015-07-21 16:36:39title=""Zipcar"" />
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

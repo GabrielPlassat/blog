@@ -3,7 +3,11 @@ layout: post
 title: "Les technologies ne feront jamais que ce que l’on en décide !"
 date: 2009-12-14 09:58:50 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['arzens', 'Energie', 'Service de mobilité', 'simplicité', 'Véhicule']
+=======
+tags: ["arzens", "Energie", "Service de mobilit\u00e9", "simplicit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Des voitures électriques dédiées pour les villes, de faibles tailles, des voitures partagées en l’entrée des agglomérations dont il ne serait nécessaire d’être propriétaire, des véhicules électriques avec 250 km d’autonomie réelle… D’après, c’est pour quand ? 2012, 2015, 2020 ?

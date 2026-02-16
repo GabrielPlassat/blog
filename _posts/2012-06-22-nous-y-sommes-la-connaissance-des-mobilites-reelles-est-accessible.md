@@ -3,7 +3,11 @@ layout: post
 title: "Nous y sommes, la connaissance des mobilités réelles est accessible"
 date: 2012-06-22 16:13:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'données réelles']
+=======
+tags: ["donn\u00e9e data", "donn\u00e9es r\u00e9elles"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b0177429e2ea7970d-800wi.png)](/assets/images/old/6a0120a66d2ad4970b0177429e2ea7970d-pi.png)

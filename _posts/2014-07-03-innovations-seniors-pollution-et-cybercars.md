@@ -3,7 +3,11 @@ layout: post
 title: "Innovations, Seniors, Pollution et Cybercars"
 date: 2014-07-03 10:15:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'autorité des transports', 'citoyen', 'collectivité', 'google', 'Infrastructure', 'innovation', 'internet des objets', "qualité de l'air", 'Santé', 'Service de mobilité']
+=======
+tags: ["art de la guerre", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "google", "Infrastructure", "innovation", "internet des objets", "qualit\u00e9 de l'air", "Sant\u00e9", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Cet article a été rédigé avec l'aide de [Bertrand Duflos](http://fr.linkedin.com/in/duflosbertrand).*
@@ -40,4 +44,8 @@ Ces trois pays sont **les seuls** à ne pas avoir signé [**la convention de Vie
 
 **En s'engageant les premiers dans cette voie et en réduisant les barrières permettant de rapprocher les entrepreneurs des utilisateurs,  ces trois pays vont explorer et apprendre dans l'action. Même si plusieurs fabricants de véhicule autonome émergeront, il est probable qu'une seule plateforme mondiale ne domine la gestion des cohortes de robots, et n'offre une multitude de services de mobilités. A votre avis, sera-t-elle européenne ?**
 
+<<<<<<< HEAD
 "2014-07-03 10:15:33https://transportsdufutur.ademe.fr/2014/07/innovations-seniors-pollution-et-cybercars.htmlart de la guerre|autorité des transports|citoyen|collectivité|google|Infrastructure|innovation|internet des objets|qualité de l'air|Santé|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatinnovations-seniors-pollution-et-cybercars2015-07-21 16:35:31
+=======
+"2014-07-03 10:15:33/2014/07/03/innovations-seniors-pollution-et-cybercars/art de la guerre|autorité des transports|citoyen|collectivité|google|Infrastructure|innovation|internet des objets|qualité de l'air|Santé|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatinnovations-seniors-pollution-et-cybercars2015-07-21 16:35:31
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

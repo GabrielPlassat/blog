@@ -3,7 +3,11 @@ layout: post
 title: "Connected commuting in San Jose - Once again, innovations arise in California"
 date: 2011-11-22 08:52:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'données réelles', 'innovation', 'intelligence collective', 'management de la mobilité', 'monnaie complémentaire', 'partage de données', 'waze']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "innovation", "intelligence collective", "management de la mobilit\u00e9", "monnaie compl\u00e9mentaire", "partage de donn\u00e9es", "waze"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Thanks to [Robin Chase](/2011/10/3-videos-extraites-du-forum-des-innovations-ademe.html) ... According to [PR Newswire](http://www.prnewswire.com/news-releases/new-cities-foundation-launches-task-force-on-connected-commuting-in-san-jose-california-134108348.html), **
@@ -43,7 +47,11 @@ Gotoo (in France) Waze and Roadify use same ideas: [**crowdsourcing**](), [**col
 
  
  
+<<<<<<< HEAD
 "2011-11-22 08:52:53https://transportsdufutur.ademe.fr/2011/11/connected-commuting-in-san-jose-once-again-innovations-arise-in-california.htmlassistant de mobilité|autorité des transports|citoyen|collectivité|commuter|connectivité|données réelles|innovation|intelligence collective|management de la mobilité|monnaie complémentaire|partage de données|wazepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatconnected-commuting-in-san-jose-once-again-innovations-arise-in-california2015-07-21 16:36:41>According to Mathieu Lefevre, Executive Director of NCF, "We are excited to be here in San Jose to launch this great project. Commuting and mobility are among the most important issues facing cities here in California and across the globe. We believe this initiative will encourage collaborative thinking among the private, public and academic sectors and generate ideas that will apply whether you are in San Jose, Singapore or Sao Paolo."
+=======
+"2011-11-22 08:52:53/2011/11/22/connected-commuting-in-san-jose-once-again-innovations-arise-in-california/assistant de mobilité|autorité des transports|citoyen|collectivité|commuter|connectivité|données réelles|innovation|intelligence collective|management de la mobilité|monnaie complémentaire|partage de données|wazepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatconnected-commuting-in-san-jose-once-again-innovations-arise-in-california2015-07-21 16:36:41>According to Mathieu Lefevre, Executive Director of NCF, "We are excited to be here in San Jose to launch this great project. Commuting and mobility are among the most important issues facing cities here in California and across the globe. We believe this initiative will encourage collaborative thinking among the private, public and academic sectors and generate ideas that will apply whether you are in San Jose, Singapore or Sao Paolo."
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

@@ -3,7 +3,11 @@ layout: post
 title: "Pepsi et Flying monkey automotive service"
 date: 2011-08-17 09:29:27 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'innovation', 'internet', 'open innovation', 'transition générationnelle']
+=======
+tags: ["citoyen", "collectivit\u00e9", "innovation", "internet", "open innovation", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Créer une association à but non lucratif pour maintenir en état les voitures des personnes à faibles revenus (50 000 $), développer un service de mobilité à 0.5$/mile**, ... Les outils de crowdsourcing sont simples et puissants. **[Pepsi](/2010/03/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides-.html )**, en abandonnant la publicité pendant la mi-temps du superbowl, a utilisé le même budget pour mettre en oeuvre le projet **[Refresh everything](http://www.refresheverything.com/)**.

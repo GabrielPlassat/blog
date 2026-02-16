@@ -3,7 +3,11 @@ layout: post
 title: "La puissance, sous-estimée, du consommateur"
 date: 2010-04-16 17:52:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'fiabilité', "guide d'achat", 'internet', 'open source', 'partage de données', 'transition générationnelle', 'twitter']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "fiabilit\u00e9", "guide d'achat", "internet", "open source", "partage de donn\u00e9es", "transition g\u00e9n\u00e9rationnelle", "twitter"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La récente affaire de la Lexus accusée de défaut de tenue de route par l’association [**Consumer Reports**](http://blogs.consumerreports.org/cars/2010/04/consumer-reports-2010-lexus-gx-dont-buy-safety-risk.html), montre que les consommateurs peuvent avoir une influence rapide, massive sur des industries multinationales. Le contexte des incidents Toyota (voir ici) a, vraisemblablement « aidé » cette association, et les actes de Lexus/Toyota ont été immédiats : la vente du modèle a été arrétée. 

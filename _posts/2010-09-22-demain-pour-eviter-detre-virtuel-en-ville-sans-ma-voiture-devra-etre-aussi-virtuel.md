@@ -3,7 +3,11 @@ layout: post
 title: "Demain, pour éviter d'être virtuel, en ville sans ma voiture\" devra être aussi virtuel ...\""
 date: 2010-09-22 16:41:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['internet', 'jeu', 'jeu vidéo']
+=======
+tags: ["internet", "jeu", "jeu vid\u00e9o"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Comme nous l'avons abordé **[ici ](/2010/08/et-si-les-mobilites-de-demain-etaient-pensees-a-travers-le-jeu.html)**et **[là](/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports.html)**, le jeu, notamment le jeu vidéo, pourrait être utilisé pour mieux transformer nos actions dans la vie réelle. En effet, d'après [Jane Mc Gonigal](http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world.html), nous développons dans nos actions virtuelles des compétences, des savoirs, des réflexes qui nous permettront d'être meilleur" dans nos actes quotidiens.
@@ -26,4 +30,8 @@ Il s'agit de jeu vidéo géolocalisé (MMORPG – Massively Multi-Player online
 Ce jeu-programme vise notamment à faire de l'usager un acteur de la mobilité, force de proposition en terme de services et de collecte d'informations (user generated system).
 Au delà du produit Ma Microplanète, ce jeu est pensé comme une plate-forme d'expérimentation et de collecte d'informations visant à motiver l'ensemble des acteurs de la mobilité à partager leurs informations et à travailler dans une dynamique commune tout en respectant leurs différences.
 
+<<<<<<< HEAD
  [Micro planete]() View more [documents]() from [transportsdufutur](). "2010-09-22 16:41:35https://transportsdufutur.ademe.fr/2010/09/demain-pour-eviter-detre-virtuel-en-ville-sans-ma-voiture-devra-etre-aussi-virtuel.htmlinternet|jeu|jeu vidéopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdemain-pour-eviter-detre-virtuel-en-ville-sans-ma-voiture-devra-etre-aussi-virtuel2015-07-21 16:37:38
+=======
+ [Micro planete]() View more [documents]() from [transportsdufutur](). "2010-09-22 16:41:35/2010/09/22/demain-pour-eviter-detre-virtuel-en-ville-sans-ma-voiture-devra-etre-aussi-virtuel/internet|jeu|jeu vidéopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdemain-pour-eviter-detre-virtuel-en-ville-sans-ma-voiture-devra-etre-aussi-virtuel2015-07-21 16:37:38
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

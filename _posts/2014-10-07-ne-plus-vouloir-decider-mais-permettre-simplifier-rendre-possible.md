@@ -3,7 +3,11 @@ layout: post
 title: "Puis viendront de nouveaux industriels"
 date: 2014-10-07 09:00:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'google', 'innovation', 'open source', 'Uber', 'UX', 'véhicule mono-usage']
+=======
+tags: ["citoyen", "google", "innovation", "open source", "Uber", "UX", "v\u00e9hicule mono-usage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'industrie automobile rassemble d'innombrables talents et compétences étendues, distribuées dans de vastes organisations hiérarchisées, ordonnées, verticalisées. Des constructeurs puis des équipementiers de rang 1 à N et des ressources intellectuelles dans des laboratoires et des cabinets mondiaux d'ingénierie composent cette filière. Quand le contexte est stable et prévisible, cette organisation conçoit et produit en même temps ***des composants, des véhicules ***et des ***processus ***permettant de faire plus vite, plus loin, plus distribué, moins cher". Ces processus se composent de méthodes de validation, conception, production mais également d'organisation. Ils représentent l'histoire en capitalisant les erreurs/réussites du passé pour ne pas les oublier.
@@ -50,7 +54,11 @@ Seront-ils les seuls à [**explorer les frontières de l’innovation**]() ? L
 
  
 
+<<<<<<< HEAD
  ** [Akka 3 ds]() ** from **[Les transports du futur]()**"2014-10-07 09:00:00https://transportsdufutur.ademe.fr/2014/10/ne-plus-vouloir-decider-mais-permettre-simplifier-rendre-possible.htmlcitoyen|google|innovation|open source|Uber|UX|véhicule mono-usagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatne-plus-vouloir-decider-mais-permettre-simplifier-rendre-possible2015-07-21 16:35:28title=""Design_vs_userexperience"" />
+=======
+ ** [Akka 3 ds]() ** from **[Les transports du futur]()**"2014-10-07 09:00:00/2014/10/07/ne-plus-vouloir-decider-mais-permettre-simplifier-rendre-possible/citoyen|google|innovation|open source|Uber|UX|véhicule mono-usagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatne-plus-vouloir-decider-mais-permettre-simplifier-rendre-possible2015-07-21 16:35:28title=""Design_vs_userexperience"" />
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

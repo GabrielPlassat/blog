@@ -3,7 +3,11 @@ layout: post
 title: "En temps de crise, peut-on faire des transports gratuits ?"
 date: 2010-05-26 10:59:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'crise', 'gratuit', 'internet', 'low cost', 'open source', 'partage de données', 'philanthropie', 'réseaux']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "crise", "gratuit", "internet", "low cost", "open source", "partage de donn\u00e9es", "philanthropie", "r\u00e9seaux"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ce qui n'a de prix n'a pas de valeur, Si c'est gratuit ça ne coûte rien, ... Ces phrases toutes faites s'appliquent-elles aux transports en commun ou d'autres modes ? Comment les consommateurs contribuables perçoivent cette gratuité ? Pourquoi se lancer dans le gratuit ? Et si la gratuité n'était qu'une étape pour aller vers la transparence complète des opérateurs de transports publics ? 
@@ -122,7 +126,11 @@ La gratuité des bus à Aubagne en chiffres:
 
   
 
+<<<<<<< HEAD
 "2010-05-26 10:59:04https://transportsdufutur.ademe.fr/2010/05/en-temps-de-crise-peuton-faire-des-transports-gratuits.htmlcité|citoyen|collectivité|crise|gratuit|internet|low cost|open source|partage de données|philanthropie|réseauxpublish18gabriel plassaten-temps-de-crise-peuton-faire-des-transports-gratuits2010-05-26 10:59:04MARGIN: 0pt"">En forçant les traits, ce qui est abondant deviendra gratuit, ce qui est rare deviendra cher. La mobilité porte à porte fluide permettant de valoriser son temps pendant le transport aura donc une valeur de plus en plus grande, le temps libre étant la ressource la plus précieuse (voir **[ici]()**). Une partie de cette valeur pourra être payée par d'autres personnes, en fonction par exemple des qualités énergétiques et environnementales de leur mobilité. A l'inverse les objets permettant de se déplacer seront progressivement de moins en moins chers, voire même gratuits (voir **[ici]()**) inclus dans des forfaits.  Dans le cas d'Aubagne, équilibré entre ville et campagne, le lien social semble piloter le choix de la gratuité. Il en découle d'autres avantages: augmentation des fréquentations, sentiment de reconnaissance notamment chez les jeunes, environnement. 
+=======
+"2010-05-26 10:59:04/2010/05/26/en-temps-de-crise-peuton-faire-des-transports-gratuits/cité|citoyen|collectivité|crise|gratuit|internet|low cost|open source|partage de données|philanthropie|réseauxpublish18gabriel plassaten-temps-de-crise-peuton-faire-des-transports-gratuits2010-05-26 10:59:04MARGIN: 0pt"">En forçant les traits, ce qui est abondant deviendra gratuit, ce qui est rare deviendra cher. La mobilité porte à porte fluide permettant de valoriser son temps pendant le transport aura donc une valeur de plus en plus grande, le temps libre étant la ressource la plus précieuse (voir **[ici]()**). Une partie de cette valeur pourra être payée par d'autres personnes, en fonction par exemple des qualités énergétiques et environnementales de leur mobilité. A l'inverse les objets permettant de se déplacer seront progressivement de moins en moins chers, voire même gratuits (voir **[ici]()**) inclus dans des forfaits.  Dans le cas d'Aubagne, équilibré entre ville et campagne, le lien social semble piloter le choix de la gratuité. Il en découle d'autres avantages: augmentation des fréquentations, sentiment de reconnaissance notamment chez les jeunes, environnement. 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

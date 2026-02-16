@@ -86,7 +86,11 @@ As part of the opening ceremony, Commission Vice-President Siim Kallas will awar
 
 More information : [http://ec.europa.eu/transport/themes/its/index_en.htm]()
 
+<<<<<<< HEAD
 "2014-06-16 16:30:32https://transportsdufutur.ademe.fr/2014/06/transport-eu-push-for-better-travel-planning-solutions.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattransport-eu-push-for-better-travel-planning-solutions2015-07-21 16:35:32>**Multimodal journey planners in Europe**
+=======
+"2014-06-16 16:30:32/2014/06/16/transport-eu-push-for-better-travel-planning-solutions/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattransport-eu-push-for-better-travel-planning-solutions2015-07-21 16:35:32>**Multimodal journey planners in Europe**
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

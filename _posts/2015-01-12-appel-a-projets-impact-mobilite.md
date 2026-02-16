@@ -3,7 +3,11 @@ layout: post
 title: "Appel à projets IMPACT Mobilité"
 date: 2015-01-12 15:44:28 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'innovation', 'intelligence collective', "Plateforme d'idées"]
+=======
+tags: ["citoyen", "innovation", "intelligence collective", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Du **5 janvier au 18 février 2015**, [**Ashoka**](http://france.ashoka.org/) et la [**Fondation Macif**](http://www.fondation-macif.org/) mènent un appel à projets, dont je suis le parrain", socialement innovants dans le domaine de la mobilité, dans le cadre du programme [IMPACT Mobilité]() qu’elles conduisent.
@@ -23,7 +27,11 @@ Cet accompagnement se clôturera par une présentation de leur stratégie devant
 
  
 
+<<<<<<< HEAD
  ** [Ashoka appel à projet impact mobilité]() ** from **[Les transports du futur]()**"2015-01-12 15:44:28https://transportsdufutur.ademe.fr/2015/01/appel-a-projets-impact-mobilite.htmlcitoyen|innovation|intelligence collective|Plateforme d'idéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatappel-a-projets-impact-mobilite2015-07-21 16:35:26>
+=======
+ ** [Ashoka appel à projet impact mobilité]() ** from **[Les transports du futur]()**"2015-01-12 15:44:28/2015/01/12/appel-a-projets-impact-mobilite/citoyen|innovation|intelligence collective|Plateforme d'idéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatappel-a-projets-impact-mobilite2015-07-21 16:35:26>
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 Cet accompagnement se clôturera par une présentation de leur stratégie devant un jury de spécialistes du secteur, qui remettra** un prix de 15 000€ à l’initiative la plus prometteuse. Un prix du grand public de 15 000€** sera attribué grâce à un vote en ligne ouvert à tous. Les deux prix sont dotés par la Fondation Macif.

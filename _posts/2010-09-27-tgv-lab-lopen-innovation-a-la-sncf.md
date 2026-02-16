@@ -3,7 +3,11 @@ layout: post
 title: "TGV lab, l'open innovation à la SNCF"
 date: 2010-09-27 09:01:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['open innovation', 'Service de mobilité', 'TGV', 'TIC', 'transition générationnelle']
+=======
+tags: ["open innovation", "Service de mobilit\u00e9", "TGV", "TIC", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le laboratoire interne de la SNCF fait ce qu'il dit et pratique en interne **[l'open innovation ](http://fr.wikipedia.org/wiki/Innovation_ouverte)**permettant que le TGV, le train et plus généralement les mobilités vendues par la SNCF intègrent de plus en plus d'innovations, celles que souhaitent les utilisateurs, celles que proposent certains citoyens.

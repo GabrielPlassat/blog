@@ -3,7 +3,11 @@ layout: post
 title: "Europcar pourrait s’attaquer à la Chine via l'autopartage Car2go"
 date: 2011-01-28 21:25:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['chine', 'Efficacité énergétique', 'internet', 'iphone', 'megacity', 'Service de mobilité']
+=======
+tags: ["chine", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "iphone", "megacity", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Annoncé aujourd’hui dans **[les Echos](http://www.lesechos.fr/entreprises-secteurs/auto-transport/actu/0201105527605-europcar-va-tester-la-location-de-courte-duree-en-ville-avec-smart.htm)**, Europcar réfléchit pour s’implanter en Chine grâce à la société Car2go (filiale de Daimler, déjà décrit **[ici](/2010/10/daimler-europcar-et-une-smart-adaptee-pour-lautopartage.html)**). L’autopartage ou location courte durée sert ici d’avantage concurrentiel pour le leader européen.

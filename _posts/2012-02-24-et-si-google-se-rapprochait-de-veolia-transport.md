@@ -3,7 +3,11 @@ layout: post
 title: "Et si Google se rapprochait de Veolia Transport ?"
 date: 2012-02-24 15:30:42 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'google', 'Service de mobilité']
+=======
+tags: ["donn\u00e9e data", "google", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[L’annonce récente](http://www.challenges.fr/entreprise/20120217.CHA3363/200-millions-de-pertes-pour-veolia.html)** de se séparer de sa branche Transport montre les difficultés pour opérer les systèmes actuels de transports publics collectifs au regard des critères économiques. Cette situation n’est sans doute pas spécifique à la France et elle risque de durer. Néanmoins nous aurons toujours besoin de solutions de transports mutualisées, et vraisemblablement de plus en plus. Nous sommes dans l’ère de la rareté matérielle et financière ; la mutualisation n’est donc plus une option, c’est une des voies majeures pour faire beaucoup mieux avec les technologies existantes, sans attendre de futures hypothétiques ruptures… 

@@ -3,7 +3,11 @@ layout: post
 title: "Le nouveau Monde 2012 #NM2012 arrive ... il va en surprendre plus d'un"
 date: 2012-01-10 09:44:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'connectivité', 'Efficacité énergétique', 'holoptisme', 'intelligence collective', 'internet', 'MIT', 'monnaie complémentaire', 'open innovation', 'web2.0']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "holoptisme", "intelligence collective", "internet", "MIT", "monnaie compl\u00e9mentaire", "open innovation", "web2.0"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le colloque **[NM2012](http://www.colloquenouveaumonde.fr/)** pour tenter d’esquisser les contours du monde qui vient… A-t-on parler du peer to peer ? Peut être mais à la marge, alors qu’il s’agit pourtant de la partie visible de l’Iceberg. Ce dernier contient en lui-même, ce que certains n’hésitent pas à appeler, une évolution de … l’espèce humaine, une nouvelle forme d’intelligence collective. Or nous pouvons constater que nous avons grand besoin d’intelligence pour résoudre les problèmes, aujourd’hui sans réponses, auxquels nous avons à faire face : santé, environnement, énergie pour tous, et **[mobilité](http://ecomobilite.tv/forums/topic/450-000-covoiturage-noel-record-historique)**. BBC News vient de publier un **[article](http://www.bbc.co.uk/news/business-16411558) **sur le développement des services, sur le passage à l’économie de la fonctionnalité dans le domaine de l’automobile, annonçant que «***The** world is moving from car ownership to car usership*** », concluant que les constructeurs et de nouveaux entrants vont développer des offres correspondantes. 
@@ -74,7 +78,11 @@ Donner à tous les acteurs, particuliers, marchands, opérateurs, la vision holo
 
  
 
+<<<<<<< HEAD
 Cette thématique est également travaillée au **[MIT ](http://cci.mit.edu/)**et au **[Canada ](http://www.lemonde.fr/technologies/article/2007/06/23/l-intelligence-collective-notre-plus-gra
+=======
+Cette thématique est également travaillée au **[MIT ](http://cci.mit.edu/)**et au **[Canada ](http://www.lemonde.fr/technologies/article/2007/06/23/l-intelligence-collective-notre-plus-gra_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 nde-richesse_927305_651865.html)**(Université d’Ottawa). Comme l’indique Michel Serres, notre espèce évolue, nous allons accéder à de nouvelles formes de conscience et d’actions rendues possibles par l’émergence de réseaux qui peuvent se coordonner et agir. 
 
  

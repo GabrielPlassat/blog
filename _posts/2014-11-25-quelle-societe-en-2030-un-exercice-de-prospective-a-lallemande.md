@@ -3,7 +3,11 @@ layout: post
 title: "Quelle société en 2030 : un exercice de prospective à l’allemande"
 date: 2014-11-25 10:50:12 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['innovation', 'internet', 'pensée complexe', 'plate-forme', 'temporalité', 'transition générationnelle']
+=======
+tags: ["innovation", "internet", "pens\u00e9e complexe", "plate-forme", "temporalit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Cet article a été rédigé par Didier Violle (ADEME, Service Recherche et Technologies Avancées).***
@@ -109,7 +113,11 @@ Pour le 21e siècle, des changements très dynamiques dans le domaine de la form
 
  
 
+<<<<<<< HEAD
 Dans le domaine de la formation apparaissent de nouvelles formes d’utilisation d
+=======
+Dans le domaine de la formation apparaissent de nouvelles formes d’utilisation d_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 es ordinateurs et des jeux en ligne ainsi que de nouvelles applications en ligne qui en raison de leur portée, modifieront profondément le paysage global (donc allemand) de l’enseignement supérieur.
 
  
@@ -251,7 +259,11 @@ Ce défi regroupe treize des grandes tendances identifiées, la première le sou
 
  
 
+<<<<<<< HEAD
 La numérisation et la mise en rése
+=======
+La numérisation et la mise en rése_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 au sont des facteurs clés du développement économique mondial : on communique en ligne, on achète en ligne, la banque st en ligne. Un effet secondaire de ces applications est l’apparition de vastes collections de données à partir desquelles on peut tirer des profils d’utilisateurs de plus en plus précis.
 
  
@@ -396,7 +408,11 @@ Ce défi regroupe dix  des grandes tendances identifiées, la première le sous
 - Evolution des valeurs des jeunes vers l'empathie mondiale 
 - Reconquête de l’espace public 
 - Conséquences de l’exigence de transparence et hyperpuritanisme 
+<<<<<<< HEAD
 - L
+=======
+- L_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 a cohésion sociale - Ciment des sociétés du 21ème siècle 
 - Culture post-ethnique, conséquence des migrations 
  

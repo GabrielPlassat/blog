@@ -3,7 +3,11 @@ layout: post
 title: "Less is More (3) application au VE"
 date: 2010-04-08 11:29:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['léger', 'VE', 'véhicule propre']
+=======
+tags: ["l\u00e9ger", "VE", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Pour un véhicule électrique, plus le véhicule est léger, moins il y a besoin de batterie pour des performances équivalentes (autonomie notamment), donc plus le véhicule est léger (cercle vertueux), et moins il est cher, donc pourra se développer plus largement.

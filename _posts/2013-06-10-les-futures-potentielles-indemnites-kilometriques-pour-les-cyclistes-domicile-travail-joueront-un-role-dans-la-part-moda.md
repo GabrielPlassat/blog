@@ -3,7 +3,11 @@ layout: post
 title: "Vélo et covoiturage, comment augmenter l'engagement des citoyens ?"
 date: 2013-06-10 12:35:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['2 roues', 'citoyen', 'collectivité', 'economie circulaire', 'gouvernance', 'holoptisme', 'management de la mobilité', 'mode doux', 'monnaie complémentaire', 'philanthropie', 'vélo']
+=======
+tags: ["2 roues", "citoyen", "collectivit\u00e9", "economie circulaire", "gouvernance", "holoptisme", "management de la mobilit\u00e9", "mode doux", "monnaie compl\u00e9mentaire", "philanthropie", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les futures (potentielles) indemnités kilométriques pour les cyclistes domicile-travail joueront un rôle dans la part modale du vélo. L'acte d'engagement individuel est conditionné, en partie et pour certains, pour l'accès à cette forme de richesse, l'euro. Cette indemnité sera également une reconnaissance collective pour cette action individuelle. Mais pour autant, est ce la seule récompense imaginable ? est ce la plus puissante ? Quelles sont les richesses à mettre en oeuvre pour engager massivement et sur le long terme de nouvelles pratiques de mobilité, dont le vélo mais également le covoiturage ? 

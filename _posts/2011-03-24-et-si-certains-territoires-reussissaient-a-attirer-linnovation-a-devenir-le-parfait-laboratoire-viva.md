@@ -3,7 +3,11 @@ layout: post
 title: "Et si certains territoires réussissaient à attirer l'innovation, à devenir le parfait laboratoire vivant grande échelle ?"
 date: 2011-03-24 18:28:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'cité', 'citoyen', 'collectivité', 'innovation', 'open innovation', 'open source', 'partage de données', 'territoire']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "innovation", "open innovation", "open source", "partage de donn\u00e9es", "territoire"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Passer du stade de l’objet à celui de service impose d’expérimenter avec des conditions aux limites très différentes et introduisant un paramètre peu modélisable : l’humain, dans toutes les situations de vies.

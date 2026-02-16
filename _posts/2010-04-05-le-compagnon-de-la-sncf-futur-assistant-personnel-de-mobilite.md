@@ -3,7 +3,11 @@ layout: post
 title: "Le Compagnon\" de la SNCF, futur Assistant Personnel de Mobilité\""
 date: 2010-04-05 21:45:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'internet', 'internet des objets', 'multimodes', 'sncf']
+=======
+tags: ["assistant de mobilit\u00e9", "internet", "internet des objets", "multimodes", "sncf"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cette application permet à l’ensemble des utilisateurs ayant réservé un billet de disposer d'informations et de services utiles durant les différentes phases de leur voyage : informations essentielles sur les billets, heures de départ et d'arrivée, numéro du train et de la place.... 

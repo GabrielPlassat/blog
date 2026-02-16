@@ -3,7 +3,11 @@ layout: post
 title: "Tendances et Technologies 2010-2050"
 date: 2010-03-29 14:59:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'tendance']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "tendance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Sous la forme d'une carte de métro (voir **[ici](http://nowandnext.com/)**), avec donc des croisements, l'auteur propose des tendances technologiques, sociales, marketing pour les 40 ans à venir. En indiquant, comme risque global, ne pas prendre trop au sérieux cette carte...

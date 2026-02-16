@@ -3,7 +3,11 @@ layout: post
 title: "Et si nous innovions sur la fiscalité des carburants ?"
 date: 2013-07-10 19:42:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'carburant', 'donnée data', 'externalité', 'fiscalité', 'gouvernance']
+=======
+tags: ["autorit\u00e9 des transports", "carburant", "donn\u00e9e data", "externalit\u00e9", "fiscalit\u00e9", "gouvernance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'Oregon expérimente peut être la fiscalité du futur. Après avoir inventé" la taxe sur les produits pétroliers en 1919, l'Oregon vient de mettre en place un programme particulièrement innovant (voir cet article **[The Era of Pay per Mile Driving has begun]()**). 
@@ -62,7 +66,11 @@ Les citoyens devront être convaincus que les bénéfices communs seront supéri
 
  
 
+<<<<<<< HEAD
 "2013-07-10 19:42:16https://transportsdufutur.ademe.fr/2013/07/et-si-nous-innovions-sur-la-fiscalite-des-carburants.htmlautorité des transports|carburant|donnée data|externalité|fiscalité|gouvernancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-nous-innovions-sur-la-fiscalite-des-carburants2015-07-21 16:35:40text-align: justify"">This model of [testing and transparency]() is exactly the approach that experts have recommended to overcome the public's perception problem toward road pricing. First officials must demonstrate the effectiveness of these programs through a pilot, then they must inform people how the new systems will work. That's the winning formula, and wittingly or not, that's the one Oregon followed.
+=======
+"2013-07-10 19:42:16/2013/07/10/et-si-nous-innovions-sur-la-fiscalite-des-carburants/autorité des transports|carburant|donnée data|externalité|fiscalité|gouvernancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-nous-innovions-sur-la-fiscalite-des-carburants2015-07-21 16:35:40text-align: justify"">This model of [testing and transparency]() is exactly the approach that experts have recommended to overcome the public's perception problem toward road pricing. First officials must demonstrate the effectiveness of these programs through a pilot, then they must inform people how the new systems will work. That's the winning formula, and wittingly or not, that's the one Oregon followed.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

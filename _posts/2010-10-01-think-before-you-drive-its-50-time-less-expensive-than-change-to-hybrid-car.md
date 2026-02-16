@@ -3,7 +3,11 @@ layout: post
 title: "Think before you drive ! it's 50 time less expensive than change to hybrid car !!"
 date: 2010-10-01 15:24:28 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['allemagne', 'citoyen', 'collectivité', 'marche', 'mode doux', 'vélo']
+=======
+tags: ["allemagne", "citoyen", "collectivit\u00e9", "marche", "mode doux", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 The Federal Environment Ministry of Germany (**[BMU](http://www.kopf-an.de/)**) is running a public information campaign called “Head on: engine off”, which aims to change travel behaviour on short trips and achieve an overall reduction in CO2 emissions. The key message is that not using the car for short journeys will protect the environment and improve health.

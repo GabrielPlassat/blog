@@ -3,7 +3,11 @@ layout: post
 title: "HSBC investit 90 millions d'euro dans Better Place"
 date: 2010-01-28 15:55:43 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['banque', 'better place', 'Energie', 'Service de mobilité', 'TIC', 'VE', 'Véhicule']
+=======
+tags: ["banque", "better place", "Energie", "Service de mobilit\u00e9", "TIC", "VE", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La banque va prendre 10% du capital de **[Better Place](http://www.betterplace.com/company/press-release-detail/better-place-secures-350-)**, et placer Kevin Adeson, responsable des opérations financières mondiales, au sein du comité de direction de Better Place.

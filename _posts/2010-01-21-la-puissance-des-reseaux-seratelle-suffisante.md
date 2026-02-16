@@ -3,7 +3,11 @@ layout: post
 title: "La puissance des réseaux sera-t-elle suffisante ?"
 date: 2010-01-21 18:00:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', "guide d'achat", 'internet', 'internet des objets', 'open source', 'partage de données', 'philanthropie', 'réseaux', 'Service de mobilité', 'TIC', 'transition générationnelle', 'Véhicule']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "guide d'achat", "internet", "internet des objets", "open source", "partage de donn\u00e9es", "philanthropie", "r\u00e9seaux", "Service de mobilit\u00e9", "TIC", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Malgré le titre, nous ne parlerons pas ici des réseaux électriques et de la diffusion des véhicules du même nom, mais des réseaux sociaux. Quels liens avec la mobilité et les transports ?
@@ -48,7 +52,11 @@ Cette substitution n’est pas un miracle : elle découle des propriétés de d
 
  
 
+<<<<<<< HEAD
 La puissance des réseaux semble donc immense et propice aux échanges, à créer des communa
+=======
+La puissance des réseaux semble donc immense et propice aux échanges, à créer des communa_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 utés, à développer des outils partageables" et concurrentiels des solutions proposées par le marché, à être aussi efficace qu'une entreprise chargée de piloter un projet. Ainsi, sans intermédiaires couteux, les citoyens pourraient rester opérateur de leur mobilité donc "autonomes collectivement" en utilisant des outils libres. 
 
  

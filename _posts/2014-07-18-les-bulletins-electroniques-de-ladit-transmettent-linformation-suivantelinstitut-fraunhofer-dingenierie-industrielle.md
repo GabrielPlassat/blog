@@ -3,7 +3,11 @@ layout: post
 title: "Fraunhofer Institut + MIT = Ambient Mobility Lab"
 date: 2014-07-18 15:35:49 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['innovation', 'intelligence collective', 'internet', 'internet des objets', 'MIT', 'mode doux', 'taxi', 'véhicule mono-usage', 'vélo']
+=======
+tags: ["innovation", "intelligence collective", "internet", "internet des objets", "MIT", "mode doux", "taxi", "v\u00e9hicule mono-usage", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Cet article a été rédigé par Didier Violle, ADEME.*
@@ -37,4 +41,8 @@ Cette coopération est financée à hauteur de 2,65 millions d'euros par le Land
 
 *Un coopération qui a du sens car le Fraunhofer et le MIT sont des poids lourds de la recherche. Une surprise toutefois : côté allemand, ce n’est pas **l'IVI  (Transport et infrastructures) de Dresde qui est mobilisé bien que sa devise soit "Research for a mobile future" En revanche l'IAO semble plus branché interfaces homme technique. **Signe des temps ?*
 
+<<<<<<< HEAD
 "2014-07-18 15:35:49https://transportsdufutur.ademe.fr/2014/07/les-bulletins-electroniques-de-ladit-transmettent-linformation-suivantelinstitut-fraunhofer-dingenierie-industrielle.htmlArticles invitésinnovation|intelligence collective|internet|internet des objets|MIT|mode doux|taxi|véhicule mono-usage|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-bulletins-electroniques-de-ladit-transmettent-linformation-suivantelinstitut-fraunhofer-dingenierie-industrielle2017-11-02 16:42:03
+=======
+"2014-07-18 15:35:49/2014/07/18/les-bulletins-electroniques-de-ladit-transmettent-linformation-suivantelinstitut-fraunhofer-dingenierie-industrielle/Articles invitésinnovation|intelligence collective|internet|internet des objets|MIT|mode doux|taxi|véhicule mono-usage|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-bulletins-electroniques-de-ladit-transmettent-linformation-suivantelinstitut-fraunhofer-dingenierie-industrielle2017-11-02 16:42:03
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

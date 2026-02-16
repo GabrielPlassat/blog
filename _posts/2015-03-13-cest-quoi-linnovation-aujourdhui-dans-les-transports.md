@@ -3,7 +3,11 @@ layout: post
 title: "Le Fordisme, le Lean, et après ?"
 date: 2015-03-13 18:04:12 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'citoyen', "économie de l'expérience", 'Fabrique des mobilités', 'holoptisme', 'innovation', 'intelligence collective', 'open innovation']
+=======
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "citoyen", "\u00e9conomie de l'exp\u00e9rience", "Fabrique des mobilit\u00e9s", "holoptisme", "innovation", "intelligence collective", "open innovation"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b01b7c761cc64970b-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01b7c761cc64970b-pi.jpg)

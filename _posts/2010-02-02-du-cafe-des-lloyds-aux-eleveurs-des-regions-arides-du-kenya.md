@@ -3,7 +3,11 @@ layout: post
 title: "Du café des Lloyd's aux éleveurs des régions arides du Kenya"
 date: 2010-02-02 17:43:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'données réelles', "lloyd's", 'partage de données', 'TIC']
+=======
+tags: ["assurance", "donn\u00e9es r\u00e9elles", "lloyd's", "partage de donn\u00e9es", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Petite suite d'une précédente note (voir **[ici](/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages.html)**) concernant les assurances ...
@@ -34,4 +38,8 @@ S'agissant des données, les chercheurs ont puisé à deux sources : d'abord les
 
 L'accès à des données fiables, représentatives de la réalité, en temps réel, libres et gratuites, couplé au développement d'un indicateur traduisant le risque sont, là encore, les meilleurs moyens pour mettre en oeuvre une assurance performante. En matière de mobilité, de la même façon, **[l'accès aux données]()**, **[la création d'un indice multicritère]()** (pollution, GES, sécurité...), permettront de mieux estimer les risques ouvrant de nouvelles possibilités pour l’assureur et son client, sous réserve de maîtriser les dérives possibles et de rétribuer la majorité des bénéfices au client.
 
+<<<<<<< HEAD
 "2010-02-02 17:43:41https://transportsdufutur.ademe.fr/2010/02/du-cafe-des-lloyds-aux-eleveurs-des-regions-arides-du-kenya.htmlassurance|données réelles|lloyd's|partage de données|TICpublish18gabriel plassatdu-cafe-des-lloyds-aux-eleveurs-des-regions-arides-du-kenya2010-02-02 17:43:41
+=======
+"2010-02-02 17:43:41/2010/02/02/du-cafe-des-lloyds-aux-eleveurs-des-regions-arides-du-kenya/assurance|données réelles|lloyd's|partage de données|TICpublish18gabriel plassatdu-cafe-des-lloyds-aux-eleveurs-des-regions-arides-du-kenya2010-02-02 17:43:41
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

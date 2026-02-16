@@ -3,7 +3,11 @@ layout: post
 title: "Ford partage son AppLink et lance Myenergi"
 date: 2013-01-08 16:54:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'commuter', 'covoiturage', 'données réelles', 'Efficacité énergétique', 'FORD', 'internet', 'Service de mobilité', 'smartgrid']
+=======
+tags: ["citoyen", "commuter", "covoiturage", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "FORD", "internet", "Service de mobilit\u00e9", "smartgrid"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Tout comme Google distribue, actualise et développe Android, Ford vient de mettre à disposition de tous les constructeurs et équipementiers son système d’exploitation AppLink (**[communiqué de presse](http://media.ford.com/article_display.cfm?article_id=37551)**). Ford pense ainsi devenir un des principaux systèmes d’exploitation pour l’automobile (voir également article dans **[Wired](http://www.wired.com/autopia/2013/01/ces-2013-ford-applink-for-all/)**). En parallèle, Ford lance **[MyEnergi](http://blog.saywhat.it/2013/01/08/fords-myenergy-lifestyle-product-aim-to-reduce-your-carbon-footprint/)** une suite numérique permettant de réduire sa consommation d’énergie dans une approche globale : déplacement (en plug-in) et habitat. 

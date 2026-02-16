@@ -3,7 +3,11 @@ layout: post
 title: "Parce que la transparence va devenir un facteur stratégique pour les entreprises du transport"
 date: 2012-03-19 16:05:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['marchandises', 'transparence']
+=======
+tags: ["marchandises", "transparence"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'exemple de [**M.O.L. (Mitsui OSK Lines)**](http://www.wk-transport-logistique.fr/actualites/actualites_detail.php?action=detail&val=51224&label_donnee=Lignes+conteneuris%26eacute;es%26nbsp;:+MOL+fournit+aux+chargeurs+des+indicateurs+de+performance&utm_source=twitterfeed&utm_medium=twitter) pourrait préfigurer les prochaines étapes du transport de marchandises: la mise à disposition des clients de tous les indicateurs de performances des modes de transports utilisés. 

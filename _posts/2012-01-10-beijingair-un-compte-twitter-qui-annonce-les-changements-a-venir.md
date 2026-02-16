@@ -3,7 +3,11 @@ layout: post
 title: "'@BeijingAir un compte twitter qui annonce les changements à venir"
 date: 2012-01-10 18:36:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'chine', 'cité', 'donnée data', 'données réelles', 'emission', "qualité de l'air", 'twitter']
+=======
+tags: ["autorit\u00e9 des transports", "chine", "cit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "emission", "qualit\u00e9 de l'air", "twitter"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cliquer sur [**@BeijingAir**](https://twitter.com/#%21/BeijingAir) et vous accéder à un compte twitter qui annonce la qualité de l'air à Beijing. Aujourd'hui : 01-11-2012; 00:20; Past 24hr: PM2.5 avg; 241.1; 291; Very Unhealthy // Ozone 8hr high; 0.0; 0; No Reading. 

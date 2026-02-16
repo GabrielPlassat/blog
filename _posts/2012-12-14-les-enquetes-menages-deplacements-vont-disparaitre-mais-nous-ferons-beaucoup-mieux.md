@@ -3,7 +3,11 @@ layout: post
 title: "Les Enquêtes Ménages Déplacements devront évoluer, et nous ferons (beaucoup) mieux ..."
 date: 2012-12-14 12:08:50 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'enquete']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "enquete"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Jusqu'à présent, ces enquêtes ménages déplacements nous ont permis de connaître les mobilités des citoyens aux niveaux local et national, ou plutôt d'essayer de les connaître en les approchant par des méthodes statistiques. **Ce besoin de comprendre le tout" à partir de la somme des individus est essentielle, nous y reviendrons**. Utilisant notamment des questionnaires et des échanges téléphoniques, elles ont progressivement construit une base de connaissance, identifier les paramètres influents sur nos choix modaux par exemple. Trois évolutions vont conduire à leur disparition dans leur état actuel. Non pas qu'elles soient inutiles, bien au contraire nous avons besoin de mieux, *beaucoup mieux*, comprendre, connaître les mobilités réellement pratiquées sur nos tous nos territoires, mais nous pouvons aujourd'hui faire mieux, *beaucoup mieux*.

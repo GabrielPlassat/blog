@@ -3,7 +3,11 @@ layout: post
 title: "Honda et Audi épinglés par l'Observatoire Indépendant de la pub"
 date: 2010-09-23 10:32:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'publicité', 'Véhicule', 'véhicule propre']
+=======
+tags: ["citoyen", "publicit\u00e9", "V\u00e9hicule", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’Observatoire Indépendant de la Publicité émane de l’Alliance pour la planète. Il est composé de membres d’associations écologistes, d’associations de consommateurs, de personnalités reconnues dans le domaine de l’environnement, du secteur de la communication et de la publicité, du marketing, et de la recherche. Il milite pour une meilleure et réelle prise en compte de l’environnement en France, en faisant en sorte que soit limité et contrôlé l’impact de la publicité sur l’environnement et stoppée l’utilisation abusive de l’argument écologique.
@@ -37,4 +41,8 @@ L’Observatoire Indépendant de la Publicité émane de l’Alliance pour la pl
 [![]()]() 
 Les industries automobiles sont passées maîtres dans l'art de la communication, elles y allouent des budgets conséquents. Tous les acteurs de la chaîne y trouvent un rôle, un intérêt, même ceux qui jugent au nom du consommateur. Seul ce dernier, par le biais de l'action politique, pourrait (devrait) se placer en position dominante, être capable de se fédérer avec le minimum d'intermédiaire. Comme l'indique **[Dominique Desjeux]()**, "La consommation devient un véritable sport de combat !"
 
+<<<<<<< HEAD
 "2010-09-23 10:32:51https://transportsdufutur.ademe.fr/2010/09/honda-et-audi-epingles-par-lobservatoire-independant-de-la-pub.htmlcitoyen|publicité|Véhicule|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassathonda-et-audi-epingles-par-lobservatoire-independant-de-la-pub2015-07-21 16:37:38
+=======
+"2010-09-23 10:32:51/2010/09/23/honda-et-audi-epingles-par-lobservatoire-independant-de-la-pub/citoyen|publicité|Véhicule|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassathonda-et-audi-epingles-par-lobservatoire-independant-de-la-pub2015-07-21 16:37:38
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

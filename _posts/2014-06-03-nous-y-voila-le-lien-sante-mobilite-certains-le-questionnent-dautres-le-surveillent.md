@@ -3,7 +3,11 @@ layout: post
 title: "Lien santé / mobilité active, vers l'autosurveillance généralisée ?"
 date: 2014-06-03 12:57:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['anthropologie', 'assistant de mobilité', 'assurance', 'citoyen', 'commuter', 'confiance', 'connectivité', 'données réelles', 'innovation', "lloyd's", 'marche', 'monnaie complémentaire', 'partage de données', 'pensée complexe', 'sousveillance', 'surveillance', 'transparence', 'vélo']
+=======
+tags: ["anthropologie", "assistant de mobilit\u00e9", "assurance", "citoyen", "commuter", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "innovation", "lloyd's", "marche", "monnaie compl\u00e9mentaire", "partage de donn\u00e9es", "pens\u00e9e complexe", "sousveillance", "surveillance", "transparence", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Plusieurs notes ont été rédigées sur le sujet de la surveillance ([**Métanote N°3**](/2010/03/apres-la-surveillance-la-sousveillance.html) et [**Reloaded**](/2013/03/metanote-tdf-3-la-surveillance-reloaded.html)) . Le numérique, technique dominante, permet de relier des domaines autrefois non connectés, de surveiller profondément les comportements, de tracer les actes quotidiens et également d'apporter des informations contextualisées à hautes valeurs ajoutées. Par effet miroir, la sousveillance se déploie également.
@@ -76,4 +80,8 @@ Cet [**article**]() de Valérie Peugeot (Orange Labs, VECAM) concernant les donn
 
  
 
+<<<<<<< HEAD
 "2014-06-03 12:57:34https://transportsdufutur.ademe.fr/2014/06/nous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent.htmlanthropologie|assistant de mobilité|assurance|citoyen|commuter|confiance|connectivité|données réelles|innovation|lloyd's|marche|monnaie complémentaire|partage de données|pensée complexe|sousveillance|surveillance|transparence|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent2015-07-21 16:35:32
+=======
+"2014-06-03 12:57:34/2014/06/03/nous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent/anthropologie|assistant de mobilité|assurance|citoyen|commuter|confiance|connectivité|données réelles|innovation|lloyd's|marche|monnaie complémentaire|partage de données|pensée complexe|sousveillance|surveillance|transparence|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent2015-07-21 16:35:32
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

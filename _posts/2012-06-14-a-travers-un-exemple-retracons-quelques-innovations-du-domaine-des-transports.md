@@ -60,4 +60,8 @@ Ce management cohérent de la demande doit être mené conjointement avec une re
 
 Une des meilleures synthèses trouvée sur le sujet :
 
+<<<<<<< HEAD
  [Tdm strategy analysis_20090318final]() View more [documents]() from [Les transports du futur](). "2012-06-14 08:37:13https://transportsdufutur.ademe.fr/2012/06/a-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassata-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports2015-07-21 16:36:32
+=======
+ [Tdm strategy analysis_20090318final]() View more [documents]() from [Les transports du futur](). "2012-06-14 08:37:13/2012/06/14/a-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassata-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports2015-07-21 16:36:32
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

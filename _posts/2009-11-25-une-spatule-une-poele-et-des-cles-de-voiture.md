@@ -3,7 +3,11 @@ layout: post
 title: "Une spatule, une poêle et des clés de voiture"
 date: 2009-11-25 11:42:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ["Plateforme d'idées", 'Précarité', 'Véhicule']
+=======
+tags: ["Plateforme d'id\u00e9es", "Pr\u00e9carit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Sur une publicité d’une **[compagnie de prévoyance](http://www.hcrprevoyance.fr/)**, des clés de voiture sont placées à coté d’ustensiles de cuisine. Cette société spécialisée dans les métiers de l'hotellerie propose un [**soutien financier pour passer le permis**](http://www.hcrprevoyance.fr/contenu/documents/modalites_pratiques/fORMULAIRE%20AUTO%20ECOLE%20030209.pdf), ce qui est particulièrement intéressant quand on commence à travailler . La mobilité automobile apparaît ici comme une indispensable pour accéder à un métier, au même titre qu’une formation professionnelle, dans ce cas de cuisinier, apprenti ou saisonnier de la branche Hôtel-Café-Restaurant. 

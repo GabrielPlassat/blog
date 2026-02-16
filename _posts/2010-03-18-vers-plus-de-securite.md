@@ -3,7 +3,11 @@ layout: post
 title: "Vers plus de sécurité ..."
 date: 2010-03-18 17:36:24 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['covoiturage', 'cybercar', 'données réelles', 'internet des objets', 'partage de données', 'Santé', 'sécurité', 'Véhicule']
+=======
+tags: ["covoiturage", "cybercar", "donn\u00e9es r\u00e9elles", "internet des objets", "partage de donn\u00e9es", "Sant\u00e9", "s\u00e9curit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Pour plus de sécurité, la tendance s'oriente plutôt vers plus de technologies pour mieux contrôler la dynamique, pour prévoir les incidents, pour agir plus vite, plus tôt que le conducteur. La vidéo issue d'un projet européen présente les avancées en la matière pour aller vers des **[Thinking cars](http://www.thinkingcars.com/)**.

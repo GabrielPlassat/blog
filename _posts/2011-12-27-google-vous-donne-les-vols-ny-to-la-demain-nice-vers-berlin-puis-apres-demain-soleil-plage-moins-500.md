@@ -3,7 +3,11 @@ layout: post
 title: "Google vous donne les vols NY to LA\", demain \"Nice vers Berlin\", puis après demain \"soleil plage moins 500 € vendredi prochain\"\""
 date: 2011-12-27 10:20:40 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'données réelles', 'google', 'gratuit', "guide d'achat"]
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "donn\u00e9es r\u00e9elles", "google", "gratuit", "guide d'achat"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 D'autres parties de l'Iceberg apparaissent à ceux qui ne veulent pas voir le monde qui vient ... Google permet depuis décembre d'afficher aux USA pour le moment toutes les informations pour un vol NY to LA" par exemple. Cela donne ça (ou tapez vous même "NY to LA") :
@@ -27,4 +31,8 @@ Bien entendu Google associera à ce nouvel outil, les avis des utilisateurs, am�
 
 Bien entendu, il est encore possible de ne pas voir le monde qui vient. Pour la plupart, il est d'ailleurs déjà trop tard. [**Google Mobility Service, Et si nous le faisions sans attendre ?**]()
 
+<<<<<<< HEAD
 "2011-12-27 10:20:40https://transportsdufutur.ademe.fr/2011/12/google-vous-donne-les-vols-ny-to-la-demain-nice-vers-berlin-puis-apres-demain-soleil-plage-moins-500.htmlassistant de mobilité|citoyen|données réelles|google|gratuit|guide d'achatpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgoogle-vous-donne-les-vols-ny-to-la-demain-nice-vers-berlin-puis-apres-demain-soleil-plage-moins-5002015-07-21 16:36:39
+=======
+"2011-12-27 10:20:40/2011/12/27/google-vous-donne-les-vols-ny-to-la-demain-nice-vers-berlin-puis-apres-demain-soleil-plage-moins-500/assistant de mobilité|citoyen|données réelles|google|gratuit|guide d'achatpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgoogle-vous-donne-les-vols-ny-to-la-demain-nice-vers-berlin-puis-apres-demain-soleil-plage-moins-5002015-07-21 16:36:39
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

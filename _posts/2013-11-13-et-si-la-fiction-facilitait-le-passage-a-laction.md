@@ -3,7 +3,11 @@ layout: post
 title: "Et si la fiction facilitait le passage à l'action ?"
 date: 2013-11-13 07:05:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['innovation', 'intelligence collective', 'pensée complexe']
+=======
+tags: ["innovation", "intelligence collective", "pens\u00e9e complexe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les fictions participent à assouplir nos imaginaires, à nous projeter, à faciliter la création. Ces futurs sont possibles car prolongeant des dynamiques actuelles, mais ils ne sont pas forcément souhaitables. Ces univers ont été conçus pour susciter la réaction, soit pour faire qu'ils se réalisent, soit le contraire. 

@@ -3,7 +3,11 @@ layout: post
 title: "BMW i, Citroën Multicity, Toyota Global Vision affichent leurs ambitions dans les services de mobilité"
 date: 2011-03-10 17:07:03 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'economie circulaire', 'gouvernance', 'Infrastructure', 'internet', 'management de la mobilité', 'megacity', 'Véhicule', 'véhicule mono-usage', 'véhicule propre']
+=======
+tags: ["citoyen", "economie circulaire", "gouvernance", "Infrastructure", "internet", "management de la mobilit\u00e9", "megacity", "V\u00e9hicule", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Fin 2009, un **[article](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)** de ce blog proposait, comme voie intéressante, le développement de service de mobilité multimodale, permettant de passer de l’âge de la propriété (du véhicule) à l’âge de l’accès (au service). Les contraintes, agissant sur les industries, les utilisateurs et l’environnement, sont telles qu’une optimisation de l’usage des véhicules-infrastructures-énergies, rendus possibles par les TIC, augmente les degrés de liberté du système complet. Ces leviers optimisations deviennent en période de fortes tensions économiques et environnementales, incontournables.
@@ -50,5 +54,9 @@ Le mot [*commodity*](http://en.wikipedia.org/wiki/commodity) est couramment util
 
  
 
+<<<<<<< HEAD
 Et là, c’est le passage du véhicule thermique au véhicule électrique qui libère des possibilités pour que certaines industries se positionnent comme fournisseur de VE en tant que commodité, parce qu’
+=======
+Et là, c’est le passage du véhicule thermique au véhicule électrique qui libère des possibilités pour que certaines industries se positionnent comme fournisseur de VE en tant que commodité, parce qu’_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ils utiliseront de nouvelles solutions d’architecture, comme le moteur roue par exemple, de nouvelles solutions de conception en intégrant l’économie circulaire, de nouveaux modèles économiques incluant la seconde vie des batteries par exemple, et **[concevront des objets optimisés aux usages](/2011/02/tous-les-ingredients-sont-la-pour-la-revolution-automobile.html)**.

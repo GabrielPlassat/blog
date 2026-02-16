@@ -3,7 +3,11 @@ layout: post
 title: "Un milliard de dollars pour produire de la fibre de carbone dans l'automobile"
 date: 2012-01-04 10:52:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['allégement', 'chimie', 'Efficacité énergétique', 'innovation', 'léger', 'véhicule propre']
+=======
+tags: ["all\u00e9gement", "chimie", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "l\u00e9ger", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b0162fefdd02a970d-120wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0162fefdd02a970d-800wi.jpg)

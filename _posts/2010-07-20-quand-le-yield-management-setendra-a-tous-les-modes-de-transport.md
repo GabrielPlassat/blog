@@ -3,7 +3,11 @@ layout: post
 title: "Quand le yield management s'étendra à tous les modes de transport ..."
 date: 2010-07-20 11:56:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'données réelles', 'multimodes', 'partage de données', 'Service de mobilité', 'yield management']
+=======
+tags: ["citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "multimodes", "partage de donn\u00e9es", "Service de mobilit\u00e9", "yield management"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Inventé par le transport aérien aux environs de 1958, puis développé par Delta Airlines en 1984 suite à la dérégulation du secteur, **[le yield management ou revenue management](http://fr.wikipedia.org/wiki/Yield_management)** est maintenant utilisé dans de nombreuses sociétés de services : l'hôtellerie, les locations de voitures, les parcs d'attraction (parcs à thème, parcs aquatiques, zoo…), les musées, la location d'espaces publicitaires, les autoroutes à péage, les stades, les établissements de soins.
@@ -142,7 +146,11 @@ La demande de chaque segment n'est généralement pas stable dans le temps. Les 
 
  
 
+<<<<<<< HEAD
 ·		 De plus les capacités disponibles (les chambres, les places d'avion…) sont réparties, allouées par classe tarifaire en fonction de ces prévisions (en commençant en priorité par les classes de tarif les plus élevés). Il se peut donc que certaines classes tarifaires (de niveau de prix faible) ne se voient allouer aucune capacité à certains moments : on dit alors
+=======
+·		 De plus les capacités disponibles (les chambres, les places d'avion…) sont réparties, allouées par classe tarifaire en fonction de ces prévisions (en commençant en priorité par les classes de tarif les plus élevés). Il se peut donc que certaines classes tarifaires (de niveau de prix faible) ne se voient allouer aucune capacité à certains moments : on dit alors_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 que la classe tarifaire est « fermée ». Les ventes à une classe tarifaire ne peuvent pas dépasser la quantité allouée à cette classe, même s'il reste des disponibilités dans les autres classes de tarif supérieur. 
 
  
@@ -215,7 +223,11 @@ La mise en œuvre du yield management nécessite en général un logiciel spéci
 
  
 
+<<<<<<< HEAD
 Les mobilités devront être analysées, comprises, dans leurs complexités, en ayant identifié tous les paramètres influents, pour être rendues prévisibles, modélisables (voir également **[ici](/2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement.html)**, c’est déjà possible). Et ceci pour tous les types d’usagers, tous les modes, en temps réel, pour que puisse se bâtir les modèles économiques. En complément, les pouvoirs publics pourrai
+=======
+Les mobilités devront être analysées, comprises, dans leurs complexités, en ayant identifié tous les paramètres influents, pour être rendues prévisibles, modélisables (voir également **[ici](/2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement.html)**, c’est déjà possible). Et ceci pour tous les types d’usagers, tous les modes, en temps réel, pour que puisse se bâtir les modèles économiques. En complément, les pouvoirs publics pourrai_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ent introduire de nouvelles dimensions en matière d’équité sociale, d’aménagement du territoire, à cet outil qui risque de conduire à des tarifs plus élevés dans les zones peu denses par exemple.** Un nouveau champ de recherche s’ouvre pour introduire des « valeurs publiques » dans un outil purement dédié à la maximisation du profit.**
 
  

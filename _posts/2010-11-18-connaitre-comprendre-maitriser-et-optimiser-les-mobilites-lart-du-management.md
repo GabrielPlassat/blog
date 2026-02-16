@@ -3,7 +3,11 @@ layout: post
 title: "Connaître, comprendre, maîtriser et optimiser les mobilités, l'art du management"
 date: 2010-11-18 21:53:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['gouvernance', 'management de la mobilité']
+=======
+tags: ["gouvernance", "management de la mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Déjà mentionné dans ce blog, le projet européen **[EPOMM ](/2010/03/le-management-de-la-mobilite-projet-epomm.html)**vise à étudier et optimiser le management de la mobilité, c'est à dire à orchestrer au mieux les différentes mesures restrictives ou de promotion d'une solution pour que les mobilités soient les plus équitables, les plus fluides, et respectent des objectifs environnementaux. Il est présenté ci dessous la prochaine conférence, ainsi qu'un résumé des principales mesures et des exemples étrangers (issus de la **[dernière newsletter](http://www.epomm.eu/newsletter/electronic/1010_EPOMM_enews_FR.html)**).
@@ -45,7 +49,11 @@ Passons maintenant à quelques exemples de mesures légales, réglementaires, et
 
  
 
+<<<<<<< HEAD
     
+=======
+    _x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ; Le cadre légal et réglementaire ![](/assets/images/2010/11/connatrecomprendrematriseretoptimiserlesmobilitslartdumanagement-4.jpg)
 
 ![](/assets/images/2010/11/connatrecomprendrematriseretoptimiserlesmobilitslartdumanagement-5.jpg) **Plans de déplacements urbains et plans de déplacements d'entreprise**
@@ -79,7 +87,11 @@ Des exemples sur des politiques existantes peuvent être trouvées avec :
 
  
 
+<<<<<<< HEAD
    La planification du territoire ![](/assets/images/2010/11/connatrecomprendrematriseretoptimiserlesmobilitslartdumanagement-7.jpg) L'urbanisme présente de réelles opportunités pour le management de la mobilité : les procédures de planification et d'attribution de permis de construire sont des étapes importantes pour lesquelles le management de la mobilité peut être introduit pour influencer comment les personnes vont se déplacer, depuis et à destination, d'un nouvel aménagement. En Allemagne, dans le quartier [Gartenstadt Weißenburg settlement](http://www.epomm.eu/study_sheet.phtml?sprache=en&study_id=1329) (Münster), les habitants ont même l'interdiction de posséder une voiture particulière ! [MaxLupo](http://www.epomm.eu/index.phtml?ID1=2180&id=2180), l'un des outils du projet européen MAX disponible sur le site Internet d'EPOMM, utilise des exemples réels pour montrer comment et quand le management de la mobilité peut être intégré dans le déroulé des étapes de planification du territoire. Le projet européen MAX a réalis
+=======
+   La planification du territoire ![](/assets/images/2010/11/connatrecomprendrematriseretoptimiserlesmobilitslartdumanagement-7.jpg) L'urbanisme présente de réelles opportunités pour le management de la mobilité : les procédures de planification et d'attribution de permis de construire sont des étapes importantes pour lesquelles le management de la mobilité peut être introduit pour influencer comment les personnes vont se déplacer, depuis et à destination, d'un nouvel aménagement. En Allemagne, dans le quartier [Gartenstadt Weißenburg settlement](http://www.epomm.eu/study_sheet.phtml?sprache=en&study_id=1329) (Münster), les habitants ont même l'interdiction de posséder une voiture particulière ! [MaxLupo](http://www.epomm.eu/index.phtml?ID1=2180&id=2180), l'un des outils du projet européen MAX disponible sur le site Internet d'EPOMM, utilise des exemples réels pour montrer comment et quand le management de la mobilité peut être intégré dans le déroulé des étapes de planification du territoire. Le projet européen MAX a réalis_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 é également une [analyse comparative](/assets/images/2010/11/WP_D_Analysis_common_report.pdf) entre 10 pays européens de l'intégration de la planification des transports durables, du management de la mobilité et de l'urbanisme. Pour en savoir plus, lisez la lettre électronique thématique dédiée au projet MAX et ses résultats en cliquant [ici](http://www.epomm.eu/newsletter/electronic/1109_EPOMM_enews.html). 
 
  
@@ -112,7 +124,11 @@ Notez qu’outre la tarification des effets négatifs des transports par mode, i
 
  
 
+<<<<<<< HEAD
  Malgré l'efficacité de cette tarification de l'usage de la route, cette mesure est très impopulaire et difficile à mettre en oeuvre. Le projet européen [CURACAO](http://www.curacaoproject.eu/) (achevé en 2006) a identifié les barrières à la mise en place de cette mesure et ses solutions possibles. Pour en savoir plus sur l'état de l'art, lisez le rapport en cliquant [ici](http://www.curacaoproject.eu/pdf/CURACAO%20D2%20SoAR%20FINAL%20v1.0.pdf).
+=======
+ Malgré l'efficacité de cette tarification de l'usage de la route, cette mesure est très impopulaire et difficile à mettre en oeuvre. Le projet européen [CURACAO](http://www.curacaoproject.eu/) (achevé en 2006) a identifié les barrières à la mise en place de cette mesure et ses solutions possibles. Pour en savoir plus sur l'état de l'art, lisez le rapport en cliquant [ici](http://www.curacaoproject.eu/pdf/CURACAO%20D2%20SoAR%20FINAL%20v1.0.pdf)._x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 Pour en savoir plus sur les études de cas ayant expérimenté des succès, des échecs ou encore à l'étude, cliquez [ici](http://www.curacaoproject.eu/downloads.php). 
 
  
@@ -150,7 +166,11 @@ COMMERCE et EPOMM ont organisé et financé [le prix européen du meilleur PDE](
 
 Tandis que le premier jour a ciblé les présentations des résultats du projet DELTA, le second jour de conférence a été une journée d'échange de pratiques. Les participants avaient la possibilité de soumettre des « défis ». Ceux sélectionnés sur des problèmes locaux ou régionaux sur les transports ou la mobilité ont été discutés en petits groupes avec des experts venant des 4 coins d'Europe. Les résultats de ces discussions ont constitué des idées et des commentaires intéressants pour la personne ayant posé le « défi » pour la future résolution de son problème. 
 
+<<<<<<< HEAD
 Lors du « café EPOMM », les participants ont sélectionné 2 sujets qui les intéressent ou sur lesquels ils travaillent. Séparés en deux petits gro
+=======
+Lors du « café EPOMM », les participants ont sélectionné 2 sujets qui les intéressent ou sur lesquels ils travaillent. Séparés en deux petits gro_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 upes à nouveau, ces sujets ont servi de point de départ pour une discussion en interne avec modérateur ou des échanges croisés entre groupes. 
 
 Pour plus d'informations sur la conférence, par exemple pour accéder aux présentations, cliquez [ici](http://www.epomm.eu/epomm-network2010/) sur le site Internet dédié.

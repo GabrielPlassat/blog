@@ -3,7 +3,11 @@ layout: post
 title: "PSA, Total, SNCF et Orange s’associent pour soutenir la mobilité durable - Premières pièces d'un puzzle à construire ensemble ?"
 date: 2011-11-14 14:49:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'holoptisme', 'innovation', 'living lab', 'management de la mobilité', 'marketing individualisé', 'pensée complexe']
+=======
+tags: ["citoyen", "collectivit\u00e9", "holoptisme", "innovation", "living lab", "management de la mobilit\u00e9", "marketing individualis\u00e9", "pens\u00e9e complexe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cette [**annonce **](http://auto.nouvelobs.com/actu-auto/20111114.LQA1717/psa-total-sncf-et-orange-s-associent-pour-soutenir-la-mobilite-durable.html)récente est positive pour le secteur des transports et de la mobilité en France. Ainsi, Ecomobilité Ventures disposera d’un capital de 30 millions d’euros afin d’investir dans de jeunes entreprises innovantes.
@@ -66,4 +70,8 @@ Tout en développant et en utilisant [**d'autres critères de jugement**]() d'un
 
  
 
+<<<<<<< HEAD
 "2011-11-14 14:49:44https://transportsdufutur.ademe.fr/2011/11/psa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a.htmlcitoyen|collectivité|holoptisme|innovation|living lab|management de la mobilité|marketing individualisé|pensée complexepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpsa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a2015-07-21 16:36:41
+=======
+"2011-11-14 14:49:44/2011/11/14/psa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a/citoyen|collectivité|holoptisme|innovation|living lab|management de la mobilité|marketing individualisé|pensée complexepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpsa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a2015-07-21 16:36:41
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

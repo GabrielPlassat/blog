@@ -3,7 +3,11 @@ layout: post
 title: "Mon premier apparaît sur tous les modes de transport individuel, mon second vous fait bouger les soirs et les Week-end"
 date: 2013-06-19 10:05:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['artiste', 'assurance', 'citoyen', 'données réelles', 'innovation', 'internet', "lloyd's", 'marche', 'mode doux', 'Pay as You Move', 'UX', 'virtuel']
+=======
+tags: ["artiste", "assurance", "citoyen", "donn\u00e9es r\u00e9elles", "innovation", "internet", "lloyd's", "marche", "mode doux", "Pay as You Move", "UX", "virtuel"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ensemble il pourrait préfigurer les imaginaires des mobilités des décennies à venir.
@@ -54,4 +58,8 @@ Mais il pourrait aussi venir d’un autre domaine, l’assurance santé (lire l'
 
  
 
+<<<<<<< HEAD
 "2013-06-19 10:05:00https://transportsdufutur.ademe.fr/2013/06/mon-premier-apparait-sur-tous-les-modes-de-transport-individuel-mon-second-vous-fait-bouger-les-soir.htmlartiste|assurance|citoyen|données réelles|innovation|internet|lloyd's|marche|mode doux|Pay as You Move|UX|virtuelpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmon-premier-apparait-sur-tous-les-modes-de-transport-individuel-mon-second-vous-fait-bouger-les-soir2015-07-21 16:35:41
+=======
+"2013-06-19 10:05:00/2013/06/19/mon-premier-apparait-sur-tous-les-modes-de-transport-individuel-mon-second-vous-fait-bouger-les-soir/artiste|assurance|citoyen|données réelles|innovation|internet|lloyd's|marche|mode doux|Pay as You Move|UX|virtuelpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmon-premier-apparait-sur-tous-les-modes-de-transport-individuel-mon-second-vous-fait-bouger-les-soir2015-07-21 16:35:41
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

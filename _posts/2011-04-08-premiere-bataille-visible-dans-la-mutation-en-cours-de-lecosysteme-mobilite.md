@@ -3,7 +3,11 @@ layout: post
 title: "Première bataille visible dans la mutation en cours de l'écosystème Mobilité"
 date: 2011-04-08 17:53:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'autopartage', 'collectivité', 'Service de mobilité']
+=======
+tags: ["art de la guerre", "autopartage", "collectivit\u00e9", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans un article paru dans les Echos, *Le syndicat de loueur Ulpro (Ada, Europcar, France Cars) veut obtenir l'annulation par la justice du contrat Autolib', accusé de concurrence déloyale.*

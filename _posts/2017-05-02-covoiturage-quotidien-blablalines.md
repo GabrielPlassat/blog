@@ -3,6 +3,7 @@ layout: post
 title: "BlablaCar arrive dans le covoiturage quotidien avec BlablaLines"
 date: 2017-05-02 07:47:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur numérique des Mobilités et des Logistiques', 'ADEME', 'citoyen', 'collectivité', 'Comment agir pour changer les pratiques ?', 'covoiturage', 'Fabrique des mobilités', 'Usager Client Citoyen Multitude']
 ---
 
@@ -18,4 +19,23 @@ Des standards vont émerger, le covoiturage quotidien deviendra sans doute un se
 
 Concrètement, les deux premiers MVP ont été localisés entre Reims / Chalons en champagne et Toulouse / Montauban. Fin 2017, 10 axes seront mis en oeuvre complétés par des évolutions sur la géolocalisation, le paiement et la synchronisation des profils avec BlablaCar.
 
+=======
+tags: ["Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "ADEME", "citoyen", "collectivit\u00e9", "Comment agir pour changer les pratiques ?", "covoiturage", "Fabrique des mobilit\u00e9s", "Usager Client Citoyen Multitude"]
+---
+
+Nos routes se sont croisées avec Frédéric Mazzella en 2010 pour travailler sur les CEE. BlablaCar n’avait alors qu’une salariée : Laure. Elle distribuait des autocollants à tout le monde et faisait la promotion du covoiturage avec une grande énergie. 500 personnes aujourd’hui développent BlablaCar à travers le monde. En 7 ans, le secteur de la mobilité a bien changé. [**Uber**](http://lafabriquedesmobilites.fr/non-classe-fr/uber-urban-mobility-summit/), Lyft, Didi, Waze se sont aussi déployés, avec des approches spécifiques. Tous explorent maintenant la même frontière : *plusieurs* offres de siège libre en temps réel pour offrir des mobilités quotidiennes concurrentes de la voiture possédée. Le service BlablaCar est donc désormais complété par [**BlablaLines** ](https://blablalines.com/)pour covoiturer au quotidien !_x000D_
+_x000D_
+[![blablalines](http://transportsdufutur.ademe.fr/assets/images/2017/05/blablalines.jpg)](http://transportsdufutur.ademe.fr/assets/images/2017/05/blablalines.jpg)_x000D_
+_x000D_
+_x000D_
+_x000D_
+Plus récemment, il s’agit pour ces acteurs de proposer une complémentarité avec les transports en commun et donc, obligatoirement, de collaborer avec les villes, les collectivités. Il s’agit donc d’une constellation d’innovation à déployer pour résoudre une multitude de verrous : technique, masse critique, financement, incitatif, réplicabilité, scalabilité. En France, pas moins de 10 startups, dont certaines âgées de 5 ans, cherchent à résoudre cette équation. Le covoiturage quotidien se caractérise par un très haut de complexité puisque la masse critique indispensable mais difficile à atteindre, oblige l’opérateur à inventer des incitatifs pour le conducteur et les passagers, à nouer des contacts avec les générateurs de mobilités et récemment à impliquer les territoires dans le cofinancement. La recherche d’un modèle d’affaire reste à ce jour encore très délicat._x000D_
+_x000D_
+Il s’agit en fait d’un nouveau mode de transport à la fois public et privé, individuel et collectif. La Fabrique cherche, modestement, à enrichir cet écosystème avec [**des communs essentiels**](http://wiki.lafabriquedesmobilites.fr/wiki/Acc%C3%A9l%C3%A9rer_le_d%C3%A9ploiement_du_covoiturage_quotidien) pour relier du mieux possible ces services avec les autres acteurs qui pourront, à leur tour, apporter leurs avantages : preuves de covoiturage, mutualisation d’études juridiques, base de données de lieux de covoiturage, incitatifs mutualisés …_x000D_
+_x000D_
+Des standards vont émerger, le covoiturage quotidien deviendra sans doute un service territorial recevant des financements publics, [**peut être via le VT**](http://wiki.lafabriquedesmobilites.fr/wiki/Co-financer_le_covoiturage_via_le_Versement_Transport), tout en étant opéré par des sociétés privées. Ce service alimentera les territoires en données d’intérêt général d’une grande richesse et participera à réduire le nombre de voiture en circulation. Sur les deux prochaines années, au niveau mondial, ce service va concentrer des moyens importants tant le marché visé est énorme. Il s’agira en coordonner des avancées juridiques, techniques, financières en s’adaptant aux conditions locales tout en développant des standards et des solutions réplicables et partiellement scalables. Les meilleures solutions devront pouvoir travailler avec les collectivités sans y passer trop de temps, les aider à ajuster leur transports collectifs publics pour réduire leur dépense grâce aux données générées par les usages et bien sûr nouer avec la multitude une relation riche et constante. Tous les acteurs ont un rôle à jouer dans ce puzzle pour hisser le niveau de complexité, expérimenter en se faisant confiance pour apprendre des usages réels et non des préjugés._x000D_
+_x000D_
+Concrètement, les deux premiers MVP ont été localisés entre Reims / Chalons en champagne et Toulouse / Montauban. Fin 2017, 10 axes seront mis en oeuvre complétés par des évolutions sur la géolocalisation, le paiement et la synchronisation des profils avec BlablaCar._x000D_
+_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 **Les bases de ce gagnant-gagnant pourrait s’inventer en France. Nous avons tous les ingrédients et les bases d’une culture commune :-)**

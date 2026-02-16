@@ -3,7 +3,11 @@ layout: post
 title: "Quels sont les communs\" majeurs de l'écosystème ?\""
 date: 2015-04-13 09:27:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'ADEME', 'communs', 'confiance', 'donnée data', 'Fabrique des mobilités', 'innovation', 'plate-forme', 'Territoire Collectivité Etat Europe']
+=======
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "ADEME", "communs", "confiance", "donn\u00e9e data", "Fabrique des mobilit\u00e9s", "innovation", "plate-forme", "Territoire Collectivit\u00e9 Etat Europe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 “*Dans l’ère qui arrive, le partenariat que l’on a connu de longue date, entre gouvernement et secteur privé pour organiser la vie économique de la société, cèdera la place à un partenariat tripartite dans lequel la gestion des Communs jouera un rôle encore plus grand, que viendront compléter les forces des gouvernements et des marchés*” - [J.Rifkin](http://www.grico.fr/articles/lecture-de-the-zero-marginal-cost-society-the-internet-of-things-the-collaborative-commons-and-the-eclipse-of-capitalism-de-jeremy-rifkin-avril-2014/), Marginal Cost Society.

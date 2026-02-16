@@ -3,7 +3,11 @@ layout: post
 title: "Less is more (133 gCO2/km en moyenne pour 2009)"
 date: 2010-03-16 15:54:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Efficacité énergétique', 'low cost', 'simplicité', 'Véhicule']
+=======
+tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "low cost", "simplicit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après un concours sur ce style sur ce thème (voir **[ici](/2010/02/less-is-more.html)**), il semble que les ventes de véhicules neufs suivent la même tendance, on choisit maintenant des véhicules plus légers, plus petits, moins consommateurs. La moyenne des émissions 2009 de 133 gCO2/km tient bien plus au report vers la gamme inférieure qu'à des innovations technologiques. En effet, les GMP des véhicules du segment énergétique B (voir graphique ci dessous) sont en majorité des moteurs essence utilisant des technologies déjà commercialisées dans les années 90 (turbo, VVT, bloc alu...), en incluant certes les progrès de l'électronique et du post traitement. **Mais alors on arrête le progrès ?**

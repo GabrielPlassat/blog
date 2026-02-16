@@ -3,7 +3,11 @@ layout: post
 title: "Go Mc Do, ceci n'a rien avoir avec les transports ou la logistique. Pourtant cela changera la façon dont nous nous déplacerons."
 date: 2012-02-22 12:55:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['centre commercial', 'citoyen', 'confiance', 'connectivité', 'données réelles', 'internet', 'internet des objets', 'surveillance', 'temporalité']
+=======
+tags: ["centre commercial", "citoyen", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "surveillance", "temporalit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La rencontre Personne / Marchandise change. Les innovations dans ce domaine se multiplient. L'article [**Mobilis in Mobile**](/2012/02/mobilis-in-mobile-la-rencontre-personneproduit-service-se-fera-de-plus-en-plus-dans-en-mouvement.html) présentait un exemple dans une grande surface, Mc Donald's poursuit en expérimentant [**GoMcDo**](http://gomcdo.fr/). Vous commandez partout, vous rencontrez votre repas dans un magasin, et demain ? 

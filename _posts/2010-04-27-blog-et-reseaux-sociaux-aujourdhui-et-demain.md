@@ -3,7 +3,11 @@ layout: post
 title: "Blog et réseaux sociaux, aujourd'hui et demain"
 date: 2010-04-27 17:37:19 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'citoyen', 'données réelles', 'marchandises', 'partage de données', 'transition générationnelle', 'twitter']
+=======
+tags: ["art de la guerre", "citoyen", "donn\u00e9es r\u00e9elles", "marchandises", "partage de donn\u00e9es", "transition g\u00e9n\u00e9rationnelle", "twitter"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans un [article des Echos](http://www.lesechos.fr/journal20100427/lec1_dossier_management/020478509579.htm?xtor=EPR-1007-%5bAlerteTousLesTitres%5d-20100427?xtor=ADI-3214), il est présenté quelques exemples de « prise en compte » des réseaux sociaux. Impossible de ne pas y être pour ces multinationales, mais nous ne sommes qu’au début d’un bouleversement des jeux d’acteurs. La mise en marche de collectif d’usagers, de consommateurs, l’accès à des informations groupées d’incidents, de pannes sur des produits, permettront dans peu de temps de structurer, voir de professionnaliser les actions des consommateurs. Pour de simples questions jusqu’à des actions de lobby. Dans certains cas, comme cela vient d’arriver à Nestlé et Unilever (voir [**ici** ](http://fr.readwriteweb.com/2010/03/30/a-la-une/greenpeace-nestl-sur-facebook-lart-de-guerre/)et [**là**](http://www.greenpeace.org/international/press/releases/nestle-drives-rainforest-destr)), certains consommateurs organisés via des ONG ou d’autres formes d’organisation piloteront certaines décisions stratégiques de l’entreprise. Encore faut-il s’y préparer…

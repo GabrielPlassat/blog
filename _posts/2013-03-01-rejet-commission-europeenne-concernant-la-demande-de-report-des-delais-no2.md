@@ -3,7 +3,11 @@ layout: post
 title: "Rejet Commission européenne concernant la demande de report des délais NO2"
 date: 2013-03-01 15:29:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Europe', 'externalité', 'gouvernance', "qualité de l'air"]
+=======
+tags: ["Europe", "externalit\u00e9", "gouvernance", "qualit\u00e9 de l'air"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le 22 février 2013, la **[Commission européenne a rejeté la demande de report de délais de respect des valeurs limites pour le NO2 soumise par la France le 12 mars 2012](http://ec.europa.eu/environment/air/quality/legislation/pdf/NO2_FR_FR.pdf)**.

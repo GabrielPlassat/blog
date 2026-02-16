@@ -3,7 +3,11 @@ layout: post
 title: "Smart Move"
 date: 2010-03-17 08:57:14 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['BHNS', 'Efficacité énergétique']
+=======
+tags: ["BHNS", "Efficacit\u00e9 \u00e9nerg\u00e9tique"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Lancée début Mars 2010, cette campagne vise à doubler l'utilisation des bus et cars en Europe !

@@ -3,7 +3,11 @@ layout: post
 title: "Transport et fiscalité carbone : quels enjeux ? Quel rôle pour l'Europe ?"
 date: 2010-09-23 17:01:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Europe', 'externalité', 'fiscalité', 'marchandises']
+=======
+tags: ["Europe", "externalit\u00e9", "fiscalit\u00e9", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'Iddri et la Chaire Développement durable de Sciences Po ont organisé **[un atelier](http://www.iddri.org/Activites/Conferences/Transport-et-fiscalite-carbone-quels-enjeux-Quel-role-pour-l)** afin d’illustrer les enjeux de la décarbonation des transports en partant des questions liées à la place du rail. Il vise principalement à cerner les aspects relatifs à l’internalisation des coûts externes, y compris les instruments fiscaux, que pourrait intégrer la future stratégie européenne que la Commission doit rendre publique avant la fin de cette année en vue de la décarbonation des systèmes de transport dans des conditions équitables entre les modes et de l’amorçage des incitations au développement d’infrastructures de transport moins carbonées à l’horizon 2020 - 2030.

@@ -3,7 +3,11 @@ layout: post
 title: "Systèmes de transports intelligents au Japon"
 date: 2011-02-03 10:49:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'collectivité', 'connectivité', 'donnée data', 'données réelles', 'Infrastructure', 'innovation', 'internet', 'internet des objets', 'living lab', 'partage de données', 'partage de la voirie', 'Pay as You Move', 'téléphone', 'TIC', 'VE']
+=======
+tags: ["assistant de mobilit\u00e9", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Infrastructure", "innovation", "internet", "internet des objets", "living lab", "partage de donn\u00e9es", "partage de la voirie", "Pay as You Move", "t\u00e9l\u00e9phone", "TIC", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un [document](http://www.bulletins-electroniques.com/rapports/smm10_046.htm)  d'une centaine de pages élaboré par l'ambassade de France à Tokyo, intitulé  **Les systèmes de Transport Intelligents au Japon" ** présente le développement des systèmes de transport routier intelligents au Japon. 

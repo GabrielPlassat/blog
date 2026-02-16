@@ -3,7 +3,11 @@ layout: post
 title: "Les poids lourds supporteront le coût de la pollution atmosphérique et sonore"
 date: 2010-11-03 10:26:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'données réelles', 'emission', 'Infrastructure', 'marchandises', 'Véhicule']
+=======
+tags: ["donn\u00e9e data", "donn\u00e9es r\u00e9elles", "emission", "Infrastructure", "marchandises", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les ministres de l'UE se sont prononcés aujourd'hui en faveur de nouvelles règles européennes qui autoriseraient les États membres à taxer les poids lourds afin de couvrir le coût de la pollution atmosphérique et sonore. Cette taxe s'ajouterait à celle déjà appliquée pour couvrir les coûts relatifs aux infrastructures. Telle qu'elle est proposée, la révision de la directive «Eurovignette» permettra aux États membres de mieux gérer les problèmes de circulation, en leur laissant la possibilité de moduler les taxes appliquées aux poids lourds en fonction du moment de la journée.

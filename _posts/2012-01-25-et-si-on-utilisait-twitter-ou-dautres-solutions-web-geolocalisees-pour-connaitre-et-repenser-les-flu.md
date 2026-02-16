@@ -3,7 +3,11 @@ layout: post
 title: "Et si on utilisait Twitter (ou d'autres solutions web géolocalisées) pour connaitre et repenser les flux des voyageurs ?"
 date: 2012-01-25 10:09:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'donnée data', 'données réelles', 'holoptisme', 'intelligence collective', 'internet', 'Service de mobilité']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "holoptisme", "intelligence collective", "internet", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le première carte représente le territoire et les infrastructures de Chicago. **Elle traduit le rigide, le minéral, l'immobile. **

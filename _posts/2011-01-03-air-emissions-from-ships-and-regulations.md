@@ -3,7 +3,11 @@ layout: post
 title: "Air Emissions from Ships and regulations"
 date: 2011-01-03 14:41:22 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'gouvernance']
+=======
+tags: ["autorit\u00e9 des transports", "gouvernance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 European Commission's Joint Research Centre (**[JRC](http://www.google.fr/url?sa=t&source=web&cd=1&ved=0CB4QFjAA&url=http%3A%2F%2Fec.europa.eu%2Fdgs%2Fjrc%2Fredirect.cfm%3Foriginal%3D%2F&ei=dtAhTYCrEcmb8QPQ8uTqBQ&usg=AFQjCNFCHPpfErhB4HARGzrPQ1c3I8pPYw&sig2=WjZCIVxSvywvSVjztrvoMA)**) released a new **[reference report]()**" focused on reducing greenhouse gas (GHG) emissions from shipping. The report titled  Regulating Air Emissions from Ships: The State of the Art on Methodologies, Technologies  and Policy Options" provides an overview of methodologies for estimating air emissions from shipping, describes technological solutions and proposes policy options for reducing carbon emissions as well as SOx air pollution in this sector.

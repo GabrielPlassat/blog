@@ -3,7 +3,11 @@ layout: post
 title: "Interventions du Séminaire Mobilités Mutations"
 date: 2014-01-20 09:58:39 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'innovation', 'intelligence collective', 'open innovation', 'pensée complexe', 'plate-forme', "Plateforme d'idées", 'Service de mobilité']
+=======
+tags: ["ADEME", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "innovation", "intelligence collective", "open innovation", "pens\u00e9e complexe", "plate-forme", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Faisant suite à une série d'article sur le séminaire Mobilités Mutations présentant les livrables [**Prospectives** ](/2014/01/seminaire-mobilites-mutations-prospectives-2015-a-2065.html)et Projets, ainsi que les [**défis identifiés**](/2013/12/mur-des-defis.html) pendant le séminaire, toutes les interventions ont été mises en formes et regroupées. Elles sont téléchargeables ainsi que le programme :

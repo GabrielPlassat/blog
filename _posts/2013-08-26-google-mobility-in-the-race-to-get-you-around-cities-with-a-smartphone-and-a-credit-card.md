@@ -3,7 +3,11 @@ layout: post
 title: "Google Mobility : In the race to get you around cities with a smartphone and a credit-card"
 date: 2013-08-26 18:54:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'commuter', 'confiance', 'congestion', 'connectivité', 'covoiturage', 'cybercar', 'donnée data', "économie de l'expérience", 'économie fonctionnalité', 'Efficacité énergétique', 'google', 'internet', 'internet des objets', 'ITS', 'marketing individualisé', 'Service de mobilité', 'waze']
+=======
+tags: ["citoyen", "collectivit\u00e9", "commuter", "confiance", "congestion", "connectivit\u00e9", "covoiturage", "cybercar", "donn\u00e9e data", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "internet", "internet des objets", "ITS", "marketing individualis\u00e9", "Service de mobilit\u00e9", "waze"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La voiture autonome, ce n'est pas pour demain. Trop compliqué, trop cher. Trop de problème juridique à régler. Et puis pourquoi faire ? L'automobile est déjà, en soi, un objet complexe, pourquoi vouloir augmenter encore le niveau de complexité (lire **[Qui est prêt pour augmenter le niveau de complexité ?](/2013/06/bollore-implante-autolib-a-lyon-et-a-bordeaux-mobizen-etada-sassocient-pour-marier-location-et-autopartage-blablacar.html)**) ? Pour quels bénéfices et surtout, pour qui ? Automatisée, oui, Autonome, non. Tel pourrait être le résumé de la bataille qui s'engage dès aujourd'hui. Un scénario fiction avait été rédigé en juillet 2011. Appelé **[Google Mobility Service](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html)**, il est en train de se réaliser, dès aujourd'hui.

@@ -3,7 +3,11 @@ layout: post
 title: "Entre des transports gratuits ou payants, de multiples solutions et un projet de société à construire"
 date: 2012-10-31 20:54:56 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'donnée data', 'Efficacité énergétique', 'emission', 'gouvernance', 'gratuit', 'monnaie complémentaire']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "gouvernance", "gratuit", "monnaie compl\u00e9mentaire"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *« Tout se paie » affirment en cœur les économistes libéraux sur le ton de l’évidence. L’enseignement universitaire véhicule cette vision qui exclut in fine tout désintéressement dans les rapports humains. Pourtant, le rôle central de l’argent dans nos sociétés relève en grande partie de l’idéologie, et pas seulement d’un débat réaliste sur l’efficacité de l’économie [source Le Monde Diplomatique, supplément Octobre 2012]*.
@@ -45,5 +49,9 @@ Le **[GART](http://www.gart.org/S-informer/Publications-du-GART/Avis-du-GART-sur
 
  
 
+<<<<<<< HEAD
 En résumé, l’ère de la transparence totale sur les coûts / bénéfices des transports publics (pour tout
+=======
+En résumé, l’ère de la transparence totale sur les coûts / bénéfices des transports publics (pour tout_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  les modes) arrive. Elle porte les germes d’une mutation des usages en améliorant fortement les expériences vécues par les usagers. Le paiement du titre de transport est, à ce titre, un point central à étudier pour qu’il soit cohérent avec le projet de société véhiculé par l’offre de transports publics. **L’utilisation d’autres vecteurs monétaires complémentaires peut alors se déployer pour rendre visible de nouvelles solidarités et la réduction d’externalités négatives.**

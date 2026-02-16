@@ -3,7 +3,11 @@ layout: post
 title: "Les innovations sociales et les différentes formes d'intelligences collectives"
 date: 2014-06-24 08:55:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'innovation', 'intelligence collective']
+=======
+tags: ["ADEME", "innovation", "intelligence collective"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'ADEME lance un appel d'offres sur ce sujet. Tous les renseignements sont accessibles par ce [**lien**](http://www.boamp.fr/avis/detail/14-93763/officiel).

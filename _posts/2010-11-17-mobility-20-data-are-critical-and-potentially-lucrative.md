@@ -3,7 +3,11 @@ layout: post
 title: "Mobility 2.0 : Data are critical (and potentially lucrative)"
 date: 2010-11-17 11:58:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'confiance', 'connectivité', 'donnée data', 'données réelles', 'sécurité']
+=======
+tags: ["assurance", "confiance", "connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "s\u00e9curit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Creating Markets for Connected Vehicle Data," the latest industry forum was conducted by the **[Center for Automotive Research (CAR]()**), a non-profit research organization dedicated to conducting research on significant issues related to the future direction of the global automotive industry.
@@ -39,7 +43,11 @@ Cross Country's roadside services unit provides accident scene management, vehic
 [![]()]() 
  
 
+<<<<<<< HEAD
 "2010-11-17 11:58:51https://transportsdufutur.ademe.fr/2010/11/mobility-20-data-are-critical-and-potentially-lucrative.htmlassurance|confiance|connectivité|donnée data|données réelles|sécuritépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobility-20-data-are-critical-and-potentially-lucrative2015-07-21 16:37:33margin-right: auto"" title=""Data_us"" /> 
+=======
+"2010-11-17 11:58:51/2010/11/17/mobility-20-data-are-critical-and-potentially-lucrative/assurance|confiance|connectivité|donnée data|données réelles|sécuritépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobility-20-data-are-critical-and-potentially-lucrative2015-07-21 16:37:33margin-right: auto"" title=""Data_us"" /> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  
 
 "

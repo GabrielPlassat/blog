@@ -3,7 +3,11 @@ layout: post
 title: "Plan National de prévention par l’Activité Physique ou Sportive"
 date: 2010-01-05 10:02:31 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', "qualité de l'air", 'Santé', 'Service de mobilité']
+=======
+tags: ["Energie", "qualit\u00e9 de l'air", "Sant\u00e9", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La commission nationale a porté son analyse sur l’ensemble du contexte scientifique étudié notamment dans l’importante expertise collective de l’Inserm, publiée en mars 2008. Elle a organisé son travail d’avril à octobre 2008 autour de 10 réunions plénières et de cent vingt cinq réunions de travail et d’auditions spécifiques. Le rapport complet est accessible **[ici](http://www.sante-sports.gouv.fr/plan-national-de-prevention-par-l-activite-physique-ou-sportive-pnaps.html)**.

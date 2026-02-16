@@ -3,7 +3,11 @@ layout: post
 title: "Quand le citoyen consommateur devient coproducteur, aujourd’hui des disques, des meubles, et demain ?"
 date: 2010-12-07 14:47:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance', 'economie circulaire', 'économie fonctionnalité', 'Efficacité énergétique', 'innovation', 'internet']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans le lignée des living labs (voir **[ici](/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html)**) ou des fab labs (voir **[là](http://fr.wikipedia.org/wiki/Fab_lab)**), des initiatives montrent qu’après le « **[crowdsourcing ](http://fr.wikipedia.org/wiki/Crowdsourcing)**», le « **[crowdfunding ](http://en.wikipedia.org/wiki/Crowd_funding)**» se développe même pour des objets « industriels ».

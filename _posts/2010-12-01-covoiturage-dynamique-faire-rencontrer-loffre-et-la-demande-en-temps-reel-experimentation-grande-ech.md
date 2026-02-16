@@ -3,7 +3,11 @@ layout: post
 title: "Covoiturage dynamique, faire rencontrer l'offre et la demande en temps réel, expérimentation grande échelle à Seattle"
 date: 2010-12-01 09:28:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'covoiturage', 'donnée data', 'données réelles', 'internet', 'iphone', 'partage de la voirie']
+=======
+tags: ["assistant de mobilit\u00e9", "covoiturage", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "internet", "iphone", "partage de la voirie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 AVEGO (déjà identifié **[ici](/2010/02/avego-realtime-ridesharing-for-the-iphone-generation.html)**), a été sélectionné par le WSDOT (Washington State Department of Transporation) pour mettre en oeuvre du covoiturage dynamique sur la route SR520 (115 000 véhicules par jour pour 190 000 passagers). Lapremière phase va déployer 250 conducteurs équipés du système offrant donc 750 sièges libres. Les outils de communication en réseaux sont bien sûr utilisés (iphone, facebook, twitter...). 

@@ -3,7 +3,11 @@ layout: post
 title: "Cisco, Urban Eco Map & Smart Transportation Pricing"
 date: 2010-07-28 15:34:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'connectivité', 'internet']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Déjà abordé dans ce blog ([ici ](/2010/02/personnal-travel-assistant-cisco.html)et [là](/2010/02/interdit-de-surfer-en-conduisant-.html)), **CISCO **poursuit le développement d'outils, comme le Personal Travel Assistant, de démonstrateurs à l'échelle des mégalopoles mondiales, avec des exemples à Séoul et Amsterdam.

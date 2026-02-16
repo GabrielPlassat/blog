@@ -3,7 +3,11 @@ layout: post
 title: "La Bretagne, précurseur d’un nouveau standard de mobilité"
 date: 2010-06-24 10:26:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'connectivité', 'internet', 'living lab', 'open source', 'partage de données', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "internet", "living lab", "open source", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Pourquoi ce défi ? Avec quels atouts ? A quels  horizons ? De quelle manière ?
@@ -98,5 +102,9 @@ Cette démarche systémique impliquant l'ensemble des acteurs, du monde industri
 
  
 
+<<<<<<< HEAD
 Le territoire deviendra un l
+=======
+Le territoire deviendra un l_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 aboratoire vivant (**[living lab](/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html)**) pour les citoyens, les industries, les acteurs publics.

@@ -3,7 +3,11 @@ layout: post
 title: "Les drones aériens arrivent ..."
 date: 2012-06-07 11:50:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'données réelles', 'surveillance']
+=======
+tags: ["donn\u00e9e data", "donn\u00e9es r\u00e9elles", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après sa démonstration sur un drone terrestre roulant (voir [**ici**](/2012/06/en-supprimant-le-conducteur-la-voiture-autonome-change-profondement-le-secteur-des-mobilites.html)), Google utilise des drones aériens pour élaborer les [**cartes 3D**](http://www.reuters.com/article/2012/06/06/us-google-maps-idUSBRE85516020120606) et améliorer Google map.

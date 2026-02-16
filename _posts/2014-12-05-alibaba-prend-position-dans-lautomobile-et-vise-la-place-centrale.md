@@ -3,7 +3,11 @@ layout: post
 title: "ALIBABA prend position dans l'Automobile et vise la place centrale"
 date: 2014-12-05 16:38:27 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'Apple', 'art de la guerre', 'assistant de mobilité', 'Fabrique des mobilités', 'Frost & Sullivan', 'Illich', 'marketing', 'multimodes', 'plate-forme']
+=======
+tags: ["Amazon", "Apple", "art de la guerre", "assistant de mobilit\u00e9", "Fabrique des mobilit\u00e9s", "Frost & Sullivan", "Illich", "marketing", "multimodes", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Opérer les mobilités porte à porte par l'information et le paiement, devenir la plateforme des mobilités multimodales, complexes et modernes. Pour [**Guillaume Pépy**](http://www.lesechos.fr/27/09/2013/LesEchos/21531-078-ECH_--excellence-2020----le-plan-de-guillaume-pepy-pour-la-sncf-de-demain.htm) : *Il ne faut pas laisser Google ou d'autres faire ce magnifique projet à notre place*". En Chine d'abord, "l'autre" pourrait être [**Alibaba**](), à la fois Ebay, Amazon - Amazon Web Service et Google Map. En tout cas, Alibaba s'y emploie sérieusement et s'engage à plusieurs niveaux :
@@ -59,4 +63,8 @@ Devant ces risques et ces opportunités, les territoires jouent un rôle inédit
 
  
 
+<<<<<<< HEAD
 "2014-12-05 16:38:27https://transportsdufutur.ademe.fr/2014/12/alibaba-prend-position-dans-lautomobile-et-vise-la-place-centrale.htmlAmazon|Apple|art de la guerre|assistant de mobilité|Fabrique des mobilités|Frost & Sullivan|Illich|marketing|multimodes|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatalibaba-prend-position-dans-lautomobile-et-vise-la-place-centrale2015-07-21 16:35:27
+=======
+"2014-12-05 16:38:27/2014/12/05/alibaba-prend-position-dans-lautomobile-et-vise-la-place-centrale/Amazon|Apple|art de la guerre|assistant de mobilité|Fabrique des mobilités|Frost & Sullivan|Illich|marketing|multimodes|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatalibaba-prend-position-dans-lautomobile-et-vise-la-place-centrale2015-07-21 16:35:27
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

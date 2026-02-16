@@ -3,7 +3,11 @@ layout: post
 title: "Plate Forme d'information du plan Véhicule Vert Breton"
 date: 2010-09-07 10:08:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['partage de données', "Plateforme d'idées"]
+=======
+tags: ["partage de donn\u00e9es", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Faisant suite à un précédent article détaillant la journée **La Bretagne, précurseur d’un nouveau standard de mobilité !" (voir [ici]()), **[une plate forme ]()est proposée pour accéder à toutes les informations relatives à ce projet régional qui a vocation à diffuser largement l'approche, les méthodes et les outils.

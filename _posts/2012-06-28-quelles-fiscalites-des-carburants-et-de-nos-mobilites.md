@@ -3,7 +3,11 @@ layout: post
 title: "Quelle(s) fiscalité(s) des carburants et de nos mobilités ?"
 date: 2012-06-28 14:45:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'carburant', 'citoyen', 'collectivité', 'données réelles', 'externalité', 'fiscalité', 'gouvernance', 'partage de données', 'Pay as You Move', 'surveillance']
+=======
+tags: ["autorit\u00e9 des transports", "carburant", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "externalit\u00e9", "fiscalit\u00e9", "gouvernance", "partage de donn\u00e9es", "Pay as You Move", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Ce sujet d'actualité doit être traité par une approche multidomaine : bien sûr économique, mais également environnementale par les externalités ([**le guide européen**](http://ec.europa.eu/transport/sustainable/doc/2008_costs_handbook.pdf)), sociale et technologiques. Un [**article** ](http://www.lemonde.fr/idees/article/2012/06/27/trois-propositions-pour-reformer-la-fiscalite-des-carburants_1724588_3232.html)du Monde rédigé par trois professeurs de l'ESG-MS indique 3 propositions : modifier les écarts de fiscalités essence/gazole, avoir une fiscalité progressive en fonction du véhicule et de son usage, et enfin transférer des taxes vers les producteurs.

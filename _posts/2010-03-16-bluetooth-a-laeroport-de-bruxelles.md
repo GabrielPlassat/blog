@@ -3,7 +3,11 @@ layout: post
 title: "Bluetooth à l'aéroport de Bruxelles"
 date: 2010-03-16 09:08:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['bluetooth', 'centre commercial', 'données réelles', 'internet', 'internet des objets']
+=======
+tags: ["bluetooth", "centre commercial", "donn\u00e9es r\u00e9elles", "internet", "internet des objets"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les passagers de **[Brussels Airport](http://www.brusselsairport.be/fr/news/newsItems/361700)** sont depuis ce lundi informés du temps d’attente aux différents postes de contrôle de sûreté grâce à l’utilisation de la technologie Bluetooth présente aujourd’hui dans la majorité des GSM et smartphones. En plaçant des antennes à certains endroits de l’aéroport, il est en effet possible d’évaluer le nombre de voyageurs présents, ainsi que leur vitesse de déplacement, notamment dans les files d’attente, et renforcer ainsi au besoin les effectifs. 

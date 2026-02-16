@@ -3,7 +3,11 @@ layout: post
 title: "GPS, Assistant Personnel de Mobilité et neurophysiologie"
 date: 2011-03-03 10:16:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'connectivité', 'données réelles', 'internet', 'internet des objets', 'partage de données', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Déjà abordé en détail dans la **[MétaNote 10](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**, l’Assistant Personnel de Mobilité (APM) condense, aspire les savoirs nécessaires à notre mobilité multimodale. Il permet d’externaliser, comme nous l’apprends **Michel Serre**, des fonctions cognitives, simplifiant nos décisions, nos changements de modes de transports. Mais cet APM va modifier complètement notre rapport à l’espace, puisque nous serons partout, tout le temps, en « terrain connu ». Donc nos mobilités … 

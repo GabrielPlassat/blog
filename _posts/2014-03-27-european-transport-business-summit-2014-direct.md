@@ -40,6 +40,10 @@ A suivre également sur Twitter, avec ci dessous une image des échanges obtenue
 
  // // ]]> 
 
+<<<<<<< HEAD
 "2014-03-27 10:47:19https://transportsdufutur.ademe.fr/2014/03/european-transport-business-summit-2014-direct.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassateuropean-transport-business-summit-2014-direct2015-07-21 16:35:34js.src=p+"// ]]> 
+=======
+"2014-03-27 10:47:19/2014/03/27/european-transport-business-summit-2014-direct/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassateuropean-transport-business-summit-2014-direct2015-07-21 16:35:34js.src=p+"// ]]> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 "

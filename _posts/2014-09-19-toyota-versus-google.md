@@ -3,7 +3,11 @@ layout: post
 title: "Toyota versus Google ou le dilemme de l'innovateur"
 date: 2014-09-19 10:36:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'cybercar', "économie de l'expérience", 'économie fonctionnalité', 'google', 'innovation', 'intelligence collective', 'marketing', 'Service de mobilité', 'Uber', 'Véhicule']
+=======
+tags: ["art de la guerre", "cybercar", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie fonctionnalit\u00e9", "google", "innovation", "intelligence collective", "marketing", "Service de mobilit\u00e9", "Uber", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cette vidéo identifiée par [**François Bellanger**](http://transit-city.blogspot.fr/2012/09/gran-theft-auto-contre-la-google-car.html) concentre les principaux messages du combat qui s'engage :
@@ -62,7 +66,11 @@ Après avoir fondé Lexus, il se pourrait que Toyota crée, ex-nihilo, une nouve
 
  
 
+<<<<<<< HEAD
 "2014-09-19 10:36:02https://transportsdufutur.ademe.fr/2014/09/toyota-versus-google.htmlart de la guerre|cybercar|économie de l'expérience|économie fonctionnalité|google|innovation|intelligence collective|marketing|Service de mobilité|Uber|Véhiculepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattoyota-versus-google2015-07-21 16:35:29>Pour [**Google**](), l'objectif est clair : "We now have a race for who's going to build the software and services platform that operates driverless cars." (lire également [**la MétaNote N°20, La voiture autonome ou la Chimère**]()).
+=======
+"2014-09-19 10:36:02/2014/09/19/toyota-versus-google/art de la guerre|cybercar|économie de l'expérience|économie fonctionnalité|google|innovation|intelligence collective|marketing|Service de mobilité|Uber|Véhiculepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattoyota-versus-google2015-07-21 16:35:29>Pour [**Google**](), l'objectif est clair : "We now have a race for who's going to build the software and services platform that operates driverless cars." (lire également [**la MétaNote N°20, La voiture autonome ou la Chimère**]()).
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

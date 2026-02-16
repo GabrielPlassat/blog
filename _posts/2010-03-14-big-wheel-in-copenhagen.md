@@ -3,7 +3,11 @@ layout: post
 title: "Big wheel in Copenhagen"
 date: 2010-03-14 22:22:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'données réelles', 'internet', 'internet des objets', 'MIT', 'mode doux', 'réseaux', 'Santé']
+=======
+tags: ["connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "MIT", "mode doux", "r\u00e9seaux", "Sant\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [youtube http://www.youtube.com/watch?v=S7y3qIQu3Gc&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1]

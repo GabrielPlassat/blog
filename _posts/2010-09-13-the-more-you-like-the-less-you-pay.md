@@ -3,7 +3,11 @@ layout: post
 title: "The more you like, the less you pay"
 date: 2010-09-13 10:31:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['internet', 'réseaux', 'transition générationnelle']
+=======
+tags: ["internet", "r\u00e9seaux", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[Skoda ](http://www.facebook.com/Generous.Skoda#!/Generous.Skoda?v=app_145560445477650)**(Belgique) met en vente sur Facebook une **[Fabia Rock](http://www.fabia-ilike.be/home.php?lang=fr) au prix que VOUS allez décider. **1 personne aime" sur la page Škoda Belgique et c'est 1 euro de moins sur la Fabia Rock !
@@ -17,4 +21,8 @@ tags: ['internet', 'réseaux', 'transition générationnelle']
 
 Cette communication d'un genre "nouveau" permet d'accroître sa renommée sur les réseaux sociaux, d'acquérir une base de "fans" et traduit une nouvelle forme de valorisation financière d'un réseau. Mais tout cela fonctionne dans les deux sens ... problèmes sur **[Renault]()**, **[Peugeot]()**, ...
 
+<<<<<<< HEAD
 "2010-09-13 10:31:53https://transportsdufutur.ademe.fr/2010/09/the-more-you-like-the-less-you-pay.htmlinternet|réseaux|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatthe-more-you-like-the-less-you-pay2015-07-21 16:37:39
+=======
+"2010-09-13 10:31:53/2010/09/13/the-more-you-like-the-less-you-pay/internet|réseaux|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatthe-more-you-like-the-less-you-pay2015-07-21 16:37:39
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "Comment explorer les frontières de l’innovation ?"
 date: 2015-07-21 16:35:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance', 'cygne noir', 'donnée data', 'Fabrique des mobilités', 'google', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'multimodes', 'multitude', 'partage de données', 'Service de mobilité']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance", "cygne noir", "donn\u00e9e data", "Fabrique des mobilit\u00e9s", "google", "holoptisme", "innovation", "intelligence collective", "internet", "multimodes", "multitude", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Les 100 premières GoogleCars vont être produites. Ces objets roulants nous projettent une certaine image du futur. La science-fiction nous l’avait plusieurs fois décrit, Google le fait. Il nous reste peu de temps avant que [Google Mobility](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html) ne domine.**

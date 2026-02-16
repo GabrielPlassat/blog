@@ -3,7 +3,11 @@ layout: post
 title: "Un nouveau service de mobilité pour les zones peu denses, quand l'accès aux données décuple les possibilités"
 date: 2010-11-15 08:39:45 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'collectivité', 'commuter', 'confiance', 'connectivité', 'internet', 'partage de données', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "collectivit\u00e9", "commuter", "confiance", "connectivit\u00e9", "internet", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un programme de recherche anglais vient d'être lancé pour développer un logiciel permettant de faire rencontrer l'offre et la demande dans les zones peu denses en cumulant tous les modes de transports: public, privé, collectif, individuel. Finalement, un siège libre est un siège libre ... Ce programme est inclus dans le très intéressant **[dot.rural](http://www.dotrural.ac.uk/new-project-launched-match-making-technology-transport)**. 
@@ -40,4 +44,8 @@ Researchers plan to engage with a rural community who would input into the desig
 
 Cette idée d'une place de marché des sièges libres, de rendre l'accès à tous les sièges libres aussi simples et rapides que possible est également détaillé **[ici ]()**et **[là]()**. Elle se concrétise dans ce projet. Mais quelle **[gouvernance ]()**sera associée à cet outil ?
 
+<<<<<<< HEAD
  "2010-11-15 08:39:45https://transportsdufutur.ademe.fr/2010/11/un-nouveau-service-de-mobilite-pour-les-zones-peu-denses-quand-lacces-aux-donnees-decuple-les-possib.htmlassistant de mobilité|collectivité|commuter|confiance|connectivité|internet|partage de données|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatun-nouveau-service-de-mobilite-pour-les-zones-peu-denses-quand-lacces-aux-donnees-decuple-les-possib2015-07-21 16:37:34
+=======
+ "2010-11-15 08:39:45/2010/11/15/un-nouveau-service-de-mobilite-pour-les-zones-peu-denses-quand-lacces-aux-donnees-decuple-les-possib/assistant de mobilité|collectivité|commuter|confiance|connectivité|internet|partage de données|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatun-nouveau-service-de-mobilite-pour-les-zones-peu-denses-quand-lacces-aux-donnees-decuple-les-possib2015-07-21 16:37:34
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

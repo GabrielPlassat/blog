@@ -3,7 +3,11 @@ layout: post
 title: "Seoul U smart Way\"\""
 date: 2010-07-09 12:11:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'cité', 'collectivité', 'cybercar', 'Efficacité énergétique', 'Infrastructure', 'partage de la voirie', 'Pay as You Move']
+=======
+tags: ["autorit\u00e9 des transports", "cit\u00e9", "collectivit\u00e9", "cybercar", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure", "partage de la voirie", "Pay as You Move"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**[les échos 06/07/10](http://www.lesechos.fr/info/metiers/020636561006-la-coree-du-sud-veut-passer-du-green-au-smart-.htm)**] L'autoroute sera souterraine et proposera une gestion automatique du trafic à une vitesse prévue de 30 kilomètres-heure. Le « U-Smart Way », c'est le projet fou de Séoul, celui qui, moyennant un investissement de 11.200 milliards de wons (7,51 milliards d'euros), entièrement financé par le privé, doit contribuer à faire basculer la cité dans une nouvelle ère. Objectif : réguler la circulation des véhicules tout en garantissant de relier deux points de la capitale coréenne en moins de trente minutes. Une fois descendu sur l'axe routier, **le véhicule sera autoguidé et donc pris en charge**. Pas moins de 700 kilomètres de voies sur six axes vont être creusés pour le projet. La mise en service est prévue en 2017 pour la première tranche, puis en 2020 pour l'ensemble du réseau. 

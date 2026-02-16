@@ -3,7 +3,11 @@ layout: post
 title: "DS5, ultra low cost et Toyota Fun Vii (future mobility drive)"
 date: 2011-11-29 11:38:36 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'cybercar', 'données réelles', 'économie fonctionnalité', 'Efficacité énergétique', 'emploi', 'low cost', 'Service de mobilité', 'Tata nano', 'Véhicule', 'véhicule propre']
+=======
+tags: ["connectivit\u00e9", "cybercar", "donn\u00e9es r\u00e9elles", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emploi", "low cost", "Service de mobilit\u00e9", "Tata nano", "V\u00e9hicule", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Alors que Citroën lance sa DS5, Renault annonce le développement de véhicule dit ultra low cost" et Toyota présente sa vision 20XX avec Fun Vii. Ces 3 approches confirment les tendances majeures identifiées il y a maintenant [**plus de 3 ans**](). Une scission majeure s'opère entre :
@@ -30,7 +34,11 @@ Par exemple, Car2Go utilise des smarts thermiques (légèrement adaptés pour un
 
 Tout reste à inventer au croisement de l'ultra low cost, des services de mobilité et du cybercar... Le luxe à la française pourrait être l'industrialisation de services de mobilité performants, exploitant un garage virtuel de véhicules réels, dont la plupart serait simple & fontionnel, certains ultra low cost, configurables aux besoins, adaptables à chaque situation.
 
+<<<<<<< HEAD
 "2011-11-29 11:38:36https://transportsdufutur.ademe.fr/2011/11/ds5-ultra-low-cost-et-toyota-fun-vii-future-mobility-drive.htmlconnectivité|cybercar|données réelles|économie fonctionnalité|Efficacité énergétique|emploi|low cost|Service de mobilité|Tata nano|Véhicule|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatds5-ultra-low-cost-et-toyota-fun-vii-future-mobility-drive2015-07-21 16:36:40>Et si les véhicules Ultra Low Cost de Renault étaient un composant d'un système de mobilité repensé, ouvrant des opportunités inédites. Apple mène conjointement le hard (objet fonctionnel), le soft (les outils serviciels) et le contenu (l'expérience client). Le consommateur entrerait dans un Univers de mobilité utilisant majoritairement des objets fonctionnels portés par des services à haute valeur ajoutée. Ces services seront forcément localisés en France à la différence des objets.
+=======
+"2011-11-29 11:38:36/2011/11/29/ds5-ultra-low-cost-et-toyota-fun-vii-future-mobility-drive/connectivité|cybercar|données réelles|économie fonctionnalité|Efficacité énergétique|emploi|low cost|Service de mobilité|Tata nano|Véhicule|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatds5-ultra-low-cost-et-toyota-fun-vii-future-mobility-drive2015-07-21 16:36:40>Et si les véhicules Ultra Low Cost de Renault étaient un composant d'un système de mobilité repensé, ouvrant des opportunités inédites. Apple mène conjointement le hard (objet fonctionnel), le soft (les outils serviciels) et le contenu (l'expérience client). Le consommateur entrerait dans un Univers de mobilité utilisant majoritairement des objets fonctionnels portés par des services à haute valeur ajoutée. Ces services seront forcément localisés en France à la différence des objets.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

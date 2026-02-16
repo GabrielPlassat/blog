@@ -3,7 +3,11 @@ layout: post
 title: "Charte Objectif CO2, les transporteurs s'engagent"
 date: 2011-05-06 17:02:43 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Efficacité énergétique', 'emission', 'Energie', 'marchandises', 'multimodes']
+=======
+tags: ["ADEME", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "marchandises", "multimodes"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[La charte Objectif CO2](http://www2.ademe.fr/servlet/KBaseShow?sort=-1&cid=96&m=3&catid=22274)** s'inscrit dans une démarche globale de lutte contre le changement climatique et plus précisément de réduction des émissions de CO2, en phase avec les conclusions du Grenelle de l’Environnement.

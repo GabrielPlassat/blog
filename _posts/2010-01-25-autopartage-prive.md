@@ -3,7 +3,11 @@ layout: post
 title: "Autopartage privé"
 date: 2010-01-25 10:05:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'Service de mobilité', 'Véhicule']
+=======
+tags: ["autopartage", "Service de mobilit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[ADETEC](http://www.adetec-deplacements.com/)** a réalisé une étude (disponible **[ici](/assets/images/2010/01/autopartage.pdf)**) dans le cadre du PREDIT suivie par l'ADEME et le MEEDDM. L’autopartage dans la sphère privée est la mise en commun d’un ou plusieurs véhicules, utilisés par des amis, des voisins ou des proches pour des trajets différents à des moments différents. Il se distingue des services d’autopartage, qui sont des systèmes de location de courte durée, gérés par une entreprise ou une association et réservés aux personnes abonnées au service.
@@ -59,7 +63,11 @@ Seulement 4 autopartages sur 20 fonctionnent sous statut associatif. Les 16 autr
 
  
 
+<<<<<<< HEAD
 Les frais sont partagés de manière très variable. Dans 10 groupes, les utilisateurs et le propriétaire du véhicule partagent tous les frais. Dans 6 autres, seulement certaines charges sont partagées. Dans 3 autres, les utilisateurs ne paient que l’essence. Dans tous les cas, les modalités retenues satisfont les intéressés, car d’autres échanges (matériels, sous forme de services ou informels) équilibrent la relation. On observe par ailleurs que, par rapport au prêt de véhicule, l’autopartage permet de lever le tabou du coût de la voiture, les propriétaires et les utilisateurs trouvant tous avantage à fonctionner avec le « juste prix ». La gestion de l’autopartage prend généralement moins d’une demi-heure par mois. Cette gestion est assurée bénévolement, le plus souvent par le propriétaire du véhicule. Aucune compagnie d’assurances ne propose de contrat adapté à l’autopartage dans la sphère privée. Il en résulte des difficultés pour faire figurer les noms de tous les conducteurs sur le contrat et, surtout, des conséquences sérieuses en terme de malus, en cas d’accident responsable. En effet, le malus est affecté au véhicule et non au conducteur. Si un utilisateur du véhicule a un accident responsable, le malus peut avoir des répercussions pendant plus de 20 ans et engendrer un surcoût cumulé pouvant atteindre 2 000 €, à la charge du propriétaire du véhicule. Peu de groupes d’autopartage ont réfléchi à ces conséqu
+=======
+Les frais sont partagés de manière très variable. Dans 10 groupes, les utilisateurs et le propriétaire du véhicule partagent tous les frais. Dans 6 autres, seulement certaines charges sont partagées. Dans 3 autres, les utilisateurs ne paient que l’essence. Dans tous les cas, les modalités retenues satisfont les intéressés, car d’autres échanges (matériels, sous forme de services ou informels) équilibrent la relation. On observe par ailleurs que, par rapport au prêt de véhicule, l’autopartage permet de lever le tabou du coût de la voiture, les propriétaires et les utilisateurs trouvant tous avantage à fonctionner avec le « juste prix ». La gestion de l’autopartage prend généralement moins d’une demi-heure par mois. Cette gestion est assurée bénévolement, le plus souvent par le propriétaire du véhicule. Aucune compagnie d’assurances ne propose de contrat adapté à l’autopartage dans la sphère privée. Il en résulte des difficultés pour faire figurer les noms de tous les conducteurs sur le contrat et, surtout, des conséquences sérieuses en terme de malus, en cas d’accident responsable. En effet, le malus est affecté au véhicule et non au conducteur. Si un utilisateur du véhicule a un accident responsable, le malus peut avoir des répercussions pendant plus de 20 ans et engendrer un surcoût cumulé pouvant atteindre 2 000 €, à la charge du propriétaire du véhicule. Peu de groupes d’autopartage ont réfléchi à ces conséqu_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ences financières. Toutefois, la plupart d’entre eux pensent qu’ils trouveraient un arrangement amiable si un accident responsable survenait. Le véhicule est réservé par téléphone, de vive voix ou par mail, suivant les cas. Il est assez rare que deux autopartageurs aient besoin du véhicule en même temps (2 à 3 fois par an, en moyenne). Si tel est le cas, une solution amiable est généralement trouvée. La plupart des groupes d’autopartage utilisent un carnet de bord dans lequel sont notés à chaque utilisation la date, le nom de l’utilisateur et le kilométrage de départ et d’arrivée.
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "ITS in urban area - European Commission"
 date: 2010-06-17 13:05:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'Ertico', 'Europe', 'internet', 'partage de données', 'TIC']
+=======
+tags: ["Energie", "Ertico", "Europe", "internet", "partage de donn\u00e9es", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Feb 2010, Two new Directorates-General have been created: DG Energy (ENER) and DG Climate Action (CLIM). The Energy DG consists of the departments in the former Transport and Energy DG dealing with energy issues and of the Task Force Energy which will be transferred from the External Relations DG. The position of Director-General will be assumed by Philip Lowe, a British national, currently Director-General in DG Competition. The departments responsible for transport policy will remain in the renamed Mobility and Transport **[DG (MOVE)](http://ec.europa.eu/transport/index_en.htm)**. The Climate Action DG will be created from the relevant activities in DG Environment, the activities in the External Relations DG related to international negotiations on climate change and the activities in the Enterprise and Industry DG related to climate change. Jos Delbeke, a Belgian national and currently Deputy Director-General in the Environment DG, has been appointed Director-General of the Climate Action DG.

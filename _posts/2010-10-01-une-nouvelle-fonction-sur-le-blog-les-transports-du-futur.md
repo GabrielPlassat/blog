@@ -3,7 +3,11 @@ layout: post
 title: "Une nouvelle fonction sur le blog Les Transports du Futur\"\""
 date: 2010-10-01 14:13:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'open innovation']
+=======
+tags: ["ADEME", "open innovation"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un flux est maintenant disponible, sur la colonne de gauche (**[Flux Plateforme](/plateformetdf/)**), à partir de la plateforme collaborative du même nom (**[http://transportsdufutur.ademe.fr](http://transportsdufutur.ademe.fr)**). Cette plateforme a accès restreint, réalisée par I-Nova, permet de partager des idées innovantes, de proposer des commentaires, de rebondir et compléter des idées existantes. Un moteur de corrélation interne vous propose des idées proches de celle déposée vous permettant ainsi de tisser des liens entre solutions et entre acteurs.

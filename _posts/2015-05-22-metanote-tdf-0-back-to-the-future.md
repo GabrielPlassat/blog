@@ -3,7 +3,11 @@ layout: post
 title: "MétaNote TdF 0 - Back to the Future"
 date: 2015-05-22 22:58:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'allégement', 'assistant de mobilité', 'assurance', 'citoyen', 'Comment agir pour changer les pratiques ?', 'donnée data', 'E.Musk', 'économie du quaternaire', 'économie fonctionnalité', 'Fabrique des mobilités', 'innovation', 'Que sait-on de nos mobilités ?', 'Service de mobilité', 'véhicule mono-usage']
+=======
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "all\u00e9gement", "assistant de mobilit\u00e9", "assurance", "citoyen", "Comment agir pour changer les pratiques ?", "donn\u00e9e data", "E.Musk", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Fabrique des mobilit\u00e9s", "innovation", "Que sait-on de nos mobilit\u00e9s ?", "Service de mobilit\u00e9", "v\u00e9hicule mono-usage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les bases de cette première MétaNote, l'origine, ont été rédigées en 2008 et l'article publié sur ce blog à son ouverture en 2009. Nourrie de nombreuses lectures et d'échanges internes à l'ADEME, elle est à l'origine même de ce blog. 

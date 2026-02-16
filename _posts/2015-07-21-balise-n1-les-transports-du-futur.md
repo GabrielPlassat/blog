@@ -3,7 +3,11 @@ layout: post
 title: "[balise N°1] Les Transports du Futur"
 date: 2015-07-21 16:35:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'Apple', 'assistant de mobilité', 'Assistant Personnel de Consommation', 'citoyen', 'collectivité', 'commuter', 'confiance', 'connectivité', 'covoiturage', 'donnée data', 'données réelles', 'economie circulaire', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'google', 'gouvernance', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'living lab', 'marchandises', 'monnaie complémentaire', 'multimodes', 'partage de données', 'Service de mobilité', 'véhicule propre', 'waze']
+=======
+tags: ["Amazon", "Apple", "assistant de mobilit\u00e9", "Assistant Personnel de Consommation", "citoyen", "collectivit\u00e9", "commuter", "confiance", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "living lab", "marchandises", "monnaie compl\u00e9mentaire", "multimodes", "partage de donn\u00e9es", "Service de mobilit\u00e9", "v\u00e9hicule propre", "waze"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après plus de 800 articles, tentons une première balise ... à laquelle se raccrocher.

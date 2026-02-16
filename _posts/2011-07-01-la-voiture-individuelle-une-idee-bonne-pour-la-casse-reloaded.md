@@ -3,7 +3,11 @@ layout: post
 title: "La voiture individuelle (une idée bonne pour la casse) reloaded"
 date: 2011-07-01 10:44:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'innovation', 'pensée complexe']
+=======
+tags: ["citoyen", "collectivit\u00e9", "innovation", "pens\u00e9e complexe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Reprenant ci dessous les conclusions du très complet **[article](http://owni.fr/2011/06/28/la-voiture-individuelle-une-idee-bonne-pour-la-casse/)** de B.Marzloff de Chronos sur la voiture individuelle : *Les automobilistes sont plongés dans de multiples contradictions, enkystés dans un siècle de pratiques assidues d’un système automobile qui a façonné leur quotidien et redessiné leur territoire. Résultats ? Ils évaluent leur budget automobile à moins de la moitié de sa réalité. Ils se réclament des valeurs de la liberté automobile, oubliant le stress des congestions. Ils célèbrent la résidence à la campagne en se masquant les budgets temps, pollution et économie des servitudes automobiles. Et soulignent, à juste titre, l’absence d’alternatives. Ils réclament furieusement moins de voitures, au moins en ville, depuis longtemps mais persistent dans son usage. En 1998 déjà, La vie du rail titrait en double page, « Les Français sont croyants mais pas pratiquants. » Si les dimensions utilitaires de la voiture prennent le pas sur ses valeurs statutaires et ses promesses imaginaires, tout reste à faire. Mais il semble bien que le « peak car » ne soit plus loin*."

@@ -3,7 +3,11 @@ layout: post
 title: "Prix du carburant et Obésité - étude aux USA"
 date: 2012-08-30 09:57:08 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'carburant', 'citoyen', 'confiance', 'données réelles', 'internet', 'marche', 'mode doux', 'obésité', 'prix carburant']
+=======
+tags: ["assurance", "carburant", "citoyen", "confiance", "donn\u00e9es r\u00e9elles", "internet", "marche", "mode doux", "ob\u00e9sit\u00e9", "prix carburant"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Pour Dr. Charles Courtemanche, l'augmentation de l'obésité dans les années 90-2000 est fortement liée au faible prix du carburant ayant entraîné une augmentation des distances parcourues en véhicule. En conséquence, cet économiste de l'Université de Caroline du Nord a estimé (voir [**étude**](http://onlinelibrary.wiley.com/doi/10.1111/j.1465-7295.2009.00266.x/abstract;jsessionid=A8536852F2D0D6C4D72C72A63142D6BA.d03t02)) qu'en augmentant le prix du carburant d'un dollar, cela pourrait permettre de réduire le taux d'obesité de 10% et d'économiser 11 Milliards de dollar. 
@@ -25,4 +29,8 @@ En prévoyant une augmentation du prix des carburant, il anticipe une baisse de 
 
  
 
+<<<<<<< HEAD
  "2012-08-30 09:57:08https://transportsdufutur.ademe.fr/2012/08/prix-du-carburant-et-obesite-etude-aux-usa.htmlassurance|carburant|citoyen|confiance|données réelles|internet|marche|mode doux|obésité|prix carburantpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatprix-du-carburant-et-obesite-etude-aux-usa2015-07-21 16:36:28
+=======
+ "2012-08-30 09:57:08/2012/08/30/prix-du-carburant-et-obesite-etude-aux-usa/assurance|carburant|citoyen|confiance|données réelles|internet|marche|mode doux|obésité|prix carburantpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatprix-du-carburant-et-obesite-etude-aux-usa2015-07-21 16:36:28
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "Une banque investit 25 millions dans des Vélos en Libre Service et des autoroutes pour vélo"
 date: 2010-06-24 10:55:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['banque', 'données réelles', 'Infrastructure', 'internet', 'vélo']
+=======
+tags: ["banque", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [](/assets/images/old/6a0120a66d2ad4970b0133f1b84f1c970b-pi.gif) 

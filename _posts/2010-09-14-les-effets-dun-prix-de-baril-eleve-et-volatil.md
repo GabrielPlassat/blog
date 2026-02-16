@@ -3,7 +3,11 @@ layout: post
 title: "Les effets d'un prix de baril élevé et volatil"
 date: 2010-09-14 16:00:39 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'pétrole']
+=======
+tags: ["Energie", "p\u00e9trole"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Publié le jour anniversaire des cinquante ans de l'OPEP, ce rapport fait le point sur le rôle du pétrole dans l'économie française.

@@ -3,7 +3,11 @@ layout: post
 title: "Transports & Mobilités, fais toi-même ta prospective 2050 ..."
 date: 2013-10-09 09:29:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'autorité des transports', 'cité', 'citoyen', 'collectivité', 'commuter', 'covoiturage', 'Efficacité énergétique', 'gouvernance', 'innovation', 'management de la mobilité', 'périurbain']
+=======
+tags: ["ADEME", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "covoiturage", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "innovation", "management de la mobilit\u00e9", "p\u00e9riurbain"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Développé pour travailler sur **[les visions 2030-2050](/2012/11/contribution-de-lademe-aux-visions-energetiques-2030-2050.html)**, un outil de prospective paramétrable est maintenant opérationnel. Il porte à la fois sur le transport de marchandises et les mobilités des personnes sur tous les modes dans 3 types de territoires (urbain, périurbain et longues distances) en intégrant les technologies des véhicules et les usages, notamment le remplissage des véhicules.

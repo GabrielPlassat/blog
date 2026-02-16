@@ -3,7 +3,11 @@ layout: post
 title: "Une représentation graphique des liens entre acteurs pour electric vehicle\"\""
 date: 2010-10-17 14:46:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['réseaux', 'VE', 'web2.0']
+=======
+tags: ["r\u00e9seaux", "VE", "web2.0"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le site **[Silobreaker ](http://www.silobreaker.com)**permet, entre autre, des représentations graphiques de liens entre acteurs à partir de mots clés, ainsi que l'identifications des principaux points géographiques ou des tendances d'articles sur le web. Un exemple ci dessous pour "electric vehicle" :

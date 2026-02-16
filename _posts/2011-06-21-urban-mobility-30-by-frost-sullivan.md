@@ -3,7 +3,11 @@ layout: post
 title: "Urban Mobility 3.0 by Frost & Sullivan"
 date: 2011-06-21 11:50:45 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['commuter', 'connectivité', 'économie fonctionnalité', 'Infrastructure', 'innovation', 'marketing individualisé', 'multimodes', 'partage de données', 'Service de mobilité', 'transition générationnelle']
+=======
+tags: ["commuter", "connectivit\u00e9", "\u00e9conomie fonctionnalit\u00e9", "Infrastructure", "innovation", "marketing individualis\u00e9", "multimodes", "partage de donn\u00e9es", "Service de mobilit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Frost & Sullivan organisait les 15/16 Juin une conférence sur le sujet. Tous les ingrédients ont été évoqués : changement de comportement des consommateurs, multimodalité, rôle des données, économie de la fonctionnalité, rôle des TIC pour connecter véhicule-infrastructure et énergie, arrivée d'intégrateurs. De nombreuses opportunités décrites mais peu de risques identifiés ...**

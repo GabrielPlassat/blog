@@ -3,7 +3,11 @@ layout: post
 title: "Mobilités, conduire le changement avec les projets financés par les Investissements d'Avenir"
 date: 2013-11-19 16:15:11 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'autorité des transports', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'covoiturage', 'donnée data', 'économie fonctionnalité', 'Efficacité énergétique', 'emission', 'emploi', 'Energie', 'gouvernance', 'Infrastructure', 'innovation', 'internet', 'management de la mobilité', 'marchandises', 'marketing', 'mode doux', 'multimodes', 'open innovation', 'plate-forme', 'Service de mobilité', 'stationnement']
+=======
+tags: ["ADEME", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "emploi", "Energie", "gouvernance", "Infrastructure", "innovation", "internet", "management de la mobilit\u00e9", "marchandises", "marketing", "mode doux", "multimodes", "open innovation", "plate-forme", "Service de mobilit\u00e9", "stationnement"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les investissements d’avenir, opérés par l’ADEME soutiennent plusieurs projets visant à améliorer les conditions de mobilité et l'utilisation rationnelle de l'énergie. Tous ces projets sont détaillés sur un [**blog spécifique**](/les_transports_du_futur_l/). Lors d'[**Ecocity**](http://www.ecocity-2013.com/fr/le-plateau-tv), aidé par [**julien de Labaca**](http://www.linkedin.com/pub/julien-de-labaca/16/817/483) (consultant), l'ADEME a rassemblé ces porteurs de projets, pour partager leur point de vue, pour amplifier les changements en cours.

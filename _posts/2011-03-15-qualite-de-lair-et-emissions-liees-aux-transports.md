@@ -3,7 +3,11 @@ layout: post
 title: "Qualité de l'air et Emissions liées aux transports"
 date: 2011-03-15 11:16:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'collectivité', 'données réelles', 'Europe', 'gouvernance', 'management de la mobilité', 'partage de données', "qualité de l'air", 'véhicule propre']
+=======
+tags: ["autorit\u00e9 des transports", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "Europe", "gouvernance", "management de la mobilit\u00e9", "partage de donn\u00e9es", "qualit\u00e9 de l'air", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La qualité de l’air et les émissions liées aux transports sont de plus en plus interdépendantes. Beijing vient d’annoncer récemment la mise en œuvre d’une série de mesure : norme Euro5 pour les véhicules légers, loterie pour attribuer des plaques d’immatriculation (et donc réduire le parc en circulation), zone environnementale dans certains quartiers. En Europe, plusieurs informations récentes montrent que nous progressons en terme de connaissances et de solutions. Il nous reste néanmoins à connaître les émissions réelles des véhicules, à intégrer ces données dans les modèles de chimie de l’atmosphère, à établir des outils de management et de tarification des mobilités basés sur ces données…
@@ -75,4 +79,8 @@ TML a constaté que les impôts et prélèvements actuels ne couvraient que part
 
 Le rapport final est disponible sur le site Internet de l’agence environnementale flamande (en néerlandais) [www.milieurapport.be/nl/publicaties/Onderzoeksrapporten]().
 
+<<<<<<< HEAD
 "2011-03-15 11:16:34https://transportsdufutur.ademe.fr/2011/03/qualite-de-lair-et-emissions-liees-aux-transports.htmlautorité des transports|collectivité|données réelles|Europe|gouvernance|management de la mobilité|partage de données|qualité de l'air|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatqualite-de-lair-et-emissions-liees-aux-transports2015-07-21 16:37:26
+=======
+"2011-03-15 11:16:34/2011/03/15/qualite-de-lair-et-emissions-liees-aux-transports/autorité des transports|collectivité|données réelles|Europe|gouvernance|management de la mobilité|partage de données|qualité de l'air|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatqualite-de-lair-et-emissions-liees-aux-transports2015-07-21 16:37:26
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

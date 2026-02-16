@@ -3,7 +3,11 @@ layout: post
 title: "Le téléphone te guidera ..."
 date: 2010-01-28 14:51:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', "guide d'achat", 'téléphone', 'TIC']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "guide d'achat", "t\u00e9l\u00e9phone", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Fournir l'information (la bonne) au bon moment ... L'idée a déjà été détaillée dans plusieurs notes (**[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)** et **[là](/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse.html)**). Un exemple d'application qui existe !

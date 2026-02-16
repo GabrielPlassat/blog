@@ -3,7 +3,11 @@ layout: post
 title: "Réduction des émissions de gaz à effet de serre pour les camions #GHG #HDV"
 date: 2012-01-27 09:56:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['donnée data', 'données réelles', 'Efficacité énergétique']
+=======
+tags: ["donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ICCT and European Commission work on reduction and regulation of GHG from heavy duty vehicle. Objectives are to quantifiy potential of technology, develop a standard and, if possible, worldwide regulation procedure. Following study from TIAX and videos are interesting :
@@ -39,7 +43,11 @@ A thorough examination of the various characteristics and operating patterns of 
 
  
 
+<<<<<<< HEAD
  View more [documents]() from [Les transports du futur](). "2012-01-27 09:56:21https://transportsdufutur.ademe.fr/2012/01/reduction-des-emissions-de-gaz-a-effet-de-serre-pour-les-camions-ghg-hdv.htmldonnée data|données réelles|Efficacité énergétiquepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatreduction-des-emissions-de-gaz-a-effet-de-serre-pour-les-camions-ghg-hdv2015-07-21 16:36:37>[Icct ghg reduction potential final]() 
+=======
+ View more [documents]() from [Les transports du futur](). "2012-01-27 09:56:21/2012/01/27/reduction-des-emissions-de-gaz-a-effet-de-serre-pour-les-camions-ghg-hdv/donnée data|données réelles|Efficacité énergétiquepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatreduction-des-emissions-de-gaz-a-effet-de-serre-pour-les-camions-ghg-hdv2015-07-21 16:36:37>[Icct ghg reduction potential final]() 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

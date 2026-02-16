@@ -3,7 +3,11 @@ layout: post
 title: "CicLAvia in L.A."
 date: 2010-06-28 17:56:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'mode doux', 'vélo']
+=======
+tags: ["Infrastructure", "mode doux", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 This fall, on September 12, seven miles of Los Angeles streets will be closed to cars and open for walking, cycling, shopping, and general fun. It will be a one-day test to see if [Ciclovia](http://en.wikipedia.org/wiki/Ciclov%C3%ADa)—a weekly car-free street festival that started in Colombia—can be imported to Los Angeles
@@ -76,5 +80,9 @@ The ideal CicLAvia route should connect diverse and dense neighborhoods with lim
 
 *Contact*
 
+<<<<<<< HEAD
 To learn more about how you can get involved in Los Angeles’ first CicLAvia, please contact us at ciclaviala@gmail.co
+=======
+To learn more about how you can get involved in Los Angeles’ first CicLAvia, please contact us at ciclaviala@gmail.co_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 m or visit [www.ciclavia.org](http://www.ciclavia.org).

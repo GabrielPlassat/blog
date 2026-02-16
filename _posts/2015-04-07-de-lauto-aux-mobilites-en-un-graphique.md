@@ -3,7 +3,11 @@ layout: post
 title: "De l’auto aux mobilités en 1 graphique"
 date: 2015-04-07 22:54:33 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'art de la guerre']
+=======
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "art de la guerre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Concernant la mutation de l'offre, tout est [là](http://www.bloomberg.com/news/articles/2015-04-07/auto-analyst-the-remainder-of-my-career-will-be-focused-on-this-one-chart),  le passage de l'objet aux services, la robotisation, l'économie collaborative. On comptait des nombres de voitures,  on déterminera les futurs leaders aux flux de km gérés. Il faudra toujours des voitures mais des plateformes mondiales se seront interfacées pour maîtriser la totalité de l’expérience vécue. Plusieurs [**Métanotes**](/les-metanotes-tdf-transports-du-futur) (l'avenir de l'auto, la révolution numérique, la chimère) décrivent ces mutations.

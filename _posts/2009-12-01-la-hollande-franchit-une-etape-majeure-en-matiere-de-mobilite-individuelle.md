@@ -3,7 +3,11 @@ layout: post
 title: "La Hollande franchit une étape majeure en matière de mobilité individuelle !"
 date: 2009-12-01 12:58:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Energie', 'Infrastructure', 'péage urbain', "qualité de l'air", 'roadpricing', 'TIC', 'Véhicule']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Energie", "Infrastructure", "p\u00e9age urbain", "qualit\u00e9 de l'air", "roadpricing", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Depuis de nombreuses années à l’étude, **[le « roadpricing » franchit une nouvelle étape](http://www.verkeerenwaterstaat.nl/english/news/newsitems/kilometrechargemostpeoplewillenduppayingless.aspx)**. Tous les usagers de la route vont payer au cours des années à venir pour l’utilisation de leur voiture et non plus pour le fait d’en posséder une. Le prix au kilomètre permettra de réduire de moitié les embouteillages et d’améliorer l’environnement. Le fonctionnement et le coût de cette mesure figurent dans le projet de loi *Prix au kilomètre* que le gouvernement a déposé à la Chambre des députés ce jour, sur proposition du ministre *Eurlings*.
@@ -132,7 +136,11 @@ Le gouvernement considère que la mobilité est une condition indispensable à l
 
  
 
+<<<<<<< HEAD
 Chaque véhicule sera équipé d’un appareil GPS qui enregistrera le nombre, les moments et les lieux des trajets. Cet appareil transmettra les informations à un bureau de perception qui établira la facture. Les automobilistes pourront dans l’avenir opter pour un fournisseur d’accès proposant des services additionnels à cet appareil, comme un navigateur de route. Les informations qui seront transmises par l’appareil seront protégées tant au plan légal qu’au plan technique. Seul l’au
+=======
+Chaque véhicule sera équipé d’un appareil GPS qui enregistrera le nombre, les moments et les lieux des trajets. Cet appareil transmettra les informations à un bureau de perception qui établira la facture. Les automobilistes pourront dans l’avenir opter pour un fournisseur d’accès proposant des services additionnels à cet appareil, comme un navigateur de route. Les informations qui seront transmises par l’appareil seront protégées tant au plan légal qu’au plan technique. Seul l’au_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 tomobiliste gérera ces données. Les pouvoirs publics ne recevront pas de données de trajet et ne pourront suivre les voitures. Le respect de la vie privée des utilisateurs sera ainsi garanti.
 
  

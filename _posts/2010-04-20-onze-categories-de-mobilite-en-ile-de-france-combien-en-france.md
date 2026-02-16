@@ -3,7 +3,11 @@ layout: post
 title: "Onze catégories de mobilité en Ile de France, combien en France ?"
 date: 2010-04-20 17:06:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'données réelles', 'internet', 'iphone', 'partage de données', 'téléphone']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "iphone", "partage de donn\u00e9es", "t\u00e9l\u00e9phone"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’IAURIF vient de publier une étude sur [**la mobilité des franciliens actifs en fonction de leur emploi du temps et de leurs moyens de transport**](http://www.iau-idf.fr/nos-etudes/detail-dune-etude/etude/lemploi-du-temps-des-actifs-franciliens-et-leurs-moyen.html). L’exploitation des données est particulièrement intéressante et montre le chemin à suivre.

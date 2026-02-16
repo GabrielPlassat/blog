@@ -3,7 +3,11 @@ layout: post
 title: "Avego lance 2 projets de mobilité innovants en Chine"
 date: 2010-02-24 09:04:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['avego', 'chine', 'données réelles', 'Infrastructure', 'partage de données']
+=======
+tags: ["avego", "chine", "donn\u00e9es r\u00e9elles", "Infrastructure", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ![](/assets/images/2010/02/avegolance2projetsdemobilitinnovantsenchine.jpg) Avego China launches 2 new projects at Ascendas IT Park. Avego’s China office, which was [officially opened](http://avego.cmail1.com/t/r/l/uuhkky/cijuixy/c) last October, has just launched 2 new projects that are designed to improve transportation efficiency at the Ascendas IT park in Dalian, where Avego China is based.

@@ -3,7 +3,11 @@ layout: post
 title: "Le futur du voyage from chaos to collaboration\"\""
 date: 2012-01-13 15:09:43 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'aviation', 'citoyen', 'connectivité', 'donnée data', 'intelligence collective', 'voyage']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "aviation", "citoyen", "connectivit\u00e9", "donn\u00e9e data", "intelligence collective", "voyage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**Amadeus **](http://www.amadeus.com/blog/11/01/from-chaos-to-collaboration-insight-into-the-future-of-travel/)vient de publier une étude sur l'avenir du voyage. Cette mobilité occasionnelle pourrait être mieux connectée, plus souple, plus efficace. De nombreux champs sont couverts: l'intégration multimodale, une meilleure gestion des transits, des moyens de paiement simples, des solutions de partage d'expériences et de historique, et le tourisme professionnel.
@@ -37,7 +41,11 @@ L'ADEME vient d'ouvrir un [**Appel à Manifestation d'Intérêt sur ce sujet des
 
  
 
+<<<<<<< HEAD
  View more [documents]() from [Les transports du futur](). "2012-01-13 15:09:43https://transportsdufutur.ademe.fr/2012/01/le-futur-du-voyage-from-chaos-to-collaboration.htmlassistant de mobilité|autorité des transports|aviation|citoyen|connectivité|donnée data|intelligence collective|voyagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-futur-du-voyage-from-chaos-to-collaboration2015-07-21 16:36:38>[From chaos to_collaboration]() View more [documents]() from [Les transports du futur]() [Flightpath2050]() 
+=======
+ View more [documents]() from [Les transports du futur](). "2012-01-13 15:09:43/2012/01/13/le-futur-du-voyage-from-chaos-to-collaboration/assistant de mobilité|autorité des transports|aviation|citoyen|connectivité|donnée data|intelligence collective|voyagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-futur-du-voyage-from-chaos-to-collaboration2015-07-21 16:36:38>[From chaos to_collaboration]() View more [documents]() from [Les transports du futur]() [Flightpath2050]() 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

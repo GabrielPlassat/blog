@@ -3,7 +3,11 @@ layout: post
 title: "Les nouvelles mobilités, Adapter l’automobile aux modes de vie de demain"
 date: 2010-11-30 11:59:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'agence mobilité', 'assistant de mobilité', 'autorité des transports', 'cité', 'citoyen', 'collectivité', 'économie du quaternaire', 'économie fonctionnalité', 'Infrastructure', 'innovation', 'internet', 'management de la mobilité', 'marchandises', 'partage de données', 'partage de la voirie', 'Service de mobilité']
+=======
+tags: ["ADEME", "agence mobilit\u00e9", "assistant de mobilit\u00e9", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Infrastructure", "innovation", "internet", "management de la mobilit\u00e9", "marchandises", "partage de donn\u00e9es", "partage de la voirie", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le **[rapport ](http://www.strategie.gouv.fr/article.php3?id_article=1284)**du Centre d'Analyse Stratégique (CAS) est disponible (voir ci dessous le résumé et le rapport). L'ADEME a été impliquée dès le départ à ce groupe de travail qui vise à proposer des mesures de politiques publiques pour se préparer aux changements à venir. Les principales mesures sont :

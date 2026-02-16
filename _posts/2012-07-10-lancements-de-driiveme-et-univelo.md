@@ -3,7 +3,11 @@ layout: post
 title: "Lancements de DriiveMe et Univélo"
 date: 2012-07-10 09:27:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['2 roues', 'assistant de mobilité', 'citoyen', 'commuter', 'intelligence collective', 'Service de mobilité']
+=======
+tags: ["2 roues", "assistant de mobilit\u00e9", "citoyen", "commuter", "intelligence collective", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 De plus en plus de start-up m'informent du lancement de leurs produits/services ...

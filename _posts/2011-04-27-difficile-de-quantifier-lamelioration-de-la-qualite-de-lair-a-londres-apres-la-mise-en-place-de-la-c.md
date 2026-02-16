@@ -3,7 +3,11 @@ layout: post
 title: "Difficile de quantifier l'amélioration de la qualité de l'air à Londres après la mise en place de la Congestion Charge - rapport du HEI"
 date: 2011-04-27 13:39:59 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'collectivité', 'congestion', 'management de la mobilité', "qualité de l'air"]
+=======
+tags: ["cit\u00e9", "collectivit\u00e9", "congestion", "management de la mobilit\u00e9", "qualit\u00e9 de l'air"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 The study, **[HEI ](http://www.healtheffects.org/index.html)**(Health Effect Institut) Research Report 155, ***[The Impact of the Congestion Charging Scheme on Air Quality in London](http://pubs.healtheffects.org/view.php?id=358)****, *was led by Professor Frank Kelly of King’s College London as part of HEI’s research program to measure the possible health outcomes associated with actions taken to improve air quality.

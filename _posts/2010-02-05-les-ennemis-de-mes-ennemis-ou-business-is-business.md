@@ -3,7 +3,11 @@ layout: post
 title: "Les ennemis de mes ennemis, ou Business is business..."
 date: 2010-02-05 12:22:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'Energie', 'Véhicule']
+=======
+tags: ["art de la guerre", "Energie", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Alors que **[GM, Ford, Hyunadai et Chrysler](http://www.leblogauto.com/2010/02/a-hyundai-et-chrysler-de-draguer-les-clients-toyota.html)** offrent une prime pour l’achat d’un véhicule si on met à la casse une Toyota, le gouvernement américain a officialisé jeudi l'ouverture **[d'une enquête](http://www.lefigaro.fr/societes/2010/02/05/04015-20100205ARTFIG00436-les-etats-unis-mettent-toyota-sous-pression-.php)** sur de possibles dysfonctionnements des freins de la Prius. Cette enquête fait suite à des cas «de perte momentanée des capacités de freinage sur des surfaces accidentées, des bosses ou des nids-de-poule», précise l'organisme. La NHTSA affirme avoir reçu 124 plaintes de consommateurs, «dont quatre ont fait part d'accidents». Un cabinet d'avocats a par ailleurs indiqué jeudi avoir déposé une plainte en nom collectif dans un tribunal du Colorado, accusant le constructeur d'avoir dissimulé le problème depuis plusieurs années.
@@ -34,4 +38,8 @@ A l’inverse, la Russie et le Venezuela ont annoncé lundi la signature d'un **
 
 **[L’article XIII de l’art de la guerre]()** de Sun Tzu nous rappelle « Le grand secret de venir à bout de tout consiste dans l'art de savoir mettre la division à propos division *dans les villes et les villages*, division *extérieure*, division *entre les inférieurs et les supérieurs*, division *de mort*, division *de vie*. »
 
+<<<<<<< HEAD
 "2010-02-05 12:22:37https://transportsdufutur.ademe.fr/2010/02/les-ennemis-de-mes-ennemis-ou-business-is-business.htmlart de la guerre|Energie|Véhiculepublish18gabriel plassatles-ennemis-de-mes-ennemis-ou-business-is-business2010-02-05 12:22:37
+=======
+"2010-02-05 12:22:37/2010/02/05/les-ennemis-de-mes-ennemis-ou-business-is-business/art de la guerre|Energie|Véhiculepublish18gabriel plassatles-ennemis-de-mes-ennemis-ou-business-is-business2010-02-05 12:22:37
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

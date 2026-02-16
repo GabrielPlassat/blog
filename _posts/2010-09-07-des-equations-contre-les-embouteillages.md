@@ -3,7 +3,11 @@ layout: post
 title: "Des équations contre les embouteillages ?"
 date: 2010-09-07 09:34:09 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'données réelles', 'internet', 'Pay as You Move', 'PAYD', 'surveillance', 'TIC']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "Pay as You Move", "PAYD", "surveillance", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **L’usage croissant des véhicules pourrait conduire à une congestion généralisée dont certaines villes (Sao Paolo, Mexico , Johannesburg, New Delhi, Moscou, Londres, New York, Los Angeles et Tokyo )donnent déjà un exemple. Les recherches des mathématiciens et des informaticiens essaient de mieux comprendre, pour les prévenir, les phénomènes qui conduisent à la formation de bouchons.**

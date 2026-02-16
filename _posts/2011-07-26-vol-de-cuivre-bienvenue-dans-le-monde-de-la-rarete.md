@@ -3,7 +3,11 @@ layout: post
 title: "Vol de cuivre, bienvenue dans le monde de la rareté, base d'une nouvelle économie"
 date: 2011-07-26 09:10:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['chine', 'economie circulaire']
+=======
+tags: ["chine", "economie circulaire"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *[Matières premières](/2010/06/les-matieres-premieres-sont-des-composantes-essentielles-des-produits-de-haute-technologie-et-des-produits-de-consommatio.html) : nous entrons dans l’âge de la rareté, repenser le système complet des flux de matières, maximiser leur usage et ensuite les protéger...*

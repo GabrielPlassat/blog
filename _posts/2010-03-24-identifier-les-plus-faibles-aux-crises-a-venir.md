@@ -3,7 +3,11 @@ layout: post
 title: "Identifier les plus faibles aux crises à venir"
 date: 2010-03-24 17:43:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'robustesse']
+=======
+tags: ["Energie", "robustesse"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Certains l'ont fait. Aux USA, une étude a été réalisée pour identifier les conséquences d'une nouvelle augmentation du prix des carburants suite à la crise économique qui a déjà beaucoup fragilisé les ménages. Une carte et l'étude sont visibles ci dessous.

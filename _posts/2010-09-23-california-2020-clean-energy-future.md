@@ -3,7 +3,11 @@ layout: post
 title: "California 2020 Clean Energy Future"
 date: 2010-09-23 11:19:54 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Efficacité énergétique', 'Energie', 'Infrastructure', 'smartgrid', 'véhicule propre']
+=======
+tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "Infrastructure", "smartgrid", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 State energy and environmental agencies are joining forces with the California Independent System Operator Corporation (California ISO) to expand cooperation for a new era in electricity that keeps California at the forefront of carbon-cutting innovation and green jobs creation. By further coordinating the state's electricity policies, **[California's Clean Energy Future ](http://www.climatechange.ca.gov/energy/index.html)**points the way toward new investments in transmission, energy efficiency, smart grid applications, and increased use of renewable resources.

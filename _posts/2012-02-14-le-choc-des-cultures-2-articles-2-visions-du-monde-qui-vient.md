@@ -3,7 +3,11 @@ layout: post
 title: "Le choc des cultures - 2 articles, 2 visions du monde qui vient"
 date: 2012-02-14 09:59:03 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'citoyen', 'confiance', 'covoiturage', 'données réelles', 'Efficacité énergétique', 'General Motor', 'google', 'intelligence collective', 'internet', 'Service de mobilité']
+=======
+tags: ["autopartage", "citoyen", "confiance", "covoiturage", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "General Motor", "google", "intelligence collective", "internet", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Alors que [**Paris Tech Review**](http://www.paristechreview.com/2012/02/13/avenir-industrie-automobile/) publie un échange avec M.Satinet, Ancien Directeur Général de Citroën, portant sur l'avenir de l'automobile, le [**Time **](http://www.time.com/time/specials/packages/article/0,28804,2094921_2094923_2106141,00.html?xid=tweetbut)s'interroge sur l'impact du peer to peer sur notre façon de nous déplacer. Deux visions du monde (qui n'engagent sans doute pas Citroën).
@@ -32,4 +36,8 @@ Le Times indique alors : "But the rise of collaborative consumption, in which pe
 
 Les innovations principales imaginées ici ne sont pas telle ou telle technologie permettant de gagner 1 ou 5% de consommation, mais bien de nouvelles approches du client basées sur les changements des pratiques réelles des citoyens. Or ces changements sont porteurs à la fois de sens, d'économie (monétaire), et d'économie énergétique. La question devient : "**The real issue isn't will people rent cars?' It's who can control their costs best**".
 
+<<<<<<< HEAD
 "2012-02-14 09:59:03https://transportsdufutur.ademe.fr/2012/02/le-choc-des-cultures-2-articles-2-visions-du-monde-qui-vient.htmlautopartage|citoyen|confiance|covoiturage|données réelles|Efficacité énergétique|General Motor|google|intelligence collective|internet|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-choc-des-cultures-2-articles-2-visions-du-monde-qui-vient2015-07-21 16:36:36
+=======
+"2012-02-14 09:59:03/2012/02/14/le-choc-des-cultures-2-articles-2-visions-du-monde-qui-vient/autopartage|citoyen|confiance|covoiturage|données réelles|Efficacité énergétique|General Motor|google|intelligence collective|internet|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-choc-des-cultures-2-articles-2-visions-du-monde-qui-vient2015-07-21 16:36:36
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

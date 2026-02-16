@@ -3,7 +3,11 @@ layout: post
 title: "De l'hyperempire à l'hyperdémocratie"
 date: 2013-11-04 15:58:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance', 'connectivité', 'gouvernance', 'holoptisme', 'intelligence collective', 'internet', 'pensée complexe', 'philosophie']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "gouvernance", "holoptisme", "intelligence collective", "internet", "pens\u00e9e complexe", "philosophie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Vous pouvez critiquer les technologies numériques. Elles consomment énergies, matières premières, sont à la mode, donc « périssables ». Elles peuvent nous isoler, nous surveiller, et finalement réduire notre capacité à « faire société ». Pour certains, il est encore question de savoir elles sont « bien ou mal ». Comme si quelqu'un pouvait faire machine arrière, remettre le dentifrice dans le tube. Elles étaient parmi nous, elles sont désormais en nous. 

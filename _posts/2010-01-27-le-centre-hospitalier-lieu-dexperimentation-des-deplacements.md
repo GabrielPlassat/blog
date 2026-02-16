@@ -3,7 +3,11 @@ layout: post
 title: "Le centre hospitalier, lieu d'expérimentation des déplacements"
 date: 2010-01-27 11:21:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['hopital', 'Infrastructure', 'multimodes', 'partage de données', 'Santé', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["hopital", "Infrastructure", "multimodes", "partage de donn\u00e9es", "Sant\u00e9", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Parce qu'il cumule les spécificités et les difficultés, le centre hospitalier se révèle comme un lieu très intéressant en matière d'études et d'actions concernant la mobilité des biens et des personnes :

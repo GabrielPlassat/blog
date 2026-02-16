@@ -3,7 +3,11 @@ layout: post
 title: "Truck 2020, et si l’avenir du camion préfigurait celui de l’automobile ?"
 date: 2009-12-08 15:19:58 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['camion', 'Energie', 'Infrastructure', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["camion", "Energie", "Infrastructure", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après *[**Automotive 2020, Clarity beyond chaos**](http://www-935.ibm.com/services/us/index.wss/ibvstudy/gbs/a1030141?cntxt=a1000041)*, IBM nous propose, avec *Truck 2020*, une vision des [**10 prochaines années de l’industrie du camion**](http://www-935.ibm.com/services/us/gbs/bus/html/future-of-truck-industry-2020.html) et bien au-delà. S’appuyant sur un large réseau de consultant, et sur des entretiens menés avec 93 dirigeants de 13 pays représentant la totalité de la chaîne de valeur, IBM identifie 5 actions impératives à mener par ce secteur.
@@ -115,7 +119,11 @@ Cette transition majeure nécessite un changement radical des modèles économiq
 
  
 
+<<<<<<< HEAD
 ·     **Enrichir les partenariats **: Dans cet environnement complexe, nouer des partenariats ada
+=======
+·     **Enrichir les partenariats **: Dans cet environnement complexe, nouer des partenariats ada_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ptés permet d’accroître sa robustesse aux crises. 3 secteurs sont proposés par IBM :
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "Quand « l’expérience de mobilité » devient une attraction touristique : un vecteur de changement des comportements ?"
 date: 2014-11-03 17:24:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'living lab', 'tourisme', 'VE', 'voyage']
+=======
+tags: ["ADEME", "living lab", "tourisme", "VE", "voyage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ***Cet article a été rédigé par Fanny Dufour, docteur en psychologie sociale, dans le cadre du [projet BMA](http://www.themavision.fr/jcms/rw_314962/bma).***
@@ -75,7 +79,11 @@ Le véhicule électrique (VE) : pas de craintes sur l’autonomie ! Comme nous
 ### **Est-ce qu’une telle expérience d’un séjour combinant mobilité & tourisme, permet de changer les comportements quotidiens ?**
  
 
+<<<<<<< HEAD
 Difficile à dire, ou à prédire… Tentons déjà de comprendre : Rabardel en 1995 propose le modèle de la genèse instrumentale autour du processus d’instrumentation et d’instrumentalisation, qui pourrait permettre d’expliquer ce que nous avons observé pendant Contact Nature. En synthèse, l’appropriation d’un nouvel o
+=======
+Difficile à dire, ou à prédire… Tentons déjà de comprendre : Rabardel en 1995 propose le modèle de la genèse instrumentale autour du processus d’instrumentation et d’instrumentalisation, qui pourrait permettre d’expliquer ce que nous avons observé pendant Contact Nature. En synthèse, l’appropriation d’un nouvel o_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 util, sa banalisation et son usage au quotidien, dépend de ce double processus :
 
  

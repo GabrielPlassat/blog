@@ -3,7 +3,11 @@ layout: post
 title: "Du parking intelligent à la mobilité prédictive"
 date: 2011-07-25 09:06:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'connectivité', 'données réelles', 'gouvernance', 'Infrastructure', 'internet', 'management de la mobilité', 'parking', 'partage de données']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "gouvernance", "Infrastructure", "internet", "management de la mobilit\u00e9", "parking", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Exemple du parking « intelligent »: intégration des TIC, plus de savoirs, plus de choix. Si plus de savoirs, meilleure gestion.*
@@ -42,7 +46,11 @@ Pour ne conserver que les bénéfices environnementaux, il y a une autre solutio
 
 Dupliquons cela au trafic, aux péages, aux transports publics, aux solutions de covoiturage, autopartage, aux modes doux. Plus les usagers utiliseront les TIC pour s'informer, choisir, partager leur choix, plus nous apprendrons les pratiques réelles, plus nos savoirs collectifs progresseront. Plus nos savoirs progresseront, plus nous pourrons optimiser l'usage de nos ressources actuelles sans investir dans de nouvelles, plus nous pourrons prévoir les tendances à court, moyen et long termes. Les données temps réel iront nourrir des modèles prédictifs extrêmement importants pour atteindre des objectifs collectifs : congestion, GES, pollutions. La connaissance réelle du passé et du présent permet de mieux se préparer au futur.
 
+<<<<<<< HEAD
 "2011-07-25 09:06:00https://transportsdufutur.ademe.fr/2011/07/du-parking-intelligent-a-la-mobilite-predictive.htmlautorité des transports|citoyen|collectivité|connectivité|données réelles|gouvernance|Infrastructure|internet|management de la mobilité|parking|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdu-parking-intelligent-a-la-mobilite-predictive2015-07-21 16:36:46>[S fpark rateadjustments_meter_july2011]() 
+=======
+"2011-07-25 09:06:00/2011/07/25/du-parking-intelligent-a-la-mobilite-predictive/autorité des transports|citoyen|collectivité|connectivité|données réelles|gouvernance|Infrastructure|internet|management de la mobilité|parking|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdu-parking-intelligent-a-la-mobilite-predictive2015-07-21 16:36:46>[S fpark rateadjustments_meter_july2011]() 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

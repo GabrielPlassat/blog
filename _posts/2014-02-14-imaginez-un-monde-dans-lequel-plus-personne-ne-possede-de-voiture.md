@@ -3,7 +3,11 @@ layout: post
 title: "Imaginez un monde dans lequel plus personne ne possède de voiture"
 date: 2014-02-14 11:05:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'confiance', 'donnée data', 'données réelles', "économie de l'expérience", 'Efficacité énergétique', 'google', 'intelligence collective', 'internet', 'marketing individualisé', 'open innovation', 'plate-forme', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "intelligence collective", "internet", "marketing individualis\u00e9", "open innovation", "plate-forme", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le dernier [**article**](http://m.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/) d'[**Eric Jaffe**](http://eric-jaffe.com/atlantic-cities/), the Atlantic Cities, met en perspective le développement des technologies de robotisation des véhicules couplé au développement des services de mobilité. Plusieurs articles des Transports du Futur ([**Google Car tout va plus vite que prévu**](/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc.html), [**la révolution numérique**](/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html), **[En supprimant le chaffeur le cybercar change profondement](/2012/06/en-supprimant-le-conducteur-la-voiture-autonome-change-profondement-le-secteur-des-mobilites.html)**, [**le choc à venir**](/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.html)) ont également dressé des perspectives similaires : les principales innovations portées par le cybercar ne sont dans l'objet mais dans les usages qu'il rendra possible. Les jeux d'acteurs et la chaîne de valeur seront bouleversés, intégralement. 

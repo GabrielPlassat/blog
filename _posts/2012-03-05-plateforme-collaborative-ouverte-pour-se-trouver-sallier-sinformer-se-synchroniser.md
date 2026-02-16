@@ -3,7 +3,11 @@ layout: post
 title: "Plateforme Collaborative ouverte pour se trouver, s'allier, s'informer, se synchroniser"
 date: 2012-03-05 10:17:05 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'open innovation', 'plate-forme', "Plateforme d'idées", 'réseaux']
+=======
+tags: ["ADEME", "open innovation", "plate-forme", "Plateforme d'id\u00e9es", "r\u00e9seaux"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**La plateforme collaborative est ouverte**](http://www.ami-mobilite.com/codooo/). Elle permettra à tous les acteurs de l'écosystème en construction des mobilités et des chaînes logistiques de se trouver, de s'allier, de s'informer et de se synchroniser pour déposer un projet à l**'AMI Mobilités occasionnelles et chaînes logistiques**.

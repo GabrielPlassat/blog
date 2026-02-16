@@ -3,7 +3,11 @@ layout: post
 title: "Yasuni, un cas à part ou l'avenir du pétrole ?"
 date: 2010-07-02 17:20:56 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['allemagne', 'assurance', 'Energie', 'pétrole']
+=======
+tags: ["allemagne", "assurance", "Energie", "p\u00e9trole"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Lancé voici deux ans, le projet **[Yasuni](http://www.sosyasuni.org/fr/index.php?option=com_content&view=frontpage&Itemid=1)** fonctionne sur le principe de la compensation carbone. L’Equateur s’engage à ne pas extraire le pétrole de la région (ce qui représente 850 millions de barils et 20 % des réserves du pays) si les pays industrialisés, co-responsables du changement climatique, fournissent une compensation financière** pour les 410 millions de tonnes de CO2 évités**. A hauteur de 50 % de la somme « perdue », ce financement correspond à** 350 millions de dollars par an**. Les gouvernements, les organisations et les particuliers peuvent ainsi alimenter le fond Fidéicomis géré par l’ONU et l’Equateur. 

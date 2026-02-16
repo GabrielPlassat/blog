@@ -3,7 +3,11 @@ layout: post
 title: "Retour sur les 2ème rencontres nationales sur l'autopartage à Marseille"
 date: 2012-11-05 17:58:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'cité', 'citoyen', 'collectivité', 'economie circulaire', 'Efficacité énergétique']
+=======
+tags: ["autopartage", "cit\u00e9", "citoyen", "collectivit\u00e9", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Organisées par **[Autopartage Provence](http://www.autopartage-provence.com/Rencontres-Nationales-de-l)**, les 2èmes rencontres nationales de l'autopartage ont rassemblé les acteurs.

@@ -3,7 +3,11 @@ layout: post
 title: "L'accès aux matières premières, stratégie de l'UE"
 date: 2010-06-17 13:20:08 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['carburant', 'chine', 'economie circulaire', 'terre rare']
+=======
+tags: ["carburant", "chine", "economie circulaire", "terre rare"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [ ](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2008:0699:FIN:FR:PDF) 

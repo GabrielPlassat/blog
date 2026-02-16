@@ -3,7 +3,11 @@ layout: post
 title: "UberPop, Un nouveau service urbain de Taxi entre Particulier"
 date: 2014-02-05 09:36:20 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'commuter', 'congestion', 'covoiturage', 'donnée data', 'innovation', 'monnaie complémentaire', 'multimodes', 'richesse', 'Service de mobilité']
+=======
+tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "congestion", "covoiturage", "donn\u00e9e data", "innovation", "monnaie compl\u00e9mentaire", "multimodes", "richesse", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Comme le décrit cet article du Monde [**(A Paris, Uber veut changer les particuliers en taxi**](http://www.lemonde.fr/economie/article/2014/02/04/a-paris-uber-veut-changer-les-particuliers-en-taxis_4359694_3234.html)), cette dernière annonce d'Uber ne va calmer les taxis. Avec UberPop, il s'agit de décliner le concept de Véhicule avec Chauffeur en allant jusqu'à remplacer le Chauffeur professionnel par un particulier. Il s'ajoute à l'offre UberX pour lequel un chauffeur professionnel utilise son propre véhicule. Le schéma ci dessous extrait du [**blog Uber**](http://blog.uber.com/uberPOP-covoiturage-urbain) est clair : 
@@ -60,4 +64,8 @@ Dans ce trio (citoyen, entrepreneur de covoiturage, collectivité), un travail e
 
 [![]()]()
 
+<<<<<<< HEAD
 "2014-02-05 09:36:20https://transportsdufutur.ademe.fr/2014/02/uberpop-un-nouveau-service-urbain-de-taxi-entre-particulier.htmlautorité des transports|cité|citoyen|collectivité|commuter|congestion|covoiturage|donnée data|innovation|monnaie complémentaire|multimodes|richesse|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatuberpop-un-nouveau-service-urbain-de-taxi-entre-particulier2015-07-21 16:35:35
+=======
+"2014-02-05 09:36:20/2014/02/05/uberpop-un-nouveau-service-urbain-de-taxi-entre-particulier/autorité des transports|cité|citoyen|collectivité|commuter|congestion|covoiturage|donnée data|innovation|monnaie complémentaire|multimodes|richesse|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatuberpop-un-nouveau-service-urbain-de-taxi-entre-particulier2015-07-21 16:35:35
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

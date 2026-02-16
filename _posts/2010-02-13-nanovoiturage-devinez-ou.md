@@ -3,7 +3,11 @@ layout: post
 title: "NanoVoiturage ... devinez où ?"
 date: 2010-02-13 17:56:57 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Service de mobilité', 'simplicité', 'TIC', 'transition générationnelle', 'Véhicule']
+=======
+tags: ["Service de mobilit\u00e9", "simplicit\u00e9", "TIC", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Et oui, en Inde (ou plus exactement à Delhi Gurgaon Noida Faridabad Ghaziabad et Mumbai  Navi Mumbai), Bajaj Ambrish, consultant en énergie renouvelable, lance son site de Covoiturage, [www.esay2commute.com](http://easy2commute.com/index.php). Le site, ciblé sur les déplacements domicile-travail,  propose, entre autre, les voitures disponibles près de chez vous ou de votre bureau.

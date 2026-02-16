@@ -3,7 +3,11 @@ layout: post
 title: "Ce que l'alliance Renault-Daimler préfigure"
 date: 2010-04-13 14:25:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'collectivité', 'Efficacité énergétique', 'multimodes', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "collectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "multimodes", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En reprenant **[l'article](http://leblog.gerpisa.org/node/945)** sur ***les doutes sur le haut de gamme et son avenir*** de Bernard Jullien sur le blog du Gerpisa, la tendance pourrait se prolonger dans les années à venir par l'arrivée de concurrents dans le domaine des petits véhicules.

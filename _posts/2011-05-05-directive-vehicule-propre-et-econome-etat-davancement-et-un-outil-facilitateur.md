@@ -3,7 +3,11 @@ layout: post
 title: "Directive Véhicule Propre et Econome, état d'avancement et un outil facilitateur"
 date: 2011-05-05 17:51:31 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Efficacité énergétique', 'emission', 'Energie', 'internet', "qualité de l'air", 'véhicule propre']
+=======
+tags: ["ADEME", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "internet", "qualit\u00e9 de l'air", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Lors de la journée Bus Propres" organisée par l'ADEME, le GART et l'UTP avec la participation de la Communauté d'agglomération de Limoges Métropole et le Centre d'exploitation Transports en Commun de Limoges (TCL), la transposition de la Directive Véhicule Propre et Econome a été abordée.

@@ -3,7 +3,11 @@ layout: post
 title: "Social Media Listening Command Center"
 date: 2010-12-13 17:29:45 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'connectivité', 'innovation', 'internet', 'internet des objets', 'open innovation', 'Service de mobilité']
+=======
+tags: ["citoyen", "confiance", "connectivit\u00e9", "innovation", "internet", "internet des objets", "open innovation", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Quand DELL annonce ***[Average daily mentions of Dell on Twitter alone have a greater reach than the combined circulation of the top 12 daily newspapers in the United States]()***", cela sous-entend plusieurs changements majeurs : dans les médias (mais cela n'est pas vraiment nouveau), mais surtout dans la position du citoyen consommateur et dans le besoin de l'intégrer au plus **près**, au plus **haut **de la stratégie de l'entreprise. Il faut désormais être à l'écoute permanente, continue de ces clients pour répondre à leurs besoins, pour leurs proposer des réponses, et finalement pour ne pas perdre le contact avec eux. DELL vient de créer (voir vidéo ci dessous) un centre de commande pour suivre en temps réel les médias sociaux. 
@@ -32,4 +36,8 @@ Anticiper les besoins, devenir facilitateur de la vie quotidienne, de nouveaux i
 
 Suivre comme jamais auparavant les besoins réels de ses clients, les pannes et les solutions "en temps réel", proposer une maintenance préventive adaptée à l'usage réel du véhicule pour chaque client, lui proposer des pistes pour mieux (moins cher, plus vite, connecté, sécurité...) se déplacer au quotidien en fonction de ses contraintes, ... si les acteurs en place ne le font pas, d'autres s'en chargeront si ils sont capables d'instaurer la confiance.
 
+<<<<<<< HEAD
  [084 092 portnoff - dalloz]() View more [documents]() from [transportsdufutur](). "2010-12-13 17:29:45https://transportsdufutur.ademe.fr/2010/12/social-media-listening-command-center.htmlcitoyen|confiance|connectivité|innovation|internet|internet des objets|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsocial-media-listening-command-center2015-07-21 16:37:31
+=======
+ [084 092 portnoff - dalloz]() View more [documents]() from [transportsdufutur](). "2010-12-13 17:29:45/2010/12/13/social-media-listening-command-center/citoyen|confiance|connectivité|innovation|internet|internet des objets|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsocial-media-listening-command-center2015-07-21 16:37:31
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "Transformation du Travail donc des mobilités, vers plus de complexité"
 date: 2014-10-23 11:18:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'commuter', 'innovation', 'intelligence collective', 'plate-forme']
+=======
+tags: ["cit\u00e9", "citoyen", "commuter", "innovation", "intelligence collective", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[inspiré par l'excellente conférence du [LIFT with FING](http://liftconference.com/lift-france-14/program_fr)]**

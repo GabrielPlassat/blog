@@ -3,7 +3,11 @@ layout: post
 title: "GM Publishes “Blue Paper” for Sustainable Urban Mobility : cooperation among government, automotive industry, infrastructure developers, and the academic community."
 date: 2010-11-19 09:14:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Service de mobilité', 'VE']
+=======
+tags: ["Service de mobilit\u00e9", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 The Blue Paper addresses the growing challenges associated with rising urbanization and the greater demand for transportation with respect to energy, the environment, safety, traffic congestion and land use. It envisions a new automobile DNA based on electrification and connectivity, and promises a cleaner, safer and more convenient future for urban transportation.

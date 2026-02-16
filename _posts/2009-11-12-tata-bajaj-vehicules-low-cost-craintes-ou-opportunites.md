@@ -3,7 +3,11 @@ layout: post
 title: "Tata, Bajaj - Véhicules low cost, Craintes ou Opportunités  ?"
 date: 2009-11-12 15:43:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', 'low cost', 'Séminaire', 'simplicité', 'Véhicule']
+=======
+tags: ["Energie", "low cost", "S\u00e9minaire", "simplicit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La récente [annonce ](http://www.lexpansion.com/economie/actualite-entreprise/pourquoi-renault-a-choisi-bajaj-pour-defier-la-nano_207223.html)du Groupe Renault-Nissan-Bajaj de développer et commercialiser un véhicule à moins de 2000 euros nécessite une prise de recul pour tenter d'en imaginer les conséquences.

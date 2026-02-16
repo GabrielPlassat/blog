@@ -3,7 +3,11 @@ layout: post
 title: "Le premier jour où j'ai décidé de me déplacer autrement ..."
 date: 2014-01-11 10:01:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'economie circulaire', 'Efficacité énergétique', 'externalité', 'innovation', 'intelligence collective', 'marche', 'mode doux', 'multimodes', 'philosophie', 'Santé', 'Service de mobilité', 'vélo']
+=======
+tags: ["autopartage", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "innovation", "intelligence collective", "marche", "mode doux", "multimodes", "philosophie", "Sant\u00e9", "Service de mobilit\u00e9", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Chaque jour, il y a plusieurs millions de décision concernant les transports : individuellement, nous choisissons un mode de transport à chaque fois ou nous faisons comme d'habitude, nous choisissons tel itinéraire ou le trajet habituel, nous acceptons de prendre un collègue de travail sur le chemin ou pas, nous planifions nos déplacements/achats/activités ou pas, nous utilisons un mode actif de déplacement (vélo ou marche).
@@ -34,7 +38,11 @@ Nous ne ferons pas du vélo pour réduire la pollution, nous ne "perdrons" pas 5
 
  
 
+<<<<<<< HEAD
 "2014-01-11 10:01:16https://transportsdufutur.ademe.fr/2014/01/le-premier-jour-ou-jai-arrete.htmlautopartage|economie circulaire|Efficacité énergétique|externalité|innovation|intelligence collective|marche|mode doux|multimodes|philosophie|Santé|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-premier-jour-ou-jai-arrete2015-07-21 16:35:36title=""Eagle-bike-helmet1"" />
+=======
+"2014-01-11 10:01:16/2014/01/11/le-premier-jour-ou-jai-arrete/autopartage|economie circulaire|Efficacité énergétique|externalité|innovation|intelligence collective|marche|mode doux|multimodes|philosophie|Santé|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-premier-jour-ou-jai-arrete2015-07-21 16:35:36title=""Eagle-bike-helmet1"" />
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

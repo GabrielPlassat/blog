@@ -3,7 +3,11 @@ layout: post
 title: "Open Air Government"
 date: 2010-01-25 09:43:36 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['open source', 'partage de données', "Plateforme d'idées", 'Service de mobilité', 'TIC', 'web2.0']
+=======
+tags: ["open source", "partage de donn\u00e9es", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9", "TIC", "web2.0"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Il y a un an, la ville de San Francisco partageait ses données au grand public, encourgeait le développement d'applications, de sites pour une large utilisation. Depuis, il y a plus d'une douzaine d'outils facilitant le vie des citoyens, dont de nombreuses applications dédiées à la mobilité, aux transports en communs, aux commuters.

@@ -3,7 +3,11 @@ layout: post
 title: "Super à 1.60 euro/litre, passer à Nike Fuel"
 date: 2012-01-20 10:17:23 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'citoyen', 'confiance', 'donnée data', 'données réelles', 'Efficacité énergétique', 'innovation', 'obésité', 'PAYD', 'surveillance']
+=======
+tags: ["assurance", "citoyen", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "ob\u00e9sit\u00e9", "PAYD", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [![](/assets/images/old/6a0120a66d2ad4970b016760d5fc37970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b016760d5fc37970b-800wi.jpg)
@@ -47,6 +51,10 @@ Les technologies ne sont que des outils. Elles permettent dans certains cas de r
 
  
 
+<<<<<<< HEAD
 "2012-01-20 10:17:23https://transportsdufutur.ademe.fr/2012/01/super-a-160-eurolitre-passer-a-nike-fuel.htmlassurance|citoyen|confiance|donnée data|données réelles|Efficacité énergétique|innovation|obésité|PAYD|surveillancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsuper-a-160-eurolitre-passer-a-nike-fuel2015-07-21 16:36:38> 
+=======
+"2012-01-20 10:17:23/2012/01/20/super-a-160-eurolitre-passer-a-nike-fuel/assurance|citoyen|confiance|donnée data|données réelles|Efficacité énergétique|innovation|obésité|PAYD|surveillancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsuper-a-160-eurolitre-passer-a-nike-fuel2015-07-21 16:36:38> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 "

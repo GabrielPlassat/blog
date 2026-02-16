@@ -3,7 +3,11 @@ layout: post
 title: "Quel opérateur de TC français publiera son tableau de bord performance temps réel\" ?\""
 date: 2010-04-22 17:58:20 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'confiance', 'données réelles', 'enquete', 'internet', 'partage de données', 'web2.0']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "confiance", "donn\u00e9es r\u00e9elles", "enquete", "internet", "partage de donn\u00e9es", "web2.0"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un opérateur de transport US publie en ligne son tableau de bord permettant de suivre différents critères de performance en temps réel, incluant les avis des usagers. Qui sera le premier en France ?

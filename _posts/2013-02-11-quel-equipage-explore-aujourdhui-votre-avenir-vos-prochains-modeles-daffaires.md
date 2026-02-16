@@ -3,7 +3,11 @@ layout: post
 title: "Quel équipage explore aujourd'hui votre avenir ? vos prochains modèles d'affaires ?"
 date: 2013-02-11 09:22:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'citoyen', "économie de l'expérience", 'google', 'intelligence collective', 'internet', 'open innovation', 'pensée complexe']
+=======
+tags: ["art de la guerre", "citoyen", "\u00e9conomie de l'exp\u00e9rience", "google", "intelligence collective", "internet", "open innovation", "pens\u00e9e complexe"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Quels que soient vos produits ou services actuels, ils devront évoluer, s'adapter jusqu'à se transformer totalement. De nouvelles organisations ignorent les chaînes de valeur existantes, industrialisent de nouvelles expériences, au plus près de l'intimité des consommateurs, leurs donnent envie de travailler, de produire, de créer sur leur plateforme pour en capter une partie de la valeur. Ils y parviennent puisqu'ils ressentent parfaitement le monde qui vient, basé notamment sur la cocréation de la valeur avec les utilisateurs. Reprenant [**l'âge de la multitude**](/2013/02/les-transports-a-lage-de-la-multitude.html), ce sont des entreprises sensitives : L’entreprise sensitive peut percevoir les aspirations diffuses, se couler dans les conversations, personnaliser son offre, accompagner l’intimité de ses clients". 

@@ -3,7 +3,11 @@ layout: post
 title: "Bilan sur les biocarburants de 1ère et 2ème génération"
 date: 2010-08-02 16:53:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['biocarburant', 'carburant', 'Energie', 'éthanol']
+=======
+tags: ["biocarburant", "carburant", "Energie", "\u00e9thanol"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En Europe, [EurObserv’ER ](http://www.eurobserv-er.org/downloads.asp)vient de publier le rapport 2009 des biocarburants (1ère generation) consommés.

@@ -3,7 +3,11 @@ layout: post
 title: "Bénéfices économiques et emplois avec des voitures plus efficaces - USA"
 date: 2011-08-03 08:43:54 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Efficacité énergétique', 'emploi', 'Energie', 'Véhicule', 'véhicule propre']
+=======
+tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "emploi", "Energie", "V\u00e9hicule", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le **[CERES](http://www.ceres.org/)**, qui rassemble une coalition nationale aux USA - entrepreneurs, ONG, autorités publiques - autour du développement durable, vient de publier un **[rapport ](http://www.ceres.org/press/press-releases/more-jobs-per-gallon)**quantifiant les bénéfices économiques et sociaux apportés par la mise en oeuvre d'une réglementation sur l'efficacité énergétique des véhicules légers.

@@ -3,7 +3,11 @@ layout: post
 title: "Un véhicule propre\", c'est quoi exactement ?\""
 date: 2009-11-12 13:37:53 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Energie', 'Véhicule', 'véhicule propre']
+=======
+tags: ["ADEME", "Energie", "V\u00e9hicule", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Hybride en série, en parallèle, pile à combustible, biocarburants, électrique, ... les voies ne manquent pas mais feront-elles pour autant réduire notre impact sur l'environnement ? lesquelles privilégier ? à quelles échéances ?

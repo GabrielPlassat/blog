@@ -3,7 +3,11 @@ layout: post
 title: "Et si la fiabilité (re)devenait un argument essentiel de la performance d’un constructeur ?"
 date: 2010-02-01 10:30:47 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['camion', 'fiabilité', 'Véhicule']
+=======
+tags: ["camion", "fiabilit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[Toyota traverse une crise sans précédent](http://www.lefigaro.fr/societes/2010/01/29/04015-20100129ARTFIG00420-toyota-traverse-une-crise-sans-precedent-.php)**, avec un rappel de plusieurs millions de véhicules, et surtout, des accidents mortels liés à un problème d’accélérateur. L'arrêt de la production pendant une semaine dans cinq usines américaines pourrait coûter 500 millions de dollars, selon la Deutsche Bank.

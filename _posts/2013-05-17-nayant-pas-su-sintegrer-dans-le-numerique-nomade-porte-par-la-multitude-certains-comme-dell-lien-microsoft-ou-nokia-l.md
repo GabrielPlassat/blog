@@ -3,7 +3,11 @@ layout: post
 title: "Une brève histoire de l'avenir des Transports"
 date: 2013-05-17 18:34:58 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Apple', 'autorité des transports', 'citoyen', 'collectivité', 'connectivité', 'covoiturage', 'données réelles', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'gouvernance', 'Infrastructure', 'intelligence collective', 'internet', 'monnaie complémentaire', 'partage de données', 'pensée complexe', 'plate-forme', 'Service de mobilité', 'stationnement', 'TC', 'UX', 'Véhicule', 'véhicule mono-usage']
+=======
+tags: ["Apple", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "Infrastructure", "intelligence collective", "internet", "monnaie compl\u00e9mentaire", "partage de donn\u00e9es", "pens\u00e9e complexe", "plate-forme", "Service de mobilit\u00e9", "stationnement", "TC", "UX", "V\u00e9hicule", "v\u00e9hicule mono-usage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 N'ayant pas su s'intégrer dans le numérique nomade porté par la multitude, certains, comme [**DELL** ](http://t.co/qpVwIQSs3Q)ou **[NOKIA](http://t.co/vsBgYCAD)** s'engagent dans des mutations profondes de leur modèle d'affaires. Pour cela, ils sont prêts à déplaire aux marchés et à certains clients trop axés sur le court terme, mais se fixent des objectifs à long terme. D'autres, comme **[Kodak](http://t.co/VDhQR42q)**, avaient voulu conserver leur rente le plus tard possible et ont disparu.
@@ -38,7 +42,11 @@ Les **[autorités organisatrices](/2009/11/autorite-des-transports-vers-une-revo
 
  
 
+<<<<<<< HEAD
 **Les fournisseurs de service de mobilité entre particuliers** industrialisent des processus permettant de maximiser l'investissement des particuliers (covoiturage, autopartage P2P) ou de tiers (taxi partagé). Il s'agit d'acteurs totalement nouveaux, dont le cœur de métier est avant tout l'animation d'un collectif d'intérêt, rendu possible par des outils numériques de mise en relation. Ils ont choisi le secteur des transports, mais auraient pu faire quasiment le même métier dans le voyage ou l'immobilier. Ces acteurs pensent donc de façon résolument différente : expérience utilisateur, réseau social, version béta, changement permanent. Ils possèdent un sens inné du marketing auprès de la multitude, et sont en empathie avec leurs réseaux. En conséquence, ces acteurs disposent des principales caractéristiques pour devenir l'acteur central. Plus que le service de mobilité, ils disposent de connaissances inédites sur les
+=======
+**Les fournisseurs de service de mobilité entre particuliers** industrialisent des processus permettant de maximiser l'investissement des particuliers (covoiturage, autopartage P2P) ou de tiers (taxi partagé). Il s'agit d'acteurs totalement nouveaux, dont le cœur de métier est avant tout l'animation d'un collectif d'intérêt, rendu possible par des outils numériques de mise en relation. Ils ont choisi le secteur des transports, mais auraient pu faire quasiment le même métier dans le voyage ou l'immobilier. Ces acteurs pensent donc de façon résolument différente : expérience utilisateur, réseau social, version béta, changement permanent. Ils possèdent un sens inné du marketing auprès de la multitude, et sont en empathie avec leurs réseaux. En conséquence, ces acteurs disposent des principales caractéristiques pour devenir l'acteur central. Plus que le service de mobilité, ils disposent de connaissances inédites sur les_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 usages de leurs réseaux. Ces nouveaux savoirs vont leur permettre d'ici d'avoir « autorité ». Malheureusement, ils sont condamnés à grandir et se faisant, la plupart ne sont pas capables de conserver cette dynamique, cette souplesse, cette proximité avec le citoyen, cette remise en question permanente. D'autant plus que les acteurs historiques n'attendent qu'une chose : les intégrer dans le modèle d'affaires dominant. Nous verrons que la seule solution pour eux est de devenir une plateforme. Nous les appellerons les « *relieurs* » pour leur capacité à relier les particuliers. 
 
  
@@ -87,7 +95,11 @@ Alors que Google transforme très peu de clic en euro, **Amazon** a structurelle
 
  
 
+<<<<<<< HEAD
 Pour cela, le design serviciel des mobilités imposera de revoir totalement l’objet véhicule, ses interfaces, ses représentations sociales, ses marges bénéficiaires, et donc sa valeur. Plus difficile encore, l’objet véhicule devra être considéré comme un accessoire, un moyen et non une fin ; la valeur devra être transférée ailleurs et nous y reviendrons. Le constructeur devenu provider de mobilité aura également réussi à attirer à lui les meilleurs « *relieurs* », à leur permettre d’innover en permanence sans leur imposer une lourdeur indus
+=======
+Pour cela, le design serviciel des mobilités imposera de revoir totalement l’objet véhicule, ses interfaces, ses représentations sociales, ses marges bénéficiaires, et donc sa valeur. Plus difficile encore, l’objet véhicule devra être considéré comme un accessoire, un moyen et non une fin ; la valeur devra être transférée ailleurs et nous y reviendrons. Le constructeur devenu provider de mobilité aura également réussi à attirer à lui les meilleurs « *relieurs* », à leur permettre d’innover en permanence sans leur imposer une lourdeur indus_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 trielle. Les utilisateurs seront également séduits, volontaires pour proposer des évolutions, pour certains outillés pour créer, et pour les meilleurs, inclus au plus près des structures de décision. Ce constructeur aura augmenté son autorité par de nouvelles connaissances sur les usages, les besoins réels, s’adaptera à tous les territoires par sa reliance à la multitude, et donc augmentera son empathie. Aujourd’hui pour les différents constructeurs (**[VW greenwheels](http://t.co/Njt1DdXEU5)**, **[Daimler Mobility service](/2013/05/entre-daimler-et-zappos-qui-proposera-la-meilleure-experience-de-mobilite.html)**, Peugeot Mu, **[Citroen Multicity](/2012/06/et-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f.html)**, ou encore **[Toyota](http://t.co/bUi6Vg5x)** ou **[BMW](http://t.co/zlQLrPV)**…) les services de mobilité restent un moyen de vendre des voitures, ils restent dans le modèle d’affaires historique. A ce jour, aucun constructeur n’est devenu une plateforme au sens des 4 fantastiques. 
 
  
@@ -124,7 +136,11 @@ Tant que ce «consentement au don de données» existe, que les expériences vé
 
  
 
+<<<<<<< HEAD
 En effet, compte tenu de la puissance des plateformes pour optimiser nos systèmes complexes (ville, énergie, transport, alimentation…), il est nécessaire de progresser sur la répartition des bénéfices entre la plateforme et la multitude. Le consentement au don de données doit être exposé à la multitude sur la base de contrat plus clair portant sur la gestion, le traitement et l’utilisation des traces numériques. De nouvelles solutions de fis
+=======
+En effet, compte tenu de la puissance des plateformes pour optimiser nos systèmes complexes (ville, énergie, transport, alimentation…), il est nécessaire de progresser sur la répartition des bénéfices entre la plateforme et la multitude. Le consentement au don de données doit être exposé à la multitude sur la base de contrat plus clair portant sur la gestion, le traitement et l’utilisation des traces numériques. De nouvelles solutions de fis_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 calité sont dès lors applicables, là aussi pour des bénéfices collectifs. Ces bénéfices individuels et collectifs devront être quantifiés, suivis et analysés. Dans chaque plateforme, plusieurs **[monnaies](/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples.html)** seront sans doute mises en œuvre pour simplifier, fédérer les collectifs, augmenter la reliance : des **monnaies** par métier, par communauté d’intérêt, par territoire, … 
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "Le « reverse marketing » utilisant le tsunami des données, le consommateur reprend la main – quelles conséquences dans le domaine des transports ?"
 date: 2011-08-11 12:31:57 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'citoyen', 'connectivité', 'donnée data', 'données réelles', 'Efficacité énergétique', 'Energie', 'General Electric', 'google', 'internet', 'management de la mobilité', 'marchandises', 'marketing individualisé', 'open innovation', 'open source', 'partage de données', 'sousveillance', 'TED', 'véhicule propre']
+=======
+tags: ["Assistant Personnel de Consommation", "citoyen", "connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "General Electric", "google", "internet", "management de la mobilit\u00e9", "marchandises", "marketing individualis\u00e9", "open innovation", "open source", "partage de donn\u00e9es", "sousveillance", "TED", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le rôle de la donnée dans le domaine des transports, détaillée dans plusieurs précédents articles (notamment **[ICI](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html)**), va devenir tellement important que la plupart des entreprises le sous-estiment sans doute. Tous les acteurs seront touchés. Surtout ceux qui protègent leurs données stratégiques de leurs clients. Qui connaît la consommation (réelle) d’un véhicule avant de l’acheter ? Pourtant cette donnée impacte jusqu’à 50% le budget transport des ménages les plus fragiles.

@@ -3,7 +3,11 @@ layout: post
 title: "La dé-possession automobile devient un business"
 date: 2015-02-06 11:46:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Acteur numérique des Mobilités et des Logistiques', 'assistant de mobilité', 'autopartage', 'autorité des transports', 'citoyen', 'collectivité', 'donnée data', 'google', 'gouvernance', 'innovation', 'multimodes', 'multitude', 'Service de mobilité', 'Uber', 'voyage']
+=======
+tags: ["Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "assistant de mobilit\u00e9", "autopartage", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "google", "gouvernance", "innovation", "multimodes", "multitude", "Service de mobilit\u00e9", "Uber", "voyage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le numérique tisse des liens privilégiés avec les usagers des transports, les citoyens, les automobilistes. D'après le [**rapport Gafanomics**](http://www.fabernovel.com/fr/gafa/), Facebook a mis 10 ans pour capter 16% de notre temps. La palette de services de mobilité s'améliore tous les jours, soit par de nouveaux services, soit par des améliorations, abaissant les barrières à l'expérimentation. Il devient chaque jour plus facile d'essayer. Ce point est essentiel dans la conduite du changement : pas de friction pour essayer, pour revenir en arrière, puis y revenir (lire l'article [**Changer. Enfin**](/2014/12/changer-de-mobilite.html)).
@@ -66,7 +70,11 @@ Le rapport est accessible directement :
 
  
 
+<<<<<<< HEAD
  ** [Innovative transportation index_uspirg]() ** from **[Les transports du futur]()**"2015-02-06 11:46:44https://transportsdufutur.ademe.fr/2015/02/la-de-possession-automobile-devient-un-business.htmlActeur numérique des Mobilités et des Logistiques|assistant de mobilité|autopartage|autorité des transports|citoyen|collectivité|donnée data|google|gouvernance|innovation|multimodes|multitude|Service de mobilité|Uber|voyagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-de-possession-automobile-devient-un-business2017-05-05 15:38:11>“I’m so proud that the car capital of the world is evolving into a tech-transportation capital,” said Los Angeles Mayor Eric Garcetti in a statement. “LA’s transportation options have grown at a break-neck speed, on pace with our tech industry, to the benefit of our environment and our economy.”
+=======
+ ** [Innovative transportation index_uspirg]() ** from **[Les transports du futur]()**"2015-02-06 11:46:44/2015/02/06/la-de-possession-automobile-devient-un-business/Acteur numérique des Mobilités et des Logistiques|assistant de mobilité|autopartage|autorité des transports|citoyen|collectivité|donnée data|google|gouvernance|innovation|multimodes|multitude|Service de mobilité|Uber|voyagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-de-possession-automobile-devient-un-business2017-05-05 15:38:11>“I’m so proud that the car capital of the world is evolving into a tech-transportation capital,” said Los Angeles Mayor Eric Garcetti in a statement. “LA’s transportation options have grown at a break-neck speed, on pace with our tech industry, to the benefit of our environment and our economy.”
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

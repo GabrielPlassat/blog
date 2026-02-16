@@ -3,7 +3,11 @@ layout: post
 title: "L'accès à de nouvelles données, risques et opportunités"
 date: 2012-06-19 09:03:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'données réelles', 'intelligence collective', "lloyd's", 'partage de données', 'Santé', 'surveillance']
+=======
+tags: ["citoyen", "confiance", "donn\u00e9es r\u00e9elles", "intelligence collective", "lloyd's", "partage de donn\u00e9es", "Sant\u00e9", "surveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cet **[article](http://www.forbes.com/sites/kashmirhill/2012/06/15/data-mining-ceo-says-he-pays-for-burgers-in-cash-to-avoid-junk-food-purchases-being-tracked/)** de Forbes détaille les évolutions de comportement des compagnies d’assurances américaines induits par le numérique et la disponibilité de larges quantités de données concernant les consommateurs. Ce point lié aux questions de la surveillance a déjà été abordé dans des articles précédents (métaNote sur la **[surveillance](/2010/03/apres-la-surveillance-la-sousveillance.html)** et article sur **[l’origine des assurances](/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages.html)**). Il s’agit, dans cet exemple, du lien entre alimentation et santé, entre aliments peu recommandables car nocifs pour la santé et coûts financiers des conséquences de ces « choix » alimentaires. L’exemple est saisissant : les compagnies d’assurances utilisent de plus en plus les informations contenues dans les cartes de fidélité des magasins de grandes distributions pour apprendre, identifier et suivre les consommateurs selon leurs pratiques.

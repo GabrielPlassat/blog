@@ -3,7 +3,11 @@ layout: post
 title: "Des autoroutes à vélo à Copenhague"
 date: 2010-04-29 14:20:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'mode doux', 'partage de la voirie', 'Santé', 'transit']
+=======
+tags: ["Infrastructure", "mode doux", "partage de la voirie", "Sant\u00e9", "transit"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[[Le Monde 28 avril 2010](http://bonnenouvelle.blog.lemonde.fr/2010/04/28/des-autoroutes-pour-velos/) et également [ici](http://www.copenhagenize.com/2009/08/bicycle-commuter-superhighways-in.html)] Ça se passe à Copenhague** et ça fait rêver les adeptes des trajets citadins à vélo (voir quelques stats **[ici](http://www.kk.dk/sitecore/content/Subsites/CityOfCopenhagen/SubsiteFrontpage/InformationAndServices/CityAndTraffic/CityOfCyclists.aspx)**). La capitale danoise s’est en effet lancée dans un vaste programmes d’ “autoroutes pour vélos” afin de relier ses banlieues au centre ville. L’investissement annoncé est de 35 millions d’euros. Pour information, Le coût moyen à la construction d'un kilomètre d'autoroute - pour voiture - est de six millions d'euros, à multiplier par deux ou trois en montagne, intervient Jean Mesqui, délégué général de **[l'Afsa]()**.

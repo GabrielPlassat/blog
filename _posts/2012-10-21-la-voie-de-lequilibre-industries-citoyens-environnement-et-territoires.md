@@ -3,7 +3,11 @@ layout: post
 title: "La voie de l'équilibre - Industries, Citoyens, Environnement et Territoires"
 date: 2012-10-21 22:47:50 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'catastrophe', 'citoyen', 'commuter', 'congestion', 'connectivité', 'données réelles', 'economie circulaire', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'externalité', 'Fablab', 'google', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'living lab', 'low cost', 'marketing individualisé', 'MIT', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "catastrophe", "citoyen", "commuter", "congestion", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "Fablab", "google", "holoptisme", "innovation", "intelligence collective", "internet", "living lab", "low cost", "marketing individualis\u00e9", "MIT", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La situation est clairement critique. D’un de point de vue énergétique, les experts estiment à plusieurs milliards par an les investissements à réaliser pour sortir de la dépendance au pétrole, pour améliorer notre efficacité dans tous les secteurs, dont les transports. Le précédent Schéma National des Infrastructures de Transports issu du Grenelle sera revu, sans doute à la baisse. D’un point de vue économique, les experts constatent la difficulté des industries automobiles dans un marché européen saturé, avec comme sorties possibles le Low cost ou le Premium. D’un point de vue environnemental, les experts soulignent que plusieurs critères en matière de qualité de l’air ne sont pas respectés, les conséquences sanitaires sont déjà connues : plus de maladies, de décès. D’un point de vue social, les citoyens et les entreprises observent que les transports ne s’améliorent pas (congestion, budget), et ne voient pas quel avenir se dessine…

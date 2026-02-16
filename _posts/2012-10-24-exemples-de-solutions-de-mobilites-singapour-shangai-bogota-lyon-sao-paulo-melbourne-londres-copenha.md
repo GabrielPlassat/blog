@@ -3,7 +3,11 @@ layout: post
 title: "Exemples de solutions de Mobilités : Singapour, Shangai, Bogota, Lyon, Sao Paulo, Melbourne, Londres, Copenhague"
 date: 2012-10-24 12:00:08 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'cité', 'collectivité', 'commuter', 'congestion', 'gouvernance', 'Infrastructure', 'innovation', 'management de la mobilité', 'marketing individualisé', 'megacity', 'multimodes', 'Service de mobilité']
+=======
+tags: ["autorit\u00e9 des transports", "cit\u00e9", "collectivit\u00e9", "commuter", "congestion", "gouvernance", "Infrastructure", "innovation", "management de la mobilit\u00e9", "marketing individualis\u00e9", "megacity", "multimodes", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Toutes les présentations et d'autres villes sont disponibles sur [http://fr.slideshare.net/transportsdufutur](http://fr.slideshare.net/transportsdufutur)

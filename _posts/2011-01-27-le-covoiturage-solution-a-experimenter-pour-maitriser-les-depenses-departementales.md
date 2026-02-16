@@ -3,7 +3,11 @@ layout: post
 title: "Le covoiturage, solution à expérimenter pour ... maitriser les dépenses départementales"
 date: 2011-01-27 20:15:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'citoyen', 'collectivité', 'confiance', 'covoiturage', 'Efficacité énergétique', 'emission', 'gouvernance', 'management de la mobilité']
+=======
+tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "confiance", "covoiturage", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "gouvernance", "management de la mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le rapport réalisé en avril 2010 par Monsieur Pierre JAMET traite des finances des départements. Il donne des exemples d'initiatives et d'expérimentations à lancer. Ainsi En matière de transport, ouvrir l’expérimentation à une organisation et à une participation financière au **covoiturage **en lieu et place de certains transports par cars, plus ou moins vides, aux horaires limités pour des raisons de coût. Il ne s’agit pas de systématiser, mais d’offrir la possibilité de faire quelques expériences. La protection de l’environnement, les finances politiques et les relations sociales y trouveraient avantage."
@@ -94,4 +98,8 @@ Le covoiturage pourrait prendre un essor rapide avec les mesures proposées suiv
 
  
 
+<<<<<<< HEAD
  [Rapport finance département_covoiturage]() View more [documents]() from [transportsdufutur](). "2011-01-27 20:15:17https://transportsdufutur.ademe.fr/2011/01/le-covoiturage-solution-a-experimenter-pour-maitriser-les-depenses-departementales.htmlautorité des transports|citoyen|collectivité|confiance|covoiturage|Efficacité énergétique|emission|gouvernance|management de la mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-covoiturage-solution-a-experimenter-pour-maitriser-les-depenses-departementales2015-07-21 16:37:28
+=======
+ [Rapport finance département_covoiturage]() View more [documents]() from [transportsdufutur](). "2011-01-27 20:15:17/2011/01/27/le-covoiturage-solution-a-experimenter-pour-maitriser-les-depenses-departementales/autorité des transports|citoyen|collectivité|confiance|covoiturage|Efficacité énergétique|emission|gouvernance|management de la mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-covoiturage-solution-a-experimenter-pour-maitriser-les-depenses-departementales2015-07-21 16:37:28
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,11 +3,16 @@ layout: post
 title: "[Fiction N°6] La Poste ne livre plus, c'est Google qui le fait"
 date: 2013-12-16 18:37:12 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'assistant de mobilité', 'citoyen', 'confiance', 'donnée data', 'économie fonctionnalité', 'google', 'intelligence collective', 'Service de mobilité']
+=======
+tags: ["Amazon", "assistant de mobilit\u00e9", "citoyen", "confiance", "donn\u00e9e data", "\u00e9conomie fonctionnalit\u00e9", "google", "intelligence collective", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 "*Plus que 3 km ...*" songe Mathieu en consultant le coin de ses glass. Courir était pour lui un véritable plaisir dans ces sous-bois pour aller travailler. Deux fois par semaine, ce déplacement lui rapporte assez de point pour bénéficier d'une réduction de 30% sur sa mutuelle santé, et il améliore également son compteur CO2, ouvrant des réductions pour ses prochains travaux d'isolation (voir sur ce sujet des exemples actuels [**Walkmore**](http://www.proame.net/walkmore-big-data-et-ludification-pour-une-banque-qui-relie-performances-physiques-et-financieres-le-regime-big-data-serait-il-ne/#), [**CarePass**](http://medcitynews.com/2013/06/did-you-exercise-today-aetna-can-tell-with-smartphone-app/), [**Compte épargne CO2 par Crédit Mutuel**](/2013/11/et-si-la-richesse-netait-pas-synonyme-de-plus-la-monnaie-des-economies-de-co2.html), [**BaseLine Telematics**](http://quebec.huffingtonpost.ca/2013/08/20/un-gps-pour-reduire-ses-primes-dassurances_n_3787207.html?utm_hp_ref=tw), [**Movelo**](http://www.movelo.se/wordpress/projects/movelo-efficient-driving/)). Depuis 2023, la surveillance de certaines activités physiques, pour pouvoir financer les pertes financières des structures publiques et privées d'assurances santé, s'était déployée. D'abord sur des bases volontaires, puis étendu ... Ceci avait été accepté par l'attrait de [**bénéfices financiers**](http://bits.blogs.nytimes.com/2012/12/05/car-insurance-gets-personal/?smid=tw-share&_r=0) et également grâce à La Poste Safety Box, solution numérique de gestion des données numériques individuelles. La Poste, structure historique inspirant la confiance, avait réussi à devenir la plate-forme personnelle de gestion de nos données. Cette activité ne lui avait pas permis de combler [**la chute du courrier papier**](http://www.lesechos.fr/entreprises-secteurs/finance-marches/actu/0203187869922-la-poste-va-devoir-revoir-la-distribution-du-courrier-636927.php?xtor=RSS-2132), mais elle devenait enfin rentable grâce à de nombreux services associés. Pour conserver cette avance, La Poste est une des structures la plus innovante en matière d'implication des usagers et d'intelligence collective (lire l'article [**les nouveaux dispositifs d'intelligence collective**](/2013/10/les-nouveaux-dispositifs-dinnovations-collectifs.html)).
 
+<<<<<<< HEAD
 Mathieu travaille d'ailleurs à La Poste comme *Facilitateur Amplifieur* (voir schéma ci dessous des compétences numériques) de plusieurs communautés d'intérêts et industrialise des services freemium pour les citoyens et les entreprises. Les récentes lois obligeant tous les acteurs économiques, toutes les plate-formes et même les Bots, à renvoyer toutes les données vers les citoyens, avaient formidablement amplifié les capacités de la Safety Box. Mathieu avait fait son stage à La FING au moment du projet [**Mes Infos**](http://fing.org/?-MesInfos-les-donnees-personnelles-) : *MesInfos propose à un petit nombre d'entreprises et d'administrations pionnières d'explorer et d'expérimenter ce qui pourrait constituer la base d'une transformation profonde de la relation entre les organisations et leurs clients ou usagers : le partage et la réutilisation des données personnelles avec les individus qu'elles concernent.*
 
 [![Mememachine_master](/assets/images/old/6a0120a66d2ad4970b01a3fa8a3a21970b-500wi.png)](/assets/images/old/6a0120a66d2ad4970b01a3fa8a3a21970b-pi.png)
@@ -26,3 +31,48 @@ ys avec peu d'infrastructures routières. Mathieu se souvient que les règles av
 Bien sûr cette capacité à robotiser et numériser les objets avait intéressé de nombreux acteurs dont **[Elon Musk et Tesla](/2013/09/un-cygne-noir-a-ete-vu-dans-la-silicon-valley-tesla-et-google-vont-lui-donner-un-nom.html)**. Naturellement, cette fusion avait donné naissance au premier fabricant de véhicule autonome capable de circuler sur 80% des infrastructures existantes parfaitement indexées et numérisées, et en même de mettre à jour les cartes et les index du monde physique (lire l'article [**le choc à venir entre l'industrie numérique et l'industrie automobile**](/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.html)).
 
 Mathieu se souvient qu'[**Uber**](http://nymag.com/daily/intelligencer/2013/12/uber-might-be-more-valuable-than-facebook.html), maintenant totalement automatisé, dans lequel Google avait investi plus de 250 millions de $, avait commencé à livrer le premier objet en 2013 : [**des sapins de Noël**](http://www.smartplanet.com/blog/bulletin/uber-brings-christmas-trees-on-demand/) ...
+=======
+_x000D_
+
+Mathieu travaille d'ailleurs à La Poste comme *Facilitateur Amplifieur* (voir schéma ci dessous des compétences numériques) de plusieurs communautés d'intérêts et industrialise des services freemium pour les citoyens et les entreprises. Les récentes lois obligeant tous les acteurs économiques, toutes les plate-formes et même les Bots, à renvoyer toutes les données vers les citoyens, avaient formidablement amplifié les capacités de la Safety Box. Mathieu avait fait son stage à La FING au moment du projet [**Mes Infos**](http://fing.org/?-MesInfos-les-donnees-personnelles-) : *MesInfos propose à un petit nombre d'entreprises et d'administrations pionnières d'explorer et d'expérimenter ce qui pourrait constituer la base d'une transformation profonde de la relation entre les organisations et leurs clients ou usagers : le partage et la réutilisation des données personnelles avec les individus qu'elles concernent.*
+
+_x000D_
+
+[![Mememachine_master](/assets/images/old/6a0120a66d2ad4970b01a3fa8a3a21970b-500wi.png)](/assets/images/old/6a0120a66d2ad4970b01a3fa8a3a21970b-pi.png)
+
+_x000D_
+_x000D_
+_x000D_
+Cela faisait la 3ème fois qu'il croisait en pleine forêt un droide cartographe de dernière génération. Adaptés à tous les environnements, fonctionnant avec des autonomies de plusieurs mois, les droides humanoides ou ressemblant à des animaux cartographient les 80% du territoire que les voitures robots ne peuvent pas faire. La maîtrise de la carte et de toutes les connaissances relatives à un lieu ont toujours été stratégiques. Depuis 2010, Google s'organise pour dominer ce sujet (lire l'article [**Google's road map to Global Domination**](http://mobile.nytimes.com/2013/12/15/magazine/googles-plan-for-global-domination-dont-ask-why-ask-where.html))._x000D_
+
+"*Je suis sûr qu'ils font plus que cartographier ..*. " songait-il à chaque fois.
+
+_x000D_
+
+Grâce à de nombreux investissements et achats dans les années 2013-2014 ([**Google achète huit entreprises de robotique dont Boston Dynamics en 6 mois en 2013**](http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html?_r=1&)), Google avait réussi dès 2018 à indexer la totalité des mondes numériques et physiques. Les robots s'étaient imposés "naturellement" comme étant les mieux adaptés pour capter, numériser, mettre à jour le monde réel (lire la [**MétaNote N°17 La révolution numérique et la fin de l'automobile**](/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi.html)). Personne n'avait imaginé que l'industrialisation de robot cartographe allait, en complément, apporter des technologies à bas prix pour transporter et livrer des produits dans tous les territoires et également bouleverser les plate-formes logistiques de traitement des commandes.
+
+_x000D_
+
+[![Atlas-front-back-640x353](/assets/images/old/6a0120a66d2ad4970b01a3fa8a6fb3970b-500wi.png)](/assets/images/old/6a0120a66d2ad4970b01a3fa8a6fb3970b-pi.png)Rapidement, Google et Amazon ont dominé l'indexation, le commerce, la logistique et la livraison d'objets. Dans cette chaîne logistique, les humains ont progressivement été remplacés par des robots (Voir [**les Entretiens du nouveau monde Industriel)**](http://enmi-conf.org/wp/enmi13/), puis la bascule a été totale et rapide. Les entrepôts d'Amazon et des principaux e-commerçants n'emploient que quelques humains. Quand la proportion de droides dépassent un certain seuil, [**aucun humain**](http://ht.ly/rNevq) n'arrive à travailler dans un tel environnement.
+
+_x000D_
+
+Comme Amazon Web Services, dès le départ, Google et Amazon ont conçu leur robot à la fois pour leur propre besoin mais également pour **fournir des services de robotisation à tout industriel intéressé**. La Poste utilise d'ailleurs des drones livreurs pour certains colis, opérés par **[Amazon](http://www.lemonde.fr/technologies/article/2013/12/02/des-paquets-livres-par-drones-d-ici-cinq-ans_3523489_651865.html) **qui en a fait un service notamment pour les pa_x000D_
+ys avec peu d'infrastructures routières. Mathieu se souvient que les règles avaient évoluées pour permettre la circulation de drones de surveillance pour [**la SNCF**](http://www.latribune.fr/entreprises-finance/services/transport-logistique/20131106trib000794417/sncf-pour-utiliser-des-drones-de-surveillance-la-dgac-doit-faire-evoluer-ses-regles.html). Couplés à des suites logicielles gratuite et des cartes multicouches inédites, ces offres n'avaient aucun concurrent. Les robots permettaient d'améliorer la productivité, mais également de renvoyer des données stratégiques aux box des entreprises et aux moteurs d'apprentissage. La valeur est bien passée par les logiciels (lire l'article [**le logiciel dévore le monde**](/2013/12/le-logiciel-devore-le-transport-des-voyageurs.html)), mais elle a également migré vers les objets numérisables (pilotés par les logiciels) permettant d'augmenter la taille de l'écosystème. Quand, en plus, les objets fournissent des données en retour, la position devient "dominante". Dire que [**quelques personnes**](http://blog.launch.co/blog/googlewinseverything-part-1.html?utm_content=buffere86b9&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer) l'avaient imaginé dès 2013...
+
+_x000D_
+
+Bien sûr cette capacité à robotiser et numériser les objets avait intéressé de nombreux acteurs dont **[Elon Musk et Tesla](/2013/09/un-cygne-noir-a-ete-vu-dans-la-silicon-valley-tesla-et-google-vont-lui-donner-un-nom.html)**. Naturellement, cette fusion avait donné naissance au premier fabricant de véhicule autonome capable de circuler sur 80% des infrastructures existantes parfaitement indexées et numérisées, et en même de mettre à jour les cartes et les index du monde physique (lire l'article [**le choc à venir entre l'industrie numérique et l'industrie automobile**](/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.html)).
+
+_x000D_
+
+Mathieu se souvient qu'[**Uber**](http://nymag.com/daily/intelligencer/2013/12/uber-might-be-more-valuable-than-facebook.html), maintenant totalement automatisé, dans lequel Google avait investi plus de 250 millions de $, avait commencé à livrer le premier objet en 2013 : [**des sapins de Noël**](http://www.smartplanet.com/blog/bulletin/uber-brings-christmas-trees-on-demand/) ...
+
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "Des exemples de convergence auto / moto"
 date: 2010-10-19 08:28:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Efficacité énergétique', 'multimodes', 'partage de la voirie', 'Service de mobilité', 'véhicule mono-usage']
+=======
+tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "multimodes", "partage de la voirie", "Service de mobilit\u00e9", "v\u00e9hicule mono-usage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans la vidéo ci dessous, des exemples de convergence auto/moto qui conduieront à de nouvelles formes de véhicules mono-usage (avec lesquels on ne fait pas tout), à des problèmes de partage de la voirie et des espaces de stationnement mais également à des potentiels très importants de gains énergétiques par déplacement. Seront nous capables de maîtriser les effets rebonds ? Une des questions centrale est : que ferons nous, collectivemment des gains énergétiques obtenus par des véhicules ou des organisations plus efficaces ? est ce que nous allons, comme maintenant, les réinvestir dans plus de mobilité ou bien les réinvestir dans d'autres actions vertueuses ? 

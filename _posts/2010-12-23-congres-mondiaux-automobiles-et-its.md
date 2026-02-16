@@ -3,7 +3,11 @@ layout: post
 title: "Congrès mondiaux Automobiles et ITS"
 date: 2010-12-23 10:55:03 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'donnée data', 'données réelles', 'Efficacité énergétique', 'emission', 'Energie', 'Infrastructure', 'innovation', 'internet', 'internet des objets']
+=======
+tags: ["connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "Infrastructure", "innovation", "internet", "internet des objets"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La région Bretagne s’investit dans le sujet de Mobilité décarbonée via son Plan Véhicule Vert Breton. Déjà abordé plusieurs fois dans ce blog (voir **[ici ](/2010/07/synthese-conference-plan-vehicule-vert-breton-du-1er-juillet-2010.html)**et **[là](/2010/06/la-bretagne-precurseur-dun-nouveau-standard-de-mobilite.html)**), cette initiative régionale vise à repenser les mobilités en partant des besoins réels des entreprises et citoyens, pour développer des solutions systémiques utilisant principalement les compétences locales en matière de véhicule, mais aussi de TIC, de matériaux composites ou de batteries.

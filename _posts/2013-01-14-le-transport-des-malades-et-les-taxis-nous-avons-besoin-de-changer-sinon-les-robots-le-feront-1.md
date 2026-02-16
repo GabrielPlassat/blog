@@ -3,7 +3,11 @@ layout: post
 title: "Le transport des malades et les taxis, nous avons besoin de changer. Sinon les robots le feront."
 date: 2013-01-14 15:20:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'données réelles', 'Efficacité énergétique', 'google', 'gouvernance', 'hopital', 'management de la mobilité', 'Santé', 'Service de mobilité']
+=======
+tags: ["citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "gouvernance", "hopital", "management de la mobilit\u00e9", "Sant\u00e9", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 D’un côté le transport des malades réalisé par des taxis coûte cher pour la Sécurité sociale, de l’autre c’est, pour ces derniers, un investissement qui trouve là un débouché pérenne. Cette situation est à la fois difficile à faire évoluer, et forcément non durable, dans le sens premier : « qui ne pourra pas durer ».

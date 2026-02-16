@@ -3,7 +3,11 @@ layout: post
 title: "Transfert modal et marketing individualisé, aujourd'hui et demain"
 date: 2011-05-04 14:56:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['CERTU', 'citoyen', 'management de la mobilité', 'marketing individualisé']
+=======
+tags: ["CERTU", "citoyen", "management de la mobilit\u00e9", "marketing individualis\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le rapport du CERTU réalisé par **[Socialdata ](http://www.socialdata.de/home.php?lang=en)**montre l'intérêt du marketing individualisé pour obtenir un transfert modal pérenne de la voiture particulière vers les autres modes de déplacement.

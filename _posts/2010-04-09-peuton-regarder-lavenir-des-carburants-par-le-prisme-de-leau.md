@@ -3,7 +3,11 @@ layout: post
 title: "Peut-on regarder l’avenir des carburants par le prisme de l’eau ?"
 date: 2010-04-09 14:44:31 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['eau', 'Energie', 'partage de données']
+=======
+tags: ["eau", "Energie", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les liens eau-énergie se développent, s’étendent, se complexifient. Les usages de l’eau sont connus, et sa répartition à l’échelle du globe est inégale en quantité et surtout en qualité.
@@ -67,7 +71,11 @@ De l’énergie pour produire de l’eau. D’autres pays utilisent des millions
 
  
 
+<<<<<<< HEAD
 L’eau e
+=======
+L’eau e_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 st donc au centre de nos défis. La dernière **[conférence mondiale sur l’eau](/assets/images/2010/04/Water_at_a_Crossroad.pdf)** a d’ailleurs abordé en même temps « eau et énergie », « eau et alimentaire », concluant à « *More integrated policies and a further focus on multi-functional uses of water are needed to address the increasing competition for water from the agriculture and energy sectors. **Speakers emphasized that the inter-linkage between water, food and energy could be turned into a win-win situation, rather than a competitive one.”*
 
  

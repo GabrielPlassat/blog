@@ -46,7 +46,11 @@ Les systèmes de taxe et de quotas sont détaillés et analysés tant au niveau 
 
  
 
+<<<<<<< HEAD
 *Le système de quotas personnels est un instrument de régulation des émissions de CO2 par les quantités. La notion de rationnement ne semble cependant pas appropriée car elle renvoie à l’idée d’une limitation fixe des émissions. Les termes de limite ou de plafond flexible sont plus opportuns. Le budget carbone individu
+=======
+*Le système de quotas personnels est un instrument de régulation des émissions de CO2 par les quantités. La notion de rationnement ne semble cependant pas appropriée car elle renvoie à l’idée d’une limitation fixe des émissions. Les termes de limite ou de plafond flexible sont plus opportuns. Le budget carbone individu_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 el serait en effet modulable, puisqu’il serait assorti d’un mécanisme de récompense et de pénalité en fonction de son respect ou de son dépassement. **Le dispositif de quotas personnels de carbone devrait constituer une option sérieuse lorsque les politiques existantes seront considérées comme n’étant pas en mesure de réduire suffisamment les émissions des particuliers.***
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "IFP Sessions : Quelles technologies pour diversifier les carburants dédiés au transport ?\"\""
 date: 2009-12-14 19:13:08 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Energie', 'Véhicule', 'xTL']
+=======
+tags: ["ADEME", "Energie", "V\u00e9hicule", "xTL"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les décennies à venir devront, de manière urgente, considérer les carburants alternatifs produits à partir de gaz naturel, de charbon, de biomasse ou d’hydrogène comme un impératif, pour venir compléter les carburants conventionnels à base de pétrole utilisés pour le transport. Demande mondiale de carburants en forte croissance, pic de production de pétrole conventionnel, facteurs environnementaux critiques et difficulté de substituer rapidement et à grande échelle les carburants à base de pétrole, sont autant d’incitations à diversifier les carburants dédiés au transport en développant des filières alternatives. 

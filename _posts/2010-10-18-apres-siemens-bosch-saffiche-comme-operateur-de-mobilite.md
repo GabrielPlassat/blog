@@ -3,7 +3,11 @@ layout: post
 title: "Après Siemens, Bosch s'affiche comme opérateur de mobilité"
 date: 2010-10-18 08:30:28 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['collectivité', 'internet', 'Service de mobilité']
+=======
+tags: ["collectivit\u00e9", "internet", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *The many possibilities this integrated service platform offers are becoming especially apparent in megacities. The Singapore government has recognized this opportunity and is now working together with Bosch to make this pioneering technology a reality. *—Franz Fehrenbach, chairman of the Bosch board of management
@@ -40,4 +44,8 @@ The software and systems unit’s web-based solutions are designed to network di
 
 En complément, les liens fournis par **[Silobreaker]() :**
 
+<<<<<<< HEAD
  // [www.silobreaker.com]()"2010-10-18 08:30:28https://transportsdufutur.ademe.fr/2010/10/apres-siemens-bosch-saffiche-comme-operateur-de-mobilite.htmlcollectivité|internet|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapres-siemens-bosch-saffiche-comme-operateur-de-mobilite2015-07-21 16:37:36// ]]> [www.silobreaker.com]()"
+=======
+ // [www.silobreaker.com]()"2010-10-18 08:30:28/2010/10/18/apres-siemens-bosch-saffiche-comme-operateur-de-mobilite/collectivité|internet|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapres-siemens-bosch-saffiche-comme-operateur-de-mobilite2015-07-21 16:37:36// ]]> [www.silobreaker.com]()"
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

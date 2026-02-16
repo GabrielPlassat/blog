@@ -3,7 +3,11 @@ layout: post
 title: "Voiture à la carte"
 date: 2010-03-24 09:14:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['transition générationnelle', 'Véhicule']
+=======
+tags: ["transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Article issu du blog **[Voiture du Futur](http://voituredufutur.blogspot.com/2010/03/business-pass-lautomobile-la-carte.html)***

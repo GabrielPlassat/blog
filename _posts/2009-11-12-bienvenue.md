@@ -3,7 +3,11 @@ layout: post
 title: "Bienvenue"
 date: 2009-11-12 10:33:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'Séminaire']
+=======
+tags: ["ADEME", "S\u00e9minaire"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Lancement officiel de ce blog pour le séminaire du 3 décembre 2009 à Sophia Antipolis.**

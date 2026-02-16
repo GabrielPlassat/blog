@@ -3,7 +3,11 @@ layout: post
 title: "PORSCHE s'inspirera bientôt de PUMA"
 date: 2010-04-26 14:24:11 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['emission', 'philanthropie', 'Véhicule', 'véhicule propre']
+=======
+tags: ["emission", "philanthropie", "V\u00e9hicule", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La société de Sportlifestyle PUMA a annoncé jeudi, au cours de la conférence « Business for the Environment Summit » (B4E) qui se tenait à Séoul, qu’elle compenserait la totalité de ses émissions mondiales de CO2 et deviendrait ainsi la première société neutre en carbone de l’industrie du Sportlifestyle. En outre, PUMA prendra à sa charge la compensation de toutes les émissions de CO2 générées par les déplacements internationaux des équipes de football sponsorisées par PUMA et qui participent, cet été, à la Coupe du Monde de Football en Afrique du Sud. 
@@ -25,4 +29,8 @@ De plus, PUMA souhaite compenser l’empreinte carbone de ses employés en subve
 
 [Source]()
 
+<<<<<<< HEAD
 "2010-04-26 14:24:11https://transportsdufutur.ademe.fr/2010/04/porsche-sinspirera-bientot-de-puma.htmlemission|philanthropie|Véhicule|véhicule proprepublish18gabriel plassatporsche-sinspirera-bientot-de-puma2010-04-26 14:24:11
+=======
+"2010-04-26 14:24:11/2010/04/26/porsche-sinspirera-bientot-de-puma/emission|philanthropie|Véhicule|véhicule proprepublish18gabriel plassatporsche-sinspirera-bientot-de-puma2010-04-26 14:24:11
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

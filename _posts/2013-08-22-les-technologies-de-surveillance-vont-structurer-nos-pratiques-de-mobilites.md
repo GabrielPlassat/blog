@@ -3,7 +3,11 @@ layout: post
 title: "Les technologies de surveillance vont structurer nos pratiques de mobilités"
 date: 2013-08-22 11:20:06 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'citoyen', 'commuter', 'confiance', 'connectivité', 'covoiturage', 'donnée data', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'internet des objets', "Plateforme d'idées", 'Service de mobilité']
+=======
+tags: ["autopartage", "citoyen", "commuter", "confiance", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "holoptisme", "innovation", "intelligence collective", "internet", "internet des objets", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'étape N°2 s'enclenche déjà. Après avoir permis de créer de nouveaux usages de l'automobile comme l'autopartage, le covoiturage, le taxi partagé, ... , le numérique est en train de les fusionner pour proposer **[Carjump](http://www.carjump.de/?lang=en)** en Allemagne ou [**Carsonar** ](http://www.carsonar.com/)en France. Ces moteurs de recherche d'automobiles partagées" vont devenir rapidement des moteurs de recherche de mobilité. L'iMaaS (lire **[Et si c'est les jeux étaient déjà faits ? l'iMaaS arrive]()**) est finalement déjà là.
@@ -20,6 +24,10 @@ Progressivement tous les véhicules partagés seront équipés d'un système num
 
 Ces trois évènements vont arriver, portés par des acteurs et des temporalités différents. Ils vont radicalement changer notre expérience de mobilité en voiture. Avec le recul, ils auront participé au premier niveau à la mutation en cours. Mais ces technologies posent des questions liées à la surveillance, à la protection des données privées, aux croisements de multiples données aujourd'hui inaccessibles. Ce précédent article (lire **[MétaNote 3 La Surveillance]()**) montre cette dualité avec laquelle nous devrons évoluer, comme J.Attali le décrit dans cet entretien.
 
+<<<<<<< HEAD
  "2013-08-22 11:20:06https://transportsdufutur.ademe.fr/2013/08/les-technologies-de-surveillance-vont-structurer-nos-pratiques-de-mobilites.htmlautopartage|citoyen|commuter|confiance|connectivité|covoiturage|donnée data|holoptisme|innovation|intelligence collective|internet|internet des objets|Plateforme d'idées|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-technologies-de-surveillance-vont-structurer-nos-pratiques-de-mobilites2015-07-21 16:35:39>Ces trois évènements vont arriver, portés par des acteurs et des temporalités différents. Ils vont radicalement changer notre expérience de mobilité en voiture. Avec le recul, ils auront participé au premier niveau à la mutation en cours. Mais ces technologies posent des questions liées à la surveillance, à la protection des données privées, aux croisements de multiples données aujourd'hui inaccessibles. Ce précédent article (lire **[MétaNote 3 La Surveillance]()**) montre cette dualité avec laquelle nous devrons évoluer, comme J.Attali le décrit dans cet entretien.
+=======
+ "2013-08-22 11:20:06/2013/08/22/les-technologies-de-surveillance-vont-structurer-nos-pratiques-de-mobilites/autopartage|citoyen|commuter|confiance|connectivité|covoiturage|donnée data|holoptisme|innovation|intelligence collective|internet|internet des objets|Plateforme d'idées|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-technologies-de-surveillance-vont-structurer-nos-pratiques-de-mobilites2015-07-21 16:35:39>Ces trois évènements vont arriver, portés par des acteurs et des temporalités différents. Ils vont radicalement changer notre expérience de mobilité en voiture. Avec le recul, ils auront participé au premier niveau à la mutation en cours. Mais ces technologies posent des questions liées à la surveillance, à la protection des données privées, aux croisements de multiples données aujourd'hui inaccessibles. Ce précédent article (lire **[MétaNote 3 La Surveillance]()**) montre cette dualité avec laquelle nous devrons évoluer, comme J.Attali le décrit dans cet entretien.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  "

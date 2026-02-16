@@ -3,7 +3,11 @@ layout: post
 title: "Le consommateur, futur manager de ses données, préparons-nous, préparez-vous !"
 date: 2010-06-18 16:04:50 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance', 'connectivité', 'logistique', 'marchandises', 'partage de données']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "logistique", "marchandises", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le premier **[Forum Consumer Goods](http://www.ciesnet.com/)** préfigure une nouvelle ère de coopération entre le consommateur et le vendeur. La magazine, **[International Commerce Review - Winter 2009](http://www.ecr-institute.org/publications/international-commerce-review/archive/vol-8-no-2-4-winter-2009/)**, propose trois articles détaillant cette transition : 

@@ -3,7 +3,11 @@ layout: post
 title: "Freight vision 2050"
 date: 2010-02-25 12:32:14 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['camion', 'cité', 'connectivité', 'Infrastructure', 'marchandises', 'roadpricing']
+=======
+tags: ["camion", "cit\u00e9", "connectivit\u00e9", "Infrastructure", "marchandises", "roadpricing"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 This on-going european project (**[link](http://www.freightvision.eu/)**) will therefore :

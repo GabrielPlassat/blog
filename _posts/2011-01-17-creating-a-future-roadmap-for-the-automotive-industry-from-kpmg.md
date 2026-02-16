@@ -3,7 +3,11 @@ layout: post
 title: "Creating a future roadmap for the automotive industry (from KPMG)"
 date: 2011-01-17 15:44:07 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['carburant', 'Efficacité énergétique', 'Energie', 'innovation', 'Service de mobilité', 'véhicule mono-usage', 'véhicule propre']
+=======
+tags: ["carburant", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "innovation", "Service de mobilit\u00e9", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[KPMG ](http://www.kpmg.fr/)**vient de sortir une étude (téléchargeable ci dessous) portant sur l'évolution du secteur industriel automobile. Une roadmap" est proposée (image ci dessous), intégrant les principaux facteurs influents, ainsi que des échanges avec les constructeurs, les équipementiers (200 seniors executives).
@@ -18,4 +22,8 @@ Une étude intéressante qui analyse que le monde change, que l'automobile doit 
 
 Les conclusions portent elles les principaux points : solutions de mobilité intégrées, véhicules optimisés par usage et applications...
 
+<<<<<<< HEAD
  [Kpmg automotive survey-2011]() View more [documents]() from [transportsdufutur](). "2011-01-17 15:44:07https://transportsdufutur.ademe.fr/2011/01/creating-a-future-roadmap-for-the-automotive-industry-from-kpmg.htmlcarburant|Efficacité énergétique|Energie|innovation|Service de mobilité|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcreating-a-future-roadmap-for-the-automotive-industry-from-kpmg2015-07-21 16:37:29
+=======
+ [Kpmg automotive survey-2011]() View more [documents]() from [transportsdufutur](). "2011-01-17 15:44:07/2011/01/17/creating-a-future-roadmap-for-the-automotive-industry-from-kpmg/carburant|Efficacité énergétique|Energie|innovation|Service de mobilité|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcreating-a-future-roadmap-for-the-automotive-industry-from-kpmg2015-07-21 16:37:29
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

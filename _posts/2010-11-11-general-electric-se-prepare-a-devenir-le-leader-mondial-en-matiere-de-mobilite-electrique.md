@@ -3,7 +3,11 @@ layout: post
 title: "General Electric se prépare à devenir le leader mondial en matière de mobilité électrique"
 date: 2010-11-11 18:56:39 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'données réelles', 'internet', 'internet des objets', "Plateforme d'idées", 'réseaux', 'smartgrid', 'VE']
+=======
+tags: ["citoyen", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "Plateforme d'id\u00e9es", "r\u00e9seaux", "smartgrid", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 General Electric, l’une des plus grosses entreprises au Monde, va acquérir la plus grosse flotte de véhicules électriques avec 25 000 véhicules (**[communiqué de presse](http://www.genewscenter.com/Press-Releases/GE-Announces-Largest-Single-Electric-Vehicle-Commitment-Commits-to-Convert-Half-of-Global-Fleet-by-2015-2caf.aspx)**). General Electric (GE) via sa filiale Capital Fleet Services va convertir une partie de sa flotte et ses véhicules de location. Les premiers véhicules seront des Chevrolet Volt, puis d’autres marques seront achetées. GE pourrait être le premier à maîtriser à grande échelle l'écosystème complet de la mobilité électrique, à se placer comme unique interlocuteur du client final, à capitaliser l'ensemble des données et des informations indispensables à l'optimisation du système.

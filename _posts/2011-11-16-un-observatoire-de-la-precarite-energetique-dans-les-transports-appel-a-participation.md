@@ -3,7 +3,11 @@ layout: post
 title: "Un observatoire de la Précarité énergétique dans les transports - Appel à Participation"
 date: 2011-11-16 09:21:27 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'Précarité']
+=======
+tags: ["citoyen", "collectivit\u00e9", "Pr\u00e9carit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un [**observatoire **](http://www.developpement-durable.gouv.fr/L-Observatoire-national-de-la,21540.html)a été mis en oeuvre il y a quelques mois sur le sujet rassemblant Ministères, Agences, Acteurs économiques et associations. Historiquement focalisé sur l'habitat, la mobilité est maintenant intégrée à la réflexion dans une approche plus globale.

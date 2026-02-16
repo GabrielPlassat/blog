@@ -3,7 +3,11 @@ layout: post
 title: "Les Transports et la Technologie"
 date: 2012-09-18 09:27:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['économie fonctionnalité', 'Energie', 'internet des objets', 'mode doux', 'multimodes', 'Service de mobilité', 'territoire', 'TIC', 'Véhicule', 'véhicule mono-usage', 'véhicule propre']
+=======
+tags: ["\u00e9conomie fonctionnalit\u00e9", "Energie", "internet des objets", "mode doux", "multimodes", "Service de mobilit\u00e9", "territoire", "TIC", "V\u00e9hicule", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les progrès réalisés sur les véhicules depuis un siècle sont remarquables. L'automobile rassemble aujourd'hui les savoirs de milliers d'ingénieurs ayant réussis à développer et industrialiser en masse un produit de haute technologie usiné au micron à un prix très bas. Cela va se poursuivre mais cela reste largement insuffisant. 
@@ -48,7 +52,11 @@ Il y a dans ces 2 objectifs "less is more" et "2 personnes par voiture" des syne
 
  
 
+<<<<<<< HEAD
 "2012-09-18 09:27:00https://transportsdufutur.ademe.fr/2012/09/les-transports-et-la-technologie.htmléconomie fonctionnalité|Energie|internet des objets|mode doux|multimodes|Service de mobilité|territoire|TIC|Véhicule|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-transports-et-la-technologie2015-07-21 16:36:26width=""427""> ** [Frost sullivan travel2020 urban_mobilitytrends]() ** from **[Les transports du futur]()** 
+=======
+"2012-09-18 09:27:00/2012/09/18/les-transports-et-la-technologie/économie fonctionnalité|Energie|internet des objets|mode doux|multimodes|Service de mobilité|territoire|TIC|Véhicule|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-transports-et-la-technologie2015-07-21 16:36:26width=""427""> ** [Frost sullivan travel2020 urban_mobilitytrends]() ** from **[Les transports du futur]()** 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 Ainsi la capacité à industrialiser des véhicules à moins de 2 litre/100 km et surtout à les utiliser n'est déjà plus liée aux technologies automobiles, mais aux modèles économiques, et donc aux technologies numériques seules capables de valoriser en MASSE de nombreux usages très différents dans tous les territoires. Finalement ce sera la capacité à concevoir simultanément ces véhicules efficaces et les services territorialisés dans lesquels ils seront inscrits, qui permettra d'effectuer cette première rupture.
 

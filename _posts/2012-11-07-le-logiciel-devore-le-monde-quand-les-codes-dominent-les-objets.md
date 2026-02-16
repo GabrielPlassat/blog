@@ -3,7 +3,11 @@ layout: post
 title: "Le logiciel dévore le monde, quand les codes dominent les objets"
 date: 2012-11-07 09:46:36 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'commuter', 'confiance', 'connectivité', 'cybercar', 'donnée data', 'données réelles', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'google', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'ITS', 'partage de données', 'Service de mobilité', 'surveillance', 'TIC', 'transition générationnelle']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "confiance", "connectivit\u00e9", "cybercar", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "google", "innovation", "intelligence collective", "internet", "internet des objets", "ITS", "partage de donn\u00e9es", "Service de mobilit\u00e9", "surveillance", "TIC", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cet article ***[Le logiciel dévore le monde … depuis les Etats-Unis](http://colin-verdier.com/le-logiciel-devore-le-monde-depuis-les-etats-unis/)*** complète et confirme les propos de précédents articles notamment : ***[Google mobility service](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html)*** et ***[Nos systèmes de transport et la révolution numérique, pourquoi cela va tout changer](/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html)***.
@@ -55,4 +59,8 @@ Mais de telles opérations, nécessaire à l’intelligibilité, risquent de ren
 
 Reprenant *E.Morin* (voir **[l’article]() **sur ce sujet), la somme des 2 sera à la fois supérieure et inférieure à la somme des parties. De ce paradoxe, il devient urgent de s’intéresser pour trouver notre **[voie d’intérêts communs]()**.
 
+<<<<<<< HEAD
 "2012-11-07 09:46:36https://transportsdufutur.ademe.fr/2012/11/le-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets.htmlcité|citoyen|collectivité|commuter|confiance|connectivité|cybercar|donnée data|données réelles|économie de l'expérience|économie du quaternaire|économie fonctionnalité|google|innovation|intelligence collective|internet|internet des objets|ITS|partage de données|Service de mobilité|surveillance|TIC|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets2015-07-21 16:35:48
+=======
+"2012-11-07 09:46:36/2012/11/07/le-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets/cité|citoyen|collectivité|commuter|confiance|connectivité|cybercar|donnée data|données réelles|économie de l'expérience|économie du quaternaire|économie fonctionnalité|google|innovation|intelligence collective|internet|internet des objets|ITS|partage de données|Service de mobilité|surveillance|TIC|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets2015-07-21 16:35:48
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

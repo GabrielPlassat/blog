@@ -48,7 +48,11 @@ Ce qu’il y a d’intéressant dans la réflexion de Nassim Nicholas Taleb c’
 
  
 
+<<<<<<< HEAD
 En partant de ces constatations, Taleb propose un prolongement intéressant du concept de « cygne noir ». **Pour lui, nous ignorons le monde tel qu’il est parce que nous pensons que, grosso modo, nous partageons tous le même quotidien. Or, la réalité, c’est que notre monde est de plus en plus régi par des éléments qui échappent à la courbe de Gauss **et que le philosophe qualifie « *d’Extremistan* » ce qui, en employant une expression triviale, pourrait se résumer par « *un monde de toujours plus et d’encore plus* ». Les exemples sont légions. Les milliardaires dont le nombre ne cesse d’augmenter quand celui des pauvres est loin de diminuer. La réflexion de Taleb vaut aussi pour les livres. Dans la masse impressionnante d’ouvrages qui sont publiés chaque année, la plus grosse part des ventes va à des best-sellers « qui sont de moins en moins nombreux mais qui se vendent encore mieux ». En littérature comme en finance, il semb
+=======
+En partant de ces constatations, Taleb propose un prolongement intéressant du concept de « cygne noir ». **Pour lui, nous ignorons le monde tel qu’il est parce que nous pensons que, grosso modo, nous partageons tous le même quotidien. Or, la réalité, c’est que notre monde est de plus en plus régi par des éléments qui échappent à la courbe de Gauss **et que le philosophe qualifie « *d’Extremistan* » ce qui, en employant une expression triviale, pourrait se résumer par « *un monde de toujours plus et d’encore plus* ». Les exemples sont légions. Les milliardaires dont le nombre ne cesse d’augmenter quand celui des pauvres est loin de diminuer. La réflexion de Taleb vaut aussi pour les livres. Dans la masse impressionnante d’ouvrages qui sont publiés chaque année, la plus grosse part des ventes va à des best-sellers « qui sont de moins en moins nombreux mais qui se vendent encore mieux ». En littérature comme en finance, il semb_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 le bien que c’est la loi de l’Extremistan qui règne désormais.
 
  

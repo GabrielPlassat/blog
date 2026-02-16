@@ -3,7 +3,11 @@ layout: post
 title: "Google des réseaux électriques aux transports, la même approche"
 date: 2010-07-27 10:17:43 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'connectivité', 'données réelles', 'google', 'internet', 'internet des objets', 'mode doux', 'partage de données', 'Philips', 'Santé']
+=======
+tags: ["assurance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "google", "internet", "internet des objets", "mode doux", "partage de donn\u00e9es", "Philips", "Sant\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Depuis plusieurs années, Google travaille et propose **[des outils d'aide à la réduction de la consommation d'énergie électrique](http://www.google.com/powermeter/about/)**. L'approche est simple, on ne peut réduire que ce que l'on connaît. Google propose des outils pour connaître, en accédant à de l'information, puis des pistes pour réduire.

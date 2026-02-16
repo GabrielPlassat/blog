@@ -3,7 +3,11 @@ layout: post
 title: "Quelques propositions pour une politique de transport par véhicules autonomes"
 date: 2014-07-08 11:56:29 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'collectivité', 'commuter', 'connectivité', 'covoiturage', 'données réelles', 'Efficacité énergétique', 'google', 'gouvernance', 'internet des objets', 'ITS', 'Service de mobilité', 'véhicule mono-usage']
+=======
+tags: ["autorit\u00e9 des transports", "collectivit\u00e9", "commuter", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "gouvernance", "internet des objets", "ITS", "Service de mobilit\u00e9", "v\u00e9hicule mono-usage"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Cet article est rédigé par **[Bertrand Duflos](https://www.linkedin.com/profile/view?id=41818271&authType=NAME_SEARCH&authToken=NRcu&locale=fr_FR&srchid=397705101404812484727&srchindex=1&srchtotal=2&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A397705101404812484727%2CVSRPtargetId%3A41818271%2CVSRPcmpt%3Aprimary).**
@@ -77,7 +81,11 @@ En matière de transport par véhicule autonome, nous avons des atouts essentiel
 
  
 
+<<<<<<< HEAD
 Les acteurs inversement qui connaissent cette problématique, ce sont les opérateurs de transport public de voy
+=======
+Les acteurs inversement qui connaissent cette problématique, ce sont les opérateurs de transport public de voy_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ageurs. Et nous avons aujourd'hui en France de magnifiques sociétés dans ce domaine: Keolis, Transdev, la SNCF, la RATP, et un outsider Bolloré.
 
  

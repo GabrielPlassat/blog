@@ -3,7 +3,11 @@ layout: post
 title: "Light foot print strategy"
 date: 2013-07-10 11:36:26 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre', 'autarcie', 'catastrophe', 'cité', 'citoyen', 'connectivité', 'cygne noir', 'données réelles', "économie de l'expérience", 'General Electric', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'open innovation', 'pensée complexe', 'plate-forme']
+=======
+tags: ["art de la guerre", "autarcie", "catastrophe", "cit\u00e9", "citoyen", "connectivit\u00e9", "cygne noir", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "General Electric", "holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "pens\u00e9e complexe", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**L’article** ](http://lecercle.lesechos.fr/entreprises-marches/management/organisation/221176457/quand-strategie-militaire-dessine-lentreprise-)de Charles Edouard Bouée, membre du comité executif du cabinet Roland Berger dans les Echos, est intéressant. Il développe une analogie entre la stratégie militaire américaine et l’entreprise de demain. Reprenant l’idée que les militaires préfigurent les organisations du futur (voir et revoir sur ce point les nombreux éléments de **[Transit City](http://www.transit-city.com/ateliers/precedentes/militaires/)**). Tentons d’appliquer ces tendances aux domaines des mobilités et entreprises de transports.

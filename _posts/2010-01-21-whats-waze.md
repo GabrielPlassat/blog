@@ -3,7 +3,11 @@ layout: post
 title: "What's WAZE"
 date: 2010-01-21 21:52:28 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Infrastructure', 'partage de données', 'TIC', 'waze']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Infrastructure", "partage de donn\u00e9es", "TIC", "waze"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un outil permettant de cartographier, de donner des infos temps réel ... 

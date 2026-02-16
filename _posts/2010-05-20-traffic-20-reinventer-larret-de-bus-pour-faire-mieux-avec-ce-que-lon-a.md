@@ -3,7 +3,11 @@ layout: post
 title: "Traffic 2.0, ré-inventer l'arrêt de bus pour faire mieux avec ce que l'on a"
 date: 2010-05-20 22:20:57 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['BHNS', 'connectivité', 'données réelles', 'Infrastructure', 'internet', 'internet des objets', 'partage de données']
+=======
+tags: ["BHNS", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "internet des objets", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **Introducing Traffic 2.0 (from** **[Fastcompany](http://www.fastcompany.com/1648672/redesigning-the-bus-stop-teagues-traffic-20-makes-transit-more-friendly))**
@@ -62,7 +66,11 @@ Sometimes a bus stop is just a bus stop. At the heart of Traffic 2.0 is a design
 
 *Tad Toulis is the creative director of Teague's Seattle-based design studio. Prior to joining Teague, he worked at Lunar Design, Motorola's Advanced Concepts Group and Samsung's LA LAB. Tad is a regular presenter and lecturer, speaking to the topics of design and business at events, universities and conferences across the globe. His contribution to design has been honored with numerous awards including the Red Dot, IDEA, Good Design and iF awards. Tad was also founding member of designRAW, a San Francisco-based design collective*
 
+<<<<<<< HEAD
 "2010-05-20 22:20:57https://transportsdufutur.ademe.fr/2010/05/traffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a.htmlBHNS|connectivité|données réelles|Infrastructure|internet|internet des objets|partage de donnéespublish18gabriel plassattraffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a2010-05-20 22:20:57the decision was made to bring that convenience to the system through the card itself. Powered by RFID, the display lasts indefinitely and brings an extra level of value and functionality to the device. Touching it to the Metroplan migrates your planned itinerary to the card providing a convenient reference for route stops and transfers throughout your trip.
+=======
+"2010-05-20 22:20:57/2010/05/20/traffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a/BHNS|connectivité|données réelles|Infrastructure|internet|internet des objets|partage de donnéespublish18gabriel plassattraffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a2010-05-20 22:20:57the decision was made to bring that convenience to the system through the card itself. Powered by RFID, the display lasts indefinitely and brings an extra level of value and functionality to the device. Touching it to the Metroplan migrates your planned itinerary to the card providing a convenient reference for route stops and transfers throughout your trip.
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

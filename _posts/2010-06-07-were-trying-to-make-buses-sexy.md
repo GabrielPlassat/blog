@@ -3,7 +3,11 @@ layout: post
 title: "We’re trying to make buses sexy"
 date: 2010-06-07 14:53:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'collectivité', 'connectivité', 'données réelles', 'internet', 'iphone', 'partage de données']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "iphone", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 The [**Massachusetts Bay Transportation Authority**](http://www.mbta.com) continued its efforts to engage with developer community by releasing [**real-time data**](http://www.eot.state.ma.us/developers/realtime/) - with an interesting MAssDot / Developpers Relationshion principles, see **[Here](/assets/images/2010/06/RelationshipPrinciples_11-12-2009.pdf)** - for 12 additional bus routes. This caps what outgoing [**MassDOT**](http://www.eot.state.ma.us) official Chris Dempsey called “an incredibly successful year,” which started when the state released MBTA static route and schedule data last summer. Thanks to a series of [**developer challenges**](http://www.thetransitwire.com/2010/03/24/massdot-announces-app-winners-more-mbta-data-coming/), and a pilot test of real-time data for five routes, MBTA customers now can choose from about a dozen applications that offer route and schedule information and — in some cases — real-time arrival predictions.

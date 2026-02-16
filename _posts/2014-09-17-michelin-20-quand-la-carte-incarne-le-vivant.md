@@ -3,7 +3,11 @@ layout: post
 title: "Michelin, Et si on repensait la carte et le guide ?"
 date: 2014-09-17 10:03:20 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['application', 'assistant de mobilité', 'citoyen', 'donnée data', 'Infrastructure', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'partage de données', 'plate-forme']
+=======
+tags: ["application", "assistant de mobilit\u00e9", "citoyen", "donn\u00e9e data", "Infrastructure", "innovation", "intelligence collective", "internet", "internet des objets", "partage de donn\u00e9es", "plate-forme"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La carte, emblême majeur du territoire, incarne toujours une relation forte avec les transports. A l'ère du numérique, la mise à disposition de données cartographiques concerne toujours la majorité du temps nos mobilités.
@@ -92,4 +96,8 @@ Ce n'est donc qu'un début. L'internet des objets commence, la voiture "connect�
 
 **Une fois les données accessibles, une multitude de représentation de notre territoire à fort pouvoir narratif pourra être créer. Aujourd'hui, aucun acteur industriel n'a pris cette position stratégique.**
 
+<<<<<<< HEAD
 "2014-09-17 10:03:20https://transportsdufutur.ademe.fr/2014/09/michelin-20-quand-la-carte-incarne-le-vivant.htmlapplication|assistant de mobilité|citoyen|donnée data|Infrastructure|innovation|intelligence collective|internet|internet des objets|partage de données|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmichelin-20-quand-la-carte-incarne-le-vivant2015-07-21 16:35:29
+=======
+"2014-09-17 10:03:20/2014/09/17/michelin-20-quand-la-carte-incarne-le-vivant/application|assistant de mobilité|citoyen|donnée data|Infrastructure|innovation|intelligence collective|internet|internet des objets|partage de données|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmichelin-20-quand-la-carte-incarne-le-vivant2015-07-21 16:35:29
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

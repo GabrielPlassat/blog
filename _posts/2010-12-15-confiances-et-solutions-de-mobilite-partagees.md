@@ -3,7 +3,11 @@ layout: post
 title: "Confiance(s) et solutions de mobilité partagées"
 date: 2010-12-15 18:13:45 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'cité', 'citoyen', 'collectivité', 'confiance', 'sousveillance']
+=======
+tags: ["assurance", "cit\u00e9", "citoyen", "collectivit\u00e9", "confiance", "sousveillance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Maximiser ces intérêts individuels conduit jusqu’à présent à des solutions de mobilité individuelle obtenues par des objets (véhicule individuel) possédés. La théorie des jeux comme le dilemme du prisonnier (voir **[ici](/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports.html)**) nous indique que la recherche de cette maximisation individuelle de nos intérêts ne conduit pas à l’optimisation du système, et pour les transports, à la réduction des paramètres énergétique, pollution, congestion.

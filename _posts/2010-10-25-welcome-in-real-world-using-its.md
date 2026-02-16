@@ -3,7 +3,11 @@ layout: post
 title: "Welcome in real-world using ITS"
 date: 2010-10-25 23:13:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'Infrastructure', 'internet', 'partage de données', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "Infrastructure", "internet", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les deux exemples ci dessous montrent les transitions rapides, complètes, systémiques que nous sommes en train de vivre. Le premier est un projet européen qui vient de recevoir le prix Galileo Advanced Innovation Services. Il s'agit d'un outil permettant d'accéder aux émissions de CO2 réels des véhicules, et non uniquement ceux fournis par la norme. Le second est une partie des outils et des méthodes que développe actuellement IBM, et notamment son centre de recherche basé dans les Alpes maritimes, dans le cadre de son programme mondial Smarter Cities Solutions.

@@ -32,6 +32,10 @@ L'ADEME intervient dans plusieurs conférences et tables rondes :
 
 4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
 
+<<<<<<< HEAD
 "2013-03-20 09:25:40https://transportsdufutur.ademe.fr/2013/03/salon-international-du-transport-et-de-la-logistique-du-26-au-28-mars.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsalon-international-du-transport-et-de-la-logistique-du-26-au-28-mars2015-07-21 16:35:44font-size: 11pt"">4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
+=======
+"2013-03-20 09:25:40/2013/03/20/salon-international-du-transport-et-de-la-logistique-du-26-au-28-mars/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsalon-international-du-transport-et-de-la-logistique-du-26-au-28-mars2015-07-21 16:35:44font-size: 11pt"">4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 "

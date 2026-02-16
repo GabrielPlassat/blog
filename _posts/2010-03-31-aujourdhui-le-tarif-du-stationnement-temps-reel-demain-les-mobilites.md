@@ -3,7 +3,11 @@ layout: post
 title: "Aujourd'hui le tarif du stationnement temps réel, demain les mobilités"
 date: 2010-03-31 09:53:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'collectivité', 'données réelles', 'Infrastructure', 'internet', 'partage de données', 'partage de la voirie', 'stationnement']
+=======
+tags: ["autorit\u00e9 des transports", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "partage de donn\u00e9es", "partage de la voirie", "stationnement"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’ère des tarifs temps réel arrive à grand pas dans la mobilité. Après certains péages urbains qui modulent les tarifs en fonction de la congestion réelle, San Francisco expérimente dans **[SF park project](http://sfpark.org/)**, le stationnement temps réel. Les places libres sont connues, et l’information communiquée, le tarif est adapté en fonction de la demande. Cette étape constituera une brique supplémentaire indispensable dans un futur management global des mobilités, sachant que ce même principe pourrait (devrait ?) être appliqué au livraison de marchandises.

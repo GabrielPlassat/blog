@@ -3,7 +3,11 @@ layout: post
 title: "Véhicules électriques - comment, et à qui, seront-ils vendus ? Pour quelles performances ?"
 date: 2010-08-02 15:25:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'citoyen', 'connectivité', 'economie circulaire', 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'living lab', 'low cost', 'marketing', 'Service de mobilité', 'transition générationnelle']
+=======
+tags: ["ADEME", "citoyen", "connectivit\u00e9", "economie circulaire", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "living lab", "low cost", "marketing", "Service de mobilit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Utilisant comme base la récente **[étude Eurotaxglass's](http://www.eurotax.com/index.php?p=mc_pressrel&l=encm&n=2)** sur les valeurs résiduelles des VE, Bernard Jullien, directeur du **[GERPISA](http://www.gerpisa.univ-evry.fr/)**, dresse dans un **[article de son blog](http://leblog.gerpisa.org/node/1027)** un bilan juste et lucide du marché du véhicule électrique. Les questions des valeurs résiduelles, des secondes vies des véhicules sont particulièrement bien remises en perspective en tenant compte des réalités économiques des ménages.
@@ -138,4 +142,8 @@ Jusqu'à présent l'industrie automobile avait inventé des modes de conception-
 
  
 
+<<<<<<< HEAD
 "2010-08-02 15:25:16https://transportsdufutur.ademe.fr/2010/08/valeurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform.htmlADEME|citoyen|connectivité|economie circulaire|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|living lab|low cost|marketing|Service de mobilité|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvaleurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform2015-07-21 16:37:43
+=======
+"2010-08-02 15:25:16/2010/08/02/valeurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform/ADEME|citoyen|connectivité|economie circulaire|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|living lab|low cost|marketing|Service de mobilité|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvaleurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform2015-07-21 16:37:43
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

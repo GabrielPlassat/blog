@@ -3,7 +3,11 @@ layout: post
 title: "La mobilité du Grey Power"
 date: 2010-02-12 16:03:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'Précarité', 'Santé', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["Infrastructure", "Pr\u00e9carit\u00e9", "Sant\u00e9", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Un excellent rapport commandé par le GART (**[ici](http://www.gart.org/Mediatheque/Fichiers/Telecharger/La-mobilite-des-seniors)**) qui détaille les besoins des seniors ou plutôt ces familles de personnes. Tous les points principaux sont présentés, étudiés, (autonomie, puis deuil de la voiture, santé, réseaux sociaux, dépendance ...) et des pistes sont proposées.

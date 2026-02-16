@@ -3,7 +3,11 @@ layout: post
 title: "L'émergence des Supercommuters #USA"
 date: 2012-02-27 17:59:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'commuter', 'connectivité', 'management de la mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "commuter", "connectivit\u00e9", "management de la mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les Supercommuters américains (de [**NYU Wagner Blog**](http://wagner.nyu.edu/blog/rudincenter/2012/02/23/the-emergence-of-the-super-commuter/)) maîtrisent les technologies de l'information, habitent très loin de leurs lieux de travail permettant d'accéder à des postes/salaires élevés et des loyers/coûts d'habitation faibles, combinent plusieurs modes pour voyager. Ils se déplacent dans leurs entreprises une ou deux fois par semaine, et deviennent ainsi peu à peu hors sol".
@@ -20,4 +24,8 @@ Le rapport ci-dessous commence à les détailler, à les identifier dans les pri
 
  
 
+<<<<<<< HEAD
  [Supercommuter report]() View more [documents]() from [Les transports du futur](). "2012-02-27 17:59:16https://transportsdufutur.ademe.fr/2012/02/lemergence-des-supercommuters-usa.htmlassistant de mobilité|commuter|connectivité|management de la mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlemergence-des-supercommuters-usa2015-07-21 16:36:35
+=======
+ [Supercommuter report]() View more [documents]() from [Les transports du futur](). "2012-02-27 17:59:16/2012/02/27/lemergence-des-supercommuters-usa/assistant de mobilité|commuter|connectivité|management de la mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlemergence-des-supercommuters-usa2015-07-21 16:36:35
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

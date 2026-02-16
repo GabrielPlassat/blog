@@ -3,7 +3,11 @@ layout: post
 title: "Ode au prototype"
 date: 2014-12-15 16:03:37 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'donnée data', "économie de l'expérience", 'Fabrique des mobilités', 'holoptisme', 'innovation', 'intelligence collective', 'lien social', 'UX', 'virtuel']
+=======
+tags: ["citoyen", "donn\u00e9e data", "\u00e9conomie de l'exp\u00e9rience", "Fabrique des mobilit\u00e9s", "holoptisme", "innovation", "intelligence collective", "lien social", "UX", "virtuel"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'excellent texte décrivant [**le prototype par Makestorming**](http://makestorming.com/salon/vous-avez-dit-prototype) a inspiré cet article qui tente de le compléter, de l'anguler dans le domaine des mobilités. **Vous avez dit prototype" ?**
@@ -40,4 +44,8 @@ Comme de plus en plus d'innovations dites sociales se développent, ouvrant de n
 
 Dès  aujourd'hui, nous avons besoin d'**artisan prototypiste**, capable d'entraîner des collectifs, de (faire) matérialiser des concepts, de (faire) co-concevoir de nouveau service, de nouveau outil, de (faire) réaliser de nouveaux "objets liens" physiques et numériques, supports d'action pour de nouveaux industriels (lire un article sur [**Les nouveaux industriels**]()). Dans cette quête, certains acteurs (lire les articles [**Le numérique change**]() ... et [**Ultra low cost + open source**]()) sont structurés pour se penser à travers le prototype, la version béta ...
 
+<<<<<<< HEAD
 "2014-12-15 16:03:37https://transportsdufutur.ademe.fr/2014/12/ode-au-prototype.htmlcitoyen|donnée data|économie de l'expérience|Fabrique des mobilités|holoptisme|innovation|intelligence collective|lien social|UX|virtuelpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatode-au-prototype2015-07-21 16:35:26
+=======
+"2014-12-15 16:03:37/2014/12/15/ode-au-prototype/citoyen|donnée data|économie de l'expérience|Fabrique des mobilités|holoptisme|innovation|intelligence collective|lien social|UX|virtuelpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatode-au-prototype2015-07-21 16:35:26
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

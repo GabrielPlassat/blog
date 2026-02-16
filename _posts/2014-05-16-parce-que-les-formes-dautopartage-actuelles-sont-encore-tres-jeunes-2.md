@@ -3,7 +3,11 @@ layout: post
 title: "Parce que les services de mobilité dont l'autopartage sont encore très jeunes"
 date: 2014-05-16 14:50:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'autopartage', 'autorité des transports', 'citoyen', 'collectivité', 'données réelles', 'economie circulaire', 'Efficacité énergétique', 'gouvernance', 'Infrastructure', 'innovation', 'intelligence collective', 'Service de mobilité', 'véhicule propre']
+=======
+tags: ["ADEME", "autopartage", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "Infrastructure", "innovation", "intelligence collective", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Il y a à peine 10 ans, personne ne considérait le covoiturage comme une solution de transports sûre, économique, robuste. C'était pour les jeunes, les marginaux. Demandez aujourd'hui à [**BlablaCar**](http://www.challenges.fr/entreprise/20140129.CHA9776/comment-le-champion-francais-du-covoiturage-blablacar-impose-son-modele-en-europe.html) en France et plus encore en Russie. Le covoiturage est encore adolescent et déjà il concurrence les acteurs historiques, comme la [**SNCF**](http://www.lenouveleconomiste.fr/sncf-contre-google-20090/).

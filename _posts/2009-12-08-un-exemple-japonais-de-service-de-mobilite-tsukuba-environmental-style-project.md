@@ -3,7 +3,11 @@ layout: post
 title: "Un exemple japonais de service de mobilité – Tsukuba Environmental Style Project"
 date: 2009-12-08 14:51:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Infrastructure', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["Infrastructure", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Piloté par ITOCHU Corporation, [**un conglomérat (énergie, TIC, électronique, textile)**](http://www.itochu.co.jp/main/div/index_e.html), ce projet est intéressant car il rassemble un large éventail de partenaires d’horizon différent, et une approche combinée de deux systèmes : la production d’énergie et la mobilité. Il s’agit d’un projet de démonstration dans lequel les véhicules seront utilisés dans des conditions de vie réelle à partir de mars 2010.
@@ -112,5 +116,9 @@ Le comité de suivi du projet est composé de :
 
  
 
+<<<<<<< HEAD
 Mais ce projet s’inscrit lui-même dans un [**programme plus vaste appliquée à la ville de Tsukuba**](http://www.city.tsukuba.ibaraki.jp/dbps_data/_material_/localhost/kankyousuisin/eiyaku.pdf) (203 000 habitants,
+=======
+Mais ce projet s’inscrit lui-même dans un [**programme plus vaste appliquée à la ville de Tsukuba**](http://www.city.tsukuba.ibaraki.jp/dbps_data/_material_/localhost/kankyousuisin/eiyaku.pdf) (203 000 habitants,_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  ville nouvelle créée en 1987 à coté de Tokyo, dédiée à la recherche dans le domaine des nouvelles technologies, particulièrement celles qui concernent l'informatique, les communications et la robotique). En partant d’émissions de GES estimées à 8.3 TCO2 / habitant, l’objectif est de réduire de 50% en 2030 en travaillant tous les secteurs, les usages, les connaissances, sur la base de la coopération et de la participation du plus grand nombre.

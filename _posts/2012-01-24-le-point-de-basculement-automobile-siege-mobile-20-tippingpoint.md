@@ -3,7 +3,11 @@ layout: post
 title: "Le point de basculement automobile > siège mobile 2.0 #tippingpoint"
 date: 2012-01-24 11:36:51 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'données réelles', 'gouvernance', 'holoptisme', 'intelligence collective', 'internet', 'management de la mobilité', 'marketing individualisé', 'MIT', 'monnaie complémentaire', 'multimodes', 'Service de mobilité']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "gouvernance", "holoptisme", "intelligence collective", "internet", "management de la mobilit\u00e9", "marketing individualis\u00e9", "MIT", "monnaie compl\u00e9mentaire", "multimodes", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**Le point de basculement**](http://fr.wikipedia.org/wiki/Tipping_point) traduit le moment précis qui sépare deux situations distinctes ; le verre est sur la table – le verre est cassé, en morceaux sur le sol. Entre ces deux états très différents, un instant unique, un changement d’état **IRREVERSIBLE** causé pour une interaction de deux séries causales**** ; un ballon lancé par un enfant a rencontré le verre posé.
@@ -41,7 +45,11 @@ Ce nouvel Univers de mobilité permettra également de concevoir autrement les c
 
 Voir page 16 dans la présentation suivante :
 
+<<<<<<< HEAD
  [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2012-01-24 11:36:51https://transportsdufutur.ademe.fr/2012/01/le-point-de-basculement-automobile-siege-mobile-20-tippingpoint.htmlassistant de mobilité|autorité des transports|citoyen|collectivité|données réelles|gouvernance|holoptisme|intelligence collective|internet|management de la mobilité|marketing individualisé|MIT|monnaie complémentaire|multimodes|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-point-de-basculement-automobile-siege-mobile-20-tippingpoint2015-07-21 16:36:37>[services de mobilité de plus en plus intégrés et connectés](). 
+=======
+ [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2012-01-24 11:36:51/2012/01/24/le-point-de-basculement-automobile-siege-mobile-20-tippingpoint/assistant de mobilité|autorité des transports|citoyen|collectivité|données réelles|gouvernance|holoptisme|intelligence collective|internet|management de la mobilité|marketing individualisé|MIT|monnaie complémentaire|multimodes|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-point-de-basculement-automobile-siege-mobile-20-tippingpoint2015-07-21 16:36:37>[services de mobilité de plus en plus intégrés et connectés](). 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  
 
 Le basculement produirait une situation inédite pour plusieurs acteurs dont les constructeurs et notamment dans les marchés européens. Ces services de mobilité ne feront pas disparaître la production automobile mais conduiront à la réinventer. Des usines seront toujours nécessaire pour produire des objets de haute technologie mais leurs cahiers des charges et leurs [clients ]()auront [changés](), et une industrie des services sera née. Et si [RE60]() ou [Hiriko]() préfiguraient tout cela ?

@@ -3,7 +3,11 @@ layout: post
 title: "Ouvrons un nouvel espace pour innover dans les nouvelles mobilités"
 date: 2014-11-19 09:00:00 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'confiance', "économie de l'expérience", 'économie du quaternaire', 'Fabrique des mobilités', 'gouvernance', 'innovation', 'intelligence collective', 'plate-forme', 'Séminaire', 'Service de mobilité']
+=======
+tags: ["ADEME", "confiance", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "Fabrique des mobilit\u00e9s", "gouvernance", "innovation", "intelligence collective", "plate-forme", "S\u00e9minaire", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La mobilité a changé. La manière d’innover a changé. Il est urgent de compléter les dispositifs de soutien à l’innovation pour répondre aux nouveaux défis : *Comment faire levier du numérique et aider les start-up à faire évoluer l’ensemble de l’écosystème ? Comment fédérer ces acteurs autour de la nouvelle filière industrielle des mobilités ? Qu’attendent les entrepreneurs ?* L’ADEME a fait réaliser une étude auprès d’experts et d’acteurs de l’innovation pour tenter de répondre à ces questions.

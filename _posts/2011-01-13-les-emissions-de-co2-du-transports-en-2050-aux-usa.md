@@ -3,7 +3,11 @@ layout: post
 title: "Les émissions de CO2 du transports en 2050 aux USA"
 date: 2011-01-13 12:14:39 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['biocarburant', 'camion', 'carburant', 'données réelles', 'emission', 'externalité', 'gouvernance', 'Infrastructure', 'innovation', 'logistique', 'marchandises', 'multimodes', 'PAYD', 'péage urbain', 'prix carburant', 'stationnement', 'véhicule propre']
+=======
+tags: ["biocarburant", "camion", "carburant", "donn\u00e9es r\u00e9elles", "emission", "externalit\u00e9", "gouvernance", "Infrastructure", "innovation", "logistique", "marchandises", "multimodes", "PAYD", "p\u00e9age urbain", "prix carburant", "stationnement", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Une **[nouvelle étude ](http://www.pewclimate.org/press-center/press-releases/new-report-examines-paths-cleaner-more-secure-us-transportation-solutions)**vient d’être publiée par le PEW Center on Global Climate Change et réalisée par Oak ridge et Argonne National labs. Elle vise à estimer le potentiel de réduction des émissions de CO2 / consommation d’énergies du secteur des transports aux USA à l’horizon 2050.

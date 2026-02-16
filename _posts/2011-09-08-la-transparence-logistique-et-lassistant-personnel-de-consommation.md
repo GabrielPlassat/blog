@@ -3,7 +3,11 @@ layout: post
 title: "La transparence logistique et l'assistant personnel de consommation"
 date: 2011-09-08 08:59:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Assistant Personnel de Consommation', 'internet', 'marchandises']
+=======
+tags: ["Assistant Personnel de Consommation", "internet", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 DHL annonce dans son [**rapport **](/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c.html)sur les prochaines années de la logistique que la transparence va s'imposer à tous les acteurs, notamment sur le contenu carbone et polluants des produits. L'outil de [**Sourcemap.com**](http://www.sourcemap.com/) (voir également [**ici**](/2010/12/quand-la-chaine-logistique-devient-transparente.html)) semble parfaitement adapté :

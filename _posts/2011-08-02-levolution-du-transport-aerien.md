@@ -3,7 +3,11 @@ layout: post
 title: "L'évolution du transport aérien"
 date: 2011-08-02 15:48:42 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['aviation', 'carburant']
+=======
+tags: ["aviation", "carburant"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après le salon du Bourget, le futur du transport aérien se dessine assez clairement. Cette industrie du transport de masse a inventé des métiers spécifiques, des approches. Certaines pourraient être reprises par les acteurs du transport terrestre. A l’inverse, la performance de l’aérien va se jouer notamment dans les interfaces dont les aéroports, dans la multimodalité porte à porte, donc en partie dans le transport terrestre. Et si les acteurs du transport aérien intégraient de plus en plus de transport terrestre ? 

@@ -3,7 +3,11 @@ layout: post
 title: "SIBRT – L’Association Latino-Américaine des agences de transport : vers le développement d’une mobilité durable à l’échelle du continent ?"
 date: 2013-11-29 12:34:49 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['agence mobilité', 'autorité des transports', 'BHNS', 'commuter', 'EMBARQ', 'gouvernance', 'Infrastructure', 'innovation', 'management de la mobilité']
+=======
+tags: ["agence mobilit\u00e9", "autorit\u00e9 des transports", "BHNS", "commuter", "EMBARQ", "gouvernance", "Infrastructure", "innovation", "management de la mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [Il s'agit d'un billet invité, Bienvenue à [**Chloé Bouilloux**](http://www.linkedin.com/pub/chloe-bouilloux/3a/990/840), ex [**EMBARQ** ](http://www.embarq.org/)Amérique Latine]
@@ -63,7 +67,11 @@ L’émergence de structures comme SIBRT en Amérique Latine est une aubaine afi
 
  
 
+<<<<<<< HEAD
 [[3]](/windows/temp/notes777821/Article%20Blog%20SIBRT%20Chloe%20B..docx#_ftnref3) NTU - Association Nationale des Entreprises de Transport Urbain ([http://www.ntu.org.br/](http://ww
+=======
+[[3]](/windows/temp/notes777821/Article%20Blog%20SIBRT%20Chloe%20B..docx#_ftnref3) NTU - Association Nationale des Entreprises de Transport Urbain ([http://www.ntu.org.br/](http://ww_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 w.ntu.org.br/))
 
  

@@ -3,7 +3,11 @@ layout: post
 title: "Les premières assises de la qualité de l'air - 6 et 7 avril 2011"
 date: 2011-01-11 15:38:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['ADEME', 'cité', 'citoyen', 'données réelles', 'externalité', "qualité de l'air", 'véhicule propre']
+=======
+tags: ["ADEME", "cit\u00e9", "citoyen", "donn\u00e9es r\u00e9elles", "externalit\u00e9", "qualit\u00e9 de l'air", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L’ADEME co-organise avec le ministère de l'Ecologie, du Développement durable, des Transports et du Logement (MEDDTL)  **les premières assises de la qualité de l’air** qui se tiendront les 6 et 7 avril 2011 à la Maison du sport français (près du stade Charlety) – Paris 13è.

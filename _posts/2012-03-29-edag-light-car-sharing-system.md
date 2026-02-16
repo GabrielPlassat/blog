@@ -3,7 +3,11 @@ layout: post
 title: "EDAG Light Car Sharing System"
 date: 2012-03-29 11:28:25 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'citoyen', 'commuter', 'covoiturage', 'économie du quaternaire', 'économie fonctionnalité', 'internet', 'iphone', 'ITS', 'Service de mobilité']
+=======
+tags: ["autopartage", "citoyen", "commuter", "covoiturage", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "internet", "iphone", "ITS", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 A quoi ça pourrait ressembler une voiture conçue pour le partage ? [**EDAG**](http://www.edag.de/en/), une voiture conçue uniquement pour être achetée par des professionnels... Le modèle d'affaire ressemble alors à celui du camion, les véhicules étant opérés par un professionnel dans une ou plusieurs villes dans le monde, ou par un collectif d'usagers. Voir également [**l'exemple de GE**](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html).

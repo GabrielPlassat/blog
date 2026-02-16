@@ -3,7 +3,11 @@ layout: post
 title: "Innovation collective des réseaux à l'aide du privé, quelles conséquences ?"
 date: 2010-11-27 19:50:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance', 'connectivité', 'innovation', 'internet', 'open innovation', 'open source', 'partage de données', "Plateforme d'idées", 'réseaux', 'Service de mobilité']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "innovation", "internet", "open innovation", "open source", "partage de donn\u00e9es", "Plateforme d'id\u00e9es", "r\u00e9seaux", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Après *Pepsi *avec Refresh everything (déjà abordé **[là](/2010/03/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides-.html)**), *General Electric *avec ecomagination (voir **[ici](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html)**) , *Sony *et *WWF *ont lancé une initiative auprès du grand public pour susciter de nouvelles idées, fédérer une large communauté, l’animer, et financer les meilleurs projets : **[Open planet ideas](http://www.openplanetideas.com/)**. Les thèmes proposés tournent autour de l’utilisation des TIC existantes pour proposer de nouveaux produits ou services écologiques : utilisation des GPS, des images issues des caméras de surveillance.

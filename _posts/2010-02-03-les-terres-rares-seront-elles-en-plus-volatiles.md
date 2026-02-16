@@ -3,7 +3,11 @@ layout: post
 title: "Les terres rares seront elles, en plus, volatiles ?"
 date: 2010-02-03 16:33:48 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autarcie', 'Energie', 'robustesse', 'terre rare', 'Véhicule']
+=======
+tags: ["autarcie", "Energie", "robustesse", "terre rare", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le cercle **[CyclOpe ](http://www.cercle-cyclope.com/)**prévoit des risques de forte volatilité des prix pour les ressources naturelles en 2010. « *Il n’est pas mauvais de rappeler que les prix des matières premières obéissent à plusieurs logiques : celle des fondamentaux (le rapport offre/demande sur le marché physique), celle des monnaies de cotation et donc du dollar et, enfin, cette véritable écume sur la vague que représente la spéculation financière* ». Et Philippe Chalmin de conclure que les prix seront logés à l’enseigne « *de l’instabilité, d’une volatilité extrême, à l’image des marchés financiers *». 

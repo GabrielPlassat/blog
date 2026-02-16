@@ -3,7 +3,11 @@ layout: post
 title: "Supporting smarter mobility with IBM, NXP"
 date: 2010-07-30 15:27:32 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Infrastructure', 'internet', 'Pay as You Move', 'roadpricing', 'TIC']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "Pay as You Move", "roadpricing", "TIC"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ## A technological and innovative solution for road charging, eCall, and other services

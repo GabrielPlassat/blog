@@ -3,7 +3,11 @@ layout: post
 title: "L'évolution des carburants pour les transports en Europe - horizon 2050"
 date: 2011-01-27 18:56:59 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['biocarburant', 'carburant', 'donnée data', 'Energie', 'éthanol', 'Europe', 'fiscalité', 'VE']
+=======
+tags: ["biocarburant", "carburant", "donn\u00e9e data", "Energie", "\u00e9thanol", "Europe", "fiscalit\u00e9", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La commission Européenne associée à de nombreux experts industriels et associatifs vient de publier un rapport concernant l'évolution des carburants pour les transports. Ce rapport porte sur tous les domaines d'application : route mais également ferroviaire, maritime et aérien. Les conclusions sont relativement classiques, avec des spécifications par domaine d'application : 

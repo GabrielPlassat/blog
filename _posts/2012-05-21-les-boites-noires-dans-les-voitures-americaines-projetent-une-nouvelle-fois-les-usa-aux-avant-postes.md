@@ -80,4 +80,8 @@ Il n’y a plus de conducteur, il n’y a que des passagers.
 
 Bien sûr des véhicules automatisés seront toujours vendus à des particuliers, permettant de modestes gains énergétiques, mais des gains substantiels en matière de temps libre. Mais ce type d’objet roulant, qui n’est plus une voiture, permet de repenser entièrement le système des mobilités, les frontières public/privé, et individuel/collectif. Les objets roulants pourront être gérés en cohorte à l’échelle d’une entreprise, d’un quartier, d’un département ou d’une région. Ils offriront à la fois les performances d’un véhicule individuel capable de faire du point à point, mais également amélioreront le remplissage des modes collectifs. Tout ceci ne sera possible qu’en ayant accès aux données. Tout ceci ne sera possible qu’en ayant conçu en même temps de nouvelles structures et de nouvelles règles permettant de les utiliser en maximisant l’intérêt collectif et les intérêts individuels.
 
+<<<<<<< HEAD
 "2012-05-21 11:04:00https://transportsdufutur.ademe.fr/2012/05/les-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes2015-07-21 16:36:32
+=======
+"2012-05-21 11:04:00/2012/05/21/les-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes2015-07-21 16:36:32
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "Quand le M.I.T. propose 4 pistes pour réinventer l'automobile"
 date: 2010-03-20 14:10:54 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'covoiturage', 'données réelles', 'emission', 'Infrastructure', 'internet', 'internet des objets', 'MIT', 'multimodes', 'open source', 'partage de données', 'partage de la voirie', 'Service de mobilité', 'smartgrid', 'téléphone', 'TIC', 'VE', 'véhicule propre']
+=======
+tags: ["connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "emission", "Infrastructure", "internet", "internet des objets", "MIT", "multimodes", "open source", "partage de donn\u00e9es", "partage de la voirie", "Service de mobilit\u00e9", "smartgrid", "t\u00e9l\u00e9phone", "TIC", "VE", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ça fait tout de suite sérieux... et heureusement cela recoupe quelques pistes clés de ce blog.

@@ -3,7 +3,11 @@ layout: post
 title: "Et si c'était le design du ticket de transport qui était central ?"
 date: 2014-03-11 16:27:52 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Apple', 'Assistant Personnel de Consommation', 'citoyen', 'commuter', 'connectivité', 'données réelles', 'Efficacité énergétique', 'innovation', 'monnaie complémentaire', 'multimodes']
+=======
+tags: ["Apple", "Assistant Personnel de Consommation", "citoyen", "commuter", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "monnaie compl\u00e9mentaire", "multimodes"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Avec la nouvelle application de [**MTBA**](http://www.mbta.com/fares_and_passes/mTicketing/Default.asp) (Massachusetts), il est possible d'acheter directement sur son téléphone son titre de transport, sans surcoût. **[The Race is On for the Transit Ticket of Tomorrow](http://www.theatlanticcities.com/commute/2014/03/race-transit-ticket-tomorrow/8594/)** ...
@@ -30,7 +34,11 @@ Les initiatives européennes comme [**Smart Ticketing**]() ou [**Tickego**]() d
 
 Finalement la solution de paiement va se fondre dans un Assistant Personnel de Consommation qui va gérer des flux de plusieurs monnaies, produire et recevoir des flux de données sur nos comportements et notre positionnement. Qui gérera les données et leur croisement ? Serons nous maître de ces décisions ? K.Dick l'avait décrit comme un véritable cauchemar dans sa nouvelle ***Vente à Outrance***.
 
+<<<<<<< HEAD
 "2014-03-11 16:27:52https://transportsdufutur.ademe.fr/2014/03/et-si-cetait-le-design-du-ticket-de-transport-qui-etait-central.htmlApple|Assistant Personnel de Consommation|citoyen|commuter|connectivité|données réelles|Efficacité énergétique|innovation|monnaie complémentaire|multimodespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-cetait-le-design-du-ticket-de-transport-qui-etait-central2015-07-21 16:35:34>Les initiatives européennes comme [**Smart Ticketing**]() ou [**Tickego**]() démontrent de l'engagement des acteurs dans ce domaine même si il peut sembler que les dispositifs envisagés soient plus fermés. "*That integration is slowly coming to the United States. For instance, GlobeSherpa is working on a ticket design that rewards TriMet riders for taking transit. "You buy your transit ticket, you go to the Blazers game, and get 20 percent off a hamburger.*”
+=======
+"2014-03-11 16:27:52/2014/03/11/et-si-cetait-le-design-du-ticket-de-transport-qui-etait-central/Apple|Assistant Personnel de Consommation|citoyen|commuter|connectivité|données réelles|Efficacité énergétique|innovation|monnaie complémentaire|multimodespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-cetait-le-design-du-ticket-de-transport-qui-etait-central2015-07-21 16:35:34>Les initiatives européennes comme [**Smart Ticketing**]() ou [**Tickego**]() démontrent de l'engagement des acteurs dans ce domaine même si il peut sembler que les dispositifs envisagés soient plus fermés. "*That integration is slowly coming to the United States. For instance, GlobeSherpa is working on a ticket design that rewards TriMet riders for taking transit. "You buy your transit ticket, you go to the Blazers game, and get 20 percent off a hamburger.*”
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

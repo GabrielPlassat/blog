@@ -3,7 +3,11 @@ layout: post
 title: "L'économie de l'expérience dans le projet européen ELLIOT"
 date: 2012-08-21 08:50:35 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'connectivité', 'données réelles', "économie de l'expérience", 'innovation', 'intelligence collective', 'internet des objets', 'living lab', 'logistique', 'UX']
+=======
+tags: ["citoyen", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "innovation", "intelligence collective", "internet des objets", "living lab", "logistique", "UX"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Abordé dans un [**article précédent**](/2012/08/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au.html), l'économie de l'expérience vient à la suite" de l'économie de la fonctionnalité. Des dispositifs sont créés et mis en oeuvre dans des laboratoires vivants ([**Living labs**]()) pour que les utilisateurs eux-mêmes concoivent les services et les objets, dans le but de vivre une expérience.
@@ -18,4 +22,8 @@ Le projet ELLIOT propose notamment dans le thème de la [**logistique** ]()et de
 
  
 
+<<<<<<< HEAD
 "2012-08-21 08:50:35https://transportsdufutur.ademe.fr/2012/08/leconomie-de-lexperience-dans-le-projet-europeen-elliot.htmlcitoyen|connectivité|données réelles|économie de l'expérience|innovation|intelligence collective|internet des objets|living lab|logistique|UXpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatleconomie-de-lexperience-dans-le-projet-europeen-elliot2015-07-21 16:36:29
+=======
+"2012-08-21 08:50:35/2012/08/21/leconomie-de-lexperience-dans-le-projet-europeen-elliot/citoyen|connectivité|données réelles|économie de l'expérience|innovation|intelligence collective|internet des objets|living lab|logistique|UXpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatleconomie-de-lexperience-dans-le-projet-europeen-elliot2015-07-21 16:36:29
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

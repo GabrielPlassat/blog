@@ -3,7 +3,11 @@ layout: post
 title: "L'€,  est-ce la meilleure monnaie pour les futures (potentielles) indemnités vélo ?"
 date: 2012-11-19 16:11:21 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autopartage', 'citoyen', 'collectivité', 'données réelles', 'Efficacité énergétique', 'innovation', 'intelligence collective', 'monnaie complémentaire', 'multimodes', 'vélo']
+=======
+tags: ["autopartage", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "intelligence collective", "monnaie compl\u00e9mentaire", "multimodes", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 ***[Plusieurs amendements au PLFSS 2013](http://www.senat.fr/petite-loi-ameli/2012-2013/103.html)** proposant des mesures pour inciter les entreprises à développer l'utilisation de vélos par leurs salariés ont été adoptés le 13 novembre au Sénat. Une des mesures est une extension du **[régime des indemnités kilométriques](/impots-taxes-entreprise/frais-de-deplacement-frais-reels-frais-kilometriques_28903.html)** aux vélos. L'employeur pourra ainsi prendre en charge, dans les conditions prévues à l'article L. 3261-4 du code du travail [relatif à la prise en charge des frais de transport des salariés] tout ou partie des frais engagés par ses salariés se déplaçant à vélo entre leur résidence habituelle et leur lieu de travail, sous la forme d'une indemnité kilométrique vélo, dont le montant sera fixé par décret. Le bénéfice de cette prise en charge pourra se cumuler avec celle prévue dans le cadre de la prime transport, sous certaines conditions.*

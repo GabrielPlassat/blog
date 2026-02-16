@@ -3,7 +3,11 @@ layout: post
 title: "Géovélo, aide au développement du vélo"
 date: 2010-09-21 09:54:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'citoyen', 'connectivité', 'données réelles', 'internet', 'iphone', 'multimodes', 'Service de mobilité', 'vélo']
+=======
+tags: ["assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "iphone", "multimodes", "Service de mobilit\u00e9", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Repris du **[blog ](http://3liz.org/blog/rldhont/index.php/2010/09/20/346-le-velo-a-paris-guide-par-osm)***ReLucBlog*, cette application va faciliter les déplacements en vélo. Aujourd'hui, [Paris](http://paris.fr/) a officialisé la mise à disposition d'un nouveau service pour les nombreux cyclistes circulant à Paris : [http://vgps.paris.fr/](http://vgps.paris.fr/)
@@ -45,7 +49,11 @@ Ci dessous quelques exemples qui montrent la puissance de ces outils, pour **[ch
  
  
 
+<<<<<<< HEAD
 "2010-09-21 09:54:34https://transportsdufutur.ademe.fr/2010/09/geovelo-aide-au-developpement-du-velo.htmlassistant de mobilité|citoyen|connectivité|données réelles|internet|iphone|multimodes|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgeovelo-aide-au-developpement-du-velo2015-07-21 16:37:38margin-right: auto"" title=""Comute"" /> 
+=======
+"2010-09-21 09:54:34/2010/09/21/geovelo-aide-au-developpement-du-velo/assistant de mobilité|citoyen|connectivité|données réelles|internet|iphone|multimodes|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgeovelo-aide-au-developpement-du-velo2015-07-21 16:37:38margin-right: auto"" title=""Comute"" /> 
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  
  
 

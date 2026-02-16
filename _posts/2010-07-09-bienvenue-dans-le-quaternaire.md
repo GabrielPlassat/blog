@@ -3,7 +3,11 @@ layout: post
 title: "Bienvenue dans le quaternaire !"
 date: 2010-07-09 12:00:58 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['économie du quaternaire', 'économie fonctionnalité']
+=======
+tags: ["\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Issus de la **[newsletter de Capital Innovation](http://www.capital-innovation.fr/newsletter/)**, des exemples d’applications de l’économie de la fonctionnalité.*

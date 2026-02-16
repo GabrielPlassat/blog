@@ -3,7 +3,11 @@ layout: post
 title: "Quand le virtuel donnera plus de sensations (réelles) que le réel ..."
 date: 2010-01-07 15:23:16 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['TIC', 'transition générationnelle', 'Véhicule', 'virtuel']
+=======
+tags: ["TIC", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule", "virtuel"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Grâce au magazine officiel PlayStation Mag, il est possible de donner des détails concernant le très attendu [**Gran Turismo 5**](http://www.typepad.com/jeu_530_gran-turismo-5) de [**Polyphony Digital**](http://www.typepad.com/societe_249_polyphony-digital). Une présentation officielle ci dessous (ce n'est pas un film !)

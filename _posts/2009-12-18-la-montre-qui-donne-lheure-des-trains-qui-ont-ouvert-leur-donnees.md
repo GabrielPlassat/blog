@@ -3,7 +3,11 @@ layout: post
 title: "La montre qui donne l'heure des trains (qui ont ouvert leur données) !"
 date: 2009-12-18 10:20:15 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'internet des objets', 'open source', 'partage de données']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "internet des objets", "open source", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 **[Cet article vient de TransID](http://transid.blogspot.com/2009/12/la-montre-qui-donne-lheure-des-trains.html)**

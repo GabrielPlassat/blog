@@ -3,7 +3,11 @@ layout: post
 title: "Le Sud apporte au Nord, la suite ..."
 date: 2010-02-10 18:21:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Service de mobilité', 'Véhicule']
+=======
+tags: ["Service de mobilit\u00e9", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le Nord apportera les technologies aux pays du Sud pour leur permettre de réduire rapidement pollutions, émissions de GES... Oui, mais non, ou plutôt pas vraiment. Les briques technologiques sont en partie transférées par des sociétés multinationales, que l'on pourrait qualifier d'hors sol", mais les usages que l'on en fait sont complétement revus et adaptés aux conditions locales, et les méthodes collectives pour les choisir sont, là encore, différentes. 

@@ -3,7 +3,11 @@ layout: post
 title: "Solutions de mobilités pour les déplacements domicile-travail, Et si la Chine ..."
 date: 2012-03-21 15:14:40 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'chine', 'citoyen', 'collectivité', 'commuter', 'économie fonctionnalité', 'Efficacité énergétique', 'Europe', 'intelligence collective', 'partage de la voirie', 'rickshaw']
+=======
+tags: ["assistant de mobilit\u00e9", "chine", "citoyen", "collectivit\u00e9", "commuter", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Europe", "intelligence collective", "partage de la voirie", "rickshaw"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Reprenant mon [**post précédent**](/2012/03/et-si-les-chinois-re-inventaient-aussi-les-modes-de-transports-urbains-lessismore.html) sur des véhicules 3-4 roues (très) légers mono-usages (urbains), Frost & Sullivan enfonce le clou dans son dernier [**rapport**](http://www.frost.com/prod/servlet/market-insight-print.pag?docid=256072959). Ces objets roulants hybrides entre la voiture et le 2 roues traditionnel arrivent. Ils visent les commuters" urbains des mégalopoles.
@@ -26,4 +30,8 @@ Intégrant tous les acteurs, les mégalopoles asiatiques pourraient dès lors de
 
 Il est encore temps, mais le [**point de basculement**]() se rapproche.
 
+<<<<<<< HEAD
 "2012-03-21 15:14:40https://transportsdufutur.ademe.fr/2012/03/solutions-de-mobilites-pour-les-deplacements-domicile-travail-et-si-la-chine.htmlassistant de mobilité|chine|citoyen|collectivité|commuter|économie fonctionnalité|Efficacité énergétique|Europe|intelligence collective|partage de la voirie|rickshawpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsolutions-de-mobilites-pour-les-deplacements-domicile-travail-et-si-la-chine2015-07-21 16:36:33
+=======
+"2012-03-21 15:14:40/2012/03/21/solutions-de-mobilites-pour-les-deplacements-domicile-travail-et-si-la-chine/assistant de mobilité|chine|citoyen|collectivité|commuter|économie fonctionnalité|Efficacité énergétique|Europe|intelligence collective|partage de la voirie|rickshawpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsolutions-de-mobilites-pour-les-deplacements-domicile-travail-et-si-la-chine2015-07-21 16:36:33
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

@@ -3,7 +3,11 @@ layout: post
 title: "Indice de Performance de la Logistique par pays - World Bank"
 date: 2011-06-07 10:49:13 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'Infrastructure', 'logistique', 'marchandises', 'multimodes', 'partage de la voirie']
+=======
+tags: ["autorit\u00e9 des transports", "Infrastructure", "logistique", "marchandises", "multimodes", "partage de la voirie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 La Banque Mondiale vient de publier la seconde édition du **[Logistics Performance Index (LPI)](http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTTRANSPORT/EXTTLF/0,,contentMDK:21514122~menuPK:3875957~pagePK:210058~piPK:210062~theSitePK:515434,00.html)** développée avec l'aide des logisticiens et de partenaires académiques. L'objectif est de déterminer par pays, plusieurs indicateurs pertinents liés aux transports, aux infrastructures, aux modes d'organisation, aux modèles économiques, puis de les aggréger dans un indicateur global. Cet indicateur vise à refléter la performance de la chaîne logistique dans son ensemble. Pour un même niveau de revenu par habitant, une meilleure chaîne logistique apporte jusqu'à 1% sur le PIB et 2% de commerce supplémentaire.

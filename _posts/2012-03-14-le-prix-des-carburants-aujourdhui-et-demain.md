@@ -3,7 +3,11 @@ layout: post
 title: "Le prix des carburants aujourd'hui et demain"
 date: 2012-03-14 17:56:20 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['autorité des transports', 'carburant', 'catastrophe', 'citoyen', 'confiance', 'externalité', 'prix carburant']
+=======
+tags: ["autorit\u00e9 des transports", "carburant", "catastrophe", "citoyen", "confiance", "externalit\u00e9", "prix carburant"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 [**Aujourd'hui à 2 euros**](http://www.francetv.fr/info/ce-que-cache-la-flambee-des-prix-de-l-essence_72377.html), et demain ? et si le prix à la pompe avait une limite ? Oui, sans doute. Nous ne savons pas où et quand mais cela n'est pas tenable pour tous. Les vols de carburant suivent inexorablement le prix à la pompe (voir cet [**article **](http://www.lemonde.fr/economie/article/2012/03/10/essence-les-prix-s-envolent-les-vols-aussi_1655696_3234.html#ens_id=1655754)du Monde). Il y a donc une limite sur le prix du liquide car ce dernier intégre d'autres coûts. Ces autres coûts (taxes) sont nécessaires pour intégrer les coûts externes, mais ils rendent le prix du liquide bientôt problématique. Il sera donc **nécessaire **de taxer la **mobilité carbonée** autrement, ailleurs, non pas pour faire baisser son coût, mais pour réduire le prix du liquide. Et une fois de plus, cela passera par des approches systémiques, complexes, et des solutions dématérialisées, numériques...

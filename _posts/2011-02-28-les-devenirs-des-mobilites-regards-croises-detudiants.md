@@ -3,7 +3,11 @@ layout: post
 title: "Les devenirs des mobilités : regards croisés d'étudiants !"
 date: 2011-02-28 17:24:02 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'collectivité', 'confiance']
+=======
+tags: ["citoyen", "collectivit\u00e9", "confiance"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Novincie organise sa prochaine conférence sur le thème Les devenirs des mobilités : regards croisés d'étudiants !" **le mercredi 16 mars de 8h30 à 10h à l'hôtel de Rennes Métropole**.

@@ -3,7 +3,11 @@ layout: post
 title: "Nimble Cities"
 date: 2010-09-03 16:00:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'Efficacité énergétique', 'internet', 'partage de données', "Plateforme d'idées"]
+=======
+tags: ["citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "partage de donn\u00e9es", "Plateforme d'id\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Une nouvelle plateforme participative de ***[Slate.com](http://www.slate.com/) ***pour le développement de villes « habiles » ?* *

@@ -3,7 +3,11 @@ layout: post
 title: "Transports & Mobilités : Outil d'aide au choix, de capitalisation (USA) #T-PICS"
 date: 2012-02-08 11:45:18 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'autorité des transports', 'cité', 'collectivité', 'donnée data', 'données réelles', 'Efficacité énergétique', 'gouvernance', 'Infrastructure', 'innovation', 'internet', 'ITS', 'management de la mobilité', 'open innovation', 'partage de données']
+=======
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "cit\u00e9", "collectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "Infrastructure", "innovation", "internet", "ITS", "management de la mobilit\u00e9", "open innovation", "partage de donn\u00e9es"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Outil de capitalisation, d'aide aux choix, de comparaison des solutions de transports avant/après (USA): transparence, rentabilité des capitaux employés, arbitrage, ...
@@ -22,4 +26,8 @@ T-PICS is available at [transportationforcommunities.com/t-pics]()."
 
 [Transportation Project Impact Case Studies]() from [The National Academies]() on [Vimeo]().
 
+<<<<<<< HEAD
 "2012-02-08 11:45:18https://transportsdufutur.ademe.fr/2012/02/transports-mobilites-outil-daide-au-choix-de-capitalisation-usa-t-pics.htmlassistant de mobilité|autorité des transports|cité|collectivité|donnée data|données réelles|Efficacité énergétique|gouvernance|Infrastructure|innovation|internet|ITS|management de la mobilité|open innovation|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattransports-mobilites-outil-daide-au-choix-de-capitalisation-usa-t-pics2015-07-21 16:36:37
+=======
+"2012-02-08 11:45:18/2012/02/08/transports-mobilites-outil-daide-au-choix-de-capitalisation-usa-t-pics/assistant de mobilité|autorité des transports|cité|collectivité|donnée data|données réelles|Efficacité énergétique|gouvernance|Infrastructure|innovation|internet|ITS|management de la mobilité|open innovation|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattransports-mobilites-outil-daide-au-choix-de-capitalisation-usa-t-pics2015-07-21 16:36:37
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

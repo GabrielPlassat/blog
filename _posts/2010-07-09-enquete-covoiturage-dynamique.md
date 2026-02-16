@@ -3,7 +3,11 @@ layout: post
 title: "Enquête Covoiturage Dynamique"
 date: 2010-07-09 10:49:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['connectivité', 'covoiturage', 'téléphone']
+=======
+tags: ["connectivit\u00e9", "covoiturage", "t\u00e9l\u00e9phone"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 A partir du 1er juin 2010, [MobiGIS](http://www.mobigis.fr/fr/enquete-covoiturage.html) en association avec des étudiants de l'université J.F. Champollion d'Albi mènent une enquête sur le covoiturage dynamique. 

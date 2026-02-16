@@ -3,7 +3,11 @@ layout: post
 title: "Le prix du carburant à la pompe a-t-il une limite ?"
 date: 2009-11-25 11:29:36 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Energie', "Plateforme d'idées", 'Précarité', 'prix carburant', 'Véhicule']
+=======
+tags: ["Energie", "Plateforme d'id\u00e9es", "Pr\u00e9carit\u00e9", "prix carburant", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 En Europe notamment, le prix du carburant à la pompe contient une forte proportion de taxes (TIPP, TVA). Ces taxes ont des effets bien connus :
@@ -74,7 +78,11 @@ Les citoyens devront être convaincus que les bénéfices communs seront supéri
 
  
 
+<<<<<<< HEAD
 Si nous utilisons les émissions de CO2 produites en temps
+=======
+Si nous utilisons les émissions de CO2 produites en temps_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 réel, en associant avec le style de conduite, les conditions de trafic, nous serons capables :
 
  

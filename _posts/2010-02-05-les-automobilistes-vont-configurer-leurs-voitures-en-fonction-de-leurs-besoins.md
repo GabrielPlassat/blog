@@ -3,7 +3,11 @@ layout: post
 title: "Les automobilistes vont configurer leurs voitures en fonction de leurs besoins\"\""
 date: 2010-02-05 20:31:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'marketing', 'open source', 'partage de données', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "marketing", "open source", "partage de donn\u00e9es", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Cette affirmation de Mme Asensio mérite que l’on y prête attention tant les conséquences pourraient être importantes pour les constructeurs automobiles. Cet [article ](http://www.lemonde.fr/aujourd-hui/article/2010/02/04/anne-asensio-les-automobilistes-vont-configurer-leurs-voitures-en-fonction-de-leurs-besoins_1301124_3238.html)du journal Le Monde présente sur la base d’un entretien la vision de cette personne expérimentée en matière de design automobile. Quelques extraits :

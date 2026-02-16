@@ -3,7 +3,11 @@ layout: post
 title: "DHL, les solutions logistiques durables passent par plus de transparence, plus de régulation, plus de coopération horizontale et verticale, et l’intégration du contenu carbone"
 date: 2011-04-26 14:24:41 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['camion', 'carburant', 'citoyen', 'collectivité', 'connectivité', 'Efficacité énergétique', 'Energie', 'externalité', "guide d'achat", 'internet', 'marchandises', 'multimodes', "qualité de l'air", 'véhicule propre']
+=======
+tags: ["camion", "carburant", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "externalit\u00e9", "guide d'achat", "internet", "marchandises", "multimodes", "qualit\u00e9 de l'air", "v\u00e9hicule propre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Dans son dernier rapport « **[Towards Sustainable Logistics](http://www.dp-dhl.com/content/dpdhl/en/logistics_around_us/trends/sustainable_logistics.html)** », DHL explore pour les vingt prochaines années les évolutions du secteur de la logistique. Sept clés de développement sont proposées pour construire des solutions logistiques durables. La plupart de ces solutions ont déjà été abordés dans ce blog. En préalable, il est bien indiqué qu’il n’y a pas de « silver bullet », solution unique qui règlerait le problème, mais qu’il faudra mener de front de nombreuses évolutions touchant aux modèles économiques, à la fiscalité carbone, à des coopérations à la fois verticales (modèle logistique intégré) et horizontales, à la mesures contraignantes si elles sont cohérentes, comprises et menées sur du long terme… *Quelques commentaires indiqués en italique*.

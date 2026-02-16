@@ -3,7 +3,11 @@ layout: post
 title: "Progressivement Amazon avance ses pions, pour atteindre son objectif : make history\"\""
 date: 2012-08-17 18:26:22 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['Amazon', 'Assistant Personnel de Consommation', 'carburant', 'citoyen', 'commuter', 'connectivité', 'données réelles', 'Fablab', 'innovation', 'marchandises']
+=======
+tags: ["Amazon", "Assistant Personnel de Consommation", "carburant", "citoyen", "commuter", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Fablab", "innovation", "marchandises"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le principal concurrent de Google n'est pas Apple ni Microsoft, mais Amazon d'après [**Business Insiders**](http://www.businessinsider.com/forget-apple-forget-facebook-heres-the-one-company-that-actually-terrifies-google-execs-2012-8). Pourquoi, tout simplement parce qu'Amazon vend directement à partir d'un ou 2 clics alors que Google vend des publicités qui peuvent potentiellement faire vendre. Pour cela, Amazon a réussi, mieux que tous les autres, le principal : connaître ses clients, leurs goûts, leurs habitudes, leurs envies, et simplifier, simplifier, simplifier encore l'acte d'achat : un seul clic. **Avec Locker, Amazon complète sa panoplie pour faciliter la rencontre avec la marchandise.** L'expérience acquise par cet acteur hors norme le placera bientôt dans une situation unique : notre principale place de marché.

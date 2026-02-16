@@ -3,7 +3,11 @@ layout: post
 title: "Les 10 villes US les plus propices\" aux VE\""
 date: 2010-11-03 08:32:08 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cité', 'citoyen', 'collectivité', 'commuter', 'données réelles', 'VE']
+=======
+tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "donn\u00e9es r\u00e9elles", "VE"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Plenty of research — from sources like GE and Deloitte, to name a few — has shown that “range anxiety,” or the fear of running out of battery charge in the middle of the road, is one of the biggest factors scaring consumers away from electric vehicles (EVs). Plenty of research — from sources like GE and Deloitte, to name a few — has shown that “range anxiety,” or the fear of running out of battery charge in the middle of the road, is one of the biggest factors scaring consumers away from electric vehicles (EVs).Plenty of research — from sources like GE and Deloitte, to name a few — has shown that “range anxiety,” or the fear of running out of battery charge in the middle of the road, is one of the biggest factors scaring consumers away from electric vehicles (EVs).

@@ -3,7 +3,11 @@ layout: post
 title: "Désertification médicale et maison de santé, des synergies avec les transports ?"
 date: 2010-10-14 11:35:31 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['maison de la mobilité', 'Santé', 'Service de mobilité']
+=======
+tags: ["maison de la mobilit\u00e9", "Sant\u00e9", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Aujourd'hui, une dizaine de régions françaises se caractérisent par une faible densité médicale. La situation devrait s'aggraver car, d'une part, de nombreux généralistes vont partir en retraite dans les prochaines années et, d'autre part, seul un étudiant en médecine sur dix compte ouvrir un cabinet.
@@ -70,5 +74,9 @@ Si les formes d’exercice pluri professionnel ne peuvent être à elles seules 
 
  
 
+<<<<<<< HEAD
 La mission souhaite conclure son rapport ***en alertant les pouvoirs publics et l’université sur l’importance à donner à la formation et à la recherche. ***Les enjeux actuels qui se posent concernant l’évolution du dispositif de premier recours ne pourront être atteints que si les professionnels de santé, qu’ils soient médecins ou paramédicaux, connaissent ces exercices coopératifs, et ont pu, au cours de leur cursus, se confronter à leurs pratique
+=======
+La mission souhaite conclure son rapport ***en alertant les pouvoirs publics et l’université sur l’importance à donner à la formation et à la recherche. ***Les enjeux actuels qui se posent concernant l’évolution du dispositif de premier recours ne pourront être atteints que si les professionnels de santé, qu’ils soient médecins ou paramédicaux, connaissent ces exercices coopératifs, et ont pu, au cours de leur cursus, se confronter à leurs pratique_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 s.

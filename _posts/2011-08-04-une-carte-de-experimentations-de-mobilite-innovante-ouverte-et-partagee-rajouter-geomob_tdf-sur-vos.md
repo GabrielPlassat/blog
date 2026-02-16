@@ -3,7 +3,11 @@ layout: post
 title: "Une carte de expérimentations de mobilité innovante ouverte et partagée ? Rajouter #geomob_tdf sur vos tweets et la carte se crée !"
 date: 2011-08-04 10:18:04 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['open innovation', 'partage de données', 'Service de mobilité']
+=======
+tags: ["open innovation", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Plusieurs sites proposent de décrire ou de signaler des expérimentations de mobilité innovante. Mais la carte n'est pas toujours partagée et il faut accéder aux sites.

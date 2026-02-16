@@ -3,7 +3,11 @@ layout: post
 title: "Dans vos projets, vos organisations, quelles sont les (vraies) richesses ?"
 date: 2013-05-02 11:32:30 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'confiance', 'covoiturage', 'donnée data', 'externalité', 'gratuit', 'holoptisme', 'intelligence collective', 'internet', 'lien social', 'living lab', 'marketing individualisé', 'monnaie complémentaire', 'multimodes', 'pensée complexe', 'Santé', 'Service de mobilité', 'yield management']
+=======
+tags: ["citoyen", "confiance", "covoiturage", "donn\u00e9e data", "externalit\u00e9", "gratuit", "holoptisme", "intelligence collective", "internet", "lien social", "living lab", "marketing individualis\u00e9", "monnaie compl\u00e9mentaire", "multimodes", "pens\u00e9e complexe", "Sant\u00e9", "Service de mobilit\u00e9", "yield management"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le covoiturage a conduit à **[faire baisser les tarifs des trains](http://transports.blog.lemonde.fr/2013/04/28/comment-le-covoiturage-fait-baisser-le-prix-du-train/)** et à donner naissance à IDBus. Effet rebond logique et prévisible, basé sur notre économie fondée sur la concurrence et les euros. Les transports collectifs publics sont en général payant, mais certains ont choisi la gratuité, est ce forcément binaire (voir un **[article sur ce sujet](/2012/10/entre-des-transports-gratuits-ou-payants-de-multiples-solutions-et-un-projet-de-societe-a-construire.html))** ? Que se passerait-il si les fournisseurs de service de mobilité créaient, en plus, leur monnaie ?
@@ -42,7 +46,11 @@ Quand la monnaie (euro) se fait plus rare, les richesses échangeables se passen
  
 - **échangeables**: un véhicule (achat/vente, location, partage, ...), un voyage, un espace libre dans un véhicule, 
 - **mesurables** : bonus/malus pour l'assurance (qualité de conduite), nombre de point sur le permis (respect des codes), Qualité de maintenance du véhicule (contrôle technique), miles aérien/Smile/... (fidélité à un commerçant), bilan environnemental/RSE de l'entreprise (choix modaux et organisations, externalités), indépendance au pétrole pour accéder aux principaux services et à l'emploi, et demain votre indice de confiance (Confiance jugée par les personnes auxquelles vous êtes liées : covoiturage, autopartage, entretien voiture, ...), 
+<<<<<<< HEAD
 - **exprimables** :
+=======
+- **exprimables** :_x000D_
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  possession de(s) permis de conduire, capacité à pouvoir être multimodal (expériences, pratiques,...),  capacité à être multimodal (confiance, disponibilité des modes, organisation pour avoir accès aux modes), capacité à choisir l'espace et le temps (téléactivités), 
  
 
@@ -100,7 +108,11 @@ L'engagement d'un grand nombre de personnes dans de nouvelles pratiques de mobil
 
  
  
+<<<<<<< HEAD
 "2013-05-02 11:32:30https://transportsdufutur.ademe.fr/2013/05/quelles-sont-vos-vraies-richesses.htmlcitoyen|confiance|covoiturage|donnée data|externalité|gratuit|holoptisme|intelligence collective|internet|lien social|living lab|marketing individualisé|monnaie complémentaire|multimodes|pensée complexe|Santé|Service de mobilité|yield managementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatquelles-sont-vos-vraies-richesses2015-07-21 16:35:43padding-left: 30px"">*Les collectifs -- régions, entreprises, associations, ONG, villes --  sont alors sur le champ capables d'utiliser les flowplaces et les monnaies libres pour les Systèmes d'Echanges Locaux (SEL), les banques de temps, les réseaux de troc, les programmes de droits à l'émission de dioxyde de carbone, les coopératives de garde d'enfants, les systèmes de suivi de la réputation, les programmes de fidélisation commerciale, etc. Les effets les plus importants se feront sentir lorsque l'on fera appel à la créativité pour inventer de nouvelles monnaies qui résolvent des problèmes qui nous semblent insurmontables aujourd'hui.*
+=======
+"2013-05-02 11:32:30/2013/05/02/quelles-sont-vos-vraies-richesses/citoyen|confiance|covoiturage|donnée data|externalité|gratuit|holoptisme|intelligence collective|internet|lien social|living lab|marketing individualisé|monnaie complémentaire|multimodes|pensée complexe|Santé|Service de mobilité|yield managementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatquelles-sont-vos-vraies-richesses2015-07-21 16:35:43padding-left: 30px"">*Les collectifs -- régions, entreprises, associations, ONG, villes --  sont alors sur le champ capables d'utiliser les flowplaces et les monnaies libres pour les Systèmes d'Echanges Locaux (SEL), les banques de temps, les réseaux de troc, les programmes de droits à l'émission de dioxyde de carbone, les coopératives de garde d'enfants, les systèmes de suivi de la réputation, les programmes de fidélisation commerciale, etc. Les effets les plus importants se feront sentir lorsque l'on fera appel à la créativité pour inventer de nouvelles monnaies qui résolvent des problèmes qui nous semblent insurmontables aujourd'hui.*
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

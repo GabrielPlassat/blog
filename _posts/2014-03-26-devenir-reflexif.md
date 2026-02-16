@@ -3,7 +3,11 @@ layout: post
 title: "Devenir réflexif"
 date: 2014-03-26 16:15:34 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['holoptisme', 'intelligence collective', 'internet']
+=======
+tags: ["holoptisme", "intelligence collective", "internet"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les firmes se positionnaient vis à vis de leurs clients par des études marketing, des sondages, des panels consommateurs. Ces boucles rétroactives pauvres" permettaient de comprendre les besoins et de planifier le développement de produits de façon verticale. Cette approche est bien sûr dépassée dans un monde chaotique, complexe - [**au sens de complexus, ce qui est tissé ensemble**]() -, interdépendant et hyperlié. Notre compréhension de la multitude doit évoluer, pour développer de meilleurs produits et services mais surtout pour nous permettre de mieux comprendre notre environnement et de mieux nous voir évoluer nous mêmes. 
@@ -44,7 +48,11 @@ Une émission de France culture, Place de la toile, avec Pierre Lévy (que vous 
 
  
 
+<<<<<<< HEAD
 "2014-03-26 16:15:34https://transportsdufutur.ademe.fr/2014/03/devenir-reflexif.htmlholoptisme|intelligence collective|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdevenir-reflexif2015-07-21 16:35:34>
+=======
+"2014-03-26 16:15:34/2014/03/26/devenir-reflexif/holoptisme|intelligence collective|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdevenir-reflexif2015-07-21 16:35:34>
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

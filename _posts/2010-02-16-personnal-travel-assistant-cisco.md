@@ -3,7 +3,11 @@ layout: post
 title: "Personnal Travel Assistant (Cisco)"
 date: 2010-02-16 14:14:38 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assistant de mobilité', 'connectivité', 'données réelles', 'partage de données', 'Service de mobilité', 'TIC', 'transition générationnelle']
+=======
+tags: ["assistant de mobilit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "partage de donn\u00e9es", "Service de mobilit\u00e9", "TIC", "transition g\u00e9n\u00e9rationnelle"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Resident now able to reduce Personal Carbon Footprint, Transit costs and Travel time via new, web-based service. Cisco and City of Seoul launch Personal Travel Assistant Solution.   **Des entreprises qui n'ont aucun lien avec l'industrie des véhicules peuvent changer radicalement la façon dont nous nous déplacerons.**   SEOUL, Korea, May 21, 2009 – As part of the third Global Connected Urban Development Conference, Cisco and the city of Seoul today announced the debut of Personal Travel Assistant (PTA), a Web-based service that allows residents to make on-the-go travel decisions based on time, cost and carbon impact.  Unlike map-based direction-finders or trip planners, PTA offers virtual assistant" features and access to real-time information and user- and trip-specific travel guidance via any Web-enabled device, from any location. 

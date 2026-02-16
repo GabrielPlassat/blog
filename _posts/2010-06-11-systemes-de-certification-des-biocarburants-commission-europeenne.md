@@ -3,7 +3,11 @@ layout: post
 title: "Systèmes de certification des biocarburants - Commission Européenne"
 date: 2010-06-11 15:27:59 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['carburant', 'Energie']
+=======
+tags: ["carburant", "Energie"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Les biocarburants représentent une alternative pour alimenter, sans trop de modification coté véhicule/moteur, nos solutions de transport actuelles ayant des durées de vie de plusieurs dizaines d'années. Mais de nombreuses précautions sont nécessaires (voir **[ici](/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses.html)** et **[là](/2010/03/les-energies.html)**), dont la prise en compte de la qualité de la production et les besoins en ressources primaires. 

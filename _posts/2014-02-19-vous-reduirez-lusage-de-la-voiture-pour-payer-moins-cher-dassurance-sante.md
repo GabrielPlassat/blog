@@ -3,7 +3,11 @@ layout: post
 title: "Moins de voiture, plus de vélo/marche/bus, moins cher d'assurance santé, et après ..."
 date: 2014-02-19 10:23:55 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['assurance', 'citoyen', 'données réelles', 'Efficacité énergétique', 'externalité', 'holoptisme', 'intelligence collective', 'marchabilité', 'surveillance', 'vélo']
+=======
+tags: ["assurance", "citoyen", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "holoptisme", "intelligence collective", "marchabilit\u00e9", "surveillance", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Le [**NHS**](http://fr.wikipedia.org/wiki/National_Health_Service) vient d'estimer que la pratique du vélo permet d'économiser 250 million de livres si nous faisions uniquement un déplacement sur 10 avec ce mode (lire [**l'article**](http://www.theguardian.com/lifeandstyle/2014/feb/10/cycling-save-nhs-250m-year-report)). Cette information viendra se ranger à coté des piles de rapport, de synthèse qui rappellent l'évidence : faire du vélo, marcher se révèle bénéfique pour la santé et l'environnement. En conséquence, nous (société) avons intérêt à favoriser les changements de comportement vers ces modes de transports. Autre évidence, les comptes publics de la santé vont, dans les pays développés, se creuser, obligeant de plus en plus à informer, puis plus tard à contraindre. **Pendant ce temps, des acteurs d'un autre domaine arrivent. Ils pensent expérience, connexion, user centric**. 
@@ -52,7 +56,11 @@ Ce premier niveau de partage est indispensable et il sera amplifié par une mult
 
  
 
+<<<<<<< HEAD
 "2014-02-19 10:23:55https://transportsdufutur.ademe.fr/2014/02/vous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante.htmlassurance|citoyen|données réelles|Efficacité énergétique|externalité|holoptisme|intelligence collective|marchabilité|surveillance|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante2015-07-21 16:35:35>**Et si mon bilan santé était étroitement lié à mes pratiques de mobilités quotidiennes ?**
+=======
+"2014-02-19 10:23:55/2014/02/19/vous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante/assurance|citoyen|données réelles|Efficacité énergétique|externalité|holoptisme|intelligence collective|marchabilité|surveillance|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante2015-07-21 16:35:35>**Et si mon bilan santé était étroitement lié à mes pratiques de mobilités quotidiennes ?**
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

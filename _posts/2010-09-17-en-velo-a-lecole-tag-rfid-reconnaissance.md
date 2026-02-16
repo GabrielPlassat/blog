@@ -3,7 +3,11 @@ layout: post
 title: "En vélo à l'école + tag RFID = reconnaissance"
 date: 2010-09-17 15:33:46 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['citoyen', 'commuter', 'confiance', 'connectivité', 'internet', 'mode doux', 'obésité', 'RFID', 'vélo']
+=======
+tags: ["citoyen", "commuter", "confiance", "connectivit\u00e9", "internet", "mode doux", "ob\u00e9sit\u00e9", "RFID", "v\u00e9lo"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Traduit de cet **[article](http://www.beatricedailysun.com/news/local/article_9a6f208e-c140-11df-bfa8-001cc4c03286.html?mode=story)**, la pratique des modes doux, pour se développer, va nécessiter une reconnaissance, pas forcément financière de ceux qui font ce choix (voir également **[ici](/2009/12/philips-directlife-le-lien-activite-physique-sante.html)**). Certaines technologies peuvent permettre de faciliter cette reconnaissance.

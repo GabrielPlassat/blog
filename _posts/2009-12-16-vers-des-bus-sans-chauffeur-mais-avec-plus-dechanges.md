@@ -3,7 +3,11 @@ layout: post
 title: "Vers des bus sans chauffeur … mais avec plus d'échanges"
 date: 2009-12-16 15:52:44 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['cybercar', 'Energie', 'Ertico', 'Infrastructure', 'internet des objets', 'philanthropie', 'Service de mobilité', 'TIC', 'Véhicule']
+=======
+tags: ["cybercar", "Energie", "Ertico", "Infrastructure", "internet des objets", "philanthropie", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Tout nous y conduit… Techniquement faisable dans quelques années ou une décennie (**[voir article de Ricardo](http://www.ricardo.com/News--Media/Press-releases/News-releases1/2009/Cars-that-drive-themselves-can-become-reality-within-ten-years/)**), la conduite automatique est l’objet de nombreux travaux internationaux : l’armée américaine via le **[DARPA ](http://www.darpa.mil/GRANDCHALLENGE/)**organise un challenge de conduite automatique en milieu urbain, les **[cybercars](http://www.usinenouvelle.com/article/les-cybercars-les-transports-en-commun-de-demain.N117495)** sont déjà exploités pour des applications de mobilité sur des sites industriels ou touristiques, et préfigurent des applications commerciales pour le transport public. Notons que de nombreux acteurs français sont reconnus dans ce domaine (INRIA, Robosoft, Induct, Paristech…).

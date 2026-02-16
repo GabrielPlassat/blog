@@ -3,7 +3,11 @@ layout: post
 title: "Les fondamentaux de l'Opération France Direct"
 date: 2014-07-28 16:09:40 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['art de la guerre']
+=======
+tags: ["art de la guerre"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 *Cet article a été rédigé par Vincent Bendetti*.

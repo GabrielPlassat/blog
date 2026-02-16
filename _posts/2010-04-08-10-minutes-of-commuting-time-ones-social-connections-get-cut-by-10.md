@@ -3,7 +3,11 @@ layout: post
 title: "10 minutes of commuting time, one's social connections get cut by 10%"
 date: 2010-04-08 11:44:17 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['commuter', 'Santé']
+=======
+tags: ["commuter", "Sant\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Harvard University public policy professor Robert D. Putnam, author of *Bowling Alone: The Collapse and Revival of American Community*, says that for every 10 minutes of commuting time, one's social connections get cut by 10%. Imagine what that means when it's not a matter of minutes but hours.

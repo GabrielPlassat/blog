@@ -3,7 +3,11 @@ layout: post
 title: "Quelle différence entre quelques décilitres de gazole, un savon et un paquet de gateau ?"
 date: 2009-11-12 19:02:42 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['données réelles', 'Energie', 'gateau', 'Santé']
+=======
+tags: ["donn\u00e9es r\u00e9elles", "Energie", "gateau", "Sant\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 L'utilisation de biomasse à des fins énergétiques, notamment comme carburants pour les transports, soulève depuis quelques années de nombreuses interrogations parfaitement justifées par la société au sens large.
@@ -37,4 +41,8 @@ Je propose le parcours suivant :
 
  
 
+<<<<<<< HEAD
 "2009-11-12 19:02:42https://transportsdufutur.ademe.fr/2009/11/quelle-difference-entre-1-litre-de-gazole-et-un-paquet-de-gateau.htmldonnées réelles|Energie|gateau|Santépublish18gabriel plassatquelle-difference-entre-1-litre-de-gazole-et-un-paquet-de-gateau2009-11-12 19:02:42
+=======
+"2009-11-12 19:02:42/2009/11/12/quelle-difference-entre-1-litre-de-gazole-et-un-paquet-de-gateau/données réelles|Energie|gateau|Santépublish18gabriel plassatquelle-difference-entre-1-litre-de-gazole-et-un-paquet-de-gateau2009-11-12 19:02:42
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

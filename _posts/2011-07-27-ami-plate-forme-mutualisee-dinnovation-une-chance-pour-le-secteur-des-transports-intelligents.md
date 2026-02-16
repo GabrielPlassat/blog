@@ -3,7 +3,11 @@ layout: post
 title: "AMI Plate-forme Mutualisée d'Innovation - une chance pour le secteur des Transports Intelligents"
 date: 2011-07-27 14:33:27 +0100
 categories: []
+<<<<<<< HEAD
 tags: ['innovation', 'internet', 'management de la mobilité', 'open innovation', 'plate-forme', "Plateforme d'idées", 'Service de mobilité']
+=======
+tags: ["innovation", "internet", "management de la mobilit\u00e9", "open innovation", "plate-forme", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9"]
+>>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ---
 
 Lancement du [premier appel concernant les plates-formes mutualisées d’innovation](http://competitivite.gouv.fr/les-investissements-d-avenir-une-opportunite-pour-les-poles-de-competitivite/les-projets-de-plates-formes-mutualisees-d-innovation-une-opportunite-pour-les-poles-de-competitivite-659.html). Dans le domaine des transports et de la mobilité pour les personnes et/ou les marchandises, il a été de nombreuses fois mentionné dans ce blog la nécessité de mettre en œuvre une structure de plate-forme. **[Google Mobility Service](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html)** est un exemple. L'articulation avec les autres programmes d’aide est précisée [ICI](http://competitivite.gouv.fr/les-projets-de-plates-formes-mutualisees-d-innovation-une-opportunite-pour-les-poles-de-competitivite/l-articulation-entre-les-plates-formes-mutualisees-d-innovation-et-d-autres-mesures-690.html).
