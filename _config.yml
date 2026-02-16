@@ -1,85 +1,39 @@
-# Configuration Jekyll - Transports du Futur
-title: "Transports du Futur"
-<<<<<<< HEAD
-description: "Exploration des mobilités, de l'innovation et des transports de demain (2009-2024)"
+﻿title: "Transports du Futur"
+description: "Exploration des mobilites, de l'innovation et des transports"
 baseurl: "/blog"
 url: "https://gabrielplassat.github.io"
 
-# Auteur (sans email)
 author:
-  name: Gabriel Plassat
-=======
-description: "15 ans d'exploration des mobilités, de l'innovation et des transports de demain (2009-2024)"
-baseurl: "" # À remplacer par /nom-du-repo si hébergé sur username.github.io/nom-du-repo
-url: "" # À remplacer par https://username.github.io
+  name: "Gabriel Plassat"
 
-# Auteur
-author:
-  name: Gabriel Plassat
-  email: gabriel.plassat@ademe.fr
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
-
-# Build settings
 theme: minima
-remote_theme: jekyll/minima
-
-# Paramètres
-<<<<<<< HEAD
 permalink: /:year/:month/:day/:title/
-=======
-permalink: /:year/:month/:title/
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 timezone: Europe/Paris
 lang: fr
 encoding: utf-8
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:title/
-
-# Pagination
 paginate: 20
 paginate_path: "/page/:num/"
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
 
-# SEO
 twitter:
   username: gabrielplassat
-  card: summary
 
-social:
-  name: Gabriel Plassat
-  links:
-    - https://twitter.com/gabrielplassat
+markdown: kramdown
+kramdown:
+  input: GFM
 
-# Exclusions
+sass:
+  style: compressed
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENSE
-  - convert_blog.py
-  - conversion_stats.json
   - node_modules
   - vendor
-
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
-
-# Sass
-sass:
-  style: compressed
