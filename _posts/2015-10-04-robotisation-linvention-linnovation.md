@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Robotisation des véhicules, de l'invention à l'innovation"
+date: 2015-10-04 19:47:16 +0100
+categories: []
+tags: ["Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "Comment agir pour changer les pratiques ?", "commuter", "cybercar", "cygne noir", "google", "innovation", "intelligence collective", "Non class\u00e9"]
+---
+
+Voiture autonome, GoogleCar, le sujet est devenu "hype", au **[sommet de la courbe de Gartner](http://www.silicon.fr/gartner-hype-cycle-2015-voiture-connectee-autonome-124683.html)**. Il est donc urgent de penser la robotisation autrement. L'automatisation de la conduite est le résultat d'un assemblage de techniques conduisant à une invention. Désormais nous savons que cette invention aura lieu, les questions portent sur le ou les innovations rendues possible par cette invention. Quels marchés seront transformés en premier (lire la [**MétaNote sur le cybercar**](/2014/04/16/metanote-20-la-voiture-sans-conducteur-la-chimere/)) ? quels acteurs ont intérêt à la robotisation ? quels sont ceux qui n'ont pas intérêt ? Et dans quels contextes géopolitiques émergeront les premiers véhicules robotisés ?
+
+_x000D_
+
+[![googlecar_electricar](http://transportsdufutur.ademe.fr/assets/images/2015/10/googlecar_electricar.jpg)](http://transportsdufutur.ademe.fr/assets/images/2015/10/googlecar_electricar.jpg)
+
+_x000D_
+
+_x000D_
+
+Le remplacement d'un conducteur par un robot permet logiquement de baisser les coûts surtout si le conducteur est payé pour cela. Naturellement tous les secteurs avec des conducteurs salariés sont parmi les acteurs "favorables". Ce n'est pas un hasard si des métros sont déjà entièrement robotisés, ou encore des camions roulant dans des mines. Les opérateurs de transport public comptent un grand de conducteur dans leur effectif, ainsi que le transport de marchandises. Plus l'utilisation du véhicule a lieu sur un terrain privé ([**les mines pour les camions**](http://www.24hgold.com/francais/actualite-or-argent-des-poids-lourds-autonomes-arrivent-dans-les-mines-de-l-alberta.aspx?article=7029296246H11690&redirect=false&contributor=Mish.), [**des ports industriels**](http://wardsauto.com/vehicles-technology/singapore-deploy-driverless-vehicles-ports), [**les chariots automatisés dans les entrepôts**](http://www.lesechos.fr/26/03/2015/LesEchos/21906-126-ECH_balyo-robotise-les-chariots-de-manutention.htm) par exemple), plus les conditions sont donc "favorables" à la robotisation. Puis nous progresserons sur l'élargissement de ce contexte par l'abaissement des coûts, par le travail légal et réglementaire : dans des couloirs dédiés pour les autobus, des portions d'autoroute. Le véhicule lourd affiche de biens meilleures conditions pour accueillir les premières innovations (lire la [**MétaNote l'Avenir du Camion**](/2013/07/05/metanote-16-lavenir-du-camion/)). Ce marché est structuré pour être géré par des professionnels, optimiser des flux, maximiser l'usage des ressources et améliorer la productivité des différents acteurs. En se robotisant sur des portions de trajet, sur certaines applications ou usages, dans certains contextes (uniquement la nuit, [**sur certaines routes, par exemple**](http://www.zdnet.fr/actualites/les-camions-autonomes-en-test-sur-les-routes-allemandes-cette-annee-39822950.htm)), le véhicule poursuit à la fois l'optimisation du système et sa spécialisation. Mais pour permettre cela, vont s'ouvrir de nombreuses questions sur le droit du travail : est ce qu'un conducteur qui ne conduit pas est considérer au travail ? peut-il être au repos quand la conduite est automatique ?
+
+_x000D_
+
+D'abord dans des secteurs avec des terrains privés gérant des flux de à faible valeur ajoutée, puis en montant en gamme, la robotisation s'appuiera sur le véhicule lourd de marchandises puis de transport public pour familiariser les urbains et l'ensemble des acteurs aux robots roulants. Les innovations apparaitront (apparaissent déjà) sur des véhicules transportant des marchandises.
+
+_x000D_
+
+Quand le conducteur n'est pas payé pour conduire,  la robotisation ne prendra pas appui sur les mêmes déterminants. Pour les véhicules haut de gamme, ce n'est que la poursuite de l'histoire automobile : le vêtement de mode. La robotisation n'est alors qu'un détail de l'expérience de transport qui enveloppe l'acheteur. En dehors du Premium, tout est à inventer (lire la [**MétaNote sur l'avenir de l'Automobile**](/2012/07/24/lavenir-de-lautomobile/)). L'automobile s'est construite autour de la relation entre le conducteur et la machine. Plus de 100 ans de marketing automobile ont forgé ce lien. En supprimant le conducteur, tout s'effondre. Et rejoint le véhicule fonctionnel, donc le véhicule lourd.
+
+_x000D_
+
+Le véhicule autonome, n'est plus une voiture; le mot est associé à un conducteur. L'ontologie détermine nos schémas de pensée. Le robot taxi devient le prolongement des services de mobilités qui s'industrialisent aujourd'hui. Reconçu en partant du système, lui-même à partir de l'expérience visée, l'objet sera plus léger, plus efficient, spécialisé en fonction des contextes et des usages. Le robot sera une commodité d'un système de mobilité. La chaîne de valeur est à construire mais l'histoire indique qu'elle est dominée par celui qui design l'expérience client. Malgré les apparences, la plupart des constructeurs automobiles n'ont pas intérêt à voir cette invention devenir une innovation car leur modèle d'affaire, leurs processus industriels, leurs canaux de distribution, leurs offres et finalement toutes les organisations en seraient profondément transformés. A court terme, aucun n'a démontré une capacité à s'extraire d'un mode de pensée centré sur la production d'objet pour devenir réellement fournisseur d'expériences de mobilités. [**Les cinq phases du déni sont à l'oeuvre**](http://www.latribune.fr/opinions/tribunes/transition-numerique-les-cinq-etapes-du-deni-468080.html). Par contre de nouveaux acteurs ont intérêt à cela. Ils sont nombreux, puissants : GAFA, licornes des mobilités et dans une certaine mesure les équipementiers et les banquassurances. Ces dernières gèrent à la fois les plus grandes de flottes véhicules professionnels et n'ont pas intérêt à voir la valeur de cet investissement baissé, et par contre pourraient construire de nouvelles offres d'assurance essentielles à la réussite d'un tel projet. Quant aux équipementiers, ils équiperaient moins d'objet mais avec plus de technique. Ils pourraient également ne plus vendre les capteurs, mais les fournir et se rémunérer sur les services générés par les données produites par les capteurs. Le robot taxi devenant une plateforme servicielle pour de nombreux acteurs et à plusieurs "étages". Des alliances, aujourd'hui improbables, vont émerger entre des équipementiers, des opérateurs de transport et acteurs issus du numérique.
+
+_x000D_
+
+Peut-il y avoir un premier robot taxi en circulation comme il y a eu une première Ford T ? Une Autolib seule n'a aucun modèle d'affaire, ce sont plusieurs centaines qui ont été déployées. De la même façon, les robots arriveront par centaine ou même par milliers "d'un coup" sur un territoire. Quels seraient les évènements, les étapes qui amèneront à cette innovation ? Ce devra être la rencontre d'intérêt mutuel entre un territoire, un écosystème industriel et une vision politique partagée. Au niveau mondial, la Chine, le Japon et les USA rassemblent individuellement ces conditions, chacun pour des raisons différentes (lire les [**2 articles sur l'Ubérisation d'Uber**](/2015/07/20/puis-viendra-luberisation-duber/)). Des scénarios fictions ont été proposés, d'autres restent à inventer pour "recharger le futur en inconnu" nous dirait Georges Amar. Les premières étapes seront portées par des entrepreneurs capables d'amener des décideurs sur de nouveaux imaginaires collectifs, autorisant la création de premier terrain de jeux à grande échelle pour déployer les premiers méta-systèmes. Dans ces espaces, tout redevient possible comme le propose cet essai (source [**AlloyBuild, Shuffle City**](http://alloybuild.com/portfolio/all/shuffle-city/)) :
+
+_x000D_
+[embed]https://www.youtube.com/watch?v=xojDAXNSZyY[/embed]_x000D_
+
+Dans ces espaces, toute la complexité sera conservée : des sciences humaines à la robotique, de la réglementation au design des interfaces, du droit du travail à la cybersécurité des systèmes. Tout devra être mené de front pour résoudre les problèmes aux interfaces, aux interstices. Et là se révèleront de nouveaux talents, de nouveaux métiers capables de faire avancer de grands réseaux d'acteurs différents dans des contextes [**VICA**](/2013/07/10/light-foot-print-strategy/).
+
+_x000D_
+
+**[PSA vient juste d'annoncer](http://www.ft.com/intl/cms/s/0/2f1c4eea-5c7e-11e5-a28b-50226830d644.html#axzz3ndCRchx1) être ouvert à un partenariat pour fournir des voitures à une Tech Company de la Silicon Valley : " ***If [tech companies] want to have something related to mobility, they will conclude naturally that it’s better to partner with somebody*,” he says. “*So we are open for a partnership with one of those companies.*” He suggests this could involve Peugeot building cars for the tech companies — but quickly adds that such an arrangement would only work if the French group maintained its relationship with the end customer. “*You don’t [want to] become the manufacturer of something that is just the packaging,*” he says. **A l'évidence, pour le moment, peu de creuset industriel européen n'héberge et ne cultive aujourd'hui ces ambitions pour transformer cette invention en innovations. Celui qui aura réussi à faire rouler des voitures autonomes aura d'abord permis à d'autres acteurs d'utiliser cette invention pour aller aux frontières de l'innovation et explorer de nouveaux systèmes de mobilité. **
+
+_x000D_
+
+**_x000D_
+**
+
+_x000D_

@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Google Mobility Service, Et si nous le faisions sans attendre ?"
+date: 2011-07-04 18:27:11 +0100
+categories: []
+tags: ["citoyen", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "google", "marketing individualis\u00e9", "multimodes", "open innovation", "open source", "partage de donn\u00e9es", "plate-forme", "transition g\u00e9n\u00e9rationnelle"]
+---
+
+Comme nous ne pouvons pas prévoir l’avenir et les principales innovations, qui par définition changent les usages, les pratiques et les modes de fonctionnement. Mettons tout en œuvre pour accélérer ces évolutions sans forcément les orienter.
+
+_x000D_
+
+**[Que ferait Google à ma place ](http://www.amazon.fr/methode-Google-ferait-votre-place/dp/2753300917)**? Jeff Jarvis identifie dans ce livre les caractéristiques singulières de ces nouvelles « entreprises » comme Google ou Facebook, non pas pour les copier ou les combattre  mais pour voir le monde comme eux. Gratuité, collaboration étendue, plate-forme, open source, less is more, … En reprenant le(s) fil(s) de ce blog (voir les [**MétaNotes**](/les-metanotes-tdf-transports-du-futur)), que serait une Google automobile ou un service Google Mobility ?
+
+_x000D_
+_x000D_
+
+Avant tout orienté utilisateur, simple, rapidement accessible et compréhensible, faisant largement participé les utilisateurs, ouvert à tous les industriels, totalement transparent. Comment réussir cette prouesse ? en agissant de telle sorte que, naturellement, tous les acteurs utilisent Google Mobility car Google leur permet de mieux faire leurs activités, d’être plus performants, plus rentables, d’atteindre de nouveaux clients. Google mobility n’est pas un concurrent, c’est un moyen, un outil moderne. Essayons d’imaginer l’architecture de Google Mobility, plate forme de services de mobilité.
+
+_x000D_
+
+Est-ce que les constructeurs, la SNCF, VeoliaTransdev, RATP, Total, Vinci ou AirFrance connaissent vraiment les besoins de leurs clients avant, pendant et après chaque déplacement ? Ont-ils intégré toutes les idées diffuses de ces utilisateurs quotidiens, leurs remarques, leurs critiques, éventuellement leurs données ? Google Mobility mettrait en œuvre des outils pour cela : **nous ne pouvons plus faire l’économie de l’intelligence collective**. D’une part de nouvelles idées remonteraient des usagers, mais chaque solution serait co-construite et challengée par ces usagers, pas par des « focus group », mais par des utilisateurs dans la vraie vie en condition réelle. En conséquence, l’expérimentation dans des living labs, la remise en question provoquée par les clients et la prise de risque deviendront la norme. Les versions béta seront nombreuses, les évolutions permanentes.
+
+_x000D_
+
+Partons du principe que nous ne connaissons pas les services les plus adaptés aux besoins. Tous les acteurs de l’écosystème n’ayant pas la solution individuellement, ils sont aujourd’hui « contraints » à la collaboration, au partage. Ce n’est que le début. Google Map n’a pas été protégé par des licenses, n’est pas payant, n’est pas fermé ; Google Map est tout le contraire : répliquable partout, bidouillable, en conséquence s’est répandu comme un virus. **Google Mobility Service devra être de même : utilisant des normes et des standards totalement ouverts, permettant à tous les acteurs de venir « se brancher » pour le compléter, le modifier, rajouter de nouveaux services dont les performances seront immédiatement jugées par les utilisateurs permettant des itérations nombreuses et rapides**. Dans ce domaine, l’industrie automobile à tous les niveaux peut faire des progrès immenses s’inspirant du monde informatique, tout en conservant une de ses principales compétences clés : l’optimisation des compromis.
+
+_x000D_
+
+Quand Dell (respectivement PSA, Renault) assemble un ordinateur (resp. une automobile) avec des composants venus du monde entier, tout se passe simplement, rapidement permettant l’intégration de composants nouveaux (resp. lentement, rendant difficile l’intégration d’un nouveau moteur, boite de vitesse ou siège). L’industrie automobile n’a pas développé de normes/standards pour les composants principaux, obligeant les sous traitants de rang 1 à adapter pour chaque véhicule les « branchements et connexions ». Ces composants ne peuvent pas se répliquer en réseau comme Google Map. Néanmoins, comme la plupart de ces organes ou sous-ensembles ne font plus partis des critères de choix des utilisateurs, ils pourraient devenir progressivement des commodités, permettant la standardisation des connexions, comme un disque dur, une webcam ou un clavier.
+
+_x000D_
+
+Google Mobility permettra à ceux qui mettent en œuvre ces normes et standards de s’engager dans des économies d’échelles sans précédent grâce à une propagation virale de leurs composants. Il faudra toujours un constructeur chef d’orchestre, mais avec Google Mobility il aura compris qu’il devra libérer une partie de son cahier des charges à ses clients, libérer les branchements/connexions des organes, et également instaurer des branchements/connexions de ses véhicules dans des services co-construits avec d’autres acteurs.
+
+_x000D_
+
+Le passage de l’objet aux services sera accéléré par Google Mobility, chaque acteur aura intérêt à passer par cette plate-forme car elle lui permettra d’être plus performant. Google n’est pas un concurrent, c’est un facilitateur. De nombreux acteurs venant de plusieurs écosystèmes (opérateur transport, énergéticien, telecom, assurance, TIC …) utiliseront eux aussi la même approche : co-construction des services avec les usagers, version béta expérimentée « en vrai », transparence sur les résultats, standards ouverts. **Google Mobility assurera à tous les acteurs que les objets conçus et développés sur la plate-forme seront parfaitement « optimisés et connectés » à des services qui répondent aux besoins des usagers. Ces services seront facilement améliorés puisqu’ils seront prévus dès le départ pour cela**.
+
+_x000D_
+
+Les industriels co-concevront et industrialiseront des objets de haute technologie à la fois standardisés et adaptables à des services de niche le plus tard possible, le plus près du besoin des utilisateurs : *la version reste béta le plus tard possible*. Ces services de niche seront à leur tour standardisés et adaptables aux conditions locales le plus tard possible, formant un forfait mobilité co-construit avec les utilisateurs. **Du marché de masse de l’automobile, nous passerons à des marchés de masse de niche de services utilisant des automobiles repensées, adaptables et configurables.** Les chaînes de valeur seront totalement revues, comme la relation avec le client.
+
+_x000D_
+
+Aujourd’hui l’automobile est utilisée majoritairement dans les déplacements quotidiens de façon variable selon les territoires. Les mobilités alternatives restent marginales même si les citoyens semblent prêts à les tester. Google Mobility Service pourrait permettre d’amplifier l’usage de ces niches en simplifiant l’accès et la sortie (paiement), d’en développer beaucoup d’autres, de les lier entre elles, de permettre aux usagers d’en créer eux-mêmes. La multiplication des services ne sera plus une menace mais une opportunité pour tous les acteurs et les usagers. Plus les citoyens utiliseront ces services de mobilité, plus ils seront performants, répondant à leurs besoins, plus les niches seront rentabilisées, plus les forfaits mobilité seront complets, fournissant une alternative crédible à l’automobile possédée. Les bénéfices environnementaux seront bien sûr connus, transparents et valorisables.
+
+_x000D_
+
+Google Mobility Service est une chance pour tous. Google Mobility Service n’existe pas.
+
+_x000D_
+
+**Créons le**.

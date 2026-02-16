@@ -1,0 +1,1707 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta http-equiv="content-language" content="de" />
+		<title>Effet de levier, warrants, turbos | produits de bourse BNP Paribas</title>
+		<meta name="keywords" content="Effet de levier, warrants, turbos, produits, bourse, BNP, Paribas" />
+		<meta name="description" content="Avec toute l&#39;&#233;quipe des Produits de Bourse BNP Paribas, nous sommes ravis de vous pr&#233;senter les principales fonctionnalit&#233;s de notre nouveau site" />
+		<meta name="robots" content="index, follow" />
+		<meta property="og:title" content="Effet de levier, warrants, turbos | produits de bourse BNP Paribas" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://www.produitsdebourse.bnpparibas.fr/pagedaccueil/" />
+		<meta property="og:image" content="https://www.produitsdebourse.bnpparibas.fr/Content/images/logo.png" />
+		<meta property="og:site_name" content="BNP Paribas" />
+		<meta property="og:description" content="Avec toute l&#39;&#233;quipe des Produits de Bourse BNP Paribas, nous sommes ravis de vous pr&#233;senter les principales fonctionnalit&#233;s de notre nouveau site" />
+		<meta property="og:locale" content="fr_FR" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="apple-itunes-app" content="app-id=919079227" />
+		<link rel="canonical" href="https://www.produitsdebourse.bnpparibas.fr/pagedaccueil/" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+		<link href="/content/styles/styles.css?v=RuizRmqiJ8wU0nMWLm3JheC8tnZNwGyWZmVg6URfbx41" rel="stylesheet"/>
+
+		<link href="/content/styles/stylesless?v=mnbVAVRtQeddl18iYTR-chHHMRDAWD9xpVE-mG3iuMo1" rel="stylesheet"/>
+
+		<script src="/bundles/jquery.js?v=w9BfJe1fssUY81Z7107DKtmivhKDmsaPqSPdfOkKcg81"></script>
+
+		<script src="/bundles/jwplayer.js?v=1U8GJqWjylU5df9kyvwrWshiZYKRFGm8GhGipsFETr81"></script>
+
+	
+		<script src="/bundles/quotestream.js?v=dwXJMv_SzW2laHgeZH0EC_6BqXsXOdgRiR5TfYr7NIg1"></script>
+
+
+		<!--[if IE]><script type="text/javascript" src="/Content/js/ie.js"></script><![endif]-->
+		<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/Content/styles/ie.css" media="screen"/><![endif]-->
+		<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/Content/styles/ie7.css" media="screen"/><![endif]-->
+
+		<meta name="viewport" content="width=1255" />
+</head>
+<body>
+		<!-- search ignore begin pattern -->
+		<div class="w1">
+
+
+
+
+
+
+
+    <div class="overlay-box js-video-overlay-box auto" style="display: none;">
+        <div class="box-content">
+            <h2>PRÉSENTATION DU NOUVEAU SITE INTERNET</h2>
+            Avec toute l’équipe des Produits de Bourse BNP Paribas, nous sommes ravis de vous présenter les principales fonctionnalités de notre nouveau site, dédié à l’investissement en Warrants, Turbos, Certificats et ETF.
+<br />
+<br />
+<em>Les données chiffrées des exemples n’ont qu’une valeur informative pour illustrer le mécanisme du produit. Elles ne préjugent en rien de résultats futurs et ne sauraient en aucune manière constituer une offre commerciale.</em>
+
+            <a href="#" class="overlay-close js-overlay-close">x</a>
+                <div class="video-popup-frame">
+                    <iframe width="640" height="380" src="https://www.youtube.com/embed/op8RrxSCpkE" frameborder="0" allowfullscreen></iframe>
+                </div>
+        </div>
+    </div>
+
+
+
+
+<div class="buttons">
+    <a href="#" class="js-video-overlay-link"></a>
+</div>
+
+
+
+			<header id="header">
+
+<div class="header-holder">
+	<div class="header-inner">
+		<div itemscope itemtype="http://schema.org/Organization" class="logo">
+			<a itemprop="url" href="https://www.produitsdebourse.bnpparibas.fr/pagedaccueil">&nbsp;</a>
+			<img itemprop="logo" src="https://www.produitsdebourse.bnpparibas.fr/Content/images/logo.png" alt="Logo von BNP Paribas S.A." />
+			<div class="separator"></div>
+			<span class="slogan">Produits de Bourse</span>
+		</div>
+		<div class="header-block">
+			<div class="contact login open-close">
+				
+					<a class="js-login-overlay-link" href="#">Mon compte</a>
+
+<div class="overlay-box js-login-overlay-box">
+	<div class="box-content">
+		<h2>S&#39;Identifier</h2>
+		<a class="overlay-close js-overlay-close" href="#">x</a>
+		<div class="overlay-validation-error js-validation-block">
+			Le mot de passe est incorrect.
+			<a href="#" class="js-validation-close">x</a>
+		</div>
+		<form action="/Api/Login" method="post" class="js-login-form" id="login-form">
+			<input type="hidden" name="isLogout" value="false" />
+			<label class="form-label">Adresse Email</label>
+			<input id="UserName" name="UserName" type="text" class="form-input login-username" />
+			<label class="form-label">Mot de passe</label>
+			<input id="Password" name="Password" type="password" class="form-input login-password" />
+			<div class="form-submit">
+				<a href="#" class="js-submit">Se connecter</a>
+			</div>
+		</form>
+		
+		<a href="/marches/ma-liste?passwordForgotten=true" class="overlay-link" >
+			Mot de passe perdu?
+		</a>
+	</div>
+	<a href="/marches/ma-liste" class="overlay-identifier">
+		Inscrivez-vous
+	</a>
+</div>	
+<div class="modal-screen js-login-modal-screen js-modal-screen"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<nav>
+	<div id="nav-container">
+		<ul id="nav">
+					<li class=" nav-turbos">
+						<a href="/turbos" title="Turbos">Turbos</a>
+					</li>
+					<li class=" nav-warrants">
+						<a href="/warrants" title="Warrants">Warrants</a>
+					</li>
+					<li class=" nav-certificats">
+						<a href="/certificats" title="Certificats">Certificats</a>
+					</li>
+					<li class=" nav-services">
+						<a href="/services" title="Services">Services</a>
+					</li>
+					<li class=" nav-march&#233;s">
+						<a href="/marches" title="March&#233;s">March&#233;s</a>
+					</li>
+					<li class=" nav-produitsrbs">
+						<a href="/produits-rbs" title="Produits RBS">Produits RBS</a>
+					</li>
+		</ul>
+
+		<div class="nav-quicksearch js-quicksearch" title="">
+			<a href="#" class="toggle-button"></a>
+			<div id="quicksearch" class="quicksearch quicksearch-dropdown">
+
+
+<div class="quicksearch-body js-quicksearch-body">
+	<div class="quicksearch-title">Recherche rapide</div>
+	<div class="quicksearch-row">
+		<select class="js-quicksearch-product-type">
+			<option>Gamme</option>
+					<option value="64">100%</option>
+					<option value="13">Bonus</option>
+					<option value="204">Bonus Capp&#233;</option>
+					<option value="212">Capp&#233;</option>
+					<option value="207">Capp&#233; +</option>
+					<option value="206">Floor&#233;</option>
+					<option value="205">Floor&#233; +</option>
+					<option value="210">Turbo Call</option>
+					<option value="203">Turbo Call Infini</option>
+					<option value="224">Turbo Infini BEST Call</option>
+					<option value="225">Turbo Infini BEST Put</option>
+					<option value="211">Turbo Put</option>
+					<option value="202">Turbo Put Infini</option>
+					<option value="238">Warrant Call</option>
+					<option value="239">Warrant Put</option>
+		</select>
+	</div>
+		<div class="js-quicksearch-link-container">
+
+<input type="hidden" class="js-quicksearch-link-hidden" />
+<input type="hidden" class="js-quicksearch-type-hidden" />
+<div class="quicksearch-row">
+	<select class="js-quicksearch-underlying">
+		<option>Sous-jacent</option>
+					<option value="626890">ACCENTURE</option>
+					<option value="333253">ACCOR</option>
+					<option value="74102">ADIDAS</option>
+					<option value="333259">ADP</option>
+					<option value="74721">AGEAS</option>
+					<option value="107362">AIR FRANCE KLM</option>
+					<option value="76886">AIR LIQUIDE</option>
+					<option value="76961">AIRBUS</option>
+					<option value="76943">ALCATEL-LUCENT</option>
+					<option value="1162569">ALIBABA ADR</option>
+					<option value="73377">ALLIANZ</option>
+					<option value="164718">ALSTOM</option>
+					<option value="333274">ALTRAN</option>
+					<option value="99109">AMAZON</option>
+					<option value="1386729">AMAZON.COM</option>
+					<option value="335673">ANHEUSER-BUSCH INBEV</option>
+					<option value="611434">APERAM</option>
+					<option value="99121">APPLE</option>
+					<option value="111294">ARCELORMITTAL</option>
+					<option value="334202">ARGENT</option>
+					<option value="329816">ARKEMA</option>
+					<option value="331297">ATOS</option>
+					<option value="73541">AXA</option>
+					<option value="76892">BANCO SANTANDER</option>
+					<option value="128139">BANK OF AMERICA</option>
+					<option value="105694">BARCLAYS</option>
+					<option value="188825">BAYER</option>
+					<option value="346817">BEKAERT</option>
+					<option value="346821">BELGACOM</option>
+					<option value="158959">BERKSHIRE HATHAWAY</option>
+					<option value="409527">BERKSHIRE HATHAWAY - B</option>
+					<option value="333288">BIC</option>
+					<option value="626818">BIOGEN IDEC</option>
+					<option value="333293">BIOMERIEUX</option>
+					<option value="626930">BLACKROCK</option>
+					<option value="73385">BMW</option>
+					<option value="76951">BNP PARIBAS</option>
+					<option value="99686">BOEING</option>
+					<option value="1056229">BOLLORE</option>
+					<option value="114440">BOURBON</option>
+					<option value="329818">BOUYGUES</option>
+					<option value="83013">BP PLC</option>
+					<option value="1360892">BUREAU VERITAS</option>
+					<option value="111514">CAC 40</option>
+					<option value="333300">CAP GEMINI</option>
+					<option value="76894">CARREFOUR</option>
+					<option value="333303">CASINO</option>
+					<option value="114450">CATERPILLAR</option>
+					<option value="333307">CGG VERITAS</option>
+					<option value="848713">CHRISTIAN DIOR</option>
+					<option value="112480">CISCO SYSTEMS</option>
+					<option value="99157">CITIGROUP</option>
+					<option value="333309">CNP</option>
+					<option value="99169">COCA-COLA</option>
+					<option value="335666">COLRUYT</option>
+					<option value="76955">CREDIT AGRICOLE</option>
+					<option value="73388">DAIMLER</option>
+					<option value="76896">DANONE</option>
+					<option value="78499">DASSAULT SYSTEMES</option>
+					<option value="73369">DAX&#174;</option>
+					<option value="346825">DELHAIZE GROUP</option>
+					<option value="887154">DELTA AIRLINES</option>
+					<option value="331299">DERICHEBOURG</option>
+					<option value="73393">DEUTSCHE BANK</option>
+					<option value="73441">DEUTSCHE TELEKOM</option>
+					<option value="73397">E.ON</option>
+					<option value="99181">EBAY</option>
+					<option value="333323">EDENRED MALAKOFF</option>
+					<option value="76898">EDF</option>
+					<option value="333333">EIFFAGE</option>
+					<option value="333335">ERAMET</option>
+					<option value="333338">ESSILOR</option>
+					<option value="111536">EUR/GBP</option>
+					<option value="111535">EUR/JPY</option>
+					<option value="111534">EUR/USD</option>
+					<option value="771857">EURAZEO</option>
+					<option value="73364">EURO STOXX 50</option>
+					<option value="331302">EUTELSAT</option>
+					<option value="112488">EXXON MOBIL</option>
+					<option value="632167">FACEBOOK</option>
+					<option value="344247">FAURECIA</option>
+					<option value="771865">FONCIERE DES REGIONS</option>
+					<option value="132729">FORD</option>
+					<option value="115784">FTSE MIB</option>
+					<option value="620176">Future Dividende 2015</option>
+					<option value="763616">FUTURE DIVIDENDE 2016</option>
+					<option value="957492">GBL</option>
+					<option value="76907">GDF SUEZ</option>
+					<option value="771860">GECINA</option>
+					<option value="333342">GEMALTO</option>
+					<option value="105191">GENERAL ELECTRIC</option>
+					<option value="333503">GOLDMAN SACHS</option>
+					<option value="1029791">GOOGLE BASKET</option>
+					<option value="1029793">GOOGLE C</option>
+					<option value="333345">GROUPE EUROTUNNEL</option>
+					<option value="333348">HAVAS</option>
+					<option value="1348248">HERMES INTERNATIONAL</option>
+					<option value="333510">HEWLETT PACKARD</option>
+					<option value="105736">HSBC</option>
+					<option value="111518">IBEX 35</option>
+					<option value="99206">IBM</option>
+					<option value="1456225">ICE BRENT CRUDE OIL AUG. 15</option>
+					<option value="1238571">ICE BRENT CRUDE OIL DEC.15</option>
+					<option value="333350">ILIAD</option>
+					<option value="333352">IMERYS</option>
+					<option value="1160144">Indice BNPP Emerging Infrastructure</option>
+					<option value="1160140">Indice BNPP Energy Efficiency</option>
+					<option value="1160142">Indice BNPP Global Infrastructure</option>
+					<option value="1160134">Indice BNPP Key Idea</option>
+					<option value="1160138">Indice BNPP Renewable Energy</option>
+					<option value="73543">ING GROEP</option>
+					<option value="938422">INGENICO</option>
+					<option value="99732">INTEL</option>
+					<option value="344250">IPSEN PROMESSES</option>
+					<option value="355991">IPSOS</option>
+					<option value="771855">JCDECAUX</option>
+					<option value="114510">JOHNSON&amp;JOHNSON</option>
+					<option value="213169">JP MORGAN CHASE</option>
+					<option value="346835">KBC BANK</option>
+					<option value="91117">KERING</option>
+					<option value="355995">KLEPIERRE</option>
+					<option value="796351">KRAFT FOODS</option>
+					<option value="76916">LAFARGE</option>
+					<option value="164729">LAGARDERE</option>
+					<option value="333359">LEGRAND</option>
+					<option value="380889">LINKEDIN</option>
+					<option value="76919">LOREAL</option>
+					<option value="76922">LVMH</option>
+					<option value="331305">M6</option>
+					<option value="356008">MAUREL &amp; PROM</option>
+					<option value="99219">MCDONALDS</option>
+					<option value="80551">MICHELIN</option>
+					<option value="99241">MICROSOFT</option>
+					<option value="671087">MOBISTAR</option>
+					<option value="627108">MOODYS</option>
+					<option value="333375">NATIXIS</option>
+					<option value="344253">NEOPOST</option>
+					<option value="75848">NESTLE</option>
+					<option value="333378">NEXANS</option>
+					<option value="352749">NEXITY</option>
+					<option value="333525">NIKE</option>
+					<option value="74098">NIKKEI 225</option>
+					<option value="126971">NINTENDO</option>
+					<option value="75859">NOVARTIS</option>
+					<option value="941854">NUMERICABLE</option>
+					<option value="335677">NYRSTAR</option>
+					<option value="111527">OR</option>
+					<option value="73767">ORANGE</option>
+					<option value="1034561">ORPEA</option>
+					<option value="111529">PALLADIUM</option>
+					<option value="1160173">Panier M&#233;taux Pr&#233;cieux</option>
+					<option value="228235">PEPSICO</option>
+					<option value="164740">PERNOD RICARD</option>
+					<option value="91101">PEUGEOT</option>
+					<option value="91101">PEUGEOT</option>
+					<option value="112501">PFIZER</option>
+					<option value="73545">PHILIPS</option>
+					<option value="919803">PLASTIC OMNIUM</option>
+					<option value="112040">PLATINE</option>
+					<option value="99266">PROCTER &amp; GAMBLE</option>
+					<option value="331308">PUBLICIS</option>
+					<option value="331310">REMY COINTREAU</option>
+					<option value="78665">RENAULT</option>
+					<option value="103386">RICHEMONT</option>
+					<option value="75885">ROCHE HOLDING</option>
+					<option value="73966">ROYAL DUTCH SHELL</option>
+					<option value="73409">RWE</option>
+					<option value="73366">S&amp;P 500</option>
+					<option value="331318">SAFRAN</option>
+					<option value="76926">SAINT GOBAIN</option>
+					<option value="76975">SANOFI</option>
+					<option value="109551">SCHNEIDER ELECTRIC</option>
+					<option value="333404">SCOR</option>
+					<option value="344256">SEB</option>
+					<option value="76978">SOCIETE GENERALE</option>
+					<option value="333421">SODEXO</option>
+					<option value="333424">SOITEC</option>
+					<option value="369057">SOLOCAL GROUPE</option>
+					<option value="354306">SOLVAY</option>
+					<option value="114575">STARBUCKS</option>
+					<option value="111332">STMICROELECTRONICS</option>
+					<option value="871876">STRATASYS</option>
+					<option value="132700">SUEZ ENV.</option>
+					<option value="333438">TECHNICOLOR</option>
+					<option value="114584">TECHNIP</option>
+					<option value="344261">TELEPERFORMANCE</option>
+					<option value="871222">TESLA MOTORS</option>
+					<option value="333445">TF1</option>
+					<option value="333447">THALES</option>
+					<option value="74878">TOTAL</option>
+					<option value="936420">TWITTER</option>
+					<option value="114604">UBISOFT</option>
+					<option value="671162">UMICORE</option>
+					<option value="333453">UNIBAIL</option>
+					<option value="76936">UNILEVER</option>
+					<option value="111537">USD/JPY</option>
+					<option value="333455">VALEO</option>
+					<option value="91134">VALLOUREC</option>
+					<option value="91152">VEOLIA ENVIRONMENT</option>
+					<option value="111351">VINCI</option>
+					<option value="108657">VISA</option>
+					<option value="76939">VIVENDI</option>
+					<option value="73418">VOLKSWAGEN</option>
+					<option value="99135">WAL-MART</option>
+					<option value="333464">WENDEL</option>
+					<option value="77725">WORLD LUXURY INDEX</option>
+					<option value="99146">YAHOO</option>
+					<option value="627257">YUM! BRANDS</option>
+					<option value="352774">ZODIAC AEROSPACE</option>
+	</select>
+</div>
+<div class="quicksearch-row">
+	<a href="" class="button-link block-link js-quicksearch-link">Rechercher
+</a>
+</div>
+	
+
+		</div>
+</div>
+
+
+			</div>
+		</div>
+		<a href="http://fil-des-experts-bourse.fr" class="nav-twitter-link" title="">#fildesexperts</a>
+	</div>
+</nav>
+
+
+			</header>
+			<div id="wrapper">
+				<div class="item">
+
+
+<div class="flash-info-holder">
+	
+
+
+
+
+<div class="flash-info">
+	<input type="hidden" id="flash-teaser-interval" value="3000" />
+	<ul class="flash-teaser" id="flash-teaser">
+				<li style="top: 0px">
+					<span class="flash-teaser-date">20/05/2015 : </span><span>Cours de compensation du contrat Future DAX de mai : 11571,63</span>
+				</li>
+				<li style="top: 40px">
+					<span class="flash-teaser-date">20/05/2015 : </span><span>Cours de compensation du contrat Future CAC 40 de mai : 5023,80</span>
+				</li>
+				<li style="top: 80px">
+					<span class="flash-teaser-date">20/05/2015 : </span><span>Cours de compensation du contrat Future Euro Stoxx 50 de mai : 3616,05</span>
+				</li>
+				<li style="top: 120px">
+					<span class="flash-teaser-date">12/06/2015 : </span><span>Cours de compensation du contrat Future Nikkei 225 de juin : 20473,83</span>
+				</li>
+	</ul>
+</div>
+
+</div>
+
+<form action="/recherche" method="get" class="search form-block js-global-search">
+	<fieldset>
+		<input type="text" class="js-global-search-input" placeholder="ISIN/Mn&#233;mo" accesskey="4" title="search" name="search" />
+		<input type="submit" class="js-global-search-submit" value="" />
+	</fieldset>
+</form>
+				</div>
+				<div id="main">
+					<!-- search ignore end pattern -->
+					
+
+
+<div class="left width570">
+
+
+<div class="coverflow light-rounded">
+	
+			<div class="mask">
+				<ul class="images">
+						<li>
+							<div class="content-item">
+								
+ <a href="https://www.produitsdebourse.bnpparibas.fr/services/100-marches" ><img src="/MediaLibrary/d61bd5f9-f981-407b-89ed-0dcc71e58fcc/550x300-marches-01.jpg" width="550" height="300" /></a> 								
+							</div>
+						</li>
+						<li>
+							<div class="content-item">
+								
+ <a href="https://www.produitsdebourse.bnpparibas.fr/services/100-marches" ><img src="/MediaLibrary/aa4b8a9d-96fd-4c92-96bc-c4dfce53eb08/550x300-marches-02.jpg" width="550" height="300" /></a> 								
+							</div>
+						</li>
+						<li>
+							<div class="content-item">
+								
+ <a href="https://www.produitsdebourse.bnpparibas.fr/services/application_mobile" ><img src="/MediaLibrary/d060f4d5-435d-4012-b356-51f4d5175c7b/550x300-push-app.jpg" width="550" height="300" /></a> 								
+							</div>
+						</li>
+						<li>
+							<div class="content-item">
+								
+ <a href="https://www.youtube.com/watch?v=op8RrxSCpkE" ><img src="/MediaLibrary/25de5235-a66f-4d09-9179-f570590a2fb9/new%20banner%20to%20promote%20the%20new%20website_Artboard%201%20copy%203.jpg" width="550" height="300" /></a> 								
+							</div>
+						</li>
+						<li>
+							<div class="content-item">
+								
+ <a href="https://www.produitsdebourse.bnpparibas.fr/horaires-de-cotation" ><img src="/MediaLibrary/36056b1f-4eac-4248-af91-ac3bd249ee1d/reformatting-banner-nouveaux-horaires-de-cotations-v3.jpg" width="550" height="300" /></a> 								
+							</div>
+						</li>
+				</ul>
+			</div>
+			<a href="#" class="pager-button pager-button-prev js-prev"></a>
+			<a href="#" class="pager-button pager-button-next js-next"></a>
+			<ul class="rotator-pager js-rotator-pager">
+					<li>
+						<a href="#" class="active js-rotator-page" data-index="0"></a>
+					</li>
+					<li>
+						<a href="#" class="js-rotator-page" data-index="1"></a>
+					</li>
+					<li>
+						<a href="#" class="js-rotator-page" data-index="2"></a>
+					</li>
+					<li>
+						<a href="#" class="js-rotator-page" data-index="3"></a>
+					</li>
+					<li>
+						<a href="#" class="js-rotator-page" data-index="4"></a>
+					</li>
+			 </ul>
+</div>
+
+<script type="text/javascript" src="/Content/js/jquery/jquery.coverflow.js"></script>
+<script src="/bundles/searchproducts.js?v=5T5r-SYycElegJ_jv8FXX6AXc4bJn8k8b4Ufj-amPDI1"></script>
+
+<script src="/bundles/knockoutmap.js?v=HC6YORMA7NCioqgZhXpprAQtASGp2GaM2OEANhe1hgs1"></script>
+
+
+<div class="komap-dropdown" id="komap-dropdown">
+	<div class="content-control knockoutmap">
+		<div class="object-container item-container">
+			<div class="ko-heading">
+				<h2>TURBO &amp; WARRANT MAP</h2>
+			</div>
+			<ul class="ui-tabs-nav" id="komap-navigation">
+				<li class="knockout"><a href="javascript:void(0)" class="knockout" data-value="KnockOut">Turbo map</a></li>
+				<li class="warrant"><a href="javascript:void(0)" class="warrant" data-value="Warrant">Warrant map</a></li>
+			</ul>
+			<br class="clear"/>
+			<div class="ko-filter">
+				<input type="hidden" id="KnockoutMapType" name="KnockoutMapType" value="KnockOut" />
+				<input type="hidden" id="KnockoutMapMode" name="KnockoutMapMode" value="Leverage" />
+				<input type="hidden" id="KnockoutMapTurboLink" value="/turbos/map" />
+				<input type="hidden" id="KnockoutMapWarrantsLink" value="/warrants/map" />
+				<label for="Underlying">Sous-Jacent</label>
+				<select id="KnockoutMapUnderlyingSelector" name="Underlying">
+<option value="626890">ACCENTURE</option>
+<option value="333253">ACCOR</option>
+<option value="74102">ADIDAS</option>
+<option value="333259">ADP</option>
+<option value="74721">AGEAS</option>
+<option value="107362">AIR FRANCE KLM</option>
+<option value="76886">AIR LIQUIDE</option>
+<option value="76961">AIRBUS</option>
+<option value="76943">ALCATEL-LUCENT</option>
+<option value="1162569">ALIBABA ADR</option>
+<option value="73377">ALLIANZ</option>
+<option value="164718">ALSTOM</option>
+<option value="333274">ALTRAN</option>
+<option value="99109">AMAZON</option>
+<option value="1386729">AMAZON.COM</option>
+<option value="335673">ANHEUSER-BUSCH INBEV</option>
+<option value="611434">APERAM</option>
+<option value="99121">APPLE</option>
+<option value="111294">ARCELORMITTAL</option>
+<option value="334202">ARGENT</option>
+<option value="329816">ARKEMA</option>
+<option value="331297">ATOS</option>
+<option value="73541">AXA</option>
+<option value="128139">BANK OF AMERICA</option>
+<option value="105694">BARCLAYS</option>
+<option value="188825">BAYER</option>
+<option value="346817">BEKAERT</option>
+<option value="346821">BELGACOM</option>
+<option value="158959">BERKSHIRE HATHAWAY</option>
+<option value="409527">BERKSHIRE HATHAWAY - B</option>
+<option value="333288">BIC</option>
+<option value="626818">BIOGEN IDEC</option>
+<option value="333293">BIOMERIEUX</option>
+<option value="626930">BLACKROCK</option>
+<option value="73385">BMW</option>
+<option value="76951">BNP PARIBAS</option>
+<option value="99686">BOEING</option>
+<option value="1056229">BOLLORE</option>
+<option value="329818">BOUYGUES</option>
+<option value="83013">BP PLC</option>
+<option value="1360892">BUREAU VERITAS</option>
+<option value="111514" selected="selected">CAC 40</option>
+<option value="333300">CAP GEMINI</option>
+<option value="76894">CARREFOUR</option>
+<option value="333303">CASINO</option>
+<option value="114450">CATERPILLAR</option>
+<option value="333307">CGG VERITAS</option>
+<option value="112480">CISCO SYSTEMS</option>
+<option value="99157">CITIGROUP</option>
+<option value="333309">CNP</option>
+<option value="99169">COCA-COLA</option>
+<option value="335666">COLRUYT</option>
+<option value="76955">CREDIT AGRICOLE</option>
+<option value="73388">DAIMLER</option>
+<option value="76896">DANONE</option>
+<option value="78499">DASSAULT SYSTEMES</option>
+<option value="73369">DAX®</option>
+<option value="346825">DELHAIZE GROUP</option>
+<option value="887154">DELTA AIRLINES</option>
+<option value="331299">DERICHEBOURG</option>
+<option value="73393">DEUTSCHE BANK</option>
+<option value="99181">EBAY</option>
+<option value="333323">EDENRED MALAKOFF</option>
+<option value="76898">EDF</option>
+<option value="333333">EIFFAGE</option>
+<option value="333335">ERAMET</option>
+<option value="333338">ESSILOR</option>
+<option value="111536">EUR/GBP</option>
+<option value="111535">EUR/JPY</option>
+<option value="111534">EUR/USD</option>
+<option value="771857">EURAZEO</option>
+<option value="73364">EURO STOXX 50</option>
+<option value="331302">EUTELSAT</option>
+<option value="112488">EXXON MOBIL</option>
+<option value="632167">FACEBOOK</option>
+<option value="344247">FAURECIA</option>
+<option value="771865">FONCIERE DES REGIONS</option>
+<option value="132729">FORD</option>
+<option value="115784">FTSE MIB</option>
+<option value="957492">GBL</option>
+<option value="76907">GDF SUEZ</option>
+<option value="771860">GECINA</option>
+<option value="333342">GEMALTO</option>
+<option value="105191">GENERAL ELECTRIC</option>
+<option value="333503">GOLDMAN SACHS</option>
+<option value="1029793">GOOGLE C</option>
+<option value="333345">GROUPE EUROTUNNEL</option>
+<option value="1348248">HERMES INTERNATIONAL</option>
+<option value="333510">HEWLETT PACKARD</option>
+<option value="105736">HSBC</option>
+<option value="111518">IBEX 35</option>
+<option value="1456225">ICE BRENT CRUDE OIL AUG. 15</option>
+<option value="333350">ILIAD</option>
+<option value="333352">IMERYS</option>
+<option value="73543">ING GROEP</option>
+<option value="938422">INGENICO</option>
+<option value="99732">INTEL</option>
+<option value="344250">IPSEN PROMESSES</option>
+<option value="355991">IPSOS</option>
+<option value="771855">JCDECAUX</option>
+<option value="114510">JOHNSON&JOHNSON</option>
+<option value="213169">JP MORGAN CHASE</option>
+<option value="346835">KBC BANK</option>
+<option value="91117">KERING</option>
+<option value="355995">KLEPIERRE</option>
+<option value="796351">KRAFT FOODS</option>
+<option value="76916">LAFARGE</option>
+<option value="164729">LAGARDERE</option>
+<option value="333359">LEGRAND</option>
+<option value="380889">LINKEDIN</option>
+<option value="76919">LOREAL</option>
+<option value="76922">LVMH</option>
+<option value="331305">M6</option>
+<option value="356008">MAUREL & PROM</option>
+<option value="99219">MCDONALDS</option>
+<option value="80551">MICHELIN</option>
+<option value="99241">MICROSOFT</option>
+<option value="671087">MOBISTAR</option>
+<option value="627108">MOODYS</option>
+<option value="333375">NATIXIS</option>
+<option value="344253">NEOPOST</option>
+<option value="75848">NESTLE</option>
+<option value="333378">NEXANS</option>
+<option value="352749">NEXITY</option>
+<option value="333525">NIKE</option>
+<option value="74098">NIKKEI 225</option>
+<option value="75859">NOVARTIS</option>
+<option value="941854">NUMERICABLE</option>
+<option value="335677">NYRSTAR</option>
+<option value="111527">OR</option>
+<option value="73767">ORANGE</option>
+<option value="1034561">ORPEA</option>
+<option value="111529">PALLADIUM</option>
+<option value="228235">PEPSICO</option>
+<option value="164740">PERNOD RICARD</option>
+<option value="91101">PEUGEOT</option>
+<option value="112501">PFIZER</option>
+<option value="73545">PHILIPS</option>
+<option value="112040">PLATINE</option>
+<option value="99266">PROCTER & GAMBLE</option>
+<option value="331308">PUBLICIS</option>
+<option value="331310">REMY COINTREAU</option>
+<option value="78665">RENAULT</option>
+<option value="103386">RICHEMONT</option>
+<option value="75885">ROCHE HOLDING</option>
+<option value="73966">ROYAL DUTCH SHELL</option>
+<option value="73409">RWE</option>
+<option value="73366">S&P 500</option>
+<option value="331318">SAFRAN</option>
+<option value="76926">SAINT GOBAIN</option>
+<option value="76975">SANOFI</option>
+<option value="109551">SCHNEIDER ELECTRIC</option>
+<option value="333404">SCOR</option>
+<option value="344256">SEB</option>
+<option value="76978">SOCIETE GENERALE</option>
+<option value="333421">SODEXO</option>
+<option value="333424">SOITEC</option>
+<option value="369057">SOLOCAL GROUPE</option>
+<option value="354306">SOLVAY</option>
+<option value="114575">STARBUCKS</option>
+<option value="111332">STMICROELECTRONICS</option>
+<option value="871876">STRATASYS</option>
+<option value="132700">SUEZ ENV.</option>
+<option value="333438">TECHNICOLOR</option>
+<option value="114584">TECHNIP</option>
+<option value="344261">TELEPERFORMANCE</option>
+<option value="871222">TESLA MOTORS</option>
+<option value="333445">TF1</option>
+<option value="333447">THALES</option>
+<option value="74878">TOTAL</option>
+<option value="936420">TWITTER</option>
+<option value="114604">UBISOFT</option>
+<option value="671162">UMICORE</option>
+<option value="333453">UNIBAIL</option>
+<option value="111537">USD/JPY</option>
+<option value="333455">VALEO</option>
+<option value="91134">VALLOUREC</option>
+<option value="91152">VEOLIA ENVIRONMENT</option>
+<option value="111351">VINCI</option>
+<option value="108657">VISA</option>
+<option value="76939">VIVENDI</option>
+<option value="73418">VOLKSWAGEN</option>
+<option value="99135">WAL-MART</option>
+<option value="333464">WENDEL</option>
+<option value="99146">YAHOO</option>
+<option value="627257">YUM! BRANDS</option>
+<option value="352774">ZODIAC AEROSPACE</option>
+
+				</select>
+
+				<label for="Leverage">Levier</label>
+				<select id="KnockoutMapLeverageSelector" name="Leverage">
+					<option value="">Tous</option>
+					
+				</select>
+				<br class="clearfix" />
+				<a href="/turbos/map" class="ko-button" id="ko-button">Voir tous les produits</a>
+		</div>
+		</div>
+		<div id="knockoutmapcharttable">
+		</div>
+
+
+	<div id="productTurboMapOverlay" class="productmap-overlay">
+		<div class="header">
+			<strong>[#ProductTypeName#]</strong><br />
+			[#InstrumentWKN#]
+		</div>
+		<div class="content">
+			<div class="label-cell">Mn&#233;mo :</div><div class="value-cell">[#InstrumentWKN#]</div>
+			<div class="label-cell">Type :</div><div class="value-cell">[#ProductTypeName#]</div>
+			<div class="label-cell">Prix d&#39;Exercice = Barri&#232;re :</div><div class="value-cell">[#DistanceToKnockOutPercent#]</div>
+			<div class="label-cell">Levier :</div><div class="value-cell">[#Leverage#]</div>
+			<div class="label-cell">Maturit&#233; :</div><div class="value-cell">[#MatureDate#]</div>
+			<div class="label-cell">Achat/Vente :</div><div class="value-cell"><span item="[#LightstreamerID#]" field="bid" source="lightstreamer" table="[#LightstreamerTableName#]">[#Bid#]</span> / <span item="[#LightstreamerID#]" field="ask" source="lightstreamer" table="[#LightstreamerTableName#]">[#Ask#]</span></div>
+		</div>
+	</div>
+	<div id="productWarrantMapOverlay" class="productmap-overlay">
+		<div class="header">
+			<strong>[#ProductTypeName#]</strong><br />
+			[#InstrumentWKN#]
+		</div>
+		<div class="content">
+			<div class="label-cell">Mn&#233;mo :</div><div class="value-cell">[#InstrumentWKN#]</div>
+			<div class="label-cell">Type :</div><div class="value-cell">[#ProductTypeName#]</div>
+			<div class="label-cell">Strike :</div><div class="value-cell">[#StrikeAbsolute#]</div>
+			<div class="label-cell">Bid :</div><div class="value-cell"><span item="[#LightstreamerID#]" field="bid" source="lightstreamer" table="[#LightstreamerTableName#]">[#Bid#]</span></div>
+			<div class="label-cell">Ask :</div><div class="value-cell"><span item="[#LightstreamerID#]" field="ask" source="lightstreamer" table="[#LightstreamerTableName#]">[#Ask#]</span></div>
+			<div class="label-cell">Delta :</div><div class="value-cell">[#Delta#]</div>
+			<div class="label-cell">Levier :</div><div class="value-cell">[#Leverage#]</div>
+			<div class="label-cell">Maturit&#233; :</div><div class="value-cell">[#MatureDate#]</div>
+			<div class="label-cell">Pas de Cotation :</div><div class="value-cell">[#PasDeCotation#]</div>
+		</div>
+	</div>
+
+	</div>
+</div>
+</div>
+<div class="right width570">
+
+<div class="dailyTeaser content-control light-rounded">
+	<div id="dailyTeaserContent">
+		<h2>INFOS MARCH&#233;S</h2>
+		<ul class="tab">
+			<li class="market selectedTab" data-tab="1"><span>R&#233;veil des March&#233;s</span></li>
+			<li class="video" data-tab="2">Vidéo <br>du Jour </li>
+			<li class="experts" data-tab="3">Avis <br>d'Experts </li>
+			<li class="economic" data-tab="4">Agenda &#233;co/soci&#233;t&#233;s </li>
+			<li class="issuance" data-tab="5">Nouvelles &#201;missions </li>
+		</ul>
+		<div data-tab="1" style="display:block;">
+			<div data-tab="1">
+				<div class="dailyContentFull">
+					<img src="/Content/images/reveil-marches.jpg" width="152" height="152" alt="R&#233;veil des March&#233;s" />
+					<div class="content-byside-image">
+
+							<h3>La Gr&#232;ce encore et toujours, le ZEW en ligne de mire</h3>
+								<p>
+									La Bourse de Paris est attendue en repli, dans un march&#233; qui reste fragilis&#233; par le dossier grec alors que la Fed entame ce mardi une r&#233;union de deux jours de son conseil de politique mon&#233;taire. Les investisseurs surveilleront l&#39;indice ...
+								</p>
+							<a class="button-link block-link" href="/services/reveil_des_marches" title="R&#233;veil des March&#233;s">En savoir plus</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div data-tab="2">
+			<div class="dailyContentFull">
+				<a href="#" class="js-daily-video-overlay-link"><img src="/Content/images/play.png" /></a>
+					<h3>Avis du 16/06/2015</h3>
+					<div class="limited-text">
+						<p>
+AMAZON								<br/>
+								<br/>
+							Turbo Infini Call W793B
+						</p>
+					</div>
+			</div>
+		</div>
+		<div data-tab="3">
+			<div class="dailyContentFull">
+				<div class="ellipsis-daily max-content-height">
+	<table class="product-table table-holder compact-advice-list">
+		<thead>
+			<tr>
+				<th>
+					Expert
+				</th>
+				<th>
+					Sous-jacent
+				</th>
+				<th>
+					Type de produit
+				</th>
+				<th>
+					Avis
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr  class=even>
+				<td><a href="/services/avis-experts?adviceId=206" class="js-link"><img src="/MediaLibrary/Image/Experts/trading-central.png" alt="Trading Central" class="expert-logo" /></a></td>
+				<td>VINCI</td>
+				<td>Warrant Put</td>
+				<td><div class="classification-2">Positif</div></td>
+			</tr>
+			<tr >
+				<td><a href="/services/avis-experts?adviceId=204" class="js-link"><img src="/MediaLibrary/Image/Experts/tradingsat.png" alt="Tradingsat" class="expert-logo" /></a></td>
+				<td>TECHNIP</td>
+				<td>Turbo Put</td>
+				<td><div class="classification-3">N&#233;gatif</div></td>
+			</tr>
+			<tr  class=even>
+				<td><a href="/services/avis-experts?adviceId=201" class="js-link"><img src="/MediaLibrary/Image/Experts/zone-bourse.png" alt="Zone Bourse" class="expert-logo" /></a></td>
+				<td>SAINT GOBAIN</td>
+				<td>Turbo Call Infini</td>
+				<td><div class="classification-2">Positif</div></td>
+			</tr>
+			<tr >
+				<td><a href="/services/avis-experts?adviceId=200" class="js-link"><img src="/MediaLibrary/Image/Experts/bnp-paribas.png" alt="BNP Paribas" class="expert-logo" /></a></td>
+				<td>EUR/USD</td>
+				<td>Turbo Infini BEST Put</td>
+				<td><div class="classification-6">Negatif</div></td>
+			</tr>
+			<tr  class=even>
+				<td><a href="/services/avis-experts?adviceId=152" class="js-link"><img src="/MediaLibrary/Image/Experts/boursier-com.png" alt="Boursier.com" class="expert-logo" /></a></td>
+				<td>ALSTOM</td>
+				<td>Warrant Call</td>
+				<td><div class="classification-2">Positif</div></td>
+			</tr>
+		</tbody>
+	</table>
+
+				</div>
+				<a class="button-link block-link" href="/services/avis-experts" title="En savoir plus">En savoir plus</a>
+			</div>
+		</div>
+		<div data-tab="4">
+			<div class="dailyContentFull">
+				<div class="ellipsis-daily max-content-height daily-content-height">
+						<table class="calendar-table">
+								<tr>
+										<td>
+												<img src="/Content/images/flags/flag_EU.jpg" alt="Europe" class="flag" />
+										</td>
+										<td>
+											<strong>
+												08:00
+										</strong>&nbsp;
+									</td>
+										<td>
+												<strong>Immatriculations de voitures neuves</strong>:&nbsp;
+											<span>1,30% publié contre 6,90% précédemment</span>
+										</td>
+								</tr>
+								<tr>
+										<td>
+												<img src="/Content/images/flags/flag_DE.jpg" alt="Germany" class="flag" />
+										</td>
+										<td>
+											<strong>
+												08:00
+										</strong>&nbsp;
+									</td>
+										<td>
+												<strong>Indice des prix &#224; la consommation</strong>:&nbsp;
+											<span>0,70% publié comme précédemment</span>
+										</td>
+								</tr>
+								<tr>
+										<td>
+												<img src="/Content/images/flags/flag_DE.jpg" alt="Germany" class="flag" />
+										</td>
+										<td>
+											<strong>
+												11:00
+										</strong>&nbsp;
+									</td>
+										<td>
+												<strong>Sondage ZEW (sentiment &#233;conomique)</strong>:&nbsp;
+											<span>53,7 publié contre 61,2 précédemment</span>
+										</td>
+								</tr>
+								<tr>
+										<td>
+												<img src="/Content/images/flags/flag_US.jpg" alt="US" class="flag" />
+										</td>
+										<td>
+											<strong>
+												14:30
+										</strong>&nbsp;
+									</td>
+										<td>
+												<strong>Permis de construire (USA)</strong>:&nbsp;
+											<span>1100 K attendu contre 1140 K précédemment</span>
+										</td>
+								</tr>
+								<tr>
+										<td>
+												<img src="/Content/images/flags/flag_US.jpg" alt="US" class="flag" />
+										</td>
+										<td>
+											<strong>
+												14:30
+										</strong>&nbsp;
+									</td>
+										<td>
+												<strong>Mises en chantier (USA)</strong>:&nbsp;
+											<span>1100 K attendu contre 1135 K précédemment</span>
+										</td>
+								</tr>
+						</table>
+				</div>
+				<a class="button-link block-link" href="/services/agenda" title="En savoir plus">En savoir plus</a>
+			</div>
+		</div>
+		<div data-tab="5">
+			<div class="dailyContentFull">
+				<table class="product-table table-holder teaser-table">
+					<thead>
+						<tr>
+							<th>Mn&#233;mo</th>
+							<th>Type</th>
+							<th>Sous-jacent</th>
+							<th>Emission</th>
+						</tr>
+					</thead>
+					<tbody>
+									<tr>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805943">K947B</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805943">Turbo Put</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805943">CAC 40</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805943">16/06/2015</a>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805950">K948B</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805950">Turbo Put</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805950">CAC 40</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805950">16/06/2015</a>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805968">K949B</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805968">Turbo Put</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805968">CAC 40</a>
+										</td>
+										<td>
+											<a href="/produits/details/cac-40-turbo-put/fr0012805968">16/06/2015</a>
+										</td>
+									</tr>
+						
+					</tbody>
+				</table>
+				<a class="button-link block-link" href="/services/nouvelles-emissions" title="En savoir plus">En savoir plus</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var tabchangeinprogress = false;
+	function ChangeDailyTab(tab) {
+		tabchangeinprogress = true;
+		var oldActive = $('div.dailyTeaser ul li.selectedTab');
+		var oldTabId = $('div.dailyTeaser ul li.selectedTab').data('tab');
+		$('div#dailyTeaserContent div[data-tab=' + oldTabId + ']').fadeOut('slow', function () {
+			oldActive.removeClass('selectedTab').data('tab');
+			tab.addClass('selectedTab');
+			var tabNumber = tab.data('tab');
+			$('div#dailyTeaserContent div[data-tab=' + tabNumber + ']').fadeIn('slow', function () { tabchangeinprogress = false; });
+			var detailnode = $("div#dailyTeaserContent div[data-tab=" + tabNumber + "] .ellipsis-daily");
+			
+		});
+	}
+
+	$(document).ready(function () {
+
+		$('div.dailyTeaser ul.tab li').on('click', function () {
+			if (tabchangeinprogress) {
+				return;
+			}
+			ChangeDailyTab($(this));
+		});
+
+		$('.dailyTeaser .video-link').click(function (event) {
+			event.preventDefault();
+			$.pgwModal({
+				target: 'div#dailyTeaserContent div[data-tab="' + $('.dailyTeaser .video').attr('data-tab') + '"] .video-element',
+				closeCssClass: 'video-close',
+				maxWidth: 960,
+				maxHeight: 540
+			});
+
+			$(document).click(function (event) {
+				if (!$(event.target).closest('.pm-body').length) {
+					$.pgwModal('close');
+				}
+			});
+
+			var rand = Math.floor(Math.random() * 1000) + 1;
+			var newId = "pm-container-videoContainer" + rand;
+			$(".pm-container #videoContainer").attr("id", newId);
+			jwplayer(newId).setup({
+				flashplayer: "/Content/videoplayer/player.swf"
+			});
+			return false;
+		});
+
+		    ChangeDailyTab($('li[data-tab=1]'));
+
+	});
+</script>
+
+<div class="overlay-box js-daily-video-overlay-box">
+	<div class="box-content">
+		<h2>Vid&#233;o du Jour </h2>
+		<a class="overlay-close js-overlay-close" href="#">x</a>
+	<script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"></script>
+	<object id="myExperience" class="BrightcoveExperience">
+		<param name="bgcolor" value="#FFFFFF" />
+		<param name="wmode" value="transparent" />
+		<param name="width" value="342" />
+		<param name="height" value="170" />
+		<param name="playerID" value="3507146573001" />
+		<param name="playerKey" value="AQ~~,AAABYsSYT7k~,KqdAXk4Z-wUUanUy-okb6h4I0Uw9645S" />
+		<param name="isVid" value="true" />
+		<param name="isUI" value="true" />
+		<param name="dynamicStreaming" value="true" />
+		<param name="@videoPlayer" value="4298731845001" />
+		<param name="secureConnections" value="true" />
+		<param name="secureHTMLConnections" value="true" />
+	</object>
+	<!--
+		This script tag will cause the Brightcove Players defined above it to be created as soon
+		as the line is read by the browser. If you wish to have the player instantiated only after
+		the rest of the HTML is processed and the page load is complete, remove the line.
+		-->
+	<script type="text/javascript"> brightcove.createExperiences(); </script>
+	</div>
+</div>
+<div class="modal-screen js-daily-video-modal-screen js-modal-screen"></div>
+	<div class="indications-overview content-control ui-tabs ui-widget ui-widget-content ui-corner-all light-rounded">
+		<h2>Cours en temps réel <small>(Cours Indicatifs)</small></h2>
+		<ul class="ui-tabs-nav">
+			<li class="ui-tabs-active ui-state-active"><a href="#TabContent_Index">Indices</a></li>
+			<li><a href="#TabContent_Share">Actions</a></li>
+			<li><a href="#TabContent_Commodity">Mat. Premi&#232;res</a></li>
+			<li><a href="#TabContent_Currency">Devises</a></li>
+		</ul>
+		<br class="clear" />
+		<div class="tab-content">
+			<div id="TabContent_Index" class="indication-tabcontent-holder">
+
+<div class="indications table-holder">
+	<table class="indication-table">
+		<thead>
+			<tr>
+				<th>
+					Sous-Jacent
+				</th>
+				<th>
+					Cours
+				</th>
+				<th>
+					Perf.
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+							<tr data-wkn="969400" data-instrumentid="111514">
+								<td class="io-name">
+									<a title="CAC 40">CAC 40</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800_CAC40" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">4 833,32</span>								</td>
+								<td class="io-change">
+<span item="X0000030800_CAC40" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,37%</span>
+<script> try{SetQsRefVal('X0000030800_CAC40', '4815,3600');}catch(e){}</script><span item="X0000030800_CAC40" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">17,96</span>								</td>
+							</tr>
+							<tr data-wkn="965814" data-instrumentid="73364">
+								<td class="io-name">
+									<a title="EURO STOXX 50">EURO STOXX 50</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800_DJSTOXXE50" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">3 443,95</span>								</td>
+								<td class="io-change">
+<span item="X0000030800_DJSTOXXE50" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,17%</span>
+<script> try{SetQsRefVal('X0000030800_DJSTOXXE50', '3438,0700');}catch(e){}</script><span item="X0000030800_DJSTOXXE50" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">5,88</span>								</td>
+							</tr>
+							<tr data-wkn="A0AE1X" data-instrumentid="111521">
+								<td class="io-name">
+									<a title="NASDAQ 100">NASDAQ 100</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800_ND100" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">4 443,10</span>								</td>
+								<td class="io-change">
+<span item="X0000030800_ND100" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,23%</span>
+<script> try{SetQsRefVal('X0000030800_ND100', '4432,9160');}catch(e){}</script><span item="X0000030800_ND100" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">10,18</span>								</td>
+							</tr>
+							<tr data-wkn="" data-instrumentid="111522">
+								<td class="io-name">
+									<a title="NASDAQ 100 FUTURE">NASDAQ 100 FUTURE</a>
+								</td>
+								<td class="io-price">
+<span item="" field="" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">4 312,50</span>								</td>
+								<td class="io-change">
+<span item="" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,52%</span><span item="" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,00</span>								</td>
+							</tr>
+							<tr data-wkn="969427" data-instrumentid="434596">
+								<td class="io-name">
+									<a title="NASDAQ COMP.">NASDAQ COMP.</a>
+								</td>
+								<td class="io-price">
+<span item="" field="" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">4 716,338</span>								</td>
+								<td class="io-change">
+<span item="" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+1,55%</span><span item="" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,00</span>								</td>
+							</tr>
+							<tr data-wkn="A0AET0" data-instrumentid="73366">
+								<td class="io-name">
+									<a title="S&amp;P 500">S&amp;P 500</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800_SP500" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">2 089,67</span>								</td>
+								<td class="io-change">
+<span item="X0000030800_SP500" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,25%</span>
+<script> try{SetQsRefVal('X0000030800_SP500', '2084,4300');}catch(e){}</script><span item="X0000030800_SP500" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">5,24</span>								</td>
+							</tr>
+		</tbody>
+	</table>
+</div>
+			</div>
+			<div id="TabContent_Share" class="indication-tabcontent-holder">
+
+<div class="indications table-holder">
+	<table class="indication-table">
+		<thead>
+			<tr>
+				<th>
+					Sous-Jacent
+				</th>
+				<th>
+					Cours
+				</th>
+				<th>
+					Perf.
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+							<tr data-wkn="852363" data-instrumentid="91101">
+								<td class="io-name">
+									<a title="PEUGEOT">PEUGEOT</a>
+								</td>
+								<td class="io-price">
+<span item="X00000F0200508070" field="mid" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">18,0075</span>								</td>
+								<td class="io-change">
+<span item="X00000F0200508070" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,24%</span>
+<script> try{SetQsRefVal('X00000F0200508070', '17,9650');}catch(e){}</script><span item="X00000F0200508070" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,04</span>								</td>
+							</tr>
+							<tr data-wkn="858821" data-instrumentid="329818">
+								<td class="io-name">
+									<a title="BOUYGUES">BOUYGUES</a>
+								</td>
+								<td class="io-price">
+<span item="X00000F0200487662" field="mid" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">34,0925</span>								</td>
+								<td class="io-change">
+<span item="X00000F0200487662" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,58%</span>
+<script> try{SetQsRefVal('X00000F0200487662', '33,8950');}catch(e){}</script><span item="X00000F0200487662" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,20</span>								</td>
+							</tr>
+							<tr data-wkn="938914" data-instrumentid="76961">
+								<td class="io-name">
+									<a title="AIRBUS">AIRBUS</a>
+								</td>
+								<td class="io-price">
+<span item="X00000F02001095306" field="mid" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">59,02</span>								</td>
+								<td class="io-change">
+<span item="X00000F02001095306" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,46%</span>
+<script> try{SetQsRefVal('X00000F02001095306', '59,2900');}catch(e){}</script><span item="X00000F02001095306" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">-0,27</span>								</td>
+							</tr>
+							<tr data-wkn="869858" data-instrumentid="333300">
+								<td class="io-name">
+									<a title="CAP GEMINI">CAP GEMINI</a>
+								</td>
+								<td class="io-price">
+<span item="X00000F0200488070" field="mid" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">77,8205</span>								</td>
+								<td class="io-change">
+<span item="X00000F0200488070" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+1,10%</span>
+<script> try{SetQsRefVal('X00000F0200488070', '76,9700');}catch(e){}</script><span item="X00000F0200488070" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,85</span>								</td>
+							</tr>
+							<tr data-wkn="855705" data-instrumentid="73541">
+								<td class="io-name">
+									<a title="AXA">AXA</a>
+								</td>
+								<td class="io-price">
+<span item="X00000F0200486352" field="mid" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">22,4575</span>								</td>
+								<td class="io-change">
+<span item="X00000F0200486352" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+1,69%</span>
+<script> try{SetQsRefVal('X00000F0200486352', '22,0850');}catch(e){}</script><span item="X00000F0200486352" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,37</span>								</td>
+							</tr>
+							<tr data-wkn="982285" data-instrumentid="76955">
+								<td class="io-name">
+									<a title="CREDIT AGRICOLE">CREDIT AGRICOLE</a>
+								</td>
+								<td class="io-price">
+<span item="X00000F02001336531" field="mid" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">13,09</span>								</td>
+								<td class="io-change">
+<span item="X00000F02001336531" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,34%</span>
+<script> try{SetQsRefVal('X00000F02001336531', '13,0450');}catch(e){}</script><span item="X00000F02001336531" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,05</span>								</td>
+							</tr>
+		</tbody>
+	</table>
+</div>
+			</div>
+			<div id="TabContent_Commodity" class="indication-tabcontent-holder">
+
+<div class="indications table-holder">
+	<table class="indication-table">
+		<thead>
+			<tr>
+				<th>
+					Sous-Jacent
+				</th>
+				<th>
+					Cours
+				</th>
+				<th>
+					Perf.
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+							<tr data-wkn="" data-instrumentid="172617">
+								<td class="io-name">
+									<a title="BRENT">BRENT</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800:BRENT" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">63,7297</span>								</td>
+								<td class="io-change">
+<span item="X0000030800:BRENT" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,34%</span>
+<script> try{SetQsRefVal('X0000030800:BRENT', '63,9500');}catch(e){}</script><span item="X0000030800:BRENT" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">-0,22</span>								</td>
+							</tr>
+							<tr data-wkn="" data-instrumentid="106147">
+								<td class="io-name">
+									<a title="WTI">WTI</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800:WTI" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">59,651</span>								</td>
+								<td class="io-change">
+<span item="X0000030800:WTI" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,04%</span>
+<script> try{SetQsRefVal('X0000030800:WTI', '59,6250');}catch(e){}</script><span item="X0000030800:WTI" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,03</span>								</td>
+							</tr>
+							<tr data-wkn="" data-instrumentid="111527">
+								<td class="io-name">
+									<a title="OR">OR</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800:XAU" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">1 178,49</span>								</td>
+								<td class="io-change">
+<span item="X0000030800:XAU" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,71%</span>
+<script> try{SetQsRefVal('X0000030800:XAU', '1186,8725');}catch(e){}</script><span item="X0000030800:XAU" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">-8,38</span>								</td>
+							</tr>
+							<tr data-wkn="SILBER" data-instrumentid="334202">
+								<td class="io-name">
+									<a title="ARGENT">ARGENT</a>
+								</td>
+								<td class="io-price">
+<span item="" field="" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">15,945</span>								</td>
+								<td class="io-change">
+<span item="" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,09%</span><span item="" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,02</span>								</td>
+							</tr>
+							<tr data-wkn="" data-instrumentid="111529">
+								<td class="io-name">
+									<a title="PALLADIUM">PALLADIUM</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800:XPD" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">737,735</span>								</td>
+								<td class="io-change">
+<span item="X0000030800:XPD" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">+0,30%</span>
+<script> try{SetQsRefVal('X0000030800:XPD', '735,4950');}catch(e){}</script><span item="X0000030800:XPD" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">2,24</span>								</td>
+							</tr>
+							<tr data-wkn="" data-instrumentid="112040">
+								<td class="io-name">
+									<a title="PLATINE">PLATINE</a>
+								</td>
+								<td class="io-price">
+<span item="" field="" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">1 080,995</span>								</td>
+								<td class="io-change">
+<span item="" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,64%</span><span item="" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">-7,01</span>								</td>
+							</tr>
+		</tbody>
+	</table>
+</div>
+			</div>
+			<div id="TabContent_Currency" class="indication-tabcontent-holder">
+
+<div class="indications table-holder">
+	<table class="indication-table">
+		<thead>
+			<tr>
+				<th>
+					Sous-Jacent
+				</th>
+				<th>
+					Cours
+				</th>
+				<th>
+					Perf.
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+							<tr data-wkn="" data-instrumentid="111534">
+								<td class="io-name">
+									<a title="EUR/USD">EUR/USD</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800EURUSD" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">1,1237</span>								</td>
+								<td class="io-change">
+<span item="X0000030800EURUSD" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,41%</span>
+<script> try{SetQsRefVal('X0000030800EURUSD', '1,1283');}catch(e){}</script><span item="X0000030800EURUSD" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,00</span>								</td>
+							</tr>
+							<tr data-wkn="" data-instrumentid="111536">
+								<td class="io-name">
+									<a title="EUR/GBP">EUR/GBP</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800EURGBP" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">0,7187</span>								</td>
+								<td class="io-change">
+<span item="X0000030800EURGBP" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,63%</span>
+<script> try{SetQsRefVal('X0000030800EURGBP', '0,7232');}catch(e){}</script><span item="X0000030800EURGBP" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">0,00</span>								</td>
+							</tr>
+							<tr data-wkn="" data-instrumentid="111535">
+								<td class="io-name">
+									<a title="EUR/JPY">EUR/JPY</a>
+								</td>
+								<td class="io-price">
+<span item="X0000030800EURJPY" field="last" source="lightstreamer" table="indicationoverview" class="nonBlock lastWithPad">138,609</span>								</td>
+								<td class="io-change">
+<span item="X0000030800EURJPY" field="changepercentwithsign" source="lightstreamer" table="indicationoverview_changepercent">-0,46%</span>
+<script> try{SetQsRefVal('X0000030800EURJPY', '139,2500');}catch(e){}</script><span item="X0000030800EURJPY" field="changeabsolute" source="lightstreamer" table="indicationoverview" class="ch-abs">-0,64</span>								</td>
+							</tr>
+		</tbody>
+	</table>
+</div>
+			</div>
+
+
+		</div>
+		<div class="indications-chart">
+			<ul id="indications-overviewchart-navigation" class="indications-overview-chart-sub-navigation">
+				<li><span data-period="Intraday" data-decimals="" data-exchange="" data-instrument="" class="item-active">Intraday</span></li>
+				<li><span data-period="OneMonth" data-decimals="" data-exchange="" data-instrument="">1 mois</span></li>
+				<li><span data-period="SixMonths" data-decimals="" data-exchange="" data-instrument="">6 mois</span></li>
+				<li><span data-period="OneYear" data-decimals="" data-exchange="" data-instrument="">1 an</span></li>
+			</ul>
+
+			<a href="/marches?snapshot=111514" data-src="/marches" id="chart-link" title="Cours en temps r&#233;el">
+				<script type='text/javascript' src='/_/Bnp.Relaunch/bnp/instrumentchart.js?v=WWxjqr7YMobEqytuOFlYRr44MCuE-y31yoQpaRr8IWo1'></script>
+
+				<link rel='stylesheet' type='text/css' href='/_/Bnp.Relaunch/bnp/instrumentchart.css?v=JwscQIlGceaEziJlwX8V868kbvPLV3E0QQoNhQzCU6o1' />
+				<div class="chart">
+			<script type="text/javascript">
+				$(document).ready(function () {
+					SetChartSubNavigationAttributes('_CAC40;.FCHI','Olsen',2,'.FCHI;.FCHI','BNPUnderlying');
+				});
+			</script>
+			<div class="indications-overview-chart">
+				
+<div id="shcb_4c7167e1b28744d18b5fda993f72c4a0" class="shcb shcb-instrumentChart">
+<div class="shcb-noChartData">
+    <span>
+Le graphique n'est pas disponible    </span>
+</div>
+    <div id="shcb_indicationChartWrapper_4c7167e1b28744d18b5fda993f72c4a0" instrument="_CAC40;.FCHI" class="shcb-chart shcb-indicationChartWrapper" >
+    </div>
+</div>
+<script type="text/javascript">
+    $shcb.fn.shcb.chartBaseFunctions.setDaylightSavingTimes( {"1975":{"daylightStart":165373200000,"daylightEnd":183520800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1976":{"daylightStart":196822800000,"daylightEnd":215575200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1977":{"daylightStart":228272400000,"daylightEnd":247024800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1978":{"daylightStart":259722000000,"daylightEnd":278474400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1979":{"daylightStart":291171600000,"daylightEnd":309924000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1980":{"daylightStart":323226000000,"daylightEnd":341373600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1981":{"daylightStart":354675600000,"daylightEnd":372823200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1982":{"daylightStart":386125200000,"daylightEnd":404877600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1983":{"daylightStart":417574800000,"daylightEnd":436327200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1984":{"daylightStart":449024400000,"daylightEnd":467776800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1985":{"daylightStart":481078800000,"daylightEnd":499226400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1986":{"daylightStart":512528400000,"daylightEnd":530676000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1987":{"daylightStart":543978000000,"daylightEnd":562125600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1988":{"daylightStart":575427600000,"daylightEnd":594180000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1989":{"daylightStart":606877200000,"daylightEnd":625629600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1990":{"daylightStart":638326800000,"daylightEnd":657079200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1991":{"daylightStart":670381200000,"daylightEnd":688528800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1992":{"daylightStart":701830800000,"daylightEnd":719978400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1993":{"daylightStart":733280400000,"daylightEnd":752032800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1994":{"daylightStart":764730000000,"daylightEnd":783482400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1995":{"daylightStart":796179600000,"daylightEnd":814932000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1996":{"daylightStart":828234000000,"daylightEnd":846381600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1997":{"daylightStart":859683600000,"daylightEnd":877831200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1998":{"daylightStart":891133200000,"daylightEnd":909280800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"1999":{"daylightStart":922582800000,"daylightEnd":941335200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2000":{"daylightStart":954032400000,"daylightEnd":972784800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2001":{"daylightStart":985482000000,"daylightEnd":1004234400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2002":{"daylightStart":1017536400000,"daylightEnd":1035684000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2003":{"daylightStart":1048986000000,"daylightEnd":1067133600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2004":{"daylightStart":1080435600000,"daylightEnd":1099188000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2005":{"daylightStart":1111885200000,"daylightEnd":1130637600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2006":{"daylightStart":1143334800000,"daylightEnd":1162087200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2007":{"daylightStart":1174784400000,"daylightEnd":1193536800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2008":{"daylightStart":1206838800000,"daylightEnd":1224986400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2009":{"daylightStart":1238288400000,"daylightEnd":1256436000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2010":{"daylightStart":1269738000000,"daylightEnd":1288490400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2011":{"daylightStart":1301187600000,"daylightEnd":1319940000000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2012":{"daylightStart":1332637200000,"daylightEnd":1351389600000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2013":{"daylightStart":1364691600000,"daylightEnd":1382839200000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2014":{"daylightStart":1396141200000,"daylightEnd":1414288800000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2015":{"daylightStart":1427590800000,"daylightEnd":1445738400000,"summerOffset":7200000.0,"winterOffset":3600000.0},"2016":{"daylightStart":1459040400000,"daylightEnd":1477792800000,"summerOffset":7200000.0,"winterOffset":3600000.0}} );
+
+    $shcb(document).ready(function() {
+var months = new Array(); var shortMonths = new Array(); var weekDays = new Array(); var loadingData = ""; var chartPeriods = new Array();
+weekDays.push('dimanche');weekDays.push('lundi');weekDays.push('mardi');weekDays.push('mercredi');weekDays.push('jeudi');weekDays.push('vendredi');weekDays.push('samedi');months.push('janvier');months.push('février');months.push('mars');months.push('avril');months.push('mai');months.push('juin');months.push('juillet');months.push('août');months.push('septembre');months.push('octobre');months.push('novembre');months.push('décembre');months.push('');shortMonths.push('janv.');shortMonths.push('févr.');shortMonths.push('mars');shortMonths.push('avr.');shortMonths.push('mai');shortMonths.push('juin');shortMonths.push('juil.');shortMonths.push('août');shortMonths.push('sept.');shortMonths.push('oct.');shortMonths.push('nov.');shortMonths.push('déc.');shortMonths.push('');loadingData = 'Loading...';$shcb.fn.shcb.baseFunctions.initCulture( ',', '.', '.', ':', weekDays, months, shortMonths, loadingData);
+        ;
+
+        $shcb.fn.shcb.indicationChart.initChart('', '/_/Bnp.Relaunch/', '/__/Bnp.Relaunch/IndicationChart/GetData?&currentCulture=fr-FR&chartType=area', '4c7167e1b28744d18b5fda993f72c4a0', {
+            instrument: '_CAC40;.FCHI',
+            exchange: 'Olsen',
+            chartWidth: 0,
+            chartHeight: 0,
+            decimalPlace: 2,
+            theme: 'par'
+        });
+    });
+</script>
+
+			</div>
+
+
+				</div>
+			</a>
+		</div>
+	</div>
+	<div class="dummy-indication-bild">
+	</div>
+
+</div>
+
+
+
+					<!-- search ignore begin pattern -->
+					<div class="clear"></div>
+				</div>
+			</div>
+
+
+<div class="contact-line">
+	<div class="contact-line-inner">
+		<div class="contact hotline"><span>Besoin d&#39;aide? Appelez-nous au N&#176;Vert</span><a href="tel:+33 800 235000">0 800 235 000</a><a href="#" class="telephone-container">0 800 235 000</a></div>
+		<div class="separator"></div>
+<div class="contact open-close">
+	<a class="js-contact-overlay-link contact-overlay-opener" href="#">
+		<span class="icon"></span>Besoin d&#39;aide? Envoyez-nous un message
+	</a>
+	<div class="overlay-box js-contact-overlay-box">
+		<div class="box-content">
+			<a class="overlay-close js-overlay-close" href="#">x</a>
+
+
+<div class="col content-control rounded">
+	<h2>Ecrivez-nous</h2>
+
+<form action="/Api/ContactForm" class="contact-form" id="contact-form" method="post">		<input type="text" name="RepeatName" value="" class="contact-repeat-name-field" />
+		<fieldset>
+			<div class="introText">Pour toute question, demande ou suggestion, vous pouvez également nous écrire par le biais du formulaire ci-dessous
+</div>
+			<h4 class="email-success regular-heading info-label notice-success form-notice"></h4>
+			<h4 class="email-error regular-heading info-label notice-error form-notice"></h4>
+
+			
+			<label for="LastName" class="info-label">Nom*</label>
+			<input class="input-text LastName" data-val="true" data-val-required="Last name is required" id="LastName" name="LastName" type="text" value="" />
+			<span class="field-validation-valid" data-valmsg-for="LastName" data-valmsg-replace="true"></span>
+
+			<label for="FirstName" class="info-label">Pr&#233;nom*</label>
+			<input class="input-text FirstName" data-val="true" data-val-required="First name is required" id="FirstName" name="FirstName" type="text" value="" />
+			<span class="field-validation-valid" data-valmsg-for="FirstName" data-valmsg-replace="true"></span>
+
+			<label for="Email" class="info-label">Adresse E-mail*</label>
+			<span class="EmailHolder"><input class="input-text Email" data-val="true" data-val-email="Email is invalid" data-val-required="Email is required" id="Email" name="Email" type="text" value="" /></span>
+			<span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+
+			<label for="Subject" class="info-label">Objet*</label>
+			<input class="input-text Subject" data-val="true" data-val-required="Subject is required" id="Subject" name="Subject" type="text" value="" />
+			<span class="field-validation-valid" data-valmsg-for="Subject" data-valmsg-replace="true"></span>
+
+			<label for="Message" class="info-label">Votre message*</label>
+			<textarea class="input-text input-textarea Message" cols="20" data-val="true" data-val-required="Message is required" id="Message" name="Message" rows="2">
+</textarea>
+			<span class="field-validation-valid" data-valmsg-for="Message" data-valmsg-replace="true"></span>
+
+			<a class="contact-form-submit contact-form-button block-link button-link" href="javascript:void(0)">Envoyer</a>
+		</fieldset>
+</form></div>
+<script>
+	$(document).ready(function () {
+		$(document).on('click', '.contact-form-submit', function (event) {
+			event.preventDefault();
+			event.stopImmediatePropagation();
+			$(this).closest('form[id="contact-form"]').trigger('submit');
+			return false;
+		});
+		if ($('.contactcontrol .Subject').length > 0)
+		{
+			var contactSubject = $('.contactcontrol .Subject').val();
+			if ((typeof contactSubject != 'undefined') && (contactSubject != ''))
+			{
+				$('.contactcontrol .Subject').attr('disabled', 'disabled');
+			}
+		}
+	});
+</script>
+		</div>
+	</div>
+	
+</div>
+
+
+	<ul class="social">
+			<li class="twitter"><a href="http://fil-des-experts-bourse.fr/" target="_blank">Twitter</a></li>
+			<li class="youtube"><a href="https://www.youtube.com/channel/UC3bnBuNpPZtqofXV-SbiS1A" target="_blank">YouTube</a></li>
+	</ul>
+
+
+	</div>
+</div>
+
+<footer id="footer">
+	<div class="footer-inner">
+	<span class="copy"><strong>&copy; 2001 - 2015 BNP Paribas</strong>
+		<br />Powered by <b>Smarthouse</b>
+	</span>
+<nav class="footer-nav">
+	<table>
+				<tr>
+							<td>
+								<a href="/mentionslegales" title="Mentions L&#233;gales">Mentions L&#233;gales</a>
+							</td>
+							<td>
+								<a href="/informations-financieres" title="Informations Financi&#232;res">Informations Financi&#232;res</a>
+							</td>
+							<td>
+								<a href="/contacteznous" title="Contact">Contact</a>
+							</td>
+				</tr>
+				<tr>
+							<td>
+								<a href="/avertissement" title="Avertissement">Avertissement</a>
+							</td>
+							<td>
+								<a href="/a-propos-de-bnp-paribas" title="&#192; propos de BNP Paribas">&#192; propos de BNP Paribas</a>
+							</td>
+							<td>
+								<a href="/plan-du-site" title="Plan du site">Plan du site</a>
+							</td>
+				</tr>
+   </table>
+</nav>
+	
+
+<div class="rating">
+    <span>Quelle note attribuez-vous &#224; cette page ?</span>
+	<ul class="star-rating" data-original-rating="3">
+		<li class=""><a href="#" title="PageRating: 1Star" class="one-star">1</a></li>
+		<li class=""><a href="#" title="PageRating: 2Stars" class="two-stars">2</a></li>
+		<li class="active"><a href="#" title="PageRating: 3Stars" class="three-stars">3</a></li>
+		<li class=""><a href="#" title="PageRating: 4Stars" class="four-stars">4</a></li>
+		<li class=""><a href="#" title="PageRating: 5Stars" class="five-stars">5</a></li>
+	</ul>
+	
+	<div class="overlay-box form-box">
+		<div class="box-content">
+			<h2>Quelle note attribuez-vous &#224; cette page ?</h2>
+			<a href="#" class="overlay-close js-pageRatingForm-close">x</a>
+			<form id="pageRatingForm">
+				<fieldset>
+					<div class="legend">
+                       Nous vous remercions pour votre avis.
+<br />
+Afin d'améliorer la qualité de votre site Internet, merci de prendre quelques secondes pour nous sensibiliser à ce que vous avez aimé ou ce qui vous a déplu dans cette page.
+					</div>
+						<label class="form-label">E-mail</label>
+					<input id="Mail" name="Mail" type="text" class="form-input" />
+						<label class="form-label">Votre commentaire</label>
+						<textarea class="form-input" cols="50" id="RatingMessage" name="RatingMessage" rows="10" style="resize: none;">
+</textarea>
+					<div class="form-submit">
+						<a href="#" class="js-button">Envoyer</a>
+					</div>
+					<input data-val="true" data-val-number="The field Rating must be a number." data-val-required="The Rating field is required." id="Rating" name="Rating" type="hidden" value="3" />
+					<input id="SiteUrl" name="SiteUrl" type="hidden" value="http://www.produitsdebourse.bnpparibas.fr/pagedaccueil/?cms-monitoring=1" />
+				</fieldset>
+			</form>
+		</div>
+			
+		</div>
+</div>
+
+		<div class="modal-screen js-rating-modal-screen"></div>
+		<br class="clear"/>
+	</div>
+</footer>
+		</div>
+
+		<div id="loader-wrapper">
+		<img src="/Content/images/loading2.gif" alt="loader" class="loading-image" />
+		</div>
+	
+		<div class="modal-screen js-modal-screen js-main-modal-screen"></div>
+		
+	
+	<input type="hidden" value="SCHLIESSEN" id="global-close" />
+		<script src="/bundles/site.js?v=owCiC2X7vG1SJ1WysFRXtQ8BgmL_nkZ7W6Lu49idyUo1"></script>
+
+		<!-- search ignore end pattern -->
+			<script type="text/javascript">
+				quoteStreamSettings.init(
+					'bnpparibas.fr',
+					'push.bnpparibas.fr',
+					'/js/quotestream/2.2.0',
+					'MDS5',
+					['bid', 'ask', 'bidsize', 'asksize', 'quotetime', 'last'],
+					'pushtable',
+					'#FF6142',
+					'#00A66B',
+					300,
+					300,
+					'#FF6142',
+					'#00A66B',
+					'',
+					'',
+					'',
+					'',
+					'#FFFFFF',
+					2);
+			</script>
+
+			<script>
+				(function (i, s, o, g, r, a, m) {
+						i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+							(i[r].q = i[r].q || []).push(arguments);
+						}, i[r].l = 1 * new Date(); a = s.createElement(o),
+							m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+					}
+				)(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+				ga('create', 'UA-61996408-2', 'auto');
+				ga('set', 'anonymizeIp', true);
+				ga('send', 'pageview');
+			</script>
+	<script type="text/javascript">
+	setTimeout(function()
+	{var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0020/2511.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}
+	, 1);
+	</script>
+
+	<script type="text/javascript">
+
+			$(document).ready(function() {
+				var timeout;
+				var timeoutCount = 0;
+				jQuery.ajaxSetup({
+					beforeSend: function() {
+						timeoutCount++;
+						timeout = window.setTimeout(function() {
+							if (timeoutCount > 0) {
+								jQuery('#loader-wrapper').show();
+							}
+						}, 100);
+					},
+					complete: function() {
+						timeoutCount--;
+						window.clearTimeout(timeout);
+						if (timeoutCount < 1) {
+							jQuery('#loader-wrapper').hide();
+						}
+					}
+				});
+			});
+		</script>
+</body>
+
+	<!-- E118C4E3DFF2AA4EDDE08175B9D077F9 -->
+	<!-- ddfbfb11110746959740cda4591acd89 -->
+</html>

@@ -1,0 +1,141 @@
+---
+layout: post
+title: "MétaNote 16 - L'avenir du camion"
+date: 2013-07-05 08:19:09 +0100
+categories: []
+tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "Assistant Personnel de Consommation", "camion", "carburant", "cit\u00e9", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "Fablab", "holoptisme", "innovation", "intelligence collective", "internet des objets", "living lab", "logistique", "low cost", "open innovation", "partage de donn\u00e9es", "plate-forme", "V\u00e9hicule", "wiki"]
+---
+
+Un parallélépipède rectangle « identique » depuis des décennies, encombrant nos autoroutes lors de nos voyages, telle est la perception générale du camion. Il est proposé ici de renverser la position, de se mettre à la place du constructeur, et de mettre en perspective les évolutions historiques de ce véhicule, puis de tracer sa trajectoire probable.
+
+_x000D_
+
+Avant tout, le chauffeur pense que vous n’avez rien à faire sur une autoroute, son véhicule, « l’autocar des marchandises », est conçu et optimisé pour transporter 25 tonnes de marchandises. La voiture, elle n’est pas efficace avec au mieux 5 litres/100 km pour 1 tonne à 90 km/h, le camion, lui, consomme moins d’un litre/100 km pour 1 tonne. Et si, finalement, la voiture n’avait donc pas sa place sur l’autoroute ?
+
+_x000D_
+
+Malgré les apparences, le camion préfigure l'avenir de l'automobile et des transports en général (lire l'article [**Truck 2020**](/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile.html)).
+
+_x000D_
+
+Structurellement cet objet industriel aspire à lui toutes les innovations en matière d'efficacité énergétique, d'optimisation systémique et d'adaptation "retardée" à tous les contextes pour maximiser sa productivité. Géré par des professionnels, acheté par des professionnels, conduit par des professionnels, il va poursuivre les mêmes tendances historiques : excellence énergétique, hyperspécialisation aux besoins des utilisateurs, intégration dans un système logistique complexe. Puis il va franchir un cap majeur dans probablement moins de 10 ans : la transparence totale des émissions polluantes et émissions de GES. Ce sera le premier véhicule qui communiquera ses émissions en temps réel à ces clients, aux collectivités, et aux marchandises livrées elle-même. Même si les critères énergie/environnement ne sont qu'une partie des éléments guidant le choix d'un produit ou d'un service, ne pas les afficher ne sera pas accepté par les clients. Avec l'Internet des Objets (lire l'étude du Commissariat à la stratégie et la prospective, [**La dynamique d'Internet - Prospective 2030**](http://www.strategie.gouv.fr/content/etude-dynamique-internet-2030)), le camion n'a pas fini d'être à l'avant garde des transports.
+
+_x000D_
+_x000D_
+
+Avec 10 fois moins d'emploi que dans l’automobile, les industriels du véhicule lourd conçoivent et produisent des véhicules "identiques et tous différents" d’une grande complexité visant des marchés mondiaux dans des entreprises elles-aussi étendues sur tous les continents. Historiquement, toutes les techniques clés ont été produites pour le véhicule lourd : Diesel injection directe, turbocompresseur, common rail haute pression, boite vitesse robotisée, Selective Catalytic Reduction et demain combustion homogène. Toutes les technologies clés liées à l'efficacité énergétique viennent du camion. Et tous les gains énergétiques générés sont redonnés au client pour améliorer la productivité du véhicule, du système de transport, donc de l'entreprise. Tout simplement parce qu’en longue distance, le poste carburant représente environ 30% des coûts (source [**CCFA**](http://www.ccfa.fr/Edition-2012)). Le véhicule lourd est ainsi le meilleur transformateur d'énergie fossile avec des rendements sur autoroute proche de 50%. Cette performance a de nombreuses conséquences: il domine les autres modes fonctionnant avec d'autres énergies, et comme effet collatéral, il n'est pas nécessaire - pour le moment - de bien "remplir" le véhicule. De nombreuses pistes de progrès existent encore, et le numérique va en ouvrir de nouvelles …
+
+_x000D_
+
+**Le véhicule dans un système**
+
+_x000D_
+
+Cet objet est un élément d’un dispositif de production. Il tisse des liens physiques entre plusieurs organisations. A la différence d’un voyageur, une marchandise n’est pas « auto »mobile. Le véhicule est donc intégré dans plusieurs systèmes eux-mêmes imbriqués les uns les autres : la production, la livraison, le paiement, la chaîne logistique, la ville, etc… Cette complexité est une résultante d’un « empilage » historique lié au développement des industries, des territoires et des « besoins » clients. Le système de transport et le camion ont, jusqu’à présent, encaissé cette complexité et ces contraintes conduisant à l’industrialisation de techniques sur le véhicule puis de modes de fonctionnement visant à optimiser les usages, les remplissages, les tournées, la logistique 'lire l'article **[La logistique du futur](/2012/08/la-logistique-du-futur.html)**).
+
+_x000D_
+
+Nous ne sommes probablement qu’au début de cette seconde phase. Le numérique et l’IdO ouvrent des perspectives inédites comme l’Internet Physique (lire l’article **[Et si la logistique copiait l'internet](/2012/01/et-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet.html)**). Ainsi la compréhension de ces systèmes complexes interliés devient possible car des acteurs économiques en font leur terrain de jeux : « smart city, smart delivery, big data ». Des partenariats et synergies naissent déjà entrent les logisticiens mondiaux (lire l’article **[DHL, les solutions logistiques durables](/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c.html)**), les collectivités (lire l'article sur **[les 5 projets Mobilités dont Optimod'lyon](/?s=optimod)**), les opérateurs/développeurs des modèles prédictifs, et les constructeurs. Le camion va devenir une plateforme physique et numérique qui optimise en temps réel des flux physiques dans un environnement en évolution permanente. Demain le conducteur et/ou une plateforme d’assistance aura une vision systémique étendue, lui permettant d’opérer des choix stratégiques, et accessoirement de conduire le véhicule dont plusieurs phases de roulage seront robotisées.
+
+_x000D_
+
+La réalité augmentée (lire article **[le virtuel donnera plus de sensation que le réel](/2010/12/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2.html)**) lui apportera des informations contextualisées, et également en retour produira des informations vers le centre de gestion central de l’entreprise. Le camion sera donc un capteur des systèmes logistiques et territoriaux. Devenu une plateforme servicielle connectée à de nombreuses entités (ville, client, maintenance, constructeur, …), le camion sera, plus que jamais, un maillon essentiel de notre système de production. Produisant de nouvelles connaissances, l’optimisation de la chaîne logistique pourrait également passer par une remise en question des modes d’organisation des chargeurs, de commandes des produits, ou encore d’organisation des entrepôts.
+
+_x000D_
+
+En complément, poursuivant une de ces principales forces, le véhicule industriel se spécialisera pour devenir à l’extrême totalement « sur-mesure ».
+
+_x000D_
+
+**Hyperspécialisation « low cost »**
+
+_x000D_
+
+Tous les camions se ressemblent, et ils sont tous différents en fonction des missions : livraison, routier, citerne, chantier, etc... Dès le départ, de façon artisanale puis industrielle, le véhicule a été adapté à sa mission, aux métiers. Là encore, cette adaptation « le plus tard possible » a pour objectif de maximiser l'investissement réalisé par le client. Cette hyperspécialisation permet de fournir à la « multitude » (lire l’article **[Les transports à l'âge de la multitude](/2013/02/les-transports-a-lage-de-la-multitude.html)**) un produit adapté à chaque besoin. Mais cela a un coût, et des évolutions inédites pourraient avoir lieu.
+
+_x000D_
+
+Trois éléments pourraient encore renforcer cette propriété du véhicule lourd : standardisation mondiale, spécialisation retardée pour chaque client et production locale, puis versatilité en fonction de l’environnement.
+
+_x000D_
+
+La standardisation au niveau mondial de composant, de base roulante, et d’organes est le fondement industriel des structures pyramidales fondées sur des règles fixes et des processus descendants. Elle permet les économies d’échelle, mais ne permet pas de s’adapter à l’inconnu (lire et écouter l'article sur **[l'intelligence collective](/2013/06/intelligence-collective-dans-nos-comportements-nos-organisations-forum-des-innovations-ademe.html)**). Cela restera nécessaire pour des raisons économiques mais ce sera associé à de nouvelles capacités de spécialisations dite retardées de plus en plus décentralisées vers des partenaires, puis totalement en dehors de l’entreprise. Ainsi la spécialisation du véhicule à partir d’éléments standards produits en grands volumes pourra être réalisée localement, dans des usines partagées, avec des moyens de production « communs », et des guides collaboratifs.
+
+_x000D_
+
+Idéalement réalisées par le client lui-même selon des processus co-créés et partagés dans des usines locales, ce « sur-mesure » possible est déjà visible dans les fablabs, dans le [**Makestorming** ](http://makestorming.com/)(Méthodologie d'innovation collective et collaborative qui s'appuie sur la pédagogie du 'faire'), dans le wiki **[Open Source Ecology](http://opensourceecology.org/wiki)** (qui propose en open source les plans et les méthodes de fabrication de dizaines de machines) et dans [**wikispeed** ](http://www.wikispeed.com/)ou encore **[Local Motors](http://localmotors.com/)**. Les innovations viennent ici de l’extérieur de l’entreprise, qui doit s’organiser pour être capable de les rendre possible, de les mettre en œuvre, de les collecter et de les partager. Ces nouvelles formes d’intelligence collective distribuées permettront d’innover dans des environnements complexes et changeants. Etre capable d’associer le meilleur des entreprises mondiales et les capacités d’innovation externes à ces structures, le camion sera probablement le premier à le réaliser, à trouver la voie de l'équilibre (lire l'article **[La voie de l'équilibre Industries, Citoyens, Environnement, Territoires](/2012/10/la-voie-de-lequilibre-industries-citoyens-environnement-et-territoires.html)**).
+
+_x000D_
+
+Une fois configuré et produit, le camion du futur aura également des propriétés d’adaptation à son environnement. Sa dynamique, ses émissions polluantes et sonores seront variables en fonction de son positionnement (urbain dense ou rural) avec des calibrations moteurs modulables. Certains véhicules seront polycarburants et certains seront mêmes capables de changer de chaînes de traction, de rajouter/retirer des accessoires en fonction de chaque mission, améliorant ainsi les seconde et troisième vies de ce véhicule dans d’autres continents. Cette versatilité permettra de s’adapter à des futurs énergétiques inconnus.
+
+_x000D_
+
+**L’excellence énergétique**
+
+_x000D_
+
+Les véhicules lourds sont déjà soumis à des normes environnementales parmi les plus sévères, très proches des usages réels. Compte tenu des marchés mondiaux, les moteurs sont conçus pour respecter à la fois les normes européennes, américaines et dans certains cas asiatiques.
+
+_x000D_
+
+Et le camion va franchir un nouveau cap dans moins de 10 ans. Connecté et communiquant, les meilleurs véhicules lourds produiront en temps réel tous les paramètres caractéristiques de leur performance environnemental et énergétique : émissions polluantes (notamment NOX et Particules), émissions de GES (CO2), bruit (lire l’article **[Quand viendra l'heure de la connaissance des émissions réelles](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)**). Le premier constructeur à se lancer indiquera alors simplement : « ***Ce camion vise l’excellence énergétique et environnementale. Nous y travaillons tous intensément. Pour preuve, nous communiquons en temps réel nos émissions et promettons de les réduire. Cette transparence est désormais notre principale identité, elle incarne nos valeurs.***». Ces données seront utilisées par de nombreux acteurs : collectivités, clients, fournisseurs, chercheurs, ministères, … Ces données sont demandées par les clients pour des bilans environnementaux, pour des bilans RSE pour établir le contenu carbone des produits, pour réaliser l'affichage environnemental, mais également par les collectivités pour améliorer la qualité de l’air et gérer au mieux les flux. Cette transparence renversera de nombreux jeux d’acteurs. Désormais le client, le consommateur aura accès à des bilans environnementaux précis. Ceci participera à une modification profonde des modes de consommation (lire plusieurs articles **[Transparence logistique et APC](/2011/09/la-transparence-logistique-et-lassistant-personnel-de-consommation.html)**, **[le consommateur va avoir autorité](/2012/07/le-consommateur-va-avoir-autorite.html)**, **[le consommateur renverse les rôles](/2012/11/devenant-producteur-de-connaissances-le-consommateur-renverse-les-roles.html)**, **[le consommateur du futur [r]evolution](/2011/10/le-consommateur-du-futur-revolution.html)**).
+
+_x000D_
+
+La transparence deviendra un argument commercial majeur, le premier qui s’y engagera prendra une position inédite dans l’histoire des transports. En devenant transparent, la répartition des responsabilités va apparaître clairement : Qui du constructeur, de l’utilisateur, du gestionnaire, de la collectivité, a la plus grande responsabilité ? Comment peut-on faire ensemble pour améliorer les bilans basés sur des émissions réelles ? Quels sont les meilleurs investissements publics et privés à réaliser pour réduire les émissions réelles ?
+
+_x000D_
+
+Hyper-adapté à sa mission et transparent, le camion se robotisera également de plus en plus.
+
+_x000D_
+
+**Vers le camion robotisé**
+
+_x000D_
+
+L'Internet des Objets (lire l'article **[l'IdO, quelles conséquences sur la mobilité ?](/2010/01/linternet-des-objets-quelles-consequences-pour-la-mobilite.html)**) permettra de gérer la maintenance à distance selon l’usage réel du véhicule, en anticipant les problèmes, les usures. L'utilisation du véhicule sera géré en intégrant les processus complexes d'usures des composants en même temps que les livraisons à effectuer (ceci conduira à de nouvelles offres servicielles que **[Michelin Fleet Solutions](http://www.michelintransport.com/ple/front/affich.jsp?codeRubrique=20051018154228&lang=FR)** préfigure), ou le trafic temps réel ou encore la réservation des aires de livraisons. Des synergies avec les territoires permettront d’accéder à des données essentielles permettant d’optimiser encore l’exploitation des véhicules, leurs tournées, leurs livraisons, leurs remplissages.
+
+_x000D_
+
+Dans ce système, la conduite ne peut pas ne pas être « optimisé », au fur et à mesure les marges de manœuvre du chauffeur et les choix de trajets seront réduits, ses actions seront filtrées par des actionneurs électroniques qui délivrent les consignes aux machines. Progressivement, le chauffeur deviendra un superviseur d'un dispositif quasi-autonome. Les phases de conduite se réduiront. Des outils de pilotage et de gestion des véhicules seront déportés en dehors du véhicule, gérés soit par l'entreprise, soit par de nouveaux « optimiseurs ».
+
+_x000D_
+
+Puis des phases de conduite robotisée vont se mettre en place (le projet **[SARTRE](http://www.sartre-project.eu/en/Sidor/default.aspx)**). La mise en œuvre de convoi multi entreprises vous ouvrir de nouvelles questions juridiques et économiques : Quelles responsabilités ? Quelles assurances ? Quelles répartitions des gains énergétiques ? Le camion sera probablement le premier à rouler avec des phases autonomes.
+
+_x000D_
+
+**Vers le mégacamion ?**
+
+_x000D_
+
+Connecté, transparent, versatil, intégré dans des systèmes complexes multi-acteurs, à la fois capteur et fournisseur de connaissances, le camion pourrait encore grossir. Plus le véhicule est long et tracte des masses élevées, et plus il est efficace à la tonne transportée (ou en volume). Mais plus le mégacamion est efficace plus les marchandises sont potentiellement transportées par la route au lieu du rail.
+
+_x000D_
+
+Quelles acceptabilités sociales, économiques, environnementales pour ces mégacamions ? Avez-vous la possibilité de ne pas faire rouler des véhicules plus efficaces ? Peut on « utiliser » ce gisement de gains et éviter les effets rebonds ? Comment établir de façon neutre et précise l’impact des mégacamions ? Quelques pistes sous forme de questions …
+
+_x000D_
+
+Et si les mégacamions étaient limités à des territoires sans aucun offre ferroviaire et/ou à des marchandises spécifiques ? Et si les mégacamions étaient les premiers, de façon **obligatoire**, à être transparents en matière d’émissions polluantes, d’émissions de GES et de remplissages (pour faire des bilans précis et comptables de leurs utilisations, des contenus carbones des marchandises transportées, et tirer des enseignements des premières expérimentations) ? Et si les mégacamions étaient géolocalisés et tracés pour mieux rendre compte de leurs usages (là encore pour établir des bilans environnementaux et économiques précis) ?
+
+_x000D_
+
+**Le camion et le consommateur**
+
+_x000D_
+
+Le nombre de camion sur nos routes n’est que le reflet de nos modes de consommation. Compte tenu de sa performance, son utilisation doit être obligatoirement raisonnée car plus il sera efficace, plus le risque est grand de l’utiliser encore plus…
+
+_x000D_
+
+Le consommateur a là un rôle majeur car notre façon de consommer appelle en **conséquence** plus ou moins de demande de transport, plus ou moins loin, avec plus ou moins de flux tendu. Devenu transparent, et rendant des comptes, le système de transport permettra au consommateur d’accéder à de nouvelles informations essentielles comme le contenu carbone des produits transportés.
+
+_x000D_
+
+**Le constructeur de véhicule lourd, pour mettre en oeuvre ces transformations, aura su intégrer le numérique dans sa culture (lire l'article [pour une approche culturelle des mobilités numériques](/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques.html)) et aura former des pionniers (lire l'article [quel équipage ...](/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires.html)) pour mieux explorer son futur.**
+
+_x000D_
+** Intégré et simplifié dans notre Assistant Personnel de Consommation, nous ne pourrons plus dire que l’on ne savait pas …**

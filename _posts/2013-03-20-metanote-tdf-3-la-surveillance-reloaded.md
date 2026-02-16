@@ -1,0 +1,53 @@
+---
+layout: post
+title: "MétaNote TdF 3, La surveillance - reloaded"
+date: 2013-03-20 11:45:43 +0100
+categories: []
+tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "catastrophe", "citoyen", "collectivit\u00e9", "confiance", "congestion", "donn\u00e9es r\u00e9elles", "Europe", "internet des objets", "management de la mobilit\u00e9", "p\u00e9age urbain", "roadpricing"]
+---
+
+La **[précédente MétaNote Tdf N°3](/2010/03/apres-la-surveillance-la-sousveillance.html)** portant sur le sujet a été rédigée il y a 3 ans (déjà !). Les tendances identifiées se réalisent toutes, et elles s'accélèrent. Automatisation et Robotisation des radars de contrôle dont les drones, utilisation des technologies numériques nomades pour tracer et apprendre les pratiques réelles notamment dans les transports, industrialisation de ces technologies fusionnées avec nos vêtements-nos lunettes-nos montres ...
+
+_x000D_
+
+**Et si les techniques de surveillance et les acteurs associés structuraient les Transports du Futur et notamment les pratiques et les comportements ?**
+
+_x000D_
+
+Avec l'effondrement des prix des technologies, les "besoins" de sécurité et de contrôle, tous les éléments s'assemblent pour amener à l'hypersurveillance décrite par Jacques Attali dans son livre *[Une brève histoire de l'avenir](http://fr.wikipedia.org/wiki/Une_br%C3%A8ve_histoire_de_l)*. Les faits sont les suivants.
+
+_x000D_
+_x000D_
+
+Récemment [**Wired** ](http://www.wired.com/threatlevel/2013/03/gps-warrant-requirement/)indiquait qu'aux USA, l'implantation d'un GPS dans un véhicule pour des questions de contrôle pourrait se faire sans aucune justification. Les [**drones** ](http://www.liberation.fr/monde/2013/03/17/des-drones-civils-dans-le-ciel-americain-pour-le-meilleur-ou-pour-le-pire_889185)à usage civil connaissent des développements inédits notamment aux USA. Couplés aux évolutions numériques (traitement d'image notamment), ils permettent le suivi d'un même véhicule ou d'une personne au quotidien (voir cet **[article](http://www.aclu.org/blog/technology-and-liberty-free-speech-national-security/drone-nightmare-scenario-now-has-physical)** et cette **[vidéo](http://www.youtube.com/watch?feature=player_embedded&v=13BahrdkMU8)**).
+
+_x000D_
+
+[![Drone_argus](/assets/images/old/6a0120a66d2ad4970b017ee9953126970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017ee9953126970d-pi.jpg)_x000D_
+Citroën commercialise en Angleterre une **[C1 Connexion](http://info.citroen.co.uk/new-cars/car-range/citroen-c1/offers/?i=specialedition)** équipée par le constructeur d'une [**boite noire** ](http://www.carsuk.net/citroen-c1-gets-insurance-black-box-as-standard-orwellian-control-arrives/)permettant de proposer une offre d'assurance à prix réduit notamment pour les jeunes conducteurs. Cette forme d'auto-surveillance via un tiers (ici l'assureur qui aura accès à de nouvelles connaissances sur les pratiques réelles) est donc "vendue". Et en même temps, aux USA, le **[NHTSA](http://www.dot.gov/briefing-room/us-dot-proposes-broader-use-event-data-recorders-help-improve-vehicle-safety)** propose une loi visant à mettre dans tous les véhicules une boite noire pour des questions de compréhension des accidents à partir de 2014. Enfin, la portabilité de capteur s'amplifie : Google glass, montre Apple, smartphone. Nous devenons des "gisements" de données, pour nous, mais également pour des tiers, ceux qui seront capables de les collecter, de leur donner du sens. Déjà des mouvements **[anti-Google glass](http://www.generation-nt.com/mouvement-anti-google-glass-intensifie-toile-actualite-1708722.html)** apparaissent. Est ce que l'imprévisibilité d'une technologie n'est pas proportionnelle à sa puissance et son impact sur nos vies ?
+
+_x000D_
+
+Tous ces faits sont basés sur les mêmes processus : pour être acceptable, ils portent d'abord sur des questions de sécurité, de réduction des accidents, puis ils voudront s'étendre. La principale question devient : quel(s) acteur(s) posséderont les données ? qui pourra faire les recoupements entre plusieurs champs: transports, santé, salaire, habitat ... Nous constaterons que nous avons tout intérêt à répartir la production des données, mais également leurs usages à tous les "niveaux" de la société, à soutenir des **struc[tures bottom-up](/2013/03/creer-de-nouvelles-connaissances-le-fond-et-la-forme.html)** qui équilibreront les volontés top-down. C'est toute une culture numérique à développer.
+
+_x000D_
+
+**La plaine du Pô, août 2024.** Ceci est une fiction ...
+
+_x000D_
+
+*Ironie de l'histoire, ce sont les émissions polluantes des transports qui nous protègent. Cet été 2024 est particulièrement chaud dans la plaine du Pô, connue pour concentrer les émissions polluantes. Ce "nuage" nous protège des drônes et de leurs nouveaux capteurs sensés être capable de tracer par mauvais temps. Ainsi pendant quelques mois, nos données échappent aux structures de surveillance mises en oeuvre il y a maintenant 5 ans. Pour quelques centaines d'euros, vous pouvez également leurrer votre boite noire en l'alimentant avec des capteurs virtuels. Si la météo le permet, pendant quelques jours, vous êtes insurveillables ...*
+
+_x000D_
+
+*L'Union Européenne s'était inspirée des lois américaines de protection du territoire, et avait imposé la mise en oeuvre de boite noire dans tous les véhicules. Ce fût d'abord pour des questions de sécurité et d'accès aux connaissances d'un accident, puis la boite noire a été utilisée, comme sur les camions dès les années 2015, pour mettre en oeuvre de nouvelles taxes basées sur l'usage réel du véhicule. Ainsi, en complément des taxes sur les carburants, un nouvelle taxe "congestion" se base sur l'usage réel de votre voiture, les horaires de déplacement, les routes utilisées ou encore le nombre de personne dans la voiture. Conduire seul à 8h00 du matin est devenu hors de prix ! La congestion a été réduite rapidement, mais ces mesures posent de nombreuses questions sur la protection des données et de la vie privée. Les compagnies d'assurance utilisent également ces données pour ajuster, à posteriori, vos tarifs. *
+
+_x000D_
+
+*Beaucoup d'acteurs publics mais surtout privés sont impliqués dans les nombreuses chaînes de production, de traitement et de mise en forme des données. Nous ne savons plus qui possèdent quelles données, qui peut faire des recoupements ? Des mouvements citoyens se sont créés pour montrer d'autres voies, d'autres façons d'utiliser les mêmes technologies, pour demander d'avoir connaissance de leurs données (qui les possède, pour en faire quoi), pour inventer de nouveaux modes de management de la mobilité. Tout s'était joué dans les années 2013-2015, à ce moment, il est encore temps ...*
+
+_x000D_
+
+_x000D_
+
+_x000D_

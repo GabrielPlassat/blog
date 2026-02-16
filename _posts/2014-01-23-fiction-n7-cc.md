@@ -1,0 +1,90 @@
+---
+layout: post
+title: "[fiction N°7] La Plateformisation a commencé"
+date: 2014-01-23 00:03:32 +0100
+categories: []
+tags: []
+---
+
+*« La valeur de la donnée disparaît quand on parvient à lui en donner une. Il faudra fixer la valeur en remontant le temps. De là est née l’idée du traceur informationnel», Mathieu – 2027.*
+
+_x000D_
+
+Dire que tout avait commencé en 2015 dans un village, 300 habitants, les pionniers. Ils s'étaient engagés volontairement dans une démarche de co-construction de services citoyens sans voir attendus ni les acteurs marchands, ni la puissance publique, sans savoir si **ça** allait fonctionner. En fait, ce mouvement avait été visible dans plusieurs communautés au niveau mondial. Vers 2014, [**La ville de Chicago**](http://www.atelier.net/trends/articles/chicago-prone-analyse-predictive-open-source-gestion-villes_426874) avait mis en œuvre une plateforme open source pour gérer certains services urbains, puis rapidement elle a été réutilisée : ouverte aux citoyens et alimenter par eux pour co-produire des nouveaux services et alimentée par des données de façon volontaire. La mise à disposition d'outils numériques distribués et ouverts avait fourni un socle. Le basculement est apparu quand la technologie avait permis d’augmenter le niveau de confiance et de libérer les échanges de richesses entre citoyen. Le changement a été immédiat, brutal pour certains. La pression exercée par les contraintes budgétaires, énergétiques et environnementales, d'une part, et par la domination des plateformes mondiales majeures (Google, Amazon, Facebook, Amazon), d'autre part, avait participé à cette mutation. Devenus acteurs de son futur, cette communauté locale est maintenant capable de mieux se mobiliser, mieux représenter l'impact de ses actions, de maximiser l'usage de ses richesses (lire [**les articles sur les richesses**](/?s=richesse)). Plus que tout, ce collectif coordonné inspire les initiatives individuelles, les renforce, les catalyse, leur donne du sens et se faisant il devient plus performant.
+
+_x000D_
+_x000D_
+
+**GAFA et BitCloud**
+
+_x000D_
+
+Il a fallu attendre 2014-2015 pour faire comprendre au plus grand nombre que les GAFA alimentaient leurs modèles (numériques, prédictifs, économiques) en mettant à disposition des plateformes séduisantes et en captant une partie des richesses produites par l'activité des consommateurs. "*Plutôt une stratégie délibérée, un usage intensif du design, de longs tests d’utilisation, un ouvrage cent fois remis sur le métier jusqu’à ce que l’expérience de l’utilisateur soit parfaite, fluide, rassurante. Nos géants du Net ont compris, mieux encore que les génies du marketing à l’ancienne, la force d’un usage ritualisé.*" ([**l'âge de la Multitude, Nicolas Colin, Henri Verdier**](https://kindle.amazon.com/profile/PLASSAT-Gabriel/3472684/public_notes/2)). Les données générées par les usagers étaient immédiatement valorisées pour faire évoluer les plateformes, pour esquisser le besoin d'un produit ou d'un service marchand, pour construire des typologies de consommateur et finalement nous cartographier. Les GAFA avaient étendu leur zone de production de données stratégiques, au début uniquement sur leur place de marché, puis désormais partout. Rien ne leur échappe. Ni vos communications. Ni vos déplacements. Ni votre activité quotidienne à l'intérieur de votre maison et à l'extérieur. Ni vos consommations d'énergie. Tous les lieux, tout le temps. Les progrès réalisés dans les algorithmes prédictifs rendaient des services pour "mieux" consommer, pour moins perdre de temps, pour être en meilleure santé, mais progressivement cette hypersurveillance était devenue évidente et de moins en moins acceptée. Tout était question d'équilibre entre les bénéfices et les risques réels et supposés. Des [**éclaireurs**](http://www.latribune.fr/actualites/economie/france/20140114trib000809375/comment-preparer-l-economie-francaise-au-choc-du-numerique-une-mission-va-s-y-employer.html) avaient joué un rôle essentiel pour révéler ces dynamiques en cours à tous les acteurs marchands, aux pouvoirs publics et aux citoyens. Dès 2014, Valérie Peugeot indiquait notamment (lire l’article intégral [**Les biens communs : un outil politique pour repenser notre rapport à la technologie)**](http://www.internetactu.net/2014/01/22/les-biens-communs-un-outil-politique-pour-repenser-la-technologie/)qu’il fallait considérer la donnée en tant que « commun ». Cette notion de « commun » ne remplace pas le public et le privé, elle le complète : *“Pour rééquilibrer les choses, nous avons besoin de nouvelles perspectives théoriques et pratiques, de nouvelles règles de gouvernement, de changer les régimes de propriété […] Nous avons besoin de repenser la technique comme un objet politique à part entière, et ce d’autant que nous sommes dans une période où les mêmes outils peuvent nous amener vers des modèles de société très différents, à l’image des Big Data”*.
+
+_x000D_
+
+[![P2P_P_P](/assets/images/old/6a0120a66d2ad4970b019b0525456b970d-320wi.png)](/assets/images/old/6a0120a66d2ad4970b019b0525456b970d-pi.png)
+
+_x000D_
+
+Inspiré par le programme [**Datact**](http://www.groupechronos.org/projets/chantiers/datact-3-pour-co-produire-des-services), Mathieu, talentueux programmeur, avait réalisé, avec une équipe internationale, le premier « révélateur stockeur de données personnelles » et avait proposé plusieurs théories majeures sur les modèles d’échanges de richesses des données. Le « révélateur stockeur » était un outil citoyen conçu pour comprendre cet équilibre risques/bénéfices. Il affichait clairement pour qui, pourquoi les GAFA et autres plateformes marchandes utilisaient vos traces numériques ? à qui étaient-elles fournies ? pour quels bénéfices ? Puis vous pouvez décider de les aspirer intégralement, pour les stocker sur des serveurs sécurisés et gérer votre propre compte de data, votre Big Data perso. Vous décidez alors qui les utilise et pour quels usages, comme [**Green Button**](http://www.greenbuttondata.org/greenabout.html) le proposait déjà en 2013 dans le domaine de l'énergie. Des usages philanthropiques de vos données sont également possible ([**comme ce don d'activité physique pour ceux qui souffrent de la faim**](http://www.fastcoexist.com/3024311/how-to-translate-your-wearable-fitness-data-into-food-aid-donations)). Ce gisement de données avait naturellement fourni de la matière première à une plateforme citoyenne mondiale (à l'image de nombreux [**exemples actuels** ](http://p2pfoundation.net/Category:Villages)et de [**BitCloud**](http://boingboing.net/2014/01/17/bitcloud-bitcoin-like-system.html)). Et les premiers services citoyens territorialisés sont apparus dans ce village, tout simplement. Ces citoyens avaient tant de talents, de richesses dans un environnement contraint géographiquement et budgétairement.
+
+_x000D_
+
+**La valeur de la donnée personnelle**
+
+_x000D_
+
+Plusieurs projets avaient travaillé ce sujet dès les années 2010, les GAFA rachetant à coup de millions des comptes utilisateurs, riches de traces numériques. Depuis Mathieu avait forgé plusieurs concepts : la valeur de la donnée est fondante. Elle diminue avec le temps et il faut alors l’historiser pour capter et stocker sa valeur résiduelle. Sa valeur est maximale fraîche et « dans le mouvement ». C’est son hybridation avec d’autres données qui lui donnera, **à posteriori**, une valeur. En conséquence, le stockage et l’immobilisation de la donnée lui font perdre de la valeur. En conséquence encore, il faut accepter de fournir des données sans connaître, **à priori,** son usage et donc sa valeur. A l’extrême, dès que l’on connaît la valeur de la donnée, cela signifie qu’elle a été « croisée » avec d’autres données, qu’elle a généré un service, donc qu’elle est en train de perdre sa valeur.
+
+_x000D_
+
+Par contre, il sera nécessaire de pouvoir remonter le temps pour récompenser **à posteriori**, pour indiquer au porteur de la donnée l’intégralité des usages qui en ont été faits, pour attester le respect des consignes fournies par l’utilisateur. Inventé en 2018, l’idée d’associer à chaque donnée un « traceur informationnel » avait résolu ce problème. Ce traceur capitalise les usages faits des données et alimente le stockeur individuel : historique des usages, récompenses.
+
+_x000D_
+
+Enfin, la notion de comptabilité en euro de la valeur est totalement dépassée. Les richesses échangeables, mesurables et exprimables mises en jeux dans ces flux entre citoyens conduisent maintenant à travailler avec des constellations monétaires dès 2020. Devenue une commodité ([**comme BitCoin en Finlande en 2014**](http://www.sfgate.com/technology/article/Bitcoin-deemed-a-commodity-not-a-currency-in-5160291.php)), chaque monnaie est considérée comme une technologie. Cette dernière est dotée de caractéristiques spécifiques qui sont « designer » au cas par cas pour réaliser des objectifs fixés par chaque communauté : maintenir les flux dans un périmètre géographique donné, interdire des flux vers des produits/services énergivores, éviter l’accumulation et soutenir la circulation des richesses, etc… Depuis 2023, chaque collectif peut concevoir et exploiter facilement sa monnaie grâce à OpenCoin, une suite logicielle complète permettant de spécifier les propriétés, le volume total, crypter, se lier à d’autres monnaies, gérer les flux quotidiens, alimenter les modules de réputation et produire des comptabilités.
+
+_x000D_
+
+Ceci impose donc d’instaurer un niveau de confiance élevé et de s’entendre dès le départ sur les objectifs globaux visés. Pour cela, de nouvelles structures d’intérêt citoyen ont été créées au niveau local et supranational entre pairs, sous plusieurs formes juridiques. Tout le dispositif ne fonctionne et n’est visible qu’avec des données réelles en mouvement. Comme le vélo, il faut en faire et tomber pour apprendre.
+
+_x000D_
+
+**De l'intelligence collective originelle à l'intelligence collective holomidale**
+
+_x000D_
+
+Avec un peu de recul, cette émergence n'avait rien du hasard. Les innovations sociales ont bien sûr toujours eu lieu dans des collectifs humains, cette capacité à produire et faire émerger des communs (une organisation, une loi, une conscience), sans limiter les capacités et facultés individuelles. Au départ, limité à de petits groupes de personnes en relation directe (une tribu, une équipe, un groupe de musique), l'intelligence collective originelle va évoluer dans certains cas vers l'intelligence collective pyramidale. Cette dernière, grâce à l'écriture et l'imprimerie, se caractérise par une organisation stable et structurée, des procédures, avec des objectifs fixes et prévisibles. Ainsi équipés les collectifs humains réalisent de grands projets grâce à cette forme d'intelligence sociale, qui dominait largement au début du XXIème siècle. Pour améliorer l'exécution des procédures, ces industries avaient fait naître au milieu du XXème siècle, l'ordinateur. D'abord inscrit dans la structure pyramidale fermée, il est devenu individuel et relié à l'extérieur de l'entreprise.
+
+_x000D_
+
+Sans le savoir, cette rupture allait faire émerger une nouvelle forme d'intelligence, l'intelligence collective holomidale, reliant des citoyens entre eux, sans structure de commandement, horizontalement, et en grand nombre. Au début, nous étions maladroits et pourtant de nombreuses richesses avaient déjà émergé (lire [**cet article de Valérie Peugeot sur Les collectifs numériques, source d'imaginaire politique**](http://fr.slideshare.net/transportsdufutur/valerie-peugeot-collectifsnumeriques)) : partage de savoirs, monnaies alternatives, réhabilitation urbaine, solidarités intergénérationnelles ou de quartier, énergies alternatives, financements participatifs, gestion de conflits, troc de semences, circuits courts de consommation, recyclage, do-it-yourself, carte contributive. Dans le domaine des transports, nombreux sont les [**exemples d'initiatives décentralisées, collaboratives de pair à pair**](http://p2pfoundation.net/Category:Transportation).
+
+_x000D_
+
+**Individuation et "Commonisation"**
+
+_x000D_
+
+Compte tenu des progrès des dispositifs numériques, ces collectifs progressaient vite dans la capacité à construire des communs dans des environnements complexes et imprévisibles tout en favorisant l'individuation, la capacité pour chacun de cultiver et d'exprimer ses talents. De toutes ces forces créatrices, il avait fallu les cartographier pour mieux les utiliser, en parler et les faire progresser. Amandine avait travaillé ce sujet avec passion, convaincue qu'elle explorait un Univers nouveau, à fort contenu technologique. Paradoxalement, elle passait également de long mois dans les tribus primitives d'Amérique du Sud et d'Australie, pour comprendre, capitaliser et retranscrire cette Intelligence Collective (IC) originelle, si proche, de l'IC holomidale. Les publications du réseau d'Amandine avaient permis de progresser sur le design des plateformes et les outils associés, sur la base de données, sur les modèles d'affaires et surtout sur la compréhension des richesses échangées dans chaque collectif. Pour cela, un travail de fourmi a été réalisé, imposant de se plonger dans chaque communauté, d'oublier ses références, d'en comprendre le terreau qui lui a permis de germer, d'identifier les flux, pour faire ressortir [**les valeurs primaires**](http://noubel.fr/faq-richesse/) de toutes nos créations.
+
+_x000D_
+
+Amandine étudiait également les conséquences « individuelles » de ces évolutions collectives. Dans ces communautés, les talents individuels, de la programmation à la fabrication industrielle, sont essentiels, cultivés et reconnus. Ils sont amplifiés dans des cercles collectifs lors de projet pour réaliser des œuvres communes. Plus les richesses circulantes sont exprimées, plus la confiance et l’attractivité de la plateforme augmentent. Des acteurs marchands évoluent maintenant sans structure hiérarchique traditionnelle, comme [**Zappos** ](http://qz.com/161210/zappos-is-going-holacratic-no-job-titles-no-managers-no-hierarchy/)dès 2014.
+
+_x000D_
+
+**En cours de "plateformisation"**
+
+_x000D_
+
+[**Des projets portés par des pionniers**](http://fr.slideshare.net/transportsdufutur/botte-tec204moteur-dadaptation) avaient émergé dans les années 2010. Il n'a fallu finalement que 15 années pour qu'ils se déploient. Nous étions au début de dynamiques sociales inédites pour leur taille et leur énergie. La transformation en plateforme a accéléré et fédéré de nombreuses initiatives, a permis des mutualisations et des économies d'échelle et surtout a simplifié la capitalisation et la mise en valeur de toutes ces énergies. Chaque projet local peut non seulement s'appuyer sur une plateforme solide, fournissant de nombreuses ressources, permettant de mettre à disposition rapidement un nouveau service mais cette nouvelle activité va renforcer la plateforme en connaissances nouvelles, et lui proposer des évolutions et de nouvelles fonctionnalités.
+
+_x000D_
+
+De nombreux acteurs marchands développent également des services payants en exploitant ces plateformes citoyennes; la "plateformisation" des entreprises les oblige à se repenser, intégralement. Ainsi, dès 2015, pour contrer l'[**Open Automotive Alliance**](http://www.openautoalliance.net/#about) (permettant la diffusion d'Android dans de nombreux véhicules), un constructeur a développé une plateforme logicielle pour lui-même, puis, "c*ette plateforme est mise à disposition de tous les acteurs du marché (concessionnaires, garagistes, développeurs d’applications) et même des concurrents du constructeur – tout comme la *[*place de marché d’Amazon*](http://www.amazon.fr/gp/help/customer/display.html?ie=UTF8&nodeId=10384981)* est ouverte à tout vendeur ou la plateforme *[*Amazon Web Services*](http://aws.amazon.com/fr/)* est ouverte à toute entreprise technologique. Les bénéfices tirés de cette plateforme logicielle automobile permettent de maintenir la localisation en France et ainsi, dans une boucle vertueuse, d’augmenter sans cesse la cadence d’innovation sur les chaînes de production – car, rappelons-le, nous ne sommes pas sur le marché B2B des smartphones mais sur un marché B2C qui exige des itérations rapides.*" (extrait de cet article [**Redresser l'industrie automobile à l'âge de la multitude**](http://colin-verdier.com/redresser-lindustrie-automobile-a-lage-de-la-multitude/)). Dans certains territoires, des micro usines locales produisent des véhicules simples et partageables qui s’appuient sur cette plateforme logicielle commune. De vieux exemples comme [**OSVehicule**](http://www.youtube.com/watch?v=c1-EHlSxVMs) ou [**Local Motor**](http://www.youtube.com/watch?v=azCRuwtE_n0) montrent les bases historiques.
+
+_x000D_
+
+**Il peut sembler que ces changements d’organisations sont essentiellement portés par des technologies. Mais ce n’est que la partie visible. Tout cela a des conséquences et des évolutions sont également en cours en nous-mêmes. Les aspirations d’individuation ont bouleversé l’enseignement et les pratiques régulières d’activités dans des communautés d’intérêt ont également bouleversé la notion de travail. En conséquence, nos dynamiques collectives d’innovations ont profondément évolué** (lire [**un autre article**](/2013/10/les-nouveaux-dispositifs-dinnovations-collectifs.html) sur ce sujet).

@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Nos systèmes de transport et la révolution numérique, pourquoi cela va tout changer."
+date: 2012-04-05 09:25:00 +0100
+categories: []
+tags: ["autopartage", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "confiance", "congestion", "connectivit\u00e9", "covoiturage", "cybercar", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Energie", "Europe", "google", "gouvernance", "Infrastructure", "innovation", "intelligence collective", "management de la mobilit\u00e9", "marchandises", "mode doux", "multimodes", "partage de la voirie", "pens\u00e9e complexe", "qualit\u00e9 de l'air", "V\u00e9hicule", "v\u00e9hicule propre"]
+---
+
+En partant d’un exemple possible (présenté lors du [**séminaire Tuck**](http://www.fondation-tuck.fr/Reunions/IDees-29-03-2012/Seminaire-EM-Open-Innovation-29mars2012.pdf)), la Google car, les possibilités offertes par le numérique montrent des gains sans précédent dans le secteur des transports. Mais pour bénéficier de ces gains, il faudra identifier, comprendre et travailler tous les risques…
+
+_x000D_
+
+Imaginer… Déployer 50 000 robots roulants partagés sur une ville de 500 000 habitants et "supprimer" 200 000 voitures. Techniquement imaginable d’ici quelques années, le robot roulant. Une version existe déjà : Google car. Les mobilités seront équivalentes en véhicule.km mais elles seront beaucoup plus efficaces, rapides, économiques et sûres. **L’innovation principale ne viendra pas du robot mais du logiciel d’optimisation de la cohorte de robot sur un territoire étendu**. Le robot roulant, hybride entre le transport public-privé-collectif-individuel, sera configurable en fonction des villes, des pays, des infrastructures, des besoins : 2 à 20 places, les clés de répartition (nombre de véhicule à 2 places, à 4 places…) seront-elles aussi fonction des pratiques de mobilité, apprises en permanence par les robots eux-mêmes qui remonteront toutes les données. Ce ne sera plus une automobile, ce sera une plateforme servicielle partagée couplant tous les modes de transports. Le robot roulant sans chauffeur est, en fait, le prolongement des services d’autopartage-covoiturage-taxi... Des sièges libres sont mis en circulation, optimisés dans le seul but d’atteindre des objectifs : mobilité, énergie, coûts …
+
+_x000D_
+_x000D_
+
+Ce logiciel optimisera en temps réel, sous de multiples contraintes, évidement économique et énergétique, les trajets des 50 000 véhicules pour maximiser l’usage de ces objets, le temps de circulation et le temps d’attente, tout en réduisant le TCO. Le logiciel déterminera la circulation des robots pour des connections optimales avec les modes de transport publics ou les trains, permettant de mieux les utiliser et également de supprimer certaines lignes. [**Déjà aujourd’hui 70% de nos mobilités sont prévisibles**](/2010/03/notre-mobilite-estelle-previsible-ou-modelisable.html). De complexes modèles économiques calculeront les prix en fonction du temps d’attente pour avoir un robot et du temps de parcours ; plus on accepte une optimisation des trajets, plus le prix sera bas. Un kilométrage social sera également possible : 3000 km par an gratuit (déjà [**abordé sous l'angle des taxes**](/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite.html)).
+
+_x000D_
+
+Ce méta-système de mobilité sera dominé par les acteurs du numérique, des données, et du logiciel, ces derniers créant les règles d’optimisation, donc les règles économiques. Ils auront également accès à toutes les données d’usage, développer des bases de connaissances sans précédent sur les paramètres influents les pratiques de mobilité, sur les temporalités. ***Les données deviennent le carburant, alimentant les moteurs d’apprentissage***. Nos mobilités seront connues, elles seront mêmes prévisibles plusieurs jours à l’avance. L’opération du système pourra être délégué à un sous-traitant ; les robots roulants seront achetés en masse comme une commodité par les opérateurs. Optimiser les systèmes de mobilités impose de se centrer sur les changements de comportement induits par de nouvelles offres de mobilité qui conduiront à leur tour à offrir d’autres opportunités donc d’autres usages. Les géants du numériques auront également développé la couche supérieure permettant de comprendre à la fois l’impact d’un système de mobilité, mais également les boucles rétroactives, c'est-à-dire l’acceptation de l’humain pour mieux, en retour, re-concevoir le système de mobilité.
+
+_x000D_
+
+Le nombre de passager par robot aura plus que doubler en l’espace de 5 ans, conduisant à des bénéfices énergétiques 5 fois plus rapide que les progrès technologiques sur les moteurs/énergies ou l’architecture d’une voiture. Les robots seront par ailleurs plus efficaces que les voitures conduites par des humains, utiliseront toutes les énergies disponibles (fossile ou électrique). La recharge énergétique sera elle aussi automatique. Mais plus que tout, ces robots auront définitivement changés notre relation à l’automobile, il y aura de moins de moins de conducteur ; déjà aujourd’hui, de moins de moins de personnes passent le permis.
+
+_x000D_
+
+Ce futur probable d’ici une dizaine d’années pourrait avoir des conséquences majeures sur l’industrie automobile actuelle, dans tous les pays du monde même ceux qui ne sont pas « pleins » d’automobiles : (beaucoup) moins de véhicule, achetés de plus en plus par des professionnels qui ne raisonneront que TCO, de moins en moins de conducteur (difficile de vendre du plaisir de conduire). Ce futur *probable* n’arrivera *sans doute* pas sans choc énergétique, environnemental (pollution de l’air) ou économique, car il faudra que la société accepte aujourd’hui l’inacceptable.
+
+_x000D_
+
+Faire rouler des robots impose de risquer, avec une probabilité plus faible qu’un humain, de tuer un humain. Cela se fait déjà sur des rails ou dans les airs, mais ce n’est pour le moment pas accepté dans nos rues, devant nos écoles... C’est d’ailleurs la première règle fixée par [**M.Asimov**](http://fr.wikipedia.org/wiki/Isaac_Asimov). Pourtant les personnes âgées pour des questions d’indépendance, les jeunes pour des questions d’assurance et de moyens financiers pourraient être les premiers intéressés. Mais également les collectivités et l'Etat pour ne pas payer les pénalités financières pour non respect des plafonds qualité de l’air, pour assurer de façon beaucoup plus efficace et économique des services de mobilités publiques, ou encore pour réduire sa facture énergétique sans pénaliser les activités économiques.
+
+_x000D_
+
+Les données deviennent le carburant qui alimente les modèles d’apprentissage ; les codes des logiciels deviennent les organisateurs fixant les règles du jeu; les concepteurs des logiciels prendront alors la position centrale, le cœur des systèmes de transports. Bien sûr des risques, tout aussi importants que les opportunités identifiés ci-dessus, apparaîtront. Douglas Rushkoff, dans [***les 10 commandements de l’ère numérique***](http://www.amazon.fr/Les-10-commandements-l%C3%A8re-numerique/dp/2916571655), nous brosse avec lucidité les principales conséquences néfastes de nos vies numériques, et identifie les progrès que nous devons, tous, accomplir pour maîtriser les risques et saisir les opportunités. « *Alors que nous nous dirigeons vers un monde de plus en plus numérique, nous ne devons pas nous contenter d’utiliser des programmes, nous devons apprendre à en faire nous-mêmes. Dans ce monde émergent, aux contours fortement programmés, soit vous créez le logiciel, soit vous serez le logiciel. C’est aussi simple que ça : **programmez ou vous serez programmé**. Dans le premier cas, vous aurez accès à la table de commande de la civilisation. Mais si vous choisissez l’autre option, cela pourrait bien être là votre dernier choix *».
+
+_x000D_
+
+D.Rushkoff reprend les trois principales évolutions humaines à travers l’écriture, le livre puis le numérique. A chaque saut technologique lié à nos modes de communication, nos organisations humaines ont évolué. Mais à chaque fois, la majorité a largement sous employé chaque technologie : seule une élite a appris à écrire, la plupart ont écouté des récits ; puis seule une élite a été écrivain, la plupart ont lu les livres ; aujourd’hui, seule une élite écrit les programmes, la plupart utilisent les logiciels, les machines sans connaître les règles écrites dans les programmes, alors que ces derniers dictent de plus en plus nos choix. En effet, cette fois-ci, la puissance du numérique est bien supérieure et « *un échec pourrait conduire à abandonner notre pouvoir collectif naissant aux machines elles-mêmes. Le processus a d’ailleurs déjà commencé* ».
+
+_x000D_
+
+Pour résumer, il est désormais techniquement possible de remplacer environ un tiers à la moitié des véhicules individuels possédés par trois fois moins de robots roulants optimisés en cohorte, permettant de massives économies d’énergies et de polluants, sans trop modifier nos mobilités en volume. Ces robots permettront de beaucoup mieux utiliser nos infrastructures, nos modes lourds et nos modes doux ; ils seront potentiellement gérés pour atteindre des objectifs collectifs. **Cette opportunité passe par une acceptation sociale des risques et des bénéfices, avant ou après les chocs à venir**. Il faudra donc développer des outils de compréhension des risques/bénéfices pour tous les acteurs, agir massivement sur la formation de tous ces acteurs pour que les règles d’optimisation des machines soient largement comprises, débattues puis choisies.
+
+_x000D_
+
+Les murs énergétiques, environnementaux des secteurs de la mobilité et de la logistique, aujourd’hui infranchissables avec des réponses cloisonnées de ces secteurs, peuvent être dépassés, si nous saisissons les opportunités offertes par le numérique. Mais nous ne pourrons saisir ces opportunités que si chacun de nous, dans son métier, se forme, apprenne, comprenne, et intègre les risques associés pour mieux les maîtriser.

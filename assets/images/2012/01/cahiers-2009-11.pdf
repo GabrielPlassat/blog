@@ -1,0 +1,1458 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+<head>
+    
+    <title>
+        
+    Désolé, la page que vous demandez est introuvable à cette adresse
+
+    </title>
+    
+    <meta name="Description" content="Plan du site de la direction g&#233;n&#233;rale du Tr&#233;sor." lang="fr"/>
+    <meta http-equiv="x-ua-compatible" content="IE=9" />
+    <link href="/Content/Styles/print.css" rel="stylesheet" media="print"/>
+
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/site.min.css?r=E73F9E8DE3AA533E8D1A754511EDD239" />
+    <script type="text/javascript" src="/Scripts/Trash/site.min.js?r=565E66D623137BD53F90D55F56D1BA65"></script>
+
+    
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.tresor.economie.gouv.fr//Content/Img/favicon.ico" />
+</head>
+<body id="home">
+
+    
+<div id="EnTete">
+
+    <div id="LogoInstitu">
+        <a href="http://www.economie.gouv.fr/" target="_blank">
+            <img src="/Content/Img/logo_top_left.jpg" alt="Liberté, Égalité, Fraternité, République Française" />
+        </a>
+        
+        <a id="DgTresor" href="/">
+            <img src="/Content/Img/Tresor.png" width="200" alt="Trésor Direction générale" />
+        </a>
+    </div>
+    <div id="Annexe">
+        <div class="sub1">
+            <ul>
+                <li class="rss">
+                    <a href="/RssList">Flux RSS</a>
+                </li>
+            </ul>
+            <form action="/Recherche" id="RechercheForm" method="post" name="RechercheForm"><input class="clearInput" id="RechercheKeyWords" name="RechercheKeyWords" type="text" value="Recherche" />
+            <input type="hidden" id="rechercheUrl" name="rechercheUrl" value="" />
+            <input type="hidden" id="isKeywordSearch" name="isKeywordSearch" value="true" />
+            <input type="image" src="/Content/img/bt_ok.gif" value="Ok"
+                class="button" title="Lancer une recherche sur le site"/>
+            </form>
+       
+        </div>
+    </div>
+</div>
+<div id="DivNavigationPrincipale"> 
+    <ul id="NavigationPrincipale" class="sf-menu sf-js-enabled">
+        
+        <li id="NavItem1" class="sf-with-ul" style="z-index: 3;"><span
+            class="sf-with-ul">
+            Europe et international
+        </span>
+            <ul style="display: none;">
+                
+                <li class="sf-with-ul">
+                    <a href="/gouvernance-economique-europeenne">Gouvernance &#233;conomique europ&#233;enne</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/gouvernance-economique-multilaterale">Gouvernance &#233;conomique multilat&#233;rale</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/aide-au-developpement">Aide au d&#233;veloppement</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/cadre-des-echanges-et-des-investissements-internationaux">Cadre des &#233;changes et des investissements internationaux</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/sanctions-financieres-internationales">Sanctions financi&#232;res internationales</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/relations-economiques-bilaterales">Relations &#233;conomiques bilat&#233;rales</a>
+                    
+                </li>
+                
+            </ul>
+        </li>
+        
+        <li id="NavItem2" class="sf-with-ul" style="z-index: 3;"><span
+            class="sf-with-ul">
+            Financement de l&#39;&#233;conomie
+        </span>
+            <ul style="display: none;">
+                
+                <li class="sf-with-ul">
+                    <a href="/instances-de-regulation-du-secteur-financier">Instances de r&#233;gulation du secteur financier</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/gouvernance-des-entreprises">Gouvernance des entreprises</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/banques-et-financements-dinteret-general">Banques et financements d&#39;int&#233;r&#234;t g&#233;n&#233;ral</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/assurances">Assurances</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/marches-financiers">March&#233;s financiers</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/gestion-de-la-dette-et-de-la-tresorerie-de-letat">Gestion de la dette et de la tr&#233;sorerie de l&#39;&#201;tat</a>
+                    
+                </li>
+                
+            </ul>
+        </li>
+        
+        <li id="NavItem3" class="sf-with-ul" style="z-index: 3;"><span
+            class="sf-with-ul">
+            Pr&#233;visions et politiques &#233;conomiques
+        </span>
+            <ul style="display: none;">
+                
+                <li class="sf-with-ul">
+                    <a href="/Previsions-macroeconomiques-et-de-finances-publiques">Pr&#233;visions macro&#233;conomiques et de finances publiques</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/Politiques-macroeconomiques-et-de-finances-publiques">Politiques macro&#233;conomiques et de finances publiques</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/politiques-publiques">Politiques publiques</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/echanges-et-investissements-internationaux">&#201;changes et investissements internationaux</a>
+                    
+                </li>
+                
+            </ul>
+        </li>
+        
+        <li id="NavItem4" class="sf-with-ul" style="z-index: 3;"><span
+            class="sf-with-ul">
+            D&#233;veloppement des entreprises
+        </span>
+            <ul style="display: none;">
+                
+                <li class="sf-with-ul">
+                    <a href="/financement-des-entreprises">Financement des entreprises</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/Financement-international-des-entreprises">Financement international des entreprises</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/dispositif-dappui-au-developpement-international">Dispositif d&#39;appui au d&#233;veloppement international</a>
+                    
+                </li>
+                
+            </ul>
+        </li>
+        
+        <li id="NavItem5" class="sf-with-ul" style="z-index: 3;"><span
+            class="sf-with-ul">
+            Publications et &#233;v&#233;nements
+        </span>
+            <ul style="display: none;">
+                
+                <li class="sf-with-ul">
+                    <a href="/chiffres-cles">Chiffres cl&#233;s</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/colloques-et-conferences">Colloques et conf&#233;rences</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/seminaires-economiques">S&#233;minaires &#233;conomiques</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/rapports">Rapports</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/publications-periodiques">Publications p&#233;riodiques</a>
+                    
+                </li>
+                
+            </ul>
+        </li>
+        
+        <li id="NavItem6" class="sf-with-ul" style="z-index: 3;"><span
+            class="sf-with-ul">
+            La direction g&#233;n&#233;rale du Tr&#233;sor
+        </span>
+            <ul style="display: none;">
+                
+                <li class="sf-with-ul">
+                    <a href="/missions-et-organisation">Missions et organisation</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/recrutement-et-rh">Recrutement et RH</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/consultations-publiques">Consultations publiques</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/Pays">Les services &#233;conomiques &#224; l&#39;&#233;tranger</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/Representations-aupres-dorganisations-internationales">Repr&#233;sentations aupr&#232;s d&#39;organisations internationales</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/les-services-en-region">Les services en r&#233;gion</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/les-services-a-competence-nationale">Les services &#224; comp&#233;tence nationale</a>
+                    
+                </li>
+                
+                <li class="sf-with-ul">
+                    <a href="/les-organismes-rattaches">Les organismes rattach&#233;s</a>
+                    
+                </li>
+                
+            </ul>
+        </li>
+        
+    </ul>
+</div>
+
+
+    <div id="ContainerCols">
+        
+    <div style="text-align: center">
+        <h3>Désolé, la page que vous demandez est introuvable à cette adresse.</h3>
+
+        <h3>Vous pouvez retourner à la page d'accueil, consulter le plan du site ci-dessous, ou utiliser le moteur de recherche.</h3>
+
+        <h3>Vous pouvez également nous contacter si aucune de ces solutions ne vous a aidé.</h3>
+    </div>
+    
+    
+<div id="FrameBodyN2">
+    <div class="full plan bkgBodyN2" id="ColA" style="max-width: 100% !important;">
+        <div class="RowA">
+            <h1>
+                Plan des pages</h1>
+        </div>
+        
+        <div class="contenu plan2">
+            <div class="inner">
+                <h2>
+                    <a title="" href="#">
+                        Europe et international</a>
+                </h2>
+                <div class="inner2">
+                    <ul>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/gouvernance-economique-europeenne">Gouvernance &#233;conomique europ&#233;enne</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/ecofin-eurogroupe">ECOFIN-Eurogroupe</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/comite-economique-et-financier">Comit&#233; &#233;conomique et financier</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Comite-de-politique-economique-europeen">Comit&#233; de politique &#233;conomique europ&#233;en</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Europe-de-la-supervision">Europe de la supervision</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/budget-europeen">Budget europ&#233;en</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/gouvernance-economique-multilaterale">Gouvernance &#233;conomique multilat&#233;rale</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/g20g8g7">G20/G8/G7</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/presidence-francaise-du-g20-et-du-g8">Pr&#233;sidence fran&#231;aise du G20 et du G8</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/institutions-financieres-internationales">Institutions financi&#232;res internationales</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/financement-multilateral-de-lenvironnement-et-du-climat">Financement multilat&#233;ral de l&#39;environnement et du climat</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/club-de-paris">Club de Paris</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/conseil-de-stabilite-financiere">Conseil de stabilit&#233; financi&#232;re</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/comite-de-politique-economique-de-locde">Comit&#233; de politique &#233;conomique de l&#39;OCDE</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/comite-edr-de-locde">Comit&#233; EDR de l&#39;OCDE</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/omc---negociations-commerciales-multilaterales">OMC - n&#233;gociations commerciales multilat&#233;rales</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/aide-au-developpement">Aide au d&#233;veloppement</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/budget-de-laide-publique-au-developpement">Budget de l&#39;aide publique au d&#233;veloppement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/dette-des-pays-en-developpement">Dette des pays en d&#233;veloppement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/cooperation-monetaire-la-zone-franc">Coop&#233;ration mon&#233;taire : la Zone franc</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/aide-au-commerce">Aide au commerce</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/financements-innovants-du-developpement-et-du-climat">Financements innovants du d&#233;veloppement et du climat</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/conversion-de-creance-en-investissement">Conversion de cr&#233;ance en investissement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/transferts-de-fonds-des-migrants-et-inclusion-financiere">Transferts de fonds des migrants et inclusion financi&#232;re</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/institutions-francaises">Institutions fran&#231;aises</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/evaluation">&#201;valuation des activit&#233;s de d&#233;veloppement</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/cadre-des-echanges-et-des-investissements-internationaux">Cadre des &#233;changes et des investissements internationaux</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/ale">Accords de libre-&#233;change</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/accords-de-protection-des-investissements">Accords de protection des investissements</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/autorisations-prealables-des-investissements-etrangers-en-france">Autorisations pr&#233;alables des investissements &#233;trangers en France</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/defense-commerciale">D&#233;fense commerciale</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/lutte-contre-le-blanchiment-des-capitaux-et-le-financement-du-terrorisme">Lutte contre le blanchiment des capitaux et le financement du terrorisme</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Lutte-contre-la-corruption">Lutte contre la corruption</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/pcn">Point de contact national </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/propriete-intellectuelle-et-lutte-contre-la-contrefacon">Propri&#233;t&#233; intellectuelle et lutte contre la contrefa&#231;on</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/sanctions-financieres-internationales">Sanctions financi&#232;res internationales</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/daeshterrorisme">Daesh/Terrorisme</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/bielorussie">Bi&#233;lorussie</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/birmanie-myanmar">Birmanie / Myanmar</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/congo-republique-demdu">Congo (R&#233;publique d&#233;m.du)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/coree-du-nord">Cor&#233;e du Nord</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/cote-divoire-ancien-regime">C&#244;te d&#39;Ivoire (ancien r&#233;gime)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/egypte-ancien-regime">&#201;gypte (ancien r&#233;gime)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/erythree">&#201;rythr&#233;e</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/guinee-bissau">Guin&#233;e-Bissau</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/guinee-republique-de">Guin&#233;e (R&#233;publique de)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/historique">Historique</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/iran">Iran</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/irak-ancien-regime">Irak (ancien r&#233;gime)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/liban-assassins-de-rafic-hariri">Liban (assassins de Rafic Hariri)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/liberia-ancien-regime">Lib&#233;ria (ancien r&#233;gime)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/libye-ancien-regime-">Libye (ancien r&#233;gime)       </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/macedoine-ancienne-republique-yougoslave-de">Mac&#233;doine (Ancienne R&#233;publique Yougoslave de)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/republique-centrafricaine">R&#233;publique centrafricaine</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/somalie">Somalie</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/soudan">Soudan</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/soudan-du-sud">Soudan du sud</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/syrie">Syrie</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/transnistrie-region-de-moldavie">Transnistrie (r&#233;gion de Moldavie)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/tunisie-ancien-regime">Tunisie (ancien r&#233;gime)</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/ukraine-russie-">Ukraine / Russie </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/yemen">Y&#233;men</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/zimbabwe">Zimbabwe</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/relations-economiques-bilaterales">Relations &#233;conomiques bilat&#233;rales</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/relations-franco-allemandes">Relations franco-allemandes</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="contenu plan2">
+            <div class="inner">
+                <h2>
+                    <a title="" href="#">
+                        Financement de l&#39;&#233;conomie</a>
+                </h2>
+                <div class="inner2">
+                    <ul>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/instances-de-regulation-du-secteur-financier">Instances de r&#233;gulation du secteur financier</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/comite2020">Place de Paris 2020</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/cclrf">Comit&#233; consultatif de la l&#233;gislation et de la r&#233;glementation financi&#232;res</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/CCSF">Comit&#233; consultatif du secteur financier</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/acpr">Autorit&#233; de contr&#244;le prudentiel et de r&#233;solution </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/AMF">Autorit&#233; des march&#233;s financiers</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Cooperation-entre-autorites">Coop&#233;ration entre autorit&#233;s</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/hcsf">Haut Conseil de Stabilit&#233; Financi&#232;re </a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/gouvernance-des-entreprises">Gouvernance des entreprises</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Autorite-des-Normes-Comptables">Autorit&#233; des Normes Comptables</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/haut-conseil-du-commissariat-aux-comptes">Haut Conseil du Commissariat aux Comptes</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/ARC">Comit&#233; R&#233;glementaire Comptable</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/efrag">Groupe consultatif europ&#233;en pour l&#39;information financi&#232;re</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/banques-et-financements-dinteret-general">Banques et financements d&#39;int&#233;r&#234;t g&#233;n&#233;ral</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/sepa">SEPA</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/financement-participatif-">Financement participatif </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Supervision-bancaire">Supervision bancaire</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Reglementation-bancaire">R&#233;glementation bancaire</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/fonds-de-garantie-des-depots">Fonds de garantie des d&#233;p&#244;ts</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/supervision-europeenne">Supervision europ&#233;enne</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/services-et-moyens-de-paiement">Services et moyens de paiement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/surendettement-et-accessibilite-bancaire">Surendettement et accessibilit&#233; bancaire</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/services-bancaires-et-credit-aux-particuliers">Services bancaires et cr&#233;dit aux particuliers</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/encadrement-des-remunerations">Encadrement des r&#233;mun&#233;rations</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/epargne-reglementee">&#201;pargne r&#233;glement&#233;e</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Logement-et-financement-dinteret-general">Logement et financement d&#39;int&#233;r&#234;t g&#233;n&#233;ral</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Outre-Mer">Outre-Mer</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/assurances">Assurances</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/nouvelles-regles-europeennes-de-lassurance-solvabilite-ii">Nouvelles r&#232;gles europ&#233;ennes de l&#39;assurance : Solvabilit&#233; II</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/acteurs-de-lassurance-entreprises-et-intermediaires">Acteurs de l&#39;assurance : entreprises et interm&#233;diaires</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/egalite-hommesfemmes-en-assurance-">&#201;galit&#233; hommes/femmes en assurance </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/assurances-obligatoires">Assurances obligatoires</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/assurance-dommages">Assurance dommages</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/assurance-emprunteur-la-convention-aeras">Assurance emprunteur : la convention AERAS</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/contrats-dassurance-vie-et-deces">Contrats d&#39;assurance vie et d&#233;c&#232;s</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/epargne-retraite">&#201;pargne retraite</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/risques-climatiques">Risques climatiques</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/marches-financiers">March&#233;s financiers</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/agences-de-notation">Agences de notation</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Epargne-salariale">&#201;pargne salariale</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Gestion-dactifs">Gestion d&#39;actifs</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Infrastructures-de-marche-et-post-marche">Infrastructures de march&#233; et post-march&#233;</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Instruments-financiers">Instruments financiers</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/petites-et-moyennes-entreprises">Petites et moyennes entreprises</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Taxe-sur-les-transactions-financieres">Taxe sur les transactions financi&#232;res</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/gestion-de-la-dette-et-de-la-tresorerie-de-letat">Gestion de la dette et de la tr&#233;sorerie de l&#39;&#201;tat</a>
+                            <ul>
+                                
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="contenu plan2">
+            <div class="inner">
+                <h2>
+                    <a title="" href="#">
+                        Pr&#233;visions et politiques &#233;conomiques</a>
+                </h2>
+                <div class="inner2">
+                    <ul>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/Previsions-macroeconomiques-et-de-finances-publiques">Pr&#233;visions macro&#233;conomiques et de finances publiques</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Rapport-economique-social-et-financier">Rapport &#233;conomique social et financier</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Autres-rapports-annexes-au-projet-de-loi-de-finances">Autres rapports annex&#233;s au projet de loi de finances</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Programme-de-stabilite">Programme de stabilit&#233;</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/debat-dorientation-des-finances-publiques">D&#233;bat d&#39;orientation des finances publiques</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Autres-documents-relatifs-aux-previsions">Autres documents relatifs aux pr&#233;visions</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Previsions-des-principales-institutions">Pr&#233;visions des principales institutions</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/Politiques-macroeconomiques-et-de-finances-publiques">Politiques macro&#233;conomiques et de finances publiques</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Finances-publiques">Finances publiques</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Programme-national-de-reforme">Programme national de r&#233;forme</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Rapport-du-Comite-EDR-de-lOCDE-sur-la-France">Rapport du Comit&#233; EDR de l&#39;OCDE sur la France</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Rapport-article-IV-du-FMI-sur-la-France">Rapport article IV du FMI sur la France</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Macroeconomie-internationale">Macro&#233;conomie internationale</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/politiques-publiques">Politiques publiques</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/politiques-sectorielles">Politiques sectorielles</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/politique-de-lemploi">Politique de l&#39;emploi</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/politiques-sociales">Politiques sociales</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/politiques-fiscales">Politiques fiscales</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/echanges-et-investissements-internationaux">&#201;changes et investissements internationaux</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/resultats-du-commerce-exterieur">R&#233;sultats du commerce ext&#233;rieur</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/investissements-etrangers-en-france">Investissements &#233;trangers en France</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/investissements-francais-a-letranger">Investissements fran&#231;ais &#224; l&#39;&#233;tranger</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Suivi-des-grands-contrats-dans-les-pays-emergents">Suivi des grands contrats dans les pays &#233;mergents</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="contenu plan2">
+            <div class="inner">
+                <h2>
+                    <a title="" href="#">
+                        D&#233;veloppement des entreprises</a>
+                </h2>
+                <div class="inner2">
+                    <ul>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/financement-des-entreprises">Financement des entreprises</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/bpifrance">Banque publique d&#39;investissement </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/entreprises-en-difficulte">Entreprises en difficult&#233;</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/bpifrance-financement-oseo">Bpifrance Financement - OSEO</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Economie-SocialeMicro-credit">&#201;conomie Sociale/Micro-cr&#233;dit</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Capital-investissement">Capital investissement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Observatoire-des-delais-de-paiement">Observatoire des d&#233;lais de paiement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Observatoire-du-financement-des-entreprises">Observatoire du financement des entreprises</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/Financement-international-des-entreprises">Financement international des entreprises</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/bpifrance-">bpifrance </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/pret-du-tresor">Pr&#234;t du Tr&#233;sor</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/fasep">Fonds d&#39;&#233;tude et d&#39;aide au secteur priv&#233;</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/garanties-publiques">Garanties publiques</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/assurance-credit">Assurance-cr&#233;dit</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/assurance-change">Assurance change</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Assurance-prospection">Assurance prospection</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Garantie-des-investissements">Garantie des investissements</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/garantie-du-risque-exportateur">Garantie du risque exportateur</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/dispositif-dappui-au-developpement-international">Dispositif d&#39;appui au d&#233;veloppement international</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Acteurs-de-lexport">Acteurs de l&#39;export</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Charte-de-lexport-coordination-des-acteurs">Charte de l&#39;export, coordination des acteurs</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Portage-des-PME-par-les-grands-groupes">Portage des PME par les grands groupes</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/VIE">Volontariats Internationaux en Entreprise</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/regles-multilaterales-encadrant-les-credits-a-lexportation">R&#232;gles multilat&#233;rales encadrant les cr&#233;dits &#224; l&#39;exportation</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="contenu plan2">
+            <div class="inner">
+                <h2>
+                    <a title="" href="#">
+                        Publications et &#233;v&#233;nements</a>
+                </h2>
+                <div class="inner2">
+                    <ul>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/chiffres-cles">Chiffres cl&#233;s</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/apd">Aide au d&#233;veloppement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/balance-des-paiements">Balance des paiements</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/chiffre-du-commerce-exterieur">Chiffre du commerce ext&#233;rieur</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/epargne-logement">&#201;pargne logement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/frais-de-mission">Frais de mission</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/reserves-de-change">R&#233;serves de change</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/seuils-de-lusure">Seuils de l&#39;usure</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/taux-de-chancellerie">Taux de chancellerie</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/taux-de-linteret-legal">Taux de l&#39;int&#233;r&#234;t l&#233;gal</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/tmo">Taux moyen de rendement des obligations des soci&#233;t&#233;s priv&#233;es</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/colloques-et-conferences">Colloques et conf&#233;rences</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/entretiens-du-tresor">Entretiens du Tr&#233;sor</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/forum-afrique">Forum Afrique</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/forumameriquelatine">Forum Am&#233;rique latine et Cara&#239;bes</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/forum-economique-franco-chinois-">Forum &#233;conomique franco-chinois </a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/autres-colloques-et-conferences-">Autres colloques et conf&#233;rences </a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/seminaires-economiques">S&#233;minaires &#233;conomiques</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Seminaire-Fourgeaud">S&#233;minaire Fourgeaud</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/seminaires-nasse">S&#233;minaires Nasse</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Seminaire-Politiques-de-lemploi">S&#233;minaire Politiques de l&#39;emploi</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/rapports">Rapports</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/rapports-dactivite-de-la-dg-tresor">Rapports d&#39;activit&#233; de la DG Tr&#233;sor</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/rapports-dactivite-du-ciri">Rapports d&#39;activit&#233; du CIRI</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/rapports-dactivite-du-club-de-paris">Rapports d&#39;activit&#233; du Club de Paris</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Autres-rapports">Autres rapports</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/publications-periodiques">Publications p&#233;riodiques</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/tresor-eco">Tr&#233;sor-&#201;co</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/tresor-economics">Tr&#233;sor-Economics</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/documents-de-travail">Documents de travail</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Economie-et-Prevision">&#201;conomie et Pr&#233;vision</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Cahiers-de-levaluation">Cahiers de l&#39;&#233;valuation</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/revue-propriete-intellectuelle-et-lutte-anti-contrefacon">Revue Propri&#233;t&#233; intellectuelle et lutte anti-contrefa&#231;on</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/publications-des-services-economiques">Publications des Services &#233;conomiques</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/publications-de-la-dp-">Publications de la DP </a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="contenu plan2">
+            <div class="inner">
+                <h2>
+                    <a title="" href="#">
+                        La direction g&#233;n&#233;rale du Tr&#233;sor</a>
+                </h2>
+                <div class="inner2">
+                    <ul>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/missions-et-organisation">Missions et organisation</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/gouvernance-et-organisation">Gouvernance et organisation</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/missions-et-valeurs">Missions et valeurs</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/recrutement-et-rh">Recrutement et RH</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/nos-engagements">Nos engagements</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/nos-metiers">Nos m&#233;tiers</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/nous-rejoindre">Nous rejoindre</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/nos-offres">Nos offres</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/consultations-publiques">Consultations publiques</a>
+                            <ul>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/Pays">Les services &#233;conomiques &#224; l&#39;&#233;tranger</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/cadrage-general">Cadrage g&#233;n&#233;ral</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/echanges-et-investissements">&#201;changes et investissements</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/situation-economique-et-financiere">Situation &#233;conomique et financi&#232;re</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/politique-commerciale">Politique commerciale</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/positions-multilaterales">Positions multilat&#233;rales</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/Representations-aupres-dorganisations-internationales">Repr&#233;sentations aupr&#232;s d&#39;organisations internationales</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/union-europeenne">Union europ&#233;enne</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/organisation-mondiale-du-commerce">Organisation mondiale du commerce</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/organisation-de-cooperation-et-de-developpement-economiques">Organisation de coop&#233;ration et de d&#233;veloppement &#233;conomiques</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/organisation-des-nations-unies">Organisation des Nations Unies</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/les-services-en-region">Les services en r&#233;gion</a>
+                            <ul>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/les-services-a-competence-nationale">Les services &#224; comp&#233;tence nationale</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Agence-France-Tresor">Agence France Tr&#233;sor</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/ape">Agence des Participations de l&#39;&#201;tat</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/apie">Agence du patrimoine immat&#233;riel de l&#39;&#201;tat</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/mission-dappui-aux-partenariats-public-prive">Mission d&#39;appui aux partenariats public-priv&#233;</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        <li style="margin-left: 0px !important;">
+                            <a href="/les-organismes-rattaches">Les organismes rattach&#233;s</a>
+                            <ul>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/AFD">Agence Fran&#231;aise de D&#233;veloppement</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/ancols">Agence Nationale de Contr&#244;le du Logement Social</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/business-france">Business France</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/Club-de-Paris">Club de Paris</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/cen">Commission &#233;conomique de la Nation</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/CIRI">Comit&#233; Interminist&#233;riel de Restructuration Industrielle</a>
+                                </li>
+                                
+                                <li style="margin-left: 1em !important;">
+                                    <a href="/expertise-france">Expertise France</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+    </div>
+
+    
+<div id="PiedDePageDGT">
+    <div class="catDGT">
+        <ul>
+            <li class="bleu">Direction générale du Trésor :</li>
+            <li>
+                <a href="/PlanDesPages">Plan des pages</a></li>
+            <li>
+                <a href="/RssList">Flux RSS</a></li>
+            <li>
+                <a href="/Contact">Contact</a></li>        
+            <li>
+                <a href="/MentionsLegales">Mentions l&#233;gales</a></li>   
+        </ul>
+    </div>
+</div>
+
+<div id="PiedDePage">
+  <div id="PiedDePageAnnexe">
+        <a href="http://www.service-public.fr/" title="Service Public" target="_blank">
+          <img src="/Content/Img/sp_petit.png" alt="Service Public" />
+            service-public.fr
+        </a>
+        <a href="http://www.legifrance.gouv.fr/" title="LEGIFRANCE, le service public de la diffusion du droit" target="_blank">
+          <img src="/Content/Img/legifrance_petit.png" alt="LEGIFRANCE, le service public de la diffusion du droit" />
+            legifrance.gouv.fr
+        </a>
+        <a href="http://www.gouvernement.fr" target="_blank">
+          <img alt="http://www.gouvernement.fr" src="/Content/Img/gouvernement_petit.png" />
+            gouvernement.fr
+        </a>
+
+        <a href="http://www.france.fr" target="_blank">
+          <img alt="France.fr" src="/Content/Img/france_petit.png" />
+            france.fr
+        </a>
+  </div>
+  <div id="PiedDePageEnd">
+    <p>&copy; Ministère des Finances et des Comptes publics - Ministère de l'Économie, de l’Industrie et du Numérique - 2014</p>
+    <span class="bt"></span>
+  </div>
+</div>
+            <script type="text/javascript">
+            <!--
+                xtnv = document;
+                xtsd = "http://logp4";
+                xtsite = "477350";
+                xtn2 =  "9";
+                xtpage =  "";
+                xtdi = "";  
+            //-->
+            </script>
+            <script type="text/javascript" src="http://www.tresor.economie.gouv.fr//scripts/Trash/xtcore.js"></script>
+            <noscript>
+                <img width="1" height="1" alt="" src="http://logp4.xiti.com/hit.xiti?s=477350&s2=&p=&di=&">
+            </noscript>
+       
+    
+    <div class="cookies-acceptance-panel hidden" id="acceptancePanel">
+        <span class="button-zone">
+            <a id="acceptCookiesLink" href="javascript:;">J'accepte</a>
+            <a href="/MentionsLegales">En savoir plus</a>
+        </span>
+        <span class="text-zone">
+            <strong>Ce site utilise des cookies</strong>
+            En naviguant sur notre site vous acceptez l'installation et l'utilisation des cookies sur votre ordinateur
+        </span>
+    </div>
+    
+    <script type="text/javascript" src="/Scripts/out.js?r=087F25EDB25F73000A2E7A6840075C06"></script>
+</body>
+</html>

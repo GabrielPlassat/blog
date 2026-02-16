@@ -1,0 +1,1501 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.ademe.fr/sites/all/themes/ademe/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="DC.Language" content="fr-FR" scheme="RFC3066" />
+<meta name="DC.Title" content="Accueil" lang="fr" />
+<meta name="URL" content="http://www.ademe.fr/homepage" />
+<meta property="og:site_name" content="ADEME" />
+<meta property="og:url" content="http://www.ademe.fr/" />
+<link rel="canonical" href="http://www.ademe.fr/" />
+<link rel="shortlink" href="http://www.ademe.fr/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="ADEME" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" />
+  <title>ADEME | Agence de l’Environnement et de la Maîtrise de l’Énergie</title>
+  <link type="text/css" rel="stylesheet" href="http://www.ademe.fr/sites/default/files/css/css_rEI_5cK_B9hB4So2yZUtr5weuEV3heuAllCDE6XsIkI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.ademe.fr/sites/default/files/css/css_TsqeEQUsY1iJZ6HOEV_8wZDgVv4a6deBthpm0xAq9Hw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.ademe.fr/sites/default/files/css/css_ygg0Ms_AeqxiwMAF5wcCypT5-x8_mzf0ZHeGHnrLjZs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.ademe.fr/sites/default/files/css/css_iKk1Tzr-Y2UTvhFe8tuUwEifLKhLqfN6bFbuOq-Pvzw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#4f89aa;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p,#sliding-popup .popup-content #popup-text div{color:#ffffff !important;}#sliding-popup .popup-content #popup-text a{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.ademe.fr/sites/default/files/css/css_AQRq0x45VYoREJ4GfmZRdntrj0wHQlD23GYDWAnwnik.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.ademe.fr/sites/default/files/css/css_pyaSi6Na8emYnWqFf6d5emt3BeWo41hfEEPMmSLnjj8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.ademe.fr/sites/default/files/css/css_MwEgsJPVJ2CoC6PEIk6G40IvpdJyEhOuvNLEf_0bNm0.css" media="print" />
+  <!--[if lt IE 9]>
+  <script src="/sites/all/themes/ademe/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-homepage fr i18n-fr" >
+    <div id="content">
+    <a class="accessibility" href="#page">Allez au contenu</a>
+    <a class="accessibility" href="#main-nav">Allez à la navigation</a>
+    <header id="header" role="banner">
+    <div class="inner">
+    <a href="/" class="logo" rel="home"><img src="http://www.ademe.fr/sites/all/themes/ademe/logo.png" alt="Revenir à l&#039;accueil du site www.ademe.fr" /></a><ul class="top-links"><li class="list-lang first"><ul class="lang"><li class="first last"><strong>FR</strong></li>
+</ul></li>
+<li class="has-drop"><a href="/" class="active">Accès directs</a><div class="dropdown quick"><div class="in"><p class="title">Accès directs</p><ul class="list"><li><a href="/appels-a-projets">Appels à projets</a></li>
+<li><a href="/marches">Publicité des marchés</a></li>
+<li><a href="http://formations.ademe.fr/" target="blank">Formations</a></li>
+<li><a href="/content/liste-implantations-lademe">Adresses et plans d&#039;accès</a></li>
+<li><a href="/recherche-et-innovation">Recherche et innovation</a></li>
+<li><a href="/expertises/changement-climatique-energie">Changement climatique et énergie</a></li>
+<li><a href="/expertises/energies-renouvelables-reseaux-stockage">Énergies renouvelables, réseaux et stockage</a></li>
+<li><a href="/expertises/air-bruit">Air et bruit</a></li>
+<li><a href="/expertises/batiment">Bâtiment</a></li>
+<li><a href="/expertises/mobilite-transports">Mobilité et transport</a></li>
+<li><a href="/expertises/urbanisme-amenagement">Urbanisme et aménagement</a></li>
+<li><a href="/expertises/sols-pollues">Sols pollués</a></li>
+<li><a href="/expertises/dechets">Déchets</a></li>
+<li><a href="/expertises/consommer-autrement">Consommer autrement</a></li>
+<li><a href="/expertises/economie-circulaire">Économie circulaire</a></li>
+<li><a href="/expertises/developpement-durable">Développement durable</a></li>
+<li><a href="/expertises/produire-autrement">Produire autrement</a></li>
+<li><a href="/particuliers-eco-citoyens">Particuliers et éco-citoyens</a></li>
+<li><a href="/entreprises-monde-agricole">Entreprises et monde agricole</a></li>
+<li><a href="/collectivites-secteur-public">Collectivités et secteur public</a></li>
+</ul></div></div></li>
+<li class=""><a href="/marches">Publicité des marchés</a></li>
+<li class="press last"><a href="http://www.presse.ademe.fr/" target="blank">Presse</a></li>
+</ul><form role="search" action="/recherche" method="get" id="form-quicksearch" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-query">
+  <label for="edit-query">Rechercher </label>
+ <input placeholder="Rechercher..." type="text" id="edit-query" name="query" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input name="" alt="Valider la recherche sur le site" type="image" id="edit-submit" src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-search.png" class="form-submit" /><a href="/recherche-avancee" class="link">Recherche avancée</a></div></form><nav class="desktop" role="navigation"><a href="#main-nav" class="toggle"><span>Menu</span></a><ul id="main-nav"><li class="expanded section-about first"><a href="/connaitre"><span>Nous connaître</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Nous connaître</span></p>
+<p>L’ADEME participe à la mise en œuvre des politiques publiques dans les domaines de l’environnement, de l’énergie et du développement durable.</p>
+<a href="/connaitre" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class="expanded first"><a href="/connaitre/presentation">Présentation</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/connaitre/presentation/contexte">Contexte</a></li>
+<li><a href="#" data-href="/connaitre/presentation/chiffres-cles">Chiffres clés</a></li>
+<li class="last"><a href="#" data-href="/connaitre/presentation/organisation">Organisation</a></li>
+</ul></li>
+</ul></li>
+<li class=""><a href="/dossier/aides-lademe">Aides de l&#039;ADEME</a></li>
+<li class="expanded"><a href="/connaitre/priorites-strategiques-missions">Priorités stratégiques et missions</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/connaitre/priorites-strategiques-missions/contrat-dobjectifs-etat-ademe">Le contrat d&#039;objectifs État-ADEME</a></li>
+<li><a href="#" data-href="/connaitre/priorites-strategiques-missions/scenarios-2030-2050">Les scénarios 2030-2050</a></li>
+<li><a href="#" data-href="/connaitre/priorites-strategiques-missions/strategies">Stratégies</a></li>
+<li class="last"><a href="#" data-href="/connaitre/priorites-strategiques-missions/evaluation-actions-lademe">Évaluation des actions de l’ADEME</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/connaitre/ressources-humaines">Ressources Humaines</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/lademe-recrute">L’ADEME recrute</a></li>
+<li><a href="#" data-href="/connaitre/ressources-humaines/lademe-handicap">L’ADEME et le handicap</a></li>
+<li class="last"><a href="#" data-href="/connaitre/ressources-humaines/demarche-ademe-exemplaire">Démarche ADEME exemplaire</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/connaitre/infos-pratiques">Infos pratiques</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/content/liste-implantations-lademe">Adresses et plans d&#039;accès</a></li>
+<li class="last"><a href="#" data-href="/connaitre/infos-pratiques/centre-documentation">Centre de documentation</a></li>
+</ul></li>
+</ul></li>
+<li class=" last"><a href="/ademeetvous">Ademe &amp; Vous</a></li>
+</ul><a href="/connaitre" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded section-research"><a href="/recherche-et-innovation"><span>Recherche et innovation</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Recherche et innovation</span></p>
+<p>L’activité de soutien à la Recherche Développement Innovation de l’ADEME s’inscrit dans les objectifs des politiques publiques en faveur de l’énergie et de l’environnement, et notamment ceux de la transition énergétique.</p>
+<a href="/recherche-et-innovation" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class="expanded first"><a href="/recherche-innovation/construire-visions-prospectives">Construire des visions prospectives</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/recherche-innovation/construire-visions-prospectives/feuilles-route">Les feuilles de route</a></li>
+<li class="last"><a href="#" data-href="/recherche-innovation/construire-visions-prospectives/scenarios-2030-2050-vision-energetique-volontariste">Scénarios 2030-2050: Une vision énergétique volontariste</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/recherche-innovation/strategie-recherche-developpement-innovation">Stratégie Recherche Développement et Innovation</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/recherche-innovation/strategie-recherche-developpement-innovation/dossier/lademe-acteur-recherche">L&#039;ADEME, acteur de la recherche</a></li>
+<li class="last"><a href="#" data-href="/recherche-innovation/strategie-recherche-developpement-innovation/objectifs-programmes-strategie-rdi-2014-2020">Objectifs et programmes de la stratégie RDI 2014-2020</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/recherche-innovation/financer-theses-recherche-linnovation">Financer les thèses, la recherche, l&#039;innovation</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/recherche-innovation/financer-theses-recherche-linnovation/faire-these-lademe">Faire sa thèse avec l&#039;ADEME</a></li>
+<li><a href="#" data-href="/recherche-innovation/financer-theses-recherche-linnovation/dossier/financer-projet-recherche">Financer votre projet de recherche</a></li>
+<li class="last"><a href="#" data-href="/recherche-innovation/financer-theses-recherche-linnovation/financer-linnovation-mise-marche">Financer l’innovation et la mise sur le marché</a></li>
+</ul></li>
+</ul></li>
+<li class=" last"><a href="/dossier/resultats-recherche">Résultats de recherche</a></li>
+</ul><a href="/recherche-et-innovation" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded section-expertise"><a href="/expertises"><span>Nos expertises</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Nos expertises</span></p>
+<p>Fruit d’une construction collective et d’une vision partagée, l’expertise de l’ADEME se décline sur ses domaines de missions et de compétences. </p>
+<a href="/expertises" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class="expanded first"><a href="/expertises/changement-climatique-energie">Changement climatique et énergie</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/changement-climatique-energie/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/changement-climatique-energie/conference-paris-climat-2015-cop21">La conférence Paris Climat 2015 - COP21</a></li>
+<li><a href="#" data-href="/expertises/changement-climatique-energie/elements-contexte">Éléments de contexte</a></li>
+<li><a href="#" data-href="/expertises/changement-climatique-energie/chiffres-cles-energie-climat">Les chiffres clés énergie climat</a></li>
+<li class="last"><a href="#" data-href="/expertises/changement-climatique-energie/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/energies-renouvelables-reseaux-stockage">Énergies renouvelables réseaux et stockage</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/energies-renouvelables-reseaux-stockage/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/energies-renouvelables-reseaux-stockage/elements-contexte">Éléments de contexte</a></li>
+<li><a href="#" data-href="/expertises/energies-renouvelables-reseaux-stockage/chiffres-cles-observation">Chiffres clés et observation</a></li>
+<li class="last"><a href="#" data-href="/expertises/energies-renouvelables-reseaux-stockage/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/air-bruit">Air et bruit</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/air-bruit/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/air-bruit/elements-contexte">Éléments de contexte</a></li>
+<li><a href="#" data-href="/expertises/air-bruit/chiffres-cles-observations">Chiffres clés et observations</a></li>
+<li class="last"><a href="#" data-href="/expertises/air-bruit/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/batiment">Bâtiment</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/batiment/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/batiment/elements-contexte">Éléments de contexte</a></li>
+<li><a href="#" data-href="/expertises/batiment/chiffres-cles-observations">Chiffres clés et observations</a></li>
+<li class="last"><a href="#" data-href="/expertises/batiment/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/mobilite-transports">Mobilité et transports</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/mobilite-transports/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/mobilite-transports/elements-contexte">Éléments de contexte</a></li>
+<li><a href="#" data-href="/expertises/mobilite-transports/chiffres-cles-observations">Chiffres clés et observations</a></li>
+<li class="last"><a href="#" data-href="/expertises/mobilite-transports/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/urbanisme-amenagement">Urbanisme et aménagement</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/urbanisme-amenagement/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/urbanisme-amenagement/elements-contexte">Éléments de contexte</a></li>
+<li class="last"><a href="#" data-href="/expertises/urbanisme-amenagement/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/sols-pollues">Sols pollués</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/sols-pollues/chiffres-cles-observation">Chiffres clés et observation</a></li>
+<li><a href="#" data-href="/expertises/sols-pollues/dossier/modalites-dintervention-lademe">Les modalités d’intervention de l’ADEME</a></li>
+<li class="last"><a href="#" data-href="/expertises/sols-pollues/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/dechets">Déchets</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/dechets/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/dechets/elements-contexte">Éléments de contexte</a></li>
+<li><a href="#" data-href="/expertises/dechets/chiffres-cles-observation">Chiffres clés et observation</a></li>
+<li class="last"><a href="#" data-href="/expertises/dechets/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/consommer-autrement">Consommer autrement</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/consommer-autrement/quoi-parle-t">De quoi parle-t-on ?</a></li>
+<li><a href="#" data-href="/expertises/consommer-autrement/elements-contexte">Éléments de contexte</a></li>
+<li><a href="#" data-href="/expertises/consommer-autrement/chiffres-cles-observations">Chiffres clés et observations</a></li>
+<li class="last"><a href="#" data-href="/expertises/consommer-autrement/passer-a-laction">Passer à l&#039;action</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/produire-autrement">Produire autrement</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/produire-autrement/production-industrielle-services">Production industrielle et services</a></li>
+<li><a href="#" data-href="/expertises/produire-autrement/produits-biosources">Produits biosourcés</a></li>
+<li><a href="#" data-href="/expertises/produire-autrement/production-agricole">Production agricole</a></li>
+<li class="last"><a href="#" data-href="/expertises/produire-autrement/production-forestiere">Production forestière</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/expertises/economie-circulaire">Économie circulaire</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first last"><a href="#" data-href="/expertises/economie-circulaire/approvisionnement-durable">Approvisionnement durable</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded last"><a href="/expertises/developpement-durable">Développement durable</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/expertises/developpement-durable/enjeux-orientations-strategiques">Enjeux-orientations stratégiques</a></li>
+<li><a href="#" data-href="/expertises/developpement-durable/chiffres-cles-observations">Chiffres clés et observations</a></li>
+<li><a href="#" data-href="/expertises/developpement-durable/quest-developpement-durable">Qu’est-ce que le développement durable ?</a></li>
+<li class="last"><a href="#" data-href="/expertises/developpement-durable/education-developpement-durable">Éducation au développement durable</a></li>
+</ul></li>
+</ul></li>
+</ul><a href="/expertises" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded section-international"><a href="/regional-international"><span>Régional et international</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Régional et international</span></p>
+<p>Dans la continuité de ses missions nationales, l’ADEME apporte son expertise sur la scène européenne et internationale.</p>
+<a href="/regional-international" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class=" first"><a href="/dossier/laction-territoriale">L’action territoriale</a></li>
+<li class=""><a href="/lademe-a-linternational">L’ADEME à l’international</a></li>
+<li class=""><a href="/dossier/etudes-veille-benchmarks-internationaux">Études, veille et benchmarks internationaux</a></li>
+<li class="expanded"><a href="/regional-international/lunion-europeenne">Dans l&#039;Union européenne</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/regional-international/lunion-europeenne/laction-lademe-politiques-programmes-communautaires">L&#039;action de l&#039;ADEME dans les politiques et programmes communautaires</a></li>
+<li><a href="#" data-href="/regional-international/lunion-europeenne/programmes-projets-europeens">Programmes et projets européens</a></li>
+<li><a href="#" data-href="/regional-international/lunion-europeenne/lademe-point-contact-national-cadre-programme-horizon-2020">L&#039;ADEME, Point de Contact National dans le cadre du programme Horizon 2020</a></li>
+<li class="last"><a href="#" data-href="/regional-international/lunion-europeenne/dossier/reseaux-clubs-europeens">Les réseaux et clubs européens</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/regional-international/monde">Dans le monde</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/dossier/initiatives-multilaterales-negociations-climat">Initiatives multilatérales et négociations sur le climat</a></li>
+<li class="last"><a href="#" data-href="/regional-international/monde/strategies-dactions-internationales">Stratégies d’actions internationales</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded last"><a href="/regional-international/promotion-linnovation-loffre-francaise">Promotion de l&#039;innovation et de l&#039;offre française</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/regional-international/promotion-linnovation-loffre-francaise/club-ademe-international-soutien-eco-innovations-francaises-a-linternational">Le Club ADEME International, un soutien pour les éco-innovations françaises à l’international</a></li>
+<li><a href="#" data-href="/regional-international/promotion-linnovation-loffre-francaise/promotion-eco-innovations-filieres-vertes-francaises">Promotion des éco-innovations et filières vertes françaises</a></li>
+<li><a href="#" data-href="/regional-international/promotion-linnovation-loffre-francaise/adaptation-outils-methodologies-lademe-a-linternational">Adaptation des outils et méthodologies de l’ADEME à l’international</a></li>
+<li class="last"><a href="#" data-href="/regional-international/promotion-linnovation-loffre-francaise/dispositifs-soutien-a-linternational">Les dispositifs de soutien à l’international</a></li>
+</ul></li>
+</ul></li>
+</ul><a href="/regional-international" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded section-telecharger"><a href="/actualites"><span>Actualités</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Actualités</span></p>
+<p></p>
+<a href="/actualites" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class=" first"><a href="/actualites">Toute l&#039;actu</a></li>
+<li class=""><a href="/actualites/appels-a-projets">Appels à projets</a></li>
+<li class=""><a href="/marches">Publicité des marchés</a></li>
+<li class=" last"><a href="/actualites/manifestations">Manifestations</a></li>
+</ul><a href="/actualites" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded section-telecharger"><a href="/mediatheque"><span>Médiathèque</span></a></li>
+<li class="expanded section-individual"><a href="/particuliers-eco-citoyens"><span>Particuliers et éco-citoyens</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Particuliers et éco-citoyens</span></p>
+<p>Projets, habitation, déplacements, vacances, loisirs, achats, déchets, pollution</p>
+<a href="/particuliers-eco-citoyens" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class="expanded first"><a href="/particuliers-eco-citoyens/financer-projet">Financer mon projet</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/financer-projet/construction">Construction</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/financer-projet/renovation">Rénovation</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/financer-projet/vehicule">Véhicule</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/particuliers-eco-citoyens/pollution-lair-bruit">Pollution de l&#039;air et bruit</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/pollution-lair-bruit/pollution-lair">La pollution de l’air</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/pollution-lair-bruit/nuisances-sonores">Les nuisances sonores</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/particuliers-eco-citoyens/habitation">Mon habitation</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/habitation/opter-qualite">Opter pour la qualité</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/habitation/conseils-acheter-logement">Conseils pour acheter un logement</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/habitation/bien-gerer-habitat">Bien gérer mon habitat</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/habitation/construire">Construire</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/habitation/renover">Rénover</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/habitation/jardiner-autrement">Jardiner autrement</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/particuliers-eco-citoyens/dechets">Mes déchets</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/dechets/questions-reponses">Questions / Réponses</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/dechets/bien-jeter">Bien jeter</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/dechets/reduire-dechets">Réduire mes déchets</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/particuliers-eco-citoyens/bureau">Au bureau</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/bureau/economiser-lelectricite">Économiser l’électricité</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/bureau/leau">L’eau</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/bureau/reduire-dechets">Réduire les déchets</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/bureau/chauffage-climatisation">Le chauffage et la climatisation</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/bureau/deplacements">Les déplacements</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/bureau/lancer-demarche-entreprise">Lancer une démarche dans votre entreprise</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/particuliers-eco-citoyens/deplacements">Mes déplacements</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/deplacements/debarrasser-vieille-voiture">Se débarrasser de sa vieille voiture</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/deplacements/choisir-voiture-adopter-lecoconduite">Choisir sa voiture et adopter l&#039;écoconduite</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/deplacements/nouveaux-moyens-deplacer">Les nouveaux moyens pour se déplacer</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/deplacements/transports-commun-marche-velo">Transports en commun, marche et vélo</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/particuliers-eco-citoyens/vacances-loisirs">Mes vacances et loisirs</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/vacances-loisirs/jouer-ligne">Jouer en ligne</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/vacances-loisirs/concilier-sport-environnement">Concilier sport et environnement</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/vacances-loisirs/participer-a-eco-manifestations">Participer à des éco-manifestations</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/vacances-loisirs/passer-vacances-eco-responsables">Passer des vacances éco-responsables</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/particuliers-eco-citoyens/achats">Mes achats</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/particuliers-eco-citoyens/achats/alimentation">Alimentation</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/beaute-hygiene">Beauté et hygiène</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/produits-dentretien">Produits d’entretien</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/textile-chaussures">Textile et chaussures</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/fournitures-scolaires">Fournitures scolaires</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/papeterie">Papeterie</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/eclairage">Éclairage</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/bricolage">Bricolage</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/electromenager">Électroménager</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/bureautique">Bureautique</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/audiovisuel">Audiovisuel</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/telephonie">Téléphonie</a></li>
+<li><a href="#" data-href="/particuliers-eco-citoyens/achats/ameublement">Ameublement</a></li>
+<li class="last"><a href="#" data-href="/particuliers-eco-citoyens/achats/produits-jardin">Produits pour le jardin</a></li>
+</ul></li>
+</ul></li>
+<li class=" last"><a href="/guides-fiches-pratiques">Les guides et fiches pratiques</a></li>
+</ul><a href="/particuliers-eco-citoyens" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded section-pro"><a href="/entreprises-monde-agricole"><span>Entreprises et monde agricole</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Entreprises et monde agricole</span></p>
+<p>Démarches et solutions environnementales, éco-innovation, labels et certifications</p>
+<a href="/entreprises-monde-agricole" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class="expanded first"><a href="/entreprises-monde-agricole/organiser-demarche-environnementale">Organiser ma démarche environnementale</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/entreprises-monde-agricole/organiser-demarche-environnementale/dossier/impliquer-salaries">Impliquer mes salariés</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/organiser-demarche-environnementale/dossier/eco-concevoir-produits">Écoconcevoir mes produits</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/organiser-demarche-environnementale/dossier/optimiser-achats">Optimiser mes achats</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/organiser-demarche-environnementale/optimiser-logistique">Optimiser ma logistique</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/organiser-demarche-environnementale/systeme-management-lenvironnement">Système de management de l’environnement</a></li>
+<li class="last"><a href="#" data-href="/entreprises-monde-agricole/organiser-demarche-environnementale/projeter-long-terme-enjeu-majeur-toutes-entreprises">Se projeter sur le long terme : un enjeu majeur pour toutes les entreprises</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/entreprises-monde-agricole/reduire-impacts">Réduire mes impacts</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/maitriser-lenergie-bureaux">Maîtriser l&#039;énergie dans mes bureaux</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/maitriser-lenergie-atelier-production">Maîtriser l&#039;énergie dans mon atelier de production</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/maitriser-lenergie-exploitation-agricole">Maîtriser l&#039;énergie dans mon exploitation agricole</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/optimiser-pratiques-agricoles">Optimiser mes pratiques agricoles</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/produire-utiliser-energies-renouvelables">Produire et utiliser des énergies renouvelables</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/reduire-cout-dechets">Réduire le coût de mes déchets</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/reduire-emissions-polluants">Réduire mes émissions de polluants</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/maitriser-lenergie-transports">Maîtriser l&#039;énergie dans mes transports</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/optimiser-mobilite-salaries">Optimiser la mobilité de mes salariés</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/optimiser-transports-marchandises">Optimiser mes transports de marchandises</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/optimiser-transports-voyageurs">Optimiser les transports de voyageurs</a></li>
+<li class="last"><a href="#" data-href="/entreprises-monde-agricole/reduire-impacts/intervenir-site-pollue">Intervenir sur un site pollué</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/entreprises-monde-agricole/innover-developper">Innover et se développer</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/entreprises-monde-agricole/innover-developper/developper-projet-recherche-demonstration-dinnovation">Développer un projet de recherche et de démonstration</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/innover-developper/investissements-davenir">Investissements d&#039;Avenir</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/innover-developper/commercialiser-technologie-produit-innovant">Commercialiser une technologie ou un produit innovant</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/innover-developper/creer-eco-entreprise">Créer mon éco-entreprise</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/innover-developper/developper-a-lexport">Me développer à l’export</a></li>
+<li class="last"><a href="#" data-href="/entreprises-monde-agricole/innover-developper/acheter-technologie-innovante">Acheter une technologie innovante</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/entreprises-monde-agricole/labels-certifications">Labels et certifications</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/entreprises-monde-agricole/labels-certifications/entreprise-batiment">Entreprise du bâtiment</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/labels-certifications/transporteur">Transporteur</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/labels-certifications/amenageur">Aménageur</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/labels-certifications/bureaux-detudes">Les bureaux d’études</a></li>
+<li class="last"><a href="#" data-href="/entreprises-monde-agricole/labels-certification/autres-secteurs-dactivite">Autres secteurs d’activité</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/entreprises-monde-agricole/peut-maider">Qui peut m&#039;aider ?</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/entreprises-monde-agricole/peut-maider/acteurs-professionnels">Acteurs professionnels</a></li>
+<li><a href="#" data-href="/entreprises-monde-agricole/peut-maider/acteurs-publics-territoriaux">Acteurs publics territoriaux</a></li>
+<li class="last"><a href="#" data-href="/entreprises-monde-agricole/peut-maider/outils-dedies-differents-acteurs">Des outils dédiés aux différents acteurs</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded last"><a href="/entreprises-monde-agricole/financer-projet">Financer mon projet</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/entreprises-monde-agricole/financer-projet/aides-ademe">Aides de l’ADEME</a></li>
+<li class="last"><a href="#" data-href="/entreprises-monde-agricole/financer-projet/autres-financements">Autres financements</a></li>
+</ul></li>
+</ul></li>
+</ul><a href="/entreprises-monde-agricole" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded section-community last"><a href="/collectivites-secteur-public"><span>Collectivités et secteur public</span></a><ul class="dropdown sub"><li class="inner first last"><ul><li class="category first"><p class="title"><span>Collectivités et secteur public</span></p>
+<p>Équipements, services, domaines d&#039;intervention, territoires, financement</p>
+<a href="/collectivites-secteur-public" class="btn-type-01">Accéder à la rubrique</a>                                   </li>
+<li class="sub-nav last"><ul><li class="expanded first"><a href="/collectivites-secteur-public/gerer-equipements-services">Gérer mes équipements et  services</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/collectivites-secteur-public/gerer-equipements-services/demarche-decoresponsabilite">La démarche d’écoresponsabilité</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/gerer-equipements-services/mobilite-agents-flotte-vehicules">Mobilité des agents et flotte de véhicules</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/gerer-equipements-services/batiments-equipements">Bâtiments-équipements</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/gerer-equipements-services/eclairage-public">Éclairage public</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/gerer-equipements-services/achats-commande-publique">Achats et commande publique</a></li>
+<li class="last"><a href="#" data-href="/collectivites-secteur-public/gerer-equipements-services/dechets-services-publics">Déchets des services publics</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention">Intégrer l&#039;environnement dans mes domaines d&#039;intervention</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention/qualite-lair-exterieur">Qualité de l’air extérieur</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention/urbanisme-amenagement">Urbanisme et aménagement</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention/renovation-lhabitat">Rénovation de l&#039;habitat</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention/mobilite-transports">Mobilité et transports</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention/dechets">Déchets</a></li>
+<li class="last"><a href="#" data-href="/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention/production-distribution-denergie">Production et distribution d&#039;énergie</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/collectivites-secteur-public/animer-territoire">Animer mon territoire</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/collectivites-secteur-public/animer-territoire/role-collectivites-territoriales">Le rôle des collectivités territoriales</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/animer-territoire/demarches-planifier-agir">Démarches pour planifier et agir</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/animer-territoire/observer-territoire">Observer mon territoire</a></li>
+<li><a href="#" data-href="/collectivites-secteur-public/animer-territoire/mobiliser-acteurs-territoire">Mobiliser les acteurs de mon territoire</a></li>
+<li class="last"><a href="#" data-href="/collectivites-secteur-public/animer-territoire/developper-linnovation-territoire">Développer l&#039;innovation sur mon territoire</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded last"><a href="/collectivites-secteur-public/financer-projet">Financer mon projet</a><ul class="super-sub-nav sub"><li class="first last"><ul><li class="first"><a href="#" data-href="/collectivites-secteur-public/financer-projet/aides-ademe">Aides ADEME</a></li>
+<li class="last"><a href="#" data-href="/collectivites-secteur-public/financer-projet/autres-financements">Autres financements</a></li>
+</ul></li>
+</ul></li>
+</ul><a href="/collectivites-secteur-public" class="btn-type-01 clone">Accéder à la rubrique</a></li>
+</ul></li>
+</ul></li>
+</ul></nav>  </div>
+  </header>
+<div id="page">
+  <div id="page-inner" class="page-cols section-home">
+        <div class="utilities">
+          </div>
+            <section id="main" role="main">
+        <div class="tabs"></div>
+<div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-views pane-homepage"  >
+  
+      
+  
+  <div class="pane-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      <div id="node-7427" class="node node-hp clearfix">
+        <h1 class="accessibility">Agence de l'Environnement et de la Maîtrise de l’Énergie</h1>
+
+    <h2 class="main-title"><span>À la une</span></h2>
+        <div class="block-type-01">
+      <div class="inner">
+        <div class="carousel">
+                      <div class="controls">
+              <a href="#" rel="prev" class="control previous" title="Slide précédent"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-arrow-03.png" alt="Slide précédent" /></a>              <div class="pager">
+                <a href="#" title="Aller au slide #1" class="selected">1</a>
+<a href="#" title="Aller au slide #2">2</a>
+<a href="#" title="Aller au slide #3">3</a>
+<a href="#" title="Aller au slide #4">4</a>
+<a href="#" title="Aller au slide #5">5</a>              </div>
+              <a href="#" class="control next" rel="next" title="Slide suivant"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-arrow-04.png" alt="Slide suivant" /></a>              <a href="#" class="control play-pause play" title="Play/Pause"><span class="picto-play"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-play.png" alt="Play" /></span><span class="picto-pause"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-pause.png" alt="Pause" /></span></a>            </div>
+          
+          <ul>
+              <li data-index="1"><div class="wrapper">
+  <h3 class="sub-title">Manifestation les 16 &amp; 17 Juin 2015</h3>
+  <a href="http://www.ademe.fr/actualites/manifestations/2e-assises-leconomie-circulaire" class="picture">  <div class="figure" >
+        <img src="http://www.ademe.fr/sites/default/files/styles/homepage_hero/public/assets/images/2e-assises-economie-circulaire.jpg?itok=u7sK7Xwg" width="389" height="292" /></div>
+  </a>  <div class="content"  data="--http://www.ademe.fr/actualites/manifestations/2e-assises-leconomie-circulaire--">
+            <a href="http://www.ademe.fr/actualites/manifestations/2e-assises-leconomie-circulaire">
+      <h4 class="title">2èmes Assises de l&#039;économie circulaire</h4>
+      <p>Ces Assises sont l'occasion de :</p>
+
+<ul><li>faire le point sur les avancées ;</li>
+	<li>présenter les démarches et méthodes disponibles ;</li>
+	<li>partager de nombreux retours d’expérience.</li>
+</ul><p>Inscrivez-vous aux Assises de l’économie circulaire : les 16 &amp; 17 juin 2015 à Paris.<br /><br /><a href="https://twitter.com/hashtag/aec2015" target="_blank" title="Suivez l’événement sur twitter (nouvelle fenêtre)">Rendez-vous sur Twitter : #AEC2015</a></p>
+    </a>
+    <p class="tags">
+  Mots-clés : 
+          <a href="/recherche?query=ECONOMIE%20CIRCULAIRE">ECONOMIE CIRCULAIRE</a>,           <a href="/recherche?query=CHANGEMENT%20CLIMATIQUE">CHANGEMENT CLIMATIQUE</a>    </p>
+  </div>
+</div></li>
+  <li data-index="2"><div class="wrapper">
+  <h3 class="sub-title">Événement</h3>
+  <a href="http://www.ademe.fr/actualites/manifestations/exposition-innovclimat" class="picture">  <div class="figure" >
+        <img src="http://www.ademe.fr/sites/default/files/styles/homepage_hero/public/assets/images/expo-innov-climat.jpg?itok=aYKB7jld" width="389" height="292" /></div>
+  </a>  <div class="content"  data="--http://www.ademe.fr/actualites/manifestations/exposition-innovclimat--">
+            <a href="http://www.ademe.fr/actualites/manifestations/exposition-innovclimat">
+      <h4 class="title">Découvrez les solutions climat de demain !</h4>
+      <p>L’exposition Innov'Climat vous présente les prototypes et maquettes des innovations qui vont changer notre quotidien. Rendez-vous sur le Parvis de l’Hôtel de Ville de Paris du 3 au 8 juillet prochain !<br /><br />
+Rendez-vous sur twitter : #InnovClimat</p>
+    </a>
+    <p class="tags">
+  Mots-clés : 
+          <a href="/recherche?query=CLIMAT">CLIMAT</a>,           <a href="/recherche?query=CHANGEMENT%20CLIMATIQUE">CHANGEMENT CLIMATIQUE</a>,           <a href="/recherche?query=INNOVATION">INNOVATION</a>,           <a href="/recherche?query=INVESTISSEMENT">INVESTISSEMENT</a>    </p>
+  </div>
+</div></li>
+  <li data-index="3"><div class="wrapper">
+  <h3 class="sub-title">Le Mag ADEME &amp; VOUS nº86</h3>
+  <a href="http://www.ademe.fr/transition-energetique-actions-entrez-lere-leconomie-circulaire" class="picture">  <div class="figure" >
+    <p class="copyright">&copy; Getty Images</p>
+    <img src="http://www.ademe.fr/sites/default/files/styles/homepage_hero/public/assets/images/ademe_et_vous_une.jpg?itok=bPBZ9uRg" width="389" height="292" /></div>
+  </a>  <div class="content"  data="--http://www.ademe.fr/transition-energetique-actions-entrez-lere-leconomie-circulaire--">
+            <a href="http://www.ademe.fr/transition-energetique-actions-entrez-lere-leconomie-circulaire">
+      <h4 class="title">Entrez dans l&#039;ère de l&#039;économie circulaire ! </h4>
+      <p><span style="color: rgb(83, 83, 84); line-height: 19.6px;">Issu de la révolution industrielle, le modèle classique de l’économie linéaire – production, distribution, consommation, gestion des déchets – a atteint ses limites. L’augmentation de la population mondiale, la pénurie annoncée de nombreuses ressources et les impacts environnementaux croissants sonnent l’heure de l’économie circulaire.</span><br /><br /><span style="color: rgb(83, 83, 84); line-height: 19.6px;">Lire le dossier </span>nº86 - Transition énergétique en actions : Entrez dans l'ère de l'économie circulaire !</p>
+    </a>
+    <p class="tags">
+  Mots-clés : 
+          <a href="/recherche?query=TRANSITION%20ENERGETIQUE">TRANSITION ENERGETIQUE</a>,           <a href="/recherche?query=ECONOMIE%20CIRCULAIRE">ECONOMIE CIRCULAIRE</a>,           <a href="/recherche?query=CHANGEMENT%20CLIMATIQUE">CHANGEMENT CLIMATIQUE</a>    </p>
+  </div>
+</div></li>
+  <li data-index="4"><div class="wrapper">
+  <h3 class="sub-title">Projet de loi</h3>
+  <a href="https://www.ademe.fr/actualites#actualite-113849" class="picture" target="blank">  <div class="figure" >
+    <p class="copyright">&copy; ADEME</p>
+    <img src="http://www.ademe.fr/sites/default/files/styles/homepage_hero/public/assets/images/transition_croissance_verte.jpg?itok=JFIcm62Z" width="389" height="292" alt="Transition Énergétique pour la croissance verte" /></div>
+  </a>  <div class="content"  data="--https://www.ademe.fr/actualites#actualite-113849--">
+            <a href="https://www.ademe.fr/actualites#actualite-113849" target="blank">
+      <h4 class="title">Transition énergétique pour la croissance verte</h4>
+      <p>Le projet de loi relatif à la transition énergétique pour la croissance verte a été voté à l'Assemblée nationale ce mardi 26 mai 2015.<br /><br />
+Retrouvez plus de détails sur le vote.</p>
+    </a>
+    <p class="tags">
+  Mots-clés : 
+          <a href="/recherche?query=TRANSITION%20ENERGETIQUE">TRANSITION ENERGETIQUE</a>,           <a href="/recherche?query=POLITIQUE%20DE%20L%27ENVIRONNEMENT">POLITIQUE DE L&#039;ENVIRONNEMENT</a>,           <a href="/recherche?query=POLITIQUE%20ENERGETIQUE">POLITIQUE ENERGETIQUE</a>    </p>
+  </div>
+</div></li>
+  <li data-index="5"><div class="wrapper">
+  <h3 class="sub-title">Innovation</h3>
+  <a href="http://www.ademe.fr/entreprises-monde-agricole/innover-developper/investissements-davenir" class="picture">  <div class="figure" >
+    <p class="copyright">&copy; ADEME</p>
+    <img src="http://www.ademe.fr/sites/default/files/styles/homepage_hero/public/a-la-une_investissements-avenir.jpg?itok=mnrFsQRZ" width="389" height="292" alt="Investissements d&#039;Avenir" /></div>
+  </a>  <div class="content"  data="--http://www.ademe.fr/entreprises-monde-agricole/innover-developper/investissements-davenir--">
+            <a href="http://www.ademe.fr/entreprises-monde-agricole/innover-developper/investissements-davenir">
+      <h4 class="title">Investissements d&#039;Avenir</h4>
+      <p>Retrouvez toute l'actualité des Investissements d'Avenir de l'ADEME :</p>
+
+<ul><li><a href="/entreprises-monde-agricole/innover-developper/investissements-davenir/thematiques-concernees">Les thématiques concernées</a></li>
+	<li><a href="/entreprises-monde-agricole/innover-developper/investissements-davenir/modes-dintervention">Les interventions en aides d’État</a></li>
+	<li><a href="/entreprises-monde-agricole/innover-developper/investissements-davenir/interventions-fonds-propres-quasi-fonds-propres">Les interventions en fonds propres ou quasi fonds propres</a></li>
+	<li><a href="/entreprises-monde-agricole/innover-developper/investissements-davenir/projets-laureats">Les projets lauréats</a></li>
+</ul>    </a>
+    <p class="tags">
+  Mots-clés : 
+          <a href="/recherche?query=RECHERCHE%20ET%20DEVELOPPEMENT">RECHERCHE ET DEVELOPPEMENT</a>,           <a href="/recherche?query=INNOVATION">INNOVATION</a>,           <a href="/recherche?query=ENTREPRISE">ENTREPRISE</a>    </p>
+  </div>
+</div></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+          <div class="block-type-11">
+        <div class="inner">
+          <div class="block-type-02">
+            <div class="inner">
+              <h2 class="title">L’ADEME à votre service</h2>
+
+              <div class="desc">
+                <p>Opérateur de l’État pour la transition écologique, l’ADEME met à votre disposition son expertise et ses services pour vous orienter dans toutes vos démarches.</p>
+              </div>
+              <ul>
+                <!--
+THIS FILE IS NOT USED AND IS HERE AS A STARTING POINT FOR CUSTOMIZATION ONLY.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+  <li class="section-default"><a href="http://www.ademe.fr/appels-a-projets?appels-en-cours=1&amp;investissements-davenir=1">Investissements d&#039;Avenir : tous les appels à manifestations d&#039;intérêt en cours</a></li>
+  <li class="section-individual"><a href="http://www.ademe.fr/particuliers-eco-citoyens/habitation/opter-qualite/choisir-professionnel-rge">Particuliers et éco-citoyens : pour vos travaux, optez pour la qualité</a></li>
+  <li class="section-pro"><a href="http://www.ademe.fr/entreprises-monde-agricole/labels-certifications/entreprise-batiment/comprendre-mention-reconnu-garant-lenvironnement">Entreprises du bâtiment : comprendre la mention « Reconnu Garant de l’Environnement »</a></li>
+  <li class="section-community"><a href="http://www.ademe.fr/collectivites-secteur-public/integrer-lenvironnement-domaines-dintervention/dechets/maitriser-couts-ajuster-financement/dossier/connaitre-couts/outils-gestion-dechets-matrice-couts-methode-comptacoutr">Collectivités et secteur public : connaître le coût des déchets</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+        <div class="ademe-in-one-line-blocks">
+      <ul>
+        <li>
+          <div class="block-type-12">
+            <div class="inner">
+              <h2 class="title">ADEME &amp; VOUS</h2>
+              <div class="mag-carousel">
+  <a href="#" class="control previous" rel="prev" title="Publication précédente"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-arrow-05.png" alt="Publication précédente" /></a>  <ul>
+          <li><a href="http://www.ademe.fr/sites/default/files/assets/documents/ademe-et-vous-86-magazine.pdf" target="blank">
+   <div class="figure">
+       <img src="http://www.ademe.fr/sites/default/files/styles/block_publications_asset/public/assets/images/ademeetvous-86.jpg?itok=eYMDmRze" width="230" height="195" />  </div>
+  <div class="desc">
+    <p class="name">ADEME &amp; VOUS - n° 86 - juin</p>
+    <p class="subject">Entrez dans l'ère de l'économie circulaire !</p>
+  </div>
+</a>
+<div class="link_pub">
+  <a href="http://as1.emv2.com/35090/accueil" class="link-type-02" title="S'abonner à ADEME &amp; VOUS - n° 86 - juin" target="blank">Abonnez-vous</a>
+</div>
+</li>
+          <li><a href="http://www.ademe.fr/deployer-reseaux-electriques-intelligents">
+   <div class="figure">
+       <img src="http://www.ademe.fr/sites/default/files/styles/block_publications_asset/public/assets/images/ademe_et_vous_lettre_internationale_32.jpg?itok=Q5LHNUwS" width="230" height="195" />  </div>
+  <div class="desc">
+    <p class="name">ADEME &amp; VOUS - Lettre internationale nº 32</p>
+    <p class="subject">Déployer les réseaux électriques intelligents</p>
+  </div>
+</a>
+<div class="link_pub">
+  <a href="http://as1.emv2.com/35090/accueil" class="link-type-02" title="S'abonner à ADEME &amp; VOUS - Lettre internationale nº 32" target="blank">Abonnez-vous</a>
+</div>
+</li>
+          <li><a href="http://ademe-et-vous.ademe.fr/sites/default/files/strategie-etudes/44/ademetudestrat44.pdf" target="blank">
+   <div class="figure">
+       <img src="http://www.ademe.fr/sites/default/files/styles/block_publications_asset/public/assets/images/ademe-et-vous-strategie.jpg?itok=gwmeM_xk" width="230" height="195" />  </div>
+  <div class="desc">
+    <p class="name">ADEME &amp; VOUS - Stratégie &amp; études nº 44</p>
+    <p class="subject">Les Français et l’environnement</p>
+  </div>
+</a>
+<div class="link_pub">
+  <a href="http://as1.emv2.com/35090/accueil" class="link-type-02" title="S'abonner à ADEME &amp; VOUS - Stratégie &amp; études nº 44" target="blank">Abonnez-vous</a>
+</div>
+</li>
+          <li><a href="http://ademe-et-vous.ademe.fr/sites/default/files/recherche/10/ademelettrerecherche10ademe.pdf" target="blank">
+   <div class="figure">
+       <img src="http://www.ademe.fr/sites/default/files/styles/block_publications_asset/public/assets/images/ademe-vous-recherche-lettre-10.jpg?itok=adg_KBOe" width="230" height="195" />  </div>
+  <div class="desc">
+    <p class="name">ADEME &amp; VOUS - Lettre recherche N° 10</p>
+    <p class="subject"></p>
+  </div>
+</a>
+<div class="link_pub">
+  <a href="http://as1.emv2.com/35090/accueil" class="link-type-02" title="S'abonner à ADEME &amp; VOUS - Lettre recherche N° 10" target="blank">Abonnez-vous</a>
+</div>
+</li>
+      </ul>
+  <a href="#" class="control next" next="prev" title="Publication suivante"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-arrow-06.png" alt="Publication précédente" /></a></div>            </div>
+          </div>
+        </li>
+          <li>
+<a href="http://www.developpement-durable.gouv.fr/-La-transition-energetique-pour-la-" rel="nofollow" class="block-type-12 w-link" target="blank">
+  <div class="inner">
+    <h2 class="title">Focus</h2>
+    <div class="figure">
+      <img src="http://www.ademe.fr/sites/default/files/styles/blocs_push/public/assets/images/transition_croissance_verte.jpg?itok=Hkf56AgT" width="300" height="132" alt="Transition Énergétique pour la croissance verte" />    </div>
+    <h3 class="title-02">Transition énergétique<br />
+pour la croissance verte</h3>
+    <p>www.developpement-durable.gouv.fr</p>
+    <span class="more">En savoir plus</span>  </div>
+</a>
+</li>
+  <li>
+<a href="http://www.renovation-info-service.gouv.fr" rel="nofollow" class="block-type-12 w-link" target="blank">
+  <div class="inner">
+    <h2 class="title">Focus</h2>
+    <div class="figure">
+      <img src="http://www.ademe.fr/sites/default/files/styles/blocs_push/public/assets/images/renovation-info-service_1.gif?itok=BHB2rH1Y" width="300" height="132" />    </div>
+    <h3 class="title-02">Éco-rénovation :<br />
+profitez vite des aides !</h3>
+    <p>renovation-info-service.gouv.fr
+</p>
+    <span class="more">En savoir plus</span>  </div>
+</a>
+</li>
+  <li>
+<a href="http://www.ademe.fr/village-vacances-u-livanti-chauffe-a-leau-mer-a-propriano-2a" rel="nofollow" class="block-type-12 w-link">
+  <div class="inner">
+    <h2 class="title">Rendez-vous en région !</h2>
+    <div class="figure">
+      <img src="http://www.ademe.fr/sites/default/files/styles/blocs_push/public/assets/images/eas-le-village-vacances-u.jpg?itok=nmhfJKod" width="300" height="132" />    </div>
+    <h3 class="title-02">Énergies marines</h3>
+    <p>Un village vacances à Propriano (Corse) se chauffe à l'eau de mer</p>
+    <span class="more">En savoir plus</span>  </div>
+</a>
+</li>
+      </ul>
+    </div>
+          </div>
+  </div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </section>
+            <aside id="sidebar" role="complementary">
+      <nav id="secondary-nav">
+  <ul>
+    <li class="section-individual">
+      <a href="/particuliers-eco-citoyens">
+        <h2 class="title">Particuliers et éco-citoyens</h2>
+        <p>Projets, habitation, déplacements, vacances, loisirs, achats, déchets, pollution</p>
+      </a>
+    </li>
+    <li class="section-pro">
+      <a href="/entreprises-monde-agricole">
+        <h2 class="title">Entreprises et monde agricole</h2>
+        <p>Démarches et solutions environnementales, éco-innovation, labels et certifications</p>
+      </a>
+    </li>
+    <li class="section-community">
+      <a href="/collectivites-secteur-public">
+        <h2 class="title">Collectivités et secteur public</h2>
+        <p>Équipements, services, domaines d&#039;intervention, territoires, financement</p>
+      </a>
+    </li>
+  </ul>
+</nav><div class="panel-pane pane-ademe-block-type16"  >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div class="block-type-16">
+    <div class="inner">
+        <div class="figure">
+            <!-- p class="copyright">© Ademe</p -->
+                    </div>
+              <h2 class="title">
+          L'ADEME et la COP21        </h2>
+             <a href="/expertises/changement-climatique-energie/conference-paris-climat-2015-cop21"><img alt="" src="https://www.ademe.fr/sites/default/files/assets/images/cop21-270x210_1.jpg" style="width: 270px; height: 225px; border-width: 1px; border-style: solid;" title="Paris 2015 - COP21 - CMP11" /></a>           </div>
+  </div>
+
+  <div class="block-type-16">
+    <div class="inner">
+        <div class="figure">
+            <!-- p class="copyright">© Ademe</p -->
+                    </div>
+                    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="225" width="270"><param name="quality" value="high" /><param name="movie" value="/sites/default/files/embed/ademe_300x250_neutre.swf" /><embed height="225" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="/sites/default/files/embed/ademe_300x250_neutre.swf" type="application/x-shockwave-flash" width="270"></embed></object>    </div>
+  </div>
+
+  <div class="block-type-16">
+    <div class="inner">
+        <div class="figure">
+            <!-- p class="copyright">© Ademe</p -->
+                    </div>
+                    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="225" hspace="0" vspace="0" width="270"><param name="quality" value="high" /><param name="movie" value="/sites/default/files/embed/ademe_amnet_rge_300x250.swf" /><embed height="225" hspace="0" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="/sites/default/files/embed/ademe_amnet_rge_300x250.swf" type="application/x-shockwave-flash" vspace="0" width="270"></embed></object>    </div>
+  </div>
+  </div>
+
+  
+  </div>
+<div class="widget"><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function ademeGetWidgetSetting(type){switch(type){case "domain":return "\/\/www.ademe.fr";break;case "xml":return "\/faisons-widget.xml";break;case "share":return "\/widget-1-conseil-jour";break;case "stat":return "\/faisons-widget-tracking";break;}}
+//--><!]]>
+</script>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="170" height="320" id="ademe_widget" align="middle">
+    <param name="allowScriptAccess" value="always" />
+  <param name="allowFullScreen" value="false" />
+  <param name="movie" value="http://www.ademe.fr/sites/all/modules/custom/ademe_site/modules/ademe_site_widget/ademe_widget.swf" />
+  <param name="quality" value="high" />
+  <param name="bgcolor" value="#ffffff" />
+  <param name="wmode" value="transparent">
+  <embed src="http://www.ademe.fr/sites/all/modules/custom/ademe_site/modules/ademe_site_widget/ademe_widget.swf" quality="high" bgcolor="#ffffff" width="170" height="320" wmode="transparent" name="ademe_widget" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"/>
+</object></div>    </aside>
+      </div>
+</div>
+<footer id="footer" role="contentinfo">
+  <section class="level-01">
+  <div class="inner">
+    <div class="col access">
+  <h2 class="title">Accès directs</h2>
+  <ul class="list"><li><a href="/appels-a-projets">Appels à projets</a></li>
+<li><a href="/marches">Publicité des marchés</a></li>
+<li><a href="http://formations.ademe.fr/" target="blank">Formations</a></li>
+<li><a href="/content/liste-implantations-lademe">Adresses et plans d&#039;accès</a></li>
+<li><a href="/recherche-et-innovation">Recherche et innovation</a></li>
+<li><a href="/expertises/changement-climatique-energie">Changement climatique et énergie</a></li>
+<li><a href="/expertises/energies-renouvelables-reseaux-stockage">Énergies renouvelables, réseaux et stockage</a></li>
+<li><a href="/expertises/air-bruit">Air et bruit</a></li>
+<li><a href="/expertises/batiment">Bâtiment</a></li>
+<li><a href="/expertises/mobilite-transports">Mobilité et transport</a></li>
+<li><a href="/expertises/urbanisme-amenagement">Urbanisme et aménagement</a></li>
+<li><a href="/expertises/sols-pollues">Sols pollués</a></li>
+<li><a href="/expertises/dechets">Déchets</a></li>
+<li><a href="/expertises/consommer-autrement">Consommer autrement</a></li>
+<li><a href="/expertises/economie-circulaire">Économie circulaire</a></li>
+<li><a href="/expertises/developpement-durable">Développement durable</a></li>
+<li><a href="/expertises/produire-autrement">Produire autrement</a></li>
+<li><a href="/particuliers-eco-citoyens">Particuliers et éco-citoyens</a></li>
+<li><a href="/entreprises-monde-agricole">Entreprises et monde agricole</a></li>
+<li><a href="/collectivites-secteur-public">Collectivités et secteur public</a></li>
+</ul></div>    <div class="col map">
+  <h2 class="title">Nos directions régionales</h2>
+
+  <div class="map-container footer-map">
+    <img src="/sites/all/themes/ademe/img/data/map-3.png" width="331" height="212"  alt="Carte de France" class="datmap" usemap="#tehmap">
+    <map id="tehmap" name="tehmap" class="tehmap">
+      <area id="Nord-Pas-de-Calais" shape="poly" alt="Nord-Pas-de-Calais" title="Nord-Pas-de-Calais" data-state="NordPasdeCalais" coords="129,17,125,16,123,17,123,14,120,13,118,13,118,9,116,7,114,7,113,9,111,6,108,5,109,4,108,0,101,2,94,5,93,15,99,17,101,20,105,20,105,22,110,22,112,24,116,23,117,24,125,23,131,25,131,18,129,17" href="#">
+      <area id="Picardie" shape="poly" alt="Picardie" title="Picardie" data-state="Picardie" coords="131,25,125,23,116,24,116,24,112,24,110,22,105,22,105,20,101,20,99,17,93,15,93,20,91,23,96,29,96,38,97,41,95,41,96,43,98,43,101,42,101,43,105,43,110,45,116,44,121,49,124,46,124,43,124,39,129,38,130,32,132,29,131,25" href="#">
+      <area id="Ile-de-France" shape="poly" alt="Ile-de-France" title="Ile-de-France" data-state="IDF" coords="106,61,105,61,108,64,107,66,110,66,111,65,112,66,114,65,114,64,115,64,115,61,121,61,121,57,122,55,121,54,121,50,116,44,110,45,109,44,109,44,105,43,102,43,101,42,98,43,96,43,95,41,94,45,94,45,92,45,93,48,94,51,94,53,97,59,99,59,99,60,100,63,103,61,105,61,106,61,106,61" href="#">
+      <area id="Champagne-Ardenne" shape="poly" alt="Champagne-Ardenne" title="Champagne-Ardenne" data-state="ChampagneArdenne" coords="154,66,154,63,151,60,150,61,150,60,150,59,143,55,143,53,143,52,142,50,142,48,143,46,143,41,143,41,144,37,144,34,147,34,148,32,145,30,141,28,140,25,141,21,139,21,138,24,135,26,131,25,132,30,130,32,129,38,129,38,124,39,124,43,124,47,121,50,121,54,122,55,120,57,120,61,124,63,124,64,126,66,126,67,128,70,132,70,134,70,137,69,137,68,140,68,144,72,143,73,145,76,147,76,148,77,151,75,154,75,154,72,157,69,154,66" href="#">
+      <area id="Haute-Normandie" shape="poly" alt="Haute-Normandie" title="Haute-Normandie" data-state="HauteNormandie" coords="96,38,96,30,92,23,87,26,80,27,74,31,72,35,75,37,75,41,77,42,77,49,79,49,80,50,82,52,83,54,87,52,90,52,93,48,92,45,94,45,95,41,97,41,96,38" href="#">
+      <area id="Lorraine" shape="poly" alt="Lorraine" title="Lorraine" data-state="Lorraine" coords="180,43,179,40,178,40,177,42,173,42,171,40,170,40,170,41,168,41,166,38,166,37,164,35,162,35,162,34,160,34,159,36,157,36,156,35,154,33,150,35,150,33,148,32,147,34,144,34,144,38,143,41,143,41,143,46,142,48,142,50,143,52,143,53,143,55,150,59,149,60,150,61,151,60,154,63,154,66,157,69,161,67,161,68,165,68,166,69,168,68,171,71,173,70,173,67,176,60,176,60,174,59,174,55,177,54,177,52,176,52,177,51,177,49,175,48,173,49,173,48,171,47,173,44,177,46,180,46,182,43,180,43" href="#">
+      <area id="Alsace" shape="poly" alt="Alsace" title="Alsace" data-state="Alsace" coords="190,44,188,44,186,43,182,43,181,43,180,46,177,46,173,44,171,47,173,48,173,49,175,48,177,49,177,51,176,52,177,52,177,54,174,55,174,59,176,60,176,60,173,67,173,70,171,71,174,72,174,74,174,76,175,76,176,77,176,78,177,79,180,79,181,78,183,75,182,73,183,67,182,64,182,64,184,59,184,58,185,55,185,53,188,48,190,44" href="#">
+      <area id="Basse-Normandie" shape="poly" alt="Basse-Normandie" data-state="BasseNormandie" title="Basse-Normandie" coords="82,54,82,52,79,50,79,49,77,49,77,48,77,42,75,41,75,37,73,37,71,40,67,40,66,38,60,38,58,37,56,37,55,38,52,34,54,31,52,30,51,30,48,31,45,29,44,29,44,30,45,31,45,33,44,33,45,37,48,41,48,45,48,51,50,53,50,54,48,54,48,56,50,57,52,56,55,57,58,57,59,58,61,57,61,58,63,57,67,57,67,56,68,56,68,58,70,60,72,60,74,58,76,59,76,61,79,63,80,63,81,65,83,65,83,64,82,62,82,61,84,61,85,59,85,56,82,54" href="#">
+      <area id="Bretagne" shape="poly" alt="Bretagne" title="Bretagne" data-state="Bretagne" coords="54,62,55,61,55,57,52,56,50,57,49,56,48,54,44,54,44,52,42,52,41,52,41,54,40,53,40,53,39,54,39,54,39,54,37,53,36,52,35,53,29,52,27,48,26,47,21,48,20,47,19,48,19,50,17,50,17,50,17,50,17,50,15,50,15,51,12,49,6,50,4,50,4,51,1,52,0,57,3,57,7,55,6,57,8,58,8,59,7,58,3,58,3,60,5,60,7,60,7,63,6,62,1,63,0,63,5,65,6,69,8,69,9,68,12,68,13,70,15,70,16,71,18,71,18,71,19,72,21,72,23,75,23,75,26,75,30,75,30,76,27,76,28,77,32,77,33,77,33,78,33,79,33,79,35,78,37,78,39,77,39,75,39,75,42,74,45,74,49,71,52,73,53,68,55,68,54,62" href="#">
+      <area id="Pays-de-la-Loire" shape="poly" alt="Pays-de-la-Loire" data-state="PaysdelaLoire" title="Pays-de-la-Loire" coords="52,72,52,72,49,71,45,73,42,73,39,75,39,75,39,77,37,78,35,78,33,79,32,80,34,83,35,83,37,82,40,82,40,83,37,83,37,85,36,86,38,87,39,88,37,91,37,93,41,98,41,100,42,100,45,102,46,102,47,103,47,104,49,104,50,106,51,105,52,104,55,104,55,105,58,105,60,105,61,103,60,103,60,100,59,94,58,94,56,90,61,90,61,89,63,89,64,88,67,88,68,89,71,86,73,79,73,77,76,78,76,76,79,75,82,70,83,65,83,65,81,65,80,63,79,63,76,61,76,59,74,58,72,60,70,60,70,60,68,58,68,56,67,56,67,57,63,57,61,58,61,57,59,58,58,57,55,57,55,61,54,62,55,68,53,68,52,72,52,72" href="#">
+      <area id="Centre" shape="poly" alt="Centre" title="Centre" data-state="Centre" coords="116,68,113,65,111,66,110,65,110,66,106,66,107,64,105,61,103,62,99,63,99,59,97,59,94,53,94,51,93,48,90,52,87,52,82,54,85,56,85,59,83,61,82,61,81,61,82,64,82,65,83,65,82,70,79,75,76,76,76,78,73,77,73,79,71,86,74,90,74,92,76,92,78,90,80,91,80,93,82,96,83,97,83,99,87,102,87,105,91,105,92,103,95,104,96,103,97,103,102,103,104,103,105,101,108,101,109,101,109,98,110,97,113,97,114,95,116,95,116,90,114,89,114,85,113,84,114,81,113,79,114,78,114,77,112,75,115,73,115,72,114,71,116,70,116,68,116,68" href="#">
+      <area id="Bourgogne" shape="poly" alt="Bourgogne" title="Bourgogne" data-state="Bourgogne" coords="151,81,150,79,151,79,152,78,151,76,149,76,148,77,147,76,145,76,143,73,144,72,140,68,137,68,137,69,134,70,132,70,128,70,127,68,127,66,124,64,124,63,120,61,115,61,115,64,114,64,113,65,116,68,116,70,114,71,115,72,115,73,112,75,114,77,114,78,113,79,113,81,113,84,114,85,114,89,116,90,116,95,118,98,119,97,121,97,122,98,124,97,126,101,129,101,130,103,130,105,128,106,129,108,130,109,135,109,136,108,136,106,140,106,142,108,144,101,145,101,146,101,148,101,149,102,150,102,151,101,151,101,151,99,152,98,150,94,151,93,149,92,149,90,148,90,149,88,152,86,152,83,152,81,151,81" href="#">
+      <area id="Franche-Comte" shape="poly" alt="Franche-Comté" title="Franche-Comté" data-state="FrancheComte" coords="174,79,174,78,176,78,176,77,175,76,174,76,175,74,175,72,172,71,168,68,166,69,165,68,161,68,161,67,157,69,154,72,154,75,151,75,149,76,151,76,152,78,151,79,150,79,151,81,152,81,152,83,152,86,149,88,148,90,148,90,148,92,151,93,150,94,152,98,151,99,151,100,151,101,150,102,150,103,153,106,155,105,156,106,159,106,161,102,163,100,162,99,167,94,167,90,168,89,169,89,174,84,174,83,174,83,175,81,173,81,173,80,174,79" href="#">
+      <area id="Poitou-Charentes" shape="poly" alt="Poitou-Charentes" title="Poitou-Charentes" data-state="PoitouCharentes" coords="81,108,87,104,87,102,83,99,83,97,80,93,80,91,78,90,76,92,74,92,74,90,71,86,68,89,67,88,66,88,64,88,63,89,61,89,61,90,56,90,58,94,59,94,60,100,60,103,61,103,60,105,58,105,55,105,55,104,52,104,52,105,52,106,50,108,50,108,51,108,52,111,52,114,52,115,51,115,51,116,50,116,50,118,53,120,55,123,57,125,57,127,59,127,60,128,62,128,62,130,66,132,67,132,67,132,68,130,71,130,73,128,73,125,74,123,75,123,76,122,76,120,78,120,78,119,80,117,81,117,83,114,83,113,81,112,81,110,81,108,81,108" href="#">
+      <area id="Limousin" shape="poly" alt="Limousin" title="Limousin" data-state="Limousin" coords="109,112,108,110,106,106,105,106,104,103,97,103,96,102,96,104,92,103,91,104,91,104,87,104,81,107,81,110,81,112,83,112,83,114,81,117,80,117,78,119,81,121,84,121,86,123,86,124,88,125,88,125,88,125,88,125,89,127,88,128,88,131,90,131,91,134,92,134,94,134,96,136,98,135,101,135,103,131,103,129,105,127,107,126,107,123,107,122,108,120,107,119,105,117,109,113,109,112,109,112" href="#">
+      <area id="Auvergne" shape="poly" alt="Auvergne" title="Auvergne" data-state="Auvergne" coords="134,126,131,127,129,126,129,126,130,124,130,122,126,117,127,115,125,114,127,113,127,108,127,108,129,106,130,105,130,103,129,101,126,101,124,97,122,98,121,97,119,97,118,98,116,95,114,95,113,97,111,97,109,98,109,100,108,101,105,101,104,103,105,106,106,106,108,110,109,112,109,113,105,117,108,120,107,122,107,123,107,124,107,126,105,127,103,129,103,131,101,135,101,138,101,141,103,142,107,142,109,139,109,138,111,136,112,137,113,137,115,142,117,137,118,137,119,136,121,135,121,135,121,136,122,138,124,138,125,137,126,137,127,138,129,140,133,137,134,137,135,135,136,132,138,129,134,126" href="#">
+      <area id="Rhone-Alpes" shape="poly" alt="Rhône-Alpes" title="Rhône-Alpes" data-state="RhoneAlpes" coords="180,123,177,121,177,118,174,117,173,116,173,114,175,114,177,113,177,111,175,109,174,109,174,108,173,108,173,106,174,105,172,103,172,102,168,102,167,103,165,103,165,104,165,105,165,106,163,108,160,108,160,107,163,106,163,103,162,102,161,102,161,102,159,106,156,106,155,104,153,106,150,103,150,102,149,102,148,101,146,101,145,101,144,101,142,108,140,106,136,106,136,107,135,108,130,108,128,108,128,106,126,107,127,108,127,113,125,114,126,115,126,117,130,122,130,124,128,126,131,127,134,126,138,129,136,132,134,135,134,137,132,137,129,140,129,143,130,144,131,146,132,147,132,149,134,149,135,150,137,149,138,150,139,149,141,149,144,149,144,151,150,149,150,150,155,154,158,151,158,149,157,148,154,147,154,145,156,145,157,144,157,141,159,141,159,140,164,136,167,136,167,133,165,133,166,130,167,130,168,132,169,132,170,130,172,130,173,129,175,129,177,128,179,128,178,125,180,123" href="#">
+      <area id="Aquitaine" shape="poly" alt="Aquitaine" title="Aquitaine" data-state="Aquitaine" coords="90,131,88,131,88,128,89,126,88,125,88,125,86,124,86,123,84,121,81,121,78,119,78,120,77,120,77,122,75,123,74,123,73,125,73,128,71,130,68,130,67,131,67,131,66,132,62,130,62,128,60,127,59,126,57,126,58,129,57,129,55,125,52,122,52,121,51,122,48,140,50,139,51,140,52,141,50,141,49,141,48,143,48,145,44,163,43,165,43,165,42,166,41,168,38,169,39,170,40,170,41,172,42,171,45,172,43,176,45,177,45,175,46,175,46,176,51,179,55,179,55,180,57,183,58,182,61,182,61,182,62,182,62,180,62,180,62,178,66,174,67,172,67,168,66,168,67,168,66,166,66,165,63,165,63,165,63,164,64,162,64,158,66,157,67,156,68,157,67,158,68,158,69,158,69,156,69,157,70,157,71,156,74,156,75,155,77,155,79,156,80,155,80,153,81,153,83,150,82,150,82,148,85,148,84,145,85,143,85,143,90,139,90,135,91,134,90,131" href="#">
+      <area id="Midi-Pyrenees" shape="poly" alt="Midi-Pyrénées" title="Midi-Pyrénées" data-state="Midi" coords="120,155,120,152,119,152,117,150,117,147,116,146,116,144,115,142,113,137,112,137,111,136,109,138,109,139,107,142,103,142,101,142,101,139,101,135,98,135,96,136,93,134,92,134,91,134,90,135,90,139,85,144,84,145,84,148,82,148,82,150,83,151,81,154,80,154,79,155,79,155,78,156,77,155,75,155,74,156,71,156,70,157,70,157,70,157,69,157,68,157,69,157,68,158,68,158,67,158,68,157,67,157,65,158,64,158,64,162,63,164,63,166,63,166,65,166,65,166,65,167,67,168,66,169,67,169,67,172,65,175,62,178,62,180,61,181,62,181,66,185,70,184,71,185,72,184,73,185,75,185,77,185,78,184,77,183,78,181,79,181,80,182,81,183,84,183,85,184,85,185,88,185,91,188,91,186,92,186,93,187,94,187,95,188,95,188,97,188,99,186,102,186,100,184,100,184,98,184,97,182,99,181,99,178,97,176,95,176,94,175,94,173,94,173,97,169,99,169,100,169,100,170,103,170,103,169,104,170,108,170,110,168,110,167,109,166,109,164,111,165,113,164,115,163,115,163,116,163,116,161,119,160,122,156,120,155" href="#">
+      <area id="Languedoc-Roussillon" shape="poly" alt="Languedoc-Roussillon" title="Languedoc-Roussillon" data-state="LanguedocRoussillon" coords="142,153,142,151,141,148,139,148,138,150,137,148,135,150,134,148,132,148,132,147,131,146,131,146,130,144,129,143,129,140,127,138,125,137,124,137,124,138,122,138,121,135,121,135,118,136,118,137,117,137,115,142,116,143,116,146,117,147,117,150,119,152,120,152,120,155,122,156,120,158,119,160,116,160,116,163,115,163,113,164,111,165,109,164,109,166,110,167,110,168,109,169,109,169,104,169,103,169,103,170,101,170,100,169,97,169,94,172,94,174,95,175,98,175,99,178,99,181,97,182,98,184,100,184,100,184,102,186,99,186,97,188,94,188,94,190,96,190,97,191,99,193,100,193,101,192,103,191,107,193,110,193,110,192,112,192,115,190,116,191,118,191,117,190,116,188,116,182,116,178,119,174,119,174,121,172,124,172,126,170,127,170,131,166,133,166,133,167,134,168,135,168,139,165,138,164,139,162,141,162,142,159,144,156,142,153" href="#">
+      <area id="Provence-Alpes-Cote-Azur" shape="poly" alt="Provence-Alpes-Côte-d'Azur" title="Provence-Alpes-Côte-d'Azur" data-state="PACA" coords="189,150,186,151,184,151,182,150,179,149,179,148,177,147,177,146,176,144,177,142,177,141,177,140,179,139,178,138,178,136,175,136,174,135,174,132,173,132,172,130,172,130,170,130,169,131,168,131,167,130,166,130,165,133,167,133,167,136,164,136,159,140,159,141,156,141,156,144,156,145,154,145,154,147,157,148,158,149,158,151,155,154,150,150,150,149,144,151,144,149,140,149,142,151,142,154,144,156,143,157,141,159,141,163,139,163,138,164,139,165,135,168,140,168,140,170,141,170,145,171,146,170,145,170,145,169,146,169,148,170,151,171,152,170,153,171,153,173,156,173,157,174,158,173,158,173,158,173,159,174,161,176,163,175,164,176,166,175,168,175,171,174,172,173,174,173,175,171,173,170,174,169,175,169,175,168,177,168,178,165,179,164,181,164,181,162,182,162,187,159,187,157,187,157,188,156,190,152,190,151,189,150" href="#">
+      <area id="Corse" shape="poly" alt="Corse" title="Corse" data-state="Corse" coords="186,184,185,175,182,175,182,182,181,182,179,182,171,188,171,191,171,195,173,196,173,200,175,200,174,204,177,205,176,207,181,211,184,212,184,212,186,200,186,199,188,195,186,184" href="#">
+      <area id="Martinique" shape="poly" alt="Martinique" title="Martinique" data-state="Martinique" coords="255,28,260,31,260,36,258,42,255,41,255,38,253,38,249,35,249,37,243,37,242,33,245,31,248,33,248,28,246,28,243,29,238,25,237,22,236,19,236,18,233,17,233,13,236,13,239,12,242,12,242,14,245,14,248,17,249,19,250,19,251,17,256,17,256,18,255,21,252,20,252,21,254,23,253,25,256,25,255,28" href="#">
+      <area id="Guadeloupe" shape="poly" alt="Guadeloupe" title="Guadeloupe" data-state="Guadeloupe" coords="261,71,250,71,247,73,244,72,242,72,242,74,243,76,243,81,238,85,236,84,236,82,234,81,233,72,232,70,232,64,237,66,240,67,241,69,243,69,243,67,246,65,246,63,244,61,247,57,249,57,251,58,251,60,249,62,250,65,254,65,261,71" href="#">
+      <area id="Guyane" shape="poly" alt="Guyane" title="Guyane" data-state="Guyane" coords="245,100,247,103,251,103,254,106,257,107,258,112,260,112,260,109,262,111,260,116,259,120,258,121,257,124,255,124,255,127,250,130,246,133,246,135,244,135,242,132,241,133,238,133,237,132,235,132,234,133,231,132,233,130,239,127,240,120,242,119,242,117,239,116,238,106,241,103,245,100" href="#">
+      <area id="La-Reunion" shape="poly" alt="La Réunion" title="La Réunion" data-state="Reunion" coords="251,154,254,157,258,163,258,165,261,167,262,170,260,172,260,177,257,177,256,179,248,179,243,177,241,174,239,174,235,172,235,168,232,165,231,162,233,161,235,161,235,156,238,156,242,154,245,156,251,154" href="#">
+      <area id="Saint-Pierre-et-Miquelon" shape="poly" alt="Saint-Pierre et Miquelon"  title="Saint-Pierre et Miquelon" data-state="SaintPierreetMiquelon" coords="320,60,321,58,317,58,313,55,315,50,314,47,310,45,310,36,307,35,308,33,311,35,312,34,313,30,315,27,308,22,305,21,305,19,307,19,307,17,305,17,303,18,302,21,303,22,303,27,306,35,308,37,309,46,307,46,302,52,302,54,305,54,304,58,307,60,307,57,309,57,310,55,312,55,316,59,316,60,316,63,322,63,320,60" href="#">
+      <area id="Nouvelle-Caledonie" shape="poly" alt="Nouvelle-Calédonie" title="Nouvelle-Calédonie" data-state="NouvelleCaledonie" coords="316,74,315,77,313,77,314,76,316,74" href="#">
+      <area id="Nouvelle-Caledonie" shape="poly" alt="Nouvelle-Calédonie" title="Nouvelle-Calédonie" data-state="NouvelleCaledonie" coords="316,74,315,77,313,77,314,76,316,74" href="#">
+      <area id="Nouvelle-Caledonie" shape="poly" alt="Nouvelle-Calédonie" title="Nouvelle-Calédonie" data-state="NouvelleCaledonie" coords="328,84,327,85,328,87,330,87,330,85,328,84" href="#">
+      <area id="Nouvelle-Caledonie" shape="poly" alt="Nouvelle-Calédonie" title="Nouvelle-Calédonie" data-state="NouvelleCaledonie" coords="328,84,327,85,328,87,330,87,330,85,328,84" href="#">
+      <area id="Nouvelle-Caledonie" shape="poly" alt="Nouvelle-Calédonie" title="Nouvelle-Calédonie" data-state="NouvelleCaledonie" coords="320,77,320,80,323,82,324,81,322,77,320,77" href="#">
+      <area id="Nouvelle-Caledonie" shape="poly" alt="Nouvelle-Calédonie" title="Nouvelle-Calédonie" data-state="NouvelleCaledonie" coords="320,77,320,80,323,82,324,81,322,77,320,77" href="#">
+      <area id="Nouvelle-Caledonie" shape="poly" alt="Nouvelle-Calédonie" title="Nouvelle-Calédonie" data-state="NouvelleCaledonie" coords="290,72,293,76,293,78,298,82,298,83,306,88,310,91,312,93,317,95,319,95,319,92,308,84,304,81,303,78,300,77,298,77,295,73,290,72" href="#region">
+      <area id="Polynesie" shape="poly" alt="Polynesie" title="Polynesie" data-state="Polynesie" coords="311,122,315,122,318,124,321,127,321,130,321,132,321,133,322,136,326,137,330,139,331,144,325,144,322,142,322,141,321,139,321,136,314,139,310,138,307,136,306,134,304,131,304,128,304,125,311,122" href="#region">
+      <area id="Polynesie" shape="poly" alt="Polynesie" title="Polynesie" data-state="Polynesie" coords="300,122,301,123,300,124,299,127,297,129,294,126,292,126,292,125,292,123,294,123,296,122,300,122" href="#region">
+      <area id="Mayotte" alt="Mayotte" title="Mayotte" data-state="Mayotte" coords="318,165,318,166,319,166,319,165,318,165,318,165" href="#" shape="poly">
+      <area id="Mayotte" alt="Mayotte" title="Mayotte" data-state="Mayotte" coords="323,160,322,162,321,163,323,165,323,166,324,166,324,164,324,163,324,162,323,160,323,160" href="#" shape="poly">
+      <area id="Mayotte" alt="Mayotte" title="Mayotte" data-state="Mayotte" coords="306,150,303,153,300,157,301,157,300,159,301,160,302,160,304,161,306,161,305,163,306,168,307,168,305,169,307,171,309,174,310,175,310,177,308,177,306,176,306,174,303,174,304,177,306,177,306,178,303,180,305,180,306,180,306,184,307,183,307,182,308,182,308,183,308,183,309,183,310,184,311,184,311,182,312,182,313,183,314,182,315,182,313,180,312,179,313,178,313,177,314,176,316,176,315,175,317,173,317,172,317,171,316,171,316,170,315,168,317,165,319,163,319,160,318,159,317,158,314,157,312,157,311,158,309,156,309,155,306,152,305,152,307,150,306,150" href="#" shape="poly">
+      <area id="Mayotte" alt="Mayotte" title="Mayotte" data-state="Mayotte" coords="299,148,298,149,299,150,300,150,300,149,299,148" href="#" shape="poly">
+    </map>
+            <div id="Nord-Pas-de-Calais" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  NORD-PAS DE CALAIS<br/>
+  Centre tertiaire de l'Arsenal<br/>
+  20, rue du Prieuré<br/>
+    59500  DOUAI<br>
+  Tél : 03 27 95 89 70<br/>
+  Fax : 03 27 95 89 71<br/>
+  Courriel : <a href="mailto:ademe.nord-pas-de-calais@ademe.fr">ademe.nord-pas-de-calais@ademe.fr</a><br/>
+        </p>
+            </div>
+                                          </div>
+          <div id="Picardie" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  PICARDIE<br/>
+  67 avenue d'Italie<br/>
+  Immeuble APOTIKA<br/>
+    80094  AMIENS Cedex 03<br>
+  Tél : 03 22 45 18 90<br/>
+  Fax : 03 22 45 19 47<br/>
+  Courriel : <a href="mailto:ademe.picardie@ademe.fr">ademe.picardie@ademe.fr</a><br/>
+  Site web : <a href="http://www.picardie.ademe.fr" data-region="PICARDIE" target="blank">www.picardie.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Ile-de-France" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  ILE-DE-FRANCE<br/>
+  6-8, rue Jean Jaurès<br/>
+      92807  PUTEAUX Cedex<br>
+  Tél : 01 49 01 45 47<br/>
+  Fax : 01 49 00 06 84<br/>
+  Courriel : <a href="mailto:ademe.ile-de-france@ademe.fr">ademe.ile-de-france@ademe.fr</a><br/>
+  Site web : <a href="http://ile-de-france.ademe.fr" data-region="ILE-DE-FRANCE" target="blank">ile-de-france.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Champagne-Ardenne" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  CHAMPAGNE-ARDENNE<br/>
+  116 avenue de Paris<br/>
+      51038  CHÂLONS-EN-CHAMPAGNE<br>
+  Tél : 03 26 69 20 96<br/>
+  Fax : 03 26 65 07 63<br/>
+  Courriel : <a href="mailto:champagne-ardenne@ademe.fr">champagne-ardenne@ademe.fr</a><br/>
+  Site web : <a href="http://www.champagne-ardenne.ademe.fr" data-region="CHAMPAGNE-ARDENNE" target="blank">www.champagne-ardenne.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Haute-Normandie" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  HAUTE-NORMANDIE<br/>
+  "Les Galées du Roi"<br/>
+  30 rue Gadeau de Kerville<br/>
+    76100  ROUEN<br>
+  Tél : 02 35 62 24 42<br/>
+  Fax : 02 32 81 93 13<br/>
+  Courriel : <a href="mailto:ademe.haute-normandie@ademe.fr">ademe.haute-normandie@ademe.fr</a><br/>
+  Site web : <a href="http://www.haute-normandie.ademe.fr" data-region="HAUTE-NORMANDIE" target="blank">www.haute-normandie.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Lorraine" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  LORRAINE<br/>
+  34 avenue André Malraux<br/>
+      57000  METZ<br>
+  Tél : 03 87 20 02 90<br/>
+  Fax : 03 87 50 26 48<br/>
+  Courriel : <a href="mailto:ademe.lorraine@ademe.fr">ademe.lorraine@ademe.fr</a><br/>
+  Site web : <a href="http://www.lorraine.ademe.fr" data-region="LORRAINE" target="blank">www.lorraine.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Alsace" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  ALSACE<br/>
+  8 rue Adolphe Seyboth<br/>
+      67000  STRASBOURG<br>
+  Tél : 03 88 15 46 46<br/>
+  Fax : 03 88 15 46 47<br/>
+  Courriel : <a href="mailto:ademe.alsace@ademe.fr">ademe.alsace@ademe.fr</a><br/>
+  Site web : <a href="http://www.alsace.ademe.fr" data-region="ALSACE" target="blank">www.alsace.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Basse-Normandie" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  BASSE-NORMANDIE<br/>
+  CITIS - Le Pentacle<br/>
+  5 avenue de Tsukuba<br/>
+  BP 10210<br/>
+  14209  HEROUVILLE-SAINT-CLAIR Cedex<br>
+  Tél : 02 31 46 81 00<br/>
+  Fax : 02 31 46 81 01<br/>
+  Courriel : <a href="mailto:ademe.basse-normandie@ademe.fr">ademe.basse-normandie@ademe.fr</a><br/>
+  Site web : <a href="http://www.basse-normandie.ademe.fr" data-region="BASSE-NORMANDIE" target="blank">www.basse-normandie.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Bretagne" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  BRETAGNE<br/>
+  33 boulevard Solférino<br/>
+  CS41 217<br/>
+    35012  RENNES Cedex<br>
+  Tél : 02 99 85 87 00<br/>
+  Fax : 02 99 31 44 06<br/>
+  Courriel : <a href="mailto:ademe.bretagne@ademe.fr">ademe.bretagne@ademe.fr</a><br/>
+  Site web : <a href="http://www3.ademe.fr/bretagne" data-region="BRETAGNE" target="blank">www3.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Pays-de-la-Loire" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  PAYS DE LA LOIRE<br/>
+  CS 90302<br/>
+      44203  NANTES Cedex 02<br>
+  Tél : 02 40 35 68 00<br/>
+  Fax : 02 40 35 27 21<br/>
+  Courriel : <a href="mailto:ademe.paysdelaloire@ademe.fr">ademe.paysdelaloire@ademe.fr</a><br/>
+  Site web : <a href="http://www.paysdelaloire.ademe.fr" data-region="PAYS DE LA LOIRE" target="blank">www.paysdelaloire.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Centre" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  CENTRE<br/>
+  22 rue d'Alsace-Lorraine<br/>
+      45058  ORLÉANS Cedex 01<br>
+  Tél : 02 38 24 00 00<br/>
+  Fax : 02 38 53 74 76<br/>
+  Courriel : <a href="mailto:ademe.centre@ademe.fr">ademe.centre@ademe.fr</a><br/>
+  Site web : <a href="http://www.centre.ademe.fr" data-region="CENTRE" target="blank">www.centre.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Bourgogne" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  BOURGOGNE<br/>
+  1C bd de Champagne<br/>
+      21000  DIJON<br>
+  Tél : 03 80 76 89 76<br/>
+  Fax : 03 80 76 89 70<br/>
+  Courriel : <a href="mailto:ademe.bourgogne@ademe.fr">ademe.bourgogne@ademe.fr</a><br/>
+  Site web : <a href="http://www.bourgogne.ademe.fr" data-region="BOURGOGNE" target="blank">www.bourgogne.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Franche-Comte" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  FRANCHE-COMTÉ<br/>
+  25 rue Gambetta<br/>
+  BP 26367<br/>
+    25018  BESANCON Cedex 6<br>
+  Tél : 03 81 25 50 00<br/>
+  Fax : 03 8181 87 90<br/>
+  Courriel : <a href="mailto:ademe.franche-comte@ademe.fr">ademe.franche-comte@ademe.fr</a><br/>
+  Site web : <a href="http://franche-comte.ademe.fr" data-region="FRANCHE-COMTÉ" target="blank">franche-comte.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Poitou-Charentes" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  POITOU-CHARENTES<br/>
+  60 rue Jean Jaurès<br/>
+  CS 90452<br/>
+    86011  POITIERS CEDEX<br>
+  Tél : 05 49 50 12 12<br/>
+  Fax : 05 49 41 61 11<br/>
+  Courriel : <a href="mailto:ademe.poitou-charentes@ademe.fr">ademe.poitou-charentes@ademe.fr</a><br/>
+  Site web : <a href="http://www.ademe-poitou-charentes.fr" data-region="POITOU-CHARENTES" target="blank">www.ademe-poitou-charentes.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Limousin" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  LIMOUSIN<br/>
+  38 ter avenue de la Libération<br/>
+  BP 20259<br/>
+    87007  LIMOGES Cedex 1<br>
+  Tél : 05 55 79 39 34<br/>
+  Fax : 05 55 77 13 62<br/>
+  Courriel : <a href="mailto:ademe.limousin@ademe.fr">ademe.limousin@ademe.fr</a><br/>
+  Site web : <a href="http://www.limousin.ademe.fr" data-region="LIMOUSIN" target="blank">www.limousin.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Auvergne" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  AUVERGNE<br/>
+  63 boulevard Berthelot<br/>
+      63000  CLERMONT-FERRAND<br>
+  Tél : 04 73 31 52 80<br/>
+  Fax : 04 73 31 52 85<br/>
+  Courriel : <a href="mailto:ademe.auvergne@ademe.fr">ademe.auvergne@ademe.fr</a><br/>
+  Site web : <a href="http://www.auvergne.ademe.fr" data-region="AUVERGNE" target="blank">www.auvergne.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Rhone-Alpes" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  RHONE-ALPES<br/>
+  10, rue des Emeraudes<br/>
+      69006  LYON<br>
+  Tél : 04 72 83 46 00<br/>
+  Fax : 04 72 83 46 26<br/>
+  Courriel : <a href="mailto:ademe.rhone-alpes@ademe.fr">ademe.rhone-alpes@ademe.fr</a><br/>
+  Site web : <a href="http://www.rhone-alpes.ademe.fr" data-region="RHONE-ALPES" target="blank">www.rhone-alpes.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Aquitaine" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  AQUITAINE<br/>
+  140 rue des Terres de Borde<br/>
+  CS 31330<br/>
+    33080  BORDEAUX Cedex<br>
+  Tél : 05 56 33 80 00<br/>
+  Fax : 05 56 33 80 01<br/>
+  Courriel : <a href="mailto:aquitaine@ademe.fr">aquitaine@ademe.fr</a><br/>
+  Site web : <a href="http://www.aquitaine.ademe.fr" data-region="AQUITAINE" target="blank">www.aquitaine.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Midi-Pyrenees" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  MIDI-PYRÉNÉES<br/>
+  Technoparc Bât. 9<br/>
+  1202 Rue l'Occitane<br/>
+    31670  LABEGE<br>
+  Tél : 05 62 24 35 36<br/>
+  Fax : 05 62 24 34 61<br/>
+  Courriel : <a href="mailto:ademe.midi-pyrenees@ademe.fr">ademe.midi-pyrenees@ademe.fr</a><br/>
+  Site web : <a href="http://www.midi-pyrenees.ademe.fr" data-region="MIDI-PYRÉNÉES" target="blank">www.midi-pyrenees.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Languedoc-Roussillon" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  LANGUEDOC-ROUSSILLON<br/>
+  Résidence Antalya<br/>
+  119 avenue Jacques Cartier<br/>
+    34965  MONTPELLIER Cedex 2<br>
+  Tél : 04 67 99 89 79<br/>
+  Fax : 04 67 64 30 89<br/>
+  Courriel : <a href="mailto:ademe.languedoc-roussillon@ademe.fr">ademe.languedoc-roussillon@ademe.fr</a><br/>
+  Site web : <a href="http://www3.ademe.fr/languedoc-roussillon" data-region="LANGUEDOC-ROUSSILLON" target="blank">www3.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Provence-Alpes-Cote-Azur" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  PROVENCE ALPES COTE D&#039;AZUR<br/>
+  2 boulevard de Gabès<br/>
+  CS 50 139<br/>
+    13267  MARSEILLE Cedex 08<br>
+  Tél : 04 91 32 84 44<br/>
+  Fax : 04 91 32 84 66<br/>
+  Courriel : <a href="mailto:ademe.paca@ademe.fr">ademe.paca@ademe.fr</a><br/>
+  Site web : <a href="http://www.paca.ademe.fr" data-region="PROVENCE ALPES COTE D&#039;AZUR" target="blank">www.paca.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Corse" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  CORSE<br/>
+  Lotissement n° 3 F - Le Ricanto<br/>
+  Route du Vazzio<br/>
+  CS 9002<br/>
+  20700  AJACCIO Cedex 09<br>
+  Tél : 04 95 10 58 58<br/>
+  Fax : 04 95 22 03 91<br/>
+  Courriel : <a href="mailto:ademe.ajaccio@ademe.fr">ademe.ajaccio@ademe.fr</a><br/>
+  Site web : <a href="http://www.corse.ademe.fr" data-region="CORSE" target="blank">www.corse.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Martinique" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  MARTINIQUE<br/>
+  Zone de Manhity<br/>
+  Four à chaux Sud<br/>
+  Immeuble Exodom<br/>
+  97232  LE LAMENTIN<br>
+  Tél : 0569 63 51 42<br/>
+  Fax : 0596 70 60 76<br/>
+  Courriel : <a href="mailto:ademe.martinique@ademe.fr">ademe.martinique@ademe.fr</a><br/>
+  Site web : <a href="http://www.martinique.ademe.fr" data-region="MARTINIQUE" target="blank">www.martinique.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Guadeloupe" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  GUADELOUPE<br/>
+  "Café Center"<br/>
+  Rue Ferdinand Forest<br/>
+    97122  BAIE-MAHAULT<br>
+  Tél : 0590 26 78 05<br/>
+  Fax : 0590 26 87 15<br/>
+  Courriel : <a href="mailto:ademe.guadeloupe@ademe.fr">ademe.guadeloupe@ademe.fr</a><br/>
+  Site web : <a href="http://www.guadeloupe.ademe.fr" data-region="GUADELOUPE" target="blank">www.guadeloupe.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Guyane" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  GUYANE<br/>
+  28 avenue Léopold Heder<br/>
+      97300  CAYENNE<br>
+  Tél : 0594 31 73 60<br/>
+  Fax : 0594 30 76 69<br/>
+  Courriel : <a href="mailto:ademe.guyane@ademe.fr">ademe.guyane@ademe.fr</a><br/>
+  Site web : <a href="http://www.ademe-guyane.fr" data-region="GUYANE" target="blank">www.ademe-guyane.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="La-Reunion" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  REUNION<br/>
+  3 avenue Théodore Drouhet - Parc 2000<br/>
+  CS N° 80 216<br/>
+    97829  LE PORT Cedex<br>
+  Tél : 02 62 71 11 30<br/>
+  Fax : 02 62 71 11 31<br/>
+  Courriel : <a href="mailto:ademe@runnet.com">ademe@runnet.com</a><br/>
+        </p>
+            </div>
+                                          </div>
+          <div id="Nouvelle-Caledonie" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  NOUVELLE CALEDONIE<br/>
+  Espace Performance - CCI Nouvelle-Caledonie<br/>
+  BP M3<br/>
+  15 rue de Verdun<br/>
+  98849  NOUMÉA Cedex<br>
+  Tél : 00(687) 24 35 18<br/>
+  Fax : 00(687) 24 35 15<br/>
+  Courriel : <a href="mailto:camille.fabre@ademe.fr">camille.fabre@ademe.fr</a><br/>
+  Site web : <a href="http://www.nouvelle-caledonie.ademe.fr" data-region="NOUVELLE CALEDONIE" target="blank">www.nouvelle-caledonie.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Polynesie" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  POLYNESIE FRANCAISE<br/>
+  Rue Dumont d'Urville<br/>
+  BP 115<br/>
+    98713  PAPEETE<br>
+  Tél : 00(689) 46 84 55<br/>
+  Fax : 00(689) 46 84 49<br/>
+  Courriel : <a href="mailto:ademe.polynesie@ademe.fr">ademe.polynesie@ademe.fr</a><br/>
+  Site web : <a href="http://www.polynesie-francaise.ademe.fr" data-region="POLYNESIE FRANCAISE" target="blank">www.polynesie-francaise.ademe.fr</a><br/>
+      </p>
+            </div>
+                                          </div>
+          <div id="Saint-Pierre-et-Miquelon" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  SAINT-PIERRE-ET-MIQUELON<br/>
+  Boulevard Constant Colmay<br/>
+  BP 4217<br/>
+    97500  SAINT-PIERRE-ET-MIQUELON<br>
+  Tél : 05 08 41 12 00<br/>
+  Fax : 05 08 41 19 85<br/>
+          </p>
+            </div>
+                                          </div>
+          <div id="Mayotte" class="group-address" tabindex="-1">
+                   
+            <div class="details">  
+              <p>
+  MAYOTTE<br/>
+  n°56 Bâtiment Espace Canopia<br/>
+  Les Hauts Vallons<br/>
+  BP 1226<br/>
+  97600  Mamoudzou - Mayotte<br>
+  Tél : 02 69 62 32 36<br/>
+  Fax : 02 69 62 32 35<br/>
+  Courriel : <a href="mailto:ademe@runnet.com">ademe@runnet.com</a><br/>
+        </p>
+            </div>
+                                          </div>
+                
+      <a href="http://www.ademe.fr/content/liste-implantations-lademe" class="more">Voir toutes nos adresses</a>
+      </div>
+</div>    <div class="col social">
+  <div class="tabs">
+    <div class="tab-body twitter">
+      <h2 class="tabhead"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-twitter.png" alt="Twitter" /></h2>
+      <ul>
+                <li><p>RT @<a class="twitter-atreply" data-screen-name="ecologiEnergie" href="http://twitter.com/ecologiEnergie" rel="nofollow">ecologiEnergie</a>: Accélération de la transition énergétique dans 13 territoires grâce aux conventions territoires à énergie positive ! ht</p></li>
+                <li><p>RT @<a class="twitter-atreply" data-screen-name="ecologiEnergie" href="http://twitter.com/ecologiEnergie" rel="nofollow">ecologiEnergie</a>: [<a href="http://twitter.com/#!/search?q=%23VotreÉnergie" title="#VotreÉnergie" class="twitter-hashtag" rel="nofollow">#VotreÉnergie</a>] "L'@<a class="twitter-atreply" data-screen-name="ademe" href="http://twitter.com/ademe" rel="nofollow">ademe</a> tient à féliciter ces territoires. Nous serons là pour vous accompagner" - Bruno Lechevin htt</p></li>
+                <li><p>RT @<a class="twitter-atreply" data-screen-name="ecologiEnergie" href="http://twitter.com/ecologiEnergie" rel="nofollow">ecologiEnergie</a>: Ce midi, @<a class="twitter-atreply" data-screen-name="RoyalSegolene" href="http://twitter.com/RoyalSegolene" rel="nofollow">RoyalSegolene</a> signe 13 conventions "Territoires à énergie positive" ! <a href="http://www.developpement-durable.gouv.fr/-Territoires-a-energie-positive-.html" target="_blank" rel="nofollow" class="twitter-timeline-link">http://www.developpement-durable.gouv.fr/-Territoires-a-energie-positive-.html</a> <a href="http://twitter.com/#!/search?q=%23VotreEnergie" title="#VotreEnergie" class="twitter-hashtag" rel="nofollow">#VotreEnergie</a> ht</p></li>
+                <li><p>L’<a href="http://twitter.com/#!/search?q=%23économiecirculaire" title="#économiecirculaire" class="twitter-hashtag" rel="nofollow">#économiecirculaire</a>, du concept à l’action. Mobilisons-nous ! <a href="http://dai.ly/x2mqf2f" target="_blank" rel="nofollow" class="twitter-timeline-link">http://dai.ly/x2mqf2f</a> <a href="http://twitter.com/#!/search?q=%23AEC2015" title="#AEC2015" class="twitter-hashtag" rel="nofollow">#AEC2015</a></p></li>
+                <li><p>"Je lance un 2ème appel à projets Zéro déchet, zéro gaspillage" @<a class="twitter-atreply" data-screen-name="RoyalSegolene" href="http://twitter.com/RoyalSegolene" rel="nofollow">RoyalSegolene</a> <a href="http://twitter.com/#!/search?q=%23AEC2015" title="#AEC2015" class="twitter-hashtag" rel="nofollow">#AEC2015</a></p></li>
+                <li><p>Réparez vous-même vos <a href="http://twitter.com/#!/search?q=%23appareils" title="#appareils" class="twitter-hashtag" rel="nofollow">#appareils</a> électro-ménagers grâce à deux ateliers <a href="http://bit.ly/1IficZu" target="_blank" rel="nofollow" class="twitter-timeline-link">http://bit.ly/1IficZu</a> via @<a class="twitter-atreply" data-screen-name="franceinfo" href="http://twitter.com/franceinfo" rel="nofollow">franceinfo</a> </p></li>
+                <li><p>Améliorer la <a href="http://twitter.com/#!/search?q=%23qualité" title="#qualité" class="twitter-hashtag" rel="nofollow">#qualité</a> de l'<a href="http://twitter.com/#!/search?q=%23air" title="#air" class="twitter-hashtag" rel="nofollow">#air</a>, c'est l'affaire de <a href="http://twitter.com/#!/search?q=%23tous" title="#tous" class="twitter-hashtag" rel="nofollow">#tous</a> <a href="http://www.mtaterre.fr/dossier-mois/archives/chap/1328/Ameliorer-la-qualite-de-l-air,-c-est-l-affaire-de-tous" target="_blank" rel="nofollow" class="twitter-timeline-link">http://www.mtaterre.fr/dossier-mois/archives/chap/1328/Ameliorer-la-qualite-de-l-air,-c-est-l-affaire-de-tous</a></p></li>
+                <li><p>Adoptez les bons <a href="http://twitter.com/#!/search?q=%23réflexes" title="#réflexes" class="twitter-hashtag" rel="nofollow">#réflexes</a> pour la <a href="http://twitter.com/#!/search?q=%23planète" title="#planète" class="twitter-hashtag" rel="nofollow">#planète</a> avec <a href="http://twitter.com/#!/search?q=%23Mtaterre" title="#Mtaterre" class="twitter-hashtag" rel="nofollow">#Mtaterre</a> <a href="http://www.mtaterre.fr/bons_reflexes.html" target="_blank" rel="nofollow" class="twitter-timeline-link">http://www.mtaterre.fr/bons_reflexes.html</a></p></li>
+                <li><p>Découvrez la <a href="http://twitter.com/#!/search?q=%23pièce" title="#pièce" class="twitter-hashtag" rel="nofollow">#pièce</a> du Chapiteau vert sur le tri des <a href="http://twitter.com/#!/search?q=%23déchets" title="#déchets" class="twitter-hashtag" rel="nofollow">#déchets</a> ! <a href="http://www.lechapiteauvert.fr/" target="_blank" rel="nofollow" class="twitter-timeline-link">http://www.lechapiteauvert.fr/</a> </p></li>
+                <li><p>Donnez une seconde vie à vos <a href="http://twitter.com/#!/search?q=%23objets" title="#objets" class="twitter-hashtag" rel="nofollow">#objets</a> : la <a href="http://twitter.com/#!/search?q=%23réutilisation" title="#réutilisation" class="twitter-hashtag" rel="nofollow">#réutilisation</a>, une solution gagnant-gagnant <a href="https://www.youtube.com/watch?v=ovWqixPPqaA" target="_blank" rel="nofollow" class="twitter-timeline-link">https://www.youtube.com/watch?v=ovWqixPPqaA</a> avec @<a class="twitter-atreply" data-screen-name="consomag" href="http://twitter.com/consomag" rel="nofollow">consomag</a></p></li>
+              </ul>
+      <p class="info"><span>Suivez les fils Twitter</span> <br/><a href="https://twitter.com/ademe" target="blank">@ademe</a> et <a href="https://twitter.com/ecocitoyens" target="blank">@ecocitoyens</a></p>
+    </div>
+    <div class="tab-body youtube">
+      <h2 class="tabhead"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-youtube.png" alt="Youtube" /></h2>
+      <ul>
+              <li><a href="http://www.youtube.com/watch?v=ovWqixPPqaA" class="dialog-youtube" data-youtube="ovWqixPPqaA" title="La réutilisation, c&#039;est gagnant-gagnant / Consomag" target="blank"><div class="video-thumbnail">
+  <img src="https://i.ytimg.com/vi/ovWqixPPqaA/default.jpg" width="120" height="90" /></div>
+<div class="video-title">
+  La réutilisation, c'est gagnant-gagnant / Consomag</div>
+<div class="video-views-count">
+  582 views</div>
+<div class="video-description">
+  Plus que jamais il est possible de donner une seconde vie à ses obj...</div></a></li>
+              <li><a href="http://www.youtube.com/watch?v=FZCOaevsKCE" class="dialog-youtube" data-youtube="FZCOaevsKCE" title="Tout savoir sur le recyclage / Consomag" target="blank"><div class="video-thumbnail">
+  <img src="https://i.ytimg.com/vi/FZCOaevsKCE/default.jpg" width="120" height="90" /></div>
+<div class="video-title">
+  Tout savoir sur le recyclage / Consomag</div>
+<div class="video-views-count">
+  492 views</div>
+<div class="video-description">
+  Plus on trie, plus on recycle. Et plus on recycle, plus on créé de ...</div></a></li>
+              <li><a href="http://www.youtube.com/watch?v=Ltecwn9DOQM" class="dialog-youtube" data-youtube="Ltecwn9DOQM" title="Utiliser plutôt que posséder ! / Consomag" target="blank"><div class="video-thumbnail">
+  <img src="https://i.ytimg.com/vi/Ltecwn9DOQM/default.jpg" width="120" height="90" /></div>
+<div class="video-title">
+  Utiliser plutôt que posséder ! / Consomag</div>
+<div class="video-views-count">
+  600 views</div>
+<div class="video-description">
+  En 3 points, il faut... 1- Répondre à un besoin non plus par la pos...</div></a></li>
+              <li><a href="http://www.youtube.com/watch?v=lIZzZUTs6JE" class="dialog-youtube" data-youtube="lIZzZUTs6JE" title="L’économie circulaire, qu&#039;est-ce que c&#039;est ? / Consomag" target="blank"><div class="video-thumbnail">
+  <img src="https://i.ytimg.com/vi/lIZzZUTs6JE/default.jpg" width="120" height="90" /></div>
+<div class="video-title">
+  L’économie circulaire, qu'est-ce que c'est ? / Consomag</div>
+<div class="video-views-count">
+  501 views</div>
+<div class="video-description">
+  L'économie circulaire vise à changer de paradigme par rapport à l'é...</div></a></li>
+              <li><a href="http://www.youtube.com/watch?v=tPauXLwbC1w" class="dialog-youtube" data-youtube="tPauXLwbC1w" title="Eco-conception : de quoi parle-t-on ? / Consomag" target="blank"><div class="video-thumbnail">
+  <img src="https://i.ytimg.com/vi/tPauXLwbC1w/default.jpg" width="120" height="90" /></div>
+<div class="video-title">
+  Eco-conception : de quoi parle-t-on ? / Consomag</div>
+<div class="video-views-count">
+  507 views</div>
+<div class="video-description">
+  Dans le circuit de l'économie circulaire, la phase de conception d'...</div></a></li>
+            </ul>
+      <p class="info"><span>VOIR TOUTES LES VIDÉOS YOUTUBE</span> <br/><a href="http://www.youtube.com/user/ademe" rel="nofollow" target="blank">ademe</a></p>
+    </div>
+    <div class="tab-body dailymotion">
+      <h2 class="tabhead"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-dailymotion.png" alt="DailyMotion" /></h2>
+      <ul>
+              <li><a href="http://www.dailymotion.com/video/x2st15h" class="dialog-dailymotion" data-dailymotion="x2st15h" title="Certificats d’Economies d’Energie – Attestation sur l’honneur – juin 2015" target="blank"><div class="video-thumbnail">
+  <img src="http://s1.dmcdn.net/LD7PT/80x60-JP9.jpg" width="80" height="60" /></div>
+<div class="video-title">
+  Certificats d’Economies d’Energie – Attestation sur l’honneur – juin 2015</div>
+<div class="video-views-count">
+  191 views</div>
+<div class="video-description">
+  Présentation de l’attestation sur l’honneur standardisée  mise en p...</div></a></li>
+              <li><a href="http://www.dailymotion.com/video/x2st0xa" class="dialog-dailymotion" data-dailymotion="x2st0xa" title="ANAH – Programme Habiter mieux – juin 2015" target="blank"><div class="video-thumbnail">
+  <img src="http://s2.dmcdn.net/LD8eI/80x60-jbg.jpg" width="80" height="60" /></div>
+<div class="video-title">
+  ANAH – Programme Habiter mieux – juin 2015</div>
+<div class="video-views-count">
+  135 views</div>
+<div class="video-description">
+  Présentation du programme HABITER MIEUX de l’ANAH (Agence Nationale...</div></a></li>
+              <li><a href="http://www.dailymotion.com/video/x2st0qc" class="dialog-dailymotion" data-dailymotion="x2st0qc" title="Certinergy – Pacte Energie Solidarité – juin 2015" target="blank"><div class="video-thumbnail">
+  <img src="http://s2.dmcdn.net/LD7zD/80x60-8Gl.jpg" width="80" height="60" /></div>
+<div class="video-title">
+  Certinergy – Pacte Energie Solidarité – juin 2015</div>
+<div class="video-views-count">
+  111 views</div>
+<div class="video-description">
+  Présentation du programme PACTE ENERGIE SOLIDARITE. Certinergy a la...</div></a></li>
+              <li><a href="http://www.dailymotion.com/video/x2st08z" class="dialog-dailymotion" data-dailymotion="x2st08z" title="TOITS D’ABORD – Un programme de la Fondation Abbé Pierre – juin 2015" target="blank"><div class="video-thumbnail">
+  <img src="http://s2.dmcdn.net/LD8h1/80x60-MdT.jpg" width="80" height="60" /></div>
+<div class="video-title">
+  TOITS D’ABORD – Un programme de la Fondation Abbé Pierre – juin 2015</div>
+<div class="video-views-count">
+  21 views</div>
+<div class="video-description">
+  Présentation du programme TOITS D’ABORD, porté par la Fondation Abb...</div></a></li>
+              <li><a href="http://www.dailymotion.com/video/x2ssv7j" class="dialog-dailymotion" data-dailymotion="x2ssv7j" title="SLIME – Un programme d’accompagnement du CLER – juin 2015" target="blank"><div class="video-thumbnail">
+  <img src="http://s2.dmcdn.net/LD5SG/80x60-dab.jpg" width="80" height="60" /></div>
+<div class="video-title">
+  SLIME – Un programme d’accompagnement du CLER – juin 2015</div>
+<div class="video-views-count">
+  27 views</div>
+<div class="video-description">
+  Présentation des Services locaux d’intervention pour la maîtrise de...</div></a></li>
+            </ul>
+      <p class="info"><span>VOIR TOUTES LES VIDÉOS DAILYMOTION</span> <br/><a href="http://www.dailymotion.com/ADEME" rel="nofollow" target="blank">ADEME</a></p>
+    </div>
+  </div>
+</div>  </div>
+</section><section class="level-02">
+  <div class="inner">
+    <h2 class="title">Autres sites Ademe</h2>
+    <div class="network-carousel">
+      <a href="#" class="control previous" rel="prev" title="Site précédent"><img src="/sites/all/themes/ademe/img/skin/picto-arrow-05.png" alt="Site précédent"></a>
+      <ul class="menu"><li class="first leaf"><a href="http://www.pcet-ademe.fr/" title="Centre de ressources pour les Plans Climat-Energie" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/menu_icon_3218.jpg?itok=h2deETcR" alt="Centre de ressources pour les Plans Climat-Energie" /></a></li>
+<li class="leaf"><a href="http://www.citergie.ademe.fr/" title="Cit&#039;ergie" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/menu_icon_5277.jpg?itok=rm2htkaN" alt="Cit&#039;ergie" /></a></li>
+<li class="leaf"><a href="http://renovation-info-service.gouv.fr/" title="Renovation-info-service.gouv.fr" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/menu_icon_3220.jpg?itok=cJuav39p" alt="Renovation-info-service.gouv.fr" /></a></li>
+<li class="leaf"><a href="http://renovation-info-service.gouv.fr/" title="Renovation-info-service.gouv.fr" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/assets/images/renovation_info_service.gif?itok=NggHBS_T" alt="Renovation-info-service.gouv.fr" /></a></li>
+<li class="leaf"><a href="http://www.reduisonsnosdechets.fr/" title="Réduisons vite nos déchets ça déborde" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/menu_icon_3222.jpg?itok=wDxGuPcw" alt="Réduisons vite nos déchets ça déborde" /></a></li>
+<li class="leaf"><a href="http://www.reseaubeep.fr/" title="Réseau BEEP" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/menu_icon_3216.jpg?itok=nc5IJyP0" alt="Réseau BEEP" /></a></li>
+<li class="leaf"><a href="http://www.climat-pratic.fr/" title="Climat Pratic" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/menu_icon_3219.jpg?itok=XMJgmEsI" alt="Climat Pratic" /></a></li>
+<li class="leaf"><a href="http://ademe-et-vous.ademe.fr/" title="ADEME et Vous" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/assets/images/ademe_vous_logo_1.jpg?itok=UZAWkdtM" alt="ADEME et Vous" /></a></li>
+<li class="leaf"><a href="http://www.ecoresponsabilite.ademe.fr/" title="Guide ADEME de l&#039;éco-responsabilité" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/menu_icon_3217.jpg?itok=Dd4s-OiK" alt="Guide ADEME de l&#039;éco-responsabilité" /></a></li>
+<li class="leaf"><a href="http://www.mtaterre.fr/" title="M ta Terre" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/assets/images/mtaterre.jpg?itok=PUO9cBHt" alt="M ta Terre" /></a></li>
+<li class="leaf"><a href="http://www.optigede.ademe.fr/" title="OPTIGEDE" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/assets/images/optigede.jpg?itok=KG7sUdJh" alt="OPTIGEDE" /></a></li>
+<li class="leaf"><a href="http://www.serd.ademe.fr/" title="SERD" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/assets/images/serd.jpg?itok=PBBxOpWX" alt="SERD" /></a></li>
+<li class="leaf"><a href="http://www.sinoe.org/" title="SINOE" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/assets/images/sinoe.jpg?itok=36gZROG3" alt="SINOE" /></a></li>
+<li class="last leaf"><a href="http://www.base-impacts.ademe.fr/" title="base-impacts.ademe.fr" target="blank"><img src="http://www.ademe.fr/sites/default/files/styles/autres_sites_ademe/public/assets/images/logo_baseimpacts.jpg?itok=MtbXW60g" alt="base-impacts.ademe.fr" /></a></li>
+</ul>      <a href="#" class="control next" rel="next" title="Site suivant"><img src="/sites/all/themes/ademe/img/skin/picto-arrow-06.png" alt="Site suivant"></a>
+    </div>
+  </div>
+</section><section class="level-03">
+  <div class="inner">
+    <p class="legals">&copy; 2015, ADEME <span>&mdash; Agence de l’Environnement et de la Maîtrise de l’Énergie</span></p>
+    <ul class="links"><li class="first leaf"><a href="https://www.ademe.fr/sites/default/files/assets/documents/ademe_cgu.pdf" title="Conditions générales d&#039;utilisation" target="blank">Conditions Générales d&#039;Utilisation</a></li>
+<li class="leaf"><a href="/mentions-legales" title="Mentions légales de l&#039;ADEME">Mentions légales</a></li>
+<li class="leaf"><a href="/content/contacter">Nous contacter</a></li>
+<li class="leaf"><a href="/node/8280/">Plan du site</a></li>
+<li class="last leaf"><a href="/flux-rss" title="Les flux RSS de l&#039;ADEME">RSS</a></li>
+</ul>  </div>
+</section><section class="level-04">
+    <ul class="social"><li class="first"><a href="https://twitter.com/ademe" class="twitter" target="blank"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-twitter-03.png" alt="Partager sur Twitter" /></a></li>
+<li><a href="http://www.youtube.com/user/ademe" class="youtube" target="blank"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-youtube-03.png" alt="Partager sur Youtube" /></a></li>
+<li class="last"><a href="http://www.dailymotion.com/ADEME" class="dailymotion" target="blank"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-dailymotion-03.png" alt="Partager sur Dailymotion" /></a></li>
+</ul></section><section class="level-05">
+  <a href="/"><img src="http://www.ademe.fr/sites/all/themes/ademe/logo.png" alt="Revenir à l&#039;accueil du site http://www.ademe.fr/" title="Revenir à l&#039;accueil du site http://www.ademe.fr/" /></a>  <p>Tous droits réservés</p>
+  <a class="btn-up" href="#header">Revenir en haut</a>
+</section></footer>
+<div class="strip-container">
+  <div id="media-strip">
+    <div class="nav">
+      <a href="#" class="toggle">
+        <span title="Fermer le bandeau médiathèque" class="close">Fermer</span>
+        <span title="Ouvrir le bandeau médiathèque" class="open">Ouvrir</span>
+      </a>
+      <a href="/mediatheque" class="media"><span>Recherchez dans la Médiathèque pour trouver les ressources de l'ADEME qui correspondent à vos besoins</span></a>    </div>
+    <div class="core">
+      <div class="inner">
+        <h2 class="title">Découvrez nos publications :</h2>
+        <div class="media-carousel">
+          <a href="#" rel="prev" title="Ressource précédente" class="control previous"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-arrow-03.png" alt="Ressource précédente" /></a>          <ul><li class="visible guide first" data-position="1"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/guide-sectoriel-bilan-ges-chimie-8496.jpg?itok=MOCYEp1Z" width="76" height="107" alt="guide-sectoriel-bilan-ges-chimie-8496.jpg" title="guide-sectoriel-bilan-ges-chimie-8496.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/guide-sectoriel-realisation-dun-bilan-emissions-gaz-a-effet-serre-chimie">Guide sectoriel pour la réalisation d&#039;un bilan des émissions de gaz à effet de serre : chimie</a></p>
+  <p class="category">Guide technique, méthodologique</p>
+</div></li>
+<li class="visible tools" data-position="2"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/prevention-argumentaire-8423.jpg?itok=-ff1v3-e" width="76" height="108" alt="prevention-argumentaire-8423.jpg" title="prevention-argumentaire-8423.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/moins-dechets-dynamique-territoire">Moins de déchets, une dynamique pour votre territoire !</a></p>
+  <p class="category">Plaquette</p>
+</div></li>
+<li class="visible" data-position="3"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/8266.png?itok=L6CDW4CL" width="72" height="108" alt="8266.PNG" title="8266.PNG" /></span>
+  </div>
+<div class="content">
+  <p><a href="/lutte-contre-gaspillage-alimentaire">Lutte contre le gaspillage alimentaire</a></p>
+  <p class="category">Affiche, Exposition</p>
+</div></li>
+<li class="tools" data-position="4"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/ademevous86_couv.jpg?itok=4XO9GaXG" width="76" height="101" alt="ademevous86_couv.jpg" title="ademevous86_couv.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/transition-energetique-actions-entrez-lere-leconomie-circulaire">Transition énergétique en actions : Entrez dans l&#039;ère de l&#039;économie circulaire !</a></p>
+  <p class="category">Périodique</p>
+</div></li>
+<li class="tools" data-position="5"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/primequal_agriculture.png?itok=vP20Mvq4" width="76" height="108" alt="primequal_agriculture.PNG" title="primequal_agriculture.PNG" /></span>
+  </div>
+<div class="content">
+  <p><a href="/agriculture-pollution-lair">Agriculture et pollution de l&#039;air</a></p>
+  <p class="category">Plaquette</p>
+</div></li>
+<li class="guide" data-position="6"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/7385_pollution_air_exterieur_couv_mai2015.jpg?itok=3qxN9P6y" width="51" height="108" alt="7385_pollution_air_exterieur_couv_mai2015.jpg" title="7385_pollution_air_exterieur_couv_mai2015.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/pollution-lair-exterieur">Pollution de l&#039;air extérieur (La)</a></p>
+  <p class="category">Guide Pratique</p>
+</div></li>
+<li class="tools" data-position="7"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/ademevous85_couv.jpg?itok=5TwGkphy" width="76" height="101" alt="ademevous85_couv.jpg" title="ademevous85_couv.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/certificats-deconomie-denergie-nouvelle-donne">Certificats d&#039;économie d&#039;énergie : la nouvelle donne</a></p>
+  <p class="category">Périodique</p>
+</div></li>
+<li class="guide" data-position="8"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/choisir_professionnel_travaux_mai2015_couv.jpg?itok=bTkVnf4Z" width="51" height="108" alt="choisir_professionnel_travaux_mai2015_couv.jpg" title="choisir_professionnel_travaux_mai2015_couv.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/choisir-professionnel-travaux">Choisir un professionnel pour ses travaux</a></p>
+  <p class="category">Guide Pratique</p>
+</div></li>
+<li class="studies" data-position="9"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/enquete-environnement-201410-synthese-1.png?itok=MGXzPfp5" width="76" height="53" alt="enquete-environnement-201410-synthese-1.PNG" title="enquete-environnement-201410-synthese-1.PNG" /></span>
+  </div>
+<div class="content">
+  <p><a href="/enquete-environnement-synthese">Enquête environnement : synthèse</a></p>
+  <p class="category">Synthèse</p>
+</div></li>
+<li class="studies" data-position="10"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/francais-environnement-rapport-final.png?itok=A7OfaDGl" width="76" height="107" alt="francais-environnement-rapport-final.PNG" title="francais-environnement-rapport-final.PNG" /></span>
+  </div>
+<div class="content">
+  <p><a href="/francais-lenvironnement">Français et l&#039;environnement (Les)</a></p>
+  <p class="category">Etude, Rapport</p>
+</div></li>
+<li class="guide" data-position="11"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/changement_climatique_mai2015_couv.jpg?itok=sDtdsDdG" width="51" height="108" alt="changement_climatique_mai2015_couv.jpg" title="changement_climatique_mai2015_couv.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/changement-climatique">Changement climatique (Le)</a></p>
+  <p class="category">Guide Pratique</p>
+</div></li>
+<li class="guide last" data-position="12"><div class="picture">
+    <span class="img"><img src="http://www.ademe.fr/sites/default/files/styles/76x108/public/assets/images/individualisation_frais_chauffage_avril2015_couv.jpg?itok=ljoGLxS2" width="76" height="107" alt="individualisation_frais_chauffage_avril2015_couv.jpg" title="individualisation_frais_chauffage_avril2015_couv.jpg" /></span>
+  </div>
+<div class="content">
+  <p><a href="/individualisation-frais-chauffage-l">Individualisation des frais de chauffage (L&#039;)</a></p>
+  <p class="category">Guide Pratique</p>
+</div></li>
+</ul>          <a href="#" rel="next" title="Ressource suivante" class="control next"><img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-arrow-04.png" alt="Ressource suivante" /></a>        </div>
+      </div>
+    </div>
+  </div>
+</div>    </div>
+  <div id="ajax-loader-gif" style="display: none;">
+    <img src="http://www.ademe.fr/sites/all/themes/ademe/img/loader.gif" />  </div>
+    <script type="text/javascript" src="http://www.ademe.fr/sites/default/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script type="text/javascript" src="http://www.ademe.fr/sites/default/files/js/js_aCdePtzhf_AZ-5sEtQk1jL9S0F3h8DZBYzwlm9FxnOk.js"></script>
+<script type="text/javascript" src="http://www.ademe.fr/sites/default/files/js/js_jOKhT0m_FdMQxXJeUgr3bzdcuB0DA8E2AUeLpaUM3xY.js"></script>
+<script type="text/javascript" src="http://www.ademe.fr/sites/default/files/js/js_favaamoHBTLe9q4k5GueQstzPbKdmNPKUkwD19OakoI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m) {
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})
+    (window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', "UA-54063938-1", 'auto');
+ga('set', 'cookieDomain', ".ademe.fr");
+ga('send', 'pageview');
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.ademe.fr/sites/default/files/js/js_FKrPdfNaG2Ng7TNuoLxYFqpaVNQCVZC_BLksvdxzwT0.js"></script>
+<script type="text/javascript" src="http://www.ademe.fr/sites/default/files/js/js_Ko8-o5U8DnjOI3NdsuVk7CLySklt1dpTIsLAAXLCrJE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ademe","theme_token":"_dBRkbrUbZdTudCMfnO9rzoBKSYAedCEswLr4mlX5mU","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/views\/js\/jquery.ui.dialog.patch.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/environment_indicator\/color.js":1,"sites\/all\/modules\/linkit\/js\/linkit.js":1,"public:\/\/languages\/fr_CbJHm8TyB5BbpeY5ka204wESV5XWX2SXUUWCQ56I_z4.js":1,"misc\/progress.js":1,"sites\/all\/modules\/custom\/ademe_site\/js\/ademe_site.js":1,"sites\/all\/modules\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"0":1,"sites\/all\/modules\/flag\/theme\/flag.js":1,"sites\/all\/themes\/ademe\/js\/jquery.carouFredSel-6.2.1-packed.js":1,"sites\/all\/themes\/ademe\/js\/jquery.tabs.min.js":1,"sites\/all\/themes\/ademe\/js\/jquery.placeholder.js":1,"sites\/all\/themes\/ademe\/js\/jquery.scrollUp.min.js":1,"sites\/all\/themes\/ademe\/js\/jquery.breakpoint-min.js":1,"sites\/all\/themes\/ademe\/js\/jquery.tooltipster.min.js":1,"sites\/all\/themes\/ademe\/js\/jquery.imagemapster.min.js":1,"sites\/all\/themes\/ademe\/js\/jquery.sticky-kit.min.js":1,"sites\/all\/themes\/ademe\/js\/perfect-scrollbar-0.4.8.with-mousewheel.min.js":1,"sites\/all\/themes\/ademe\/js\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/themes\/ademe\/js\/jquery.ui.touch-punch.min.js":1,"sites\/all\/themes\/ademe\/js\/jquery.redirect.js":1,"sites\/all\/themes\/ademe\/js\/ademe.js":1,"sites\/all\/themes\/ademe\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/asset\/css\/assets.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/flag\/theme\/flag.css":1,"sites\/all\/themes\/ademe\/css\/ademe.css":1,"sites\/all\/themes\/ademe\/css\/custom.css":1,"sites\/all\/themes\/ademe\/css\/print.css":1}},"iframeScriptPath":"\/sites\/all\/themes\/ademe\/js\/iframe.script.js","mails":{"resource":"document"},"destination":{"destination":"homepage?name=40584E4FE6C27F7DC9B5C1D63D39D5661295277858213.xls"},"telecharger":false,"linkit":{"autocompletePath":"http:\/\/www.ademe.fr\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EEn consultant le site de l\u0027ADEME, vous acceptez l\u2019utilisation des cookies. Ils permettent de m\u00e9moriser votre s\u00e9lection de documents dans la M\u00e9diath\u00e8que et de r\u00e9aliser des statistiques de visite sur notre site.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003EPlus d\u0027info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1,"popup_link":"\/information_cookies","popup_link_new_window":1,"popup_position":1,"popup_language":"fr","domain":""},"flag":{"anonymous":true}});
+//--><!]]>
+</script>
+</body>
+</html>
