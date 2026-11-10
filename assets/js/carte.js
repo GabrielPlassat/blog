@@ -95,3 +95,20 @@ async function voisins(sel, url){
   const blk=(h,ids)=>ids.length?`<h3>${h}</h3><ul class="plist">${ids.map(j=>li(P[j])).join('')}</ul>`:'';
   box.innerHTML = blk('Voisins par le texte', p.nb.map(x=>x[0])) + blk('Cet article cite', p.out) + blk(`Cité par (${p.inn.length})`, p.inn.slice(0,12));
 }
+
+/* Styles minimaux des vues, au cas où la feuille de style du thème ne serait pas chargée */
+(function(){ if(document.getElementById('carte-css')) return; const s=document.createElement('style'); s.id='carte-css'; s.textContent=`
+.vue .ctl{display:flex;flex-wrap:wrap;gap:14px;align-items:center;font-size:.9em;margin-bottom:8px}
+.legend{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 10px}
+.chip{display:inline-flex;align-items:center;gap:6px;font-size:.78em;padding:3px 9px;border:1px solid #dee2e6;border-radius:14px;background:#fff}
+.chip i{width:9px;height:9px;border-radius:50%;display:inline-block}
+.cv{width:100%;height:auto;background:#fbfaf7;border:1px solid #dee2e6;border-radius:8px}
+.clink{stroke:#b9b5ab;stroke-opacity:.35}.chalo{stroke:#d6455d;stroke-width:1.4}
+.tlab{font-size:10px;fill:#444;pointer-events:none}.tlab.muted{fill:#999}
+.note{font-size:.85em;color:#6c757d}
+.ctip{position:fixed;display:none;max-width:280px;background:#222;color:#fff;padding:7px 10px;border-radius:6px;font-size:13px;line-height:1.35;pointer-events:none;z-index:99}
+.ctip small{color:#bbb}
+.plist{list-style:none;margin:0;padding:0}
+.plist li{display:flex;gap:10px;align-items:baseline;padding:6px 0;border-bottom:1px solid #dee2e6;font-size:.92em}
+.plist li i{flex:none;width:9px;height:9px;border-radius:50%;display:inline-block}
+.pd{flex:none;color:#6c757d;font-family:ui-monospace,monospace;font-size:.85em;min-width:4.5em}`; document.head.appendChild(s); })();
