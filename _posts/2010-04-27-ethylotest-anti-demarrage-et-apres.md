@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Ethylotest Anti Démarrage et après ?"
-date: 2010-04-27 16:35:23 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assurance', 'collectivité', 'confiance', 'covoiturage', 'données réelles', 'PAYD']
-=======
-tags: ["assurance", "collectivit\u00e9", "confiance", "covoiturage", "donn\u00e9es r\u00e9elles", "PAYD"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/ethylotest-anti-demarrage-et-apres.html"
+tags: ["assurance", "collectivité", "confiance", "covoiturage", "données réelles", "PAYD"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/04/27/ethylotest-anti-demarrage-et-apres/
 ---
 
-Obligatoire pour le transport d'enfant depuis janvier 2010, ce système (déjà abordé **[ici](/2010/03/vers-plus-de-securite.html)**)va s'étendre à tous les véhicules de transport en commun public, et sans doute ensuite au transport en commun privé", comme le covoiturage.
+Obligatoire pour le transport d'enfant depuis janvier 2010, ce système (déjà abordé **[ici]({{ site.baseurl }}/2010/03/vers-plus-de-securite/)**)va s'étendre à tous les véhicules de transport en commun public, et sans doute ensuite au transport en commun privé", comme le covoiturage.
 
  
 

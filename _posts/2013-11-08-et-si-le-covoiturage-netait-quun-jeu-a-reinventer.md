@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si le covoiturage n'était qu'un jeu à réinventer"
-date: 2013-11-08 09:27:19 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'autopartage', 'covoiturage']
-=======
+date: 2013-11-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "font-family: Calibri"
 tags: ["ADEME", "autopartage", "covoiturage"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2013/11/08/et-si-le-covoiturage-netait-quun-jeu-a-reinventer/
 ---
 
 [Il s'agit d'un billet invité, Bienvenue à **Pierre Trami**, Energies & Mobilités chez GrDF]
@@ -22,7 +23,7 @@ Nous avons tous fait le constat que le jour le plus fluide de la semaine est le 
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b019b00cdb0b9970b-500wi.jpg)](http://aviary.blob.core.windows.net/k-mr6i2hifk4wxt1dp-13110808/9f526d1f-66b5-45eb-aead-1db75a4acc4c.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b00cdb0b9970b-500wi.jpg)](http://aviary.blob.core.windows.net/k-mr6i2hifk4wxt1dp-13110808/9f526d1f-66b5-45eb-aead-1db75a4acc4c.jpg)
 
  
 
@@ -74,11 +75,7 @@ Pour la collectivité publique une réduction significative des véhicules aux a
 
 Le véhicule et l’adulte deviendraient alors totalement  accessoires, des moyens et non des finalités au service d’un plus grand nombre pour faire prendre conscience de cette efficacité. C’est peut être ce levier qui sensibilisera à son tour le monde des adultes.
 
-<<<<<<< HEAD
 "2013-11-08 09:27:19https://transportsdufutur.ademe.fr/2013/11/et-si-le-covoiturage-netait-quun-jeu-a-reinventer.htmlArticles invitésADEME|autopartage|covoituragepublish27pierre tramiet-si-le-covoiturage-netait-quun-jeu-a-reinventer2017-11-02 16:45:43color: black"">Pour mieux connaitre les déplacements et les lieux de résidence afin d’apporter dans un second temps des services appropriés à l’intérieur de la tribu (des offres spécifiques de magasins sur le parcours en fonction de la population) ou  à l’extérieur de la tribu (profiter de ce déplacement pour porter éventuellement des colis/objets à des personnes âgées, etc…)
-=======
-"2013-11-08 09:27:19/2013/11/08/et-si-le-covoiturage-netait-quun-jeu-a-reinventer/Articles invitésADEME|autopartage|covoituragepublish27pierre tramiet-si-le-covoiturage-netait-quun-jeu-a-reinventer2017-11-02 16:45:43color: black"">Pour mieux connaitre les déplacements et les lieux de résidence afin d’apporter dans un second temps des services appropriés à l’intérieur de la tribu (des offres spécifiques de magasins sur le parcours en fonction de la population) ou  à l’extérieur de la tribu (profiter de ce déplacement pour porter éventuellement des colis/objets à des personnes âgées, etc…)
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si les mobilités de demain étaient pensées à travers le jeu ?"
-date: 2010-08-30 12:04:30 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['connectivité', 'internet', 'jeu vidéo', 'living lab', 'partage de données', 'réseaux', 'TED', 'transition générationnelle']
-=======
-tags: ["connectivit\u00e9", "internet", "jeu vid\u00e9o", "living lab", "partage de donn\u00e9es", "r\u00e9seaux", "TED", "transition g\u00e9n\u00e9rationnelle"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "padding-left: 30px\"\"><em>[…] Nous avons tous ces super-pouvoirs incroyables, cette productivité merveilleuse, la possibilité de tisser un lien social solide, ce sentiment d'optimisme urgent, et le désir d'un sens héroïque à nos vies.</em></p> <p>            </p> <p style=\"\"text-align: justify\"\">Le Blog Transit City souligne dans <strong><a href=\"\"http://transit-city.blogspot.com/2010/08/et-si-la-mobilite-urbaine-devenait.html\"\">un récent article</a></strong> également le pouvoir des jeux dans l’imaginaire. le dernier spot de AT&T / BlackBerry intitulé \"<strong><a href=\"\"http://www.youtube.com/watch?v=ow7SBaQTjlo\"\">Rollercoaster</a></strong>\" qui propose une joyeuse vision de la mobilité urbaine revue et corrigée sous l'angle du parc d'attraction. Un spot assez jubilatoire et décalé, mais qui de façon paradoxale, n'apparaît pas aussi déconnant qu'il en à l'air.  En effet, pourquoi ne pas imaginer que les futurs taxis soit des micro-cars électrique semblables aux voitures tamponneuses ? Pourquoi ne pas se demander si le train fantôme ne pourrait pas être une nouvelle figure du métro de demain ?</p> <p style=\"\"text-align: justify\"\">De son coté, <a href=\"\"http://www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world.html\"\" target=\"\"_blank\"\">Seth Priebatsch</a>, créateur de <strong><a href=\"\"http://www.scvngr.com/\"\">SCVNGR</a></strong>, propose ni plus ni moins de construire la couche de jeux « au dessus du monde ». Extraits :</p> <p style=\"\"text-align: justify"
+tags: ["connectivité", "internet", "jeu vidéo", "living lab", "partage de données", "réseaux", "TED", "transition générationnelle"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/08/30/et-si-les-mobilites-de-demain-etaient-pensees-a-travers-le-jeu/
 ---
 
 Des jeux comme World of Warcraft donnent aux joueurs les moyens de sauver des mondes et des motivations pour apprendre les habitudes des héros. Des jeux comme **[Sim City](http://www.youtube.com/watch?v=krM4cw5oYDk&feature=related)** propose des modules spécifiques liés aux transports pour jouer (est ce encore un jeu ?) à construire des systèmes de mobilité performants. Que se passerait-il si nous pouvions utiliser la puissance des joueurs pour résoudre des problèmes du monde réel ?

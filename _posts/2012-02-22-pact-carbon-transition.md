@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Pact Carbon Transition"
-date: 2012-02-22 10:49:43 +0100
-categories: []
+date: 2012-02-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: "22/02/2012 10:49"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2012/02/22/pact-carbon-transition/
 ---
 
 Dans l'étude sur les évolutions possibles de nos modes de vies et des villes sous contraintes énergétiques et économiques, le rapport de recherche sur les scénarios de transitions du projet européen PACT (Pathways for Carbon Transitions) propose des éléments de compréhension. Il est disponible sur [le site du projet](http://www.pact-carbon-transition.org/) : http://www.pact-carbon-transition.org/
@@ -16,8 +21,4 @@ Parmi, les trois scénarios étudiés Spacecraft", "Smartphone" et "Hardway". Le
 
 [![]()]()[ ]()
 
-<<<<<<< HEAD
  pact carbon transition View more [documents]() from [Les transports du futur](). "2012-02-22 10:49:43https://transportsdufutur.ademe.fr/2012/02/pact-carbon-transition.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpact-carbon-transition2015-07-21 16:36:35
-=======
- pact carbon transition View more [documents]() from [Les transports du futur](). "2012-02-22 10:49:43/2012/02/22/pact-carbon-transition/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpact-carbon-transition2015-07-21 16:36:35
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

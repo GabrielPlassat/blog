@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Appel à projets : Services innovants pour les automobilistes"
-date: 2012-10-15 15:40:08 +0100
-categories: []
+date: 2012-10-15
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/10/appel-a-projets-services-innovants-pour-les-automobilistes.html"
 tags: []
+theme: "Communs, écosystèmes & open source"
+redirect_from:
+  - /2012/10/15/appel-a-projets-services-innovants-pour-les-automobilistes/
 ---
 
 Source : [**LA FING**](http://www.fing.org/?APPEL-A-PROJET-CARREFOUR-DES,930)

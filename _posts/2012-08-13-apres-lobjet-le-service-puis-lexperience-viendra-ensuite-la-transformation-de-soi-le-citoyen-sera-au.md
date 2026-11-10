@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Après l'objet, le service, puis l'expérience. Viendra ensuite la transformation de soi, le citoyen sera au centre"
-date: 2012-08-13 10:53:17 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'données réelles', 'economie circulaire', "économie de l'expérience", 'Efficacité énergétique', 'holoptisme', 'innovation', 'intelligence collective', 'Service de mobilité', 'TED']
-=======
-tags: ["citoyen", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie de l'exp\u00e9rience", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "holoptisme", "innovation", "intelligence collective", "Service de mobilit\u00e9", "TED"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-08-13
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/08/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au.html"
+tags: ["citoyen", "données réelles", "economie circulaire", "économie de l'expérience", "Efficacité énergétique", "holoptisme", "innovation", "intelligence collective", "Service de mobilité", "TED"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/08/13/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b017744197e06970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017744197e06970d-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017744197e06970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017744197e06970d-pi.jpg)
 Certaines entreprises ont déjà mis en oeuvre des stratégies visant à transformer leurs modèles d'affaires pour faire vivre à leurs clients, devenus des [**invités**](http://sensduclient.blogspot.fr/2011/01/les-10-tendances-du-sens-du-client-2011.html), une [**expérience mémorable**](http://www.experience-marketing.fr/les-xperts/les-secrets-des-experiences-memorables-15/). Citons Apple ou Starbuck. Après l'économie des services, se développe actuellement [**l'économie de l'expérience**](http://www.geoffroigaron.com/2010/04/evenements/les-4-e-du-marketing-et-leconomie-de-lexperience-rdvweb/). Le risque à ne pas suivre cette voie est grand. Ces modèles d'affaires élèvent la relation avec l'acheteur", et décalent les concurrents vers le bas. Les objets d'aujourd'hui pourraient ainsi devenir des [**commodités** ]()demain pour les maîtres de l'économie de l'expérience ([**wiki**]()). Les conséquences pour le secteur des transports et des mobilités sont évidentes, directes, potentiellement dangereuses pour les industries en place. D'autant que déjà se prépare la phase suivante, l'économie de la transformation de soi, le citoyen consommateur en sera le coeur. 
 
  

@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "MétaNote TdF 4 - Les énergies"
-date: 2010-03-17 16:15:41 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['batiment', 'citoyen', 'Efficacité énergétique', 'Infrastructure', 'internet', 'mode doux', 'multimodes', 'PDIE', 'Service de mobilité']
-=======
-tags: ["batiment", "citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure", "internet", "mode doux", "multimodes", "PDIE", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "1259"
+tags: ["batiment", "citoyen", "Efficacité énergétique", "Infrastructure", "internet", "mode doux", "multimodes", "PDIE", "Service de mobilité"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/03/17/les-energies/
 ---
 
-Cette MétaNote vise à faire un bilan dans le domaine des énergies utilisées pour les transports. Le graphique suivant est sans appel, en France, la consommation d'énergie est focalisée sur la route, donc sur le pétrole. Est-ce que cette concentration est robuste aux cygnes noirs (voir [**ici**](/2009/11/quel-sera-le-prochain-cygne-noir-.html) - évènements fortement improbables qui changent tout quand ils arrivent)? Quelles évolutions de la demande de transport, de l'offre énergétique peut-on déjà envisager ? Dans un monde de services de mobilité, quelle pourrait être la place d'un énergéticien ?
+Cette MétaNote vise à faire un bilan dans le domaine des énergies utilisées pour les transports. Le graphique suivant est sans appel, en France, la consommation d'énergie est focalisée sur la route, donc sur le pétrole. Est-ce que cette concentration est robuste aux cygnes noirs (voir [**ici**]({{ site.baseurl }}/2009/11/quel-sera-le-prochain-cygne-noir/) - évènements fortement improbables qui changent tout quand ils arrivent)? Quelles évolutions de la demande de transport, de l'offre énergétique peut-on déjà envisager ? Dans un monde de services de mobilité, quelle pourrait être la place d'un énergéticien ?
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a947b1ce970b-320pi.gif)](/assets/images/old/6a0120a66d2ad4970b0120a947b1ce970b-pi.gif)  
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a947b1ce970b-320pi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a947b1ce970b-pi.gif)  
 
  
 A la différence du véhicule, les vecteurs énergétiques n'ont jamais fait rêver les citoyens. La récente publicité de Michelin est particulièrement éclairante: la méchante pompe à essence qui ponctionne l'argent durement gagné du ménage... 
@@ -27,11 +28,11 @@ Ce mariage {moteur thermique / pétrole}, a balayé dès le départ tous les pro
 
  
 
-Cette mobilité, au singulier, basée sur une seule solution, une seule énergie, un seul modèle économique, une poignée d’acteurs industriels, est confrontée **simultanément** à plusieurs contraintes : environnementales (pollution locale, GES), énergétiques (diversification, bilan complet du puits à la roue, dommages collatéraux de type concurrence vis-à-vis de l’alimentaire), sociales (**[coûts d’usage en croissance](/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite.html)**, **[dépendance de certains ménages fragiles à l’automobile](/2009/12/precarite-et-mobilite-quelques-elements-de-contexte.html)**, sanitaires (**[obésité](/2009/11/mobilite-obesite-sante-innovons-vite.html)**, **[internalisation des externalités](/2010/02/vers-la-sante-20.html)** et économiques (**[évolution des comportements d’achat des véhicules neufs](/2010/02/less-is-more.html)**, compétition internationale).
+Cette mobilité, au singulier, basée sur une seule solution, une seule énergie, un seul modèle économique, une poignée d’acteurs industriels, est confrontée **simultanément** à plusieurs contraintes : environnementales (pollution locale, GES), énergétiques (diversification, bilan complet du puits à la roue, dommages collatéraux de type concurrence vis-à-vis de l’alimentaire), sociales (**[coûts d’usage en croissance]({{ site.baseurl }}/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite/)**, **[dépendance de certains ménages fragiles à l’automobile]({{ site.baseurl }}/2009/12/precarite-et-mobilite-quelques-elements-de-contexte/)**, sanitaires (**[obésité](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/2009/11/mobilite-obesite-sante-innovons-vite.html)**, **[internalisation des externalités]({{ site.baseurl }}/2010/02/vers-la-sante-20/)** et économiques (**[évolution des comportements d’achat des véhicules neufs]({{ site.baseurl }}/2010/02/less-is-more/)**, compétition internationale).
 
  
 
-Il convient donc de mettre en œuvre **des mobilités**, au pluriel, **[plus robustes aux crises à venir](/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir.html)**, adaptées aux conditions locales impliquant pour la première fois les citoyens/consommateurs dans la co-production des outils et des méthodes, plus « propres et efficaces », utilisant nos déchets et des énergies co-produites localement donc **[mieux sécurisées](/2010/01/secheresse-en-inde-pluie-au-bresil-tension-sur-le-sucre-et-ethanol-en-hausse.html)**, communicantes avec les infrastructures - les véhicules - les citoyens - les énergies, et basées sur des modèles économiques des objets et des services. 
+Il convient donc de mettre en œuvre **des mobilités**, au pluriel, **[plus robustes aux crises à venir]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**, adaptées aux conditions locales impliquant pour la première fois les citoyens/consommateurs dans la co-production des outils et des méthodes, plus « propres et efficaces », utilisant nos déchets et des énergies co-produites localement donc **[mieux sécurisées]({{ site.baseurl }}/2010/01/secheresse-en-inde-pluie-au-bresil-tension-sur-le-sucre-et-ethanol-en-hausse/)**, communicantes avec les infrastructures - les véhicules - les citoyens - les énergies, et basées sur des modèles économiques des objets et des services. 
 
 Les compagnies deviennent des énergéticiens multi-produits travaillant le gaz naturel éventuellement liquéfié, les sables bitumineux et le charbon, la biomasse issue d'arbres à rotation rapide oux d'algues micro ou macroscopiques (voir **[ici](https://docs.google.com/fileview?id=0B-0CzLRVt-K9NjgyMDZkYzUtNzZkYS00ZGYyLTg2Y2ItYjgzMDc2OTIzNDI4&hl=en)**, **[ici](https://docs.google.com/fileview?id=0B-0CzLRVt-K9YTdkMTE4YTUtZGI4OC00MmQzLTg1NGQtNTkxNjQ4NjMwMzNh&hl=en)**, [**ici** ](https://docs.google.com/fileview?id=0B-0CzLRVt-K9NzNiNjBjNDgtNzlmNy00MGMyLWIwMjYtMDg0MDAzYzc1MjY4&hl=en)et **[ici](https://docs.google.com/fileview?id=0B-0CzLRVt-K9YzVmNDFlMjctNDIwZi00OTU4LWE4ZWMtZTY0OWQ2MDMwZmRj&hl=en)**), les déchets ménagers et industriels, ou d'autres co-produits industriels. La polygénération à partir d'une multitude de matières" deviendra la norme, avec deux conséquences :
 
@@ -79,11 +80,7 @@ Dans ce contexte de diversification énergétique, de spécialisation et de réd
 
  
 
-<<<<<<< HEAD
 "2010-03-17 16:15:41https://transportsdufutur.ademe.fr/2010/03/les-energies.htmlMétaNotesbatiment|citoyen|Efficacité énergétique|Infrastructure|internet|mode doux|multimodes|PDIE|Service de mobilitépublish18gabriel plassatles-energies2017-11-02 16:38:347846"" target=""_blank"">ici un exemple) ou à des batailles pour conserver les ressources primaires (il y a déjà aujourd'hui plusieurs utilisateurs d'huile de palme : industries alimentaire, des savons et demain des énergies), 
-=======
-"2010-03-17 16:15:41/2010/03/17/les-energies/MétaNotesbatiment|citoyen|Efficacité énergétique|Infrastructure|internet|mode doux|multimodes|PDIE|Service de mobilitépublish18gabriel plassatles-energies2017-11-02 16:38:347846"" target=""_blank"">ici un exemple) ou à des batailles pour conserver les ressources primaires (il y a déjà aujourd'hui plusieurs utilisateurs d'huile de palme : industries alimentaire, des savons et demain des énergies), 
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 - des bilans environnementaux multicritères de plus en plus complexes variables dans le temps (en fonction de la demande d'un ou plusieurs co-produits) et dans l'espace (les marchés ne sont pas homogènes selon les territoires). 
  
 

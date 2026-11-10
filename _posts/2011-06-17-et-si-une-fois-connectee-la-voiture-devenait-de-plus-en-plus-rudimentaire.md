@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Et si une fois connectée, la voiture devenait de plus en plus rudimentaire ?"
-date: 2011-06-17 17:43:43 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autorité des transports', 'connectivité', 'donnée data', 'internet', 'management de la mobilité', 'partage de données', 'simplicité']
-=======
-tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "connectivit\u00e9", "donn\u00e9e data", "internet", "management de la mobilit\u00e9", "partage de donn\u00e9es", "simplicit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-06-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: ">En reprenant une <strong><a href=\"\"/2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite.html\"\" target=\"\"_blank\"\">ancienne note </a></strong>: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  <br /><a href=\"\"/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b014e5fb3b3af970c-pi.jpg\"\" style=\"\"display: inline"
+tags: ["assistant de mobilité", "autorité des transports", "connectivité", "donnée data", "internet", "management de la mobilité", "partage de données", "simplicité"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2011/06/17/et-si-une-fois-connectee-la-voiture-devenait-de-plus-en-plus-rudimentaire/
 ---
 
-Il aspire tout. Votre chaîne Hifi, votre album photo, votre carnet d'adresse, votre agenda, demain votre porte monnaie et votre carte bleue. Notre assistant numérique devient une partie externe de notre corps, **[Michel SERRES parle même d'un exo-darwinisme](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**. Et demain ?
+Il aspire tout. Votre chaîne Hifi, votre album photo, votre carnet d'adresse, votre agenda, demain votre porte monnaie et votre carte bleue. Notre assistant numérique devient une partie externe de notre corps, **[Michel SERRES parle même d'un exo-darwinisme]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)**. Et demain ?
 
  
 
@@ -39,11 +40,7 @@ En reprenant une **[ancienne note ]()**: Le cube central représente les bases d
 
 De nombreux acteurs privés et publics devront s'associer pour développer des outils de pilotage des mobilité, de management de la mobilité.
 
-<<<<<<< HEAD
 "2011-06-17 17:43:43https://transportsdufutur.ademe.fr/2011/06/et-si-une-fois-connectee-la-voiture-devenait-de-plus-en-plus-rudimentaire.htmlassistant de mobilité|autorité des transports|connectivité|donnée data|internet|management de la mobilité|partage de données|simplicitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-une-fois-connectee-la-voiture-devenait-de-plus-en-plus-rudimentaire2015-07-21 16:36:46>En reprenant une **[ancienne note ]()**: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  
-=======
-"2011-06-17 17:43:43/2011/06/17/et-si-une-fois-connectee-la-voiture-devenait-de-plus-en-plus-rudimentaire/assistant de mobilité|autorité des transports|connectivité|donnée data|internet|management de la mobilité|partage de données|simplicitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-une-fois-connectee-la-voiture-devenait-de-plus-en-plus-rudimentaire2015-07-21 16:36:46>En reprenant une **[ancienne note ]()**: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 [![]()]()
 
  

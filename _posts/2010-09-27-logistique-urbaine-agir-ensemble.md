@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Logistique urbaine : agir ensemble (le guide)"
-date: 2010-09-27 15:56:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'cité', 'collectivité', 'marchandises', 'véhicule propre']
-=======
-tags: ["ADEME", "cit\u00e9", "collectivit\u00e9", "marchandises", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/logistique-urbaine-agir-ensemble.html"
+tags: ["ADEME", "cité", "collectivité", "marchandises", "véhicule propre"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/09/27/logistique-urbaine-agir-ensemble/
 ---
 
 La logistique urbaine joue un rôle important dans le bon fonctionnement des villes et des agglomérations. Son organisation nécessite une meilleure coordination entre acteurs publics et privés. Face à ce constat, l’objectif du guide (voir ci dessous) d’aide à la décision est de contribuer à éclairer les collectivités territoriales et les professionnels pour une meilleure organisation des transports urbains de marchandises. L’objectif est d’inciter à agir pour une logistique urbaine « soutenable », mais aussi la mise en commun et la valorisation des bonnes pratiques en matière de livraison de marchandises en ville, autant du point de vue technique que juridique et économique.

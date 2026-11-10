@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Cherche testeur pour projet de R&D - Mobilité - sur Sophia Antipolis (06)"
-date: 2010-09-15 17:28:27 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'connectivité', 'covoiturage', 'données réelles', 'internet', 'internet des objets', 'iphone', 'mode doux', 'multimodes', 'Service de mobilité']
-=======
-tags: ["ADEME", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "iphone", "mode doux", "multimodes", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-15
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/cherche-testeur-pour-projet-de-rd-mobilite-sur-sophia-antipolis-06.html"
+tags: ["ADEME", "connectivité", "covoiturage", "données réelles", "internet", "internet des objets", "iphone", "mode doux", "multimodes", "Service de mobilité"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/09/15/cherche-testeur-pour-projet-de-rd-mobilite-sur-sophia-antipolis-06/
 ---
 
-Le projet TICTAC (déjà présenté **[ici](/2010/07/le-projet-tictac-est-finance-par-lademe-dans-le-cadre-du-programme-de-recherche-predit-go3-pour-une-duree-de-2-ansles.html)**) est financé par l’ADEME dans le cadre du programme de recherche PREDIT (GO3) pour une durée de 2 ans.
+Le projet TICTAC (déjà présenté **[ici]({{ site.baseurl }}/2010/07/le-projet-tictac-est-finance-par-lademe-dans-le-cadre-du-programme-de-recherche-predit-go3-pour-une-duree-de-2-ansles/)**) est financé par l’ADEME dans le cadre du programme de recherche PREDIT (GO3) pour une durée de 2 ans.
 
  
 

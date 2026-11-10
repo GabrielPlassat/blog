@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Qu'aurait pensé Illich du monopole radical des GAFA ?"
-date: 2014-07-21 15:01:12 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'citoyen', 'collectivité', 'commuter', 'confiance', 'Illich', 'pensée complexe', 'philosophie']
-=======
-tags: ["assistant de mobilit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "confiance", "Illich", "pens\u00e9e complexe", "philosophie"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-07-21
+source: tdf
+source_name: "Transports du Futur"
+original_url: "text-align: justify\"\"><em>Le transport est un mode de circulation fondé sur l'utilisation intensive du capital, et le transit, sur un recours intensif au travail du corps. Le transport est un produit de l'industrie dont les usagers sont les clients. C'est une marchandise affectée"
+tags: ["assistant de mobilité", "citoyen", "collectivité", "commuter", "confiance", "Illich", "pensée complexe", "philosophie"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/07/21/quaurait-pense-illich-du-monopole-des-gafa/
 ---
 
 Ivan Illich a décrit parfaitement la dépendance à l'automobile. Il a forgé le concept de monopole radical pour décrire cette situation : Il désigne non pas la situation monopolistique d'une marque particulière mais le monopole induit d'une ou plusieurs marques visant à modifier, contrôler et à terme contraindre des populations à modifier radicalement (d'où l'épithète « radical ») leurs habitudes quotidiennes notamment en restreignant leurs choix et leurs libertés [...] Le monopole radical touche à tous les domaines de la vie quotidienne mais essentiellement ceux qui impliquent nécessairement un acte participatif d'achat et de consommation. Il impose ainsi de nouvelles habitudes alimentaires, vestimentaires, des contraintes dans la manière de se déplacer (marche à pied et vélo vaincus par les véhicules motorisés), d'accéder à la culture, de se soigner ou encore d'apprendre.
@@ -18,7 +19,7 @@ Le texte d'Ivan Illich à la fin de cet article porte particulièrement sur la m
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a511e5e2c6970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a511e5e2c6970c-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511e5e2c6970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511e5e2c6970c-pi.jpg)
 
  
 

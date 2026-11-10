@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Mobilités 2.0 vues par M.Roland Ries"
-date: 2010-11-02 11:20:22 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'partage de données', 'Service de mobilité']
-=======
-tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/mobilites-20-vues-par-mroland-ries.html"
+tags: ["autorité des transports", "cité", "citoyen", "collectivité", "partage de données", "Service de mobilité"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/11/02/mobilites-20-vues-par-mroland-ries/
 ---
 
 Interview de Roland Ries, Sénateur et Maire de Strasbourg, président du GART (Groupement des Autorités Responsables de Transports), à l'occasion du salon Transports Publics en juin 2010 à Paris. Questions à l'élu suivies par un extrait de la conférence La mobilité durable dans les grandes métropoles européennes".

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les technologies ne feront jamais que ce que l’on en décide !"
-date: 2009-12-14 09:58:50 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['arzens', 'Energie', 'Service de mobilité', 'simplicité', 'Véhicule']
-=======
-tags: ["arzens", "Energie", "Service de mobilit\u00e9", "simplicit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-12-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/les-technologies-ne-feront-jamais-que-ce-que-lon-en-decide.html"
+tags: ["arzens", "Energie", "Service de mobilité", "simplicité", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/12/14/les-technologies-ne-feront-jamais-que-ce-que-lon-en-decide/
 ---
 
 Des voitures électriques dédiées pour les villes, de faibles tailles, des voitures partagées en l’entrée des agglomérations dont il ne serait nécessaire d’être propriétaire, des véhicules électriques avec 250 km d’autonomie réelle… D’après, c’est pour quand ? 2012, 2015, 2020 ?
@@ -24,7 +25,7 @@ Prenez le temps (13 minutes) de regarder un film sur le site de l’INA **[en cl
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b012876514ac6970c-800wi.png)](/assets/images/old/6a0120a66d2ad4970b012876514ac6970c-pi.png) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012876514ac6970c-800wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012876514ac6970c-pi.png) 
 
  
 

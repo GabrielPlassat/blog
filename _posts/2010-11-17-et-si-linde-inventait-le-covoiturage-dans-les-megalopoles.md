@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Et si l'Inde inventait le covoiturage dynamique et sécurisé pour les mégalopoles ?"
-date: 2010-11-17 09:23:16 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['covoiturage', 'Delhi', 'internet']
-=======
+date: 2010-11-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/et-si-linde-inventait-le-covoiturage-dans-les-megalopoles.html"
 tags: ["covoiturage", "Delhi", "internet"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/11/17/et-si-linde-inventait-le-covoiturage-dans-les-megalopoles/
 ---
 
 **[Megacarpool.com](http://www.megacarpool.com/)** : Utilisant des tablettes numériques connectées à internet avec GPS, les véhicules qui offrent des places sont géolocalisés. La demande de transport (donc de siège libre) est effectuée par SMS ou téléphone, l'offre correspondante se présente, offre une sécurisation via la tablette par des identifications par photos. Les covoiturés payent ou utilisent des points gagnés quand ils étaient covoitureurs. Une monnaie libre est donc utilisée pour payer des courses, sachant que ces points peuvent être donnés à d'autres personnes. Tout le détail, ci dessous (et **[ici](http://timesofindia.indiatimes.com/city/delhi/Share-ride-win-points/articleshow/6933359.cms#ixzz15Tr2xWtx)**):
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f5e88171970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f5e88171970b-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5e88171970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5e88171970b-800wi.jpg) 
 
  
 

@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Amazon Supply et OS Vehicle préfigurent le futur de la mobilité quotidienne"
-date: 2014-05-12 18:39:36 +0100
-categories: []
+date: 2014-05-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: ">D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : \"A<em>ll the plans and blueprints for TABBY can be downloaded in the website’s <strong><a href=\"\"http://www.osvehicle.com/download/\"\" title=\"\"download tabby\"\">download</a></strong> section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV <strong><a href=\"\"http://www.osvehicle.com/forum/\"\" title=\"\"osv forum\"\">forum</a></strong>.</em>\" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre <a href=\"\"http://www.osvehicle.com/buy/\"\" target=\"\"_blank\"\"><strong>à moins de 3000 euros</strong></a>. <a href=\"\"http://www.osvehicle.com/urban-tabby-info/\"\" target=\"\"_blank\"\"><strong>Urban Tabby</strong></a> est le véhicule urbain par excellence.</p> <p style=\"\"text-align: justify"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2014/05/12/amazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne/
 ---
 
-Faisant suite à un article rédigé en août 2012 (lire [**Le numérique change les modes de production**](/2012/08/le-numerique-change-les-modes-de-production-des-objets-et-potentiellement-nos-relations-a-ces-objets.html)), présentant (déjà) [**AmazonSupply**](http://www.amazonsupply.com/), il devient nécessaire de se focaliser sur la synergie possible avec [**OS vehicle**](http://www.osvehicle.com/). 
+Faisant suite à un article rédigé en août 2012 (lire [**Le numérique change les modes de production**]({{ site.baseurl }}/2012/08/le-numerique-change-les-modes-de-production-des-objets-et-potentiellement-nos-relations-a-ces-objets/)), présentant (déjà) [**AmazonSupply**](http://www.amazonsupply.com/), il devient nécessaire de se focaliser sur la synergie possible avec [**OS vehicle**](http://www.osvehicle.com/). 
 
  
 
@@ -38,11 +43,7 @@ Et si [**Bolloré**]() ou [**Transdev**]() designaient des [**services de mobili
 
  
 
-<<<<<<< HEAD
 "2014-05-12 18:39:36https://transportsdufutur.ademe.fr/2014/05/amazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatamazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne2015-07-21 16:35:33>D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : "A*ll the plans and blueprints for TABBY can be downloaded in the website’s **[download]()** section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV **[forum]()**.*" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre [**à moins de 3000 euros**](). [**Urban Tabby**]() est le véhicule urbain par excellence.
-=======
-"2014-05-12 18:39:36/2014/05/12/amazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatamazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne2015-07-21 16:35:33>D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : "A*ll the plans and blueprints for TABBY can be downloaded in the website’s **[download]()** section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV **[forum]()**.*" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre [**à moins de 3000 euros**](). [**Urban Tabby**]() est le véhicule urbain par excellence.
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

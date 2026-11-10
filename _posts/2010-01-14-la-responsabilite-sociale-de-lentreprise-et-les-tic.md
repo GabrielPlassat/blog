@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "La responsabilité sociale de l'entreprise et les TIC"
-date: 2010-01-14 22:41:44 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'partage de données', 'philanthropie', 'RSE', 'TIC']
-=======
-tags: ["Energie", "partage de donn\u00e9es", "philanthropie", "RSE", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/la-responsabilite-sociale-de-lentreprise-et-les-tic.html"
+tags: ["Energie", "partage de données", "philanthropie", "RSE", "TIC"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/01/14/la-responsabilite-sociale-de-lentreprise-et-les-tic/
 ---
 
 La **responsabilité sociale (ou sociétale) des entreprises** (RSE) est un concept dans lequel les entreprises intègrent les préoccupations sociales, environnementales, et économiques dans leurs activités et dans leurs interactions avec leurs parties prenantes sur une base volontaire.
@@ -60,13 +61,9 @@ Et pourtant jusqu'à présent cette communication institutionnelle est relativem
 
  
 
-Le couple internet/smart phone apportera les bons indicateurs au bon moment en tous lieux. Pour cela, des nouveaux outils, de nouveaux métiers pourraient apparaitre : développer et proposer aux consommateurs des robots numériques. Ces robots scruteront, selon les choix définis par le consommateur, les données disponibles sur internet, identifieront  les contradictions, feront remonter les indicateurs issus des rapports de RSE, si ils sont cohérents. Ils construiront un indicateur unique par produit en aggrégeant les multiples données collectées selon les préférences définies par le consommateur. Ils guideront alors véritablement les choix, conduisant en retour, les entreprises à véritablement mettre en oeuvre un management complet des bilans environnementaux. Google propose déjà un outil qui participera à cette transition (voir **[là](/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-boulevers.html)**).
+Le couple internet/smart phone apportera les bons indicateurs au bon moment en tous lieux. Pour cela, des nouveaux outils, de nouveaux métiers pourraient apparaitre : développer et proposer aux consommateurs des robots numériques. Ces robots scruteront, selon les choix définis par le consommateur, les données disponibles sur internet, identifieront  les contradictions, feront remonter les indicateurs issus des rapports de RSE, si ils sont cohérents. Ils construiront un indicateur unique par produit en aggrégeant les multiples données collectées selon les préférences définies par le consommateur. Ils guideront alors véritablement les choix, conduisant en retour, les entreprises à véritablement mettre en oeuvre un management complet des bilans environnementaux. Google propose déjà un outil qui participera à cette transition (voir **[là]({{ site.baseurl }}/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse/)**).
 
  
 
-<<<<<<< HEAD
 Dans l'entreprise, toutes les actions, les choix, les procédures, les achat devront être revus pour minimiser les consommations/émissions. La mobilité des salariés sera alors, el
-=======
-Dans l'entreprise, toutes les actions, les choix, les procédures, les achat devront être revus pour minimiser les consommations/émissions. La mobilité des salariés sera alors, el_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 le aussi, sous contrainte. Des alternatives à l'autosoliste devront être mises en oeuvre, non pas directement pour des raisons environnementales mais pour que l'entreprise affiche les meilleurs indicateurs pour ces produits.

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Visions énergétiques 2030 2050 - compléments Transports & Mobilités"
-date: 2013-04-15 08:59:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'citoyen', 'collectivité', 'économie fonctionnalité', 'Efficacité énergétique', 'Energie', 'management de la mobilité', 'mode doux', "qualité de l'air", 'Service de mobilité', 'Véhicule', 'véhicule mono-usage', 'véhicule propre', 'vélo']
-=======
-tags: ["ADEME", "citoyen", "collectivit\u00e9", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "management de la mobilit\u00e9", "mode doux", "qualit\u00e9 de l'air", "Service de mobilit\u00e9", "V\u00e9hicule", "v\u00e9hicule mono-usage", "v\u00e9hicule propre", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-04-15
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/04/visions-energetiques-2030-2050-complements-transports-mobilites.html"
+tags: ["ADEME", "citoyen", "collectivité", "économie fonctionnalité", "Efficacité énergétique", "Energie", "management de la mobilité", "mode doux", "qualité de l'air", "Service de mobilité", "Véhicule", "véhicule mono-usage", "véhicule propre", "vélo"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2013/04/15/visions-energetiques-2030-2050-complements-transports-mobilites/
 ---
 
 L'ADEME a mené un exercice de prospective qui a permis d'élaborer **des scénarios énergétiques et climatiques volontaristes aux horizons 2030 et 2050**; ces scénarios **s'appuient sur la maîtrise de la consommation énergétique et le développement de l’offre d’énergies renouvelables**. 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "CRAMIF - Coup de pouce pour un Utilitaire plus sûr"
-date: 2012-02-09 15:55:53 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['sécurité', 'ZAPA']
-=======
-tags: ["s\u00e9curit\u00e9", "ZAPA"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-02-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/02/cramif-coup-de-pouce-pour-un-utilitaire-plus-sur.html"
+tags: ["sécurité", "ZAPA"]
+theme: "Veille & documents"
+redirect_from:
+  - /2012/02/09/cramif-coup-de-pouce-pour-un-utilitaire-plus-sur/
 ---
 
 La CRAMIF (Assurance Maladie Ile de France) finance une aide pour changer de véhicule (VUL) pour des questions de sécurité auprès des professionnels : voir [**ICI**](http://www.cramif.fr/risques-professionnels/prevention-aide-financiere-simplifiee-afs-utilitaire.php).

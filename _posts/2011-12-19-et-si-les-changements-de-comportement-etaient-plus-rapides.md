@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si les changements de comportement étaient plus rapides ..."
-date: 2011-12-19 07:31:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['économie fonctionnalité', 'Service de mobilité', 'transition générationnelle']
-=======
-tags: ["\u00e9conomie fonctionnalit\u00e9", "Service de mobilit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-12-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/12/et-si-les-changements-de-comportement-etaient-plus-rapides.html"
+tags: ["économie fonctionnalité", "Service de mobilité", "transition générationnelle"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2011/12/19/et-si-les-changements-de-comportement-etaient-plus-rapides/
 ---
 
 Que ceux que l'on indique en général, que l'on veut nous faire croire, que pensent les industriels ...Le sondage réalisé par Zipcar confirme d'autres informations sur l'usage de l'automobile auprès des jeunes Japonais ou Européens. Ces tendances, initiées et confirmées dans les territoires urbains, n'ont probablement pas atteints les zones rurales pour des questions d'offres alternatives totalement absentes.

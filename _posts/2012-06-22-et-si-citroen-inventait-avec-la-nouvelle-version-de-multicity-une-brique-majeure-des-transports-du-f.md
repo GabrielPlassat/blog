@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si Citroën inventait avec la nouvelle version de Multicity une brique majeure des Transports du Futur ?"
-date: 2012-06-22 14:29:59 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'données réelles', 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'intelligence collective', 'Service de mobilité', 'VE', 'véhicule mono-usage', 'véhicule propre']
-=======
-tags: ["citoyen", "donn\u00e9es r\u00e9elles", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "intelligence collective", "Service de mobilit\u00e9", "VE", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-06-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: ">Par exemple, la <a href=\"\"http://www.plugincars.com/demand-chevy-volt-rise-california-dealerships-beg-volts-122183.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+PluginCars+%28PluginCars.com+RSS+Feed%29&utm_content=Google+Reader\"\" target=\"\"_blank\"\"><strong>Volt se vends assez bien en Californie</strong></a> d'une part grâce à l'aide à l'achat (comme en France), mais peut être aussi parce qu'un VE ou hybride plug-in peut utiliser les voies réservées au covoiturage ... Le temps principale richesse des pays développés ... Imaginons que l'on couple les innovations de Citroën Multicity d'un VE loué/partagé et l'accès à des voies réservées ou des charges électriques gratuites. Ce sera donc dans la combinaison des mesures multi-domaines, leurs cohérences, la facilité à les comprendre et à les déployer, que le changement d'échelle peut se produire. Aujourd'hui tout est possible, mais rien n'est garanti tant l'imbrication de l'automobile propriétaire dans la société est profond.</p> <p style=\"\"text-align: justify"
+tags: ["citoyen", "données réelles", "économie du quaternaire", "économie fonctionnalité", "Efficacité énergétique", "intelligence collective", "Service de mobilité", "VE", "véhicule mono-usage", "véhicule propre"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2012/06/22/et-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f/
 ---
 
 Multicity a été lancé depuis quelques années en proposant dès le départ des solutions multimodales de transports et notamment un assistant numérique permettant d'avoir des informations (temps, coût) pour relier deux points. Multicity permet également d'acheter les titres de transports directement, concurrençant d'une certaine façon Voyage SNCF. 
@@ -28,7 +29,7 @@ Multicity a été lancé depuis quelques années en proposant dès le départ de
 
  
 
-Cette approche conforte une vision possible selon laquelle les principaux gains en matière d'énergie et de GES dans les transports viendront de cette 3ème voie du véhicule service (imaginé dès le départ [**MétaNote N°0**](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)) qui permet à la fois :
+Cette approche conforte une vision possible selon laquelle les principaux gains en matière d'énergie et de GES dans les transports viendront de cette 3ème voie du véhicule service (imaginé dès le départ [**MétaNote N°0**]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)) qui permet à la fois :
 
  
  
@@ -82,11 +83,7 @@ Cet avenir peu souhaitable est pourtant le plus probable :
 
  
 
-<<<<<<< HEAD
 "2012-06-22 14:29:59https://transportsdufutur.ademe.fr/2012/06/et-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f.htmlcitoyen|données réelles|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|intelligence collective|Service de mobilité|VE|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f2015-07-21 16:36:31>Par exemple, la [**Volt se vends assez bien en Californie**]() d'une part grâce à l'aide à l'achat (comme en France), mais peut être aussi parce qu'un VE ou hybride plug-in peut utiliser les voies réservées au covoiturage ... Le temps principale richesse des pays développés ... Imaginons que l'on couple les innovations de Citroën Multicity d'un VE loué/partagé et l'accès à des voies réservées ou des charges électriques gratuites. Ce sera donc dans la combinaison des mesures multi-domaines, leurs cohérences, la facilité à les comprendre et à les déployer, que le changement d'échelle peut se produire. Aujourd'hui tout est possible, mais rien n'est garanti tant l'imbrication de l'automobile propriétaire dans la société est profond.
-=======
-"2012-06-22 14:29:59/2012/06/22/et-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f/citoyen|données réelles|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|intelligence collective|Service de mobilité|VE|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f2015-07-21 16:36:31>Par exemple, la [**Volt se vends assez bien en Californie**]() d'une part grâce à l'aide à l'achat (comme en France), mais peut être aussi parce qu'un VE ou hybride plug-in peut utiliser les voies réservées au covoiturage ... Le temps principale richesse des pays développés ... Imaginons que l'on couple les innovations de Citroën Multicity d'un VE loué/partagé et l'accès à des voies réservées ou des charges électriques gratuites. Ce sera donc dans la combinaison des mesures multi-domaines, leurs cohérences, la facilité à les comprendre et à les déployer, que le changement d'échelle peut se produire. Aujourd'hui tout est possible, mais rien n'est garanti tant l'imbrication de l'automobile propriétaire dans la société est profond.
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

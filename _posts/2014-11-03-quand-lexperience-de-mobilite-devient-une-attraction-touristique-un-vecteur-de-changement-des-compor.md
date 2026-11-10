@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Quand « l’expérience de mobilité » devient une attraction touristique : un vecteur de changement des comportements ?"
-date: 2014-11-03 17:24:17 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'living lab', 'tourisme', 'VE', 'voyage']
-=======
+date: 2014-11-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/11/quand-lexperience-de-mobilite-devient-une-attraction-touristique-un-vecteur-de-changement-des-compor.html"
 tags: ["ADEME", "living lab", "tourisme", "VE", "voyage"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/11/03/quand-lexperience-de-mobilite-devient-une-attraction-touristique-un-vecteur-de-changement-des-compor/
 ---
 
 ***Cet article a été rédigé par Fanny Dufour, docteur en psychologie sociale, dans le cadre du [projet BMA](http://www.themavision.fr/jcms/rw_314962/bma).***
@@ -69,7 +70,7 @@ Le véhicule électrique (VE) : pas de craintes sur l’autonomie ! Comme nous
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01b8d0899ad4970c-320wi.png)](/assets/images/old/6a0120a66d2ad4970b01b8d0899ad4970c-pi.png)Et surtout, la relative autonomie devient un élément pour définir les activités touristiques. Elle en devient le point de départ pour organiser ses plaisirs, ses découvertes. Les expérimentateurs s’interrogent : pourrait-on imaginer une app sur mobile ou dans le GPS du véhicule qui indiquerait les sites remarquables dans la zone d’autonomie du véhicule ? Dans nos activités quotidiennes, c’est plutôt l’inverse : je dois aller là, est-ce que l’autonomie du véhicule électrique me le permet, oui ou non.
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d0899ad4970c-320wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d0899ad4970c-pi.png)Et surtout, la relative autonomie devient un élément pour définir les activités touristiques. Elle en devient le point de départ pour organiser ses plaisirs, ses découvertes. Les expérimentateurs s’interrogent : pourrait-on imaginer une app sur mobile ou dans le GPS du véhicule qui indiquerait les sites remarquables dans la zone d’autonomie du véhicule ? Dans nos activités quotidiennes, c’est plutôt l’inverse : je dois aller là, est-ce que l’autonomie du véhicule électrique me le permet, oui ou non.
 
  
 
@@ -79,11 +80,7 @@ Le véhicule électrique (VE) : pas de craintes sur l’autonomie ! Comme nous
 ### **Est-ce qu’une telle expérience d’un séjour combinant mobilité & tourisme, permet de changer les comportements quotidiens ?**
  
 
-<<<<<<< HEAD
 Difficile à dire, ou à prédire… Tentons déjà de comprendre : Rabardel en 1995 propose le modèle de la genèse instrumentale autour du processus d’instrumentation et d’instrumentalisation, qui pourrait permettre d’expliquer ce que nous avons observé pendant Contact Nature. En synthèse, l’appropriation d’un nouvel o
-=======
-Difficile à dire, ou à prédire… Tentons déjà de comprendre : Rabardel en 1995 propose le modèle de la genèse instrumentale autour du processus d’instrumentation et d’instrumentalisation, qui pourrait permettre d’expliquer ce que nous avons observé pendant Contact Nature. En synthèse, l’appropriation d’un nouvel o_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 util, sa banalisation et son usage au quotidien, dépend de ce double processus :
 
  

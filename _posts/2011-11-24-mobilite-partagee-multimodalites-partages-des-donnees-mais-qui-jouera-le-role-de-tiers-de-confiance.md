@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Mobilité partagée, Multimodalités, Partages des données ... Mais qui jouera le rôle de tiers de confiance ?"
-date: 2011-11-24 17:13:48 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'confiance', 'donnée data', 'données réelles', 'économie fonctionnalité', 'innovation', 'internet', 'partage de données']
-=======
-tags: ["citoyen", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "\u00e9conomie fonctionnalit\u00e9", "innovation", "internet", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-11-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/11/mobilite-partagee-multimodalites-partages-des-donnees-mais-qui-jouera-le-role-de-tiers-de-confiance.html"
+tags: ["citoyen", "confiance", "donnée data", "données réelles", "économie fonctionnalité", "innovation", "internet", "partage de données"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2011/11/24/mobilite-partagee-multimodalites-partages-des-donnees-mais-qui-jouera-le-role-de-tiers-de-confiance/
 ---
 
 Ce blog a déjà abordé plusieurs fois le sujet de la [**confiance**](/?s=confiance). Ce point clé ressort maintenant clairement comme étant un verrou majeur, donc une opportunité pour un ou plusieurs acteurs.
 
  
 
-L'accord récent entre plusieurs multinationales ([**PSA, SNCF, Orange et Total**](/2011/11/psa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a.html)) pour créer un fond d'investissement dans le domaine de la mobilité, montre la recherche de collaboration étendue, de synergies. Le sujet même des véhicules [**partagés**](/2010/11/a-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees.html), de la multimodalité qui oblige une certaine mise en commun des données d'une part, venant d'acteurs aujourd'hui concurrents, et d'autre part, ayant d'autant plus de valeurs qu'elles sont mutualisées.
+L'accord récent entre plusieurs multinationales ([**PSA, SNCF, Orange et Total**]({{ site.baseurl }}/2011/11/psa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a/)) pour créer un fond d'investissement dans le domaine de la mobilité, montre la recherche de collaboration étendue, de synergies. Le sujet même des véhicules [**partagés**]({{ site.baseurl }}/2010/11/a-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees/), de la multimodalité qui oblige une certaine mise en commun des données d'une part, venant d'acteurs aujourd'hui concurrents, et d'autre part, ayant d'autant plus de valeurs qu'elles sont mutualisées.
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Freight vision 2050"
-date: 2010-02-25 12:32:14 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['camion', 'cité', 'connectivité', 'Infrastructure', 'marchandises', 'roadpricing']
-=======
-tags: ["camion", "cit\u00e9", "connectivit\u00e9", "Infrastructure", "marchandises", "roadpricing"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/freight-vision-2050.html"
+tags: ["camion", "cité", "connectivité", "Infrastructure", "marchandises", "roadpricing"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/25/freight-vision-2050/
 ---
 
 This on-going european project (**[link](http://www.freightvision.eu/)**) will therefore :
@@ -22,7 +23,7 @@ In order to develop a vision and an action plan the following tasks will be perf
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01310f38dc68970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01310f38dc68970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01310f38dc68970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01310f38dc68970c-pi.jpg) 
 
  
 

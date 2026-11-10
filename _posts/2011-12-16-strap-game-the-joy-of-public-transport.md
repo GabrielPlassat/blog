@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "STRAP GAME - the joy of Public Transport"
-date: 2011-12-16 10:05:44 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'connectivité', 'internet', 'jeu', 'jeu vidéo', 'TC']
-=======
-tags: ["citoyen", "connectivit\u00e9", "internet", "jeu", "jeu vid\u00e9o", "TC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-12-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/12/strap-game-the-joy-of-public-transport.html"
+tags: ["citoyen", "connectivité", "internet", "jeu", "jeu vidéo", "TC"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/12/16/strap-game-the-joy-of-public-transport/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0154385efef7970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0154385efef7970c-800wi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0154385efef7970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0154385efef7970c-800wi.jpg)
  
 
  Here’s a great design concept from Chinese designer [Jiang Qian](http://www.coroflot.com/jq/profile), who has a vision to gamify the straps that passengers grip while standing on trains. His idea for a [Game Strap](http://www.coroflot.com/jq/The-joy-of-waiting/) is a pretty creative one, and we hope that one day it becomes a reality. 

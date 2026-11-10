@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Transit City"
-date: 2010-07-09 11:42:07 +0100
-categories: []
+date: 2010-07-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/transit-city.html"
 tags: []
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2010/07/09/transit-city/
 ---
 
 Deux vidéos de François Bellanger - **[Transit City](http://transit-city.blogspot.com/)**

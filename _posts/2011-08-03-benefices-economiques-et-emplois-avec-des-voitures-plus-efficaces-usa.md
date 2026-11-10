@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Bénéfices économiques et emplois avec des voitures plus efficaces - USA"
-date: 2011-08-03 08:43:54 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Efficacité énergétique', 'emploi', 'Energie', 'Véhicule', 'véhicule propre']
-=======
-tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "emploi", "Energie", "V\u00e9hicule", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-08-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/08/benefices-economiques-et-emplois-avec-des-voitures-plus-efficaces-usa.html"
+tags: ["Efficacité énergétique", "emploi", "Energie", "Véhicule", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/08/03/benefices-economiques-et-emplois-avec-des-voitures-plus-efficaces-usa/
 ---
 
 Le **[CERES](http://www.ceres.org/)**, qui rassemble une coalition nationale aux USA - entrepreneurs, ONG, autorités publiques - autour du développement durable, vient de publier un **[rapport ](http://www.ceres.org/press/press-releases/more-jobs-per-gallon)**quantifiant les bénéfices économiques et sociaux apportés par la mise en oeuvre d'une réglementation sur l'efficacité énergétique des véhicules légers.
@@ -23,7 +24,7 @@ Le **[CERES](http://www.ceres.org/)**, qui rassemble une coalition nationale aux
 - ***63,000 new, full-time domestic auto industry jobs would be created in 2030 under the six percent scenario**; more than double the 31,000 jobs under the three percent scenario. * 
  
 
-* [![](/assets/images/old/6a0120a66d2ad4970b014e8a56fcbd970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b014e8a56fcbd970d-pi.jpg) *
+* [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8a56fcbd970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8a56fcbd970d-pi.jpg) *
 
  
  

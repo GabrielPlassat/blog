@@ -1,22 +1,23 @@
 ---
 layout: post
 title: "Transports & Mobilités, quelles sont les richesses dont il faut maximiser l’usage ?"
-date: 2011-09-16 18:02:38 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'données réelles', 'economie circulaire', 'économie fonctionnalité', 'Efficacité énergétique', 'gratuit', 'Infrastructure', 'internet', 'open innovation', 'partage de données', 'Service de mobilité']
-=======
-tags: ["assistant de mobilit\u00e9", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gratuit", "Infrastructure", "internet", "open innovation", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-09-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/09/transports-mobilites-quelles-sont-les-richesses-dont-il-faut-maximiser-lusage.html"
+tags: ["assistant de mobilité", "données réelles", "economie circulaire", "économie fonctionnalité", "Efficacité énergétique", "gratuit", "Infrastructure", "internet", "open innovation", "partage de données", "Service de mobilité"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2011/09/16/transports-mobilites-quelles-sont-les-richesses-dont-il-faut-maximiser-lusage/
 ---
 
 Dans le monde qui vient, nous allons, sans doute, devoir prendre soin de plusieurs richesses :
 
  
  
-- toutes les **matières premières**, dont les énergies fossiles ; ceci passe notamment par la mise en œuvre de [**l’économie de la fonctionnalité**](/2011/05/la-nouvelle-economie-du-partage-new-sharing-economy.html) et [**l’économie circulaire**](/economie-circulaire/) ; 
+- toutes les **matières premières**, dont les énergies fossiles ; ceci passe notamment par la mise en œuvre de [**l’économie de la fonctionnalité**]({{ site.baseurl }}/2011/05/la-nouvelle-economie-du-partage-new-sharing-economy/) et [**l’économie circulaire**](/economie-circulaire/) ; 
 - tous les **investissements** déjà réalisés et ceux à venir, et notament l’ensemble des infrastructures disponibles (routes, voies ferrées, gares, stationnement, …), des outils industriels de production; ceci passe par une exploitation des infrastructures bien plus dynamique, souple et modulable, des tarifications liés aux usages et un meilleur usage des produits industriels dont les véhicules ; 
-- et notre plus grande richesse : notre [**temps**](/2010/04/a-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand-.html). 
+- et notre plus grande richesse : notre [**temps**]({{ site.baseurl }}/2010/04/a-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand/). 
  
 
 Pour cela, nous disposons de facilitateurs permettant de développer un ensemble de solutions de mobilité ou d’immobilité, mais également de réorganisation des entreprises et des ménages. 
@@ -24,7 +25,7 @@ Pour cela, nous disposons de facilitateurs permettant de développer un ensemble
  
  
 - **L’intelligence collective**, dont quelques exemples de pratiques en entreprise sont présentés sur [http://www.entreprise20.fr/](http://www.entreprise20.fr/) , nous permettra d’une part de mieux comprendre les problèmes actuels, de faire venir des expertises très variées et complémentaires, d’apporter des plateformes pour trouver et expérimenter des solutions. Il s’agit d’outils de compréhension, de proposition de solutions et de transparence. 
-- **Les technologies de l’information** permettant de porter et de développer des formes variées d’intelligence collective par le biais d’[**assistant numérique**](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html). Ces assistants numériques apportent en même temps des connaissances nouvelles, temps réel, contextualisées aux utilisateurs, mais également remontent des connaissances sur les usages. Ce sont des outils d’aide au changement au niveau individuel, et une fois le choix réalisé [**d’accès aux savoirs des pratiques réels**](/2011/08/le-reverse-marketing-utilisant-le-tsunami-des-donnees-le-consommateur-reprend-la-main-quelles-conseq.html) pour les industries, les collectivités et les pouvoirs publics ; 
+- **Les technologies de l’information** permettant de porter et de développer des formes variées d’intelligence collective par le biais d’[**assistant numérique**]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/). Ces assistants numériques apportent en même temps des connaissances nouvelles, temps réel, contextualisées aux utilisateurs, mais également remontent des connaissances sur les usages. Ce sont des outils d’aide au changement au niveau individuel, et une fois le choix réalisé [**d’accès aux savoirs des pratiques réels**]({{ site.baseurl }}/2011/08/le-reverse-marketing-utilisant-le-tsunami-des-donnees-le-consommateur-reprend-la-main-quelles-conseq/) pour les industries, les collectivités et les pouvoirs publics ; 
 - **Les monnaies complémentaires**, également portées par les TIC pour être dématérialisées, offrent des possibilités pour simplifier l’expérimentation, inciter aux économies d’énergies et aux partages locaux. Elles favorisent également le changement d’échelle, limitent les effets rebond puisque les gains ne sont réinvestis que dans des solutions efficaces. Il s’agit donc d’outils d’aide au changement au niveau collectif, permettant de territorialiser des échanges. 
  
 

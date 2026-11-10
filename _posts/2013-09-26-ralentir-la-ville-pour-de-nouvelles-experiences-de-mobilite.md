@@ -1,24 +1,25 @@
 ---
 layout: post
 title: "Ralentir la ville pour de nouvelles expériences de mobilité"
-date: 2013-09-26 18:41:55 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['art de la guerre', 'citoyen', 'collectivité', 'commuter', 'congestion', 'Efficacité énergétique', 'emission', 'externalité', 'Infrastructure', 'innovation', 'management de la mobilité', 'temporalité']
-=======
-tags: ["art de la guerre", "citoyen", "collectivit\u00e9", "commuter", "congestion", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "externalit\u00e9", "Infrastructure", "innovation", "management de la mobilit\u00e9", "temporalit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-09-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/09/ralentir-la-ville-pour-de-nouvelles-experiences-de-mobilite.html"
+tags: ["art de la guerre", "citoyen", "collectivité", "commuter", "congestion", "Efficacité énergétique", "emission", "externalité", "Infrastructure", "innovation", "management de la mobilité", "temporalité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2013/09/26/ralentir-la-ville-pour-de-nouvelles-experiences-de-mobilite/
 ---
 
 La recherche de la vitesse a guidé les politiques de mobilité, sans résoudre l'engorgement et la congestion des villes ni réduire les usages de la voiture individuelle. Comment changer de paradigme et développer des politiques de mobilité pour ralentir dans la ville? Quels changements sont nécessaires pour réellement développer l'usage du vélo ou de la marche ? Le ralentissement s'accompagne-t-il d'une meilleure fluidité ? 
 
  
 
-La vitesse est bien entendu un élément stratégique essentiel car il structure aujourd’hui le rapport de force dans la rue aujourd’hui (lire **[Et si le vélo reprenait sa place dans la bataille de la rue](/2012/10/et-si-le-velo-reprenait-sa-place-dans-la-bataille-de-la-route.html)**). Il hiérarchise les positions en donnant accès à la seule richesse : le temps. Arnaud Passalacqua indique dans son ouvrage **[La Bataille de la route](http://www.decitre.fr/livres/la-bataille-de-la-route-9782844461674.html)** que *la principale stratégie consiste effectivement à s'assurer un territoire rigide et bien à soi. Donc à abandonner ce qui caractérise les systèmes de mobilité : leur souplesse. Ce livre intéressant propose une plongée dans le monde violent de la mobilité, sur tous les territoires. Enjeu de la bataille, l'espace public, voit se nouer alliances et oppositions entre les modes de transport.*
+La vitesse est bien entendu un élément stratégique essentiel car il structure aujourd’hui le rapport de force dans la rue aujourd’hui (lire **[Et si le vélo reprenait sa place dans la bataille de la rue]({{ site.baseurl }}/2012/10/et-si-le-velo-reprenait-sa-place-dans-la-bataille-de-la-route/)**). Il hiérarchise les positions en donnant accès à la seule richesse : le temps. Arnaud Passalacqua indique dans son ouvrage **[La Bataille de la route](http://www.decitre.fr/livres/la-bataille-de-la-route-9782844461674.html)** que *la principale stratégie consiste effectivement à s'assurer un territoire rigide et bien à soi. Donc à abandonner ce qui caractérise les systèmes de mobilité : leur souplesse. Ce livre intéressant propose une plongée dans le monde violent de la mobilité, sur tous les territoires. Enjeu de la bataille, l'espace public, voit se nouer alliances et oppositions entre les modes de transport.*
 
  
 
-* [![](/assets/images/old/6a0120a66d2ad4970b019aff9ee8e1970b-500wi.png)](/assets/images/old/6a0120a66d2ad4970b019aff9ee8e1970b-pi.png)
+* [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019aff9ee8e1970b-500wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019aff9ee8e1970b-pi.png)
 * 
 
  Il est démontré que les modes actifs conduisent à augmenter le chiffre d’affaire des commerces, il est démontré que ces modes sont « intégralement » positifs. Pour autant, ralentir est-il l’objectif à viser ? N’est pas plutôt un moyen pour nous permettre de mieux vivre ensemble, ou plutôt d’augmenter nos chances de mieux vivre ensemble ? 
@@ -31,7 +32,7 @@ Finalement, c’est la recherche d’un **[convivialisme](http://lesconvivialist
 
  
 
-En même temps, les techniques numériques structurent de plus en plus nos vies, certains travaux philosophiques montrent qu’elles commencent également structurer notre perception des autres et donc de nous-mêmes. Une nouvelle matrice **[ontophanique](/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi.html)** (*perception de l’être*) se crée. Le numérique bouleverse les notions « historiques » des vitesses : est-ce que je vais vite quand je ne me déplace plus pour commander un produit livré en 24h ? est-ce que je vais vite quand je fais une réunion de travail dans un café à côté de chez moi avec plusieurs personnes éparpillées en accédant à mes données dans les nuages ? **De quelles vitesses parle-t-on **?
+En même temps, les techniques numériques structurent de plus en plus nos vies, certains travaux philosophiques montrent qu’elles commencent également structurer notre perception des autres et donc de nous-mêmes. Une nouvelle matrice **[ontophanique]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/)** (*perception de l’être*) se crée. Le numérique bouleverse les notions « historiques » des vitesses : est-ce que je vais vite quand je ne me déplace plus pour commander un produit livré en 24h ? est-ce que je vais vite quand je fais une réunion de travail dans un café à côté de chez moi avec plusieurs personnes éparpillées en accédant à mes données dans les nuages ? **De quelles vitesses parle-t-on **?
 
  
 
@@ -51,9 +52,5 @@ Le numérique avait promis une certaine maîtrise du temps. Cette promesse n’e
 
  
 
-<<<<<<< HEAD
 **Il est proposé de penser la rue, la vitesse comme des leviers pour mieux vivre en convivialité. De concevoir également différemment ces nouvelles règles, ces nouveaux choix. De tisser le numérique à la fois dans la concertation, dans les propositions et dans les solutions de mobilités et d’immobilités. Nous avons besoin d
-=======
-**Il est proposé de penser la rue, la vitesse comme des leviers pour mieux vivre en convivialité. De concevoir également différemment ces nouvelles règles, ces nouveaux choix. De tisser le numérique à la fois dans la concertation, dans les propositions et dans les solutions de mobilités et d’immobilités. Nous avons besoin d_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ’une culture des « temps riches ».**

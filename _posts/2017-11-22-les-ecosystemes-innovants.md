@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Les écosystèmes innovants"
-date: 2017-11-22 11:09:41 +0100
-categories: []
+date: 2017-11-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2017/11/les-ecosystemes-innovants.html"
 tags: []
+theme: "Communs, écosystèmes & open source"
+redirect_from:
+  - /2017/11/22/les-ecosystemes-innovants/
 ---
 
-<<<<<<< HEAD
 Invité par l'Université Catholique de Lille et son [**laboratoire des Ecosystèmes Innovants**](http://www.univ-catholille.fr/ebooks/ecosystemes%20innovants/index.html), ces 3 vidéos ont été réalisées pour parler du passé, présent et du futur des mobilités.
-=======
-Invité par l'Université Catholique de Lille et son [**laboratoire des Ecosystèmes Innovants**](http://www.univ-catholille.fr/ebooks/ecosystemes%20innovants/index.html), ces 3 vidéos ont été réalisées pour parler du passé, présent et du futur des mobilités._x000D_
-_x000D_
-_x000D_
-_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

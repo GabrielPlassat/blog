@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Parce que les économies d'énergies sont essentielles ..."
-date: 2012-07-10 10:17:48 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'Efficacité énergétique']
-=======
-tags: ["ADEME", "Efficacit\u00e9 \u00e9nerg\u00e9tique"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-07-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/07/parce-que-les-economies-denergies-sont-essentielles.html"
+tags: ["ADEME", "Efficacité énergétique"]
+theme: "Veille & documents"
+redirect_from:
+  - /2012/07/10/parce-que-les-economies-denergies-sont-essentielles/
 ---
 
 Les journées techniques Certificats d'Economies d'Energie (CEE) se dérouleront les **18 et 19 septembre** prochains à l'Université Malesherbes (Sorbonne) à Paris, 17è.
@@ -31,7 +32,7 @@ Acteurs des transports, développeurs de solutions (produits/services), les CEE 
 
  **Rappel sur les CEE :** 
 
-Une présentation générale du dispositif est disponible [ici](/assets/images/2012/07/PresentationgeneraleCEEnovembre2011.pdf).
+Une présentation générale du dispositif est disponible [ici]({{ site.baseurl }}/assets/images/2012/07/PresentationgeneraleCEEnovembre2011.pdf).
 
  
 

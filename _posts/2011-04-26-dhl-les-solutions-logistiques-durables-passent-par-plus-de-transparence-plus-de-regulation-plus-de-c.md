@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "DHL, les solutions logistiques durables passent par plus de transparence, plus de régulation, plus de coopération horizontale et verticale, et l’intégration du contenu carbone"
-date: 2011-04-26 14:24:41 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['camion', 'carburant', 'citoyen', 'collectivité', 'connectivité', 'Efficacité énergétique', 'Energie', 'externalité', "guide d'achat", 'internet', 'marchandises', 'multimodes', "qualité de l'air", 'véhicule propre']
-=======
-tags: ["camion", "carburant", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "externalit\u00e9", "guide d'achat", "internet", "marchandises", "multimodes", "qualit\u00e9 de l'air", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-04-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c.html"
+tags: ["camion", "carburant", "citoyen", "collectivité", "connectivité", "Efficacité énergétique", "Energie", "externalité", "guide d'achat", "internet", "marchandises", "multimodes", "qualité de l'air", "véhicule propre"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2011/04/26/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/
 ---
 
 Dans son dernier rapport « **[Towards Sustainable Logistics](http://www.dp-dhl.com/content/dpdhl/en/logistics_around_us/trends/sustainable_logistics.html)** », DHL explore pour les vingt prochaines années les évolutions du secteur de la logistique. Sept clés de développement sont proposées pour construire des solutions logistiques durables. La plupart de ces solutions ont déjà été abordés dans ce blog. En préalable, il est bien indiqué qu’il n’y a pas de « silver bullet », solution unique qui règlerait le problème, mais qu’il faudra mener de front de nombreuses évolutions touchant aux modèles économiques, à la fiscalité carbone, à des coopérations à la fois verticales (modèle logistique intégré) et horizontales, à la mesures contraignantes si elles sont cohérentes, comprises et menées sur du long terme… *Quelques commentaires indiqués en italique*.
@@ -68,7 +69,7 @@ De nombreuses technologies en développement vont permettre d’organiser des so
 
  
 
-Un affichage CO2 pour chaque produit permettra au consommateur de comparer les produits. Cette transparence va augmenter la confiance de tous les acteurs de la chaîne logistique. *Cette nouvelle information à destination du consommateur finale a déjà été détaillée dans ce blog (Voir également **[Ici ](/2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises.html)**et **[là]( /2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse.html)**). Cette clé de développement est extrêmement stratégique tant elle peut permettre à la fois de renforcer l’action du consommateur (en réduisant l’asymétrie d’information), d’amplifier les décisions des industries et de justifier des choix qui, jusqu’à présent, ne le sont pas.*
+Un affichage CO2 pour chaque produit permettra au consommateur de comparer les produits. Cette transparence va augmenter la confiance de tous les acteurs de la chaîne logistique. *Cette nouvelle information à destination du consommateur finale a déjà été détaillée dans ce blog (Voir également **[Ici ]({{ site.baseurl }}/2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises/)**et **[là]( {{ site.baseurl }}/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse/)**). Cette clé de développement est extrêmement stratégique tant elle peut permettre à la fois de renforcer l’action du consommateur (en réduisant l’asymétrie d’information), d’amplifier les décisions des industries et de justifier des choix qui, jusqu’à présent, ne le sont pas.*
 
  
 

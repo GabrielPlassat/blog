@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Sud-Nord, le croisement"
-date: 2010-03-01 09:17:45 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['chine', 'Delhi', 'Efficacité énergétique', 'rickshaw', 'simplicité']
-=======
-tags: ["chine", "Delhi", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "rickshaw", "simplicit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-01
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/sudnord-le-croisement.html"
+tags: ["chine", "Delhi", "Efficacité énergétique", "rickshaw", "simplicité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/03/01/sudnord-le-croisement/
 ---
 
 SNCF-Geodis veut se parer de vert : son fonds d'investissement Écomobilité Partenaires" est entré dans le capital d'Urban-Cab pour chercher à promouvoir "des solutions innovantes et respectueuses de l'environnement, en réponse aux défis posés par la logistique urbaine". Le service Urban-Cab de FedEx. 

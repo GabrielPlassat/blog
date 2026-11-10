@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Less is more (133 gCO2/km en moyenne pour 2009)"
-date: 2010-03-16 15:54:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Efficacité énergétique', 'low cost', 'simplicité', 'Véhicule']
-=======
-tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "low cost", "simplicit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/less-is-more-2.html"
+tags: ["Efficacité énergétique", "low cost", "simplicité", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/03/16/less-is-more-2/
 ---
 
-Après un concours sur ce style sur ce thème (voir **[ici](/2010/02/less-is-more.html)**), il semble que les ventes de véhicules neufs suivent la même tendance, on choisit maintenant des véhicules plus légers, plus petits, moins consommateurs. La moyenne des émissions 2009 de 133 gCO2/km tient bien plus au report vers la gamme inférieure qu'à des innovations technologiques. En effet, les GMP des véhicules du segment énergétique B (voir graphique ci dessous) sont en majorité des moteurs essence utilisant des technologies déjà commercialisées dans les années 90 (turbo, VVT, bloc alu...), en incluant certes les progrès de l'électronique et du post traitement. **Mais alors on arrête le progrès ?**
+Après un concours sur ce style sur ce thème (voir **[ici]({{ site.baseurl }}/2010/02/less-is-more/)**), il semble que les ventes de véhicules neufs suivent la même tendance, on choisit maintenant des véhicules plus légers, plus petits, moins consommateurs. La moyenne des émissions 2009 de 133 gCO2/km tient bien plus au report vers la gamme inférieure qu'à des innovations technologiques. En effet, les GMP des véhicules du segment énergétique B (voir graphique ci dessous) sont en majorité des moteurs essence utilisant des technologies déjà commercialisées dans les années 90 (turbo, VVT, bloc alu...), en incluant certes les progrès de l'électronique et du post traitement. **Mais alors on arrête le progrès ?**
 
  
 
@@ -18,7 +19,7 @@ Quelques tendances :
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01310f2fa057970c-320pi.gif)](/assets/images/old/6a0120a66d2ad4970b01310f2fa057970c-pi.gif)  
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01310f2fa057970c-320pi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01310f2fa057970c-pi.gif)  
 
  
 L'évolution des émissions de CO2/km pondérées par les ventes montre une tendance nette à la baisse, plaçant la France à la tête des pays européens. On peut également noter que l'essence passe devant le Diesel. Ceci mérite de s'intéresser au sujet, plusieurs explications : 
@@ -32,11 +33,11 @@ En conséquence, le discours qui demandait de ne pas durcir les normes pollution
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a8c8dd02970b-320pi.gif)](/assets/images/old/6a0120a66d2ad4970b0120a8c8dd02970b-pi.gif) L'évolution des ventes par classe énergétique montre clairement la transition vers des véhicules plus petits, donc moins consommateurs. Le graphique suivant est lui sans appel, la masse chute : moins 80kg en deux ans ! Et pourtant depuis 2007, il n'y a pas eu de découverte majeure dans l'allégement des véhicules, dans les matériaux utilisés...
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a8c8dd02970b-320pi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a8c8dd02970b-pi.gif) L'évolution des ventes par classe énergétique montre clairement la transition vers des véhicules plus petits, donc moins consommateurs. Le graphique suivant est lui sans appel, la masse chute : moins 80kg en deux ans ! Et pourtant depuis 2007, il n'y a pas eu de découverte majeure dans l'allégement des véhicules, dans les matériaux utilisés...
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a94217a7970b-320pi.gif)](/assets/images/old/6a0120a66d2ad4970b0120a94217a7970b-pi.gif) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a94217a7970b-320pi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a94217a7970b-pi.gif) 
 Pour la seconde fois depuis 1993, la masse moyenne des véhicules vendus diminue. Les consommateurs n'achètent pas moins, ils achètent des véhicules adaptés à leurs besoins, donc mieux. La clé du succès pourrait donc être de proposer des véhicules petits et simples mais personnalisés, émotionnels et communautaires".
 
  

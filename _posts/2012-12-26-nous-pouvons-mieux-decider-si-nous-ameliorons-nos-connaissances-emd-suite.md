@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Nous pouvons mieux décider si nous améliorons nos connaissances (EMD suite)"
-date: 2012-12-26 16:00:53 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'collectivité', 'commuter', 'congestion', 'connectivité', 'Efficacité énergétique', 'gouvernance', 'internet']
-=======
-tags: ["assistant de mobilit\u00e9", "collectivit\u00e9", "commuter", "congestion", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "internet"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-12-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/12/nous-pouvons-mieux-decider-si-nous-ameliorons-nos-connaissances-emd-suite.html"
+tags: ["assistant de mobilité", "collectivité", "commuter", "congestion", "connectivité", "Efficacité énergétique", "gouvernance", "internet"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2012/12/26/nous-pouvons-mieux-decider-si-nous-ameliorons-nos-connaissances-emd-suite/
 ---
 
-Dans un précédent **[article](/2012/12/les-enquetes-menages-deplacements-vont-disparaitre-mais-nous-ferons-beaucoup-mieux.html)**, il était indiqué que nous pouvions dès aujourd'hui faire évoluer les Enquêtes Ménages Déplacements en utilisant les potentiels offerts par les outils numériques dont le GPS et le téléphone. Cette **[étude](http://newscenter.berkeley.edu/2012/12/20/cellphone-gps-data-suggest-new-strategy-for-alleviating-traffic-tie-ups/)** récente réalisée aux USA confirme cela et donne déjà quelques exemples intéressants. Le rapport complet est disponible **[ici](http://www.nature.com/srep/2012/121220/srep01001/full/srep01001.html)**.
+Dans un précédent **[article]({{ site.baseurl }}/2012/12/les-enquetes-menages-deplacements-vont-disparaitre-mais-nous-ferons-beaucoup-mieux/)**, il était indiqué que nous pouvions dès aujourd'hui faire évoluer les Enquêtes Ménages Déplacements en utilisant les potentiels offerts par les outils numériques dont le GPS et le téléphone. Cette **[étude](http://newscenter.berkeley.edu/2012/12/20/cellphone-gps-data-suggest-new-strategy-for-alleviating-traffic-tie-ups/)** récente réalisée aux USA confirme cela et donne déjà quelques exemples intéressants. Le rapport complet est disponible **[ici](http://www.nature.com/srep/2012/121220/srep01001/full/srep01001.html)**.
 
  
 
@@ -18,7 +19,7 @@ Ainsi, il est démontré que l'annulation ou le décalage de 1% des trajets perm
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b017c3504bc61970b-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017c3504bc61970b-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017c3504bc61970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017c3504bc61970b-pi.jpg) 
 
  
 

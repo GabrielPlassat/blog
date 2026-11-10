@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Le port du Pirée, cheval de troie chinois"
-date: 2010-09-03 17:44:35 +0100
-categories: []
+date: 2010-09-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/le-port-du-piree-cheval-de-troie-chinois.html"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/09/03/le-port-du-piree-cheval-de-troie-chinois/
 ---
 
 Avec la récente signature d’un contrat de concession à 3,3 milliards d’euros dans le port du Pirée, la Chine a commencé à établir ses positions en Europe.

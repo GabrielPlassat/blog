@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "AMI Chaînes logistiques et mobilités occasionnelles des personnes @ADEME"
-date: 2011-12-16 16:08:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'assistant de mobilité', 'Assistant Personnel de Consommation', 'citoyen', 'collectivité', 'données réelles', 'Efficacité énergétique']
-=======
-tags: ["ADEME", "assistant de mobilit\u00e9", "Assistant Personnel de Consommation", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-12-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/12/ami-chaines-logistiques-et-mobilites-occasionnelles-des-personnes-ademe.html"
+tags: ["ADEME", "assistant de mobilité", "Assistant Personnel de Consommation", "citoyen", "collectivité", "données réelles", "Efficacité énergétique"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2011/12/16/ami-chaines-logistiques-et-mobilites-occasionnelles-des-personnes-ademe/
 ---
 
 [**Ce second Appel à Manifestation d'Inrérêt (AMI)**](http://www2.ademe.fr/servlet/getDoc?id=80842&cid=96&m=3&p1=1) porte sur l’approche intégrée des chaînes logistiques et des systèmes multimodaux de mobilité des personnes et des marchandises, autrement dit sur des **systèmes complets de mobilité **où pourraient converger les problématiques liées tant au transport de personnes que de marchandises, en particulier en matière de partage des données et de gouvernance. Pour les voyageurs, elle concerne des mobilités occasionnelles et non plus quotidiennes, liées par exemple à l’accès à des services de santé ou à des loisirs, des déplacements professionnels.
@@ -60,17 +61,13 @@ Les travaux de recherche, ainsi que les démonstrateurs et expérimentations pou
 
  
  
-- Constituer, assurer la disponibilité et la maintenance de nouvelles bases de données de connaissance et, le cas échéant, créer de nouvelles données stratégiques, sur la mobilité de personnes et la logistique (pollutions, taux de remplissage des véhicules, émissions de CO2 par véhicule, par tonne.km ou [**par colis par exemple**](/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c.html)). Ces nouvelles bases recensant les données les plus influentes devraient être ouvertes et partagées ; elles permettront, d’une part, de mieux comprendre les flux réels et, d’autre part, de concevoir des produits/services adaptés aux besoins. Ce travail pourra se faire en lien avec l’action nationale [**Etalab **](http://www.etalab.gouv.fr/); 
+- Constituer, assurer la disponibilité et la maintenance de nouvelles bases de données de connaissance et, le cas échéant, créer de nouvelles données stratégiques, sur la mobilité de personnes et la logistique (pollutions, taux de remplissage des véhicules, émissions de CO2 par véhicule, par tonne.km ou [**par colis par exemple**]({{ site.baseurl }}/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/)). Ces nouvelles bases recensant les données les plus influentes devraient être ouvertes et partagées ; elles permettront, d’une part, de mieux comprendre les flux réels et, d’autre part, de concevoir des produits/services adaptés aux besoins. Ce travail pourra se faire en lien avec l’action nationale [**Etalab **](http://www.etalab.gouv.fr/); 
  
  
 - Exploiter ces bases de données (connaissance en temps réel des horaires de tous les modes ou contenu carbone d’un produit par exemple), pour développer des assistants numériques destinés à faciliter le choix des acteurs (usagers, consommateurs, industriels). Ces travaux devront être marginaux en termes de budget et d’implication des acteurs au regard du projet complet. 
  
  
-<<<<<<< HEAD
-- En cohérence avec les besoins à satisfaire, en particuliers ceux des clients finaux, développer et expérimenter des outils experts d’aide à la prévision et à l’organisation des mobilités ou des systèmes de transport et de logistique : investissements dans les infrastructures, [**localisation de l’habitat ou des locaux**](/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les-.html), optimisation de l’utilisation des transports publics ou de la circulation, etc. Ils seront personnalisables et
-=======
-- En cohérence avec les besoins à satisfaire, en particuliers ceux des clients finaux, développer et expérimenter des outils experts d’aide à la prévision et à l’organisation des mobilités ou des systèmes de transport et de logistique : investissements dans les infrastructures, [**localisation de l’habitat ou des locaux**](/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les-.html), optimisation de l’utilisation des transports publics ou de la circulation, etc. Ils seront personnalisables et_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+- En cohérence avec les besoins à satisfaire, en particuliers ceux des clients finaux, développer et expérimenter des outils experts d’aide à la prévision et à l’organisation des mobilités ou des systèmes de transport et de logistique : investissements dans les infrastructures, [**localisation de l’habitat ou des locaux**]({{ site.baseurl }}/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les/), optimisation de l’utilisation des transports publics ou de la circulation, etc. Ils seront personnalisables et
  conçus pour s’adresser à tous les acteurs, publics, privés, ménages, entreprises, et collectivités. Ces outils pourront également s’intéresser en amont à l’organisation des entreprises ou aux activités des ménages, l’objectif étant d’identifier les pistes d’optimisation pour une meilleure adéquation aux diverses solutions de mobilité. 
  
 

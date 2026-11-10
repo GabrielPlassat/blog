@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Feuille de route européenne sur les Transports (commission européenne)"
-date: 2011-03-28 16:42:40 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['carburant', 'citoyen', 'collectivité', 'innovation', 'internet', 'partage de données', 'Pay as You Move', 'véhicule propre', 'yield management']
-=======
-tags: ["carburant", "citoyen", "collectivit\u00e9", "innovation", "internet", "partage de donn\u00e9es", "Pay as You Move", "v\u00e9hicule propre", "yield management"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-03-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/03/feuille-de-route-europeenne-sur-les-transports-commission-europeenne.html"
+tags: ["carburant", "citoyen", "collectivité", "innovation", "internet", "partage de données", "Pay as You Move", "véhicule propre", "yield management"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2011/03/28/feuille-de-route-europeenne-sur-les-transports-commission-europeenne/
 ---
 
 La commission européenne vient de publier aujourd'hui sa feuille de route sur les transports. Le document est directement accessible ci dessous, ainsi qu'une vidéo. Tous les éléments sont disponibles **[ICI](http://ec.europa.eu/transport/strategies/2011_white_paper_en.htm)**. Les ingrédients sont connus : moins de route, plus d'énergies décarbonées, l'urbain zéro émission", internalisation des externalités ...

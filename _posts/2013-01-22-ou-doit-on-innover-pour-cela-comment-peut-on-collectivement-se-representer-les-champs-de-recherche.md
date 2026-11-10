@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Où doit-on innover ? Pour cela, comment peut-on collectivement se représenter les champs de recherche ?"
-date: 2013-01-22 11:28:52 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'collectivité', 'données réelles', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'pensée complexe']
-=======
-tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "holoptisme", "innovation", "intelligence collective", "internet", "pens\u00e9e complexe"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-01-22
+source: tdf
+source_name: "Transports du Futur"
+tags: ["cité", "citoyen", "collectivité", "données réelles", "holoptisme", "innovation", "intelligence collective", "internet", "pensée complexe"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2013/01/22/ou-doit-on-innover-pour-cela-comment-peut-on-collectivement-se-representer-les-champs-de-recherche/
 ---
 
 Quels sont les principaux de champs de recherche et d'innovations dans les domaines des mobilités pour les personnes et les marchandises ? 8 champs sont proposés. **Mais je cherche une représentation graphique de ces champs et des liens entre eux, pour mieux partager ces objectifs collectivement. N'hésiter pas à m'envoyer vos propositions (en mode commentaire ou par mail) ...**
 
  
 
-Partons d'un exemple d'actualité. Carrefour vient d'inaugurer des magasins 'éphémères', c'est à dire léger/versatile/mobile, en utilisant les capacités numériques distribuées des citoyens (smartphone), permettant à chacun de scanner un produit. Notons que cela a été mis en oeuvre pour la première fois en Corée par Tesco (voir **[ici](/2011/06/le-supermarche-sur-le-quai-du-metro-livraison-a-domicile.html)**). Quelques interrogations :
+Partons d'un exemple d'actualité. Carrefour vient d'inaugurer des magasins 'éphémères', c'est à dire léger/versatile/mobile, en utilisant les capacités numériques distribuées des citoyens (smartphone), permettant à chacun de scanner un produit. Notons que cela a été mis en oeuvre pour la première fois en Corée par Tesco (voir **[ici]({{ site.baseurl }}/2011/06/le-supermarche-sur-le-quai-du-metro-livraison-a-domicile/)**). Quelques interrogations :
 
  
  
@@ -23,7 +23,7 @@ Partons d'un exemple d'actualité. Carrefour vient d'inaugurer des magasins 'ép
 - Quelles seront les conséquences sur les pratiques et les imaginaires ? Quelles seront les prochaines étapes ? comment faire pour qu'elles intègrent en même temps des objectifs énergétiques et environnementaux au coeur de leur système ? 
  
 
-En complément, Carrefour a intégré l'usage de Foursquare et du jeu. Ce point innovant a déjà été abordé dans plusieurs articles précédents comme **[Ingress](/2012/11/ibm-dans-son-dernier-executive-report-tranforming-retail-engaging-customers-through-information-influencers-and-interacti.html)**. Le jeu comporte plusieurs caractéristiques intrinsèques qui conduisent notamment à engager, à faire faire". Il permet également de simuler des systèmes très complexes, tout en affichant des interfaces simples: le joueur découvre progressivement la complexité de façon intuitive par apprentissage successif. Dans cet exemple, Carrefour couple mobilité, localisation et commerce grâce à un [jeu concours sur Foursquare]() en invitant les consommateurs à faire leur course/jouer.
+En complément, Carrefour a intégré l'usage de Foursquare et du jeu. Ce point innovant a déjà été abordé dans plusieurs articles précédents comme **[Ingress]({{ site.baseurl }}/2012/11/ibm-dans-son-dernier-executive-report-tranforming-retail-engaging-customers-through-information-influencers-and-interacti/)**. Le jeu comporte plusieurs caractéristiques intrinsèques qui conduisent notamment à engager, à faire faire". Il permet également de simuler des systèmes très complexes, tout en affichant des interfaces simples: le joueur découvre progressivement la complexité de façon intuitive par apprentissage successif. Dans cet exemple, Carrefour couple mobilité, localisation et commerce grâce à un [jeu concours sur Foursquare]() en invitant les consommateurs à faire leur course/jouer.
 
  
 

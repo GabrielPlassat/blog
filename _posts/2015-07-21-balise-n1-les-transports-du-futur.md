@@ -1,24 +1,24 @@
 ---
 layout: post
 title: "[balise N°1] Les Transports du Futur"
-date: 2015-07-21 16:35:30 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Amazon', 'Apple', 'assistant de mobilité', 'Assistant Personnel de Consommation', 'citoyen', 'collectivité', 'commuter', 'confiance', 'connectivité', 'covoiturage', 'donnée data', 'données réelles', 'economie circulaire', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'google', 'gouvernance', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'living lab', 'marchandises', 'monnaie complémentaire', 'multimodes', 'partage de données', 'Service de mobilité', 'véhicule propre', 'waze']
-=======
-tags: ["Amazon", "Apple", "assistant de mobilit\u00e9", "Assistant Personnel de Consommation", "citoyen", "collectivit\u00e9", "commuter", "confiance", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "living lab", "marchandises", "monnaie compl\u00e9mentaire", "multimodes", "partage de donn\u00e9es", "Service de mobilit\u00e9", "v\u00e9hicule propre", "waze"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2015-07-21
+source: tdf
+source_name: "Transports du Futur"
+tags: ["Amazon", "Apple", "assistant de mobilité", "Assistant Personnel de Consommation", "citoyen", "collectivité", "commuter", "confiance", "connectivité", "covoiturage", "donnée data", "données réelles", "economie circulaire", "économie de l'expérience", "économie du quaternaire", "économie fonctionnalité", "Efficacité énergétique", "google", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "living lab", "marchandises", "monnaie complémentaire", "multimodes", "partage de données", "Service de mobilité", "véhicule propre", "waze"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2015/07/21/balise-n1-les-transports-du-futur/
 ---
 
 Après plus de 800 articles, tentons une première balise ... à laquelle se raccrocher.
 
  
 
-Né de l'ouverture du GPS et de la structure d'internet, le numérique se positionne comme [**la technique dominante**](/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques.html), s'infiltre dans tous les secteurs, toutes les filières. Celle des transports commence à peine à être impactée et déjà des acteurs comme la SNCF annoncent clairement être en concurrence avec Google et Blablacar. Ces acteurs sont nés **par** le numérique, ce sont de [**jeunes adolescents**](/2014/05/parce-que-les-formes-dautopartage-actuelles-sont-encore-tres-jeunes.html) et déjà ils bousculent.
+Né de l'ouverture du GPS et de la structure d'internet, le numérique se positionne comme [**la technique dominante**]({{ site.baseurl }}/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques/), s'infiltre dans tous les secteurs, toutes les filières. Celle des transports commence à peine à être impactée et déjà des acteurs comme la SNCF annoncent clairement être en concurrence avec Google et Blablacar. Ces acteurs sont nés **par** le numérique, ce sont de [**jeunes adolescents**]({{ site.baseurl }}/2014/05/parce-que-les-formes-dautopartage-actuelles-sont-encore-tres-jeunes-2/) et déjà ils bousculent.
 
  
 
-**Dans ce contexte, comment apporter de [nouvelles expériences de mobilités aux citoyens](/2011/10/le-consommateur-du-futur-revolution.html) ? réduire la consommation des énergies fossiles en améliorant l'usage des véhicules en circulation ? comment soutenir les [processus d'innovations](/2012/03/metanote-13-les-innovations-cles-dans-les-transports-les-services-de-mobilites-et-les-chaines-logist.html) et faire naître des ruptures ? comment accompagner les filières historiques dans une [mutation majeure](/2014/04/mobilites-mutations-synthese.html) ?**
+**Dans ce contexte, comment apporter de [nouvelles expériences de mobilités aux citoyens]({{ site.baseurl }}/2011/10/le-consommateur-du-futur-revolution/) ? réduire la consommation des énergies fossiles en améliorant l'usage des véhicules en circulation ? comment soutenir les [processus d'innovations]({{ site.baseurl }}/2012/03/metanote-13-les-innovations-cles-dans-les-transports-les-services-de-mobilites-et-les-chaines-logist/) et faire naître des ruptures ? comment accompagner les filières historiques dans une [mutation majeure]({{ site.baseurl }}/2014/04/mobilites-mutations-synthese/) ?**
 
  
 
@@ -26,7 +26,7 @@ Né de l'ouverture du GPS et de la structure d'internet, le numérique se positi
 
  
 
-En résumé, [**une histoire et un chemin**](/2012/11/contribution-de-lademe-aux-visions-energetiques-2030-2050.html) positifs pour le citoyen, l'environnement et l'économie peuvent être esquisser; Compte tenu de la complexité de ce secteur, les géants du numérique n'ont pas encore pris la place centrale. Aujourd'hui personne n'a créé, ni n'opère la plateforme mondiale des mobilités multimodales. Elle existe pour l'hotel (Airbnb), pour la mobilité urbaine avec chauffeur (Uber), pour les échanges en réseau (Facebook), pour les échanges pro (LinkedIn), pour le e-commerce (Amazon). **Cela ne va pas durer longtemps, ils ont l'argent, le temps et appris à développer des compétences inédites pour se relier [à la multitude](/2013/02/les-transports-a-lage-de-la-multitude.html).**
+En résumé, [**une histoire et un chemin**]({{ site.baseurl }}/2012/11/contribution-de-lademe-aux-visions-energetiques-2030-2050/) positifs pour le citoyen, l'environnement et l'économie peuvent être esquisser; Compte tenu de la complexité de ce secteur, les géants du numérique n'ont pas encore pris la place centrale. Aujourd'hui personne n'a créé, ni n'opère la plateforme mondiale des mobilités multimodales. Elle existe pour l'hotel (Airbnb), pour la mobilité urbaine avec chauffeur (Uber), pour les échanges en réseau (Facebook), pour les échanges pro (LinkedIn), pour le e-commerce (Amazon). **Cela ne va pas durer longtemps, ils ont l'argent, le temps et appris à développer des compétences inédites pour se relier [à la multitude]({{ site.baseurl }}/2013/02/les-transports-a-lage-de-la-multitude/).**
 
  
 

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Etude sur les coûts complets des véhicules électriques, hybrides rechargeables"
-date: 2011-05-06 17:16:18 +0100
-categories: []
+date: 2011-05-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "margin-right: auto\"\" title=\"\"Ve2\"\" /></a> <br /> <br /> <br />Le passage d’un véhicule classique à un véhicule électrique permet une réduction des émissions de CO2 pour autant que le mode de production électrique soit faiblement émetteur de gaz à effet de serre. Le mix énergétique français, peu carboné hors période de pointe, présente un avantage significatif comparativement au mix moyen européen. La présente étude est une évaluation qui met en regard, en 2010 et à l’horizon 2020, l’ensemble des coûts et des avantages estimés de la mise sur le marché de véhicules électriques, en remplacement des véhicules à motorisation « classique ». Les coûts évalués prennent en compte le coût total de possession d’un véhicule pour un particulier (achat, entretien, carburant ou électricité, batterie) et le coût de développement des infrastructures de recharge, qu’elles soient installées à titre privé ou public. Pour les infrastructures de recharge, le plan national prévoit la mise en place de 4,4 millions  de prises à l’horizon 2020, dont 4 millions à domicile ou en entreprise, et 400 000 en voirie ou sur des parkings publics. <p style=\"\"text-align: justify\"\">Les avantages pris en compte pour la collectivité sont la réduction des émissions de CO2, de polluants locaux et de bruit. L’étude intègre à la fois les émissions produites lors de la circulation des véhicules, et lors de la phase de production des batteries et de l’énergie (carburant ou électricité). Le passage d’un véhicule classique à un véhicule électrique permet une réduction des émissions de CO2 pour autant que le mode de production électrique soit faiblement émetteur de gaz à effet de serre. Le mix énergétique français, peu carboné hors période de pointe, présente un avantage significatif comparativement au mix moyen européen.</p> <p style=\"\"text-align: justify\"\"><a href=\"\"/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b014e8846e504970d-800wi.jpg\"\" rel=\"\"lightbox\"\"><img alt=\"\"Ve3\"\" class=\"\"asset  asset-image at-xid-6a0120a66d2ad4970b014e8846e504970d\"\" src=\"\"/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b014e8846e504970d-500wi.jpg\"\" style=\"\"margin-left: auto"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2011/05/06/etude-sur-les-couts-complets-des-vehicules-electriques-hybrides-rechargeables/
 ---
 
 L'étude du CGDD **[les véhicules électriques en perspective, analyse coûts avantages et demande potentielle]()**" est une évaluation qui met en regard, en 2010 et à l’horizon 2020, l’ensemble des coûts et des avantages estimés de la mise sur le marché de véhicules électriques, en remplacement des véhicules à motorisation « classique ».

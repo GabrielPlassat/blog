@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Vers des voitures à très bas prix ..."
-date: 2010-01-04 15:25:19 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'low cost', 'Précarité', 'rickshaw', 'Service de mobilité', 'simplicité', 'TIC', 'transition générationnelle', 'Véhicule']
-=======
-tags: ["Energie", "low cost", "Pr\u00e9carit\u00e9", "rickshaw", "Service de mobilit\u00e9", "simplicit\u00e9", "TIC", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-04
+source: tdf
+source_name: "Transports du Futur"
+tags: ["Energie", "low cost", "Précarité", "rickshaw", "Service de mobilité", "simplicité", "TIC", "transition générationnelle", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/01/04/vers-des-voitures-a-tres-bas-prix/
 ---
 
 En 2008, avec la crise économique, les ventes de voitures ont chuté et le secteur automobile a été l’un des premiers sinistrés. Fin 2009, le contexte semble meilleur, mais la convalescence restera longue et les arbitrages des acheteurs sont susceptibles d’évoluer rapidement. 
@@ -15,7 +15,7 @@ En termes de consommation, si la recherche de l’essentiel, voire du strict min
 
  
 
-L'observatoire CETELEM vient de publier une étude consacrée à l'automobile low cost  (**[rapport ici](/assets/images/2010/01/observatoire_cetelem_automobile_2010.pdf)**). Le concept et l'offre low cost se caractérisent par la mise sur la marché d'un produit simplifié, recentré sur l'essentiel, le juste utile, voire le seul indispensable, souvent accompagné d'une sensible diminution - à l'extrême, de la disparition pure et simple - des services associés. Comment alors les véhicules low cost pourraient s'articuler avec le développement de services de mobilité ?
+L'observatoire CETELEM vient de publier une étude consacrée à l'automobile low cost  (**[rapport ici]({{ site.baseurl }}/assets/images/2010/01/observatoire_cetelem_automobile_2010.pdf)**). Le concept et l'offre low cost se caractérisent par la mise sur la marché d'un produit simplifié, recentré sur l'essentiel, le juste utile, voire le seul indispensable, souvent accompagné d'une sensible diminution - à l'extrême, de la disparition pure et simple - des services associés. Comment alors les véhicules low cost pourraient s'articuler avec le développement de services de mobilité ?
 
  
 
@@ -52,8 +52,4 @@ Comme le prix de l'objet devient nettement inférieur à son usage, et comme des
 
 **Paradoxalement, alors que la mobilité rapide-sûr-fiable sera de plus en plus chère - car rare -, les véhicules pourraient être de moins en moins chers, voire gratuits - car abondants - dans certains cas.**
 
-<<<<<<< HEAD
 "2010-01-04 15:25:19https://transportsdufutur.ademe.fr/2010/01/vers-des-voitures-a-tres-bas-prix.htmlEnergie|low cost|Précarité|rickshaw|Service de mobilité|simplicité|TIC|transition générationnelle|Véhiculepublish18gabriel plassatvers-des-voitures-a-tres-bas-prix2010-01-04 15:25:19
-=======
-"2010-01-04 15:25:19/2010/01/04/vers-des-voitures-a-tres-bas-prix/Energie|low cost|Précarité|rickshaw|Service de mobilité|simplicité|TIC|transition générationnelle|Véhiculepublish18gabriel plassatvers-des-voitures-a-tres-bas-prix2010-01-04 15:25:19
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

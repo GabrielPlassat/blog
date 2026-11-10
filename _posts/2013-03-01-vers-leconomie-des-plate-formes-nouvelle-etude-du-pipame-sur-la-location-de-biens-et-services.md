@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Vers l'économie des plate-formes : nouvelle étude du PIPAME sur la location de biens et services"
-date: 2013-03-01 14:53:14 +0100
-categories: []
+date: 2013-03-01
+source: tdf
+source_name: "Transports du Futur"
+original_url: "padding-left: 30px\"\">C’est dans cette optique que l’économie locative et d’usage propose aux acteurs économiques d’orienter leur activité vers de nouvelles formes, plus qualitatives, de conception, de production et de distribution, fondées sur <strong>l’usage des biens et la fourniture de bouquets de services ou de « solutions intégrées »,</strong> qui inscrivent le client au coeur des process et qui reposent sur une approche modulaire de la chaîne de valeur, c’est-à-dire ajustée aux nouvelles logiques de consommation et aux nouvelles attentes des bénéficiaires finaux. C’est en ce sens que l’économie servicielle peut permettre de répondre aux défis économiques qui se posent à la France et aux pays industrialisés (maturité des marchés, érosion du pouvoir d’achat, préoccupation écologique…), même si les solutions locatives et les modèles d’économie d’usage rentables s’avèrent encore rares et non stabilisés, qu’ils soient portés par des start-up ou des grands groupes majoritairement anglo-saxons.</p> <p style=\"\"text-align: justify"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2013/03/01/vers-leconomie-des-plate-formes-nouvelle-etude-du-pipame-sur-la-location-de-biens-et-services/
 ---
 
-Après une étude essentielle sur les [**mutations du secteur automobile** ](/2010/05/les-mutations-du-secteur-automobile-le-rapport-du-pole-interministeriel-de-prospective.html)(toujours d'actualité), le PIPAME propose un rapport Étude sur la location de biens et services innovants : nouvelles offres, nouveaux opérateurs, nouveaux modèles économiques ?".
+Après une étude essentielle sur les [**mutations du secteur automobile** ]({{ site.baseurl }}/2010/05/les-mutations-du-secteur-automobile-le-rapport-du-pole-interministeriel-de-prospective/)(toujours d'actualité), le PIPAME propose un rapport Étude sur la location de biens et services innovants : nouvelles offres, nouveaux opérateurs, nouveaux modèles économiques ?".
 
  
 

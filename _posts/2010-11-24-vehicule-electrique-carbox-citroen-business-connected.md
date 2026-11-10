@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Véhicule Electrique + carbox = Citroën Business Connected"
-date: 2010-11-24 15:09:15 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'internet', 'Service de mobilité', 'VE']
-=======
-tags: ["ADEME", "internet", "Service de mobilit\u00e9", "VE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/vehicule-electrique-carbox-citroen-business-connected.html"
+tags: ["ADEME", "internet", "Service de mobilité", "VE"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/11/24/vehicule-electrique-carbox-citroen-business-connected/
 ---
 
-Après le business PASS (voir **[ici](/2010/03/voiture-a-la-carte.html)**), Développée par Citroën Business France en partenariat avec **[CARBOX](http://www.carboxservices.com/)**, elle permet aux entreprises et aux collectivités de disposer de Citroën C-ZERO en autopartage** **et ainsi d'intégrer des voitures électriques dans leur flotte.
+Après le business PASS (voir **[ici]({{ site.baseurl }}/2010/03/voiture-a-la-carte/)**), Développée par Citroën Business France en partenariat avec **[CARBOX](http://www.carboxservices.com/)**, elle permet aux entreprises et aux collectivités de disposer de Citroën C-ZERO en autopartage** **et ainsi d'intégrer des voitures électriques dans leur flotte.
 
  
 

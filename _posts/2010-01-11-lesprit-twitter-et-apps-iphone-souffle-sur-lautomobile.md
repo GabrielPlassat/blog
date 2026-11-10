@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "L'esprit twitter et Apps Iphone souffle sur l'automobile"
-date: 2010-01-11 14:26:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['connectivité', 'internet', 'internet des objets', 'iphone', 'open source', 'Service de mobilité', 'TIC', 'twitter', 'Véhicule']
-=======
-tags: ["connectivit\u00e9", "internet", "internet des objets", "iphone", "open source", "Service de mobilit\u00e9", "TIC", "twitter", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-11
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/lesprit-twitter-et-apps-iphone-souffle-sur-lautomobile.html"
+tags: ["connectivité", "internet", "internet des objets", "iphone", "open source", "Service de mobilité", "TIC", "twitter", "Véhicule"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/01/11/lesprit-twitter-et-apps-iphone-souffle-sur-lautomobile/
 ---
 
 Le **[2010 International Consumer Electronics Show (CES)](http://www.cesweb.org/faq/generalFAQs.asp#general)** qui se déroule actuellement à Las Vegas présente toutes les nouveautés liées aux technologies de l'information, dont les applications transports et automobile.
@@ -24,7 +25,7 @@ Ford via son **[SYNC](http://android-france.fr/2010/01/08/ford-sync-app-ecosyste
 
  
 
-Au Brésil, Fiat fait également participer le consommateur (**[site web](http://www.fiatmio.cc/en/)**, **[twitter](http://twitter.com/fiatmio)**, et également dans un précédent **[article](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/6a0120a66d2ad4970b012875a85d74970c/edit)** de ce blog) pour son prochain véhicule, la Mio. Les consommateurs demandent, par exemple, d'intégrer des solutions vues chez d'autres constructeurs pour rendre plus économe le véhicule (comme l'ECO pedal ci dessous)), de rendre plus facile la maintenance...
+Au Brésil, Fiat fait également participer le consommateur (**[site web](http://www.fiatmio.cc/en/)**, **[twitter](http://twitter.com/fiatmio)**, et également dans un précédent **[article](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/6a0120a66d2ad4970b012875a85d74970c/edit)** de ce blog) pour son prochain véhicule, la Mio. Les consommateurs demandent, par exemple, d'intégrer des solutions vues chez d'autres constructeurs pour rendre plus économe le véhicule (comme l'ECO pedal ci dessous)), de rendre plus facile la maintenance...
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "XPrice 2010, c'est parti !"
-date: 2010-04-29 14:04:21 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Efficacité énergétique', 'véhicule propre']
-=======
-tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-29
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/xprice-2010-cest-parti.html"
+tags: ["Efficacité énergétique", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/04/29/xprice-2010-cest-parti/
 ---
 
 **[XPrice](http://www.xprize.org/)** est une fondation qui a pour but de susciter l'innovation dans des secteurs clés, via la compétition. Concernant les transports, le programme Progressive Insurance Automotive X Price existe depuis plusieurs années.
@@ -16,7 +17,7 @@ tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "v\u00e9hicule propre"]
 
 The goal of the Progressive Insurance Automotive X PRIZE is to inspire a new generation of super-efficient vehicles that help break our addiction to oil and stem the effects of climate change. Our goal is to inspire a new generation of viable, safe, affordable and super fuel efficient vehicles that people want to buy.
 
-$10 million in prizes will be awarded in September 2010 to the teams that win a rigorous stage competition for clean, production-capable vehicles that exceed 100 MPG energy equivalent (MPGe). Program is described **[here](/assets/images/2010/04/PIAXP_Guidelines_V_1.3.pdf).**
+$10 million in prizes will be awarded in September 2010 to the teams that win a rigorous stage competition for clean, production-capable vehicles that exceed 100 MPG energy equivalent (MPGe). Program is described **[here]({{ site.baseurl }}/assets/images/2010/04/PIAXP_Guidelines_V_1.3.pdf).**
 
  
 
@@ -28,7 +29,7 @@ Planning is presented below :
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133ed0d6c93970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133ed0d6c93970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ed0d6c93970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ed0d6c93970b-pi.jpg) 
 The series of scored performance and evaluation events kicks off April 26, 2010 and continues through the end of August 2010. During this time, the Progressive Insurance Automotive X PRIZE will conduct several competition stages aimed at evaluating the efficiency, safety and performance of each competition vehicle under real world conditions. While in Michigan, the competition will allow the public and the automotive world an opportunity to witness the competition stages as they unfold. Additionally, ongoing and interactive updates will be available online at [www.progressiveautoxprize.org](http://www.progressiveautoxprize.org) throughout the competition stages.
 
  
@@ -53,6 +54,6 @@ All teams selected are presented **[here](http://www.progressiveautoxprize.org/t
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134803dc2ad970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134803dc2ad970c-pi.jpg) 
-[![](/assets/images/old/6a0120a66d2ad4970b0134803dd15c970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134803dd15c970c-pi.jpg) 
- [![](/assets/images/old/6a0120a66d2ad4970b0133ed0d819b970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133ed0d819b970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134803dc2ad970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134803dc2ad970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134803dd15c970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134803dd15c970c-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ed0d819b970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ed0d819b970b-pi.jpg)

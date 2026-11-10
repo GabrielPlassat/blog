@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "SIBRT – L’Association Latino-Américaine des agences de transport : vers le développement d’une mobilité durable à l’échelle du continent ?"
-date: 2013-11-29 12:34:49 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['agence mobilité', 'autorité des transports', 'BHNS', 'commuter', 'EMBARQ', 'gouvernance', 'Infrastructure', 'innovation', 'management de la mobilité']
-=======
-tags: ["agence mobilit\u00e9", "autorit\u00e9 des transports", "BHNS", "commuter", "EMBARQ", "gouvernance", "Infrastructure", "innovation", "management de la mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-11-29
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/11/sibrt-lassociation-latino-americaine-des-agences-de-transport-vers-le-developpement-dune-mobilite-du.html"
+tags: ["agence mobilité", "autorité des transports", "BHNS", "commuter", "EMBARQ", "gouvernance", "Infrastructure", "innovation", "management de la mobilité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2013/11/29/sibrt-lassociation-latino-americaine-des-agences-de-transport-vers-le-developpement-dune-mobilite-du/
 ---
 
 [Il s'agit d'un billet invité, Bienvenue à [**Chloé Bouilloux**](http://www.linkedin.com/pub/chloe-bouilloux/3a/990/840), ex [**EMBARQ** ](http://www.embarq.org/)Amérique Latine]
@@ -30,7 +31,7 @@ Le continent présente un fort potentiel de développement de solutions de mobil
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b019b01d5d52d970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b019b01d5d52d970d-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b01d5d52d970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b01d5d52d970d-pi.jpg)
 
  
 
@@ -67,11 +68,7 @@ L’émergence de structures comme SIBRT en Amérique Latine est une aubaine afi
 
  
 
-<<<<<<< HEAD
 [[3]](/windows/temp/notes777821/Article%20Blog%20SIBRT%20Chloe%20B..docx#_ftnref3) NTU - Association Nationale des Entreprises de Transport Urbain ([http://www.ntu.org.br/](http://ww
-=======
-[[3]](/windows/temp/notes777821/Article%20Blog%20SIBRT%20Chloe%20B..docx#_ftnref3) NTU - Association Nationale des Entreprises de Transport Urbain ([http://www.ntu.org.br/](http://ww_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 w.ntu.org.br/))
 
  

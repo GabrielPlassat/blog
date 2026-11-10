@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Quand la pollution devient visible"
-date: 2010-05-26 14:58:14 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['carburant', 'données réelles', 'Efficacité énergétique', 'emission', 'finlande', 'internet', 'partage de données', "qualité de l'air", 'RSE']
-=======
-tags: ["carburant", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "finlande", "internet", "partage de donn\u00e9es", "qualit\u00e9 de l'air", "RSE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-05-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/05/quand-la-pollution-devient-visible.html"
+tags: ["carburant", "données réelles", "Efficacité énergétique", "emission", "finlande", "internet", "partage de données", "qualité de l'air", "RSE"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/05/26/quand-la-pollution-devient-visible/
 ---
 
 Elle change le rapport des citoyens à l'environnement. Le cas de BP est intéressant sur ce point. Les milliers de baril.jour deviennent visibles, réels, alors que le carburant, lui, ne se voit pas quand on l'achète. Cet incident n'est pas vraiment nouveau, mais les moyens de communication eux ont changé. Ils obligent BP à une communication en **[flux tendu](http://twitter.com/BP_America)**, utilisant tous les **[modes](http://www.bp.com/genericarticle.do?categoryId=4003981&contentId=7062284)**, à faire participer **[les citoyens à la recherche d'idées](http://www.businessofgovernment.org/blog/crowdsourcing-bp-oil-spill)** pour résoudre le problème. 

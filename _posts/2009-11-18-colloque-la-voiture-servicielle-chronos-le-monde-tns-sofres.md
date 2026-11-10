@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Colloque La voiture Servicielle par Chronos - Le Monde - TNS Sofres"
-date: 2009-11-18 19:51:38 +0100
-categories: []
+date: 2009-11-18
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/colloque-la-voiture-servicielle-chronos-le-monde-tns-sofres.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2009/11/18/colloque-la-voiture-servicielle-chronos-le-monde-tns-sofres/
 ---
 
 Le *Groupe Chronos*, déjà à l'origine du projet Villes 2.0 avec la FING, prend l'initiative, avec *Le Monde* et *TNS Sofres*, de réunir le **19 novembre** les acteurs historiques et les nouveaux opérateurs de mobilité, au cours d’une conférence au journal *Le Monde*. Là où certains voient la fin de l'automobile, nous voyons la fin d'un cycle et le début d'un autre. 

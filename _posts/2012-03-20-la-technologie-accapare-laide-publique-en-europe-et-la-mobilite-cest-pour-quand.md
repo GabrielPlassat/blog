@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Passer de la technologie des véhicules aux systèmes de mobilité, également au niveau Européen"
-date: 2012-03-20 09:51:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'autorité des transports', 'connectivité', 'Europe', 'innovation', 'management de la mobilité', 'Service de mobilité', 'Véhicule', 'véhicule propre']
-=======
-tags: ["ADEME", "autorit\u00e9 des transports", "connectivit\u00e9", "Europe", "innovation", "management de la mobilit\u00e9", "Service de mobilit\u00e9", "V\u00e9hicule", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-03-20
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/03/la-technologie-accapare-laide-publique-en-europe-et-la-mobilite-cest-pour-quand.html"
+tags: ["ADEME", "autorité des transports", "connectivité", "Europe", "innovation", "management de la mobilité", "Service de mobilité", "Véhicule", "véhicule propre"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2012/03/20/la-technologie-accapare-laide-publique-en-europe-et-la-mobilite-cest-pour-quand/
 ---
 
 *Article rédigé par A.Thebault (ADEME)*
@@ -26,7 +27,7 @@ C'est un des constats d'un **[colloque international qui s'est tenu le 22 févri
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b016763dde7d4970b-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b016763dde7d4970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b016763dde7d4970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b016763dde7d4970b-pi.jpg) 
 
  Les participants ont mis en avant le besoin de mener en Europe des initiatives test de grande envergure: étendue géographique, nombre et types de véhicules, solutions intégrées de paiement et d'accès aux transports pour les usagers... De tels projets supposent une implication forte des acteurs publics tant l'écosystème à synchroniser est important ! 
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "European strategy for Clean and efficient vehicles"
-date: 2010-04-30 21:16:22 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['emission', 'Europe', 'véhicule propre']
-=======
-tags: ["emission", "Europe", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/european-strategy-for-clean-and-efficient-vehicles.html"
+tags: ["emission", "Europe", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/04/30/european-strategy-for-clean-and-efficient-vehicles/
 ---
 
 From economic crisis to a more resource efficient, greener and more competitive economy
@@ -169,11 +170,7 @@ Guidelines on financial incentives: Coordination of demand-side measures adopted
  
 - 
 
-<<<<<<< HEAD
 Revision of the energy taxation directive: Better incent
-=======
-Revision of the energy taxation directive: Better incent_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ives need to be created for the efficient use of conventional fuels and the gradual uptake of alternative low-carbon emitting fuels.
 
  

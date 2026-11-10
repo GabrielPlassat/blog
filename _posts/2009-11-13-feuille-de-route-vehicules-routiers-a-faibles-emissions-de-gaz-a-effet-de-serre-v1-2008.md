@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Feuille de route - Véhicules routiers à faibles émissions de gaz à effet de serre"
-date: 2009-11-13 15:54:03 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'Véhicule']
-=======
-tags: ["ADEME", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-11-13
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/feuille-de-route-vehicules-routiers-a-faibles-emissions-de-gaz-a-effet-de-serre-v1-2008.html"
+tags: ["ADEME", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/11/13/feuille-de-route-vehicules-routiers-a-faibles-emissions-de-gaz-a-effet-de-serre-v1-2008/
 ---
 
 L'ADEME soutient activement la recherche dans le domaine des véhicules routiers à faibles émissions de GES. Une feuille de route a été rédigée par un comité d'experts pour présenter la vision stratégique de ce sujet.
@@ -55,4 +56,4 @@ Actualisation prévue en 2010 dans le cadre des travaux du Comité d'Expert ad-h
 [Consulter / Télécharger la feuille de route](http://www.ademe.fr/?name=4AC719E66CDA4B8A3F4566C8BA30E1711249463405594.pdf)
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a693e2f6970b-800wi.gif)](/assets/images/old/6a0120a66d2ad4970b0120a693e2f6970b-pi.gif)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a693e2f6970b-800wi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a693e2f6970b-pi.gif)

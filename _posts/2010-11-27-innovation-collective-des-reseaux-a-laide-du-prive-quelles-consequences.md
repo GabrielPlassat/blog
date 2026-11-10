@@ -1,24 +1,25 @@
 ---
 layout: post
 title: "Innovation collective des réseaux à l'aide du privé, quelles conséquences ?"
-date: 2010-11-27 19:50:55 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'confiance', 'connectivité', 'innovation', 'internet', 'open innovation', 'open source', 'partage de données', "Plateforme d'idées", 'réseaux', 'Service de mobilité']
-=======
-tags: ["citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "innovation", "internet", "open innovation", "open source", "partage de donn\u00e9es", "Plateforme d'id\u00e9es", "r\u00e9seaux", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/innovation-collective-des-reseaux-a-laide-du-prive-quelles-consequences.html"
+tags: ["citoyen", "collectivité", "confiance", "connectivité", "innovation", "internet", "open innovation", "open source", "partage de données", "Plateforme d'idées", "réseaux", "Service de mobilité"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2010/11/27/innovation-collective-des-reseaux-a-laide-du-prive-quelles-consequences/
 ---
 
-Après *Pepsi *avec Refresh everything (déjà abordé **[là](/2010/03/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides-.html)**), *General Electric *avec ecomagination (voir **[ici](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html)**) , *Sony *et *WWF *ont lancé une initiative auprès du grand public pour susciter de nouvelles idées, fédérer une large communauté, l’animer, et financer les meilleurs projets : **[Open planet ideas](http://www.openplanetideas.com/)**. Les thèmes proposés tournent autour de l’utilisation des TIC existantes pour proposer de nouveaux produits ou services écologiques : utilisation des GPS, des images issues des caméras de surveillance.
+Après *Pepsi *avec Refresh everything (déjà abordé **[là]({{ site.baseurl }}/2010/03/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides/)**), *General Electric *avec ecomagination (voir **[ici]({{ site.baseurl }}/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique/)**) , *Sony *et *WWF *ont lancé une initiative auprès du grand public pour susciter de nouvelles idées, fédérer une large communauté, l’animer, et financer les meilleurs projets : **[Open planet ideas](http://www.openplanetideas.com/)**. Les thèmes proposés tournent autour de l’utilisation des TIC existantes pour proposer de nouveaux produits ou services écologiques : utilisation des GPS, des images issues des caméras de surveillance.
 
  
 
-Le potentiel d’innovations des entreprises est maintenant complété par celui des citoyens utilisateurs. Certains annoncent même que l’innovation vient majoritairement de l’extérieur (voir **[ici](/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies.html)**). Dans tous les cas, il faudra coupler les deux et être capable de développer des solutions pour collecter/sélectionner l’innovation des citoyens. Avec des conséquences majeures sur la création de nouveaux réseaux, et sur la création d'une conscience collective efficace et innovante... 
+Le potentiel d’innovations des entreprises est maintenant complété par celui des citoyens utilisateurs. Certains annoncent même que l’innovation vient majoritairement de l’extérieur (voir **[ici]({{ site.baseurl }}/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies/)**). Dans tous les cas, il faudra coupler les deux et être capable de développer des solutions pour collecter/sélectionner l’innovation des citoyens. Avec des conséquences majeures sur la création de nouveaux réseaux, et sur la création d'une conscience collective efficace et innovante... 
 
  
 
-Yochaï Benkler, dans la *Puissance des Réseaux* (voir **[ici]( /2010/01/la-puissance-des-reseaux-seratelle-suffisante.html)**), étudie en détail ce potentiel d’innovation, s’interroge sur les origines intimes qui poussent certains à travailler gratuitement, à partager des services ou des produits, à rédiger des articles sur wikipedia ou simplement à donner des avis. Il s’agit donc surtout de considérer une réorganisation significative du social : les réseaux informatiques procèdent à une redéfinition essentielle de la manière dont nous organisons nos relations avec autrui, ou pour le dire de façon plus technique, de notre « capital social ». Ces *nouvelles manières* de tisser des liens caractérisent tout particulièrement un phénomène d’apparence paradoxale : la valeur des liens de « faible intensité ». « Faibles », car les échanges sur les réseaux peuvent s’avérer éphémères, ponctuels et ils n’offrent pas toujours la continuité de l’échange traditionnel en « face à face ». **Mais, engageant peu, ils permettent de coopérer plus. Un échange sur un réseau implique moins, mais autorise plus de marge de manœuvre. Ce fait est producteur d’une nouvelle efficacité sociale qui se révèle contestataire de la puissance du marché.**
+Yochaï Benkler, dans la *Puissance des Réseaux* (voir **[ici]( {{ site.baseurl }}/2010/01/la-puissance-des-reseaux-seratelle-suffisante/)**), étudie en détail ce potentiel d’innovation, s’interroge sur les origines intimes qui poussent certains à travailler gratuitement, à partager des services ou des produits, à rédiger des articles sur wikipedia ou simplement à donner des avis. Il s’agit donc surtout de considérer une réorganisation significative du social : les réseaux informatiques procèdent à une redéfinition essentielle de la manière dont nous organisons nos relations avec autrui, ou pour le dire de façon plus technique, de notre « capital social ». Ces *nouvelles manières* de tisser des liens caractérisent tout particulièrement un phénomène d’apparence paradoxale : la valeur des liens de « faible intensité ». « Faibles », car les échanges sur les réseaux peuvent s’avérer éphémères, ponctuels et ils n’offrent pas toujours la continuité de l’échange traditionnel en « face à face ». **Mais, engageant peu, ils permettent de coopérer plus. Un échange sur un réseau implique moins, mais autorise plus de marge de manœuvre. Ce fait est producteur d’une nouvelle efficacité sociale qui se révèle contestataire de la puissance du marché.**
 
  
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Les automobilistes vont configurer leurs voitures en fonction de leurs besoins\"\""
-date: 2010-02-05 20:31:46 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'marketing', 'open source', 'partage de données', 'Service de mobilité', 'TIC', 'Véhicule']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "marketing", "open source", "partage de donn\u00e9es", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-05
+source: tdf
+source_name: "Transports du Futur"
+tags: ["données réelles", "marketing", "open source", "partage de données", "Service de mobilité", "TIC", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/02/05/les-automobilistes-vont-configurer-leurs-voitures-en-fonction-de-leurs-besoins/
 ---
 
 Cette affirmation de Mme Asensio mérite que l’on y prête attention tant les conséquences pourraient être importantes pour les constructeurs automobiles. Cet [article ](http://www.lemonde.fr/aujourd-hui/article/2010/02/04/anne-asensio-les-automobilistes-vont-configurer-leurs-voitures-en-fonction-de-leurs-besoins_1301124_3238.html)du journal Le Monde présente sur la base d’un entretien la vision de cette personne expérimentée en matière de design automobile. Quelques extraits :
@@ -32,15 +32,15 @@ Cette affirmation de Mme Asensio mérite que l’on y prête attention tant les 
 
  
 
-Mme Asensio a raison, la clientèle change et les constructeurs automobiles n’ont plus les outils pour suivre cette demande qui souhaite personnaliser, dire ce qu’elle veut, participer. Plusieurs notes de ce blog ont déjà présenté quelques exemples d’open innovation, de participation des consommateurs à la conception de tout ou partie d’un système pouvant aller jusqu’à l’automobile complète (voir **[ici ](/2009/11/open-source-mobilites-quels-avantages-quelles-consequences.html)**et **[là](/2010/01/lesprit-twitter-et-apps-iphone-souffle-sur-lautomobile.html)**). Mais c’est là que tout peut changer. Le consommateur/citoyen ne s’arrêtera pas là où le constructeur le souhaite ou le pense. Après s’être intéressé aux accessoires, certains demanderont de revoir les performances même du véhicule, la masse, source de profit pour les industriels, pour concevoir et faire réaliser des objets réellement adaptés aux besoins d’une mobilité urbaine (Voir la note décrivant le faible besoin énergétique pour déplacer un véhicule **[ici](/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix-.html)**).
+Mme Asensio a raison, la clientèle change et les constructeurs automobiles n’ont plus les outils pour suivre cette demande qui souhaite personnaliser, dire ce qu’elle veut, participer. Plusieurs notes de ce blog ont déjà présenté quelques exemples d’open innovation, de participation des consommateurs à la conception de tout ou partie d’un système pouvant aller jusqu’à l’automobile complète (voir **[ici ]({{ site.baseurl }}/2009/11/open-source-mobilites-quels-avantages-quelles-consequences/)**et **[là]({{ site.baseurl }}/2010/01/lesprit-twitter-et-apps-iphone-souffle-sur-lautomobile/)**). Mais c’est là que tout peut changer. Le consommateur/citoyen ne s’arrêtera pas là où le constructeur le souhaite ou le pense. Après s’être intéressé aux accessoires, certains demanderont de revoir les performances même du véhicule, la masse, source de profit pour les industriels, pour concevoir et faire réaliser des objets réellement adaptés aux besoins d’une mobilité urbaine (Voir la note décrivant le faible besoin énergétique pour déplacer un véhicule **[ici]({{ site.baseurl }}/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix/)**).
 
  
 
-Mme Asensio a raison, il est essentiel de placer le consommateur au cœur de la conception. Mais pourquoi est-ce que cela n’a pas été fait avant ? Ce dernier n’attendra pas que les constructeurs automobiles le fassent, et il ira chercher ailleurs l’objet puis le **[service ](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**le mieux adapté à sa mobilité. 
+Mme Asensio a raison, il est essentiel de placer le consommateur au cœur de la conception. Mais pourquoi est-ce que cela n’a pas été fait avant ? Ce dernier n’attendra pas que les constructeurs automobiles le fassent, et il ira chercher ailleurs l’objet puis le **[service ]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**le mieux adapté à sa mobilité. 
 
  
 
-Mme Asensio a raison, Internet permet d’accéder à des informations concernant les consommateurs. Mais Internet permet déjà aux consommateurs d’obtenir des informations clés sur les industriels, leurs bilans environnementaux (voir **[ici](/2010/01/la-responsabilite-sociale-de-lentreprise-et-les-tic.html)**), et permettra demain de connaître la performance environnementale réelle d’un produit (voir **[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)**). Pour la première fois, comme il est indiqué dans la théorie économique, le consommateur possédera l’information pour choisir.
+Mme Asensio a raison, Internet permet d’accéder à des informations concernant les consommateurs. Mais Internet permet déjà aux consommateurs d’obtenir des informations clés sur les industriels, leurs bilans environnementaux (voir **[ici]({{ site.baseurl }}/2010/01/la-responsabilite-sociale-de-lentreprise-et-les-tic/)**), et permettra demain de connaître la performance environnementale réelle d’un produit (voir **[ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)**). Pour la première fois, comme il est indiqué dans la théorie économique, le consommateur possédera l’information pour choisir.
 
  
 

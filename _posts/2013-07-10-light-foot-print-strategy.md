@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Light foot print strategy"
-date: 2013-07-10 11:36:26 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['art de la guerre', 'autarcie', 'catastrophe', 'cité', 'citoyen', 'connectivité', 'cygne noir', 'données réelles', "économie de l'expérience", 'General Electric', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'open innovation', 'pensée complexe', 'plate-forme']
-=======
-tags: ["art de la guerre", "autarcie", "catastrophe", "cit\u00e9", "citoyen", "connectivit\u00e9", "cygne noir", "donn\u00e9es r\u00e9elles", "\u00e9conomie de l'exp\u00e9rience", "General Electric", "holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "pens\u00e9e complexe", "plate-forme"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-07-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/07/light-foot-print-strategy.html"
+tags: ["art de la guerre", "autarcie", "catastrophe", "cité", "citoyen", "connectivité", "cygne noir", "données réelles", "économie de l'expérience", "General Electric", "holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "pensée complexe", "plate-forme"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2013/07/10/light-foot-print-strategy/
 ---
 
 [**L’article** ](http://lecercle.lesechos.fr/entreprises-marches/management/organisation/221176457/quand-strategie-militaire-dessine-lentreprise-)de Charles Edouard Bouée, membre du comité executif du cabinet Roland Berger dans les Echos, est intéressant. Il développe une analogie entre la stratégie militaire américaine et l’entreprise de demain. Reprenant l’idée que les militaires préfigurent les organisations du futur (voir et revoir sur ce point les nombreux éléments de **[Transit City](http://www.transit-city.com/ateliers/precedentes/militaires/)**). Tentons d’appliquer ces tendances aux domaines des mobilités et entreprises de transports.
 
  
 
-Les qualifications retenues pour cet avenir sont VICA : **Volatil, Incertain, Complexe et Ambigu**. Ces notions ont été mentionnées à plusieurs reprises dans ce blog (lire notamment la **[MétaNote 11 Introduction à la pensée complexe](/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe.html)**). Devant ces éléments, la stratégie retenue se résume par « *light foot print* » : augmenter son agilité, sa capacité d’adaptation à des futurs inconnus, sa rapidité d’apprentissage de nouvelles techniques et nouveaux environnements, se former en permanence. La **[MétaNote 1](/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir.html)** proposait 7 principes pour survivre aux crises. Tous les contraires des guerres d’hier fondées sur des structures de commandement et des moyens lourds. Ainsi la légèreté devient la principale caractéristique, et l’empreinte le symbole.
+Les qualifications retenues pour cet avenir sont VICA : **Volatil, Incertain, Complexe et Ambigu**. Ces notions ont été mentionnées à plusieurs reprises dans ce blog (lire notamment la **[MétaNote 11 Introduction à la pensée complexe]({{ site.baseurl }}/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe/)**). Devant ces éléments, la stratégie retenue se résume par « *light foot print* » : augmenter son agilité, sa capacité d’adaptation à des futurs inconnus, sa rapidité d’apprentissage de nouvelles techniques et nouveaux environnements, se former en permanence. La **[MétaNote 1]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)** proposait 7 principes pour survivre aux crises. Tous les contraires des guerres d’hier fondées sur des structures de commandement et des moyens lourds. Ainsi la légèreté devient la principale caractéristique, et l’empreinte le symbole.
 
  
 
@@ -34,7 +35,7 @@ Concrètement, cette stratégie  se traduit par trois actions : **Drone, Forces
 
  
 
-Un précédent [**article** ](/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires.html)décrivait déjà cet impératif : le futur ne peut se pratiquer qu’avec des « équipages » entraînés. Comme toutes les phases d’exploration de nouveaux territoires, l’entraînement, la formation des équipes sont des impératifs. Les forces spéciales militaires deviennent, dans l’entreprise, des équipes qui vont explorer le futur de l’entreprise, ses prochains modèles d’affaires, ses prochaines relations avec les clients, les prochaines expériences qu’elle va proposer. Ces équipages ne seront pas organisés par des structures hiérarchiques classiques, ils fonctionneront en réseau, en « reliance », avec des leaders. Bien sûr, ces équipages seront rattachés au plus haut niveau de la structure pyramidale à la fois pour lui faire parvenir directement les signaux, mais également pour lui faire toucher du doigt « la puissance des réseaux » (lire le livre de Yochai Benkler, **[La Puissance des réseaux](/2010/01/la-puissance-des-reseaux-seratelle-suffisante.html)**). Progressivement, pour survivre mais également parce que ces modes d’intelligence collective sont plus performants face à l’imprévisible (VICA), les entreprises vont se configurer de plus en plus sous la forme d’équipages indépendants et reliés.
+Un précédent [**article** ]({{ site.baseurl }}/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires/)décrivait déjà cet impératif : le futur ne peut se pratiquer qu’avec des « équipages » entraînés. Comme toutes les phases d’exploration de nouveaux territoires, l’entraînement, la formation des équipes sont des impératifs. Les forces spéciales militaires deviennent, dans l’entreprise, des équipes qui vont explorer le futur de l’entreprise, ses prochains modèles d’affaires, ses prochaines relations avec les clients, les prochaines expériences qu’elle va proposer. Ces équipages ne seront pas organisés par des structures hiérarchiques classiques, ils fonctionneront en réseau, en « reliance », avec des leaders. Bien sûr, ces équipages seront rattachés au plus haut niveau de la structure pyramidale à la fois pour lui faire parvenir directement les signaux, mais également pour lui faire toucher du doigt « la puissance des réseaux » (lire le livre de Yochai Benkler, **[La Puissance des réseaux]({{ site.baseurl }}/2010/01/la-puissance-des-reseaux-seratelle-suffisante/)**). Progressivement, pour survivre mais également parce que ces modes d’intelligence collective sont plus performants face à l’imprévisible (VICA), les entreprises vont se configurer de plus en plus sous la forme d’équipages indépendants et reliés.
 
  
 
@@ -54,7 +55,7 @@ A ces trois piliers, la connaissance de *l’autre* pour mieux anticiper, mieux 
 
  
 
-La connaissance des marchés était résolue par des études marketing. Ceci permettait de « designer » les produits et les services. Mais face à la multitude (lire l’article **[Les Transports à l’âge de la multitude](/2013/02/les-transports-a-lage-de-la-multitude.html)**), de nouveaux outils, de nouvelles techniques, de nouvelles approches sont nécessaires. Inclure les clients, devenus eux-mêmes producteurs / consommateurs, dans les processus stratégiques, identifier les « meilleurs », influencer les influenceurs, leur permettre de participer à l’innovation. Pour cela, le marketing ne s'applique plus, seule l'empathie et la séduction peuvent s'appliquer.
+La connaissance des marchés était résolue par des études marketing. Ceci permettait de « designer » les produits et les services. Mais face à la multitude (lire l’article **[Les Transports à l’âge de la multitude]({{ site.baseurl }}/2013/02/les-transports-a-lage-de-la-multitude/)**), de nouveaux outils, de nouvelles techniques, de nouvelles approches sont nécessaires. Inclure les clients, devenus eux-mêmes producteurs / consommateurs, dans les processus stratégiques, identifier les « meilleurs », influencer les influenceurs, leur permettre de participer à l’innovation. Pour cela, le marketing ne s'applique plus, seule l'empathie et la séduction peuvent s'appliquer.
 
  
 

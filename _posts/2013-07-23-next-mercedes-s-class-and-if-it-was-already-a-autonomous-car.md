@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Next Mercedes S-Class, and if it was already a autonomous car ?"
-date: 2013-07-23 15:31:41 +0100
-categories: []
+date: 2013-07-23
+source: tdf
+source_name: "Transports du Futur"
+original_url: ">At the same time, in 2013, <strong><a href=\"\"http://www-03.ibm.com/press/us/en/pressrelease/41441.wss\"\" target=\"\"_blank\"\">IBM and Sprint</a></strong> have announced their collaboration to offer an industrial offer based on the use of cloud. <strong><a href=\"\"http://www.bfmtv.com/economie/accenture-collabore-michelin-lancement-nouvelle-activite-mobilite-leader-pneumatique-adossee-a-plate-forme-cloud-d-and-8217-accenture-562902.html\"\" target=\"\"_blank\"\">ACCENTURE and Michelin</a></strong> also launch EFIFFUEL with the Cloud of Accenture.</p> <p style=\"\"padding-left: 30px"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2013/07/23/next-mercedes-s-class-and-if-it-was-already-a-autonomous-car/
 ---
 
 The next S-Class includes already all the elements to make an autonomous vehicle. The experience of the driver will be profoundly changed. This first step brings the first technological bricks for cybercars, and most importantly, it will bring all the players to be aware of the changes taking place: consumers (even those who won't drive), city operator, industrial ... This video lasts only 40 seconds. It is extracted from the **[official presentation of Daimler Mercedes](https://www.youtube.com/watch?v=mEpPww4AXMI&list=PLvYrJ_MvVasZtY-F821dkawSkItMQSEcJ&index=26)**. Note also that **[Volvo has also announced in 2020](http://www.youtube.com/watch?v=vwckQpZbJW4#at=162)**, the production of autonomous technologies avoiding pedestrians and animals, automatic parking, self-adapted to the environment, dynamic lateral speed control ...
@@ -14,7 +19,7 @@ The next S-Class includes already all the elements to make an autonomous vehicle
 
  The technologies of autonomous vehicles are already available. They are expensive but it is a detail. The ability to experiment in areas becomes a critical success factor in this industry, a key element at the national level. After several U.S. states, England has decided to continue the experiments of autonomous vehicles, primarily for reasons of safety, reducing congestion and thus reduce public spending: **[Actions for Road, a network for 21st century](http://fr.slideshare.net/transportsdufutur/uk-action-forroads)** . 
 
-As it has been detailed in several previous notes (read several articles: **[The shock is coming between automotive & Digital industries](/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.html)**, **[The GoogleCar on the road in California - everything is faster than expected](/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc.html)**, **[our transport systems and the digital revolution](/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html)**), the cybercar could be the basis for a comprehensive system of public" mobility. The same technologies of autonomous vehicles are already used to provide a high roller lounge experience, tomorrow they could afford to implement a fleet of autonomous vehicle providing a new service-based offers door to door. This "service" is structurally controlled by those who develop software, optimization rules for robots on a territory. More you close the rules translated into codes, the more you will be close to the value. Optimization rules remain to be established :
+As it has been detailed in several previous notes (read several articles: **[The shock is coming between automotive & Digital industries]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/)**, **[The GoogleCar on the road in California - everything is faster than expected]({{ site.baseurl }}/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc/)**, **[our transport systems and the digital revolution]({{ site.baseurl }}/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer/)**), the cybercar could be the basis for a comprehensive system of public" mobility. The same technologies of autonomous vehicles are already used to provide a high roller lounge experience, tomorrow they could afford to implement a fleet of autonomous vehicle providing a new service-based offers door to door. This "service" is structurally controlled by those who develop software, optimization rules for robots on a territory. More you close the rules translated into codes, the more you will be close to the value. Optimization rules remain to be established :
 
  
  
@@ -43,11 +48,7 @@ At the same time, in 2013, **[IBM and Sprint]()** have announced their collabora
 *
 *
 
-<<<<<<< HEAD
 "2013-07-23 15:31:41https://transportsdufutur.ademe.fr/2013/07/next-mercedes-s-class-and-if-it-was-already-a-autonomous-car.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnext-mercedes-s-class-and-if-it-was-already-a-autonomous-car2015-07-21 16:35:40>At the same time, in 2013, **[IBM and Sprint]()** have announced their collaboration to offer an industrial offer based on the use of cloud. **[ACCENTURE and Michelin]()** also launch EFIFFUEL with the Cloud of Accenture.
-=======
-"2013-07-23 15:31:41/2013/07/23/next-mercedes-s-class-and-if-it-was-already-a-autonomous-car/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnext-mercedes-s-class-and-if-it-was-already-a-autonomous-car2015-07-21 16:35:40>At the same time, in 2013, **[IBM and Sprint]()** have announced their collaboration to offer an industrial offer based on the use of cloud. **[ACCENTURE and Michelin]()** also launch EFIFFUEL with the Cloud of Accenture.
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

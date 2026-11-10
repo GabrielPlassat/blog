@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "BMW i, Citroën Multicity, Toyota Global Vision affichent leurs ambitions dans les services de mobilité"
-date: 2011-03-10 17:07:03 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'economie circulaire', 'gouvernance', 'Infrastructure', 'internet', 'management de la mobilité', 'megacity', 'Véhicule', 'véhicule mono-usage', 'véhicule propre']
-=======
-tags: ["citoyen", "economie circulaire", "gouvernance", "Infrastructure", "internet", "management de la mobilit\u00e9", "megacity", "V\u00e9hicule", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-03-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/03/bmw-i-citroen-multicity-toyota-global-vision-affichent-leurs-ambitions-dans-les-services-de-mobilite.html"
+tags: ["citoyen", "economie circulaire", "gouvernance", "Infrastructure", "internet", "management de la mobilité", "megacity", "Véhicule", "véhicule mono-usage", "véhicule propre"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2011/03/10/bmw-i-citroen-multicity-toyota-global-vision-affichent-leurs-ambitions-dans-les-services-de-mobilite/
 ---
 
-Fin 2009, un **[article](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)** de ce blog proposait, comme voie intéressante, le développement de service de mobilité multimodale, permettant de passer de l’âge de la propriété (du véhicule) à l’âge de l’accès (au service). Les contraintes, agissant sur les industries, les utilisateurs et l’environnement, sont telles qu’une optimisation de l’usage des véhicules-infrastructures-énergies, rendus possibles par les TIC, augmente les degrés de liberté du système complet. Ces leviers optimisations deviennent en période de fortes tensions économiques et environnementales, incontournables.
+Fin 2009, un **[article]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** de ce blog proposait, comme voie intéressante, le développement de service de mobilité multimodale, permettant de passer de l’âge de la propriété (du véhicule) à l’âge de l’accès (au service). Les contraintes, agissant sur les industries, les utilisateurs et l’environnement, sont telles qu’une optimisation de l’usage des véhicules-infrastructures-énergies, rendus possibles par les TIC, augmente les degrés de liberté du système complet. Ces leviers optimisations deviennent en période de fortes tensions économiques et environnementales, incontournables.
 
  
 
@@ -30,11 +31,11 @@ Tour à tour les constructeurs se positionnent, dévoilant une partie de leur st
 
  
 
-Dans un précédent **[article](/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire.html)**, ce **[véhicule électrique innovant](http://www.bmw-i.fr/fr_fr/concept/)** était étudié au regard de l’économie circulaire que les choix de conception rendent possible.
+Dans un précédent **[article]({{ site.baseurl }}/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire/)**, ce **[véhicule électrique innovant](http://www.bmw-i.fr/fr_fr/concept/)** était étudié au regard de l’économie circulaire que les choix de conception rendent possible.
 
  
 
-**Toyota** vient d’annoncer dans **[Global Vision](/assets/images/2011/03/110309_Global_Vision_release_0308_8pm_final.pdf)** un positionnement en matière de mobilité. **“Lead the way to the future of mobility”.** Toyota will lead industry in tackling technological advances that will spawn next-generation mobility. It will explore possibilities in personal mobility, for example, and in the convergence of information technology for automobiles and “smart grids” for optimizing energy generation and consumption. Toyota will undertake such leading-edge R&D with an eye to adapting products and services to the needs and circumstances in each market.
+**Toyota** vient d’annoncer dans **[Global Vision]({{ site.baseurl }}/assets/images/2011/03/110309_Global_Vision_release_0308_8pm_final.pdf)** un positionnement en matière de mobilité. **“Lead the way to the future of mobility”.** Toyota will lead industry in tackling technological advances that will spawn next-generation mobility. It will explore possibilities in personal mobility, for example, and in the convergence of information technology for automobiles and “smart grids” for optimizing energy generation and consumption. Toyota will undertake such leading-edge R&D with an eye to adapting products and services to the needs and circumstances in each market.
 
  
 
@@ -46,7 +47,7 @@ Dans un précédent **[article](/2010/06/le-vehicule-electrique-le-service-et-le
 
  
 
-Mais ces industries puissantes ne sont pas les seules sur les rangs. Quelle est la valeur ajoutée de  Citroën Multicity vis-à-vis de Voyages SNCF ? Est-ce qu’une offre de mobilité électrique complète sera plus crédible par BMW, Renault, Hertz ou **[General Electric ](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html)**? Les opportunités offertes sont grandes, mais les risques le sont tout autant, comme celui pour l’automobile de n’être qu’une *commodité* achetée par les futurs opérateurs de mobilité multimodale.
+Mais ces industries puissantes ne sont pas les seules sur les rangs. Quelle est la valeur ajoutée de  Citroën Multicity vis-à-vis de Voyages SNCF ? Est-ce qu’une offre de mobilité électrique complète sera plus crédible par BMW, Renault, Hertz ou **[General Electric ]({{ site.baseurl }}/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique/)**? Les opportunités offertes sont grandes, mais les risques le sont tout autant, comme celui pour l’automobile de n’être qu’une *commodité* achetée par les futurs opérateurs de mobilité multimodale.
 
  
 
@@ -54,9 +55,5 @@ Le mot [*commodity*](http://en.wikipedia.org/wiki/commodity) est couramment util
 
  
 
-<<<<<<< HEAD
 Et là, c’est le passage du véhicule thermique au véhicule électrique qui libère des possibilités pour que certaines industries se positionnent comme fournisseur de VE en tant que commodité, parce qu’
-=======
-Et là, c’est le passage du véhicule thermique au véhicule électrique qui libère des possibilités pour que certaines industries se positionnent comme fournisseur de VE en tant que commodité, parce qu’_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
-ils utiliseront de nouvelles solutions d’architecture, comme le moteur roue par exemple, de nouvelles solutions de conception en intégrant l’économie circulaire, de nouveaux modèles économiques incluant la seconde vie des batteries par exemple, et **[concevront des objets optimisés aux usages](/2011/02/tous-les-ingredients-sont-la-pour-la-revolution-automobile.html)**.
+ils utiliseront de nouvelles solutions d’architecture, comme le moteur roue par exemple, de nouvelles solutions de conception en intégrant l’économie circulaire, de nouveaux modèles économiques incluant la seconde vie des batteries par exemple, et **[concevront des objets optimisés aux usages]({{ site.baseurl }}/2011/02/tous-les-ingredients-sont-la-pour-la-revolution-automobile/)**.

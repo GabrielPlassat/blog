@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si certains territoires réussissaient à attirer l'innovation, à devenir le parfait laboratoire vivant grande échelle ?"
-date: 2011-03-24 18:28:23 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autorité des transports', 'cité', 'citoyen', 'collectivité', 'innovation', 'open innovation', 'open source', 'partage de données', 'territoire']
-=======
-tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "innovation", "open innovation", "open source", "partage de donn\u00e9es", "territoire"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-03-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/03/et-si-certains-territoires-reussissaient-a-attirer-linnovation-a-devenir-le-parfait-laboratoire-viva.html"
+tags: ["assistant de mobilité", "autorité des transports", "cité", "citoyen", "collectivité", "innovation", "open innovation", "open source", "partage de données", "territoire"]
+theme: "Communs, écosystèmes & open source"
+redirect_from:
+  - /2011/03/24/et-si-certains-territoires-reussissaient-a-attirer-linnovation-a-devenir-le-parfait-laboratoire-viva/
 ---
 
 Passer du stade de l’objet à celui de service impose d’expérimenter avec des conditions aux limites très différentes et introduisant un paramètre peu modélisable : l’humain, dans toutes les situations de vies.
@@ -82,4 +83,4 @@ Les territoires sont donc devenus incontournables dans l’expérimentation de s
 
  
 
-**Pour aller plus loin, le rapport du Conseil d'Analyse Economique déjà identifié dans un précédent article (voir [ICI](/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies.html))  détaille de nombreux points sur le rôle clé des territoires. **
+**Pour aller plus loin, le rapport du Conseil d'Analyse Economique déjà identifié dans un précédent article (voir [ICI]({{ site.baseurl }}/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies/))  détaille de nombreux points sur le rôle clé des territoires. **

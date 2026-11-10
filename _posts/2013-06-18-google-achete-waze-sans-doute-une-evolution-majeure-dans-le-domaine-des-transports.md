@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Google achète Waze, sans doute une évolution majeure dans le domaine des transports"
-date: 2013-06-18 21:29:26 +0100
-categories: []
+date: 2013-06-18
+source: tdf
+source_name: "Transports du Futur"
+original_url: "text-align: justify\"\"><em>[…] “Just like search became the interface for monetization on the web, maps are going to be a big part of the monetization engine for mobile,” he said, “because that’s what you open when you’re going places.”</em></p> <p style=\"\"padding-left: 30px"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2013/06/18/google-achete-waze-sans-doute-une-evolution-majeure-dans-le-domaine-des-transports/
 ---
 
-Identifié en 2010 sur ce blog (lire l'article **[Waze arrive en France](/2010/03/waze-arrive-en-france-cest-quoi-.html)**), Waze (lien vers [**l’application**](https://play.google.com/store/apps/details?id=com.waze)) appartient maintenant à Google. Ce premier, et pour le moment unique, réseau social dédié aux transports utilise tous les leviers du numérique : géolocalisation, participation des usagers pour remonter des données de trafic (d’incidents, de prix des carburant, etc...) et donc capacité à faire travailler environ 10% des utilisateurs pour créer des connaissances uniques, dynamiques et à jour.  
+Identifié en 2010 sur ce blog (lire l'article **[Waze arrive en France]({{ site.baseurl }}/2010/03/waze-arrive-en-france-cest-quoi/)**), Waze (lien vers [**l’application**](https://play.google.com/store/apps/details?id=com.waze)) appartient maintenant à Google. Ce premier, et pour le moment unique, réseau social dédié aux transports utilise tous les leviers du numérique : géolocalisation, participation des usagers pour remonter des données de trafic (d’incidents, de prix des carburant, etc...) et donc capacité à faire travailler environ 10% des utilisateurs pour créer des connaissances uniques, dynamiques et à jour.  
 
  
 

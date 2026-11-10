@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Appel à Projet ADEME COnnaissances, Réduction et Traitement des Emissions dans l’Air\"\""
-date: 2010-10-28 14:35:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'citoyen', 'collectivité', 'données réelles', 'emission', "qualité de l'air", 'Santé']
-=======
-tags: ["ADEME", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "emission", "qualit\u00e9 de l'air", "Sant\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-10-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/appel-a-projet-ademe-connaissances-reduction-et-traitement-des-emissions-dans-lair.html"
+tags: ["ADEME", "citoyen", "collectivité", "données réelles", "emission", "qualité de l'air", "Santé"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/10/28/appel-a-projet-ademe-connaissances-reduction-et-traitement-des-emissions-dans-lair/
 ---
 
 **Contexte**
@@ -47,7 +48,7 @@ Cet appel à projets R&D cible des travaux dont l'objectif est d'améliorer la c
 
  
 
-Les substances ciblées dans le présent appel à projets sont pour la plupart visées directement dans le PNSE2. Ces substances sont : **les particules fines (PM2.5) et leurs précurseurs, en particulier l’ammoniac et les oxydes d'azote provenant de l’agriculture, les nano particules, des substances toxiques prioritaires (telles que les BTEX[[1]**](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn1), les solvants chlorés, le formaldéhyde et certains polluants organiques persistants - hors pesticides), le NO2 des transports et les gaz fluorés.
+Les substances ciblées dans le présent appel à projets sont pour la plupart visées directement dans le PNSE2. Ces substances sont : **les particules fines (PM2.5) et leurs précurseurs, en particulier l’ammoniac et les oxydes d'azote provenant de l’agriculture, les nano particules, des substances toxiques prioritaires (telles que les BTEX[[1]**](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn1), les solvants chlorés, le formaldéhyde et certains polluants organiques persistants - hors pesticides), le NO2 des transports et les gaz fluorés.
 
  
 
@@ -55,7 +56,7 @@ Les substances ciblées dans le présent appel à projets sont pour la plupart v
 
  
 
-** **Sur le plan de la connaissance du cycle de vie des polluants dans l'atmosphère, permettant de faire les liens entre émissions, immissions et impacts, une cohérence avec les programmes nationaux tels que le PREST[[2]](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn2) (ANSES/ADEME/INCA) et PRIMEQUAL[[3]](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn3) (ADEME/MEEDDM (CGDD)) est assurée.
+** **Sur le plan de la connaissance du cycle de vie des polluants dans l'atmosphère, permettant de faire les liens entre émissions, immissions et impacts, une cohérence avec les programmes nationaux tels que le PREST[[2]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn2) (ANSES/ADEME/INCA) et PRIMEQUAL[[3]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn3) (ADEME/MEEDDM (CGDD)) est assurée.
 
  
 
@@ -69,15 +70,15 @@ Contact : [ademe.cortea@ademe.fr](mailto:ademe.cortea@ademe.fr)
 
  
 
-[[1]](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftnref1) BTEX : Benzène, Toluène, Ethyl benzène et Xylènes
+[[1]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftnref1) BTEX : Benzène, Toluène, Ethyl benzène et Xylènes
 
  
 
-[[2]](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftnref2) Programme national de Recherche en Environnement-Santé-Travail sur l’évaluation et l’analyse des risques environnementaux pour la santé humaine, en population générale ou au travail (ANSES/ADEME/INCA)
+[[2]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftnref2) Programme national de Recherche en Environnement-Santé-Travail sur l’évaluation et l’analyse des risques environnementaux pour la santé humaine, en population générale ou au travail (ANSES/ADEME/INCA)
 
  
 
-[[3]](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftnref3) Programme de Recherche Interorganisme pour une Meilleure Qualité de l'Air à l'échelle Locale
+[[3]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftnref3) Programme de Recherche Interorganisme pour une Meilleure Qualité de l'Air à l'échelle Locale
 
  
 

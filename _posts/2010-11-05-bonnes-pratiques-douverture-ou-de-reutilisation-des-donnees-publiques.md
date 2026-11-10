@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Bonnes pratiques d'ouverture ou de réutilisation des données publiques"
-date: 2010-11-05 11:24:59 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'collectivité', 'donnée data', 'données réelles', 'economie circulaire', 'Efficacité énergétique', 'Energie', 'partage de données']
-=======
-tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/bonnes-pratiques-douverture-ou-de-reutilisation-des-donnees-publiques.html"
+tags: ["cité", "citoyen", "collectivité", "donnée data", "données réelles", "economie circulaire", "Efficacité énergétique", "Energie", "partage de données"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/11/05/bonnes-pratiques-douverture-ou-de-reutilisation-des-donnees-publiques/
 ---
 
-Le sujet de la donnée, déjà abordé dans ce blog **[ici ](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html)**et **[là](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**, sera l'objet de la conférence organisée notamment par la FING.
+Le sujet de la donnée, déjà abordé dans ce blog **[ici ]({{ site.baseurl }}/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives/)**et **[là]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)**, sera l'objet de la conférence organisée notamment par la FING.
 
  
 
@@ -32,4 +33,4 @@ Il s’agit au cours de cette journée de partager les expériences locales, les
 
 [+] [Inscrivez-vous à la journée](http://www.epsiplus.net/news/events/opendata_and_re_use)
 
-[+] [Téléchargez le programme](/assets/images/2010/11/EPSI-Forum-Rennes-Program.pdf)
+[+] [Téléchargez le programme]({{ site.baseurl }}/assets/images/2010/11/EPSI-Forum-Rennes-Program.pdf)

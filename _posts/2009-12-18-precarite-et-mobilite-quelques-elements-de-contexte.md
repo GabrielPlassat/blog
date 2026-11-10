@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Précarité et mobilité : quelques éléments de contexte"
-date: 2009-12-18 11:05:13 +0100
-categories: []
+date: 2009-12-18
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/precarite-et-mobilite-quelques-elements-de-contexte.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2009/12/18/precarite-et-mobilite-quelques-elements-de-contexte/
 ---
 
 Dans le thème résidentiel/logement, le phénomène de précarité énergétique est connu et travaillé depuis plus de dix ans.

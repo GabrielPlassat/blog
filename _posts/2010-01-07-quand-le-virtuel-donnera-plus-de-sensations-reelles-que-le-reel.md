@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Quand le virtuel donnera plus de sensations (réelles) que le réel ..."
-date: 2010-01-07 15:23:16 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['TIC', 'transition générationnelle', 'Véhicule', 'virtuel']
-=======
-tags: ["TIC", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule", "virtuel"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel.html"
+tags: ["TIC", "transition générationnelle", "Véhicule", "virtuel"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2010/01/07/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel/
 ---
 
-Grâce au magazine officiel PlayStation Mag, il est possible de donner des détails concernant le très attendu [**Gran Turismo 5**](http://www.typepad.com/jeu_530_gran-turismo-5) de [**Polyphony Digital**](http://www.typepad.com/societe_249_polyphony-digital). Une présentation officielle ci dessous (ce n'est pas un film !)
+Grâce au magazine officiel PlayStation Mag, il est possible de donner des détails concernant le très attendu [**Gran Turismo 5**](https://web.archive.org/web/2018/http://www.typepad.com/jeu_530_gran-turismo-5) de [**Polyphony Digital**](https://web.archive.org/web/2018/http://www.typepad.com/societe_249_polyphony-digital). Une présentation officielle ci dessous (ce n'est pas un film !)
 
  
 
@@ -29,7 +30,7 @@ Voici quelques détails listés en vrac, confirmant ou annonçant les fameuses n
 
  
  
-- [![](/assets/images/old/6a0120a66d2ad4970b0120a7b12de2970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a7b12de2970b-pi.jpg)Le cycle jour/nuit confirmé pour tous les circuits du jeu 
+- [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a7b12de2970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a7b12de2970b-pi.jpg)Le cycle jour/nuit confirmé pour tous les circuits du jeu 
 - Plus de 1000 voitures au programme 
 - Les dégâts de toutes les voitures seront aussi bien visuels que mécaniques 
 - 170 voitures auront aussi des dégâts à l'intérieur du cockpit ! 
@@ -53,7 +54,7 @@ Mais d'autres marques qui inspirent, ou veulent inspirer, le mouvement, la dynam
 
  
 
-[](/assets/images/old/6a0120a66d2ad4970b0120a7b14808970b-800wi.jpg)[![](/assets/images/old/6a0120a66d2ad4970b012876b39283970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b012876b39283970c-pi.jpg)
+[]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a7b14808970b-800wi.jpg)[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012876b39283970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012876b39283970c-pi.jpg)
 
  
 

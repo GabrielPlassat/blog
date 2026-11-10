@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Que savons-nous du pouvoir de la donnée\" ?\""
-date: 2014-04-07 16:34:26 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'confiance', 'donnée data', 'données réelles', 'holoptisme', 'intelligence collective', 'internet', 'lien social', 'monnaie complémentaire', 'partage de données', 'plate-forme', "Plateforme d'idées", 'transparence']
-=======
-tags: ["citoyen", "collectivit\u00e9", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "holoptisme", "intelligence collective", "internet", "lien social", "monnaie compl\u00e9mentaire", "partage de donn\u00e9es", "plate-forme", "Plateforme d'id\u00e9es", "transparence"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-04-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "><strong></strong></p>  <!--more--> Du commerce de ces données à la data-philanthropie, tout existera. <p style=\"\"text-align: justify"
+tags: ["citoyen", "collectivité", "confiance", "donnée data", "données réelles", "holoptisme", "intelligence collective", "internet", "lien social", "monnaie complémentaire", "partage de données", "plate-forme", "Plateforme d'idées", "transparence"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2014/04/07/que-savons-nous-du-pouvoir-de-la-donnee/
 ---
 
-Récemment équipé d'un objet nomade dans lequel nous externalisons des fonctions et une partie de notre mémoire et nous devenons producteur de données. Elles sont nombreuses (géolocation, produit/service acheté, ...), elles sont quasi-invisibles, elles sont utilisées par des acteurs marchands sans que l'on sache vraiment comment et dans quels objectifs, elles ne sont pas facilement exploitables, aujourd'hui. Cette production commence et rien ne dit qu'elle va se réduire, bien au contraire: objets connectés, montres et lunettes productrices de données (lire [**Google avance ses pions vers le parfait Assistant Personnel de Mobilité**](/2014/03/avec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite.html)).
+Récemment équipé d'un objet nomade dans lequel nous externalisons des fonctions et une partie de notre mémoire et nous devenons producteur de données. Elles sont nombreuses (géolocation, produit/service acheté, ...), elles sont quasi-invisibles, elles sont utilisées par des acteurs marchands sans que l'on sache vraiment comment et dans quels objectifs, elles ne sont pas facilement exploitables, aujourd'hui. Cette production commence et rien ne dit qu'elle va se réduire, bien au contraire: objets connectés, montres et lunettes productrices de données (lire [**Google avance ses pions vers le parfait Assistant Personnel de Mobilité**]({{ site.baseurl }}/2014/03/avec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite/)).
 
  
 
@@ -133,11 +134,7 @@ Ces collectifs décideront mieux et plus vite, se connecteront encore mieux, aug
 
  
 
-<<<<<<< HEAD
 "2014-04-07 16:34:26https://transportsdufutur.ademe.fr/2014/04/que-savons-nous-du-pouvoir-de-la-donnee.htmlcitoyen|collectivité|confiance|donnée data|données réelles|holoptisme|intelligence collective|internet|lien social|monnaie complémentaire|partage de données|plate-forme|Plateforme d'idées|transparencepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatque-savons-nous-du-pouvoir-de-la-donnee2015-07-21 16:35:33>****
-=======
-"2014-04-07 16:34:26/2014/04/07/que-savons-nous-du-pouvoir-de-la-donnee/citoyen|collectivité|confiance|donnée data|données réelles|holoptisme|intelligence collective|internet|lien social|monnaie complémentaire|partage de données|plate-forme|Plateforme d'idées|transparencepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatque-savons-nous-du-pouvoir-de-la-donnee2015-07-21 16:35:33>****
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  Du commerce de ces données à la data-philanthropie, tout existera. 
 

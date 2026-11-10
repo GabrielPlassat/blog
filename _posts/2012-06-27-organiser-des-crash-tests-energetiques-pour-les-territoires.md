@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Organiser des crash tests énergétiques dans les territoires"
-date: 2012-06-27 10:07:13 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'catastrophe', 'citoyen', 'collectivité', 'confiance', 'donnée data', 'données réelles', 'intelligence collective', 'management de la mobilité', 'Précarité', 'transition générationnelle']
-=======
-tags: ["assistant de mobilit\u00e9", "catastrophe", "citoyen", "collectivit\u00e9", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "intelligence collective", "management de la mobilit\u00e9", "Pr\u00e9carit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-06-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/06/organiser-des-crash-tests-energetiques-pour-les-territoires.html"
+tags: ["assistant de mobilité", "catastrophe", "citoyen", "collectivité", "confiance", "donnée data", "données réelles", "intelligence collective", "management de la mobilité", "Précarité", "transition générationnelle"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2012/06/27/organiser-des-crash-tests-energetiques-pour-les-territoires/
 ---
 
 Le Centre d'Analyse Stratégique, dans son rapport sur [**les mobilités dans les territoires périubains et ruraux**](http://www.strategie.gouv.fr/content/rapport-les-nouvelles-mobilites-dans-les-territoires-periurbains-et-ruraux), décrivait un scénario noir possible dès 2015 : le risque de l'inaction.
@@ -34,7 +35,7 @@ Le Centre d'Analyse Stratégique, dans son rapport sur [**les mobilités dans le
 
  
 
-François Bellanger ([**Transit City**](http://transit-city.blogspot.fr/)) nous propose dans un [**article**](http://transit-city.blogspot.fr/2012/06/la-revolution-urbaine-americaine-en.html) récent le tableau actuel de cette mutation urbaine qui a lieu aux USA (voir graphique en bas d'article). L'enchaînement de trois facteurs combinés explique ces changements profonds : pauvreté, déclin de l'attrait et de l'usage de l'automobile et montée démographique de la Génération Y. Ces trois paramètres, auxquels s'ajoutent les opportunités/risques offerts par le numérique pour que d'autres acteurs bousculent le système, nous amènent vers le point de basculement (voir un [**précédent article** ](/2012/01/le-point-de-basculement-automobile-siege-mobile-20-tippingpoint.html)sur ce sujet #tippingpoint) : Ce moment singulier qui conduit à un changement d'état irreversible.
+François Bellanger ([**Transit City**](http://transit-city.blogspot.fr/)) nous propose dans un [**article**](http://transit-city.blogspot.fr/2012/06/la-revolution-urbaine-americaine-en.html) récent le tableau actuel de cette mutation urbaine qui a lieu aux USA (voir graphique en bas d'article). L'enchaînement de trois facteurs combinés explique ces changements profonds : pauvreté, déclin de l'attrait et de l'usage de l'automobile et montée démographique de la Génération Y. Ces trois paramètres, auxquels s'ajoutent les opportunités/risques offerts par le numérique pour que d'autres acteurs bousculent le système, nous amènent vers le point de basculement (voir un [**précédent article** ]({{ site.baseurl }}/2012/01/le-point-de-basculement-automobile-siege-mobile-20-tippingpoint/)sur ce sujet #tippingpoint) : Ce moment singulier qui conduit à un changement d'état irreversible.
 
  Toutes les conditions sont rassemblées, soit nous attendons qu'elles déterminent notre futur, soit nous reconsidérons nos approches pour trouver une nouvelle voie. Le CAS propose notamment d'expérimenter un test de résistance énergétique des territoires en . 
 
@@ -46,8 +47,8 @@ Une mesure concrète consisterait à proposer un test de résistance (ou crash-t
 
  
 
-La mise en oeuvre de ces outils de compréhension et d'action nécessite au préalable de connaître les mobilités réelles pratiquées au quotidien par les citoyens et les entreprises. De nombreux [**exemples** ](/2012/06/les-donnees-peuvent-changer-nos-pratiques-et-notre-rapport-aux-autres.html)de procédé permettant d'accéder à ces données montrent que nous en avons les capacités technologiques, il reste à les déployer à grande échelle en ayant l'adhésion entière des usagers ...
+La mise en oeuvre de ces outils de compréhension et d'action nécessite au préalable de connaître les mobilités réelles pratiquées au quotidien par les citoyens et les entreprises. De nombreux [**exemples** ]({{ site.baseurl }}/2012/06/les-donnees-peuvent-changer-nos-pratiques-et-notre-rapport-aux-autres/)de procédé permettant d'accéder à ces données montrent que nous en avons les capacités technologiques, il reste à les déployer à grande échelle en ayant l'adhésion entière des usagers ...
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b017615dca9ae970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017615dca9ae970c-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017615dca9ae970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017615dca9ae970c-pi.jpg)

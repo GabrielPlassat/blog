@@ -1,29 +1,30 @@
 ---
 layout: post
 title: "MétaNote TdF N°8 - Les ports, le fret et le transport de marchandises"
-date: 2010-10-14 16:18:51 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assurance', 'citoyen', 'données réelles', 'Efficacité énergétique', "guide d'achat", 'Infrastructure', 'internet', 'logistique', 'marchandises', 'partage de données', 'partage de la voirie', 'port']
-=======
-tags: ["assurance", "citoyen", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "guide d'achat", "Infrastructure", "internet", "logistique", "marchandises", "partage de donn\u00e9es", "partage de la voirie", "port"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-10-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises.html"
+tags: ["assurance", "citoyen", "données réelles", "Efficacité énergétique", "guide d'achat", "Infrastructure", "internet", "logistique", "marchandises", "partage de données", "partage de la voirie", "port"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/10/14/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises/
 ---
 
 Jamais un sujet de fond n’avait présenté également autant « d’apparitions visibles» ou signaux faibles ces derniers jours. Grèves dans les ports, réponse des **[acteurs économiques](http://www.collectifport.com/)**…
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f5102d85970b-320wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f5102d85970b-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5102d85970b-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5102d85970b-800wi.jpg) 
 Le transport de marchandises vers le consommateur final est en croissance dans les pays de l’OCDE, alors que celui des personnes est plutôt stable voire en baisse. Les systèmes logistiques complexes mis en œuvre au niveau mondial pour acheminer les produits conduisent à des émissions de CO2 et consommations d’énergies essentiellement fossiles, mais également d’espaces et d’infrastructures publiques et privées. Demain encore plus qu’aujourd’hui, la performance environnementale et énergétique des entreprises et des produits livrés deviendra centrale. Connaître, afficher et améliorer en permanence ces bilans environnementaux ne sera plus l’exception ou un acte précurseur, ce sera la norme. Dans ce cadre, quels rôles vont jouer les infrastructures majeures comme les ports, les hubs ou l’hinterland ? Quand ils seront décisifs pour l’acte d’achat, qui pilotera les indicateurs de performances environnementaux ?
 
  
 
-Dans le système largement défini précédement (voir notamment les MétaNotes **[N°0](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)** et **[N°1](/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir.html)**) comprenant Véhicule – Energie – Infrastructure et Information, le transport de marchandises combine plusieurs solutions mais majoritairement (en masse) « Porte container / Port / Camion / Route / Pétrole ». S’intéresser au Transport de Marchandises, implique de considérer le commerce de biens et services, et ceci au niveau mondial. Basé sur le capitalisme, les échanges mondiaux vont se poursuivre sur ce modèle dans les décennies à venir.
+Dans le système largement défini précédement (voir notamment les MétaNotes **[N°0]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** et **[N°1]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**) comprenant Véhicule – Energie – Infrastructure et Information, le transport de marchandises combine plusieurs solutions mais majoritairement (en masse) « Porte container / Port / Camion / Route / Pétrole ». S’intéresser au Transport de Marchandises, implique de considérer le commerce de biens et services, et ceci au niveau mondial. Basé sur le capitalisme, les échanges mondiaux vont se poursuivre sur ce modèle dans les décennies à venir.
 
  
 
-Facilité par les TIC, il est probable que, dans quelques années, pour la plupart des produits quotidiens, **[un indicateur de « qualité environnementale et sociale »](/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse-.html) ***global* va se développer couplant {émissions polluantes, CO2, diversification énergétique, production « bio », utilisation de produits « refusés » par la société (paraben, huile de palme…), condition sociale de production …}. La normalisation-standardisation deviendra centrale. Ces indicateurs détermineront l'intégralité des choix des consommateurs directement ou indirectement. **Ces indicateurs deviendront des enjeux majeurs** pour les compagnies privées qui vendent, transportent, achètent des biens et produits finis ou intermédiaires.
+Facilité par les TIC, il est probable que, dans quelques années, pour la plupart des produits quotidiens, **[un indicateur de « qualité environnementale et sociale »]({{ site.baseurl }}/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse/) ***global* va se développer couplant {émissions polluantes, CO2, diversification énergétique, production « bio », utilisation de produits « refusés » par la société (paraben, huile de palme…), condition sociale de production …}. La normalisation-standardisation deviendra centrale. Ces indicateurs détermineront l'intégralité des choix des consommateurs directement ou indirectement. **Ces indicateurs deviendront des enjeux majeurs** pour les compagnies privées qui vendent, transportent, achètent des biens et produits finis ou intermédiaires.
 
  
 
@@ -43,22 +44,18 @@ De l’autre coté, le **consommateur sera de plus en plus informé**. Des entre
 
  
 
-Pour garder leur avance d’image environnementale, **[les entreprises « leader »](/2010/04/metanote-tdf-5-les-entreprises.html)** devront innover en permanence sur les indicateurs (plus complet, sur toute la chaîne, suivi en temps réel…), développant à la fois :
+Pour garder leur avance d’image environnementale, **[les entreprises « leader »]({{ site.baseurl }}/2010/04/metanote-tdf-5-les-entreprises/)** devront innover en permanence sur les indicateurs (plus complet, sur toute la chaîne, suivi en temps réel…), développant à la fois :
 
  
  
-<<<<<<< HEAD
 - Des **solutions technologiques et/ou organisationnelles innovantes** permettant d’améliorer leur bilan en interne et chez leurs sous-traitants. Le transport de marchandises apparaît ici comme un élément du système complet de production. 
-=======
-- Des **solutions technologiques et/ou organisationnelles innovantes** permettant d’améliorer leur bilan en interne et chez leurs sous-traitants. Le transport de marchandises apparaît ici comme un élément du système complet de production. _x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  
-- Des **groupements d’entreprises** permettant par un partage intelligent de mieux utiliser les sous ou coproduits, et/ou les  pertes énergétiques. Ces groupements seront supérieurs et plus efficaces en performance énergétique et environnemental à la somme des entreprises qui les composent.  Neste Oil et Stora Enso préfigurent ce type de groupement, un pétrolier particulièrement innovant en matière de biocarburant de synthèse et un des plus grand papetier au monde qui gère de la biomasse et qui génère des bio-déchets utilisable par le pétrolier. Voir **[ici](/2010/02/focus-sur-la-finlande.html)** et **[là](/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses.html)**. 
-- **Des systèmes « surveilleurs » (capteurs, analyse de données …) en interne et chez leurs sous traitants devenus nécessaire pour évaluer des systèmes très complexe de production au niveau mondial**. Ces systèmes permettront également aux assureurs d’accéder à des informations essentielles de maîtrise des risques, mais également à des données stratégiques. **[Les compagnies d’assurance](/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages.html)**, elles-mêmes assurées pour diluer les risques, revoient actuellement les coûts d’assurance du transport longue distance en liaison avec le changement climatique, les actes de piraterie... 
+- Des **groupements d’entreprises** permettant par un partage intelligent de mieux utiliser les sous ou coproduits, et/ou les  pertes énergétiques. Ces groupements seront supérieurs et plus efficaces en performance énergétique et environnemental à la somme des entreprises qui les composent.  Neste Oil et Stora Enso préfigurent ce type de groupement, un pétrolier particulièrement innovant en matière de biocarburant de synthèse et un des plus grand papetier au monde qui gère de la biomasse et qui génère des bio-déchets utilisable par le pétrolier. Voir **[ici]({{ site.baseurl }}/2010/02/focus-sur-la-finlande/)** et **[là]({{ site.baseurl }}/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses/)**. 
+- **Des systèmes « surveilleurs » (capteurs, analyse de données …) en interne et chez leurs sous traitants devenus nécessaire pour évaluer des systèmes très complexe de production au niveau mondial**. Ces systèmes permettront également aux assureurs d’accéder à des informations essentielles de maîtrise des risques, mais également à des données stratégiques. **[Les compagnies d’assurance]({{ site.baseurl }}/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages/)**, elles-mêmes assurées pour diluer les risques, revoient actuellement les coûts d’assurance du transport longue distance en liaison avec le changement climatique, les actes de piraterie... 
 - Plus tard, des systèmes indépendants de surveillance seront également utilisables par **les consommateurs eux-mêmes**. Des « audits » pourraient même être réalisés par des associations de consommateur si elles deviennent assez puissantes, soit comme moyen de communication / marketing des sociétés. 
  
 
-**Les jeux d’acteurs** pour l’utilisation d’une même ressource devront être analysés, et suivis. Ainsi, la compétitivité pour un même produit, matière première, zone géographique, … pourrait déplacer le champ de bataille sur un terrain environnemental de normalisation dont certains acteurs actuels pourraient en être les victimes collatérales. Concurrences entre entreprises majors pour choisir leur norme, et donc entre états à court terme. **Ces entreprises pourraient également faire pression sur les gouvernements** pour choisir d’autres modes de production d’électricité par exemple, de développer et/ou améliorer les infrastructures principales (essentiellement** les ports** pour recevoir les produits d’Asie, mais également les réseaux fer-eau-route), permettant d’améliorer leurs indicateurs sous menace de délocalisation, voir décider de produire leur électricité – énergie et/ou d’investir elle-même dans des infrastructures public/privées essentiellement dans les PVD. Ainsi la Chine vient **[d’acheter simplement un port grec](/2010/09/le-port-du-piree-cheval-de-troie-chinois.html)** pour accélérer son développement, assurer la performance de ses livraisons et s’ouvrir aux réseaux de distribution européens.
+**Les jeux d’acteurs** pour l’utilisation d’une même ressource devront être analysés, et suivis. Ainsi, la compétitivité pour un même produit, matière première, zone géographique, … pourrait déplacer le champ de bataille sur un terrain environnemental de normalisation dont certains acteurs actuels pourraient en être les victimes collatérales. Concurrences entre entreprises majors pour choisir leur norme, et donc entre états à court terme. **Ces entreprises pourraient également faire pression sur les gouvernements** pour choisir d’autres modes de production d’électricité par exemple, de développer et/ou améliorer les infrastructures principales (essentiellement** les ports** pour recevoir les produits d’Asie, mais également les réseaux fer-eau-route), permettant d’améliorer leurs indicateurs sous menace de délocalisation, voir décider de produire leur électricité – énergie et/ou d’investir elle-même dans des infrastructures public/privées essentiellement dans les PVD. Ainsi la Chine vient **[d’acheter simplement un port grec]({{ site.baseurl }}/2010/09/le-port-du-piree-cheval-de-troie-chinois/)** pour accélérer son développement, assurer la performance de ses livraisons et s’ouvrir aux réseaux de distribution européens.
 
  
 
@@ -79,4 +76,4 @@ Améliorer le fret impose donc de considérer, une nouvelle fois, le système co
 - **[Transparence ](http://blogs.hbr.org/ideacast/2010/09/when-everyone-can-see-your-sup.html)(**écouter *The transparent supply chain*, Harvard Business Review**)**: à tous les niveaux, pour tous les critères importants (coût public d’exploitation, rentabilité des capitaux employés, performances énergétiques et environnementales, conditions de travail), les solutions logistiques devront être caractérisées et les données largement accessibles. 
  
 
-**De nombreuses pistes et idées sont issues de l’étude lancée par DHL “****[Delivering Tomorrow, customer needs in 2020 and beyond, a global delphi Study](/assets/images/2010/10/delphi-studie_english.pdf)****”.**
+**De nombreuses pistes et idées sont issues de l’étude lancée par DHL “****[Delivering Tomorrow, customer needs in 2020 and beyond, a global delphi Study]({{ site.baseurl }}/assets/images/2010/10/delphi-studie_english.pdf)****”.**

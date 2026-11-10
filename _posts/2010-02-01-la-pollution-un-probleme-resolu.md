@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "La pollution, un problème résolu ?"
-date: 2010-02-01 14:27:57 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'Energie', 'partage de données', 'péage urbain', "qualité de l'air", 'Santé', 'TIC', 'Véhicule']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "Energie", "partage de donn\u00e9es", "p\u00e9age urbain", "qualit\u00e9 de l'air", "Sant\u00e9", "TIC", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-01
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/la-pollution-un-probleme-resolu.html"
+tags: ["données réelles", "Energie", "partage de données", "péage urbain", "qualité de l'air", "Santé", "TIC", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/02/01/la-pollution-un-probleme-resolu/
 ---
 
 Divisions par 10, 20… des émissions unitaires de polluants réglementés issus des véhicules lourds et légers apportées par les normes Euro, et pourtant la qualité de l’air dans certaines régions urbaines en Europe ne s’améliore pas et ne répond pas aux objectifs européens (voir liste **[ici](http://ec.europa.eu/environment/air/quality/legislation/pdf/2007_zones.xls)**). Cela peut même conduire dans certains cas à des procès.
@@ -22,7 +23,7 @@ L’exemple de Milan est intéressant puisque l’on vient de voir des problème
 
  
 
-Les écarts entre les émissions mesurées sur cycle d’homologation et celles obtenues en usage réel ne sont pas étrangers à ce constat. **[La connaissance des émissions réelles](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)** apportera des progrès sensibles sur ce point.
+Les écarts entre les émissions mesurées sur cycle d’homologation et celles obtenues en usage réel ne sont pas étrangers à ce constat. **[La connaissance des émissions réelles]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)** apportera des progrès sensibles sur ce point.
 
  
 

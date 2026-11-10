@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Less is more"
-date: 2010-02-04 15:01:59 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Infrastructure', 'Précarité', 'Service de mobilité', 'simplicité', 'TIC', 'Véhicule']
-=======
-tags: ["Infrastructure", "Pr\u00e9carit\u00e9", "Service de mobilit\u00e9", "simplicit\u00e9", "TIC", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/less-is-more.html"
+tags: ["Infrastructure", "Précarité", "Service de mobilité", "simplicité", "TIC", "Véhicule"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/02/04/less-is-more/
 ---
 
 L'Argus vient de publier les lauréats de son concours de Design 2010. Trois mots « less is more » (moins c’est plus) pour définir les contours de la mobilité de demain. Sobriété, éco citoyenneté et développement durable sont les notions qui ont modelé les projets des candidats.
@@ -22,8 +23,8 @@ Les résultats sont décoiffants comme les éditions précédentes (qui défilen
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01287761af3f970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01287761af3f970c-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287761af3f970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287761af3f970c-pi.jpg)
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01287761afb5970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01287761afb5970c-pi.jpg)   [![](/assets/images/old/6a0120a66d2ad4970b0120a85f7a13970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a85f7a13970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287761afb5970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287761afb5970c-pi.jpg)   [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a85f7a13970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a85f7a13970b-pi.jpg)

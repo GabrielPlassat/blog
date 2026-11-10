@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Retailtainement"
-date: 2010-09-16 15:05:15 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Infrastructure', 'jeu', 'marchandises']
-=======
+date: 2010-09-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/retailtainement.html"
 tags: ["Infrastructure", "jeu", "marchandises"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/09/16/retailtainement/
 ---
 
 [**[source](http://twinpartners.wordpress.com/2010/09/10/reenchanter-le-point-de-vente-avec-le-retailtainement/)**] Le nouveau concept du « **[retailtainement](http://www.e-marketing.fr/Tribunes-Experts/Les-nouveaux-espaces-de-distribution-Tribune100.html)** » a pour but de combiner achats et loisirs :
@@ -42,4 +43,4 @@ Le cinéma est appelé à se développer pour approfondir ce concept de «retail
 
  
 
-Le jeu (déjà abordé **[ici ](/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports.html)**et **[là](/2010/08/et-si-les-mobilites-de-demain-etaient-pensees-a-travers-le-jeu.html)**) apparaît comme un outil très puissant, ancré dans nos imaginaires,  permettant aux marques de créer des mondes, et utilisé pour nous conduire à consommer, mais également à s’instruire. Les changements dans nos modes d’achat, à la fois sur la forme, mais également sur le fond concernant de nouveaux lieux, sont à considérer pour concevoir les modes de transports à la fois du coté des marchandises et des personnes.
+Le jeu (déjà abordé **[ici ]({{ site.baseurl }}/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports/)**et **[là]({{ site.baseurl }}/2010/08/et-si-les-mobilites-de-demain-etaient-pensees-a-travers-le-jeu/)**) apparaît comme un outil très puissant, ancré dans nos imaginaires,  permettant aux marques de créer des mondes, et utilisé pour nous conduire à consommer, mais également à s’instruire. Les changements dans nos modes d’achat, à la fois sur la forme, mais également sur le fond concernant de nouveaux lieux, sont à considérer pour concevoir les modes de transports à la fois du coté des marchandises et des personnes.

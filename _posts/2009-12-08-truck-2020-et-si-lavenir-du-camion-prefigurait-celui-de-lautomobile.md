@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Truck 2020, et si l’avenir du camion préfigurait celui de l’automobile ?"
-date: 2009-12-08 15:19:58 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['camion', 'Energie', 'Infrastructure', 'Service de mobilité', 'TIC', 'Véhicule']
-=======
-tags: ["camion", "Energie", "Infrastructure", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-12-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile.html"
+tags: ["camion", "Energie", "Infrastructure", "Service de mobilité", "TIC", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/12/08/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile/
 ---
 
 Après *[**Automotive 2020, Clarity beyond chaos**](http://www-935.ibm.com/services/us/index.wss/ibvstudy/gbs/a1030141?cntxt=a1000041)*, IBM nous propose, avec *Truck 2020*, une vision des [**10 prochaines années de l’industrie du camion**](http://www-935.ibm.com/services/us/gbs/bus/html/future-of-truck-industry-2020.html) et bien au-delà. S’appuyant sur un large réseau de consultant, et sur des entretiens menés avec 93 dirigeants de 13 pays représentant la totalité de la chaîne de valeur, IBM identifie 5 actions impératives à mener par ce secteur.
@@ -24,11 +25,11 @@ Ces propositions sont analysées, et des analogies avec le secteur de l’automo
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a72d7e10970b-pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a72d7e10970b-pi.jpg)IBM analyse l’écosystème complet du transport de marchandises, incluant le développement urbain, les contraintes environnementales, les spécificités locales de plus en plus grandes dans un monde globalisé, mais également les évolutions du travail. L'évolution des forces agissant sur cette industrie est clairement indiquée :
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a72d7e10970b-pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a72d7e10970b-pi.jpg)IBM analyse l’écosystème complet du transport de marchandises, incluant le développement urbain, les contraintes environnementales, les spécificités locales de plus en plus grandes dans un monde globalisé, mais également les évolutions du travail. L'évolution des forces agissant sur cette industrie est clairement indiquée :
 
  
 
-[](/assets/images/old/6a0120a66d2ad4970b0120a72d7ca0970b-pi.jpg)
+[]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a72d7ca0970b-pi.jpg)
 
  
 
@@ -36,7 +37,7 @@ Ces propositions sont analysées, et des analogies avec le secteur de l’automo
 
  
 
-[](/assets/images/old/6a0120a66d2ad4970b012876305389970c-pi.jpg)
+[]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012876305389970c-pi.jpg)
 
  
 
@@ -78,11 +79,11 @@ o    Collaborer avec les agences et ONG environnementales.
 
  
 
-·     **Redéfinir la marque** : Le véhicule devient de plus en plus une « commodité », la marque s’érode avec des différences entre les marchés matures et les marchés en croissance. [](/assets/images/old/6a0120a66d2ad4970b0120a72d752e970b-pi.jpg)Néanmoins, les constructeurs devront établir leur marque autour de solutions globales pour leur client, en passant du [**véhicule à des solutions plus large de mobilité**](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html). « *Customers want transportation solutions-not simply a truck* ». Pour cela, 3 thèmes sont à intégrer au plus vite pour se différencier : TIC, développement de services complets, qualité des services orientés client. **En 2020, les 3 critères de choix majeurs seront : l’efficacité énergétique, le coût total de possession (TCO) et les performances environnementales**. Et si on regardait l’automobile de 2020 à travers ce prisme ? Aujourd’hui, en France, la moitié des achats des véhicules légers neufs est réalisés par des professionnels. Cette part est en croissance et on sait en complément que des services de mobilité impliquant des gestionnaires de véhicules vont se développer dans les années à venir. 
+·     **Redéfinir la marque** : Le véhicule devient de plus en plus une « commodité », la marque s’érode avec des différences entre les marchés matures et les marchés en croissance. []({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a72d752e970b-pi.jpg)Néanmoins, les constructeurs devront établir leur marque autour de solutions globales pour leur client, en passant du [**véhicule à des solutions plus large de mobilité**]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/). « *Customers want transportation solutions-not simply a truck* ». Pour cela, 3 thèmes sont à intégrer au plus vite pour se différencier : TIC, développement de services complets, qualité des services orientés client. **En 2020, les 3 critères de choix majeurs seront : l’efficacité énergétique, le coût total de possession (TCO) et les performances environnementales**. Et si on regardait l’automobile de 2020 à travers ce prisme ? Aujourd’hui, en France, la moitié des achats des véhicules légers neufs est réalisés par des professionnels. Cette part est en croissance et on sait en complément que des services de mobilité impliquant des gestionnaires de véhicules vont se développer dans les années à venir. 
 
  
 
-  [![](/assets/images/old/6a0120a66d2ad4970b0120a72d80ca970b-pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a72d80ca970b-pi.jpg) 
+  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a72d80ca970b-pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a72d80ca970b-pi.jpg) 
 IBM propose que l’industrie du lourd travaille les pistes suivantes :
 
  
@@ -119,11 +120,7 @@ Cette transition majeure nécessite un changement radical des modèles économiq
 
  
 
-<<<<<<< HEAD
 ·     **Enrichir les partenariats **: Dans cet environnement complexe, nouer des partenariats ada
-=======
-·     **Enrichir les partenariats **: Dans cet environnement complexe, nouer des partenariats ada_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ptés permet d’accroître sa robustesse aux crises. 3 secteurs sont proposés par IBM :
 
  

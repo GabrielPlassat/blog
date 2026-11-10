@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "A travers un exemple, retraçons quelques innovations du domaine des transports"
-date: 2012-06-14 08:37:13 +0100
-categories: []
+date: 2012-06-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "14/06/2012 08:37"
 tags: []
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2012/06/14/a-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports/
 ---
 
 Un professeur de l'Université de Stanford expérimente un système permettant de réduire la congestion aux heures de pointe. Ce projet, [**Capri**](https://stanfordcapri.org/), pour Congestion and Parking Relief Incentives, a reçu une aide de 3 millions de $ du DoT américain. L'idée est simple : récompenser financièrement les conducteurs qui décalent leur déplacement en dehors des heures de pointe. Cette innovation", au sens où il faut quantifier les effets et évaluer les moyens de la diffuser à grande échelle, ré-interroge de nombreuses mesures, oblige une nouvelle fois à considérer en même temps ce projet et le "tout".  
@@ -60,8 +65,4 @@ Ce management cohérent de la demande doit être mené conjointement avec une re
 
 Une des meilleures synthèses trouvée sur le sujet :
 
-<<<<<<< HEAD
  [Tdm strategy analysis_20090318final]() View more [documents]() from [Les transports du futur](). "2012-06-14 08:37:13https://transportsdufutur.ademe.fr/2012/06/a-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassata-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports2015-07-21 16:36:32
-=======
- [Tdm strategy analysis_20090318final]() View more [documents]() from [Les transports du futur](). "2012-06-14 08:37:13/2012/06/14/a-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassata-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports2015-07-21 16:36:32
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

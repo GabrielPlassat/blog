@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si la fiabilité (re)devenait un argument essentiel de la performance d’un constructeur ?"
-date: 2010-02-01 10:30:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['camion', 'fiabilité', 'Véhicule']
-=======
-tags: ["camion", "fiabilit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-01
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/et-si-la-fiabilite-redevenait-un-argument-essentiel-de-la-performance-dun-constructeur.html"
+tags: ["camion", "fiabilité", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/02/01/et-si-la-fiabilite-redevenait-un-argument-essentiel-de-la-performance-dun-constructeur/
 ---
 
 **[Toyota traverse une crise sans précédent](http://www.lefigaro.fr/societes/2010/01/29/04015-20100129ARTFIG00420-toyota-traverse-une-crise-sans-precedent-.php)**, avec un rappel de plusieurs millions de véhicules, et surtout, des accidents mortels liés à un problème d’accélérateur. L'arrêt de la production pendant une semaine dans cinq usines américaines pourrait coûter 500 millions de dollars, selon la Deutsche Bank.
@@ -36,8 +37,8 @@ Le malheur des uns, le bonheur de Hyundai-KIA …
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b0120a83a4828970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a83a4828970b-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a83a4828970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a83a4828970b-pi.jpg) 
 
  
 
-Dans un marché du véhicule neuf où l’achat se professionnalise, la fiabilité, critère essentiel qui détermine une partie de la valeur de revente, va certainement devenir un argument important du choix. Pour autant, les choix d’utilisation de plate forme, de standardisation, incriminés dans les rappels de Toyota, ne vont sûrement pas disparaître tant ils sont à l’origine d’économies substantielles. Cette crise, comme les précédentes, sera sans doute l’origine de nouveaux modes de conception, de fabrication, de suivi qualité, que seule l’industrie automobile est capable d’inventer, et pour se rapprocher d'une **[certaine façon de celle du véhicule lourd](/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile.html)**.
+Dans un marché du véhicule neuf où l’achat se professionnalise, la fiabilité, critère essentiel qui détermine une partie de la valeur de revente, va certainement devenir un argument important du choix. Pour autant, les choix d’utilisation de plate forme, de standardisation, incriminés dans les rappels de Toyota, ne vont sûrement pas disparaître tant ils sont à l’origine d’économies substantielles. Cette crise, comme les précédentes, sera sans doute l’origine de nouveaux modes de conception, de fabrication, de suivi qualité, que seule l’industrie automobile est capable d’inventer, et pour se rapprocher d'une **[certaine façon de celle du véhicule lourd]({{ site.baseurl }}/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile/)**.

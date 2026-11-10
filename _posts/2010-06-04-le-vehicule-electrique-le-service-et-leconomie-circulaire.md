@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le véhicule électrique, le service et l’économie circulaire"
-date: 2010-06-04 11:37:45 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'economie circulaire', 'Efficacité énergétique', 'Energie', 'living lab', 'open source', "Plateforme d'idées", 'Service de mobilité', 'VE']
-=======
-tags: ["citoyen", "economie circulaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "living lab", "open source", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9", "VE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-06-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire.html"
+tags: ["citoyen", "economie circulaire", "Efficacité énergétique", "Energie", "living lab", "open source", "Plateforme d'idées", "Service de mobilité", "VE"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/06/04/le-vehicule-electrique-le-service-et-leconomie-circulaire/
 ---
 
 Et si le véhicule électrique apportait encore plus en terme de bénéfices environnementaux, énergétiques, économiques grâce aux services et au déploiement de l’économie circulaire ?
@@ -18,7 +19,7 @@ Et si le véhicule électrique apportait encore plus en terme de bénéfices env
 
  
 
-La technologie électrique utilisant moteur – électronique – stockage électrochimique permet de réduire localement émissions polluantes, bruit et émissions de GES. Les bilans globaux incluant la production d’électricité sont variables, mais le cas français présente des avantages indéniables. Mais ce « premier » niveau de gain ne doit pas suffire à cette filière, tout d’abord parce que les solutions thermiques continuent de progresser en terme de [**rendement énergétique**](http://www.technologyreview.com/energy/25453/page1/) et surtout de [**rendement économique**](/2010/05/et-si-lautopartage-etait-realise-avec-des-voitures-a-des-prix-ultracompetitifs.html).
+La technologie électrique utilisant moteur – électronique – stockage électrochimique permet de réduire localement émissions polluantes, bruit et émissions de GES. Les bilans globaux incluant la production d’électricité sont variables, mais le cas français présente des avantages indéniables. Mais ce « premier » niveau de gain ne doit pas suffire à cette filière, tout d’abord parce que les solutions thermiques continuent de progresser en terme de [**rendement énergétique**](http://www.technologyreview.com/energy/25453/page1/) et surtout de [**rendement économique**]({{ site.baseurl }}/2010/05/et-si-lautopartage-etait-realise-avec-des-voitures-a-des-prix-ultracompetitifs/).
 
  
 
@@ -58,11 +59,7 @@ La technologie électrique utilisant moteur – électronique – stockage élec
 
  
 
-<<<<<<< HEAD
-**Un second mouvement de balancier aura sans doute lieu** pour permettre à la fois une approche circulaire, pour découpler la possession et l’usage, pour maximiser l’utilisation des ressources en réduisant les externalités, et une conception, une gestion, voire une production des objets par les citoyens eux-mêmes dans des **[living labs](/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html)**. Pour le véhicule, plusieurs signaux faibles, déjà [**abordés** ](/2009/11/open-source-mobilites-quels-avantages-quelles-consequences-.html)dans ce blog, sont déjà à
-=======
-**Un second mouvement de balancier aura sans doute lieu** pour permettre à la fois une approche circulaire, pour découpler la possession et l’usage, pour maximiser l’utilisation des ressources en réduisant les externalités, et une conception, une gestion, voire une production des objets par les citoyens eux-mêmes dans des **[living labs](/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html)**. Pour le véhicule, plusieurs signaux faibles, déjà [**abordés** ](/2009/11/open-source-mobilites-quels-avantages-quelles-consequences-.html)dans ce blog, sont déjà à_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+**Un second mouvement de balancier aura sans doute lieu** pour permettre à la fois une approche circulaire, pour découpler la possession et l’usage, pour maximiser l’utilisation des ressources en réduisant les externalités, et une conception, une gestion, voire une production des objets par les citoyens eux-mêmes dans des **[living labs]({{ site.baseurl }}/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab/)**. Pour le véhicule, plusieurs signaux faibles, déjà [**abordés** ]({{ site.baseurl }}/2009/11/open-source-mobilites-quels-avantages-quelles-consequences/)dans ce blog, sont déjà à
 l’œuvre comme [**C’mm’n**](http://www.cmmn.org/) et [**SIM**](http://www.usinenouvelle.com/article/la-luciole-premiere-voiture-electrique-open-source.N116133). Le [**projet Véhicule Vert Breton**](http://www.themavision.fr/jcms/c_124575/projet-vehicule-vert-breton) (et [**ici**](http://www.agence-eco-bretagne.com/Le-Vehicule-vert-en-Bretagne-une)) pourrait être la première réalisation d’envergure incluant les utilisateurs à la conception. La réalisation, en dehors des batteries, est imaginable dans un second temps dans des usines plus locales, dont les «[ **fab lab **](http://fr.wikipedia.org/wiki/Fab_lab)» et [**Arduino**](http://www.arduino.cc/) sont les prémices.
 
  

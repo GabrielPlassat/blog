@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "\"Nous rêvions de voitures volantes et à la place, nous avons eu 140 caractères\""
-date: 2014-06-19 11:07:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'citoyen', 'collectivité', 'Efficacité énergétique', 'emission', 'emploi', 'Energie', 'fiscalité', 'gouvernance', 'Infrastructure', 'innovation', 'internet', 'management de la mobilité', 'marchabilité', 'marchandises', 'marche']
-=======
-tags: ["ADEME", "citoyen", "collectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "emploi", "Energie", "fiscalit\u00e9", "gouvernance", "Infrastructure", "innovation", "internet", "management de la mobilit\u00e9", "marchabilit\u00e9", "marchandises", "marche"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-06-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/06/nous-revions-de-voitures-volantes-et-a-la-place-nous-avons-eu-140-caracteres.html"
+tags: ["ADEME", "citoyen", "collectivité", "Efficacité énergétique", "emission", "emploi", "Energie", "fiscalité", "gouvernance", "Infrastructure", "innovation", "internet", "management de la mobilité", "marchabilité", "marchandises", "marche"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2014/06/19/nous-revions-de-voitures-volantes-et-a-la-place-nous-avons-eu-140-caracteres-2/
 ---
 
-Nouveau volet de l’exercice de prospective engagé par l’ADEME pour 2030-2050, ce projet décrit les modes de vie des ménages français qui seraient compatibles avec les scénarios énergétiques présentés par l’Agence (lire l'[**article sur ce sujet**](/2013/04/visions-energetiques-2030-2050-complements-transports-mobilites.html)) dans le cadre du Débat National sur la Transition Énergétique. Il montre l’hétérogénéité des modes de vie possibles dans un avenir basé sur un système énergétique sobre (la consommation énergétique finale est divisée par 2) et fortement renouvelable.
+Nouveau volet de l’exercice de prospective engagé par l’ADEME pour 2030-2050, ce projet décrit les modes de vie des ménages français qui seraient compatibles avec les scénarios énergétiques présentés par l’Agence (lire l'[**article sur ce sujet**]({{ site.baseurl }}/2013/04/visions-energetiques-2030-2050-complements-transports-mobilites/)) dans le cadre du Débat National sur la Transition Énergétique. Il montre l’hétérogénéité des modes de vie possibles dans un avenir basé sur un système énergétique sobre (la consommation énergétique finale est divisée par 2) et fortement renouvelable.
 
  
 
@@ -18,7 +19,7 @@ Nouveau volet de l’exercice de prospective engagé par l’ADEME pour 2030-205
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a3fd214ca7970b-800wi.png)](/assets/images/old/6a0120a66d2ad4970b01a3fd214ca7970b-pi.png)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a3fd214ca7970b-800wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a3fd214ca7970b-pi.png)
 
  
 

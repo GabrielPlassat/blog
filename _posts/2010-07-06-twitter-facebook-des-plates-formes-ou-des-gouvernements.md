@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Twitter, Facebook, des plates formes ou des gouvernements ?"
-date: 2010-07-06 17:59:42 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autorité des transports', 'collectivité', 'connectivité', 'données réelles', 'internet', 'partage de données', 'téléphone']
-=======
-tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "partage de donn\u00e9es", "t\u00e9l\u00e9phone"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-07-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/twitter-facebook-des-plates-formes-ou-des-gouvernements.html"
+tags: ["assistant de mobilité", "autorité des transports", "collectivité", "connectivité", "données réelles", "internet", "partage de données", "téléphone"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/07/06/twitter-facebook-des-plates-formes-ou-des-gouvernements/
 ---
 
 Ces outils modernes sont à l'évidence de puissants modes de communication, de réseaux, pour échanger des informations, et le faire savoir. Mais **[un article d'InternetActu](http://www.internetactu.net/2010/06/24/du-gouvernement-comme-plate-forme-ou-linverse/)** (issu du **[blog](http://unionsquareventures.com/2010/06/web-services-as-governments.php)** de Brad Burhnam) nous éclaire également sur leur capacité à générer de la gouvernance.
@@ -34,8 +35,8 @@ Beaucoup de gens ont commencé à utiliser le terme écosystème pour décrire c
 
  Cette ambivalence s'illustre dans deux exemples ci dessus d'utilisations dans des applications liées aux transports : un compte **[twitter](https://twitter.com/nicesophia230/usagers)** pour une ligne de car entre Nice et Sophia et une page **[Facebook](http://www.facebook.com/?ref=home#!/transisere1920?ref=ts)** pour une ligne de car entre Lyon et Bougoin Jallieu. 
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134853d4329970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134853d4329970c-pi.jpg) 
- [![](/assets/images/old/6a0120a66d2ad4970b0133f217ddf5970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f217ddf5970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134853d4329970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134853d4329970c-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f217ddf5970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f217ddf5970b-pi.jpg) 
  
 
  

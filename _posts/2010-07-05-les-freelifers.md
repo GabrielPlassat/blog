@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les Free-lifers"
-date: 2010-07-05 15:59:29 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['tendance', 'transition générationnelle']
-=======
-tags: ["tendance", "transition g\u00e9n\u00e9rationnelle"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-07-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/les-freelifers.html"
+tags: ["tendance", "transition générationnelle"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/07/05/les-freelifers/
 ---
 
 Comment se déplaceront les Free-lifers ? comment achèteront-ils leurs mobilités ? 25% dans 5 ans ...

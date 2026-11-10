@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Il parait que Pepsi pourrait financer des motos hybrides ..."
-date: 2010-03-24 16:22:06 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['internet', 'philanthropie', 'réseaux']
-=======
-tags: ["internet", "philanthropie", "r\u00e9seaux"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides.html"
+tags: ["internet", "philanthropie", "réseaux"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/03/24/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides/
 ---
 
-Déjà mentionné dans une précédente **[note](/2010/02/is-it-business-or-philanthropy-.html)**, Pepsi a décidé de ne pas présenter de publicité pendant la mi-temps du SuperBowl. Résultat : 20 millions de dollars d'économies ! Pepsi lance alors **[Refresh Everything](http://www.refresheverything.com/)**, une campagne de soutien à des projets issus des citoyens.
+Déjà mentionné dans une précédente **[note]({{ site.baseurl }}/2010/02/is-it-business-or-philanthropy/)**, Pepsi a décidé de ne pas présenter de publicité pendant la mi-temps du SuperBowl. Résultat : 20 millions de dollars d'économies ! Pepsi lance alors **[Refresh Everything](http://www.refresheverything.com/)**, une campagne de soutien à des projets issus des citoyens.
 
  
 

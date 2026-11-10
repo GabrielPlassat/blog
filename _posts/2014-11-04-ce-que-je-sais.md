@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Ce que je crois savoir"
-date: 2014-11-04 15:10:17 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', "économie de l'expérience", 'économie fonctionnalité', 'Fabrique des mobilités', 'gouvernance', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'multitude', 'open source', 'pensée complexe', 'plate-forme']
-=======
-tags: ["citoyen", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie fonctionnalit\u00e9", "Fabrique des mobilit\u00e9s", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "multitude", "open source", "pens\u00e9e complexe", "plate-forme"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-11-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "04/11/2014 15:10"
+tags: ["citoyen", "économie de l'expérience", "économie fonctionnalité", "Fabrique des mobilités", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "multitude", "open source", "pensée complexe", "plate-forme"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2014/11/04/ce-que-je-sais/
 ---
 
 Il faut bien une première fois.
@@ -88,8 +89,4 @@ De ce chaos, s'appuyant sur le numérique et la multitude donnant un "entrant ab
 
  
 
-<<<<<<< HEAD
 "2014-11-04 15:10:17https://transportsdufutur.ademe.fr/2014/11/ce-que-je-sais.htmlcitoyen|économie de l'expérience|économie fonctionnalité|Fabrique des mobilités|gouvernance|holoptisme|innovation|intelligence collective|internet|multitude|open source|pensée complexe|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatce-que-je-sais2015-07-21 16:35:28
-=======
-"2014-11-04 15:10:17/2014/11/04/ce-que-je-sais/citoyen|économie de l'expérience|économie fonctionnalité|Fabrique des mobilités|gouvernance|holoptisme|innovation|intelligence collective|internet|multitude|open source|pensée complexe|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatce-que-je-sais2015-07-21 16:35:28
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

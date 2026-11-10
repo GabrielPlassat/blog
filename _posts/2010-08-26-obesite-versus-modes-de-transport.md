@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "obésité versus modes de transport"
-date: 2010-08-26 21:33:06 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['marche', 'mode doux', 'Santé', 'vélo']
-=======
-tags: ["marche", "mode doux", "Sant\u00e9", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/obesite-versus-modes-de-transport.html"
+tags: ["marche", "mode doux", "Santé", "vélo"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/08/26/obesite-versus-modes-de-transport/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f3584c27970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f3584c27970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f3584c27970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f3584c27970b-pi.jpg) 
  Le complément **[ICI ](http://www.stumbleupon.com/su/81ZfGu/sustainablecitiescollective.com/cooltownstudios/14642/walking-health-benefits-illustrated/r:t)**...

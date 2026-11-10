@@ -1,26 +1,27 @@
 ---
 layout: post
 title: "[Apple et iWatch] A partir du 9/9, vous ne vous déplacerez plus comme avant ..."
-date: 2014-09-05 15:51:32 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Apple', 'assistant de mobilité', 'assurance', 'citoyen', 'commuter', 'donnée data', 'données réelles', 'internet des objets', 'Santé', 'surveillance', 'vélo']
-=======
-tags: ["Apple", "assistant de mobilit\u00e9", "assurance", "citoyen", "commuter", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "internet des objets", "Sant\u00e9", "surveillance", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-09-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "05/09/2014 15:51"
+tags: ["Apple", "assistant de mobilité", "assurance", "citoyen", "commuter", "donnée data", "données réelles", "internet des objets", "Santé", "surveillance", "vélo"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2014/09/05/apple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant/
 ---
 
 Professionnels du transport et des mobilités, le 9/9, Apple en la personne de TimCook va présenter lors de son show annuel de nouveaux produits ([**lien pour ajouter à son agenda**](http://www.apple.com/live/event.ics)) et notamment sa montre iWatch et [**iHealth**](https://www.apple.com/ios/ios8/health/), la plateforme dédiée à la santé. **Cela n'a rien à voir avec les transports. Et pourtant, cela pourrait bouleverser la façon de se déplacer.**
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01b7c6da0b1a970b-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01b7c6da0b1a970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b7c6da0b1a970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b7c6da0b1a970b-pi.jpg)
 
  
 
  
 
-Le lien santé/mobilité a déjà été esquissé dans plusieurs articles de ce blog (lire notamment cet [**article**](/2014/02/vous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante.html)), soulevant notamment l'augmentation du surpoids et des maladies cardio-vasculaires. En parallèle, deux phénomènes agissent et s'amplifient : les contraintes financières au niveau des mutuelles/assurances de santé et la disponibilité de technologies intrusives permettant de créer de nouvelles connaissances, donc de comprendre et quantifier les risques, donc de réduire les coûts. Le numérique mobile bourré de capteurs, comme la future iWatch avec 10 capteurs dont rythme cardiaque-pression sanguine, arrive comme une solution d'engagement des citoyens par l'auto-surveillance via un ou plusieurs intermédiaires : [**Apple et les sociétés d'assurances**](http://connected-objects.fr/2014/08/iwatch-apple-mutuelles-sante/).
+Le lien santé/mobilité a déjà été esquissé dans plusieurs articles de ce blog (lire notamment cet [**article**]({{ site.baseurl }}/2014/02/vous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante/)), soulevant notamment l'augmentation du surpoids et des maladies cardio-vasculaires. En parallèle, deux phénomènes agissent et s'amplifient : les contraintes financières au niveau des mutuelles/assurances de santé et la disponibilité de technologies intrusives permettant de créer de nouvelles connaissances, donc de comprendre et quantifier les risques, donc de réduire les coûts. Le numérique mobile bourré de capteurs, comme la future iWatch avec 10 capteurs dont rythme cardiaque-pression sanguine, arrive comme une solution d'engagement des citoyens par l'auto-surveillance via un ou plusieurs intermédiaires : [**Apple et les sociétés d'assurances**](http://connected-objects.fr/2014/08/iwatch-apple-mutuelles-sante/).
 
  
 
@@ -46,8 +47,4 @@ Ce marché "*données privées contre réduction tarifaire*" s'applique égaleme
 
  
 
-<<<<<<< HEAD
 "2014-09-05 15:51:32https://transportsdufutur.ademe.fr/2014/09/apple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant.htmlApple|assistant de mobilité|assurance|citoyen|commuter|donnée data|données réelles|internet des objets|Santé|surveillance|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant2015-07-21 16:35:29
-=======
-"2014-09-05 15:51:32/2014/09/05/apple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant/Apple|assistant de mobilité|assurance|citoyen|commuter|donnée data|données réelles|internet des objets|Santé|surveillance|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant2015-07-21 16:35:29
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

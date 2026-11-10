@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Nimble Cities"
-date: 2010-09-03 16:00:41 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'Efficacité énergétique', 'internet', 'partage de données', "Plateforme d'idées"]
-=======
-tags: ["citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "partage de donn\u00e9es", "Plateforme d'id\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/nimble-cities.html"
+tags: ["citoyen", "Efficacité énergétique", "internet", "partage de données", "Plateforme d'idées"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/09/03/nimble-cities/
 ---
 
 Une nouvelle plateforme participative de ***[Slate.com](http://www.slate.com/) ***pour le développement de villes « habiles » ?* *
@@ -26,7 +27,7 @@ Les trois contributions qui ont recueilli [le plus de vote](http://www.slate.com
 
  
 
-Pour synthétiser l’ensemble des contributions, nous pouvons dire que l’accent a été mis sur le développement de transport plus « intelligent » par l’optimisation de l’adéquation offre/demande, la connaissance en temps réels des temps de trajet, de la congestion, plus « rationnel », notamment sur l’optimisation des financements, l’amélioration de la relation entre aménagement et transport et une meilleure utilisation des infrastructures existantes ([voir par ailleurs un autre article du blog](/2010/08/et-si-la-chine-inventait-ses-propres-tc-.html))
+Pour synthétiser l’ensemble des contributions, nous pouvons dire que l’accent a été mis sur le développement de transport plus « intelligent » par l’optimisation de l’adéquation offre/demande, la connaissance en temps réels des temps de trajet, de la congestion, plus « rationnel », notamment sur l’optimisation des financements, l’amélioration de la relation entre aménagement et transport et une meilleure utilisation des infrastructures existantes ([voir par ailleurs un autre article du blog]({{ site.baseurl }}/2010/08/et-si-la-chine-inventait-ses-propres-tc/))
 
  
 

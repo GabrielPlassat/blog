@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Daimler, Europcar et une smart adaptée pour l'autopartage"
-date: 2010-10-19 09:05:56 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Efficacité énergétique', 'partage de données', 'Service de mobilité']
-=======
-tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-10-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/daimler-europcar-et-une-smart-adaptee-pour-lautopartage.html"
+tags: ["Efficacité énergétique", "partage de données", "Service de mobilité"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/10/19/daimler-europcar-et-une-smart-adaptee-pour-lautopartage/
 ---
 
 Daimler subsidiary car2go GmbH and Hamburg-based Europcar Autovermietung GmbH will [launch](http://media.daimler.com/dcmedia/0-921-1193661-1-1340898-1-0-0-0-0-1-12761-612873-0-1-0-0-0-0-0.html?TS=1287435494355) the car2go mobility concept in Hamburg in spring 2011. Initially there will be 300 smart fortwo vehicles for the car2go scheme in the Hanseatic city. The cars being used are two-seater smart car2go edition models equipped with carsharing telematics and a solar roof. The fleet will be further expanded if there is enough demand.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134884ded9a970c-320wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134884ded9a970c-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134884ded9a970c-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134884ded9a970c-800wi.jpg) 
  
 The two companies have established car2go Hamburg GmbH, their own operating company, in which Europcar has a 75% majority stake.
 

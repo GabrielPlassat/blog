@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Etude CERTU, Mobilité dans les villes moyennes"
-date: 2011-04-26 15:07:12 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['CERTU', 'cité', 'collectivité', 'Service de mobilité']
-=======
-tags: ["CERTU", "cit\u00e9", "collectivit\u00e9", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-04-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/etude-certu-mobilite-dans-les-villes-moyennes.html"
+tags: ["CERTU", "cité", "collectivité", "Service de mobilité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2011/04/26/etude-certu-mobilite-dans-les-villes-moyennes/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b014e8815c022970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b014e8815c022970d-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8815c022970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8815c022970d-800wi.jpg) 
  
 
  

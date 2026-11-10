@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Avego - Real-time ridesharing for the iPhone generation."
-date: 2010-02-05 14:01:53 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['avego', 'données réelles', 'iphone', 'multimodes', 'Service de mobilité', 'TIC']
-=======
-tags: ["avego", "donn\u00e9es r\u00e9elles", "iphone", "multimodes", "Service de mobilit\u00e9", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/avego-realtime-ridesharing-for-the-iphone-generation.html"
+tags: ["avego", "données réelles", "iphone", "multimodes", "Service de mobilité", "TIC"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/05/avego-realtime-ridesharing-for-the-iphone-generation/
 ---
 
 World’s largest vanpool service provider incorporates Avego’s *Shared Transport* technology. 
 ## 
  
 
-![](/assets/images/2010/02/avegorealtimeridesharingfortheiphonegeneration-1.jpg) 
+![]({{ site.baseurl }}/assets/images/2010/02/avegorealtimeridesharingfortheiphonegeneration-1.jpg) 
 
  
 

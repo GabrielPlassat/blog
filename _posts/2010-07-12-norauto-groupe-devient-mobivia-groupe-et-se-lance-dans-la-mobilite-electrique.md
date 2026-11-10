@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Norauto Groupe devient MOBIVIA Groupe, et se lance dans la mobilité électrique"
-date: 2010-07-12 15:24:32 +0100
-categories: []
+date: 2010-07-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/norauto-groupe-devient-mobivia-groupe-et-se-lance-dans-la-mobilite-electrique.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/07/12/norauto-groupe-devient-mobivia-groupe-et-se-lance-dans-la-mobilite-electrique/
 ---
 
 Changement de nom, élargissement du champs d'activité, passage à l'ère de la mobilité électrique, Norauto, devenu Mobivia, se positionne comme un futur opérateur de mobilité, maîtrisant partiellement véhicule et infrastructure.  

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Projet de Stratégie Nationale pour le Développement Durable & le défi concernant les transports"
-date: 2010-07-28 13:39:11 +0100
-categories: []
+date: 2010-07-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/projet-de-strategie-nationale-pour-le-developpement-durable-le-defi-concernant-les-transports.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/07/28/projet-de-strategie-nationale-pour-le-developpement-durable-le-defi-concernant-les-transports/
 ---
 
 La SNDD (Stratégie Nationale pour le Développement Durable) propose une architecture commune à tous les acteurs de la Nation, publics et privés, pour les aider à structurer leurs propres projets de développement durable autour de choix stratégiques et d’indicateurs qui ont fait l’objet d’un large consensus. Elle a notamment vocation à assurer la cohérence et la complémentarité des engagements internationaux et européens de la France, et des politiques nationales, transversales ou sectorielles. La stratégie nationale vise, en développant une économie sobre en ressources naturelles et décarbonée, à faire de la France un des acteurs majeurs de l’économie verte qui est la seule compatible avec le développement des pays émergents, tout en poursuivant un objectif de justice et d’équité sociale. Elle s’articule à cette fin autour de neuf défis stratégiques, cohérents avec nos engagements européens, et que nous devons relever pour aller **vers une économie verte et équitable **:
@@ -42,11 +47,7 @@ La SNDD (Stratégie Nationale pour le Développement Durable) propose une archit
 
  
 
-<<<<<<< HEAD
 ·         **la démographie, l’immigration et l’inclusion sociale **dont l’impact sur l’économie et l’équilibre de nos systèmes de protection sociale est déterminant, en nous a
-=======
-·         **la démographie, l’immigration et l’inclusion sociale **dont l’impact sur l’économie et l’équilibre de nos systèmes de protection sociale est déterminant, en nous a_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ttachant à lutter contre toutes les exclusions dues notamment à l’âge, à la pauvreté, à l’insuffisance d’éducation et de formation et en s’appuyant sur la dimension pluricuturelle de la société française ;
 
  

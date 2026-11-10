@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Le virtuel donne(ra) plus de sensations réelles que le réel (2)"
-date: 2010-12-07 20:54:38 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'connectivité', 'donnée data', 'données réelles', 'internet', 'internet des objets', 'jeu vidéo', 'living lab', 'open innovation', 'open source']
-=======
-tags: ["citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "jeu vid\u00e9o", "living lab", "open innovation", "open source"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-12-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "07/12/2010 20:54"
+tags: ["citoyen", "collectivité", "connectivité", "donnée data", "données réelles", "internet", "internet des objets", "jeu vidéo", "living lab", "open innovation", "open source"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/12/07/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2/
 ---
 
-Après un premier article sur le sujet (voir **[ici](/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel.html)**), vous trouverez ci dessous un article venant de Liberation Next, avec quelques commentaires en *italique*. **Si la voiture de demain veut avoir une chance d’intéresser les jeunes générations, elle doit selon lui s’inspirer des règles marketing du jeu vidéo : l'épreuve, la récompense, la mise en réseau, et l'individualisation. Quel constructeur saura tisser les liens le permettant ? Et si, à l'inverse, d'autres industries parvenaient à proposer des solutions couplant réel et virtuel ? **
+Après un premier article sur le sujet (voir **[ici]({{ site.baseurl }}/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel/)**), vous trouverez ci dessous un article venant de Liberation Next, avec quelques commentaires en *italique*. **Si la voiture de demain veut avoir une chance d’intéresser les jeunes générations, elle doit selon lui s’inspirer des règles marketing du jeu vidéo : l'épreuve, la récompense, la mise en réseau, et l'individualisation. Quel constructeur saura tisser les liens le permettant ? Et si, à l'inverse, d'autres industries parvenaient à proposer des solutions couplant réel et virtuel ? **
 
  
 
@@ -51,8 +52,4 @@ Si à ce stade, les propositions de Feng Zhu sont théoriques, **elles ont le m�
 
 *Vers des **[Sim Cities]()** couplés au réel ...*
 
-<<<<<<< HEAD
 "2010-12-07 20:54:38https://transportsdufutur.ademe.fr/2010/12/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2.htmlcitoyen|collectivité|connectivité|donnée data|données réelles|internet|internet des objets|jeu vidéo|living lab|open innovation|open sourcepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-22015-07-21 16:37:31
-=======
-"2010-12-07 20:54:38/2010/12/07/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2/citoyen|collectivité|connectivité|donnée data|données réelles|internet|internet des objets|jeu vidéo|living lab|open innovation|open sourcepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-22015-07-21 16:37:31
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

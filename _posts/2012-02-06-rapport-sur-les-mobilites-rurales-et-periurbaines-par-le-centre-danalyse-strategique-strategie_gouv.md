@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Rapport sur les mobilités rurales et périurbaines par le Centre d’Analyse Stratégique @strategie_gouv @ademe"
-date: 2012-02-06 16:10:48 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'commuter', 'données réelles', 'Service de mobilité', 'territoire']
-=======
-tags: ["citoyen", "collectivit\u00e9", "commuter", "donn\u00e9es r\u00e9elles", "Service de mobilit\u00e9", "territoire"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-02-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/02/rapport-sur-les-mobilites-rurales-et-periurbaines-par-le-centre-danalyse-strategique-strategie_gouv.html"
+tags: ["citoyen", "collectivité", "commuter", "données réelles", "Service de mobilité", "territoire"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2012/02/06/rapport-sur-les-mobilites-rurales-et-periurbaines-par-le-centre-danalyse-strategique-strategie_gouv/
 ---
 
-Faisant suite au précédent [**rapport général sur le changement nécessaire en matière d'usage de l'automobile**](/2010/11/les-nouvelles-mobilites-adapter-lautomobile-aux-modes-de-vie-de-demain.html), le CAS produit un second rapport focalisé sur les déplacements dans les territoires ruraux et péri-urbains.
+Faisant suite au précédent [**rapport général sur le changement nécessaire en matière d'usage de l'automobile**]({{ site.baseurl }}/2010/11/les-nouvelles-mobilites-adapter-lautomobile-aux-modes-de-vie-de-demain/), le CAS produit un second rapport focalisé sur les déplacements dans les territoires ruraux et péri-urbains.
 
  
 

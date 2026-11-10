@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Retrouver sa liberté de mouvement (rapport du Ministère de la Santé Jeunesse et Sport)"
-date: 2010-09-29 16:19:43 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'mode doux', 'obésité', 'Santé']
-=======
-tags: ["citoyen", "mode doux", "ob\u00e9sit\u00e9", "Sant\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-29
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/retrouver-sa-liberte-de-mouvement-rapport-du-ministere-de-la-sante-jeunesse-et-sport.html"
+tags: ["citoyen", "mode doux", "obésité", "Santé"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/09/29/retrouver-sa-liberte-de-mouvement-rapport-du-ministere-de-la-sante-jeunesse-et-sport/
 ---
 
 « La sédentarité croissante constatée dans nos sociétés développées n’existe sous sa forme épidémique que depuis la deuxième moitié du XXème siècle. Facteur de risque de nombreuses maladies chroniques (cardiovasculaires, métaboliques, cancéreuses, psychiques…), elle concerne les deux tiers d’entre nous et s’étend plus drastiquement encore dans la génération de nos enfants. Ce processus de sédentarisation suit deux courbes de croissance successives : celle du développement des transports motorisés, limitant la dépense énergétique individuelle, et celle de la communication : télévisuelle dans un premier temps, informatique désormais qui nous absorbent dans un quotidien toujours plus savant mais de moins en moins actif. »

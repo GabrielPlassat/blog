@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "[open data] Emissions de polluants, CO2 et caractéristiques des véhicules commercialisés en France"
-date: 2014-07-03 18:37:33 +0100
-categories: []
+date: 2014-07-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/07/open-data-emissions-de-polluants-co2-et-caracteristiques-des-vehicules-commercialises-en-france.html"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2014/07/03/open-data-emissions-de-polluants-co2-et-caracteristiques-des-vehicules-commercialises-en-france/
 ---
 
 Les données d'émissions de CO2 et de polluants ainsi que les caractéristiques des véhicules commercialisés en France sont maintenant accessibles intégralement en open data sur le site d'Etalab. Ces données proviennent des services homologations des constructeurs automobiles. L’ADEME acquiert ces données auprès de l’Union Technique de l’Automobile du motocycle et du Cycle UTAC (en charge de l’homologation des véhicules avant leur mise en vente) en accord avec le ministère du développement durable.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a73de5ab33970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a73de5ab33970d-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73de5ab33970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73de5ab33970d-pi.jpg)
 
 Pour chaque véhicule les données d’origine (transmises par l’Utac) sont les suivantes :
 

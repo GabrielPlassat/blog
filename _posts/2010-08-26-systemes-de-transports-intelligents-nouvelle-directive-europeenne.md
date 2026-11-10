@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Systèmes de Transports Intelligents, nouvelle directive européenne"
-date: 2010-08-26 14:37:56 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'connectivité', 'Efficacité énergétique', 'Europe', 'internet', 'partage de données']
-=======
-tags: ["assistant de mobilit\u00e9", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Europe", "internet", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/systemes-de-transports-intelligents-nouvelle-directive-europeenne.html"
+tags: ["assistant de mobilité", "connectivité", "Efficacité énergétique", "Europe", "internet", "partage de données"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/08/26/systemes-de-transports-intelligents-nouvelle-directive-europeenne/
 ---
 
 La Commission se félicite de l'approbation, par le Parlement européen, d'un nouveau cadre juridique pour des Systèmes de transport intelligents

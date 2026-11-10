@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Health impact of traffic pollution"
-date: 2010-02-11 18:14:06 +0100
-categories: []
+date: 2010-02-11
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/health-impact-of-traffic-pollution.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/11/health-impact-of-traffic-pollution/
 ---
 
 The Health Effects Institute (HEI) published a new report, titled Traffic-Related Air Pollution: A Critical Review of the Literature on Emissions, Exposure, and Health Effects". The report--one of the most comprehensive and systematic reviews of the worldwide traffic emissions and health science to date--has found that there are substantial gaps in what we know about exposure to traffic air pollutants and their health effects.

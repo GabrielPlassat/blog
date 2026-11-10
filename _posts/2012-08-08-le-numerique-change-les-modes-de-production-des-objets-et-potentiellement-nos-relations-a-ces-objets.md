@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le numérique change les modes de production des objets et potentiellement nos relations à ces objets"
-date: 2012-08-08 14:57:07 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['allégement', 'Amazon', 'autarcie', 'citoyen', 'economie circulaire', 'économie fonctionnalité', 'Efficacité énergétique', 'Energie', 'innovation', 'intelligence collective', 'internet', 'léger', 'logistique', 'low cost', 'MIT', 'open innovation', 'open source', 'TED']
-=======
-tags: ["all\u00e9gement", "Amazon", "autarcie", "citoyen", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "innovation", "intelligence collective", "internet", "l\u00e9ger", "logistique", "low cost", "MIT", "open innovation", "open source", "TED"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-08-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/08/le-numerique-change-les-modes-de-production-des-objets-et-potentiellement-nos-relations-a-ces-objets.html"
+tags: ["allégement", "Amazon", "autarcie", "citoyen", "economie circulaire", "économie fonctionnalité", "Efficacité énergétique", "Energie", "innovation", "intelligence collective", "internet", "léger", "logistique", "low cost", "MIT", "open innovation", "open source", "TED"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/08/08/le-numerique-change-les-modes-de-production-des-objets-et-potentiellement-nos-relations-a-ces-objets/
 ---
 
 Nous sommes en train d’entrer dans une nouvelle ère concernant la production des objets qui nous entourent. Si nous modifions les modes de production, la logistique et les flux seront entièrement changés, et plus important encore, nos relations à ces objets pourront être très différentes.
@@ -50,7 +51,7 @@ Les machines de production pourraient passer d’un statut privé, à celui de p
 
  
 
-Dès lors que, pour la plupart des objets courants, les plans sont téléchargeables (voir **[Open Source Ecology](http://openfarmtech.org/wiki/Main_Page)**, et la video TED de **[M.Jakubowski](http://www.ted.com/talks/marcin_jakubowski.html)**), et les composants sont réalisables simplement, la relation à l’objet fini peut changer : l’appétence à la propriété se réduit, seuls compte les services rendus par cet assemblage de matière, les processus d’échange et de partage des objets se développent. La capacité à être réparé (re)devient importante, les plans l’intégreront de plus en plus ; la [**réutilisation**](/2011/05/ultra-low-cost-open-source-la-voie-.html) des sous-ensembles et des matériaux se développent à des niveaux inimaginables aujourd’hui.
+Dès lors que, pour la plupart des objets courants, les plans sont téléchargeables (voir **[Open Source Ecology](http://openfarmtech.org/wiki/Main_Page)**, et la video TED de **[M.Jakubowski](http://www.ted.com/talks/marcin_jakubowski.html)**), et les composants sont réalisables simplement, la relation à l’objet fini peut changer : l’appétence à la propriété se réduit, seuls compte les services rendus par cet assemblage de matière, les processus d’échange et de partage des objets se développent. La capacité à être réparé (re)devient importante, les plans l’intégreront de plus en plus ; la [**réutilisation**]({{ site.baseurl }}/2011/05/ultra-low-cost-open-source-la-voie/) des sous-ensembles et des matériaux se développent à des niveaux inimaginables aujourd’hui.
 
  
 
@@ -58,4 +59,4 @@ La plupart des verbes sont conjugués au conditionnel, mais les technologies exi
 
  
 
-Dans ce monde de production d’objets décentralisés, partagés, réutilisés, les flux de matière pourront être entièrement reconsidérés et grandement massifiés, puisque seules des poudres, des tôles seront transportées. Les temporalités pourront, elles aussi, être intégralement revues, le juste à temps ou le flux tendu n’ayant plus aucun sens. Cela modifiera également profondément toutes les approches marketing basées sur l’obsolescence programmée et sur une forte pseudo différenciation des produits. Les conséquences sur toutes les [**chaînes logistiques**](/2012/08/la-logistique-du-futur.html) seront majeures. [**L'économie circulaire et l'économie de la fonctionnalité**](/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire.html) peuvent également s'y déployer.
+Dans ce monde de production d’objets décentralisés, partagés, réutilisés, les flux de matière pourront être entièrement reconsidérés et grandement massifiés, puisque seules des poudres, des tôles seront transportées. Les temporalités pourront, elles aussi, être intégralement revues, le juste à temps ou le flux tendu n’ayant plus aucun sens. Cela modifiera également profondément toutes les approches marketing basées sur l’obsolescence programmée et sur une forte pseudo différenciation des produits. Les conséquences sur toutes les [**chaînes logistiques**]({{ site.baseurl }}/2012/08/la-logistique-du-futur/) seront majeures. [**L'économie circulaire et l'économie de la fonctionnalité**]({{ site.baseurl }}/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire/) peuvent également s'y déployer.

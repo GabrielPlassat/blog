@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Notre mobilité est-elle prévisible ou modélisable ?"
-date: 2010-03-19 09:59:14 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'connectivité', 'données réelles', 'internet', 'internet des objets', 'iphone', 'multimodes', 'partage de données', 'partage de la voirie']
-=======
-tags: ["autorit\u00e9 des transports", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "internet des objets", "iphone", "multimodes", "partage de donn\u00e9es", "partage de la voirie"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/notre-mobilite-estelle-previsible-ou-modelisable.html"
+tags: ["autorité des transports", "connectivité", "données réelles", "internet", "internet des objets", "iphone", "multimodes", "partage de données", "partage de la voirie"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/03/19/notre-mobilite-estelle-previsible-ou-modelisable/
 ---
 
-La récente étude (voir **[ici](/assets/images/2010/03/201002-19_Science-Predictability.pdf)**) mise en lumière par un article de la FING (voir des extraits ci dessous et **[ici](http://www.internetactu.net/2010/03/16/notre-mobilite-est-previsible-et-reguliere/)**) montre que nos comportements de mobilité sont relativement prévisibles. 
+La récente étude (voir **[ici]({{ site.baseurl }}/assets/images/2010/03/201002-19_Science-Predictability.pdf)**) mise en lumière par un article de la FING (voir des extraits ci dessous et **[ici](http://www.internetactu.net/2010/03/16/notre-mobilite-est-previsible-et-reguliere/)**) montre que nos comportements de mobilité sont relativement prévisibles. 
 
  
 
@@ -22,11 +23,11 @@ La récente étude (voir **[ici](/assets/images/2010/03/201002-19_Science-Predic
 
  
 
-![](/assets/images/2010/03/Exemplesdemodlesdeprvisibilitdenosdplacements.png)
+![]({{ site.baseurl }}/assets/images/2010/03/Exemplesdemodlesdeprvisibilitdenosdplacements.png)
 
  
 
-Alors qu’on pourrait penser qu’il est plus difficile de prédire le mouvement de ceux qui voyagent beaucoup, [l’étude (.pdf)](/assets/images/2010/03/201002-19_Science-Predictability.pdf) a montré le contraire : malgré notre hétérogénéité dans nos déplacements, nos schémas de déplacements sont réguliers, routiniers et tous également prévisibles. Autre surprise, cette régularité et cette prévisibilité ne diffèrent pas significativement selon les catégories sociales ou la densité démographique : quel que soit notre âge, notre sexe, notre groupe linguistique, que nous habitions à la campagne ou en ville, notre manière de bouger est pour tous également prévisible !
+Alors qu’on pourrait penser qu’il est plus difficile de prédire le mouvement de ceux qui voyagent beaucoup, [l’étude (.pdf)]({{ site.baseurl }}/assets/images/2010/03/201002-19_Science-Predictability.pdf) a montré le contraire : malgré notre hétérogénéité dans nos déplacements, nos schémas de déplacements sont réguliers, routiniers et tous également prévisibles. Autre surprise, cette régularité et cette prévisibilité ne diffèrent pas significativement selon les catégories sociales ou la densité démographique : quel que soit notre âge, notre sexe, notre groupe linguistique, que nous habitions à la campagne ou en ville, notre manière de bouger est pour tous également prévisible !
 
  
 
@@ -34,7 +35,7 @@ Alors qu’on pourrait penser qu’il est plus difficile de prédire le mouvemen
 
  
 
-Ce comportement prévisible permet d’entrevoir une large gamme d’applications dans le domaine de la modélisation des phénomènes épidémiques, la gestion des ressources en télécommunications, l’urbanisme ou l’ingénierie des trafics. D’autant que de nombreux modèles utilisés jusqu’à présent sont construits sur l’hypothèse que les gens se comportent de façon aléatoire… Nathan Eagle, directeur du [Laboratoire de l’ingénierie des systèmes sociaux au MIT](http://ess.mit.edu/), qui travaille sur des sujets similaires – et a montré notamment que 85 % du temps, nous sommes localisés dans des endroits où nous avons nos habitudes -, semble plus optimiste, puisqu’il insiste [sur la longue traîne de nos comportements (.pdf)](/assets/images/2010/03/bayir.pdf) : 15 % de notre temps est dévolu à des localisations variées qui nous prennent moins d’un pourcent de notre temps. 
+Ce comportement prévisible permet d’entrevoir une large gamme d’applications dans le domaine de la modélisation des phénomènes épidémiques, la gestion des ressources en télécommunications, l’urbanisme ou l’ingénierie des trafics. D’autant que de nombreux modèles utilisés jusqu’à présent sont construits sur l’hypothèse que les gens se comportent de façon aléatoire… Nathan Eagle, directeur du [Laboratoire de l’ingénierie des systèmes sociaux au MIT](http://ess.mit.edu/), qui travaille sur des sujets similaires – et a montré notamment que 85 % du temps, nous sommes localisés dans des endroits où nous avons nos habitudes -, semble plus optimiste, puisqu’il insiste [sur la longue traîne de nos comportements (.pdf)]({{ site.baseurl }}/assets/images/2010/03/bayir.pdf) : 15 % de notre temps est dévolu à des localisations variées qui nous prennent moins d’un pourcent de notre temps. 
 
  
 

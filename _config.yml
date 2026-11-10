@@ -1,5 +1,5 @@
-﻿title: "Transports du Futur"
-description: "Exploration des mobilites, de l'innovation et des transports"
+title: "Transports du Futur"
+description: "Vingt ans d'explorations des mobilités, des communs et des véhicules intermédiaires : cinq blogs réunis (2009-2026)"
 baseurl: "/blog"
 url: "https://gabrielplassat.github.io"
 
@@ -7,7 +7,7 @@ author:
   name: "Gabriel Plassat"
 
 theme: minima
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:title/
 timezone: Europe/Paris
 lang: fr
 encoding: utf-8
@@ -20,6 +20,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
+
+header_pages:
+  - themes.md
+  - recents.md
+  - ciel.html
+  - terre.html
+  - temps.html
+  - about.md
 
 twitter:
   username: gabrielplassat

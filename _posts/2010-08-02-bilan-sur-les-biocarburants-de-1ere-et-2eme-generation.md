@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Bilan sur les biocarburants de 1ère et 2ème génération"
-date: 2010-08-02 16:53:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['biocarburant', 'carburant', 'Energie', 'éthanol']
-=======
-tags: ["biocarburant", "carburant", "Energie", "\u00e9thanol"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/bilan-sur-les-biocarburants-de-1ere-et-2eme-generation.html"
+tags: ["biocarburant", "carburant", "Energie", "éthanol"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/08/02/bilan-sur-les-biocarburants-de-1ere-et-2eme-generation/
 ---
 
 En Europe, [EurObserv’ER ](http://www.eurobserv-er.org/downloads.asp)vient de publier le rapport 2009 des biocarburants (1ère generation) consommés.
@@ -34,4 +35,4 @@ Dans le monde, l’AIE dresse dans son groupe **[task 39](http://www.task39.org/
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f2cc691b970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f2cc691b970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f2cc691b970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f2cc691b970b-pi.jpg)

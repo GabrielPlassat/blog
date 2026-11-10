@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Le point sur l'expédition Confiance Numérique\"\""
-date: 2010-09-30 17:25:22 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['confiance', 'TIC']
-=======
+date: 2010-09-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/le-point-sur-lexpedition-confiance-numerique.html"
 tags: ["confiance", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Veille & documents"
+redirect_from:
+  - /2010/09/30/le-point-sur-lexpedition-confiance-numerique/
 ---
 
-Qui dit service de mobilité, dit partage d'objet, donc une certaine confiance ... sujet déjà abordé **[ici](/2010/03/parce-que-la-confiance-est-essentielle.html)**.
+Qui dit service de mobilité, dit partage d'objet, donc une certaine confiance ... sujet déjà abordé **[ici]({{ site.baseurl }}/2010/03/parce-que-la-confiance-est-essentielle/)**.
 
  
 

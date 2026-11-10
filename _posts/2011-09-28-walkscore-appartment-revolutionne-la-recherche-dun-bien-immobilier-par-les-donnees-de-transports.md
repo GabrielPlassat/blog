@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Walkscore Appartment révolutionne la recherche d'un bien immobilier par les données de transports"
-date: 2011-09-28 16:18:44 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'données réelles', "guide d'achat", 'marchabilité', 'mode doux']
-=======
-tags: ["cit\u00e9", "citoyen", "donn\u00e9es r\u00e9elles", "guide d'achat", "marchabilit\u00e9", "mode doux"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-09-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/09/walkscore-appartment-revolutionne-la-recherche-dun-bien-immobilier-par-les-donnees-de-transports.html"
+tags: ["cité", "citoyen", "données réelles", "guide d'achat", "marchabilité", "mode doux"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2011/09/28/walkscore-appartment-revolutionne-la-recherche-dun-bien-immobilier-par-les-donnees-de-transports/
 ---
 
-[**Walkscore **](http://www.walkscore.com)(déjà mentionné [**ICI**](/2010/08/lier-choix-de-lieux-dhabitations-et-de-transports.html)) permet de déterminer un indice de marchabilité d'un bien immobilier pour accéder à des services (école, supermarché, ...) à pied. Cet indice s'est largement diffusé dans plusieurs villes américaines, jusqu'à être repris par les agences immobilières pour mieux vendre un bien. Désormais plusieurs agences indiquent pour chaque bien, l'indice de marchabilité.
+[**Walkscore **](http://www.walkscore.com)(déjà mentionné [**ICI**]({{ site.baseurl }}/2010/08/lier-choix-de-lieux-dhabitations-et-de-transports/)) permet de déterminer un indice de marchabilité d'un bien immobilier pour accéder à des services (école, supermarché, ...) à pied. Cet indice s'est largement diffusé dans plusieurs villes américaines, jusqu'à être repris par les agences immobilières pour mieux vendre un bien. Désormais plusieurs agences indiquent pour chaque bien, l'indice de marchabilité.
 
  
 
@@ -28,7 +29,7 @@ Walkscore progresse et propose désormais à son tour un outil pour vous aider �
 
  
 
-L'étape suivante sera l'intégration d'un module économique (déjà disponible [**ICI**](/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les.html)) permettant d'optimiser pour un budget donné, le lieu d'habitation + le budget transport + le temps de transport pour plusieurs modes de transport.
+L'étape suivante sera l'intégration d'un module économique (déjà disponible [**ICI**]({{ site.baseurl }}/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les/)) permettant d'optimiser pour un budget donné, le lieu d'habitation + le budget transport + le temps de transport pour plusieurs modes de transport.
 
  
 

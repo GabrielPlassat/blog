@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Appel à Projet Mobilités 2013, Connaître pour mieux agir"
-date: 2013-06-24 10:16:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'citoyen', 'collectivité', 'confiance', 'donnée data', 'données réelles', 'Energie', 'gouvernance', 'management de la mobilité', 'philanthropie', "qualité de l'air", 'Service de mobilité', 'transparence']
-=======
-tags: ["ADEME", "citoyen", "collectivit\u00e9", "confiance", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Energie", "gouvernance", "management de la mobilit\u00e9", "philanthropie", "qualit\u00e9 de l'air", "Service de mobilit\u00e9", "transparence"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-06-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/06/appel-a-projet-mobilites-2013-connaitre-pour-mieux-agir.html"
+tags: ["ADEME", "citoyen", "collectivité", "confiance", "donnée data", "données réelles", "Energie", "gouvernance", "management de la mobilité", "philanthropie", "qualité de l'air", "Service de mobilité", "transparence"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2013/06/24/appel-a-projet-mobilites-2013-connaitre-pour-mieux-agir/
 ---
 
 **Nous ne pouvons piloter et changer que ce que nous connaissons".**

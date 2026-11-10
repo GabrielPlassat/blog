@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Waze arrive en France, c'est quoi ?"
-date: 2010-03-12 12:06:19 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'internet', 'partage de données', 'waze']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "internet", "partage de donn\u00e9es", "waze"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/waze-arrive-en-france-cest-quoi.html"
+tags: ["données réelles", "internet", "partage de données", "waze"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/03/12/waze-arrive-en-france-cest-quoi/
 ---
 
-Déjà opérationnel à l'étranger et présenté dans une note précédente (**[ici](/2010/01/whats-waze.html)**), WAZE arrive en France :
+Déjà opérationnel à l'étranger et présenté dans une note précédente (**[ici]({{ site.baseurl }}/2010/01/whats-waze/)**), WAZE arrive en France :
 
  
 
@@ -72,11 +73,7 @@ Soucieux de la sécurité routière, les créateurs de Waze ont fait en sorte qu
 
  
 
-<<<<<<< HEAD
 Waze réussit le pari d’introduire une dimension sociale et de jeu à un service GPS. Chaque « wazer » a ainsi la possibilité d’être visible en temps réel sur les cartes, grâce à un petit avatar personnalisable selon son humeur. Grâce à
-=======
-Waze réussit le pari d’introduire une dimension sociale et de jeu à un service GPS. Chaque « wazer » a ainsi la possibilité d’être visible en temps réel sur les cartes, grâce à un petit avatar personnalisable selon son humeur. Grâce à_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  une fonction de « chit-chat », il a également la possibilité d’échanger en direct avec les autres « Wazers ».
 
  

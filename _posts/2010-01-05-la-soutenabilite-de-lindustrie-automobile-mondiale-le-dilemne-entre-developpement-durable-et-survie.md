@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "La soutenabilité de l'industrie automobile mondiale : le dilemne entre développement durable et survie"
-date: 2010-01-05 09:28:33 +0100
-categories: []
+date: 2010-01-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/la-soutenabilite-de-lindustrie-automobile-mondiale-le-dilemne-entre-developpement-durable-et-survie.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/01/05/la-soutenabilite-de-lindustrie-automobile-mondiale-le-dilemne-entre-developpement-durable-et-survie/
 ---
 
 Dans le cadre du cinquième programme international de recherche du **[GERPISA](http://leblog.gerpisa.org/node/396)** ‘SD and AI”, les 18èmes rencontres internationales proposent aux chercheurs de mettre en examen les différentes dimensions de la soutenabilité du développement de l’automobile. En effet, si le programme tel qu’il avait été défini en 2007 privilégiait, en prolongeant les principales acceptions du développement durable, les questions de responsabilité sociale et environnementale des entreprises automobile, la crise est venue remettre au cœur des préoccupations des acteurs et des chercheurs la question de la soutenabilité économique de ce développement. Elle a également conduit à une intervention massive des pouvoirs publics régionaux, nationaux et internationaux qui incite vivement à poser la question de la soutenabilité politique. C’est au carrefour de ces quatre problématiques fondamentales que s’élaborent de nouveaux compromis automobile potentiellement porteurs de ce que nous avons appelé la SAR.

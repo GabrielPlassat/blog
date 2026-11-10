@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Atelier d'informations sur les Investissements d'Avenir organisé par l'ADEME"
-date: 2011-04-28 11:28:44 +0100
-categories: []
+date: 2011-04-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/atelier-dinformations-sur-les-investissements-davenir-organise-par-lademe.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2011/04/28/atelier-dinformations-sur-les-investissements-davenir-organise-par-lademe/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b014e881fce3d970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b014e881fce3d970d-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e881fce3d970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e881fce3d970d-pi.jpg) 
 INSCRIPTION : **[ICI](http://www.ademe-espaces.com/atelier/Home.1.html)**
 
  

@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Matières premières, grands changements et nouvelles faiblesses"
-date: 2010-06-08 13:25:06 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['carburant', 'Energie', 'finlande', 'prix carburant']
-=======
+date: 2010-06-08
+source: tdf
+source_name: "Transports du Futur"
 tags: ["carburant", "Energie", "finlande", "prix carburant"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/06/08/matieres-premieres-grands-changements-et-nouvelles-faiblesses/
 ---
 
-Diversification énergétique, nouvelles technologies, des changements majeurs sont en cours visant à recourir à **[d'autres sources d'énergies](/2010/03/les-energies.html)**, à utiliser de nouvelles ressources pour de nouveaux produits. Cette course vers, notamment, moins de pétrole, plus de biomasse, et plus de terres rares, conduit également à augmenter la complexité du système.
+Diversification énergétique, nouvelles technologies, des changements majeurs sont en cours visant à recourir à **[d'autres sources d'énergies]({{ site.baseurl }}/2010/03/les-energies/)**, à utiliser de nouvelles ressources pour de nouveaux produits. Cette course vers, notamment, moins de pétrole, plus de biomasse, et plus de terres rares, conduit également à augmenter la complexité du système.
 
  
 
-Inconnus du grand public, les métaux issus des terres rares (déjà abordés dans ce blog, voir **[ici](/2010/02/les-terres-rares-seront-elles-en-plus-volatiles-.html)**) sont aujourd'hui essentiels aux produits high-tech comme certains aimants ou des catalyseurs. Un éclairage de Massimo Prandi, journaliste Matières premières : 
+Inconnus du grand public, les métaux issus des terres rares (déjà abordés dans ce blog, voir **[ici]({{ site.baseurl }}/2010/02/les-terres-rares-seront-elles-en-plus-volatiles/)**) sont aujourd'hui essentiels aux produits high-tech comme certains aimants ou des catalyseurs. Un éclairage de Massimo Prandi, journaliste Matières premières : 
 
  
 

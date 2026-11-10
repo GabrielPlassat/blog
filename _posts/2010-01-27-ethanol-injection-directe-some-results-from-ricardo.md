@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Ethanol Injection Directe, some results from Ricardo"
-date: 2010-01-27 11:55:08 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'éthanol', 'Véhicule']
-=======
-tags: ["Energie", "\u00e9thanol", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/ethanol-injection-directe-some-results-from-ricardo.html"
+tags: ["Energie", "éthanol", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/01/27/ethanol-injection-directe-some-results-from-ricardo/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a81687ef970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a81687ef970b-pi.jpg)**[Ricardo’s EBDI](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose)** engine technology solves many of the shortcomings of current generation flex-fuel engines, which are typically only optimized for gasoline operation and do not make full use of the properties of ethanol. 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a81687ef970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a81687ef970b-pi.jpg)**[Ricardo’s EBDI](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose)** engine technology solves many of the shortcomings of current generation flex-fuel engines, which are typically only optimized for gasoline operation and do not make full use of the properties of ethanol. 
 
  
 
@@ -38,4 +39,4 @@ The results of test bed evaluation of the EBDI engine already carried out by Ric
 
  
 
-L'IFP, dans le cadre d'un appel à projet financé par l'AnR, pilote le projet **[IDETHANOL](/assets/images/2010/01/PREDIT-VPE-resumes-2007.pdf)** sur ce même sujet.
+L'IFP, dans le cadre d'un appel à projet financé par l'AnR, pilote le projet **[IDETHANOL]({{ site.baseurl }}/assets/images/2010/01/PREDIT-VPE-resumes-2007.pdf)** sur ce même sujet.

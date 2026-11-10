@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le véhicule militaire préfigure peut être l'avenir de l'automobile"
-date: 2012-12-05 12:33:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['DARPA', 'Fablab', 'General Electric', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'MIT', 'plate-forme']
-=======
+date: 2012-12-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/12/le-vehicule-militaire-prefigure-peut-etre-lavenir-de-lautomobile.html"
 tags: ["DARPA", "Fablab", "General Electric", "innovation", "intelligence collective", "internet", "internet des objets", "MIT", "plate-forme"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2012/12/05/le-vehicule-militaire-prefigure-peut-etre-lavenir-de-lautomobile/
 ---
 
 Non pas forcément au niveau de l'objet (même si Transit City propose de nombreux éléments sur ce sujet : **[War Mobility](http://transit-city.blogspot.fr/2012/10/next-mule-smlxl.html)**), mais **au niveau de la façon dont il sera conçu**. Le véhicule devra s'adapter à un écosystème de plus en plus complexe, inconnu au début de la conception, implicant de plus en plus d'acteurs, imposant d'aller capter l'innovation diffuse externe aux entreprises. [**GE et le MIT mettent en oeuvre pour le DARPA** ](http://www.businesswire.com/news/home/20120405006106/en)une plate forme dématérialisée de crownsourcing permettant de révolutionner la conception et la production.
@@ -22,7 +23,7 @@ Non pas forcément au niveau de l'objet (même si Transit City propose de nombre
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b017ee5ef1a86970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017ee5ef1a86970d-pi.jpg)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017ee5ef1a86970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017ee5ef1a86970d-pi.jpg)
 
  
 
@@ -30,7 +31,7 @@ Non pas forcément au niveau de l'objet (même si Transit City propose de nombre
 
  La **[plate forme](http://www.darpa.mil/Our_Work/TTO/Programs/Adaptive_Vehicle_Make__(AVM).aspx)** intègre tous les outils de co-conception multiacteurs jusqu'à la production dans une iFab grâce à la mise à disposition de briques. 
 
- [![](/assets/images/old/6a0120a66d2ad4970b017ee5ef2426970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017ee5ef2426970d-pi.jpg)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017ee5ef2426970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017ee5ef2426970d-pi.jpg)
 
  
 
@@ -48,4 +49,4 @@ L'automobile, elle aussi, évolue dans un environnement de plus en plus étendu,
 
  
 
-Cette forme de conception ouverte pourrait, dès lors, permettre de concevoir les véhicules simultanément avec les services numériques qui les porteront, en mélant ainsi les logiciels et les matériaux à la source (voir **[l'article sur la montée en puissance des logiciels](/2012/11/le-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets.html)**), en réalisant des prototypes inédits (voir **[l'article sur les Fablabs](/2012/08/le-numerique-change-les-modes-de-production-des-objets-et-potentiellement-nos-relations-a-ces-objets.html)**) permettant de les plonger dans le vivant pour mieux intégrer ces boucles rétroactives. Ce processus devra également être imbriqué dans les territoires; à la fois pour designer les produits/services contextualisés, pour expérimenter et produire au plus près des usagers. Ne s'agit-il pas du processus permettant d'industrialiser [**la voie commune** ](/2012/10/la-voie-de-lequilibre-industries-citoyens-environnement-et-territoires.html)?
+Cette forme de conception ouverte pourrait, dès lors, permettre de concevoir les véhicules simultanément avec les services numériques qui les porteront, en mélant ainsi les logiciels et les matériaux à la source (voir **[l'article sur la montée en puissance des logiciels]({{ site.baseurl }}/2012/11/le-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets/)**), en réalisant des prototypes inédits (voir **[l'article sur les Fablabs]({{ site.baseurl }}/2012/08/le-numerique-change-les-modes-de-production-des-objets-et-potentiellement-nos-relations-a-ces-objets/)**) permettant de les plonger dans le vivant pour mieux intégrer ces boucles rétroactives. Ce processus devra également être imbriqué dans les territoires; à la fois pour designer les produits/services contextualisés, pour expérimenter et produire au plus près des usagers. Ne s'agit-il pas du processus permettant d'industrialiser [**la voie commune** ]({{ site.baseurl }}/2012/10/la-voie-de-lequilibre-industries-citoyens-environnement-et-territoires/)?

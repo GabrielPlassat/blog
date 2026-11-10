@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "ERANET + « Electromobilité », Créer des conditions pour développer l’Electromobilité en Europe à l’horizon 2025"
-date: 2010-06-24 11:12:07 +0100
-categories: []
+date: 2010-06-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/06/eranet-electromobilite-creer-des-conditions-pour-developper-lelectromobilite-en-europe-a-lhorizon-20.html"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/06/24/eranet-electromobilite-creer-des-conditions-pour-developper-lelectromobilite-en-europe-a-lhorizon-20/
 ---
 
 La prise de conscience croissante des enjeux du changement climatique, de l’ampleur du défi correspondant et de la nécessité de préparer l’après pétrole, conduit la plupart des pays développés à intensifier la recherche, l’expérimentation et le déploiement de systèmes de transport utilisant des véhicules plus économes en énergie et moins dépendants des carburants d’origine fossile. Dans cette perspective, l’énergie électrique constitue une solution de rupture potentielle, sous réserve que sa filière de production ne soit pas trop émettrice de CO2.

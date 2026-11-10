@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Pas de transports sans design (newsletter 2)"
-date: 2010-10-07 08:59:21 +0100
-categories: []
+date: 2010-10-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "07/10/2010 08:59"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/10/07/pas-de-transports-sans-design-newsletter-2/
 ---
 
-Déjà présenté **[ici](/2010/08/pas-de-transport-sans-design.html)**, le réseau ***[Pas de transports sans design !" ](http://www.pasdetransportsansdesign.fr/)***porte sur la poursuite des initiatives entreprises depuis 2003, sur les liens entre le monde du design, et de la recherche sur les transports.
+Déjà présenté **[ici]({{ site.baseurl }}/2010/08/pas-de-transport-sans-design/)**, le réseau ***[Pas de transports sans design !" ](http://www.pasdetransportsansdesign.fr/)***porte sur la poursuite des initiatives entreprises depuis 2003, sur les liens entre le monde du design, et de la recherche sur les transports.
 
  
 
@@ -17,8 +22,4 @@ Cette initiative a pour objectifs fondamentaux d’augmenter le recours au desig
 
 La dernière newsletter :
 
-<<<<<<< HEAD
  [Newsletter pdtsd-1010]() View more [documents]() from [transportsdufutur](). "2010-10-07 08:59:21https://transportsdufutur.ademe.fr/2010/10/pas-de-transports-sans-design-newsletter-2.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpas-de-transports-sans-design-newsletter-22015-07-21 16:37:37
-=======
- [Newsletter pdtsd-1010]() View more [documents]() from [transportsdufutur](). "2010-10-07 08:59:21/2010/10/07/pas-de-transports-sans-design-newsletter-2/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpas-de-transports-sans-design-newsletter-22015-07-21 16:37:37
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

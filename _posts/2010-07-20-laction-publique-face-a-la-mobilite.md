@@ -1,17 +1,22 @@
 ---
 layout: post
 title: "L’action publique face à la mobilité"
-date: 2010-07-20 16:39:51 +0100
-categories: []
+date: 2010-07-20
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/laction-publique-face-a-la-mobilite.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/07/20/laction-publique-face-a-la-mobilite/
 ---
 
 **[L’action publique face à la mobilité](http://www.amazon.fr/Laction-publique-mobilite-Hanja-Maksim/dp/2296115349)**, Hanja Maksim (Auteur), Stéphanie Vincent (Auteur), Caroline Gallez (Auteur), Vincent Kaufmann (Auteur), Collectif (Auteur)
 
  
 
- [](/assets/images/old/6a0120a66d2ad4970b0133f26b1667970b-pi.jpg) 
- [![](/assets/images/old/6a0120a66d2ad4970b013485905dc8970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b013485905dc8970c-pi.jpg) 
+ []({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f26b1667970b-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013485905dc8970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013485905dc8970c-pi.jpg) 
  *Présentation de l'éditeur :*
 
  

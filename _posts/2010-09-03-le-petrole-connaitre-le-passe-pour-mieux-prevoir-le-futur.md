@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le pétrole, connaître le passé pour mieux prévoir le futur"
-date: 2010-09-03 08:45:21 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'pétrole']
-=======
-tags: ["Energie", "p\u00e9trole"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/le-petrole-connaitre-le-passe-pour-mieux-prevoir-le-futur.html"
+tags: ["Energie", "pétrole"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/09/03/le-petrole-connaitre-le-passe-pour-mieux-prevoir-le-futur/
 ---
 
 Arte vient de diffuser une émission consacrée au pétrole en deux épisodes.

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "IBM aide les habitants de Stockholm à prévoir leurs meilleures options de déplacement"
-date: 2010-07-02 16:23:51 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'connectivité', 'données réelles', 'Infrastructure', 'internet', 'internet des objets', 'multimodes']
-=======
-tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "internet des objets", "multimodes"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-07-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement.html"
+tags: ["autorité des transports", "cité", "citoyen", "collectivité", "connectivité", "données réelles", "Infrastructure", "internet", "internet des objets", "multimodes"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/07/02/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement/
 ---
 
 IBM annonce aujourd'hui sa collaboration avec le [KTH Royal Institute of Technology](http://www.kth.se/?l=en_UK) en Suède pour permettre aux habitants et aux autorités de la ville Stockholm de gérer et d’utiliser les transports de façon plus intelligente.
@@ -116,4 +117,4 @@ Cette annonce fait suite à l’engagement d’IBM dans le domaine des *analytic
 
  
 
-IBM fournit ainsi le moyen, les outils pour apprendre nos mobilités en temps réel, les paramètres influents comme la météo, les temporalités, les incidents ... En connaissant l'historique des mobilités, nous serons capable de prévoir, de mieux utiliser les modes actuels. Voir également les deux métanotes ([le marché](/2010/03/metanote-tdf-2-le-marche-des-mobilites-20.html), [la surveillance](/2010/03/apres-la-surveillance-la-sousveillance.html))
+IBM fournit ainsi le moyen, les outils pour apprendre nos mobilités en temps réel, les paramètres influents comme la météo, les temporalités, les incidents ... En connaissant l'historique des mobilités, nous serons capable de prévoir, de mieux utiliser les modes actuels. Voir également les deux métanotes ([le marché]({{ site.baseurl }}/2010/03/metanote-tdf-2-le-marche-des-mobilites-20/), [la surveillance]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/))

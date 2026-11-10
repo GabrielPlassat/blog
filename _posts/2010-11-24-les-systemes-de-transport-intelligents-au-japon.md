@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Les systèmes de Transport Intelligents au Japon"
-date: 2010-11-24 17:00:19 +0100
-categories: []
+date: 2010-11-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/les-systemes-de-transport-intelligents-au-japon.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/11/24/les-systemes-de-transport-intelligents-au-japon/
 ---
 
 **[Ce document ](http://www.bulletins-electroniques.com/rapports/smm10_046.htm)**présente le développement des systèmes de transport intelligents routiers (STI) au Japon. Ce pays, qui s'appuie depuis de nombreuses années sur les technologies de pointe, a rapidement rattrapé son retard dans le domaine de l'automobile. Aujourd'hui considéré comme faisant partie des piliers du secteur, il contribue fortement aux avancées de celui-ci. Le gouvernement japonais participe activement à l'effort d'investissement et incite les industries à mettre au point de nouveaux transports dits intelligents. 

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Bientôt un second AMI sur la mobilité et les chaînes logistiques"
-date: 2011-12-12 10:17:33 +0100
-categories: []
+date: 2011-12-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/12/bientot-un-second-ami-sur-la-mobilite-et-les-chaines-logistiques.html"
 tags: []
+theme: "Communs, écosystèmes & open source"
+redirect_from:
+  - /2011/12/12/bientot-un-second-ami-sur-la-mobilite-et-les-chaines-logistiques/
 ---
 
 Dans le cadre du programme Véhicule du Futur", suivant le [**premier Appel à Manifestation d'Intérêt (AMI) portant sur les mobilités quotidiennes et l'acheminement final des marchandises**](), un second AMI pourrait être lancé dans les jours à venir. Il visera les mobilités occasionnelles des voyageurs (tourisme, déplacement professionnel, loisirs) et les chaînes logistiques intégrées. Les champs seront précisés en détail dans les textes, mais les objectifs sont similaires au premier AMI:

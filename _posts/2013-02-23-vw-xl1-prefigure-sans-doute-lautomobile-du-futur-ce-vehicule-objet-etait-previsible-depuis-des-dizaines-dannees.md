@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "VW XL1 n'est pas une innovation. Il manque la plateforme (numérique) qui va avec ..."
-date: 2013-02-23 18:11:46 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['application', 'citoyen', 'covoiturage', 'données réelles', 'Efficacité énergétique', 'externalité', 'gratuit', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'marketing individualisé', 'monnaie complémentaire', 'multimodes', 'partage de données', 'pensée complexe', 'Service de mobilité', 'UX', 'véhicule mono-usage', 'virtuel']
-=======
-tags: ["application", "citoyen", "covoiturage", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "gratuit", "holoptisme", "innovation", "intelligence collective", "internet", "marketing individualis\u00e9", "monnaie compl\u00e9mentaire", "multimodes", "partage de donn\u00e9es", "pens\u00e9e complexe", "Service de mobilit\u00e9", "UX", "v\u00e9hicule mono-usage", "virtuel"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-02-23
+source: tdf
+source_name: "Transports du Futur"
+original_url: " text-align: justify"
+tags: ["application", "citoyen", "covoiturage", "données réelles", "Efficacité énergétique", "externalité", "gratuit", "holoptisme", "innovation", "intelligence collective", "internet", "marketing individualisé", "monnaie complémentaire", "multimodes", "partage de données", "pensée complexe", "Service de mobilité", "UX", "véhicule mono-usage", "virtuel"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2013/02/23/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees/
 ---
 
 VW [**XL1**](http://www.treehugger.com/slideshows/cars/261-mpg-volkswagen-xl1-diesel-plug-hybrid-be-produced-limited-quantities/#slide-top) préfigure sans doute l'automobile du futur. Ce « véhicule objet » était prévisible depuis des dizaines d'années. Il n'est finalement qu'un assemblage de techniques connues. Ce n'est donc pas une innovation. Par ailleurs, VW n'envisage pas d'autres usages de ce véhicule performant. Mal utilisé, il ne préfigure pas les mobilités de demain.
@@ -18,7 +19,7 @@ VW [**XL1**](http://www.treehugger.com/slideshows/cars/261-mpg-volkswagen-xl1-di
 
  
 
-D'autres comme Akka Technologies proposent avec [**Link and Go**](http://bit.ly/UQqSlB), une première version d'automobile servicielle. Pourtant ce « véhicule serviciel » n'est pas non plus une innovation. Il n'est pas branché sur une plateforme. Ce sera sans doute simplement un composant du [**futur de l'automobile**](/2012/07/lavenir-de-lautomobile.html).
+D'autres comme Akka Technologies proposent avec [**Link and Go**](http://bit.ly/UQqSlB), une première version d'automobile servicielle. Pourtant ce « véhicule serviciel » n'est pas non plus une innovation. Il n'est pas branché sur une plateforme. Ce sera sans doute simplement un composant du [**futur de l'automobile**]({{ site.baseurl }}/2012/07/lavenir-de-lautomobile/).
 
  
 
@@ -26,17 +27,17 @@ En même temps, Amazon lance Amazon Coin. Objectif : Engager encore plus les d�
 
  
 
-Amazon, nouveau « barbare » de ce nouvel âge, bouleverse tous les codes, et devient sans aucun magasin physique (pour le moment) la marque préférée des consommateurs américains pour ses services. Et si Amazon devenait fournisseur d'énergies … [**Amazon Energy Services**](/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service.html).
+Amazon, nouveau « barbare » de ce nouvel âge, bouleverse tous les codes, et devient sans aucun magasin physique (pour le moment) la marque préférée des consommateurs américains pour ses services. Et si Amazon devenait fournisseur d'énergies … [**Amazon Energy Services**]({{ site.baseurl }}/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service/).
 
  
 
-De tout cela, les entreprises industrielles historiques pourraient s'inspirer : devenir elles-aussi de véritables [**plateformes**](/2011/11/networked-multimodal-cities-for-2050-google-apple-or-dell-business-models-.html), aspirant les innovations externes, proposant les outils développés en internes à d'autres entreprises jusqu'à leurs concurrents, permettant d'utiliser les applications (services de mobilité) simplement et finalement séduisant les créatifs pour les intégrer au cœur du dispositif. Mais pour le moment, même si les constructeurs partagent entre eux des « plateformes véhicules » aucune véritable innovation n'a été mise en œuvre, aucune action pour co-concevoir à l'âge de la multitude des plateformes de « véhicules objets » puis des plateformes de « véhicules serviciels ». 
+De tout cela, les entreprises industrielles historiques pourraient s'inspirer : devenir elles-aussi de véritables [**plateformes**]({{ site.baseurl }}/2011/11/networked-multimodal-cities-for-2050-google-apple-or-dell-business-models/), aspirant les innovations externes, proposant les outils développés en internes à d'autres entreprises jusqu'à leurs concurrents, permettant d'utiliser les applications (services de mobilité) simplement et finalement séduisant les créatifs pour les intégrer au cœur du dispositif. Mais pour le moment, même si les constructeurs partagent entre eux des « plateformes véhicules » aucune véritable innovation n'a été mise en œuvre, aucune action pour co-concevoir à l'âge de la multitude des plateformes de « véhicules objets » puis des plateformes de « véhicules serviciels ». 
 
  
  
 - 
 
-Pas de dispositif de séduction des créatifs, comme [**GoogleGlass**](http://t.co/QWzAPIkE), quelques explorations comme [**Fiat au Brésil**](/2011/07/fiat-ouvre-la-conception-de-la-mio-aux-utilisateurs-au-bresil.html) ...
+Pas de dispositif de séduction des créatifs, comme [**GoogleGlass**](http://t.co/QWzAPIkE), quelques explorations comme [**Fiat au Brésil**]({{ site.baseurl }}/2011/07/fiat-ouvre-la-conception-de-la-mio-aux-utilisateurs-au-bresil/) ...
 
  
 - 
@@ -72,7 +73,7 @@ La plateforme sera enrichie en permanence, par des idées inaccessibles aux cons
 
  
 
-Aujourd'hui, les constructeurs automobiles restent de développeurs d'applications. Même quand ils s'unissent à l'échelle mondiale, ils ne deviennent pas des plateformes mettant à la disposition des développeurs externes leurs ressources. Reprenant [**l'âge de la multitude**](/2013/02/les-transports-a-lage-de-la-multitude.html) : « Dans cette économie de la contribution où une part croissante de la valeur émane de l'activité spontanée d'utilisateurs non rémunérés, la privatisation de cette valeur par une entreprise peut être perçue comme une manœuvre grossière et discréditer l'entreprise aux yeux du marché. Pour une telle entreprise, devenir une plateforme est une manière de restituer cette valeur au marché, d'en faire profiter de nombreuses autres entreprises qui, faisant levier sur cette valeur créée par une multitude d'utilisateurs, leur rendront à leur tour des services au travers de maintes applications ». [De nombreuses citations de ce livre sont disponible [**ici**](https://kindle.amazon.com/profile/PLASSAT-Gabriel/3472684)]. Cette promesse est le socle de cette nouvelle industrie de la donnée.
+Aujourd'hui, les constructeurs automobiles restent de développeurs d'applications. Même quand ils s'unissent à l'échelle mondiale, ils ne deviennent pas des plateformes mettant à la disposition des développeurs externes leurs ressources. Reprenant [**l'âge de la multitude**]({{ site.baseurl }}/2013/02/les-transports-a-lage-de-la-multitude/) : « Dans cette économie de la contribution où une part croissante de la valeur émane de l'activité spontanée d'utilisateurs non rémunérés, la privatisation de cette valeur par une entreprise peut être perçue comme une manœuvre grossière et discréditer l'entreprise aux yeux du marché. Pour une telle entreprise, devenir une plateforme est une manière de restituer cette valeur au marché, d'en faire profiter de nombreuses autres entreprises qui, faisant levier sur cette valeur créée par une multitude d'utilisateurs, leur rendront à leur tour des services au travers de maintes applications ». [De nombreuses citations de ce livre sont disponible [**ici**](https://kindle.amazon.com/profile/PLASSAT-Gabriel/3472684)]. Cette promesse est le socle de cette nouvelle industrie de la donnée.
 
  
 
@@ -97,7 +98,7 @@ Dans l'âge de la multitude : « Dans ce monde-là, la seule stratégie qui vai
 
  
 
-Un précédent article décrivait[** les contours d'un équipage formé pour explorer**](/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires.html) ces nouveaux modes de création, pour mieux se préparer au changement. Ceci n'est pas une option tant [**le gouffre entre les industries automobiles et numériques s’agrandit**](/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.html). La plateforme sera probablement mise en œuvre par une start-up issu du numérique, se basant sur une première application (service de mobilité) puis agrégeant déjà plusieurs services de mobilité. Elle utilisera des développements agiles basés sur des individus et leurs interactions (et non sur des procédures), des logiciels opérationnels, des modes collaboratifs avec les clients, et l'itération continue. En construisant la plateforme des mobilités, elle se placera « au-dessus » des « véhicules objets » pour proposer des suites servicielles conçues au plus près des clients. Cette plateforme aspirera toutes les innovations : d'abord celles liées aux services de mobilité, à toutes les formes d'exploitations de « véhicules serviciels », puis celles liées aux « véhicules objets » pour mieux les intégrer dans des services. [**Google Mobility Service** ](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html)pourrait également être cette plateforme.
+Un précédent article décrivait[** les contours d'un équipage formé pour explorer**]({{ site.baseurl }}/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires/) ces nouveaux modes de création, pour mieux se préparer au changement. Ceci n'est pas une option tant [**le gouffre entre les industries automobiles et numériques s’agrandit**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/). La plateforme sera probablement mise en œuvre par une start-up issu du numérique, se basant sur une première application (service de mobilité) puis agrégeant déjà plusieurs services de mobilité. Elle utilisera des développements agiles basés sur des individus et leurs interactions (et non sur des procédures), des logiciels opérationnels, des modes collaboratifs avec les clients, et l'itération continue. En construisant la plateforme des mobilités, elle se placera « au-dessus » des « véhicules objets » pour proposer des suites servicielles conçues au plus près des clients. Cette plateforme aspirera toutes les innovations : d'abord celles liées aux services de mobilité, à toutes les formes d'exploitations de « véhicules serviciels », puis celles liées aux « véhicules objets » pour mieux les intégrer dans des services. [**Google Mobility Service** ]({{ site.baseurl }}/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre/)pourrait également être cette plateforme.
 
  
 
@@ -113,7 +114,7 @@ Nombreux sont ceux qui ont identifiés le besoin de récompenser le travail des 
 
  
 
-Revenons alors à la monnaie Amazon Coin. Ceci peut sembler étrange, inutile ou encore impossible pour ceux qui n'ont pas pris le recul suffisant, analyser et compris le rôle d'une monnaie. « Encourager les développeurs à réaliser des applications exclusives pour sa propre tablette. Car Amazon prévoit d'offrir des dizaines de millions de dollars de [**monnaie virtuelle**](/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples.html) à ses clients ». D'après [**Slate**](http://www.slate.fr/story/68229/amazon-coin-monnaie-virtuelle-idee-geniale), « en battant monnaie et en confiant celle-ci aux propriétaires de Kindle Fire, Amazon va faire augmenter la demande pour le contenu Kindle Fire. Surtout, dans la mesure où les développeurs pour Kindle Fire *anticiperont* une demande supérieure, ils seront incités à créer des applications. Monnaie virtuelle qu’ils pourront convertir en application une fois que le service sera mis en place ». 
+Revenons alors à la monnaie Amazon Coin. Ceci peut sembler étrange, inutile ou encore impossible pour ceux qui n'ont pas pris le recul suffisant, analyser et compris le rôle d'une monnaie. « Encourager les développeurs à réaliser des applications exclusives pour sa propre tablette. Car Amazon prévoit d'offrir des dizaines de millions de dollars de [**monnaie virtuelle**]({{ site.baseurl }}/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples/) à ses clients ». D'après [**Slate**](http://www.slate.fr/story/68229/amazon-coin-monnaie-virtuelle-idee-geniale), « en battant monnaie et en confiant celle-ci aux propriétaires de Kindle Fire, Amazon va faire augmenter la demande pour le contenu Kindle Fire. Surtout, dans la mesure où les développeurs pour Kindle Fire *anticiperont* une demande supérieure, ils seront incités à créer des applications. Monnaie virtuelle qu’ils pourront convertir en application une fois que le service sera mis en place ». 
 
  
 
@@ -131,11 +132,7 @@ Revenons alors à la monnaie Amazon Coin. Ceci peut sembler étrange, inutile ou
 
 **Il est encore temps de créer celle dédiée aux mobilités. ** 
 
-<<<<<<< HEAD
 "2013-02-23 18:11:46https://transportsdufutur.ademe.fr/2013/02/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees.htmlapplication|citoyen|covoiturage|données réelles|Efficacité énergétique|externalité|gratuit|holoptisme|innovation|intelligence collective|internet|marketing individualisé|monnaie complémentaire|multimodes|partage de données|pensée complexe|Service de mobilité|UX|véhicule mono-usage|virtuelpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees2015-07-21 16:35:44>**Il existe très peu de plateformes mondiales. ** 
-=======
-"2013-02-23 18:11:46/2013/02/23/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees/application|citoyen|covoiturage|données réelles|Efficacité énergétique|externalité|gratuit|holoptisme|innovation|intelligence collective|internet|marketing individualisé|monnaie complémentaire|multimodes|partage de données|pensée complexe|Service de mobilité|UX|véhicule mono-usage|virtuelpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees2015-07-21 16:35:44>**Il existe très peu de plateformes mondiales. ** 
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

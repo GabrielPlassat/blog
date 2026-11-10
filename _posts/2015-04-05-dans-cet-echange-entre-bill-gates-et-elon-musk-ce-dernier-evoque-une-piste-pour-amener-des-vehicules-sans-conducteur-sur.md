@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Elon Musk veut accélérer le temps pour ses cybercars"
-date: 2015-04-05 18:50:25 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Acteur numérique des Mobilités et des Logistiques', 'art de la guerre', 'citoyen', 'cybercar', 'cygne noir', 'donnée data', 'données réelles', 'E.Musk', 'google', 'innovation', 'internet des objets', 'partage de données', 'Pay as You Move', 'Service de mobilité', 'véhicule propre']
-=======
-tags: ["Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "art de la guerre", "citoyen", "cybercar", "cygne noir", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "E.Musk", "google", "innovation", "internet des objets", "partage de donn\u00e9es", "Pay as You Move", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2015-04-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: ">Dans un échange entre Bill Gates et Elon Musk (vidéo ci dessous), ce dernier évoque une piste pour amener des véhicules sans conducteur sur les routes (allez à 48min56s). Les verrous ne sont pas techniques, et 5 ans séparent Tesla d'une version techniquement validée. Par contre, les autorisations réglementaires vont nécessiter plus de temps et Elon Musk propose dès maintenant d'équiper les voitures qui circulent d'intelligence artificielle.</p> <p style=\"\"text-align: justify"
+tags: ["Acteur numérique des Mobilités et des Logistiques", "art de la guerre", "citoyen", "cybercar", "cygne noir", "donnée data", "données réelles", "E.Musk", "google", "innovation", "internet des objets", "partage de données", "Pay as You Move", "Service de mobilité", "véhicule propre"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2015/04/05/dans-cet-echange-entre-bill-gates-et-elon-musk-ce-dernier-evoque-une-piste-pour-amener-des-vehicules-sans-conducteur-sur/
 ---
 
-La voiture autonome, la Chimère (lire [**la MétaNote N°20**](/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere.html)), incarne la finalité de la transition numérique dans le domaine automobile. En supprimant le lien entre l'homme et la machine, la chimère n'est plus une voiture, sauf pour quelques constructeurs Premium, mais à la fois, un taxi, un bus, une voiture partagée. Le mot voiture" devant autonome [**verrouille nos imaginaires**](). Pour les acteurs de la filière, la chimère ne sera pas là avant plusieurs dizaines d'années et de nombreux verrous réglementaires existent (lire [**cet article**]()). Nous en sommes à la phase 2 sur 5 [**des phases du déni**]() récemment décrits par Nicolas Colin :
+La voiture autonome, la Chimère (lire [**la MétaNote N°20**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/)), incarne la finalité de la transition numérique dans le domaine automobile. En supprimant le lien entre l'homme et la machine, la chimère n'est plus une voiture, sauf pour quelques constructeurs Premium, mais à la fois, un taxi, un bus, une voiture partagée. Le mot voiture" devant autonome [**verrouille nos imaginaires**](). Pour les acteurs de la filière, la chimère ne sera pas là avant plusieurs dizaines d'années et de nombreux verrous réglementaires existent (lire [**cet article**]()). Nous en sommes à la phase 2 sur 5 [**des phases du déni**]() récemment décrits par Nicolas Colin :
 
  
 

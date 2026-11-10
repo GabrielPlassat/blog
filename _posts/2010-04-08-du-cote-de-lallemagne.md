@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Du coté de l'Allemagne"
-date: 2010-04-08 11:57:56 +0100
-categories: []
+date: 2010-04-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/du-cote-de-lallemagne.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/04/08/du-cote-de-lallemagne/
 ---
 
 Quelques éléments présentant le programme (2008) Allemand en matière de recherche dans les transports et la mobilité pour les personnes et les marchandises, ainsi qu'un résumé de la collaboration Franco Allemande en la matière - Deufrako. L'Allemagne travaille également l'approche systémique des mobilités porte à porte.

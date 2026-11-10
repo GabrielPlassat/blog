@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Suppression des phases de ralenti - par une approche systémique"
-date: 2010-12-15 09:44:06 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['camion', 'Efficacité énergétique', 'emission', 'Energie', 'EPA', 'Infrastructure', 'innovation', 'internet', 'marchandises']
-=======
-tags: ["camion", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "Energie", "EPA", "Infrastructure", "innovation", "internet", "marchandises"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-12-15
+source: tdf
+source_name: "Transports du Futur"
+original_url: "margin-right: auto\"\" title=\"\"IMG_0062\"\" /></a> <br /><a href=\"\"/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b0147e0b7f4ac970b-800wi.jpg\"\" rel=\"\"lightbox\"\"><img alt=\"\"IMG_0064\"\" class=\"\"asset  asset-image at-xid-6a0120a66d2ad4970b0147e0b7f4ac970b\"\" src=\"\"/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b0147e0b7f4ac970b-500wi.jpg\"\" style=\"\"margin-left: auto"
+tags: ["camion", "Efficacité énergétique", "emission", "Energie", "EPA", "Infrastructure", "innovation", "internet", "marchandises"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/12/15/suppression-des-phases-de-ralenti-par-une-approche-systemique/
 ---
 
-Jusqu'à présent les solutions aux problèmes d'émissions polluantes et de GES, ou plutôt les innovations, ont été trouvées majoritairement du coté des véhicules, et essentiellement sur le groupe moto-propulseur composé du moteur - boite de vitesse - embrayage. Les voies principales ont été d'améliorer le rendement du moteur sur toute la plage de fonctionnement (régime/charge en travaillant chambre de combustion, suralimentation, admission/échappement, commande de soupapes), de réduire l'utilisation des points de fonctionnement les plus mauvais (dont le ralenti, en travaillant sur des systèmes d'arrêt/démarrage, sur la coupure du moteur) et d'utiliser plus souvent les points de fonctionnement les plus performants (en travaillant également la transmission, la suralimentation, admission/échappement). Ces actions nécessaires, mais pas suffisantes s'appliquent pour tous les véhicules lourds et légers, du camion au 2 roues. La cas du camion est intéressant car il préfigure généralement l'avenir de l'automobile (voir également **[ici](/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile.html)**) ... 
+Jusqu'à présent les solutions aux problèmes d'émissions polluantes et de GES, ou plutôt les innovations, ont été trouvées majoritairement du coté des véhicules, et essentiellement sur le groupe moto-propulseur composé du moteur - boite de vitesse - embrayage. Les voies principales ont été d'améliorer le rendement du moteur sur toute la plage de fonctionnement (régime/charge en travaillant chambre de combustion, suralimentation, admission/échappement, commande de soupapes), de réduire l'utilisation des points de fonctionnement les plus mauvais (dont le ralenti, en travaillant sur des systèmes d'arrêt/démarrage, sur la coupure du moteur) et d'utiliser plus souvent les points de fonctionnement les plus performants (en travaillant également la transmission, la suralimentation, admission/échappement). Ces actions nécessaires, mais pas suffisantes s'appliquent pour tous les véhicules lourds et légers, du camion au 2 roues. La cas du camion est intéressant car il préfigure généralement l'avenir de l'automobile (voir également **[ici]({{ site.baseurl }}/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile/)**) ... 
 
  
 
@@ -47,11 +48,7 @@ Les progrès à venir vont nécessiter des alliances pour élargir les limites d
 
  
 
-<<<<<<< HEAD
 "2010-12-15 09:44:06https://transportsdufutur.ademe.fr/2010/12/suppression-des-phases-de-ralenti-par-une-approche-systemique.htmlcamion|Efficacité énergétique|emission|Energie|EPA|Infrastructure|innovation|internet|marchandisespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsuppression-des-phases-de-ralenti-par-une-approche-systemique2015-07-21 16:37:31margin-right: auto"" title=""IMG_0062"" /> 
-=======
-"2010-12-15 09:44:06/2010/12/15/suppression-des-phases-de-ralenti-par-une-approche-systemique/camion|Efficacité énergétique|emission|Energie|EPA|Infrastructure|innovation|internet|marchandisespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsuppression-des-phases-de-ralenti-par-une-approche-systemique2015-07-21 16:37:31margin-right: auto"" title=""IMG_0062"" /> 
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 [![]()]() 
  
 Les progrès à venir vont nécessiter des alliances pour élargir les limites du système considéré, proposer des solutions globales simplificatrices aux usagers (ici les chauffeurs). Quand l'entreprise de transport sera choisie sur la base des émissions de CO2 (par tonne, colis ou m3 transportés), quand le consommateur aura intégré dans ses critères de choix le contenu carbone (aidé par son assistant personnel d'achat, voir **[ici]()**), l'utilisation de ce type de technologies sera vraissemblablement intégré dans les contraintes logistiques.

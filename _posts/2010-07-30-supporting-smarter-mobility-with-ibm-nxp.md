@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Supporting smarter mobility with IBM, NXP"
-date: 2010-07-30 15:27:32 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'Infrastructure', 'internet', 'Pay as You Move', 'roadpricing', 'TIC']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "Pay as You Move", "roadpricing", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-07-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/supporting-smarter-mobility-with-ibm-nxp.html"
+tags: ["données réelles", "Infrastructure", "internet", "Pay as You Move", "roadpricing", "TIC"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/07/30/supporting-smarter-mobility-with-ibm-nxp/
 ---
 
 ## A technological and innovative solution for road charging, eCall, and other services
@@ -30,9 +31,9 @@ We expect that from the beginning of September on, 15 drivers from Leuven will p
 ## presentations
  
  
-- Smart Mobility in the City of Leuven, Presentation to Australia's National Transportation Council, July 7, 2010 ([pdf](/assets/images/2010/07/2010-07-07-ntc.pdf)) 
-- Smart Mobility in the City of Leuven, IBM Smarter Planet Week, 2 June 2010 ([pdf](/assets/images/2010/07/2010-06-02-ibm-innovation-week-tml.pdf)) 
-- Een variabele prijszetting voor weggebruik in Leuven, Presentatie aan de Stad Leuven, January 14, 2010 ([pdf](/assets/images/2010/07/2010-01-14-variabele-prijszetting.pdf)) 
+- Smart Mobility in the City of Leuven, Presentation to Australia's National Transportation Council, July 7, 2010 ([pdf]({{ site.baseurl }}/assets/images/2010/07/2010-07-07-ntc.pdf)) 
+- Smart Mobility in the City of Leuven, IBM Smarter Planet Week, 2 June 2010 ([pdf]({{ site.baseurl }}/assets/images/2010/07/2010-06-02-ibm-innovation-week-tml.pdf)) 
+- Een variabele prijszetting voor weggebruik in Leuven, Presentatie aan de Stad Leuven, January 14, 2010 ([pdf]({{ site.baseurl }}/assets/images/2010/07/2010-01-14-variabele-prijszetting.pdf)) 
  
 ## press articles
  

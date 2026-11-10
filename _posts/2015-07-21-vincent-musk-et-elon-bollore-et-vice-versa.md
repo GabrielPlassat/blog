@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Vincent Musk et Elon Bolloré, et vice versa"
-date: 2015-07-21 16:35:26 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['art de la guerre', 'autopartage', 'batiment', 'batterie', 'citoyen', 'E.Musk', 'économie fonctionnalité', 'innovation', 'pensée complexe', 'plate-forme', 'Service de mobilité']
-=======
-tags: ["art de la guerre", "autopartage", "batiment", "batterie", "citoyen", "E.Musk", "\u00e9conomie fonctionnalit\u00e9", "innovation", "pens\u00e9e complexe", "plate-forme", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2015-07-21
+source: tdf
+source_name: "Transports du Futur"
+original_url: "margin-right: auto\"\" title=\"\"Tesla-solarcity\"\" /></a>Musk et Bolloré concoivent, dans l'action et par itérations avec les marchés, leurs industries. D'autres comme <a href=\"\"http://www.hondasmarthome.com/post/81341627614/car-companies-take-expertise-in-battery-power\"\" target=\"\"_blank\"\"><strong>Honda</strong></a> abordent ce sujet sous l'angle de la recherche et de l'expérimentation. Or ces projets sont trop complexes, trop éte"
+tags: ["art de la guerre", "autopartage", "batiment", "batterie", "citoyen", "E.Musk", "économie fonctionnalité", "innovation", "pensée complexe", "plate-forme", "Service de mobilité"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2015/07/21/vincent-musk-et-elon-bollore-et-vice-versa/
 ---
 
 V.Bolloré et E.Musk, [**Bluecar**](http://www.bluecar.fr/) et [**Tesla Motor**](http://www.teslamotors.com/fr_FR/), [**Usines de Batterie LMP**](http://www.usinenouvelle.com/article/bollore-le-secret-est-dans-la-batterie.N205128) et [**GigaFactory**](http://www.santacruzsentinel.com/business/20141214/tesla-gigafactory-elon-musks-vision-may-be-game-changer-for-utilities), [**Bluezone**](http://www.lefigaro.fr/societes/2014/12/13/20005-20141213ARTFIG00007-bollore-commence-l-essaimage-des-bluezones-en-afrique.php) et **[SolarCity](http://www.solarcity.com/)** , [**Réseau Public**](http://www.actu-environnement.com/ae/news/bollore-candidat-operateur-national-borne-ve-23438.php4) et [**SuperCharger**](http://www.teslamotors.com/fr_BE/supercharger), le parallèle entre ces 2 entrepreneurs est évident.

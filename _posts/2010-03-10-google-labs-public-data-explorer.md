@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Google labs - public data explorer"
-date: 2010-03-10 16:03:45 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'google', 'internet', 'partage de données']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "google", "internet", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/google-labs-public-data-explorer.html"
+tags: ["données réelles", "google", "internet", "partage de données"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/03/10/google-labs-public-data-explorer/
 ---
 
 Un exemple, offert par Google labs, montre l'évolution des émissions de CO2, consommations d'énergies en fonction de l'évolution du PIB dans le monde (4 dimensions avec des données mondiales, le tout réalisé en quelques minutes). 

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Vigie Transports 2010, PREDIT"
-date: 2010-07-16 15:52:09 +0100
-categories: []
+date: 2010-07-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/vigie-transports-2010-predit.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/07/16/vigie-transports-2010-predit/
 ---
 
 Au programme :

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: "Effet de serre, obésité et sécurité"
-date: 2009-11-12 13:34:25 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'obésité', 'Santé', 'Véhicule']
-=======
-tags: ["Energie", "ob\u00e9sit\u00e9", "Sant\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-11-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/effet-de-serre-obesite-et-securite.html"
+tags: ["Energie", "obésité", "Santé", "Véhicule"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2009/11/12/effet-de-serre-obesite-et-securite/
 ---
 
-[](/assets/images/2009/11/effetdeserreobsitetscurit.jpg)Une étude anglaise démontre, chiffres à l'appuie, le lien entre la possession d'un, ou plusieurs, véhicule et l'obésité dans la société. En effet, depuis la seconde guerre mondiale, l'équipement continu en véhicule particulier a conduit à réduire fortement la part de la marche à pied : le carburant fossile se substituant au muscle. 
+[]({{ site.baseurl }}/assets/images/2009/11/effetdeserreobsitetscurit.jpg)Une étude anglaise démontre, chiffres à l'appuie, le lien entre la possession d'un, ou plusieurs, véhicule et l'obésité dans la société. En effet, depuis la seconde guerre mondiale, l'équipement continu en véhicule particulier a conduit à réduire fortement la part de la marche à pied : le carburant fossile se substituant au muscle. 
 
  
 
  
 
-[![](http://www.consciencenergetique.com/images/2007/10/01/marche_3.jpg)](/assets/images/2009/11/effetdeserreobsitetscurit-1.jpg) Le rapport quantifie donc simultanément l'impact en terme de réduction des émissions de GES, et des cas de surpoids, des déplacements à pied au lieu de déplacements motorisés. 
+[![](http://www.consciencenergetique.com/images/2007/10/01/marche_3.jpg)]({{ site.baseurl }}/assets/images/2009/11/effetdeserreobsitetscurit-1.jpg) Le rapport quantifie donc simultanément l'impact en terme de réduction des émissions de GES, et des cas de surpoids, des déplacements à pied au lieu de déplacements motorisés. 
 
  
 
@@ -28,15 +29,15 @@ Si la marche retrouvait la part modale de 1975, cela réduirait les émissions d
 
  
 
-Si une personne marche juste une heure par semaine (différence constatée entre un conducteur et un non-conducteur), ceci permet de contrer la tendance actuelle de prise de poids. Ce rapport est disponible à l'adresse : [/assets/images/2009/11/IEEP-Unfitforpurpose_transportclimatechangeandobesity.pdf](/wp-content/uploads/sites/6/2009/11/IEEP-Unfitforpurpose_transportclimatechangeandobesity.pdf)
+Si une personne marche juste une heure par semaine (différence constatée entre un conducteur et un non-conducteur), ceci permet de contrer la tendance actuelle de prise de poids. Ce rapport est disponible à l'adresse : [/assets/images/2009/11/IEEP-Unfitforpurpose_transportclimatechangeandobesity.pdf]({{ site.baseurl }}/assets/images/2009/11/IEEP-Unfitforpurpose_transportclimatechangeandobesity.pdf)
 
  
 
 Il est également indiqué que la principale raison pour ne pas utiliser sa voiture pour des déplacements courts n'est pas la prise de conscience de problèmes environnementaux (8% des sondés) mais la possibilité de faire de l'exercice (34%). 
 
-[](/assets/images/2009/11/effetdeserreobsitetscurit-2.jpg)[](/assets/images/2009/11/effetdeserreobsitetscurit-3.jpg) 
+[]({{ site.baseurl }}/assets/images/2009/11/effetdeserreobsitetscurit-2.jpg)[]({{ site.baseurl }}/assets/images/2009/11/effetdeserreobsitetscurit-3.jpg) 
 
-[![](http://www.consciencenergetique.com/images/2007/10/04/dessin_newsletter_5_taille_finale_6.jpg)](/assets/images/2009/11/effetdeserreobsitetscurit-4.jpg)  
+[![](http://www.consciencenergetique.com/images/2007/10/04/dessin_newsletter_5_taille_finale_6.jpg)]({{ site.baseurl }}/assets/images/2009/11/effetdeserreobsitetscurit-4.jpg)  
 
  
 

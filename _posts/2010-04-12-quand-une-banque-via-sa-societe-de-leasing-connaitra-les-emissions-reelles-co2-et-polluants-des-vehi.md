@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Quand une banque, via sa société de leasing, connaîtra les émissions réelles CO2 et polluants des véhicules"
-date: 2010-04-12 09:51:33 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['banque', 'connectivité', 'données réelles', "guide d'achat", 'internet', 'iphone', 'partage de données', 'Service de mobilité', 'véhicule propre']
-=======
-tags: ["banque", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "guide d'achat", "internet", "iphone", "partage de donn\u00e9es", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/quand-une-banque-via-sa-societe-de-leasing-connaitra-les-emissions-reelles-co2-et-polluants-des-vehi.html"
+tags: ["banque", "connectivité", "données réelles", "guide d'achat", "internet", "iphone", "partage de données", "Service de mobilité", "véhicule propre"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/04/12/quand-une-banque-via-sa-societe-de-leasing-connaitra-les-emissions-reelles-co2-et-polluants-des-vehi/
 ---
 
 **Elle n’achètera pas ses prochains véhicules de la même façon**.
@@ -18,7 +19,7 @@ tags: ["banque", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "guide d'acha
 
  
 
-[ARVAL ](/assets/images/2010/04/cp-arval-france-2009_2010.pdf)France (groupe BNP Paribas) a réussi à maintenir ses volumes d’activité avec un parc loué s’établissant, fin 2009, à 220 077 véhicules (contre 222 328 fin 2008) et un parc total géré à 225138 unités (contre 229 131 un an auparavant). Avec une part de marché établie à 19,2%, en termes de véhicules financés, Arval France a confirmé sa position de **leader sur le marché français de la location longue durée**.
+[ARVAL ]({{ site.baseurl }}/assets/images/2010/04/cp-arval-france-2009_2010.pdf)France (groupe BNP Paribas) a réussi à maintenir ses volumes d’activité avec un parc loué s’établissant, fin 2009, à 220 077 véhicules (contre 222 328 fin 2008) et un parc total géré à 225138 unités (contre 229 131 un an auparavant). Avec une part de marché établie à 19,2%, en termes de véhicules financés, Arval France a confirmé sa position de **leader sur le marché français de la location longue durée**.
 
  
 

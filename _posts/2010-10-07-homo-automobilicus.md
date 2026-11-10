@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Homo automobilicus"
-date: 2010-10-07 15:14:53 +0100
-categories: []
+date: 2010-10-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/homo-automobilicus.html"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/10/07/homo-automobilicus/
 ---
 
-Reprenant un article de l'usine nouvelle (voir **[ici](http://www.usinenouvelle.com/article/homo-automobilicus.N139281)**), qui complète bien le billet précédent sur les risques des mobilités 2.0 (voir **[ici](/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous.html)**). A retenir, à Shangaï, posséder une voiture coûte 4700 euros - hors prix de la voiture... Il faudra en avoir une pour le statut, mais se déplacer avec est une toute autre histoire.
+Reprenant un article de l'usine nouvelle (voir **[ici](http://www.usinenouvelle.com/article/homo-automobilicus.N139281)**), qui complète bien le billet précédent sur les risques des mobilités 2.0 (voir **[ici]({{ site.baseurl }}/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous/)**). A retenir, à Shangaï, posséder une voiture coûte 4700 euros - hors prix de la voiture... Il faudra en avoir une pour le statut, mais se déplacer avec est une toute autre histoire.
 
  
 

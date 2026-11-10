@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "La transparence logistique et l'assistant personnel de consommation"
-date: 2011-09-08 08:59:21 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Assistant Personnel de Consommation', 'internet', 'marchandises']
-=======
+date: 2011-09-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/09/la-transparence-logistique-et-lassistant-personnel-de-consommation.html"
 tags: ["Assistant Personnel de Consommation", "internet", "marchandises"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Données & services numériques"
+redirect_from:
+  - /2011/09/08/la-transparence-logistique-et-lassistant-personnel-de-consommation-2/
 ---
 
-DHL annonce dans son [**rapport **](/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c.html)sur les prochaines années de la logistique que la transparence va s'imposer à tous les acteurs, notamment sur le contenu carbone et polluants des produits. L'outil de [**Sourcemap.com**](http://www.sourcemap.com/) (voir également [**ici**](/2010/12/quand-la-chaine-logistique-devient-transparente.html)) semble parfaitement adapté :
+DHL annonce dans son [**rapport **]({{ site.baseurl }}/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/)sur les prochaines années de la logistique que la transparence va s'imposer à tous les acteurs, notamment sur le contenu carbone et polluants des produits. L'outil de [**Sourcemap.com**](http://www.sourcemap.com/) (voir également [**ici**]({{ site.baseurl }}/2010/12/quand-la-chaine-logistique-devient-transparente/)) semble parfaitement adapté :
 
  
 
@@ -24,4 +25,4 @@ Puis ces données seront agrégées et rendues accessibles au moment du choix du
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0154353f6479970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0154353f6479970c-800wi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0154353f6479970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0154353f6479970c-800wi.jpg)

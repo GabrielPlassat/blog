@@ -1,24 +1,24 @@
 ---
 layout: post
 title: "Comment explorer les frontières de l’innovation ?"
-date: 2015-07-21 16:35:30 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'confiance', 'cygne noir', 'donnée data', 'Fabrique des mobilités', 'google', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'multimodes', 'multitude', 'partage de données', 'Service de mobilité']
-=======
-tags: ["citoyen", "collectivit\u00e9", "confiance", "cygne noir", "donn\u00e9e data", "Fabrique des mobilit\u00e9s", "google", "holoptisme", "innovation", "intelligence collective", "internet", "multimodes", "multitude", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2015-07-21
+source: tdf
+source_name: "Transports du Futur"
+tags: ["citoyen", "collectivité", "confiance", "cygne noir", "donnée data", "Fabrique des mobilités", "google", "holoptisme", "innovation", "intelligence collective", "internet", "multimodes", "multitude", "partage de données", "Service de mobilité"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2015/07/21/comment-explorer-les-frontieres-de-linnovation/
 ---
 
-**Les 100 premières GoogleCars vont être produites. Ces objets roulants nous projettent une certaine image du futur. La science-fiction nous l’avait plusieurs fois décrit, Google le fait. Il nous reste peu de temps avant que [Google Mobility](/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html) ne domine.**
+**Les 100 premières GoogleCars vont être produites. Ces objets roulants nous projettent une certaine image du futur. La science-fiction nous l’avait plusieurs fois décrit, Google le fait. Il nous reste peu de temps avant que [Google Mobility]({{ site.baseurl }}/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre/) ne domine.**
 
  
 
-Ces « voitures » matérialisent physiquement la ***richesse* **de Google : la capacité à prendre des risques, à innover à la frontière, à exploiter ses cartes (lien vers [**le choc à venir entre les industries numériques et automobiles**](/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.html)) et algorithmes, à industrialiser une myriade de services potentiels et à influencer les décideurs pour rendre possible leur futur (lien vers [**le point de basculement**](/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc.html)). Les morceaux de tôles pliées et de plastique ne sont que l’incarnation de ces nouvelles formes d’innovations : centrées sur la multitude, riches en expérience, en phase avec les besoins de mobilité, adaptables, évolutives.
+Ces « voitures » matérialisent physiquement la ***richesse* **de Google : la capacité à prendre des risques, à innover à la frontière, à exploiter ses cartes (lien vers [**le choc à venir entre les industries numériques et automobiles**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/)) et algorithmes, à industrialiser une myriade de services potentiels et à influencer les décideurs pour rendre possible leur futur (lien vers [**le point de basculement**]({{ site.baseurl }}/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc/)). Les morceaux de tôles pliées et de plastique ne sont que l’incarnation de ces nouvelles formes d’innovations : centrées sur la multitude, riches en expérience, en phase avec les besoins de mobilité, adaptables, évolutives.
 
  
 
-La « chimère » du cybercar, décrite dans cette [**MétaNote N°20**](/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere.html), arrive, comme prévue. Les **G**oogle**A**pple**F**acebook**A**mazon ont appris pendant environ 15 ans comment construire de nouvelles relations avec les usagers, comment s’immiscer et bouleverser plusieurs filières dont les médias et le e-commerce ; ils arrivent maintenant dans le bâtiment, la santé et dans la filière historique de l’automobile. Non pas pour les concurrencer, mais pour établir une autre relation avec la multitude (lien vers [**les transports à l'âge de la multitude**](/2013/02/les-transports-a-lage-de-la-multitude.html)). Ils ont le temps, l’argent, de l’influence, des compétences et surtout un autre regard sur le monde. Ils créent notre nouvelle matrice ontophanique décrite dans la [**MétaNote N°17**](/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi.html). 
+La « chimère » du cybercar, décrite dans cette [**MétaNote N°20**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/), arrive, comme prévue. Les **G**oogle**A**pple**F**acebook**A**mazon ont appris pendant environ 15 ans comment construire de nouvelles relations avec les usagers, comment s’immiscer et bouleverser plusieurs filières dont les médias et le e-commerce ; ils arrivent maintenant dans le bâtiment, la santé et dans la filière historique de l’automobile. Non pas pour les concurrencer, mais pour établir une autre relation avec la multitude (lien vers [**les transports à l'âge de la multitude**]({{ site.baseurl }}/2013/02/les-transports-a-lage-de-la-multitude/)). Ils ont le temps, l’argent, de l’influence, des compétences et surtout un autre regard sur le monde. Ils créent notre nouvelle matrice ontophanique décrite dans la [**MétaNote N°17**]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/). 
 
  
 
@@ -26,7 +26,7 @@ La « chimère » du cybercar, décrite dans cette [**MétaNote N°20**](/201
 
  
 
-  [![](/assets/images/old/6a0120a66d2ad4970b01a511f1d148970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a511f1d148970c-pi.jpg)
+  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511f1d148970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511f1d148970c-pi.jpg)
 
  
 

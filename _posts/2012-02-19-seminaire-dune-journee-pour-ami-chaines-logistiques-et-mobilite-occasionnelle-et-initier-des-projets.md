@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Séminaire d’une journée pour AMI - Chaînes logistiques et Mobilité occasionnelle - et initier des projets innovants"
-date: 2012-02-19 20:20:53 +0100
-categories: []
+date: 2012-02-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/02/seminaire-dune-journee-pour-ami-chaines-logistiques-et-mobilite-occasionnelle-et-initier-des-projets.html"
 tags: []
+theme: "Communs, écosystèmes & open source"
+redirect_from:
+  - /2012/02/19/seminaire-dune-journee-pour-ami-chaines-logistiques-et-mobilite-occasionnelle-et-initier-des-projets/
 ---
 
 En complément des progrès technologiques sur les véhicules, nous devons maintenant optimiser les systèmes. L’ADEME, dans le cadre des Investissements d’Avenir, a ouvert un **appel à manifestations d’intérêt (AMI) **sur ce sujet** **dédié aux** *[chaînes logistiques et à la mobilité occasionnelle des personnes.](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=80842&p1=1)***
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-pi.jpg)**Nous souhaitons nous appuyer sur les synergies et les coopérations existantes au cœur de plusieurs pôles de compétitivités pour permettre aux entreprises impliquées de prendre une position de premier plan dans leur domaine et également pour maximiser les conditions de succès de cet AMI (clôture de l’appel le 22 Mai 2012). **
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-pi.jpg)**Nous souhaitons nous appuyer sur les synergies et les coopérations existantes au cœur de plusieurs pôles de compétitivités pour permettre aux entreprises impliquées de prendre une position de premier plan dans leur domaine et également pour maximiser les conditions de succès de cet AMI (clôture de l’appel le 22 Mai 2012). **
 
  
 

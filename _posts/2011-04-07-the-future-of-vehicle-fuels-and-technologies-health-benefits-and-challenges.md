@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "The future of Vehicle Fuels and Technologies : Health Benefits and Challenges"
-date: 2011-04-07 10:47:50 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'Europe', 'externalité', "qualité de l'air"]
-=======
-tags: ["donn\u00e9es r\u00e9elles", "Europe", "externalit\u00e9", "qualit\u00e9 de l'air"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-04-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/the-future-of-vehicle-fuels-and-technologies-health-benefits-and-challenges.html"
+tags: ["données réelles", "Europe", "externalité", "qualité de l'air"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/04/07/the-future-of-vehicle-fuels-and-technologies-health-benefits-and-challenges/
 ---
 
 Health Effects Institute (HEI) released a report—“[**The Future of Vehicle Fuels and Technologies: Anticipating Health Benefits and Challenges**](http://pubs.healtheffects.org/view.php?id=356)”—that identifies a number of potential unintended health consequences that could arise from new vehicle fuels and technologies and need investigation. Based on the findings of the report, HEI’s Research Committee has formulated an action plan to address the identified health issues.

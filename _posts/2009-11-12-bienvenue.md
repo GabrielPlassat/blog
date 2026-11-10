@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Bienvenue"
-date: 2009-11-12 10:33:52 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'Séminaire']
-=======
-tags: ["ADEME", "S\u00e9minaire"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-11-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/bienvenue.html"
+tags: ["ADEME", "Séminaire"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2009/11/12/bienvenue/
 ---
 
 **Lancement officiel de ce blog pour le séminaire du 3 décembre 2009 à Sophia Antipolis.**
@@ -22,7 +23,7 @@ Il visera la constitution d' une plate-forme d'échange collaboratif sur ce suje
 
  
 
-Ce passage de l'économie de l'objet à l'économie du service est essentiel pour améliorer fortement notre efficacité énergétique, et doit être perçu comme une chance pour le citoyen, l'entreprise, et l'environnement. Nous utiliserons, pendant le séminaire et après, une [plate forme d'échanges spécifique](http://transportsdufutur.ademe.fr) permettant de travailler en réseaux les innovations identifiées. 
+Ce passage de l'économie de l'objet à l'économie du service est essentiel pour améliorer fortement notre efficacité énergétique, et doit être perçu comme une chance pour le citoyen, l'entreprise, et l'environnement. Nous utiliserons, pendant le séminaire et après, une [plate forme d'échanges spécifique]({{ site.baseurl }}/) permettant de travailler en réseaux les innovations identifiées. 
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le rôle de l'automobile doit être réinventé (Etude Oliver Wyman) pour construire des services multimodaux (Etude Frost & Sullivan)"
-date: 2012-08-23 15:05:27 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autopartage', 'BAJAJ', 'collectivité', 'commuter', 'connectivité', 'Efficacité énergétique', 'Frost & Sullivan', 'innovation', 'internet', 'Oliver Wyman', 'Service de mobilité', 'véhicule propre']
-=======
-tags: ["assistant de mobilit\u00e9", "autopartage", "BAJAJ", "collectivit\u00e9", "commuter", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Frost & Sullivan", "innovation", "internet", "Oliver Wyman", "Service de mobilit\u00e9", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-08-23
+source: tdf
+source_name: "Transports du Futur"
+original_url: "><img rel=\"\"lightbox[]\"\" alt=\"\"Ow\"\" border=\"\"0\"\" class=\"\"asset  asset-image at-xid-6a0120a66d2ad4970b0177444bd172970d image-full\"\" src=\"\"/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b0177444bd172970d-800wi.jpg\"\" title=\"\"Ow\"\" /></a><br /><br /></p> <p>Un autre cabinet de conseil Frost & Sullivan confirme cette tendance avec son dernier rapport Mega Trend sur la Mobilité : intégration verticale pour construire des sservices de mobilité multimodaux, re-conception des véhicules pour mieux les intégrer dans ces services, déploiements dans toutes les configurations urbaines à travers le monde. Cette tendance là est bien mondiale, les principes et mécanismes sont transposables avec des spécificités technologiques des produits en fonction des pays et des contextes.</p> <p> </p> <iframe frameborder=\"\"0\"\" height=\"\"356\"\" marginheight=\"\"0\"\" marginwidth=\"\"0\"\" scrolling=\"\"no\"\" src=\"\"http://fr.slideshare.net/slideshow/embed_code/13835833?rel=0\"\" style=\"\"border: 1px solid #CCC"
+tags: ["assistant de mobilité", "autopartage", "BAJAJ", "collectivité", "commuter", "connectivité", "Efficacité énergétique", "Frost & Sullivan", "innovation", "internet", "Oliver Wyman", "Service de mobilité", "véhicule propre"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/08/23/le-role-de-lautomobile-doit-etre-reinvente-etude-oliver-wyman-pour-construire-des-services-multimoda/
 ---
 
 Pour les cabinets Oliver Wyman et Frost & Sullivan, l'automobile du futur se questionne essentiellement à travers le futur de l'automobile. Quelle sera la place de cet objet dans les chaînes de mobilité ? quelles évolutions en matière de design, de conception seront nécessaire pour mieux intégrer l'automobile ? Ce rapport rejoint donc parfaitement les propositions et pistes de réflexion de ce blog. 
@@ -44,11 +45,7 @@ Un autre cabinet de conseil Frost & Sullivan confirme cette tendance avec son de
 
  
 
-<<<<<<< HEAD
  ** [New Mega Trends and the Future of Mobility]() ** from **[Frost & Sullivan ]()** "2012-08-23 15:05:27https://transportsdufutur.ademe.fr/2012/08/le-role-de-lautomobile-doit-etre-reinvente-etude-oliver-wyman-pour-construire-des-services-multimoda.htmlassistant de mobilité|autopartage|BAJAJ|collectivité|commuter|connectivité|Efficacité énergétique|Frost & Sullivan|innovation|internet|Oliver Wyman|Service de mobilité|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-role-de-lautomobile-doit-etre-reinvente-etude-oliver-wyman-pour-construire-des-services-multimoda2015-07-21 16:36:29>![]()
-=======
- ** [New Mega Trends and the Future of Mobility]() ** from **[Frost & Sullivan ]()** "2012-08-23 15:05:27/2012/08/23/le-role-de-lautomobile-doit-etre-reinvente-etude-oliver-wyman-pour-construire-des-services-multimoda/assistant de mobilité|autopartage|BAJAJ|collectivité|commuter|connectivité|Efficacité énergétique|Frost & Sullivan|innovation|internet|Oliver Wyman|Service de mobilité|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-role-de-lautomobile-doit-etre-reinvente-etude-oliver-wyman-pour-construire-des-services-multimoda2015-07-21 16:36:29>![]()
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

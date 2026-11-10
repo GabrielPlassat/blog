@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "La Fabrique des Mobilités s'éveille"
-date: 2015-01-30 12:13:15 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'art de la guerre', 'Comment agir pour changer les pratiques ?', 'Que sait-on de nos mobilités ?', 'Territoire Collectivité Etat Europe']
-=======
-tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "art de la guerre", "Comment agir pour changer les pratiques ?", "Que sait-on de nos mobilit\u00e9s ?", "Territoire Collectivit\u00e9 Etat Europe"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2015-01-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2015/01/la-fabrique-des-mobilites-seveille.html"
+tags: ["Acteur historique des Mobilités et Logistiques", "Acteur numérique des Mobilités et des Logistiques", "art de la guerre", "Comment agir pour changer les pratiques ?", "Que sait-on de nos mobilités ?", "Territoire Collectivité Etat Europe"]
+theme: "Communs, écosystèmes & open source"
+redirect_from:
+  - /2015/01/30/la-fabrique-des-mobilites-seveille/
 ---
 
 Présentée au NUMA dans ces principes au NUMA le 22 Janvier, La Fabrique des Mobilités est un nouveau dispositif de soutien à l'innovation. Centré sur les entrepreneurs, notamment les start-ups, ce dispositif vise à compléter les solutions de financement, d'incubation et d'accélération existants. Il contient :
@@ -20,7 +21,7 @@ Présentée au NUMA dans ces principes au NUMA le 22 Janvier, La Fabrique des Mo
 - des **Communs **capitalisés à chaque projet, permettant d'augmenter l'attractivité de la Fabrique : données ouvertes, codes sources, retours d'expériences sur les échecs et les réussites, modules de formation. 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01b8d0cb819f970c-320wi.png)](/assets/images/old/6a0120a66d2ad4970b01b8d0cb819f970c-pi.png)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d0cb819f970c-320wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d0cb819f970c-pi.png)
 
  
 

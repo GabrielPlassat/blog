@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Entre des transports gratuits ou payants, de multiples solutions et un projet de société à construire"
-date: 2012-10-31 20:54:56 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'citoyen', 'collectivité', 'donnée data', 'Efficacité énergétique', 'emission', 'gouvernance', 'gratuit', 'monnaie complémentaire']
-=======
-tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9e data", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "gouvernance", "gratuit", "monnaie compl\u00e9mentaire"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-10-31
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/10/entre-des-transports-gratuits-ou-payants-de-multiples-solutions-et-un-projet-de-societe-a-construire.html"
+tags: ["autorité des transports", "citoyen", "collectivité", "donnée data", "Efficacité énergétique", "emission", "gouvernance", "gratuit", "monnaie complémentaire"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2012/10/31/entre-des-transports-gratuits-ou-payants-de-multiples-solutions-et-un-projet-de-societe-a-construire/
 ---
 
 *« Tout se paie » affirment en cœur les économistes libéraux sur le ton de l’évidence. L’enseignement universitaire véhicule cette vision qui exclut in fine tout désintéressement dans les rapports humains. Pourtant, le rôle central de l’argent dans nos sociétés relève en grande partie de l’idéologie, et pas seulement d’un débat réaliste sur l’efficacité de l’économie [source Le Monde Diplomatique, supplément Octobre 2012]*.
@@ -37,7 +38,7 @@ Dans ces exemples, l’expérience vécue d’utilisation des transports publics
 
  
 
-Prenons l’exemple des particules : l’usage des TC réduit la pollution, la CE a d’une part proposé des valeurs à la tonne de particules en milieu urbain (autour de 120 k€) et également soumis la France à des pénalités financières pour non-respect des valeurs limites. Plusieurs mesures seront engagées pour améliorer la qualité de l’air avec des performances coûts/bénéfices spécifiques. L’utilisation des TC a donc une valeur économique actuellement non monétarisée : améliorer la qualité de l’air. Rendre visible, comptable donc échangeable cet évitement deviendra possible et participera à renforcer l’expérience individuelle et collective.  Le schéma ci-dessous fourni par **[Stéphane Schultz](http://www.linkedin.com/pub/stephane-schultz/14/52a/899)** est particulièrement adapté à cette réflexion. [![](/assets/images/old/6a0120a66d2ad4970b017d3d26e609970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017d3d26e609970c-800wi.jpg)
+Prenons l’exemple des particules : l’usage des TC réduit la pollution, la CE a d’une part proposé des valeurs à la tonne de particules en milieu urbain (autour de 120 k€) et également soumis la France à des pénalités financières pour non-respect des valeurs limites. Plusieurs mesures seront engagées pour améliorer la qualité de l’air avec des performances coûts/bénéfices spécifiques. L’utilisation des TC a donc une valeur économique actuellement non monétarisée : améliorer la qualité de l’air. Rendre visible, comptable donc échangeable cet évitement deviendra possible et participera à renforcer l’expérience individuelle et collective.  Le schéma ci-dessous fourni par **[Stéphane Schultz](http://www.linkedin.com/pub/stephane-schultz/14/52a/899)** est particulièrement adapté à cette réflexion. [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017d3d26e609970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017d3d26e609970c-800wi.jpg)
 
  
 La Fing avec Jean-Michel CORNU dans son livre **[De l’innovation monétaire aux monnaies de l’innovation](http://www.amazon.fr/linnovation-monetaire-aux-monnaies/dp/2916571485/internetnet-21)**, a bien indiqué que les monnaies alternatives devenaient, par la « simplicité » d’usage
@@ -49,9 +50,5 @@ Le **[GART](http://www.gart.org/S-informer/Publications-du-GART/Avis-du-GART-sur
 
  
 
-<<<<<<< HEAD
 En résumé, l’ère de la transparence totale sur les coûts / bénéfices des transports publics (pour tout
-=======
-En résumé, l’ère de la transparence totale sur les coûts / bénéfices des transports publics (pour tout_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  les modes) arrive. Elle porte les germes d’une mutation des usages en améliorant fortement les expériences vécues par les usagers. Le paiement du titre de transport est, à ce titre, un point central à étudier pour qu’il soit cohérent avec le projet de société véhiculé par l’offre de transports publics. **L’utilisation d’autres vecteurs monétaires complémentaires peut alors se déployer pour rendre visible de nouvelles solidarités et la réduction d’externalités négatives.**

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Transports et Dette publique"
-date: 2012-05-07 09:38:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'collectivité', 'dette']
-=======
-tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "dette"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-05-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/05/transports-et-dette-publique.html"
+tags: ["cité", "citoyen", "collectivité", "dette"]
+theme: "Veille & documents"
+redirect_from:
+  - /2012/05/07/transports-et-dette-publique/
 ---
 
 Plusieurs experts nationaux viennent de publier une étude particulièrement intéressante; voir ci-dessous. Elle résume, condense et met en perspective plusieurs dépenses liées aux transports en matière d'investissement et de fonctionnement. Le résume est sans appel, au rythme actuel nos depenses de 40 milliards par an ne sont pas soutenables, et conduisent en 2030 a une dérive déficitaire supplémentaire de 130 milliards. Le groupe a proposé un scenario alternatif qui au contraire permet de réduire de 110 milliards nos déficits.
@@ -22,7 +23,7 @@ Une analyse approfondie reste à faire. Les montants indiqués sont à mettre en
 
  
 
-Ce document a le mérite de grouper plusieurs données difficiles d'accès et de les mettre en cohérence pour permettre une projection vers l'avenir. Mais cet avenir aux dépenses réduites reste à décrire plus precisement, à lui donner un visage [**souhaitable et crédible**](/2012/05/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient.html) pour que, naturellement, tous les acteurs s'y engagent.
+Ce document a le mérite de grouper plusieurs données difficiles d'accès et de les mettre en cohérence pour permettre une projection vers l'avenir. Mais cet avenir aux dépenses réduites reste à décrire plus precisement, à lui donner un visage [**souhaitable et crédible**]({{ site.baseurl }}/2012/05/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient/) pour que, naturellement, tous les acteurs s'y engagent.
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Créativité et innovations dans les territoires, plus dans les usages que dans les technologies"
-date: 2010-10-19 16:50:46 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'citoyen', 'collectivité', 'connectivité', 'internet', 'low cost', 'TIC']
-=======
-tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "connectivit\u00e9", "internet", "low cost", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-10-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies.html"
+tags: ["autorité des transports", "citoyen", "collectivité", "connectivité", "internet", "low cost", "TIC"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/10/19/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies/
 ---
 
 **[Le rapport « Créativité et innovation dans les territoires »](http://www.cae.gouv.fr/spip.php?breve17)** est le fruit du groupe de travail présidé par Michel Godet, commun au Conseil d’analyse économique (CAE), à la Délégation interministérielle à l’aménagement du territoire et à l’attractivité régionale (Datar) et à l’Académie des technologies.

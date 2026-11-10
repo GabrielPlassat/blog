@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Robotisation, automatisation des véhicules en 2020. Qui sera le Patagonia de l'automobile ?"
-date: 2013-09-09 12:26:11 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['art de la guerre', 'citoyen', 'connectivité', 'covoiturage', 'données réelles', 'economie circulaire', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'externalité', 'FORD', 'google', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'management de la mobilité', 'Service de mobilité', 'Véhicule', 'véhicule mono-usage', 'véhicule propre']
-=======
-tags: ["art de la guerre", "citoyen", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "economie circulaire", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "externalit\u00e9", "FORD", "google", "innovation", "intelligence collective", "internet", "internet des objets", "management de la mobilit\u00e9", "Service de mobilit\u00e9", "V\u00e9hicule", "v\u00e9hicule mono-usage", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-09-09
+source: tdf
+source_name: "Transports du Futur"
+tags: ["art de la guerre", "citoyen", "connectivité", "covoiturage", "données réelles", "economie circulaire", "économie de l'expérience", "économie du quaternaire", "économie fonctionnalité", "Efficacité énergétique", "externalité", "FORD", "google", "innovation", "intelligence collective", "internet", "internet des objets", "management de la mobilité", "Service de mobilité", "Véhicule", "véhicule mono-usage", "véhicule propre"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2013/09/09/nissan-et-daimler-sengagent-a-commercialiser-des-voitures-autonomes-en-2020-risques-et-opportunites/
 ---
 
-Patagonia expérimente le futur de l'automobile (lire les MétaNotes N°14 **[L'avenir de l'automobile](/2012/07/lavenir-de-lautomobile.html)**). La marque propose à ses clients **[de moins consommer](http://online.wsj.com/article/SB10001424052702303513404577352221465986612.html)**, de **[moins acheter ses produits](http://www.patagonia.com/email/11/112811.html)**, de les réparer, de les échanger.   
+Patagonia expérimente le futur de l'automobile (lire les MétaNotes N°14 **[L'avenir de l'automobile]({{ site.baseurl }}/2012/07/lavenir-de-lautomobile/)**). La marque propose à ses clients **[de moins consommer](http://online.wsj.com/article/SB10001424052702303513404577352221465986612.html)**, de **[moins acheter ses produits](http://www.patagonia.com/email/11/112811.html)**, de les réparer, de les échanger.   
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b019aff475d5c970d-320wi.png)](http://featherfiles.aviary.com/2013-09-09/f77694d11/e1c41ee001054b14b1a259cdcaadbac3_hires.png)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019aff475d5c970d-320wi.png)](http://featherfiles.aviary.com/2013-09-09/f77694d11/e1c41ee001054b14b1a259cdcaadbac3_hires.png)
 Pur marketing pour certains, tout simplement une question de survie pour d'autres. Ayant compris que rapidement, l'entreprise devra s'organiser pour proposer des produits **[beaux]()**, **[bons]()** et **[vrais]()**" (lire **[l'origine du concept]()**), Patagonia préfigure sans doute l'avenir du commerce de biens industriels. avec l'arrivée promise de nouveaux types de véhicules autonomes, les chaînes de valeur des mobilités vont être bouleversées ouvrant d'immenses opportunités et de grands risques. 
 
  

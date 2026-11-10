@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Appel à contributions pour les 4èmes journées sur le management de la mobilité : territoire spécifique, temps et vitesse"
-date: 2013-12-09 11:35:12 +0100
-categories: []
+date: 2013-12-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/12/appel-a-contributions-pour-les-4emes-journees-sur-le-management-de-la-mobilite-territoire-specifique.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2013/12/09/appel-a-contributions-pour-les-4emes-journees-sur-le-management-de-la-mobilite-territoire-specifique/
 ---
 
 Les **[4èmes journées nationales d’études](http://www2.ademe.fr/servlet/getDoc?id=90305&ref=17205&p1=1&p2=), **organisées les **17 et 18 juin **à Chambéry par l’ADEME, le CERTU (MEDDE), le GART, le CNFPT, avec Chambéry métropole, sur le **management de la mobilité** s’inscrivent à la suite de trois précédents colloques consacrés aux nouveaux services à la mobilité (NSM).

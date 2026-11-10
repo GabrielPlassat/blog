@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "3 livres pour des mutations automobiles\"\""
-date: 2010-06-11 15:37:38 +0100
-categories: []
+date: 2010-06-11
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/06/3-livres-pour-des-mutations-automobiles.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/06/11/3-livres-pour-des-mutations-automobiles/
 ---
 
 L'automobile est symbole de liberté et symptôme à la fois de déclin et de potentiel de renouveau industriel. Son avenir peut être imaginé sur les plans du catastrophisme environnemental ou du futurisme technologique. **[Quelques ouvertures à partir de trois ouvrages en anglais](http://www.lesechos.fr/info/analyses/020591984655-mutations-automobiles.htm)**.  - JULIEN DAMON, PROFESSEUR ASSOCIÉ À SCIENCES PO (MASTER D'URBANISME).
@@ -54,11 +59,7 @@ Le journaliste américain Tom Vanderbilt est fasciné par la circulation. Ayant 
 
  
 
-<<<<<<< HEAD
 Vanderbilt écrit que les routes sont remplies de gens qui pensent qu'elles ne sont faites que pour eux. Il propose des pages mémorables sur le stress du changement de voie, la complexité psychique des déplacements motorisés, les mécanismes cognitifs mobilisés pour nous repérer, les dangers des habitudes
-=======
-Vanderbilt écrit que les routes sont remplies de gens qui pensent qu'elles ne sont faites que pour eux. Il propose des pages mémorables sur le stress du changement de voie, la complexité psychique des déplacements motorisés, les mécanismes cognitifs mobilisés pour nous repérer, les dangers des habitudes_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 (nous faisons moins attention aux trajets familiers). Reprenant des thèses établies, notre passionné soutient que plus on se sent en sécurité, plus notre conduite sera à risque. Traverser en dehors des passages piétons peut être à cet égard moins dangereux - car nous sommes alors davantage sur nos gardes -que de les respecter. 
 
  

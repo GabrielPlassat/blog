@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Mobilité : qu'est ce qui va vraiment changer ?"
-date: 2012-10-14 18:55:59 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'General Electric', 'google', 'innovation', 'intelligence collective']
-=======
-tags: ["citoyen", "collectivit\u00e9", "General Electric", "google", "innovation", "intelligence collective"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-10-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/10/mobilite-quest-ce-qui-va-vraiment-changer.html"
+tags: ["citoyen", "collectivité", "General Electric", "google", "innovation", "intelligence collective"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/10/14/mobilite-quest-ce-qui-va-vraiment-changer/
 ---
 
 C'est pour essayer de répondre à cette ambitieuse question que j'ai été invité par *François Bellanger* au [**dernier atelier Transit City**](http://www.transit-city.com/ateliers/prochaine/) avec** Sylvaine MAURY**, Responsable Innovation Marketing Services et Digital de Citroën, travaillant notamment sur [**Multicity**](http://www.multicity.citroen.fr/). Auparavant, elle fut en charge de la coordination marketing et innovation de l'Institut pour La Ville en Mouvement / PSA. 

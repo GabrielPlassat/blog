@@ -1,16 +1,20 @@
 ---
 layout: post
 title: "Les boites noires dans les voitures américaines projètent, une nouvelle fois, les USA aux avant-postes des mutations du secteur des transports"
-date: 2012-05-21 11:04:00 +0100
-categories: []
+date: 2012-05-21
+source: tdf
+source_name: "Transports du Futur"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2012/05/21/les-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes/
 ---
 
 *Un malin génie rendit visite au président d’un certain pays et lui proposa le marché suivant : « je sais que votre économie est languissante. Je suis désireux de vous aider à la raffermir. Je puis mettre à votre disposition une invention technologique fabuleuse, qui doublera votre production intérieure brute (PIB) et le nombre d’emploi disponibles. Mais il y a un prix à payer. Je vous demanderai chaque année la vie de 20 000 de vos concitoyens, dont une forte proportion de jeunes gens et de jeunes filles ». Le Président recula d’effroi et renvoya son visiteur sans ménagement. Il venait de rejeter l’invention de … l’automobile.*
 
  
 
-Cet extrait du dernier livre de [**Jean-Pierre DUPUY, l’avenir de l’économie,**](/2012/05/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient.html) est régulièrement discuté dans l’enseignement de droit de l’Université de Yale, aux Etats-Unis. Le problème que cette fable met en scène est un dilemme moral classique : il s’agit de savoir si des victimes innocentes peuvent être sacrifiées sur l’autel du bien collectif. Jean-Pierre DUPUY l’aborde sous l’angle philosophique dans son livre passionnant. Mais nous traiterons ici d'une [**décision récente du Sénat américain**](http://m.wired.com/autopia/2012/05/congress-black-box/) qui nous indique comment la société américaine cherche rendre acceptable cette question morale. 
+Cet extrait du dernier livre de [**Jean-Pierre DUPUY, l’avenir de l’économie,**]({{ site.baseurl }}/2012/05/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient/) est régulièrement discuté dans l’enseignement de droit de l’Université de Yale, aux Etats-Unis. Le problème que cette fable met en scène est un dilemme moral classique : il s’agit de savoir si des victimes innocentes peuvent être sacrifiées sur l’autel du bien collectif. Jean-Pierre DUPUY l’aborde sous l’angle philosophique dans son livre passionnant. Mais nous traiterons ici d'une [**décision récente du Sénat américain**](http://m.wired.com/autopia/2012/05/congress-black-box/) qui nous indique comment la société américaine cherche rendre acceptable cette question morale. 
 
  
 
@@ -80,8 +84,4 @@ Il n’y a plus de conducteur, il n’y a que des passagers.
 
 Bien sûr des véhicules automatisés seront toujours vendus à des particuliers, permettant de modestes gains énergétiques, mais des gains substantiels en matière de temps libre. Mais ce type d’objet roulant, qui n’est plus une voiture, permet de repenser entièrement le système des mobilités, les frontières public/privé, et individuel/collectif. Les objets roulants pourront être gérés en cohorte à l’échelle d’une entreprise, d’un quartier, d’un département ou d’une région. Ils offriront à la fois les performances d’un véhicule individuel capable de faire du point à point, mais également amélioreront le remplissage des modes collectifs. Tout ceci ne sera possible qu’en ayant accès aux données. Tout ceci ne sera possible qu’en ayant conçu en même temps de nouvelles structures et de nouvelles règles permettant de les utiliser en maximisant l’intérêt collectif et les intérêts individuels.
 
-<<<<<<< HEAD
 "2012-05-21 11:04:00https://transportsdufutur.ademe.fr/2012/05/les-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes2015-07-21 16:36:32
-=======
-"2012-05-21 11:04:00/2012/05/21/les-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-boites-noires-dans-les-voitures-americaines-projetent-une-nouvelle-fois-les-usa-aux-avant-postes2015-07-21 16:36:32
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

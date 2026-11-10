@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "EDAG Light Car Sharing System"
-date: 2012-03-29 11:28:25 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autopartage', 'citoyen', 'commuter', 'covoiturage', 'économie du quaternaire', 'économie fonctionnalité', 'internet', 'iphone', 'ITS', 'Service de mobilité']
-=======
-tags: ["autopartage", "citoyen", "commuter", "covoiturage", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "internet", "iphone", "ITS", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-03-29
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/03/edag-light-car-sharing-system.html"
+tags: ["autopartage", "citoyen", "commuter", "covoiturage", "économie du quaternaire", "économie fonctionnalité", "internet", "iphone", "ITS", "Service de mobilité"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/03/29/edag-light-car-sharing-system/
 ---
 
-A quoi ça pourrait ressembler une voiture conçue pour le partage ? [**EDAG**](http://www.edag.de/en/), une voiture conçue uniquement pour être achetée par des professionnels... Le modèle d'affaire ressemble alors à celui du camion, les véhicules étant opérés par un professionnel dans une ou plusieurs villes dans le monde, ou par un collectif d'usagers. Voir également [**l'exemple de GE**](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html).
+A quoi ça pourrait ressembler une voiture conçue pour le partage ? [**EDAG**](http://www.edag.de/en/), une voiture conçue uniquement pour être achetée par des professionnels... Le modèle d'affaire ressemble alors à celui du camion, les véhicules étant opérés par un professionnel dans une ou plusieurs villes dans le monde, ou par un collectif d'usagers. Voir également [**l'exemple de GE**]({{ site.baseurl }}/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique/).
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0163036ac090970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0163036ac090970d-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0163036ac090970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0163036ac090970d-800wi.jpg) 
 
  
- [![](/assets/images/old/6a0120a66d2ad4970b0168e960b85d970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0168e960b85d970c-800wi.jpg) [![](/assets/images/old/6a0120a66d2ad4970b0168e960b98a970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0168e960b98a970c-800wi.jpg) [![](/assets/images/old/6a0120a66d2ad4970b0168e960ba28970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0168e960ba28970c-800wi.jpg)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e960b85d970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e960b85d970c-800wi.jpg) [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e960b98a970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e960b98a970c-800wi.jpg) [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e960ba28970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e960ba28970c-800wi.jpg)

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "En vélo à l'école + tag RFID = reconnaissance"
-date: 2010-09-17 15:33:46 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'commuter', 'confiance', 'connectivité', 'internet', 'mode doux', 'obésité', 'RFID', 'vélo']
-=======
-tags: ["citoyen", "commuter", "confiance", "connectivit\u00e9", "internet", "mode doux", "ob\u00e9sit\u00e9", "RFID", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/en-velo-a-lecole-tag-rfid-reconnaissance.html"
+tags: ["citoyen", "commuter", "confiance", "connectivité", "internet", "mode doux", "obésité", "RFID", "vélo"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/09/17/en-velo-a-lecole-tag-rfid-reconnaissance-2/
 ---
 
-Traduit de cet **[article](http://www.beatricedailysun.com/news/local/article_9a6f208e-c140-11df-bfa8-001cc4c03286.html?mode=story)**, la pratique des modes doux, pour se développer, va nécessiter une reconnaissance, pas forcément financière de ceux qui font ce choix (voir également **[ici](/2009/12/philips-directlife-le-lien-activite-physique-sante.html)**). Certaines technologies peuvent permettre de faciliter cette reconnaissance.
+Traduit de cet **[article](http://www.beatricedailysun.com/news/local/article_9a6f208e-c140-11df-bfa8-001cc4c03286.html?mode=story)**, la pratique des modes doux, pour se développer, va nécessiter une reconnaissance, pas forcément financière de ceux qui font ce choix (voir également **[ici]({{ site.baseurl }}/2009/12/philips-directlife-le-lien-activite-physique-sante/)**). Certaines technologies peuvent permettre de faciliter cette reconnaissance.
 
  
 

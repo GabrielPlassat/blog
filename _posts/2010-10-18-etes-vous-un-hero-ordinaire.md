@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Etes vous un héros ordinaire ?"
-date: 2010-10-18 16:38:36 +0100
-categories: []
+date: 2010-10-18
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/etes-vous-un-hero-ordinaire.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/10/18/etes-vous-un-hero-ordinaire/
 ---
 
 **Résultats d'une enquête qui s’inscrit dans le cadre de la démarche Plan climat du Grand Lyon, qui vise à atteindre l’objectif des “3X20” à l’horizon 2020, sur l’ensemble du territoire de l’agglomération : réduction de 20 % des émissions de gaz à effet de serre (GES), diminution de 20 % de la consommation d’énergies fossiles, part des énergies renouvelables portée à 20 %.**

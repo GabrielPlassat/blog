@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Synthèse USA des solutions technologiques pour réduire consommation et GES (Véhicules lourds)"
-date: 2010-04-02 15:08:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['camion', 'Efficacité énergétique', 'emission']
-=======
-tags: ["camion", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/synthese-usa-des-solutions-technologiques-pour-reduire-consommation-et-ges-vehicules-lourds.html"
+tags: ["camion", "Efficacité énergétique", "emission"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/04/02/synthese-usa-des-solutions-technologiques-pour-reduire-consommation-et-ges-vehicules-lourds/
 ---
 
 Une étude américaine présente, pour les véhicules lourds, une synthèse des solutions et des méthodes pour réduire les consommations et émissions de GES.

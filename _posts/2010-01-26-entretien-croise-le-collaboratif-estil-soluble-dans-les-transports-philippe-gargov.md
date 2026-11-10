@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Entretien croisé, le collaboratif est-il soluble dans les transports ? Philippe Gargov"
-date: 2010-01-26 08:55:31 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'partage de données', "Plateforme d'idées", 'Service de mobilité', 'téléphone', 'TIC']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "partage de donn\u00e9es", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9", "t\u00e9l\u00e9phone", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/entretien-croise-le-collaboratif-estil-soluble-dans-les-transports-philippe-gargov.html"
+tags: ["données réelles", "partage de données", "Plateforme d'idées", "Service de mobilité", "téléphone", "TIC"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/01/26/entretien-croise-le-collaboratif-estil-soluble-dans-les-transports-philippe-gargov/
 ---
 
 Cet entretien croisé a été réalisé à partir des restitutions d'interviews réalisées dans le cadre du mémoire d'alternance de **[Philippe Gargov](http://www.pop-up-urbain.com/)** (co-dirigé par Eric Magnin et Bruno Marzloff). Si vous souhaitez en savoir plus, l’adresse originale du texte est **[là](http://www.groupechronos.org/index.php/fre/themas/entretiens/entretien-croise-le-collaboratif-est-il-soluble-dans-les-transports)**, et la version complète du mémoire est** [ici](http://www.groupechronos.org/index.php/fre/projets/etudes/enjeux-et-potentiels-de-l-information-collaborative-dans-les-transports-en-commun)**.

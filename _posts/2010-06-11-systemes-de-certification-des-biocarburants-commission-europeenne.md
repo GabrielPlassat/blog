@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Systèmes de certification des biocarburants - Commission Européenne"
-date: 2010-06-11 15:27:59 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['carburant', 'Energie']
-=======
+date: 2010-06-11
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/06/systemes-de-certification-des-biocarburants-commission-europeenne.html"
 tags: ["carburant", "Energie"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/06/11/systemes-de-certification-des-biocarburants-commission-europeenne/
 ---
 
-Les biocarburants représentent une alternative pour alimenter, sans trop de modification coté véhicule/moteur, nos solutions de transport actuelles ayant des durées de vie de plusieurs dizaines d'années. Mais de nombreuses précautions sont nécessaires (voir **[ici](/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses.html)** et **[là](/2010/03/les-energies.html)**), dont la prise en compte de la qualité de la production et les besoins en ressources primaires. 
+Les biocarburants représentent une alternative pour alimenter, sans trop de modification coté véhicule/moteur, nos solutions de transport actuelles ayant des durées de vie de plusieurs dizaines d'années. Mais de nombreuses précautions sont nécessaires (voir **[ici]({{ site.baseurl }}/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses/)** et **[là]({{ site.baseurl }}/2010/03/les-energies/)**), dont la prise en compte de la qualité de la production et les besoins en ressources primaires. 
 
  
 

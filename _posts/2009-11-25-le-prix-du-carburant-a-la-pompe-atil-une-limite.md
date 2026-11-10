@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le prix du carburant à la pompe a-t-il une limite ?"
-date: 2009-11-25 11:29:36 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', "Plateforme d'idées", 'Précarité', 'prix carburant', 'Véhicule']
-=======
-tags: ["Energie", "Plateforme d'id\u00e9es", "Pr\u00e9carit\u00e9", "prix carburant", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-11-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite.html"
+tags: ["Energie", "Plateforme d'idées", "Précarité", "prix carburant", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/11/25/le-prix-du-carburant-a-la-pompe-atil-une-limite/
 ---
 
 En Europe notamment, le prix du carburant à la pompe contient une forte proportion de taxes (TIPP, TVA). Ces taxes ont des effets bien connus :
@@ -22,7 +23,7 @@ En Europe notamment, le prix du carburant à la pompe contient une forte proport
 
  
 
-·    d’effet de levier pour développer les modes alternatifs à l’automobile, **[de nouvelles mobilités](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html) **ou les transports en commun,
+·    d’effet de levier pour développer les modes alternatifs à l’automobile, **[de nouvelles mobilités]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/) **ou les transports en commun,
 
  
 
@@ -78,11 +79,7 @@ Les citoyens devront être convaincus que les bénéfices communs seront supéri
 
  
 
-<<<<<<< HEAD
 Si nous utilisons les émissions de CO2 produites en temps
-=======
-Si nous utilisons les émissions de CO2 produites en temps_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 réel, en associant avec le style de conduite, les conditions de trafic, nous serons capables :
 
  
