@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Le blog
 
-**Transports du Futur** est un blog d'exploration et d'analyse des mutations des mobilités, porté depuis 2009 par Gabriel Plassat, ingénieur à l'ADEME.
+**Transports du Futur** est un blog d'exploration et d'analyse des mutations des mobilités, porté depuis 2009 par Gabriel Plassat.
 
 ### 📚 Vingt ans d'archives
 
@@ -32,7 +32,7 @@ Le blog explore les transformations profondes des mobilités à travers plus de 
 
 ## L'auteur
 
-**Gabriel Plassat** est ingénieur à l'[ADEME](https://www.ademe.fr/) (Agence de la transition écologique) où il travaille sur les mobilités innovantes et durables.
+**Gabriel Plassat** est ingénieur à l'[ADEME](https://www.ademe.fr/) (Agence de la transition écologique) où il travaille sur les mobilités innovantes et durables, expert pour la Commission Européenne et enseignant dans plusieurs écoles.
 
 ### Expertises
 
@@ -47,15 +47,9 @@ Gabriel est notamment à l'origine de la [Fabrique des Mobilités](https://lafab
 
 ## 📬 Contact
 
-- **Email** : gabriel.plassat@ademe.fr
-- **Twitter** : [@gabrielplassat](https://twitter.com/gabrielplassat)
-
-## 🔗 Ressources
-
-- [La Fabrique des Mobilités](https://lafabriquedesmobilites.fr/)
-- [ADEME](https://www.ademe.fr/)
-- [Blog original](https://transportsdufutur.ademe.fr/)
-
+- **Email** : gp@gabrielplassat.fr
+- **LinkedIn** : [@plassat]([https://www.linkedin.com/in/plassat/])
+- Https://gabrielplassat.fr
 ---
 
 ## 💻 À propos de ce site
