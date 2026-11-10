@@ -15,8 +15,8 @@ redirect_from:
 
  
 
-**CoMoN **
-**Coll@borons autour de la Mobilité et du Numérique **
+**CoMoN**
+**Coll@borons autour de la Mobilité et du Numérique**
 
  
 
@@ -44,5 +44,5 @@ Le texte de cet APR et les pièces constitutives des dossiers à soumettre sont 
 
  
 
-**Contact ADEME **(impérativement par e-mail dans un premier temps sur la boite dédiée SVP)
-**Séverine BOULARD :**** [ademe.comon@ademe.fr](mailto:ademe.comon@ademe.fr)**
+**Contact ADEME** (impérativement par e-mail dans un premier temps sur la boite dédiée SVP)
+**Séverine BOULARD :****[ademe.comon@ademe.fr](mailto:ademe.comon@ademe.fr)**

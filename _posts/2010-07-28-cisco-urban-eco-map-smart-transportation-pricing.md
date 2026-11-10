@@ -11,7 +11,7 @@ redirect_from:
   - /2010/07/28/cisco-urban-eco-map-smart-transportation-pricing/
 ---
 
-Déjà abordé dans ce blog ([ici ]({{ site.baseurl }}/2010/02/personnal-travel-assistant-cisco/)et [là]({{ site.baseurl }}/2010/02/interdit-de-surfer-en-conduisant/)), **CISCO **poursuit le développement d'outils, comme le Personal Travel Assistant, de démonstrateurs à l'échelle des mégalopoles mondiales, avec des exemples à Séoul et Amsterdam.
+Déjà abordé dans ce blog ([ici ]({{ site.baseurl }}/2010/02/personnal-travel-assistant-cisco/)et [là]({{ site.baseurl }}/2010/02/interdit-de-surfer-en-conduisant/)), **CISCO** poursuit le développement d'outils, comme le Personal Travel Assistant, de démonstrateurs à l'échelle des mégalopoles mondiales, avec des exemples à Séoul et Amsterdam.
 
 Deux projets sont présentés ci dessous réalisés dans le cadre du projet [Connected Urban Development](http://www.cisco.com/web/about/ac79/ps/cud.html): 
 

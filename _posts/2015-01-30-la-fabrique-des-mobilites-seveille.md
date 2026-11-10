@@ -18,18 +18,18 @@ Présentée au NUMA dans ces principes au NUMA le 22 Janvier, La Fabrique des Mo
 - une **Plateforme** organisée et structurée de ressources permettant aux entrepreneurs de gagner du temps et d'accéder aux marchés, 
 - un **Réseau** structuré de compétences, de contacts dans tous les domaines clés, 
 - des **Territoires** éveillés et ouverts, mettant à disposition leurs ressources digitales et physiques pour itérer un produit/service, ainsi qu'un accompagnement personnalisé des start-ups, 
-- des **Communs **capitalisés à chaque projet, permettant d'augmenter l'attractivité de la Fabrique : données ouvertes, codes sources, retours d'expériences sur les échecs et les réussites, modules de formation. 
+- des **Communs** capitalisés à chaque projet, permettant d'augmenter l'attractivité de la Fabrique : données ouvertes, codes sources, retours d'expériences sur les échecs et les réussites, modules de formation. 
  
 
 [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d0cb819f970c-320wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d0cb819f970c-pi.png)
 
  
 
-En résumé, la Fabrique des Mobilités n’est pas dispositif traditionnel pour soutenir l’innovation. Pour ne pas reproduire les livrables existants, la Fabrique des Mobilités vise à produire des innovations de rupture sans assurer de soutien financier, mais en apportant des ressources organisées aux entrepreneurs. La Fabrique est ainsi le premier dispositif dédié à une filière industrielle en mutation.** La capitalisation des externalités positives générées par l’activité des entrepreneurs utilisant les ressources de la Fabrique permettra de générer des Communs. Ces Communs augmenteront à leur tour l’attractivité et la performance de la Fabrique.**
+En résumé, la Fabrique des Mobilités n’est pas dispositif traditionnel pour soutenir l’innovation. Pour ne pas reproduire les livrables existants, la Fabrique des Mobilités vise à produire des innovations de rupture sans assurer de soutien financier, mais en apportant des ressources organisées aux entrepreneurs. La Fabrique est ainsi le premier dispositif dédié à une filière industrielle en mutation. **La capitalisation des externalités positives générées par l’activité des entrepreneurs utilisant les ressources de la Fabrique permettra de générer des Communs. Ces Communs augmenteront à leur tour l’attractivité et la performance de la Fabrique.**
 
  
 
- **[La fabrique des mobilités introduction](http://fr.slideshare.net/transportsdufutur/la-fabriquedesmobilits-intro) **from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)** 
+ **[La fabrique des mobilités introduction](http://fr.slideshare.net/transportsdufutur/la-fabriquedesmobilits-intro)** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)** 
 
  
 
@@ -75,7 +75,7 @@ Les projets mis en œuvre dans la Fabrique seront connectés par un réseau perm
 
  
 
-L’accès à La Fabrique est réservé aux start-ups, c'est-à-dire aux organisations temporaires cherchant un modèle d’affaire. Cette organisation peut venir d’un groupe industriel si le modèle d’affaire diffère du modèle « historique ».**Par ailleurs, l’accès sera déterminé par le niveau de participation aux « **[**communs **](http://www.unisson.co/)**»**. Les « communs » sont des richesses mutualisées d’un écosystème, qui n’appartiennent pas aux acteurs individuellement, mais à l’écosystème entier. Chaque acteur en aura l’usage sans en avoir la propriété. Plus La Fabrique générera de « communs », plus l’écosystème sera riche et plus il pourra s’appuyer sur ces richesses. Les premiers « communs » identifiés sont :
+L’accès à La Fabrique est réservé aux start-ups, c'est-à-dire aux organisations temporaires cherchant un modèle d’affaire. Cette organisation peut venir d’un groupe industriel si le modèle d’affaire diffère du modèle « historique ».**Par ailleurs, l’accès sera déterminé par le niveau de participation aux «** [**communs** ](http://www.unisson.co/)**»**. Les « communs » sont des richesses mutualisées d’un écosystème, qui n’appartiennent pas aux acteurs individuellement, mais à l’écosystème entier. Chaque acteur en aura l’usage sans en avoir la propriété. Plus La Fabrique générera de « communs », plus l’écosystème sera riche et plus il pourra s’appuyer sur ces richesses. Les premiers « communs » identifiés sont :
 
  
  

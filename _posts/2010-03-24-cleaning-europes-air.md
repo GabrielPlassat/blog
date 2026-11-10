@@ -11,7 +11,7 @@ redirect_from:
   - /2010/03/24/cleaning-europes-air/
 ---
 
-***A complete, multilingual, one-stop-source of information on Low Emission Zones (LEZs) in ******Europe***
+***A complete, multilingual, one-stop-source of information on Low Emission Zones (LEZs) in Europe***
 
  
 
@@ -23,11 +23,11 @@ There is now a single website which gives you ***all*** the information you need
 
  
 
-** **
+ 
 
  
 
-**Why LEZs? **Air pollution kills an estimated 310 000 people a year in Europe. The European Union has set legally defined air quality standards to protect our health. Many cities and towns in most countries in Europe fail to meet these standards. Increasing numbers of cities and towns operate or are preparing “Low Emission Zones”, or “Environment Zones” among other measures, to help meet the standards. There are currently over 160 LEZs in 11 countries in Europe, including cities like Berlin, Amsterdam, London, Milan, but also many smaller towns like Mühlacker (Germany), Como (Italy) or Norwich (UK) - and the A12 motorway in Tirol (Austria).
+**Why LEZs?** Air pollution kills an estimated 310 000 people a year in Europe. The European Union has set legally defined air quality standards to protect our health. Many cities and towns in most countries in Europe fail to meet these standards. Increasing numbers of cities and towns operate or are preparing “Low Emission Zones”, or “Environment Zones” among other measures, to help meet the standards. There are currently over 160 LEZs in 11 countries in Europe, including cities like Berlin, Amsterdam, London, Milan, but also many smaller towns like Mühlacker (Germany), Como (Italy) or Norwich (UK) - and the A12 motorway in Tirol (Austria).
 
  
 
@@ -35,7 +35,7 @@ There is now a single website which gives you ***all*** the information you need
 
  
 
-**LEZs are **areas or roads to which entry is restricted for vehicles with more polluting engines. **Who needs this site? **Anyone who drives around Europe; including hauliers, tourists, lorry and coach operators. It provides all the information needed to navigate around Europe's LEZs – including where to can drive with which vehicles. With one button the website is in your language and the information is in one or two clicks from the homepage.
+**LEZs are** areas or roads to which entry is restricted for vehicles with more polluting engines. **Who needs this site?** Anyone who drives around Europe; including hauliers, tourists, lorry and coach operators. It provides all the information needed to navigate around Europe's LEZs – including where to can drive with which vehicles. With one button the website is in your language and the information is in one or two clicks from the homepage.
 
  
 

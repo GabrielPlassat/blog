@@ -19,7 +19,7 @@ Comme en Belgique aurjoud'hui, il devient possible que la pratique du vélo soit
 
  
 
-Pour tenter d'apporter quelques éléments, revoyons quelques éléments indiqués dans le livre de la FING *De l'innovation monétaire aux monnaies de l'innovation, *déjà [**abordé** ]({{ site.baseurl }}/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples/)dans ce blog. Ce sont des **outils d’innovation sociale** qui influencent les comportements et la société dans laquelle  nous vivons. Elles favorisent certaines activités et échanges :  l’économie locale,  le lien social, l’éducation, la culture, l’emploi,  l’environnement, la  reconnaissance dans les réseaux sociaux, etc. Elles sont, et seront encore plus demain, de véritables catalyseurs d'innovations si elles sont bien conçues, bien adaptées aux produits/services développés. Elles permettront, notamment, aux acteurs économiques de tisser des relations de confiance avec des consommateurs plus fidèles, de concevoir des produits/services répondant parfaitement aux besoins clairement identifiés. **La monnaie, entre autre, apporte un supplément en matière d'intelligence collective: l'holoptisme. Elle permet ainsi de rendre visible l'émergence du groupe, de l'intérêt commun. **
+Pour tenter d'apporter quelques éléments, revoyons quelques éléments indiqués dans le livre de la FING *De l'innovation monétaire aux monnaies de l'innovation, *déjà [**abordé** ]({{ site.baseurl }}/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples/)dans ce blog. Ce sont des **outils d’innovation sociale** qui influencent les comportements et la société dans laquelle  nous vivons. Elles favorisent certaines activités et échanges :  l’économie locale,  le lien social, l’éducation, la culture, l’emploi,  l’environnement, la  reconnaissance dans les réseaux sociaux, etc. Elles sont, et seront encore plus demain, de véritables catalyseurs d'innovations si elles sont bien conçues, bien adaptées aux produits/services développés. Elles permettront, notamment, aux acteurs économiques de tisser des relations de confiance avec des consommateurs plus fidèles, de concevoir des produits/services répondant parfaitement aux besoins clairement identifiés. **La monnaie, entre autre, apporte un supplément en matière d'intelligence collective: l'holoptisme. Elle permet ainsi de rendre visible l'émergence du groupe, de l'intérêt commun.**
 
  
 
@@ -47,7 +47,7 @@ La mise en oeuvre d'une monnaie spécifique décidée et pilotée par les cyclis
 
 Les monnaies permettent d'agir à 3 niveaux : compréhension des usages et des flux, effet amplificateur du collectif (je ne suis pas seul, j'appartiens à un collectif, plus je gagne plus le collectif gagne et inversement), et création d'un futur partagé.
 
- ** [Monnaies lietaer](http://fr.slideshare.net/transportsdufutur/monnaies-lietaer) ** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)** 
+ **[Monnaies lietaer](http://fr.slideshare.net/transportsdufutur/monnaies-lietaer)** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)** 
 
 Déjà aujourd'hui des structures travaillent pour développer des outils numériques pour que chacun puisse créer des monnaies. Il y a 20 ans, vous pensiez que chacun pourrait créer un blog ?
 

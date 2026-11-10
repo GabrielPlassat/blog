@@ -40,7 +40,7 @@ Cet appel à projets R&D cible des travaux dont l'objectif est d'améliorer la c
  
  
 - à l’amélioration des connaissances des **facteurs d’émissions** des polluants, 
-- à l’amélioration des connaissances **des émissions de polluants et de leurs précurseurs, et de leur formations/transformations dans le champ proche de la source en situation réelle **(notamment les caractéristiques physiques et chimiques des particules/nanoparticules), 
+- à l’amélioration des connaissances **des émissions de polluants et de leurs précurseurs, et de leur formations/transformations dans le champ proche de la source en situation réelle** (notamment les caractéristiques physiques et chimiques des particules/nanoparticules), 
 - au développement, que ce soit au stade de la recherche industrielle ou du développement expérimental, de **solutions de réduction des émissions (substitution, prévention, traitement)**, 
  
 
@@ -56,7 +56,7 @@ Les substances ciblées dans le présent appel à projets sont pour la plupart v
 
  
 
-** **Sur le plan de la connaissance du cycle de vie des polluants dans l'atmosphère, permettant de faire les liens entre émissions, immissions et impacts, une cohérence avec les programmes nationaux tels que le PREST[[2]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn2) (ANSES/ADEME/INCA) et PRIMEQUAL[[3]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn3) (ADEME/MEEDDM (CGDD)) est assurée.
+ Sur le plan de la connaissance du cycle de vie des polluants dans l'atmosphère, permettant de faire les liens entre émissions, immissions et impacts, une cohérence avec les programmes nationaux tels que le PREST[[2]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn2) (ANSES/ADEME/INCA) et PRIMEQUAL[[3]](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/compose#_ftn3) (ADEME/MEEDDM (CGDD)) est assurée.
 
  
 

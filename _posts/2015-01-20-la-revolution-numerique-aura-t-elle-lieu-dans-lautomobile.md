@@ -35,7 +35,7 @@ Mais plusieurs faits se combinent. Les **GAFAs sont à l'étroit** dans leurs do
 
  
 
-Le numérique a également permis d'abaisser les barrières à l'entrepreneuriat (lire ce **storify** de Nicolas Colin). Ainsi, partant "du bas", des milliers de start-ups se lancent sur des milliers de micro-problèmes à résoudre. Beaucoup échouent, certaines réussissent et se développent soit en restant indépendantes et mondiales (par "définition"), soit en se faisant acheter par un GAFA, permettant à ce dernier de poursuivre son exploration du secteur industriel.** Une puissante machine à explorer les frontières de l'innovation et à résoudre des problèmes est donc en marche.** Les livrables de cette machine numérique sont notamment de nouvelles **expériences** appuyées sur des produits/services repensés à l'ère du numérique. Des sociétés comme Uber le démontrent (lire l'**article Jusqu'où allez vous ?**).
+Le numérique a également permis d'abaisser les barrières à l'entrepreneuriat (lire ce **storify** de Nicolas Colin). Ainsi, partant "du bas", des milliers de start-ups se lancent sur des milliers de micro-problèmes à résoudre. Beaucoup échouent, certaines réussissent et se développent soit en restant indépendantes et mondiales (par "définition"), soit en se faisant acheter par un GAFA, permettant à ce dernier de poursuivre son exploration du secteur industriel. **Une puissante machine à explorer les frontières de l'innovation et à résoudre des problèmes est donc en marche.** Les livrables de cette machine numérique sont notamment de nouvelles **expériences** appuyées sur des produits/services repensés à l'ère du numérique. Des sociétés comme Uber le démontrent (lire l'**article Jusqu'où allez vous ?**).
 
  
 

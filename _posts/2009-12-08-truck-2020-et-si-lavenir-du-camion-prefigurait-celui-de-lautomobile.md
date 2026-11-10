@@ -55,7 +55,7 @@ Les 5 propositions, à engager dès que possible, sont :
 
  
 
-·     **Résoudre le dilemme de la globalisation : **en développant des modèles rentables intégrés globalement ou spécialisés par régions. Ce choix sera essentiel pour construire une stratégie de développement. L’intégration verticale nécessite une standardisation poussée des organes, des plates formes, des indicateurs et des méthodes de conception. La spécialisation permet se mieux d’adapter aux conditions locales de plus en plus variées notamment liées aux réglementations et conditions de circulation. Il est également possible de combiner intégration et spécialisation sur certains marchés bien identifiés, c'est-à-dire de mener à la fois une rationalisation, standardisation tout en étant agile et réactif pour d’autres marchés. Dans tous les cas, les acteurs doivent collaborer pour engager les transformations suivantes :****
+·     **Résoudre le dilemme de la globalisation :** en développant des modèles rentables intégrés globalement ou spécialisés par régions. Ce choix sera essentiel pour construire une stratégie de développement. L’intégration verticale nécessite une standardisation poussée des organes, des plates formes, des indicateurs et des méthodes de conception. La spécialisation permet se mieux d’adapter aux conditions locales de plus en plus variées notamment liées aux réglementations et conditions de circulation. Il est également possible de combiner intégration et spécialisation sur certains marchés bien identifiés, c'est-à-dire de mener à la fois une rationalisation, standardisation tout en étant agile et réactif pour d’autres marchés. Dans tous les cas, les acteurs doivent collaborer pour engager les transformations suivantes :
 
  
 
@@ -120,7 +120,7 @@ Cette transition majeure nécessite un changement radical des modèles économiq
 
  
 
-·     **Enrichir les partenariats **: Dans cet environnement complexe, nouer des partenariats ada
+·     **Enrichir les partenariats**: Dans cet environnement complexe, nouer des partenariats ada
 ptés permet d’accroître sa robustesse aux crises. 3 secteurs sont proposés par IBM :
 
  

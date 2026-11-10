@@ -12,8 +12,8 @@ redirect_from:
 ---
 
 Les deux articles précédents (Articles [**1**]({{ site.baseurl }}/2018/07/lhistoire-de-ma-transformation-numerique-1-3/) et [**2**]({{ site.baseurl }}/2018/07/lhistoire-de-ma-transformation-numerique-2-3/)) décrivent le chemin parcouru depuis 10 ans dans les domaines des mobilités, les processus utilisés pour agir dans un large écosystème, les principaux enseignements sur le fond, sur l’être et le faire.
-**Je suis les liens que je tisse avec d’autres , **Albert Jacquard
-De ce parcours, il est possible d’extraire un « **code source **» en 7 étapes pour celles et ceux qui souhaitent s’aventurer dans une transformation de leur métier. Cette méthode s’adresse en priorité aux personnes travaillant dans une structure publique (agence, institut, ministère, collectivité) ou para-publique (cluster, pôle de compétitivité, CCI, incubateur, accélérateur, …), qui agissent pour aider les entrepreneurs (voir l’article 1 qui rappelle plusieurs définitions).
+**Je suis les liens que je tisse avec d’autres ,** Albert Jacquard
+De ce parcours, il est possible d’extraire un « **code source**» en 7 étapes pour celles et ceux qui souhaitent s’aventurer dans une transformation de leur métier. Cette méthode s’adresse en priorité aux personnes travaillant dans une structure publique (agence, institut, ministère, collectivité) ou para-publique (cluster, pôle de compétitivité, CCI, incubateur, accélérateur, …), qui agissent pour aider les entrepreneurs (voir l’article 1 qui rappelle plusieurs définitions).
 
 Elle vise d’abord les personnes, individuellement, volontaires pour donner sans recevoir, pour lâcher prise sur leur pratique, pour s’engager dans d’autres façons d’agir et faire évoluer leur culture. Elle pourra sans doute s’appliquer sur des organisations dont plusieurs personnes ont fait une partie de la transformation.
 Méthode « empirique » d’aide à la transformation individuelle et collective
@@ -54,7 +54,7 @@ Après la révolution numérique, les structures publiques de soutien à l’inn
  	
 - Les conditions d’attribution des aides qui devraient intégrer la mise en commun d’une partie des livrables produits.
 
-**7.Documentez votre démarche et partagez ! **En partageant d’autres parcours, d’autres méthodes empiriques, nous pourrions converger vers de nouvelles façons d’agir. Tout commence par cette volonté de s’appliquer individuellement à travailler pour faire évoluer ses pratiques, sa culture et donc son **niveau de conscience**.
+**7.Documentez votre démarche et partagez !** En partageant d’autres parcours, d’autres méthodes empiriques, nous pourrions converger vers de nouvelles façons d’agir. Tout commence par cette volonté de s’appliquer individuellement à travailler pour faire évoluer ses pratiques, sa culture et donc son **niveau de conscience**.
 **L’IC holomidale**
 Nous avons à résoudre des problèmes complexes au sens d’Edgar Morin : énergie, alimentation, dérèglement climatique, etc, que nous retrouvons “imbriqués” dans le domaine des transports. Individuellement, de nombreuses personnes perçoivent les enjeux et ont identifié des solutions. Mais collectivement les organisations, dans lesquelles ils évoluent, restent bloquées dans des processus et des schémas de décision, sans réelle capacité à évoluer et se transformer à la hauteur. Une des pistes pour expliquer ce paradoxe se trouve dans les mécanismes de l’intelligence collective.
 

@@ -29,7 +29,7 @@ Maintenant qu'elles sont massivement utilisées et distribuées, ces techniques 
 
 Il s'agit des bases nécessaires pour innover véritablement, pour imaginer ce qui n'existe pas. Pour fédérer des collectifs dans la création et non plus dans la réaction à des problèmes.
 
- ** [Building Intelligence: How Data + Storytelling is the Ultimate Act of Creation](https://www.slideshare.net/goonth/building-intelligence-how-data-storytelling-is-the-ultimate-act-of-creatio) ** from **[Gunther Sonnenfeld](http://www.slideshare.net/goonth)** 
+ **[Building Intelligence: How Data + Storytelling is the Ultimate Act of Creation](https://www.slideshare.net/goonth/building-intelligence-how-data-storytelling-is-the-ultimate-act-of-creatio)** from **[Gunther Sonnenfeld](http://www.slideshare.net/goonth)** 
 
 Utilisés pour accompagner la mutation d'écosystème (lire l'article **[Les nouveaux systèmes d'innovations collectives]({{ site.baseurl }}/2013/10/les-nouveaux-dispositifs-dinnovations-collectifs/)**), ces méta-techniques, et les guides pour les utiliser, sont en version béta. Ils le resteront probablement encore longtemps car ils dépendent à la fois des pionniers qui les développent mais également des écosystèmes dans lesquels ces méta-techniques sont mises en œuvre. Il n'est pas possible de *designer* ces méta-techniques « une bonne fois pour toutes ».
 

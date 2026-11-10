@@ -15,7 +15,7 @@ Réalisée au Nouveau Mexique (USA) à Lea County, cette ville aura d'une superf
 
  
 
-[**CITE **](http://www.cite-city.com/About_CITE_City/Main/Overview.html)(Center for Innovation Testing and Evaluation) offrira de nombreuses infrastructures, un centre de recherche :
+[**CITE** ](http://www.cite-city.com/About_CITE_City/Main/Overview.html)(Center for Innovation Testing and Evaluation) offrira de nombreuses infrastructures, un centre de recherche :
 
  
 

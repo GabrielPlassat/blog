@@ -17,7 +17,7 @@ Il existe à Bombay un système unique au monde pour livrer des gamelles ". En e
 
  
  
-**L'association pour une logistique urbaine durable **(ALUD) s'est inspirée de ces livreurs pour concevoir et expérimenter une infrastructure de commis-livreurs dans les Hauts de Belleville pour le portage à domicile de colis à très bas coût (2 € HT). Utilisation de vélo, transport en commun, chariot, smartphone, intelligence collective, pas de stockage, pas d'infrastructure immobilière, pas de véhicule, le tout avec des résultats publiés sous une licence "open source". 
+**L'association pour une logistique urbaine durable** (ALUD) s'est inspirée de ces livreurs pour concevoir et expérimenter une infrastructure de commis-livreurs dans les Hauts de Belleville pour le portage à domicile de colis à très bas coût (2 € HT). Utilisation de vélo, transport en commun, chariot, smartphone, intelligence collective, pas de stockage, pas d'infrastructure immobilière, pas de véhicule, le tout avec des résultats publiés sous une licence "open source". 
 
  
 

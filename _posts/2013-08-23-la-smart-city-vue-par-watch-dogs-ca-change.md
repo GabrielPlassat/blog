@@ -11,4 +11,4 @@ redirect_from:
   - /2013/08/23/la-smart-city-vue-par-watch-dogs-ca-change/
 ---
 
-La Smart city version** [Watch Dogs](http://watchdogs.ubi.com/watchdogs/fr-fr/game-info/index.aspx)**, heureusement ce n'est qu'un jeu ... Voir cette remarquable **[carte de Paris](http://wearedata.watchdogs.com/start.php?locale=fr-FR&city=paris)**. Vous ne verrez plus la ville de la même façon. La carte, une puissante **[matrice ontophanique]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/)** qui explique pourquoi c'est une zone de combat.
+La Smart city version **[Watch Dogs](http://watchdogs.ubi.com/watchdogs/fr-fr/game-info/index.aspx)**, heureusement ce n'est qu'un jeu ... Voir cette remarquable **[carte de Paris](http://wearedata.watchdogs.com/start.php?locale=fr-FR&city=paris)**. Vous ne verrez plus la ville de la même façon. La carte, une puissante **[matrice ontophanique]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/)** qui explique pourquoi c'est une zone de combat.

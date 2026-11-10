@@ -37,11 +37,11 @@ Selon **[l’Observatoire du Cycle](http://www.tousavelo.com/)**, le marché cyc
 
  
 
-- **Le vélo mobilité poursuit sa croissance en passant de 22% à 25% du marché total. **Cette évolution est soutenue principalement par les ventes de vélos de ville +7% et une progression importante des ventes de vélos à assistance électrique, 23.700 unités vendues soit + 64%.
+- **Le vélo mobilité poursuit sa croissance en passant de 22% à 25% du marché total.** Cette évolution est soutenue principalement par les ventes de vélos de ville +7% et une progression importante des ventes de vélos à assistance électrique, 23.700 unités vendues soit + 64%.
 
  
 
-- **La part du vélo loisirs continue de décroitre mais reste prépondérante. Elle passe de 68% à 65%. **Les VTT adultes et enfants constituent la famille leader avec près de 50% du marché total. Les ventes de VTT enfants ont progressé de 11% en 2009, les VTT adultes ont vu leurs ventes reculer de 12,5%.
+- **La part du vélo loisirs continue de décroitre mais reste prépondérante. Elle passe de 68% à 65%.** Les VTT adultes et enfants constituent la famille leader avec près de 50% du marché total. Les ventes de VTT enfants ont progressé de 11% en 2009, les VTT adultes ont vu leurs ventes reculer de 12,5%.
 
  
 
@@ -49,6 +49,6 @@ Selon **[l’Observatoire du Cycle](http://www.tousavelo.com/)**, le marché cyc
 
  
 
-******** 
+
 
  **[4 Fiche VéLos Et Usages 2009](http://www.slideshare.net/transportsdufutur/4-fiche-vlos-et-usages-2009)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur)."

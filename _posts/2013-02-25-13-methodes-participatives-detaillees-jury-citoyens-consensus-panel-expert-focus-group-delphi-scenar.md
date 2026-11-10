@@ -67,4 +67,4 @@ Les méthodes reprises dans ce manuel sont les suivantes:
  
 -  un tableau comparatif reprenant les treize méthodes participatives décrites en détail 
 - des directives générales et des conseils sur l’organisation des méthodes participatives. 
- ** [Pub 1600 methodes_participatives](http://fr.slideshare.net/transportsdufutur/pub-1600-methodesparticipatives) ** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)**
+ **[Pub 1600 methodes_participatives](http://fr.slideshare.net/transportsdufutur/pub-1600-methodesparticipatives)** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)**

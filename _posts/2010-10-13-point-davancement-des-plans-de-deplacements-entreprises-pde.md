@@ -11,7 +11,7 @@ redirect_from:
   - /2010/10/13/point-davancement-des-plans-de-deplacements-entreprises-pde/
 ---
 
-La journée d'étude national du 23/09/2010 sur les nouveaux services à la mobilité a permis de faire un point sur les PDE. L'ADEME présente sur un site spécifique les méthodes et les outils (voir **[ici](http://www.plan-deplacements.fr/)**). **Ci dessous les présentations faites sur ce sujet. **
+La journée d'étude national du 23/09/2010 sur les nouveaux services à la mobilité a permis de faire un point sur les PDE. L'ADEME présente sur un site spécifique les méthodes et les outils (voir **[ici](http://www.plan-deplacements.fr/)**). **Ci dessous les présentations faites sur ce sujet.**
 
  
 

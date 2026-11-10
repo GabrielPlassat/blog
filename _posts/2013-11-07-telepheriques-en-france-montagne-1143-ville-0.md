@@ -32,7 +32,7 @@ Algérie, Brésil, Colombie, Etats Unis et bien d’autres pays bénéficient d�
  
 
  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b00c39f98970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b00c39f98970c-pi.jpg)
-*Medellin – Metrocable - Ligne J, ** **Image : [Gondola Project](http://gondolaproject.com/)*
+*Medellin – Metrocable - Ligne J,  Image : [Gondola Project](http://gondolaproject.com/)*
 
  
 

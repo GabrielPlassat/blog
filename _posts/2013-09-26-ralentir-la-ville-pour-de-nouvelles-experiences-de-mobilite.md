@@ -32,7 +32,7 @@ Finalement, c’est la recherche d’un **[convivialisme](http://lesconvivialist
 
  
 
-En même temps, les techniques numériques structurent de plus en plus nos vies, certains travaux philosophiques montrent qu’elles commencent également structurer notre perception des autres et donc de nous-mêmes. Une nouvelle matrice **[ontophanique]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/)** (*perception de l’être*) se crée. Le numérique bouleverse les notions « historiques » des vitesses : est-ce que je vais vite quand je ne me déplace plus pour commander un produit livré en 24h ? est-ce que je vais vite quand je fais une réunion de travail dans un café à côté de chez moi avec plusieurs personnes éparpillées en accédant à mes données dans les nuages ? **De quelles vitesses parle-t-on **?
+En même temps, les techniques numériques structurent de plus en plus nos vies, certains travaux philosophiques montrent qu’elles commencent également structurer notre perception des autres et donc de nous-mêmes. Une nouvelle matrice **[ontophanique]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/)** (*perception de l’être*) se crée. Le numérique bouleverse les notions « historiques » des vitesses : est-ce que je vais vite quand je ne me déplace plus pour commander un produit livré en 24h ? est-ce que je vais vite quand je fais une réunion de travail dans un café à côté de chez moi avec plusieurs personnes éparpillées en accédant à mes données dans les nuages ? **De quelles vitesses parle-t-on**?
 
  
 

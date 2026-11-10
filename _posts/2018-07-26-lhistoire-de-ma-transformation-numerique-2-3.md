@@ -11,13 +11,13 @@ redirect_from:
   - /2018/07/26/lhistoire-de-ma-transformation-numerique-2-3/
 ---
 
-[suite de** [l'article 1/3]({{ site.baseurl }}/2018/07/lhistoire-de-ma-transformation-numerique-1-3/)**]
+[suite de **[l'article 1/3]({{ site.baseurl }}/2018/07/lhistoire-de-ma-transformation-numerique-1-3/)**]
 Donner à l’écosystème sans rien attendre
 L’influence des Transports du Futur a été estimée, par une étude réalisée avec Ecairn en 2014, comme étant une des plus fortes parmi plus de 1200 influenceurs. Le numérique permet facilement et simplement de connecter plusieurs outils pour créer des synergies, pour amplifier la diffusion. Il ne s’agit pas d’atteindre le maximum de lecteurs mais d’être en relation avec un large spectre d’acteurs aux limites de la mobilité vers des secteurs comme la santé, l’open data, l’urbanisme, le sport, l’assurance …
 
-[![]({{ site.baseurl }}/assets/images/2018/07/ecairn-300x292.png)]({{ site.baseurl }}/assets/images/2018/07/ecairn.png)Le Blog est le support principal pour proposer des contenus, c'est-à-dire des idées **nouvelles, donc prendre des risques**. L’approche narrative à travers des** [fictions](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/category/fictions) **et des **[MétaNotes](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/category/metanotes) **est essentielle pour co-construire une vision commune et permettre au lecteur de s’approprier les messages.
+[![]({{ site.baseurl }}/assets/images/2018/07/ecairn-300x292.png)]({{ site.baseurl }}/assets/images/2018/07/ecairn.png)Le Blog est le support principal pour proposer des contenus, c'est-à-dire des idées **nouvelles, donc prendre des risques**. L’approche narrative à travers des **[fictions](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/category/fictions)** et des **[MétaNotes](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/category/metanotes)** est essentielle pour co-construire une vision commune et permettre au lecteur de s’approprier les messages.
 
-La production de **contenu **couplé à des outils numériques en réseaux permet de se placer au cœur des écosystèmes et d’influencer[[1]](#_ftn1) des entreprises publiques et privées au plus haut niveau, d’identifier les principaux influenceurs en dehors du domaine et les pionniers, se relier à eux pour apprendre et de documenter sa propre connaissance pour mieux l’exploiter, la rendre accessible et utilisable (900 articles, videos, …) et créer des références et une ensemble de ressources utiles.
+La production de **contenu** couplé à des outils numériques en réseaux permet de se placer au cœur des écosystèmes et d’influencer[[1]](#_ftn1) des entreprises publiques et privées au plus haut niveau, d’identifier les principaux influenceurs en dehors du domaine et les pionniers, se relier à eux pour apprendre et de documenter sa propre connaissance pour mieux l’exploiter, la rendre accessible et utilisable (900 articles, videos, …) et créer des références et une ensemble de ressources utiles.
 
 Avec les outils d’E-Cairn, après avoir identifié plus **de 17000 influenceurs et près d’un million de conversation** (fév/mars 2014), l’écosystème des principaux influenceurs se présente de la façon suivante. Dans ce réseau, la position des Transports du Futur est bien positionnée parmi les principaux influenceurs. L’influence E-Cairn se définit à la fois par le volume de lecteurs mais également par le fait que l’information soit relayée.
 
@@ -49,7 +49,7 @@ En 2013, l’organisation du [**séminaire Mobilités Mutations**]({{ site.baseu
 **
 [![]({{ site.baseurl }}/assets/images/2018/07/badge-169x300.jpg)]({{ site.baseurl }}/assets/images/2018/07/badge.jpg)Il faut environ 4 à 7 heures pour écrire un article (10h pour une MétaNote), lire 10 à 20 essais  par an, faire 10 à 15 interventions par an. **Cet investissement est rentabilisé** après une période d’environ 2 à 3 ans. La charge pour une personne et un écosystème passe alors de 20-25% au début à 5-10% en régime stabilisé. Par ailleurs, de nombreux bénéfices (visibilité, influence, audience, communication, veille) ne sont pas accessibles sans ce dispositif numérique. Les acteurs aidés, conseillés et plus généralement impliqués ont une forme de dette que certains « remboursent » en s’investissant dans l’écosystème. En résumé, la mise en œuvre d’une présence numérique maîtrisée pour un écosystème complexe (comme la Mobilité, ville durable, smart grid et énergie …) apporte plus de bénéfices directs et indirects qu’elle n’utilise de ressources.
 
-**Ce que j’ai appris à faire : **
+**Ce que j’ai appris à faire :**
 
  	
 - Ecouter un grand nombre de personnes et les organisations associées,
@@ -86,7 +86,7 @@ Ils ont été faits pour aider des filières industrielles établies dans des en
 
 [![]({{ site.baseurl }}/assets/images/2018/07/mobmut2013.jpg)]({{ site.baseurl }}/assets/images/2018/07/mobmut2013.jpg)*Mobilités Mutations 2013*
 
-**Ce que je referai : **
+**Ce que je referai :**
 
  	
 - Avoir une approche intégrale, c’est-à-dire tenter de relier les domaines, les personnes, parler plusieurs « langues » techniques, intégrer plusieurs cultures,
@@ -99,9 +99,9 @@ Ils ont été faits pour aider des filières industrielles établies dans des en
  	
 - M’engager dans une démarche entrepreneuriale avec la Fabrique des Mobilités, la porter dès que possible à l’international pour produire des ressources utiles et utilisables à l’écosystème entier comme une **[base de connaissance indexée](http://wiki.fabmob.io)**, une **[preuve de covoiturage](http://wiki.lafabriquedesmobilites.fr/wiki/Preuve_de_covoiturage)**, une **[base de données des aires de covoiturage](http://wiki.lafabriquedesmobilites.fr/wiki/Base_de_donn%C3%A9e_commune_des_lieux_de_covoiturage)**, un **[boitier connecté open source](http://wiki.lafabriquedesmobilites.fr/wiki/Appel_%C3%A0_Manifestation_d%27Int%C3%A9ret_Boitier_Open_Source)**, un **[véhicule open source](http://wiki.lafabriquedesmobilites.fr/wiki/VehiculeLibre)**.
 
-La** [Fabrique des Mobilités](http://fabmob.io) **est née de ce parcours. Les communs et l’open source viennent du besoin de relier les acteurs pour mieux les faire travailler ensemble en utilisant le *prétexte* de la ressource ouverte. Chaque ressource ouverte permet, en même temps, d’être utile aux acteurs individuellement, de les amener à échanger et s’organiser pour gérer au mieux la ressource tout en leur permettant de se voir progresser à travers elle. Les outils numériques comme le wiki permettent de créer les liens entre les ressources, les personnes, les entreprises.
+La **[Fabrique des Mobilités](http://fabmob.io)** est née de ce parcours. Les communs et l’open source viennent du besoin de relier les acteurs pour mieux les faire travailler ensemble en utilisant le *prétexte* de la ressource ouverte. Chaque ressource ouverte permet, en même temps, d’être utile aux acteurs individuellement, de les amener à échanger et s’organiser pour gérer au mieux la ressource tout en leur permettant de se voir progresser à travers elle. Les outils numériques comme le wiki permettent de créer les liens entre les ressources, les personnes, les entreprises.
 
-**Ce que je referai différemment : **
+**Ce que je referai différemment :**
 
  	
 - Ne pas avoir réussi à impliquer plus tôt d’autres agents publics et structures publiques,

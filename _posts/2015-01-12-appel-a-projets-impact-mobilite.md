@@ -22,10 +22,10 @@ Créé par Ashoka, **le programme IMPACT** développe et professionnalise une g�
  
 
  
-Cet accompagnement se clôturera par une présentation de leur stratégie devant un jury de spécialistes du secteur, qui remettra** un prix de 15 000€ à l’initiative la plus prometteuse. Un prix du grand public de 15 000€** sera attribué grâce à un vote en ligne ouvert à tous. Les deux prix sont dotés par la Fondation Macif.
+Cet accompagnement se clôturera par une présentation de leur stratégie devant un jury de spécialistes du secteur, qui remettra **un prix de 15 000€ à l’initiative la plus prometteuse. Un prix du grand public de 15 000€** sera attribué grâce à un vote en ligne ouvert à tous. Les deux prix sont dotés par la Fondation Macif.
 
 **L’appel à projets, coup d’envoi de ce programme, s’adresse aux structures dont la vocation première est sociale, lancées depuis plus d’un an et ayant un impact sur le territoire français ou européen. Dépôt des candidatures et consultation du règlement sur [www.ashoka-impact-mobilite.fr](http://france.ashoka.org/)**. 
 
  
 
- ** Ashoka appel à projet impact mobilité ** from **Les transports du futur**
+ **Ashoka appel à projet impact mobilité** from **Les transports du futur**

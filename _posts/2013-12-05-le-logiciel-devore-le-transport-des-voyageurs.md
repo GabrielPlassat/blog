@@ -25,4 +25,4 @@ Effectivemment le logiciel dévore tout (lire aussi cet article [**Le logiciel d
 
  
 
- ** [Le logiciel dévore le transport de voyageurs : la révolution numérique dans les déplacements](https://fr.slideshare.net/15marches/le-logiciel-dvore-le-transport-de-voyageurs-la-rvolution-numrique-dans-les-dplacements) ** from **[15marches](http://www.slideshare.net/15marches)**
+ **[Le logiciel dévore le transport de voyageurs : la révolution numérique dans les déplacements](https://fr.slideshare.net/15marches/le-logiciel-dvore-le-transport-de-voyageurs-la-rvolution-numrique-dans-les-dplacements)** from **[15marches](http://www.slideshare.net/15marches)**

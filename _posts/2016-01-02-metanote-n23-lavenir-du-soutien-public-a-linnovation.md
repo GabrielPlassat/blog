@@ -98,9 +98,9 @@ Une Méta-plateforme outillée combine quatre dynamiques différentes et liées 
  	
 - **construire des communs sous forme de plateformes techniques ouvertes**, apporter la culture de l’innovation par les communs [1.][2.], et ainsi abaisser les barrières pour faire venir des entrepreneurs [1.] et amener des financeurs publics et privés.
 
-Dans les transports, nous travaillons pour faire de la Fabrique des Mobilités, la Méta-plateforme européenne. Et nous avons besoin de tous les talents. [**Rejoignez nous **](https://fabmob.io)**!**
+Dans les transports, nous travaillons pour faire de la Fabrique des Mobilités, la Méta-plateforme européenne. Et nous avons besoin de tous les talents. [**Rejoignez nous** ](https://fabmob.io)**!**
 
-** **
+ 
 
 **Pour en savoir plus :**
 

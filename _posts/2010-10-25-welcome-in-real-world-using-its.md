@@ -35,7 +35,7 @@ Theme 1: ENERGY
 
  
 
-**Motivation for cooperation with Living Labs : **In contrast with the EU‘s Car Energy Labeling (Directive 1999/94/EC), EmissionProfiles have a one-to-one relationship with a driver’s automotive behavior and thus provide a tool to manage and control car-related CO2 emissions. A Living Lab Reality Check would first of all validate the assumption that user-generated EmissionProfiles can actually help reduce real-world vehicle-related CO2 emissions and indicate the potential reduction percentage. It would also draft the requirements to calibrate, authenticate, and secure such a management tool while conducting an environmental transport management study. The third, perhaps most critical reality check involves verifying the economic and business viability of the tool and mapping potential revenue models onto this new disruptive data source.
+**Motivation for cooperation with Living Labs :** In contrast with the EU‘s Car Energy Labeling (Directive 1999/94/EC), EmissionProfiles have a one-to-one relationship with a driver’s automotive behavior and thus provide a tool to manage and control car-related CO2 emissions. A Living Lab Reality Check would first of all validate the assumption that user-generated EmissionProfiles can actually help reduce real-world vehicle-related CO2 emissions and indicate the potential reduction percentage. It would also draft the requirements to calibrate, authenticate, and secure such a management tool while conducting an environmental transport management study. The third, perhaps most critical reality check involves verifying the economic and business viability of the tool and mapping potential revenue models onto this new disruptive data source.
 
  
 
@@ -55,7 +55,7 @@ L’Industry Solution Center est un show-room de démonstration des solutions IB
 
  
 
-**Christian Estrosi, Ministre de l’Industrie, Président de la Communauté Urbaine de Nice Côte d'Azur et Maire de Nice a déclaré **« *L’ouverture de* ce *nouveau pôle  de solutions « villes intelligentes »  [à La Gaude est un remarquable  exemple qui résonne avec le programme Ecovallée](http://investincotedazur.com/fr/eco-vallee/index.php). Ce pôle concrétise, à Nice Côte d’Azur,  les synergies entre expertise globale et locale  sur les principaux enjeux  urbains qui auront un impact sur les modes de vie de demain de nos concitoyens.* *Il s’agit de systèmes de transport, de gestion de l’énergie et de l’eau et de la sécurité de nos concitoyens*. »
+**Christian Estrosi, Ministre de l’Industrie, Président de la Communauté Urbaine de Nice Côte d'Azur et Maire de Nice a déclaré** « *L’ouverture de* ce *nouveau pôle  de solutions « villes intelligentes »  [à La Gaude est un remarquable  exemple qui résonne avec le programme Ecovallée](http://investincotedazur.com/fr/eco-vallee/index.php). Ce pôle concrétise, à Nice Côte d’Azur,  les synergies entre expertise globale et locale  sur les principaux enjeux  urbains qui auront un impact sur les modes de vie de demain de nos concitoyens.* *Il s’agit de systèmes de transport, de gestion de l’énergie et de l’eau et de la sécurité de nos concitoyens*. »
 
  
 

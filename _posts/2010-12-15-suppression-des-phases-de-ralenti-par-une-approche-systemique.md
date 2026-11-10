@@ -31,7 +31,7 @@ Le cas des véhicules lourds et des camions grand routier" diffère quelque peu.
 
  
 
-Ce réseau national propose des **[études techniques ](http://www.afdc.energy.gov/afdc/vehicles/idle_reduction_electrification.html)**sur les bénéfices, l'évaluation des solutions technologiques (voir photo ci dessous) tant au niveau des **[véhicules](http://www.afdc.energy.gov/afdc/vehicles/idle_reduction_equipment.html) **que des infrastructures (comme  [Shorepower](http://www.shorepower.com/), [CabAire](http://www.cabaire.com/), [EnviroDock](http://www.envirodock.com/), ou [idleAIR](http://convoysolutions.com/) ), l'identification nationale des aires d'arrêt permettant de stationner sans utiliser son moteur, couplée à un **[outil cartographique](http://www.afdc.energy.gov/afdc/locator/tse/state)**. Par exemple, **Idle air** propose une solution donnant accès à internet, TV, chaud/froid ...
+Ce réseau national propose des **[études techniques ](http://www.afdc.energy.gov/afdc/vehicles/idle_reduction_electrification.html)**sur les bénéfices, l'évaluation des solutions technologiques (voir photo ci dessous) tant au niveau des **[véhicules](http://www.afdc.energy.gov/afdc/vehicles/idle_reduction_equipment.html)** que des infrastructures (comme  [Shorepower](http://www.shorepower.com/), [CabAire](http://www.cabaire.com/), [EnviroDock](http://www.envirodock.com/), ou [idleAIR](http://convoysolutions.com/) ), l'identification nationale des aires d'arrêt permettant de stationner sans utiliser son moteur, couplée à un **[outil cartographique](http://www.afdc.energy.gov/afdc/locator/tse/state)**. Par exemple, **Idle air** propose une solution donnant accès à internet, TV, chaud/froid ...
 
  
 

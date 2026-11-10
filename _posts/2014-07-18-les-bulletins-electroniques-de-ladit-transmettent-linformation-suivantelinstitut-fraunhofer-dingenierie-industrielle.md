@@ -40,4 +40,4 @@ Cette coopération est financée à hauteur de 2,65 millions d'euros par le Land
 
  
 
-*Un coopération qui a du sens car le Fraunhofer et le MIT sont des poids lourds de la recherche. Une surprise toutefois : côté allemand, ce n’est pas **l'IVI  (Transport et infrastructures) de Dresde qui est mobilisé bien que sa devise soit "Research for a mobile future" En revanche l'IAO semble plus branché interfaces homme technique. **Signe des temps ?*
+*Un coopération qui a du sens car le Fraunhofer et le MIT sont des poids lourds de la recherche. Une surprise toutefois : côté allemand, ce n’est pas **l'IVI  (Transport et infrastructures) de Dresde qui est mobilisé bien que sa devise soit "Research for a mobile future" En revanche l'IAO semble plus branché interfaces homme technique.** Signe des temps ?*

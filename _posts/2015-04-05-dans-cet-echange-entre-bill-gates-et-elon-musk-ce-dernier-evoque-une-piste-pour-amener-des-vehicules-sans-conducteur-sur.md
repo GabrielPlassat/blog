@@ -64,11 +64,11 @@ Ces concepts sont largement développés par l'auteur dans plusieurs ouvrages do
 
  
 
-Cet avenir, nous le construisons précisément par des actions engagées sur la base d’un avenir que nous croyons possible mais qui résultera des actions engagées. « *Cette boucle causale traduit que la connaissance humaine, y compris celle qui porte sur l’avenir, est indissociable de l’action* ». « ***La description de l’avenir est un déterminant de l’avenir* **». La façon dont nous décrivons les possibles, dont ils sont compris par les citoyens, provoquera ou pas des réactions qui causeront l’avenir ainsi décrit.
+Cet avenir, nous le construisons précisément par des actions engagées sur la base d’un avenir que nous croyons possible mais qui résultera des actions engagées. « *Cette boucle causale traduit que la connaissance humaine, y compris celle qui porte sur l’avenir, est indissociable de l’action* ». « ***La description de l’avenir est un déterminant de l’avenir***». La façon dont nous décrivons les possibles, dont ils sont compris par les citoyens, provoquera ou pas des réactions qui causeront l’avenir ainsi décrit.
 
  
 
-**Elon Musk pourrait ainsi accélérer le temps en apportant d'ici quelques années un corpus de preuves qualifiées et quantifiées justifiant le passage à l'automatisation de nos véhicules. Certains acteurs y ont intérêt, nombreux sont ceux qui seront bouleversés. Et même si il y aura toujours besoin de constructeur d'objet véhicule (phase 5 du déni), les futurs opérateurs de mobilités basés sur des chimères n'auront qu'un objectif : nouer de nouvelles relations avec la multitude. **
+**Elon Musk pourrait ainsi accélérer le temps en apportant d'ici quelques années un corpus de preuves qualifiées et quantifiées justifiant le passage à l'automatisation de nos véhicules. Certains acteurs y ont intérêt, nombreux sont ceux qui seront bouleversés. Et même si il y aura toujours besoin de constructeur d'objet véhicule (phase 5 du déni), les futurs opérateurs de mobilités basés sur des chimères n'auront qu'un objectif : nouer de nouvelles relations avec la multitude.**
 
  
 

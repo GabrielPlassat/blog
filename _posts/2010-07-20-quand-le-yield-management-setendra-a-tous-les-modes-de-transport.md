@@ -127,7 +127,7 @@ A ce niveau certaines précautions doivent être prises:
 
  
 
-**2- Le contrôle de la demande **
+**2- Le contrôle de la demande**
 
  
 
@@ -168,7 +168,7 @@ o	    Les no shows (clients ayant réservés et ne se présentant pour la dé
 
  
 
-**3- Le déplacement de la demande **
+**3- Le déplacement de la demande**
 
  
 
@@ -188,7 +188,7 @@ La compréhension et la modélisation de ces comportements sont également prise
 
  
 
-**Les conditions de mise en œuvre : **
+**Les conditions de mise en œuvre :**
 
  
 
@@ -216,12 +216,12 @@ La mise en œuvre du yield management nécessite en général un logiciel spéci
 
  
 
-** **
+ 
 
  
 
 Les mobilités devront être analysées, comprises, dans leurs complexités, en ayant identifié tous les paramètres influents, pour être rendues prévisibles, modélisables (voir également **[ici]({{ site.baseurl }}/2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement/)**, c’est déjà possible). Et ceci pour tous les types d’usagers, tous les modes, en temps réel, pour que puisse se bâtir les modèles économiques. En complément, les pouvoirs publics pourrai
-ent introduire de nouvelles dimensions en matière d’équité sociale, d’aménagement du territoire, à cet outil qui risque de conduire à des tarifs plus élevés dans les zones peu denses par exemple.** Un nouveau champ de recherche s’ouvre pour introduire des « valeurs publiques » dans un outil purement dédié à la maximisation du profit.**
+ent introduire de nouvelles dimensions en matière d’équité sociale, d’aménagement du territoire, à cet outil qui risque de conduire à des tarifs plus élevés dans les zones peu denses par exemple. **Un nouveau champ de recherche s’ouvre pour introduire des « valeurs publiques » dans un outil purement dédié à la maximisation du profit.**
 
  
 

@@ -80,7 +80,7 @@ Ce dernier point est essentiel dans le domaine des transports. Que se passera-t-
  
  
 - Ces monnaies pourraient alors être utilisées pour quantifier plus précisement les pratiques et améliorer encore les services, ou encore quantifier précisement les gains énergétiques, les négaWatt, 
-- Des mécanismes de "récompenses" publics et/ou privés pourraient se développer sur la base des **nudges **(voir également **ce rapport du CAS sur les nudges verts**), 
+- Des mécanismes de "récompenses" publics et/ou privés pourraient se développer sur la base des **nudges** (voir également **ce rapport du CAS sur les nudges verts**), 
 - Ces récompenses n'auront pas d'effets rebonds négatifs car ces monnaies sont par construction locales et limitées à des communautés, 
 - Les ambassadeurs (personnes qui utilisent, parlent, simplifient le plus les services) sont plus facilement identifiés et deviennent des vecteurs de développement, 
  

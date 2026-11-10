@@ -11,11 +11,11 @@ redirect_from:
   - /2012/02/19/seminaire-dune-journee-pour-ami-chaines-logistiques-et-mobilite-occasionnelle-et-initier-des-projets/
 ---
 
-En complément des progrès technologiques sur les véhicules, nous devons maintenant optimiser les systèmes. L’ADEME, dans le cadre des Investissements d’Avenir, a ouvert un **appel à manifestations d’intérêt (AMI) **sur ce sujet** **dédié aux** *[chaînes logistiques et à la mobilité occasionnelle des personnes.](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=80842&p1=1)***
+En complément des progrès technologiques sur les véhicules, nous devons maintenant optimiser les systèmes. L’ADEME, dans le cadre des Investissements d’Avenir, a ouvert un **appel à manifestations d’intérêt (AMI)** sur ce sujet dédié aux ***[chaînes logistiques et à la mobilité occasionnelle des personnes.](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=80842&p1=1)***
 
  
 
-[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-pi.jpg)**Nous souhaitons nous appuyer sur les synergies et les coopérations existantes au cœur de plusieurs pôles de compétitivités pour permettre aux entreprises impliquées de prendre une position de premier plan dans leur domaine et également pour maximiser les conditions de succès de cet AMI (clôture de l’appel le 22 Mai 2012). **
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e7a1c629970c-pi.jpg)**Nous souhaitons nous appuyer sur les synergies et les coopérations existantes au cœur de plusieurs pôles de compétitivités pour permettre aux entreprises impliquées de prendre une position de premier plan dans leur domaine et également pour maximiser les conditions de succès de cet AMI (clôture de l’appel le 22 Mai 2012).**
 
  
 
@@ -27,17 +27,17 @@ En complément des progrès technologiques sur les véhicules, nous devons maint
 
  
 
-** **
+ 
 
  Cet AMI incite à l’élaboration de projets innovants intégrant le développement et l’expérimentation à grande échelle : 
  
-- **de nouvelles bases de données **accessibles à tous -acteurs économiques, citoyens et collectivités- afin d’améliorer l’accès aux connaissances et accroître les capacités d’innovations, 
-- **d’assistants numériques et de nouveaux outils **pour aider les personnes, les entreprises et les collectivités à choisir leur mode de déplacement, se localiser, ou encore, définir leurs investissements en infrastructures, 
-- **de nouvelles solutions multimodales **(c’est-à-dire, combinant plusieurs modes de déplacement), à l’échelle de tous les territoires, pour d’une part faciliter les trajets occasionnels, que ce soit les déplacements professionnels ou les déplacements de loisirs et touristiques, ou d’autre part, réduire les besoins en matière de transport : conférences et visites virtuelles, télétravail, espaces d’échanges, réseaux sociaux… 
-- **de nouvelles « chaînes logistiques » **intégrant l’ensemble des acteurs, plus adaptées aux besoins, efficaces énergétiquement, modulables en cas de changements imprévus, mais aussi plus ouvertes aux synergies et aux mutualisations. 
+- **de nouvelles bases de données** accessibles à tous -acteurs économiques, citoyens et collectivités- afin d’améliorer l’accès aux connaissances et accroître les capacités d’innovations, 
+- **d’assistants numériques et de nouveaux outils** pour aider les personnes, les entreprises et les collectivités à choisir leur mode de déplacement, se localiser, ou encore, définir leurs investissements en infrastructures, 
+- **de nouvelles solutions multimodales** (c’est-à-dire, combinant plusieurs modes de déplacement), à l’échelle de tous les territoires, pour d’une part faciliter les trajets occasionnels, que ce soit les déplacements professionnels ou les déplacements de loisirs et touristiques, ou d’autre part, réduire les besoins en matière de transport : conférences et visites virtuelles, télétravail, espaces d’échanges, réseaux sociaux… 
+- **de nouvelles « chaînes logistiques »** intégrant l’ensemble des acteurs, plus adaptées aux besoins, efficaces énergétiquement, modulables en cas de changements imprévus, mais aussi plus ouvertes aux synergies et aux mutualisations. 
  
 
-**Grâce aux pôles de compétitivité, il nous faut identifier puis synchroniser **toutes les compétences dans de nombreux domaines **pour créer des partenariats innovants**.
+**Grâce aux pôles de compétitivité, il nous faut identifier puis synchroniser** toutes les compétences dans de nombreux domaines **pour créer des partenariats innovants**.
 
  
 

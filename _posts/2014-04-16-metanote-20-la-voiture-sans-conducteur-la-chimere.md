@@ -50,7 +50,7 @@ Après avoir indexé le web pour permettre une recherche et le développement d'
 
 Ajoutons à cela les [**drones solaires**](http://www.forbes.com/sites/gregorymcneal/2014/04/14/fight-for-internet-drones-heats-up-as-google-buys-drone-company-originally-sought-by-facebook/), et les limites entre l'indexation automatique et la surveillance deviennent floues (lire cet article sur [**drone et surveillance**]({{ site.baseurl }}/2012/06/les-drones-aeriens-arrivent/))
 
-Google accède ainsi aux usages réels des objets roulants (ce qu'aucun constructeur n'est capable de faire à grande échelle aujourd'hui). Utilisant les millions de smartphone et de montres équipé de système Android, les flux sont appris, **[les trafics deviennent prédictifs](http://www.technologyreview.com/news/428732/androids-rise-helps-google-grow-its-traffic/). **La stratégie "indexation du monde physique" se structure en 3 étapes :
+Google accède ainsi aux usages réels des objets roulants (ce qu'aucun constructeur n'est capable de faire à grande échelle aujourd'hui). Utilisant les millions de smartphone et de montres équipé de système Android, les flux sont appris, **[les trafics deviennent prédictifs](http://www.technologyreview.com/news/428732/androids-rise-helps-google-grow-its-traffic/).** La stratégie "indexation du monde physique" se structure en 3 étapes :
 
  	
 - Connaissance du contexte, de l'environnement, des [**territoires** ](http://www.govtech.com/technology/Autonomous-Vehicles-May-Soon-Drive-California-Roads.html): Google map, Street view, Google glass, drone, Android wear

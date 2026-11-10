@@ -11,7 +11,7 @@ redirect_from:
   - /2012/03/05/materialiser-le-plus-tard-possible-le-plus-pres-du-consommateur-par-vw/
 ---
 
-VW pousse le concept de plateforme véhicule avec [**MQB **](http://www.eurocarnews.com/0/0/1830/0/volkswagen-introduces-the-modular-transverse-matrix-mqb.html):
+VW pousse le concept de plateforme véhicule avec [**MQB** ](http://www.eurocarnews.com/0/0/1830/0/volkswagen-introduces-the-modular-transverse-matrix-mqb.html):
 
  
  

@@ -29,7 +29,7 @@ Avec une interface aussi simple et dépouillée, ne permettant pas une explorati
 
  
 
-**Cette couche logicielle va conduire à une main mise dans la production de données hypercontextualisées, donc très riches. Très peu d'acteurs auront autant de connaissances pour comprendre les pratiques et les comportements dans le domaine des transports. Il n'aura fallu qu'une dizaine d'années pour construire un empire. **
+**Cette couche logicielle va conduire à une main mise dans la production de données hypercontextualisées, donc très riches. Très peu d'acteurs auront autant de connaissances pour comprendre les pratiques et les comportements dans le domaine des transports. Il n'aura fallu qu'une dizaine d'années pour construire un empire.**
 
  
 

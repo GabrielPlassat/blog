@@ -17,4 +17,4 @@ Développé pour travailler sur **[les visions 2030-2050]({{ site.baseurl }}/201
 
 Une version spécifique a été conçue avec des interfaces plus simples, cette version est téléchargeable par **[ce lien](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/files/OUTILS_vba_Prospective_mobilite_2030-2050.zip)**. Un guide utilisateur vient compléter l'outil, ainsi que des liens vers des études et documents de référence. Ce travail complémentaire a été réalisé dans le cadre d'un stage par**[ Inès ADAMS](http://www.linkedin.com/pub/in%C3%A8s-adams/7b/29a/4aa)**. 
 
- ** [Rapport de stage prospective transport et mobilité 2030 2050- inès adams_2013](https://fr.slideshare.net/transportsdufutur/rapport-de-stage-prospective-transport-et-mobilit-2030-2050-ins-adams2013) ** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**
+ **[Rapport de stage prospective transport et mobilité 2030 2050- inès adams_2013](https://fr.slideshare.net/transportsdufutur/rapport-de-stage-prospective-transport-et-mobilit-2030-2050-ins-adams2013)** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**

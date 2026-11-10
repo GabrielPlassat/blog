@@ -88,7 +88,7 @@ Alors que Google transforme très peu de clic en euro, **Amazon** a structurelle
 
  
 
-**Une brève histoire de l’avenir des transports **
+**Une brève histoire de l’avenir des transports**
 
  
 
@@ -105,7 +105,7 @@ L’intégrateur vertical ne pourrait, pour le moment, pas être un industriel d
 
  
 
-**Devenir la première plateforme des mobilités **
+**Devenir la première plateforme des mobilités**
 
  
 
@@ -113,7 +113,7 @@ Cette transformation d’une application de départ (moteur de recherche, vente 
 
  
 
-**Si, pour devenir plus séduisante une des 4 plateformes mondiales doit proposer des applications de mobilité, alors elle le fera. Elles ont toutes les 4 les capacités techniques et financières pour s’engager dans ces développements. Quelle sera la première des 4 à avoir besoin d’offrir des applications de mobilité ? et quelle sera la chaîne de valeur résultante et la position des fabricants de véhicule ? **
+**Si, pour devenir plus séduisante une des 4 plateformes mondiales doit proposer des applications de mobilité, alors elle le fera. Elles ont toutes les 4 les capacités techniques et financières pour s’engager dans ces développements. Quelle sera la première des 4 à avoir besoin d’offrir des applications de mobilité ? et quelle sera la chaîne de valeur résultante et la position des fabricants de véhicule ?**
 
  
 
@@ -125,7 +125,7 @@ Tant que ce «consentement au don de données» existe, que les expériences vé
 
  
 
-**Sommes-nous capables de réduire ces risques pour ne garder que les formidables opportunités offertes par ces plateformes ? Quelle serait, pour le contexte français, la meilleure plateforme ? **
+**Sommes-nous capables de réduire ces risques pour ne garder que les formidables opportunités offertes par ces plateformes ? Quelle serait, pour le contexte français, la meilleure plateforme ?**
 
  
 
@@ -134,7 +134,7 @@ calité sont dès lors applicables, là aussi pour des bénéfices collectifs. C
 
  
 
-**La future plateforme viendra donc soit d’un des 4 fantastiques, soit d’une collectivité de rang mondial devenue Opérateur Territorial d’Expériences, soit d’un relieur devenu Réseau Social des Mobilités, soit d’un opérateur de transports publics devenu Fournisseur d’économie positive, soit d’un des premiers constructeurs mondiaux devenu également [Fournisseur de Mobilité]({{ site.baseurl }}/2013/02/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees/). **
+**La future plateforme viendra donc soit d’un des 4 fantastiques, soit d’une collectivité de rang mondial devenue Opérateur Territorial d’Expériences, soit d’un relieur devenu Réseau Social des Mobilités, soit d’un opérateur de transports publics devenu Fournisseur d’économie positive, soit d’un des premiers constructeurs mondiaux devenu également [Fournisseur de Mobilité]({{ site.baseurl }}/2013/02/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees/).**
 
  
 

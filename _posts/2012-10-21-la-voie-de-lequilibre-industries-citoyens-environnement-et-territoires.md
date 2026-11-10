@@ -94,7 +94,7 @@ Je fais ici l’hypothèse (*que je vais tenter de démontrer après*) que les c
 
  
 
-**Pour imaginer et déployer de telles innovations, l’entreprise doit également muter elle-même **
+**Pour imaginer et déployer de telles innovations, l’entreprise doit également muter elle-même**
 
  
 

@@ -11,7 +11,7 @@ redirect_from:
   - /2010/11/15/les-societes-les-plus-innovantes-plus-pres-du-consommateur-moins-de-hard-plus-de-soft/
 ---
 
-Le **[rapport annuel de Booz & company](http://www.booz.com/global/home/what_we_think/featured_content/innovation_1000_2010) **(le 6ème) détaille et analyse les entreprises les plus innovantes, les secteurs gagnants/perdants. L'industrie automobile est en baisse, Toyota perd 3 places au profit de Nokia, Roche et Microsoft. Les 3 piliers identifiés pour être et rester innovant : 
+Le **[rapport annuel de Booz & company](http://www.booz.com/global/home/what_we_think/featured_content/innovation_1000_2010)** (le 6ème) détaille et analyse les entreprises les plus innovantes, les secteurs gagnants/perdants. L'industrie automobile est en baisse, Toyota perd 3 places au profit de Nokia, Roche et Microsoft. Les 3 piliers identifiés pour être et rester innovant : 
 
  
 

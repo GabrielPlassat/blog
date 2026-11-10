@@ -20,7 +20,7 @@ Et de ces expérimentations vont naître d’autres imaginaires avec une spécif
 
  
 
-Et de ces apprentissages vont naître d’autres services de mobilités inaccessibles aujourd’hui tant du point de vue des techniques que des modèles d’affaires, car ils seront **co-conçus **par les « meilleurs » usagers, identifiés grâce aux outils de réseaux sociaux qui commencent à émerger (lire l’article **[Votre réputation numérique sera votre monnaie …]({{ site.baseurl }}/2013/04/votre-reputation-numerique-sera-votre-monnaie-et-la-base-de-votre-implication-altruiste/)**). Ces usagers pionniers seront intégrés dans les structures de développement des prochaines générations de services. Ce ne sera pas de « l’open innovation », ce sera un véritable lâcher prise. 
+Et de ces apprentissages vont naître d’autres services de mobilités inaccessibles aujourd’hui tant du point de vue des techniques que des modèles d’affaires, car ils seront **co-conçus** par les « meilleurs » usagers, identifiés grâce aux outils de réseaux sociaux qui commencent à émerger (lire l’article **[Votre réputation numérique sera votre monnaie …]({{ site.baseurl }}/2013/04/votre-reputation-numerique-sera-votre-monnaie-et-la-base-de-votre-implication-altruiste/)**). Ces usagers pionniers seront intégrés dans les structures de développement des prochaines générations de services. Ce ne sera pas de « l’open innovation », ce sera un véritable lâcher prise. 
 
  
 

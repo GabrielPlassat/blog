@@ -24,7 +24,7 @@ Aujourd’hui différents leviers d’action permettent de limiter la dépendanc
 
  
 
-Si les initiatives locales dans ces domaines sont foisonnantes, leur portée reste marginale.** Comment, passer de ces initiatives isolées à un changement significatif d’échelle ?**
+Si les initiatives locales dans ces domaines sont foisonnantes, leur portée reste marginale. **Comment, passer de ces initiatives isolées à un changement significatif d’échelle ?**
 
  
 

@@ -11,7 +11,7 @@ redirect_from:
   - /2011/09/28/projet-europeen-citynetmobil-a-antibes-28-29-oct/
 ---
 
-Le projet européen [**CityNetMobil **](http://www.citynetmobil.org/)vise à expérimenter de nouveaux modes de transports. Deux jours d'échanges, de débats et d'essais sont prévus à Antibes (06) les 28 et 29 octobre.
+Le projet européen [**CityNetMobil** ](http://www.citynetmobil.org/)vise à expérimenter de nouveaux modes de transports. Deux jours d'échanges, de débats et d'essais sont prévus à Antibes (06) les 28 et 29 octobre.
 
  
 

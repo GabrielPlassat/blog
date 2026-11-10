@@ -19,9 +19,9 @@ Dans la suite de la série qui fera le meilleur GMP de 20 kW ?" et "less is more
 
  
 
-**New twin-cylinder turbo-diesel designed in partnership with Ricardo is the world’s first engine of this type to be certified Euro 5 emissions compliant – part of a family of new engines spanning Piaggio light commercial vehicles across international markets. **
+**New twin-cylinder turbo-diesel designed in partnership with Ricardo is the world’s first engine of this type to be certified Euro 5 emissions compliant – part of a family of new engines spanning Piaggio light commercial vehicles across international markets.**
 
- The new Piaggio engine family – designed and developed in cooperation with Ricardo – is intended for application across the Piaggio light commercial vehicle range of products which are highly popular in many European as well as Asian markets. The new diesel engines will enable the Piaggio Group to offer customers in Europe and Asia an even broader choice of **modern commercial vehicles **delivering excellent performance combined with low fuel consumption and emissions.
+ The new Piaggio engine family – designed and developed in cooperation with Ricardo – is intended for application across the Piaggio light commercial vehicle range of products which are highly popular in many European as well as Asian markets. The new diesel engines will enable the Piaggio Group to offer customers in Europe and Asia an even broader choice of **modern commercial vehicles** delivering excellent performance combined with low fuel consumption and emissions.
 
 Ricardo is a long standing partner to the Italian manufacturer – famous for its strong European leadership in the scooter and motorcycle business and its broad range of light commercial vehicles – including both the supply of engineering software as well as support for product development programmes.
 

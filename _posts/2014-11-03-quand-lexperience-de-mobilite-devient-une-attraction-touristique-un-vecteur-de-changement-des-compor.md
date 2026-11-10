@@ -106,7 +106,7 @@ Dans tous les cas, ce que nous pouvons retenir de ce retour d’expérience, de 
  
  
 - **Il existe un marché pour « le tourisme de la mobilité électrique ».** Ainsi que pour celui de la multimodalité avec un trajet en train de plus de 30min. Le VE est une attraction en soi, qui s’intègre bien dans une dynamique de « slow tourisme », de « tourisme nature et responsable ». 
-- **Le principe de l’expérimentation et de la co-construction avec les utilisateurs fait encore ses preuves. **Nous avons challengé nos hypothèses, à partir d’indicateurs et de données qualitatives produites sur le terrain, nous avons appris… L’interaction entre tous les acteurs, pluridisciplinaires (tourisme, transport…) et les « futurs clients », a été très productive. 
+- **Le principe de l’expérimentation et de la co-construction avec les utilisateurs fait encore ses preuves.** Nous avons challengé nos hypothèses, à partir d’indicateurs et de données qualitatives produites sur le terrain, nous avons appris… L’interaction entre tous les acteurs, pluridisciplinaires (tourisme, transport…) et les « futurs clients », a été très productive. 
  
 
  
@@ -117,7 +117,7 @@ Dans tous les cas, ce que nous pouvons retenir de ce retour d’expérience, de 
 
  
 
-**Les partenaires fondateurs de Contact Nature : **IDDIL, BMA, Branféré, la CCI Bretagne, la Maison du tourisme du Pays de Redon, la MEDEFI, L’Hôt’Berge, la SNCF Bretagne, Renault, France Craft, Europcar, le Pays de Redon, la Communauté de Communes de La Gacilly et l’Agence Grrr.
+**Les partenaires fondateurs de Contact Nature :** IDDIL, BMA, Branféré, la CCI Bretagne, la Maison du tourisme du Pays de Redon, la MEDEFI, L’Hôt’Berge, la SNCF Bretagne, Renault, France Craft, Europcar, le Pays de Redon, la Communauté de Communes de La Gacilly et l’Agence Grrr.
 
  
 

@@ -11,7 +11,7 @@ redirect_from:
   - /2011/02/03/systemes-de-transports-intelligents-au-japon/
 ---
 
-Un [document](http://www.bulletins-electroniques.com/rapports/smm10_046.htm)  d'une centaine de pages élaboré par l'ambassade de France à Tokyo, intitulé  **Les systèmes de Transport Intelligents au Japon" ** présente le développement des systèmes de transport routier intelligents au Japon. 
+Un [document](http://www.bulletins-electroniques.com/rapports/smm10_046.htm)  d'une centaine de pages élaboré par l'ambassade de France à Tokyo, intitulé  **Les systèmes de Transport Intelligents au Japon"** présente le développement des systèmes de transport routier intelligents au Japon. 
 
  
 
@@ -23,7 +23,7 @@ La deuxième partie vise à présenter les **technologies des transports intelli
 
  
 
-Dans la troisième partie, le rapport aborde les **mesures qui ont été prises par le gouvernement afin de prendre en compte l'aspect environnemental dans les transports intelligents. **Il présente les actions qui visent à améliorer la protection des routes contre les désastres naturels et dans un deuxième temps, expose les dispositions prises par les autorités dans le but de diminuer les émissions de carbone.
+Dans la troisième partie, le rapport aborde les **mesures qui ont été prises par le gouvernement afin de prendre en compte l'aspect environnemental dans les transports intelligents.** Il présente les actions qui visent à améliorer la protection des routes contre les désastres naturels et dans un deuxième temps, expose les dispositions prises par les autorités dans le but de diminuer les émissions de carbone.
 
  
 

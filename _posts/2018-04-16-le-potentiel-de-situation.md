@@ -37,7 +37,7 @@ Dans un environnement instable, VICA, d'autres logiques sont à l’œuvre. Deva
 Le potentiel de situation
 François Jullien dans *Conférence sur l’efficacité* (lire aussi [**M3** ](https://www.millenaire3.com/publications/m3-societe-urbaine-et-action-publique-n-4)avec une interview) analyse les écarts entre la notion d’efficacité occidentale et chinoise, dont voici quelques extraits :
 
-**Les facteurs favorables et la circonstance **
+**Les facteurs favorables et la circonstance**
 
 “Le Stratège est ainsi invité à partir de la situation réelle non pas une situation souhaitée ou simulée mais bien de cette situation si dans laquelle je suis engagé et au creux de laquelle je tente de repérer où se trouve le potentiel et comment l'exploiter [...] il s'agit d'identifier les facteurs favorables sur lequel je peux m'appuyer pour me laisser porter par eux pour en tirer profit [...] il ne s'agit plus de faire un plan des opérations mais de dresser un diagramme du potentiel de situation entre l'adversaire et moi [...] Le potentiel de situation consiste alors à déterminer les variables influentes en fonction du profit, la notion de circonstance sur laquelle la stratégie européenne précédemment achoppait [...]  La circonstance, en Europe, était ce qui fait dévier le cours de la guerre entre la modélisation et son application, c’est une source de friction dans la manœuvre. Sun Tzu nous dit précisément à l'opposé que, à la guerre, la victoire ne dévie pas parce que la victoire est toujours la résultante du potentiel de situation telle qu'il se renouvelle au cours des opérations [...] 
 

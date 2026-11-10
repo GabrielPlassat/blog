@@ -34,7 +34,7 @@ Pourquoi doit on raisonner comme ça ? Laissez moi vous raconter l’histoire du
  	
 - Personne ne connaît la **date** précise à laquelle des robotaxis opéreront à grande échelle (et donc présenteront des risques pour ceux qui n’y ont pas cru), comme cela était le cas pour la pellicule photo,
  	
-- Personne ne connaît la ou les formes qui trouveront un** modèle d’affaire**, ni le premier territoire dans lequel sera opéré des services de transport de masse robotisés.
+- Personne ne connaît la ou les formes qui trouveront un **modèle d’affaire**, ni le premier territoire dans lequel sera opéré des services de transport de masse robotisés.
  	
 - Le **risque** à ne pas être un des 3 leaders dans ce domaine est immense à la fois d'un Point de vue industriel, social, environnemental mais aussi en terme de sécurité nationale
  	

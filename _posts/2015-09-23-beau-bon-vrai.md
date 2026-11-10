@@ -11,7 +11,7 @@ redirect_from:
   - /2015/09/23/beau-bon-vrai/
 ---
 
-VW a donc conçu et réalisé un dispositif technique permettant de détecter les conditions d’un cycle d’homologation pour couper volontairement les systèmes de dépollution en dehors de ce cycle conduisant à des sur-émissions de **NOx**. VW a fait cela notamment pour afficher des consommations de **carburant** réduites car cette performance est visible par le consommateur. En faisant cela, les émissions polluantes (NOx notamment) augmentent en utilisation réelle. Mais cela n'est pas visible directement par l’utilisateur. Les questions qui émergent : « **Comment en sommes-nous arriver là ? Quelle est la prochaine étape ?**»**. **
+VW a donc conçu et réalisé un dispositif technique permettant de détecter les conditions d’un cycle d’homologation pour couper volontairement les systèmes de dépollution en dehors de ce cycle conduisant à des sur-émissions de **NOx**. VW a fait cela notamment pour afficher des consommations de **carburant** réduites car cette performance est visible par le consommateur. En faisant cela, les émissions polluantes (NOx notamment) augmentent en utilisation réelle. Mais cela n'est pas visible directement par l’utilisateur. Les questions qui émergent : « **Comment en sommes-nous arriver là ? Quelle est la prochaine étape ?**»**.**
 
 **Pour s'en sortir, il n'y a qu'une solution : aller là où personne n'est jamais allé et devenir totalement transparent.**
 
@@ -32,7 +32,7 @@ Aux quatre coins du monde, trois valeurs communes ressortent comme étant essent
 	
 - **Le vrai (la science)**: Les objets, dont les véhicules, mais également les services, comme l’autopartage ou le covoiturage par exemple, sont totalement caractérisés en matière de performances environnementales, économiques et sociales. Les coûts et les bénéfices sont établis, partagés en toute transparence à tous les acteurs, permettant d'améliorer fortement la réplicabilité. Les émissions polluantes et la consommation, par exemple, sont totalement connues en usage réel ; ces informations sont disponibles, utilisables pour sélectionner les meilleurs objets en fonction des contextes. Les usagers participent largement à la qualification de ces indicateurs. Des marchés dits *conscients* se développent.
 
-Jean-françois Noubel nous détaille les liens : "Beau, Bon et Vrai s’entremêlent. Comment peut-il y avoir de la beauté face au mensonge ? Comment peut-il y avoir du bon sans vérité ? A quoi sert la vérité si on ne la pétrit pas de beauté et bonté ? **Beau, Bon, Vrai opèrent comme la diffraction en trois couleurs d’une seule et unique source de lumière. Ils composent tout ce que nous nommons *richesse.* **"
+Jean-françois Noubel nous détaille les liens : "Beau, Bon et Vrai s’entremêlent. Comment peut-il y avoir de la beauté face au mensonge ? Comment peut-il y avoir du bon sans vérité ? A quoi sert la vérité si on ne la pétrit pas de beauté et bonté ? **Beau, Bon, Vrai opèrent comme la diffraction en trois couleurs d’une seule et unique source de lumière. Ils composent tout ce que nous nommons *richesse.*** "
 
 [![truth_goodness_beauty_wealth_1024x768.013]({{ site.baseurl }}/assets/images/2015/09/truth_goodness_beauty_wealth_1024x768.013-1024x768.jpg)]({{ site.baseurl }}/assets/images/2015/09/truth_goodness_beauty_wealth_1024x768.013.jpg)
 

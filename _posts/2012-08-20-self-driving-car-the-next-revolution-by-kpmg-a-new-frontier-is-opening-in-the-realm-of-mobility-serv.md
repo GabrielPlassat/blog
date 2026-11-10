@@ -23,7 +23,7 @@ Ce rapport de **KPMG** et **CAR** (Center for Automotive Research) confirme les 
 
  
 
-Il devient urgent de penser **l'automobile du futur** en replaçant l'objet à sa place dans un système global. Il devient urgent de penser **le futur de l'automobile** dans le monde qui vient. Mais pour voir le monde qui vient, il faut retrouver ** les compétences des explorateurs** et accepter de se former à de nouvelles **formes d'intelligences collectives**. 
+Il devient urgent de penser **l'automobile du futur** en replaçant l'objet à sa place dans un système global. Il devient urgent de penser **le futur de l'automobile** dans le monde qui vient. Mais pour voir le monde qui vient, il faut retrouver **les compétences des explorateurs** et accepter de se former à de nouvelles **formes d'intelligences collectives**. 
 
  
 

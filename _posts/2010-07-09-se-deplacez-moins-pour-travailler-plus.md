@@ -39,15 +39,15 @@ More fuel efficient cars, more public transportation, more ridesharing, more tel
 
  
 
-*** ***
+***** *
 
  
 
-***“******If their commuting time would be significantly reduced, 53% said they would spend more time with friends or family, 44% would devote themselves to more recreation, and 42% would spend more time exercising. And 16% said they would work more (multiple answers were allowed).” See also graph below...***
+***“If their commuting time would be significantly reduced, 53% said they would spend more time with friends or family, 44% would devote themselves to more recreation, and 42% would spend more time exercising. And 16% said they would work more (multiple answers were allowed).” See also graph below...***
 
  
 
-***  ***
+***** *
 
  
 

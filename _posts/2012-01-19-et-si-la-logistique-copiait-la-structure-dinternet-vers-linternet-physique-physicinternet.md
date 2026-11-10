@@ -15,7 +15,7 @@ Mines Paris Tech étudie avec de nombreux partenaires cette transition (voir [**
 
  
 
-Si la logistique est devenue incontournable dans l’économie moderne, son impact environnemental devient insoutenable. Le transport de marchandises est désormais un des principaux postes d’émission de CO2 en France (14%), alors que les prestations logistiques et de transport restent encore insuffisamment efficientes. Face à cette situation, et convaincu que le modèle actuel est dépassé, les chercheurs du CGS de MINES ParisTech proposent de **refonder le système pour passer progressivement d’une logistique de marchandises fragmentée et propriétaire, à un système ouvert aux prestations logistiques universellement interconnectées. **
+Si la logistique est devenue incontournable dans l’économie moderne, son impact environnemental devient insoutenable. Le transport de marchandises est désormais un des principaux postes d’émission de CO2 en France (14%), alors que les prestations logistiques et de transport restent encore insuffisamment efficientes. Face à cette situation, et convaincu que le modèle actuel est dépassé, les chercheurs du CGS de MINES ParisTech proposent de **refonder le système pour passer progressivement d’une logistique de marchandises fragmentée et propriétaire, à un système ouvert aux prestations logistiques universellement interconnectées.**
 
  
 

@@ -120,7 +120,7 @@ e control: Provide access for clean passenger vehicles at safe speeds and in sig
 
  
 
-**Take actions **: 
+**Take actions**: 
 
  
 
@@ -132,11 +132,11 @@ You can:
 
  
 
-· **[Visit the ITDP website to make a secure donation online](http://www.itdp.org/donate)******
+· **[Visit the ITDP website to make a secure donation online](http://www.itdp.org/donate)
 
  
 
-· **[Sign up for news and alerts](http://www.ourcitiesourselves.org/index.php/take_action/mailing_list/)******
+· **[Sign up for news and alerts](http://www.ourcitiesourselves.org/index.php/take_action/mailing_list/)
 
  
 

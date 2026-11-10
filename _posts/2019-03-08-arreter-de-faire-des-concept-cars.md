@@ -24,7 +24,7 @@ Toutes ces annonces révèlent plusieurs paradoxes de l’industrie automobile 
 
 ## **3 types de VE**
 
-En résumé, plusieurs constructeurs sentent bien que leurs plateformes techniques sont une pièce du puzzle, mais aucun n’a engagé une démarche intégrale pour s'en servir pour explorer des continents inconnus. En résumé, trois grandes familles de véhicules électriques vont co-exister (je reprends ici un bout de la **[MétaNote N°0]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/) **rédigée en 2009) :
+En résumé, plusieurs constructeurs sentent bien que leurs plateformes techniques sont une pièce du puzzle, mais aucun n’a engagé une démarche intégrale pour s'en servir pour explorer des continents inconnus. En résumé, trois grandes familles de véhicules électriques vont co-exister (je reprends ici un bout de la **[MétaNote N°0]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** rédigée en 2009) :
 
  	
 - Des VE haut de gamme : Tesla like. Vendu cher, beaucoup de batterie et lourd, rien d’intéressant du côté énergie, environnement, c’est le business model classique des constructeurs.

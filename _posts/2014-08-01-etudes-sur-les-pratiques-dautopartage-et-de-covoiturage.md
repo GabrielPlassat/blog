@@ -38,7 +38,7 @@ L’objectif est, pour chacun des services, de mieux connaître la pratique, la 
 
  
 
-**L’autopartage **
+**L’autopartage**
 
  
 
@@ -50,7 +50,7 @@ Il existe diverses catégories de services d’autopartage, très différents da
 
  
  
-- **L’autopartage en boucle **: les véhicules, gérés par un opérateur, doivent être rapportés à la station de départ. Ils sont utilisés en moyenne pour quelques heures et quelques dizaines de kilomètres. Exemples : le réseau Citiz présent dans une quinzaine d’agglomérations françaises, Mobizen (Ile-de-France), Mobility Carsharing (Suisse), Zipcar (US), … 
+- **L’autopartage en boucle**: les véhicules, gérés par un opérateur, doivent être rapportés à la station de départ. Ils sont utilisés en moyenne pour quelques heures et quelques dizaines de kilomètres. Exemples : le réseau Citiz présent dans une quinzaine d’agglomérations françaises, Mobizen (Ile-de-France), Mobility Carsharing (Suisse), Zipcar (US), … 
 - **L’autopartage en trace directe** : les véhicules peuvent être restitués dans n’importe quelle station (système avec station) ou n’importe où sur la voirie (systèmes en flotte libre). Ils sont utilisés pour quelques dizaines de minutes et quelques kilomètres. Exemples : Autolib’, Twizy Way, Car2go, … 
 - **L’autopartage entre particuliers** : des particuliers peuvent louer leur voiture en passant par des plateformes communautaires de mise en relation. Une assurance spécifique couvre la durée de location. Les véhicules sont généralement loués de la demi-journée à plusieurs jours et quelques centaines de kilomètres. Exemples : Buzzcar, Drivy, Ouicar, Deways, Koolicar, … 
  
@@ -64,7 +64,7 @@ Les études soutenues par l’ADEME :
 - Une troisième étude sera lancée en septembre 2014, concernant les services **d’autopartage entre particuliers**. Résultats attendus pour mi 2015. 
  
 
-**Le covoiturage **
+**Le covoiturage**
 
  
  

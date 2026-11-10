@@ -17,4 +17,4 @@ New solutions are called for and affect everyone. Because the challenges for the
 
 [![NMW]({{ site.baseurl }}/assets/images/2015/07/NMW.jpg)]({{ site.baseurl }}/assets/images/2015/07/NMW.jpg)
 
-** [Iaa new_mobility_world_startup_zone_overview 062215](//fr.slideshare.net/FabMob/iaa-newmobilityworldstartupzoneoverview-062215) ** from **[FabMob](//www.slideshare.net/FabMob)**
+**[Iaa new_mobility_world_startup_zone_overview 062215](//fr.slideshare.net/FabMob/iaa-newmobilityworldstartupzoneoverview-062215)** from **[FabMob](//www.slideshare.net/FabMob)**

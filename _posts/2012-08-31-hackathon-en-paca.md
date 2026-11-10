@@ -21,7 +21,7 @@ Le prochain **Hackathon** organisé en PACA rejoint les précédentes réalisati
 
 Ces livrables vont à leur tour créer des données, changer les comportements et même améliorer l'attractivité économique du territoire. Rennes a essayé d'évaluer l'impact économique de l'open data pour le territoire :
 
- ** Open Data Garage - "Comment évaluer l'impact économique de l'open data local ?" ** from **La Cantine numérique rennaise** 
+ **Open Data Garage - "Comment évaluer l'impact économique de l'open data local ?"** from **La Cantine numérique rennaise** 
 
 Il est déjà constaté que certaines entreprises sont attirées par le territoire grâce à l'open data. Tous les domaines sont touchés, notamment bien sûr les transports et la mobilité, comme le montre l'exemple de **Bordeaux**, d'**Ottawa** ou de **Singapour**.
 

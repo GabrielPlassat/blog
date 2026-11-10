@@ -27,7 +27,7 @@ CRTL SHIFT travaille également sur un outil, **[le PIMS](http://www.rightsideup
 
  
  
-- Nouveaux rapports du Global Commerce Initiative, New ways to work together, Informations sharing et [**Value Chain in 2018**](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2010/06/GCI2018FutureValueChain.pdf)** **qui identifient les principaux challenges à venir : logistique (stockage, collaborative, inverse), changement rapide des demandes, traçabilité et efficience. Il est, par exemple, proposé de réfléchir aux questions suivantes : 
+- Nouveaux rapports du Global Commerce Initiative, New ways to work together, Informations sharing et [**Value Chain in 2018**](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2010/06/GCI2018FutureValueChain.pdf) qui identifient les principaux challenges à venir : logistique (stockage, collaborative, inverse), changement rapide des demandes, traçabilité et efficience. Il est, par exemple, proposé de réfléchir aux questions suivantes : 
  
 
 **Shopper Dialogue:**

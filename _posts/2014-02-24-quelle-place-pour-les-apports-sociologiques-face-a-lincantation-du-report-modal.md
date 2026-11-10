@@ -97,4 +97,4 @@ Ces éléments se retrouvent également dans cette présentation de 15marches :
 
  
 
- ** [Les moments de vérité du transport public : comment gagner des clients (et les garder !) à l'ère numérique](https://fr.slideshare.net/15marches/les-moments-de-vrit-du-transport-public-comment-gagner-des-clients-et-les-garder-lre-numrique) ** from **[Stéphane Schultz](http://www.slideshare.net/15marches)**
+ **[Les moments de vérité du transport public : comment gagner des clients (et les garder !) à l'ère numérique](https://fr.slideshare.net/15marches/les-moments-de-vrit-du-transport-public-comment-gagner-des-clients-et-les-garder-lre-numrique)** from **[Stéphane Schultz](http://www.slideshare.net/15marches)**

@@ -11,7 +11,7 @@ redirect_from:
   - /2011/04/14/personnal-travel-assistant-assistant-personnel-de-mobilite-seoul/
 ---
 
-La **[MétaNote N°10 Le Téléphone ou Assistant Personnel de Mobilité]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/) **présente en détail les risques et opportunités offerts par notre actuel assistant numérique. Un cas concret montre que nous sommes déjà engagé dans cette voie.
+La **[MétaNote N°10 Le Téléphone ou Assistant Personnel de Mobilité]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)** présente en détail les risques et opportunités offerts par notre actuel assistant numérique. Un cas concret montre que nous sommes déjà engagé dans cette voie.
 
  
 

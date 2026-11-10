@@ -20,7 +20,7 @@ L’expérience du voyage s’étend dans plusieurs dimensions. Spatial, tout d�
 
 Les acteurs du numérique ont commencé par le plus simple à numériser et à indexer : le web. Puis le e-commerce a vu arriver Amazon et Ebay. Comme [Nokia]({{ site.baseurl }}/2016/02/constructeurs-vos-plateformes-brulent/) a découvert Android, l’industrie du voyage a découvert l’intermédiation des plateformes de réservation. Puis le monde physique est en train d'être numérisé, indexé. La carte et le guide sont dans notre poche, on les commande à la voix. La plateformisation est devenue le standard d’un succès. Emerge déjà d’autres possibilités pour faire du pair à pair sans plateforme. Le [graal ]({{ site.baseurl }}/2016/05/choc-venir-maintenant/)de la désintermédiation totale avec des voyages blockchainés …
 
-Deux paramètres peuvent structurer quatre options radicalement différentes de l’avenir du voyage. **Ces deux paramètres sont la mobilité et la connexion, et les opposés, l’immobilité et la déconnexion, offrant quatre terrains de jeux **:
+Deux paramètres peuvent structurer quatre options radicalement différentes de l’avenir du voyage. **Ces deux paramètres sont la mobilité et la connexion, et les opposés, l’immobilité et la déconnexion, offrant quatre terrains de jeux**:
 
 ## ![](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAldAAAAJDg0YTYzY2I5LTA3NGMtNGZhNC04NWI5LTBjNTBiYzZhOTYxZA.png)
 
@@ -46,4 +46,4 @@ Les trois couleurs primaires, le beau, le bon et le vrai, devraient conduire dan
 
 La présentation complète :
 
- **[Futur of travel](//www.slideshare.net/transportsdufutur/futur-of-travel) ** from **[Les transports du futur](//www.slideshare.net/transportsdufutur)**
+ **[Futur of travel](//www.slideshare.net/transportsdufutur/futur-of-travel)** from **[Les transports du futur](//www.slideshare.net/transportsdufutur)**

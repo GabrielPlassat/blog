@@ -17,7 +17,7 @@ En effet, dans plusieurs agglomérations françaises les valeurs limites réglem
 
  
 
-Les** « ZAPA » **viseront à **réduire les concentrations de particules et de dioxyde d’azote**. Elles porteront sur les sources directes et indirectes de ces polluants dans les communes ou groupements de communes de plus de 100 000 habitants. 
+Les **« ZAPA »** viseront à **réduire les concentrations de particules et de dioxyde d’azote**. Elles porteront sur les sources directes et indirectes de ces polluants dans les communes ou groupements de communes de plus de 100 000 habitants. 
 
  
 
@@ -25,11 +25,11 @@ Une des **mesures phare** des ZAPA est **l’interdiction de l’accès aux véh
 
  
 
-**[L’appel à projet « Faisabilité des ZAPA »](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=70658&p1=1)** porté par l’ADEME a pour objectif, compte tenu du caractère novateur de ce concept, de **permettre aux communes et groupements de communes d’étudier la faisabilité de ces zones** afin de **développer les méthodologies et les outils nécessaires à l’élaboration et à l’évaluation des mesures de réduction de la pollution de l’air **expérimentés dans ces zones.
+**[L’appel à projet « Faisabilité des ZAPA »](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=70658&p1=1)** porté par l’ADEME a pour objectif, compte tenu du caractère novateur de ce concept, de **permettre aux communes et groupements de communes d’étudier la faisabilité de ces zones** afin de **développer les méthodologies et les outils nécessaires à l’élaboration et à l’évaluation des mesures de réduction de la pollution de l’air** expérimentés dans ces zones.
 
  
 
-Les villes retenues sont détaillées dans le communiqué de presse ci dessous. Compte tenu de l’intérêt manifesté par plusieurs autres collectivités pour étudier la faisabilité d’une ZAPA sur leur territoire, l’ADEME prolonge la date limite de dépôt des dossiers de candidature **jusqu'au 31 décembre 2010 **permettant ainsi une seconde sélection de collectivités en fin d’année.
+Les villes retenues sont détaillées dans le communiqué de presse ci dessous. Compte tenu de l’intérêt manifesté par plusieurs autres collectivités pour étudier la faisabilité d’une ZAPA sur leur territoire, l’ADEME prolonge la date limite de dépôt des dossiers de candidature **jusqu'au 31 décembre 2010** permettant ainsi une seconde sélection de collectivités en fin d’année.
 
  
 

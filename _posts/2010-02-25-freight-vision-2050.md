@@ -47,7 +47,7 @@ Management Summary II - Forecasts, Preliminary Vision, Conflicts & Measures [**D
  
 - 
 
-Management Summary III - Assessment of Measures & Action Scenario **[Download File](fileadmin/documents/Deliverables/Forum_III_-_Management_Summary_v40.pdf)** ****
+Management Summary III - Assessment of Measures & Action Scenario **[Download File](fileadmin/documents/Deliverables/Forum_III_-_Management_Summary_v40.pdf)** 
 
  
 - Management Summary IV - Vision and Action Plan (**Revised Version 10**) **[Download File](fileadmin/documents/Forum_IV_-_Management_Summary_revised_v10.pdf)** 

@@ -22,7 +22,7 @@ Cet extrait du dernier livre de [**Jean-Pierre DUPUY, l’avenir de l’économi
 
  
 
-Le projet de loi [**1813 **](http://www.govtrack.us/congress/bills/112/s1813/text)stipule qu’un EDR (Electronic Data Recorder) équipe chaque voiture vendue aux États-Unis à partir de l'année modèle 2015 ; il a déjà été adopté au Sénat. La Chambre des représentants américaine devrait passer d'une version du projet de loi avec un langage légèrement différent car la version du Sénat stipule que les EDR ne doivent capturer et stocker que les données relatives à la sécurité automobile".
+Le projet de loi [**1813** ](http://www.govtrack.us/congress/bills/112/s1813/text)stipule qu’un EDR (Electronic Data Recorder) équipe chaque voiture vendue aux États-Unis à partir de l'année modèle 2015 ; il a déjà été adopté au Sénat. La Chambre des représentants américaine devrait passer d'une version du projet de loi avec un langage légèrement différent car la version du Sénat stipule que les EDR ne doivent capturer et stocker que les données relatives à la sécurité automobile".
 
  
 

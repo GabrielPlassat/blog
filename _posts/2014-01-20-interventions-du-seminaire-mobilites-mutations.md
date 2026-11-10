@@ -15,7 +15,7 @@ Faisant suite à une série d'article sur le séminaire Mobilités Mutations pr�
 
  
 
-**1er Jour : **
+**1er Jour :**
 
  
 
@@ -63,7 +63,7 @@ Faisant suite à une série d'article sur le séminaire Mobilités Mutations pr�
 
  
 
-**2ème Jour : **
+**2ème Jour :**
 
  
 
@@ -97,4 +97,4 @@ Faisant suite à une série d'article sur le séminaire Mobilités Mutations pr�
 
  
 
- ** [Programme séminaire Mobliités Mutations](https://fr.slideshare.net/transportsdufutur/programme-sminaire-mobliits-mutations) ** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**
+ **[Programme séminaire Mobliités Mutations](https://fr.slideshare.net/transportsdufutur/programme-sminaire-mobliits-mutations)** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**

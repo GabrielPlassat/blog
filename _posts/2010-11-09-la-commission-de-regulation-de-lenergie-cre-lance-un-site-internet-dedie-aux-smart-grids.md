@@ -11,11 +11,11 @@ redirect_from:
   - /2010/11/09/la-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids/
 ---
 
-Créée en 2000, la **[CRE](http://www.cre.fr/fr/presentation/statut) (commission de régulation de l'énergie) **dispose d'un statut garantissant l'indépendance des missions généralement dévolues aux autorités administratives indépendantes chargées de la régulation d'un secteur économique en voie d'ouverture à la concurrence et marqué par la présence d'opérateurs publics. Elle comprend un collège et un comité de règlement des différends et des sanctions.
+Créée en 2000, la **[CRE](http://www.cre.fr/fr/presentation/statut) (commission de régulation de l'énergie)** dispose d'un statut garantissant l'indépendance des missions généralement dévolues aux autorités administratives indépendantes chargées de la régulation d'un secteur économique en voie d'ouverture à la concurrence et marqué par la présence d'opérateurs publics. Elle comprend un collège et un comité de règlement des différends et des sanctions.
 
  
 
-La CRE lance le **premier think tank institutionnel français dédié aux Smart grids**, cercle d'échanges et de réflexion sur les réseaux d’électricité du futur. Après l'organisation d'un **colloque **le 27 janvier dernier, elle publie un **livre **avec l’Université de Paris-Dauphine, « L’Electricité du futur : un défi mondial », édité par Economica, qui sort en librairie le 8 novembre. La CRE ouvre également **[un site internet dédié aux smart grids](http://www.smartgrids-cre.fr/index.php)**. Outil de diffusion et de promotion des travaux et expérimentations menés dans le monde sur les Smart grids, le site se veut un carrefour des idées, afin de fédérer l’ensemble des initiatives du think tank. Il sera nourri des contributions des différents acteurs impliqués dans les Smart grids, en particulier grâce aux forums thématiques organisés par la CRE.
+La CRE lance le **premier think tank institutionnel français dédié aux Smart grids**, cercle d'échanges et de réflexion sur les réseaux d’électricité du futur. Après l'organisation d'un **colloque** le 27 janvier dernier, elle publie un **livre** avec l’Université de Paris-Dauphine, « L’Electricité du futur : un défi mondial », édité par Economica, qui sort en librairie le 8 novembre. La CRE ouvre également **[un site internet dédié aux smart grids](http://www.smartgrids-cre.fr/index.php)**. Outil de diffusion et de promotion des travaux et expérimentations menés dans le monde sur les Smart grids, le site se veut un carrefour des idées, afin de fédérer l’ensemble des initiatives du think tank. Il sera nourri des contributions des différents acteurs impliqués dans les Smart grids, en particulier grâce aux forums thématiques organisés par la CRE.
 
  
 
@@ -23,7 +23,7 @@ Un dossier complet est proposé sur les **[véhicules électriques](http://www.s
 
  
 
-**Les réseaux électriques connaissent des évolutions et des changements **: Augmentation de la consommation, diversification des usages, nécessité de décarboner l’environnement, augmentation de la production d’électricité décentralisée à partir de sources renouvelables. Parce que les infrastructures actuelles ne permettent pas de répondre à ces évolutions, les réseaux doivent être adaptés, modernisés, pour devenir des réseaux intelligents qui gagneront en souplesse et en efficacité grâce à l’intégration des nouvelles technologies de l’information.
+**Les réseaux électriques connaissent des évolutions et des changements**: Augmentation de la consommation, diversification des usages, nécessité de décarboner l’environnement, augmentation de la production d’électricité décentralisée à partir de sources renouvelables. Parce que les infrastructures actuelles ne permettent pas de répondre à ces évolutions, les réseaux doivent être adaptés, modernisés, pour devenir des réseaux intelligents qui gagneront en souplesse et en efficacité grâce à l’intégration des nouvelles technologies de l’information.
 
  
 
@@ -31,7 +31,7 @@ Un dossier complet est proposé sur les **[véhicules électriques](http://www.s
 
  
 
-En tant qu’autorité publique indépendante, le régulateur s’est très tôt saisi de la problématique Smart grids. **Compétent en matière de réseaux**, il veille au bon fonctionnement et au développement des réseaux publics de transport et de distribution d’électricité. En outre, il lui semble important d’informer sur les changements énergétiques à venir et d’expliquer la nature et les formes que prennent ces changements. **La CRE favorise l’interaction des différents acteurs du système électrique **: transporteur, distributeur, industriels, spécialistes de l’information et de l’informatique. Pour ce faire, **elle organise la réflexion et la concertation **grâce au site internet **www.smartgrids-cre.fr **et aux forums qui en alimenteront le contenu. La collaboration des acteurs concernés par le sujet Smart grids assure la richesse et la diversité des informations et points de vue.
+En tant qu’autorité publique indépendante, le régulateur s’est très tôt saisi de la problématique Smart grids. **Compétent en matière de réseaux**, il veille au bon fonctionnement et au développement des réseaux publics de transport et de distribution d’électricité. En outre, il lui semble important d’informer sur les changements énergétiques à venir et d’expliquer la nature et les formes que prennent ces changements. **La CRE favorise l’interaction des différents acteurs du système électrique**: transporteur, distributeur, industriels, spécialistes de l’information et de l’informatique. Pour ce faire, **elle organise la réflexion et la concertation** grâce au site internet **www.smartgrids-cre.fr** et aux forums qui en alimenteront le contenu. La collaboration des acteurs concernés par le sujet Smart grids assure la richesse et la diversité des informations et points de vue.
 
  
 

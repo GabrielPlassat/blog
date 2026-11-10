@@ -34,7 +34,7 @@ L’Observatoire Indépendant de la Publicité émane de l’Alliance pour la pl
  
 
  
-**HONDA **avec "Devenez EGO-responsable" reçoit les mêmes notes ...
+**HONDA** avec "Devenez EGO-responsable" reçoit les mêmes notes ...
 
  
 

@@ -17,7 +17,7 @@ Yann Le Tilly ([**TransID**](http://transid.blogspot.fr/2012/06/un-assistant-per
 
  
 
-**Toujours plus vite **
+**Toujours plus vite**
 
  
 

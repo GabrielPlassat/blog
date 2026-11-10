@@ -17,7 +17,7 @@ Notre capacité à comprendre le monde et proposer des solutions évolue. [**L'i
  
 - Vidéo de **[Michel Serres](http://interstices.info/jcms/c_15918/les-nouvelles-technologies-que-nous-apportent-elles) : nous poursuivons l’externalisation de nos fonctions cognitives**, dont nous pensions qu’elles nous caractérisaient. En ce sens, les technologies de l’information participent à ce darwinisme devenu externe, cet « exo-darwinisme » pour reprendre *M.Serres*. Depuis toujours donc nous perdons (au sens de *fuire*) pour gagner de nouvelles capacités, dont certaines restent à découvrir. 
 - Emission de [**France Culture**](http://www.franceculture.fr/emission-une-intelligence-collective-est-elle-en-train-de-na%c3%aetre-2007-06-01.html) avec [**Pierre Lévy & Alain Finkielkraut**](http://www.youtube.com/watch?v=N3Tc0E9Dz4g) - Une intelligence collective est elle en train de naître ? 
-- Quelques blogs et wiki sur le sujet : [**Intelligence connectée**](http://intelligences-connectees.fr/2010/03/12/lintelligence-collective-globale-ou-lavenement-de-lholoptisme-etendu/), the [**transitioner**](http://people.thetransitioner.org/), [**wiki **](http://wiki.thetransitioner.org/)transitioner. 
+- Quelques blogs et wiki sur le sujet : [**Intelligence connectée**](http://intelligences-connectees.fr/2010/03/12/lintelligence-collective-globale-ou-lavenement-de-lholoptisme-etendu/), the [**transitioner**](http://people.thetransitioner.org/), [**wiki** ](http://wiki.thetransitioner.org/)transitioner. 
 - Une vidéo explicative du [**Centre de Recherche en Intelligence Collective**](http://iric.fr/) (JF.Noubel) : 
  
 

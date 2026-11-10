@@ -15,7 +15,7 @@ redirect_from:
 
  
 
-Utilisant les données de triangulation des portables anonymes, [**AIRSAGE **](http://www.airsage.com/site/index.cfm)propose des visualisations, des outils de connaissance des flux, des outils de prédictions de trafic.
+Utilisant les données de triangulation des portables anonymes, [**AIRSAGE** ](http://www.airsage.com/site/index.cfm)propose des visualisations, des outils de connaissance des flux, des outils de prédictions de trafic.
 
  
 

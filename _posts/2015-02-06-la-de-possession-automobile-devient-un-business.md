@@ -71,4 +71,4 @@ Le rapport est accessible directement :
 
  
 
- ** Innovative transportation index_uspirg ** from **Les transports du futur**
+ **Innovative transportation index_uspirg** from **Les transports du futur**

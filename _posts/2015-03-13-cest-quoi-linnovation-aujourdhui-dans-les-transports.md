@@ -67,7 +67,7 @@ L'incubation, l'excubation, l'**intraprenariat**, l'open innovation sont des for
 - Progressivement la structure mère pyramidale peut évoluer vers **l'holomidale** dans quelques domaines... 
  
 
-** (Complément ajouté) Frédéric Laloux nous décrit dans un entretien très inspirant [vidéo] plus de 10 organisations de 100 à 40 000 salariés qui préfigurent cette 3ème forme d'organisation. Pour Frédéric, il s'agit de la 6ème étape dans l'évolution humaine !**
+**(Complément ajouté) Frédéric Laloux nous décrit dans un entretien très inspirant [vidéo] plus de 10 organisations de 100 à 40 000 salariés qui préfigurent cette 3ème forme d'organisation. Pour Frédéric, il s'agit de la 6ème étape dans l'évolution humaine !**
 
  
 

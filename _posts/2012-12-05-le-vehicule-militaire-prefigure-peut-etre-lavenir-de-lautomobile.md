@@ -41,7 +41,7 @@ Cette démarche est particulièrement intéressante tant elle met en oeuvre des 
  
 - *A **distributed version control system** (DVCS) will provide a master repository that records changes to the design of vehicle systems and their components, simplifying the interoperation of design models built with different languages and supporting the merging of work products from one design project to another. * 
 - ***Semantic design** will use a single, flexible data-structure language to facilitate data sharing and component reuse among both humans and machines. Each component of a vehicle will be represented as a DVCS-managed Web Ontological Language (OWL) file containing component attributes in a machine-readable form. * 
-- *A **wiki-based front end** will use open-source wiki software to produce a website interface that enables collaboration among multiple users. Features include word processor-like editors, access control, forum-style discussions, and change and version control on pages and file attachments. ***** 
+- *A **wiki-based front end** will use open-source wiki software to produce a website interface that enables collaboration among multiple users. Features include word processor-like editors, access control, forum-style discussions, and change and version control on pages and file attachments. * 
 - ***Mashup apps** – VehicleForge users could continue to utilize the Internet's many useful offerings, such as Flickr, YouTube, blogs and online spreadsheets. The VehicleForge developers envision a family of mashup applications that will combine data from different sources, helping designers exploit the Internet's capabilities while maintaining compatibility with VehicleForge.* 
  
 

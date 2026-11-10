@@ -18,7 +18,7 @@ Elon Musk vient de décider de donner accès aux brevets déposés par Tesla (li
 
  
 
-L'attractivité des talents, la rapidité d'éxecution et l'Open Source deviennent les éléments clés permettant d'innover au plus près de la multitude (lire[** l'article sur ce sujet**]({{ site.baseurl }}/2013/02/les-transports-a-lage-de-la-multitude/)) dans un monde catalysé par le numérique (lire [**l'article**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/) sur le numérique devenu **LA** technique dominante).
+L'attractivité des talents, la rapidité d'éxecution et l'Open Source deviennent les éléments clés permettant d'innover au plus près de la multitude (lire[ **l'article sur ce sujet**]({{ site.baseurl }}/2013/02/les-transports-a-lage-de-la-multitude/)) dans un monde catalysé par le numérique (lire [**l'article**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/) sur le numérique devenu **LA** technique dominante).
 
  
 
@@ -56,7 +56,7 @@ L'interfaçage avec la multitude se joue à travers des plateformes. L'équilibr
 
  
 
-Plusieurs articles ont été rédigés sur la plateformisation du monde (Lire les articles **Les plateformes vont dominer** et **De la PFA à la PF des mobilités**). La mise en oeuvre d'une plateforme est facilitée par un "terreau" adaptée mélant financeurs, laboratoires, acteurs publics. Compte tenu du rôle majeur de la régulation et des réglementations, **Marc Andreessen** analyse les échecs des clusters qui ont voulu copier la Silicon Valley, en proposant au contraire de créer de nouveaux "Valley" : la drone Valley, la cybercar Valley, la ... Valley. La laboratoire vivant devient un "espace-temps" clé pour itérer à la fois la technique, la réglementation, les modèles d'affaires, et préparer la phase suivante, celle de** l'itération permanente sur tous les territoires avec la multitude.**
+Plusieurs articles ont été rédigés sur la plateformisation du monde (Lire les articles **Les plateformes vont dominer** et **De la PFA à la PF des mobilités**). La mise en oeuvre d'une plateforme est facilitée par un "terreau" adaptée mélant financeurs, laboratoires, acteurs publics. Compte tenu du rôle majeur de la régulation et des réglementations, **Marc Andreessen** analyse les échecs des clusters qui ont voulu copier la Silicon Valley, en proposant au contraire de créer de nouveaux "Valley" : la drone Valley, la cybercar Valley, la ... Valley. La laboratoire vivant devient un "espace-temps" clé pour itérer à la fois la technique, la réglementation, les modèles d'affaires, et préparer la phase suivante, celle de **l'itération permanente sur tous les territoires avec la multitude.**
 
  
 
@@ -76,7 +76,7 @@ Plusieurs acteurs venant des projets **OSVehicle et des fablabs** se fédèrent 
 
  
 
-**Les frontières historiques des domaines et des acteurs se brisent, les protections mises en oeuvre dans chaque filière fissurent, les moyens et méthodes changent pour innover. Mais fondamentalement, le gagnant est celui qui propose la meilleure expérience, qui connait son client, prend soin de lui et l'invite à son Univers. **
+**Les frontières historiques des domaines et des acteurs se brisent, les protections mises en oeuvre dans chaque filière fissurent, les moyens et méthodes changent pour innover. Mais fondamentalement, le gagnant est celui qui propose la meilleure expérience, qui connait son client, prend soin de lui et l'invite à son Univers.**
 
  
 

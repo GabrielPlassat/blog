@@ -27,7 +27,7 @@ Les objectif sont toujours les mêmes : mieux se relier à la multitude, améli
 
  
 
-Déjà aujourd’hui, Uber et ses offres de mobilité exploitent les données produites par la multitude pour s’améliorer et** [prédire à l’avance les flux](http://venturebeat.com/2014/09/02/uber-uses-data-science-to-predict-where-its-riders-want-to-go/)**, pour comprendre l’usager dans toute sa complexité. Les **[usagers « premium » multi-villes d’Uber](http://blog.uber.com/uber-jetsetters)** émergent, les données leur apportent une réalité. Imaginez les services qui iront avec cette nouvelle culture.
+Déjà aujourd’hui, Uber et ses offres de mobilité exploitent les données produites par la multitude pour s’améliorer et **[prédire à l’avance les flux](http://venturebeat.com/2014/09/02/uber-uses-data-science-to-predict-where-its-riders-want-to-go/)**, pour comprendre l’usager dans toute sa complexité. Les **[usagers « premium » multi-villes d’Uber](http://blog.uber.com/uber-jetsetters)** émergent, les données leur apportent une réalité. Imaginez les services qui iront avec cette nouvelle culture.
 
  
 

@@ -11,7 +11,7 @@ redirect_from:
   - /2012/01/16/trainvelovelotrain-individuelcollectif-publicprive/
 ---
 
-Et si les principales innovations étaient dans les intermédiaires, les interstices, le couplage, l'hybridation des modes existants ... Au [**Danemark **](http://www.bv.com.au/general/bikes-and-riding/42382/):
+Et si les principales innovations étaient dans les intermédiaires, les interstices, le couplage, l'hybridation des modes existants ... Au [**Danemark** ](http://www.bv.com.au/general/bikes-and-riding/42382/):
 
  
 

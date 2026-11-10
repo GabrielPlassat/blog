@@ -24,4 +24,4 @@ Ce blog rassemble les liens et les présentations des projets et permettra :
 - de créer une base de connaissances des différents retours d'expériences 
  
 
-Pour le moment, trois projets sont présentés, en attendant 2012... Le BLOG** [Les Laboratoires Vivants](/les_transports_du_futur_l/)**
+Pour le moment, trois projets sont présentés, en attendant 2012... Le BLOG **[Les Laboratoires Vivants](/les_transports_du_futur_l/)**

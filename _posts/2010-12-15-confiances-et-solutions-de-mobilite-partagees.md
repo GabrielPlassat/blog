@@ -41,7 +41,7 @@ En complément, aujourd’hui déjà de nouveaux indicateurs (des notes, des ét
 
  
 
-Les TIC pourraient permettre de créer une « confiance numérique ». Comme l’indique la FING dans leur expédition en cours sur la confiance numérique (voir **[ICI](http://fing.org/?Presentation,458-) **et** **blog** [ICI](http://www.reseaufing.org/pg/blog/group:20404)**) par l’intermédiaire d’un tiers de confiance :
+Les TIC pourraient permettre de créer une « confiance numérique ». Comme l’indique la FING dans leur expédition en cours sur la confiance numérique (voir **[ICI](http://fing.org/?Presentation,458-)** et blog **[ICI](http://www.reseaufing.org/pg/blog/group:20404)**) par l’intermédiaire d’un tiers de confiance :
 
  
 

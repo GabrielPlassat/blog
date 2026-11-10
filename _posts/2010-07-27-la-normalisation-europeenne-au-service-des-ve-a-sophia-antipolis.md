@@ -19,7 +19,7 @@ Les organismes européens de normalisation (CEN, CENELEC et ETSI) vont élaborer
 
  
 
-M. Antonio Tajani, vice-président de la Commission européenne, a remis LE 29 juin au président de CENELEC, M. David Dossett, à la directrice générale de cet organisme, Mme Elena Santiago Cid, et au président de l'assemblée générale de ETSI, M. John Philips,** un mandat de la Commission européenne pour l’élaboration de la norme appropriée. **
+M. Antonio Tajani, vice-président de la Commission européenne, a remis LE 29 juin au président de CENELEC, M. David Dossett, à la directrice générale de cet organisme, Mme Elena Santiago Cid, et au président de l'assemblée générale de ETSI, M. John Philips, **un mandat de la Commission européenne pour l’élaboration de la norme appropriée.**
 
  
 

@@ -27,7 +27,7 @@ Constructeur, fournisseur d’énergie, opérateur de transports, entreprise des
 
  
 
-**Vous avez  un projet  destiné à... **
+**Vous avez  un projet  destiné à...**
 
  
  
@@ -35,7 +35,7 @@ Constructeur, fournisseur d’énergie, opérateur de transports, entreprise des
 - **Développer la mobilité dite « en partage »** pour réaliser des trajets ponctuels ou quotidiens sans être propriétaire ou dépendant de son véhicule. 
  
 
-** Vous cherchez ou vous offrez...**
+**Vous cherchez ou vous offrez...**
 
  
  

@@ -42,10 +42,9 @@ Ces démarches collectives peuvent prendre la forme d’un **Plan de déplacemen
 
  
 
-****
+
 Il se veut opérationnel, vise à fournir des éléments méthodologiques mais aussi des exemples caractéristiques aux responsables d’entreprises et aux gestionnaires de parcs d’activités, afin de les orienter dans leur démarche de mobilité durable.
 
 Ce guide est le fruit des réflexions du groupe de travail animé par l’association Orée sur le management environnemental des parcs d’activités. Ont contribué à la rédaction de ce guide : **l’ARENE IDF, le CERTU, l’IAU IDF, le GART, l’ACFCI, et deux bureaux d’études Inddigo et Mobility+**.
 
-**
-**
+ 

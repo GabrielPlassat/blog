@@ -17,7 +17,7 @@ Parce que bien sûr toutes ces innovations touche(ro)nt le monde des transports 
 
 **29 novembre : Réutilisation des données publiques : les initiatives locales en Europe" (Rennes)**
 **1er décembre : "Les Possibles de l'internet des objets" (Paris)**
-**6 décembre : Premières Assises des données publiques ouvertes en Aquitaine (Bordeaux) **
+**6 décembre : Premières Assises des données publiques ouvertes en Aquitaine (Bordeaux)**
 
    
 
@@ -59,7 +59,7 @@ Paris, Maison des métallos - 94 Rue Jean-Pierre Timbaud - 75011
 
 1e manifestation française du Council for the Internet of Things, un réseau international de créateurs, designers, entrepreneurs, activistes et chercheurs qui explore d’autres scénarios pour le développement de l’"internet des objets".
 
-Que va-t-il réellement se passer lorsque notre environnement deviendra pleinement communicant ?** **
+Que va-t-il réellement se passer lorsque notre environnement deviendra pleinement communicant ? 
 Venez vous projeter dans l'internet des objets, vu par des entreprises, des artistes, des chercheurs, des acteurs publics. Au travers de conférences, ateliers, démos et performances, venez anticiper ce que l'internet des objets pourrait signifier dans votre activité à vous.
 
  

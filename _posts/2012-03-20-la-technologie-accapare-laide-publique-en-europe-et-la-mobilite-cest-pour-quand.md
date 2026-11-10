@@ -19,7 +19,7 @@ Alors que les véhicules électriques commencent petit à petit à se faire une 
 
  
 
-Ces sujets attirent également l'attention des acteurs publics et une part très importante des aides leurs sont consacrées. Pourtant, les réponses aux problématiques du véhicule électrique (autonomie et recharge en tête) sont également à chercher dans le domaine de la mobilité : interopérabilité, transports partagés,  nouveaux modèles économiques. Ces verrous font l'objet de plusieurs [**AMI **](http://www.ami-mobilite.com)lancés par l'ADEME.
+Ces sujets attirent également l'attention des acteurs publics et une part très importante des aides leurs sont consacrées. Pourtant, les réponses aux problématiques du véhicule électrique (autonomie et recharge en tête) sont également à chercher dans le domaine de la mobilité : interopérabilité, transports partagés,  nouveaux modèles économiques. Ces verrous font l'objet de plusieurs [**AMI** ](http://www.ami-mobilite.com)lancés par l'ADEME.
 
  
 
@@ -36,7 +36,7 @@ La journée a également été l'occastion d'envisager les principaux obstacles 
  
  
 - **le prix** : les industriels travaillent beaucoup sur le sujet, et les prix devraient fortement diminuer avec l'augmentation des volumes, 
-- **l'autonomie et le temps de recharge **: ce facteur est essentiellement psychologique car 95% des trajets font moins de 23km et 99% des trajets peuvent être couverts avec la plupart des véhicules disponibles sur le marché (valeurs issues du [** **](http://www.switchev.co.uk/)**[projet SwitchEV](http://vehicletrial.switchev.co.uk/home.aspx)**), 
+- **l'autonomie et le temps de recharge**: ce facteur est essentiellement psychologique car 95% des trajets font moins de 23km et 99% des trajets peuvent être couverts avec la plupart des véhicules disponibles sur le marché (valeurs issues du [ ](http://www.switchev.co.uk/)**[projet SwitchEV](http://vehicletrial.switchev.co.uk/home.aspx)**), 
 -  **les performances et les sensations de conduites** ; une seule solution : essayer ! Les cobayes sont presque toujours convaincus... 
  
  

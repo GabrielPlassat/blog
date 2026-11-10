@@ -29,6 +29,6 @@ Pour atteindre cette performance, AES a réussi à faire venir toutes les soluti
 
 Ainsi plus le client change pour améliorer la performance de ses activités et son bilan environnemental, plus la communauté AES devient intelligente en intégrant cette possibilité de changement, plus AES améliore la performance de la plateforme, appelant de nouvelles solutions de mobilité/immobilité, de nouveaux vecteurs énergétiques. Toutes les industries énergétiques, en contact avec le client en 2012, sont devenues des sous-traitants, intéressées par AES car cette plateforme est une des seules à garantir à l’utilisateur final que chaque molécule est utilisée au maximum de son potentiel, que tout a été évalué avant de proposer un déplacement physique.
 
-**Or en 2023, il est impensable de ne pas prendre soin de chaque mégajoule. Personne n'imagine utiliser le carburant comme dans les années 2010. **
+**Or en 2023, il est impensable de ne pas prendre soin de chaque mégajoule. Personne n'imagine utiliser le carburant comme dans les années 2010.**
 
 ***Amazon Energy Service n'existe pas. Nous avons tous les outils et les connaissances pour créer cette plateforme communautaire, n'attendons pas.***

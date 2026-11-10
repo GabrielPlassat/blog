@@ -33,12 +33,12 @@ En détaillant en quelques points, Google cherche à :
 Pour garder ces boucles actives et en progrès, Google développe une stratégie opérationnelle en 4 phases.
 
 	
-- **Indexer les mondes **
+- **Indexer les mondes**
 
 Il s’agit d’intégrer les réalités multiples et complexes des mondes physiques (les cartes, les routes, …) et numériques (les internets). Ces indexations procèdent toujours vers la numérisation. Le monde physique est appréhendé par des photographies, capteurs et autres, puis transformé en réalité numérique pour être stocké et manipulé. Ces indexations sont à la source de Google en tant que moteur de recherche au début, et elles se sont poursuivies sans cesse. Street View ou Google Earth, dans le domaine des mobilités, est essentiel pour indexer les routes, les numéros, les points d’intérêts… Pour les mondes numériques, des robots (les **[crawlers](https://fr.wikipedia.org/wiki/Robot_d%27indexation)**) indexent depuis longtemps les pages web. Pour le monde physique, c'est un peu plus compliqué et implique des véhicules (voitures, vélos, marcheurs...) qui silonnent le monde avec des caméras et capteurs.
 
 	
-- **Comprendre et appréhender automatiquement les environnements physiques **
+- **Comprendre et appréhender automatiquement les environnements physiques**
 
 Puisque le monde physique évolue, Google mène une quête continue pour mettre à jour les indexations précédentes et développer des solutions pour simplifier la numérisation des mondes physiques. Ces actions passent par l’industrialisation massive de traceurs distribués : Android dans tous les objets mobiles. Cette stratégie réussie a conduit à un quasi-monopole pour placer des capteurs d’ambiance dans plus de 80% des objets mobiles. Le fait que Waze soit maintenant intégré à Android est révélateur du besoin de produire des connaissances de mobilités. Les données produites par la multitude sont donc analysées pour construire des environnements simulés. Les « voitures autonomes » seront à la fois utilisatrices des cartes numériques et productrices de mises à jour.  Notons qu’Amazon et Google développent tous les 2 des robots d’ambiance : **[Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E)** et **[Home](http://www.numerama.com/tech/199222-google-home-serieux-concurrent-damazon-echo.html)**.
 

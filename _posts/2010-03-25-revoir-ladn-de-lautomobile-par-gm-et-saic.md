@@ -15,11 +15,11 @@ GM vient d'annoncer ([**ici**](http://media.gm.com/content/media/us/en/news/news
 
  
 
-**** 
+
 
  
 
-**GM Unveils EN-V Concept: A Vision for Future Urban Mobility **
+**GM Unveils EN-V Concept: A Vision for Future Urban Mobility**
 
  
 
@@ -27,11 +27,11 @@ GM vient d'annoncer ([**ici**](http://media.gm.com/content/media/us/en/news/news
 
  
 
-·				    **Convergence of Electricity and Connectivity Redefines Automobile DNA **
+·				    **Convergence of Electricity and Connectivity Redefines Automobile DNA**
 
  
 
-·				    **EN-V Concepts to be Showcased at World Expo 2010 ****Shanghai******
+·				    **EN-V Concepts to be Showcased at World Expo 2010 ****Shanghai
 
  
 
@@ -39,7 +39,7 @@ GM vient d'annoncer ([**ici**](http://media.gm.com/content/media/us/en/news/news
 
  
 
-**Shanghai **– By 2030, urban areas will be home to more than 60 percent of the world’s 8 billion people.  This will put tremendous pressure on a public infrastructure that is already struggling to meet the growing demand for transportation and basic services.  
+**Shanghai** – By 2030, urban areas will be home to more than 60 percent of the world’s 8 billion people.  This will put tremendous pressure on a public infrastructure that is already struggling to meet the growing demand for transportation and basic services.  
 
  
 
@@ -64,11 +64,11 @@ General Motors and its strategic partner, Shanghai Automotive Industry Corp. Gro
 
  
 
-**A Promising Solution******
+**A Promising Solution
 
  
 
-** **
+ 
 
  
 
@@ -92,7 +92,7 @@ Three EN-V models were unveiled today in Shanghai.  They represent three differ
 
  
 
-**Breakthrough Technology******
+**Breakthrough Technology
 
  
 
@@ -180,11 +180,11 @@ EN-V has been designed for the speed and range of today’s urban drivers.  It 
 
  
 
-**Smaller, Smarter Design******
+**Smaller, Smarter Design
 
  
 
-** **
+ 
 
  
 

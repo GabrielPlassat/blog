@@ -91,7 +91,7 @@ De son coté, Seth Priebatsch, créateur de **SCVNGR**, propose ni plus ni moins
 
  
 
-Déjà abordé dans ce blog (**ici**), plusieurs courants nous conduisent à considérer les jeux vidéos comme de (futurs) puissants outils collaboratifs permettant de nous surpasser, d’imaginer des solutions nouvelles et de les mettre en œuvre. Venant d’une part des simulateurs industriels (courant « real game ou **serious game **»), des échanges permanents via les réseaux sociaux 2.0, des applications de réalité augmentée, les jeux vidéos, et les qualités qu’ils développent, permettront d’ouvrir de nouvelles voies.
+Déjà abordé dans ce blog (**ici**), plusieurs courants nous conduisent à considérer les jeux vidéos comme de (futurs) puissants outils collaboratifs permettant de nous surpasser, d’imaginer des solutions nouvelles et de les mettre en œuvre. Venant d’une part des simulateurs industriels (courant « real game ou **serious game**»), des échanges permanents via les réseaux sociaux 2.0, des applications de réalité augmentée, les jeux vidéos, et les qualités qu’ils développent, permettront d’ouvrir de nouvelles voies.
 
  
 

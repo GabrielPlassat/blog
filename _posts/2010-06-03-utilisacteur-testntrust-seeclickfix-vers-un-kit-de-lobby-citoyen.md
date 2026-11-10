@@ -108,7 +108,7 @@ Des professionnels responsables et impliqués. Le comparateur s’appuie sur l�
 
  
 
-Extrait de Propaganda (1928) que **je vous encourage à lire ici **: «Théoriquement, chacun achète au meilleur coût ce que le marché a de mieux à lui offrir. Dans la pratique, si avant d'acheter tout le monde comparait les prix et étudiait la composition chimique des *[produits]* proposés dans le commerce, la vie économique serait complètement paralysée. Pour éviter que la confusion ne s'installe, la société consent à ce que son choix se réduise aux idées et aux objets portés à son attention par la propagande de toute sorte *(ie marketing)*». **Il a donc fallu attendre presque 100 ans pour que cela change.** 
+Extrait de Propaganda (1928) que **je vous encourage à lire ici**: «Théoriquement, chacun achète au meilleur coût ce que le marché a de mieux à lui offrir. Dans la pratique, si avant d'acheter tout le monde comparait les prix et étudiait la composition chimique des *[produits]* proposés dans le commerce, la vie économique serait complètement paralysée. Pour éviter que la confusion ne s'installe, la société consent à ce que son choix se réduise aux idées et aux objets portés à son attention par la propagande de toute sorte *(ie marketing)*». **Il a donc fallu attendre presque 100 ans pour que cela change.** 
 
  
 

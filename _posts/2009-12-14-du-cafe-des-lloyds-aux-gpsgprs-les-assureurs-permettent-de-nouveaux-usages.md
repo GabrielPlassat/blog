@@ -51,7 +51,7 @@ Le développement durable est considéré par ce secteur comme une opportunité.
 
  
 
-** [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a75026a8970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a75026a8970b-pi.jpg) 
+**[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a75026a8970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a75026a8970b-pi.jpg) 
 **
 
  
@@ -69,7 +69,7 @@ rer jusqu’à 10 fois plus sûre que la conduite urbaine à vitesse réduite.
 
  
 
-****
+
 
  
 

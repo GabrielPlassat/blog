@@ -23,7 +23,7 @@ Chaque personne doit maintenant prendre conscience que les données qu'elle prod
 
  
 
-****
+
 
  Du commerce de ces données à la data-philanthropie, tout existera. 
 
@@ -86,8 +86,7 @@ Il devient essentiel de comprendre pourquoi des citoyens participent à ce type 
 - **L'abeille et l'économiste**, Yann Moulier Boutang sur l'économie de la pollinisation 
  
 
-** 
-**
+ 
 
  
 
@@ -108,7 +107,7 @@ Pour faire autrement (lire notamment de **l'hyperempire à l'hyperdémocratie**)
 
  
 
-Plusieurs projets travaillent sur des solutions de regroupement de vos données, des coffres forts numériques dans lesquels tous les acteurs ayant des données vous concernant vous les renvoient. Ce premier pas permettra ensuite de décider où et pourquoi partent vos données. Il sera possible de le gérer comme une ressource, ou de déléguer cette gestion à une ONG, à une entreprise ou de ne rien faire. Il y a notamment le projet **MesInfos** de la FING, ou encore **Open Paths **qui permet de structurer **de nombreux projets citoyens**.
+Plusieurs projets travaillent sur des solutions de regroupement de vos données, des coffres forts numériques dans lesquels tous les acteurs ayant des données vous concernant vous les renvoient. Ce premier pas permettra ensuite de décider où et pourquoi partent vos données. Il sera possible de le gérer comme une ressource, ou de déléguer cette gestion à une ONG, à une entreprise ou de ne rien faire. Il y a notamment le projet **MesInfos** de la FING, ou encore **Open Paths** qui permet de structurer **de nombreux projets citoyens**.
 
  
 

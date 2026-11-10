@@ -29,7 +29,7 @@ Indirectement l'APC guidera le consommateur vers les produits les plus sobres é
 
  
 
-***Extrait **: An iPhone app launching today provides a glimpse into the future of shopping. Created by Modiv Media, the app lets customers scan items while they shop, presents them with personalized offers as they go, and speeds up their checkout. One of the first companies to deploy the app is Stop & Shop, which operates more than 375 supermarkets in the eastern United States.*
+***Extrait**: An iPhone app launching today provides a glimpse into the future of shopping. Created by Modiv Media, the app lets customers scan items while they shop, presents them with personalized offers as they go, and speeds up their checkout. One of the first companies to deploy the app is Stop & Shop, which operates more than 375 supermarkets in the eastern United States.*
 
  
 
@@ -41,7 +41,7 @@ Indirectement l'APC guidera le consommateur vers les produits les plus sobres é
 
  
 
-*Liens avec la santé : ***Healthy Ideas, It's Easy to Eat Healthy **
+*Liens avec la santé : ***Healthy Ideas, It's Easy to Eat Healthy**
 
  
 

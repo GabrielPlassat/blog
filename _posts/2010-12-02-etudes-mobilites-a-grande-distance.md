@@ -11,7 +11,7 @@ redirect_from:
   - /2010/12/02/etudes-mobilites-a-grande-distance/
 ---
 
-**Cette collection de fiches réalisée par le [SETRA](http://www.setra.developpement-durable.gouv.fr/Fiches-Mobilites.html) **s'intéresse plus particulièrement aux déplacements des résidents de France métropolitaine à **plus de 80 km de leur domicile **exposant les résultats d’exploitations de l’Enquête Nationale Transports et Déplacements réalisée de mai 2007 à avril 2008. Elle **fait le point** de l’évolution des pratiques de déplacements à longue distance depuis la précédente enquête, réalisée en 1994, et **s’efforce** d’en comprendre les déterminants.
+**Cette collection de fiches réalisée par le [SETRA](http://www.setra.developpement-durable.gouv.fr/Fiches-Mobilites.html)** s'intéresse plus particulièrement aux déplacements des résidents de France métropolitaine à **plus de 80 km de leur domicile** exposant les résultats d’exploitations de l’Enquête Nationale Transports et Déplacements réalisée de mai 2007 à avril 2008. Elle **fait le point** de l’évolution des pratiques de déplacements à longue distance depuis la précédente enquête, réalisée en 1994, et **s’efforce** d’en comprendre les déterminants.
 
  
 

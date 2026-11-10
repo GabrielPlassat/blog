@@ -15,11 +15,11 @@ La prise de conscience croissante des enjeux du changement climatique, de l’am
 
  
 
-Pour construire une contribution de la recherche transport à ce champ thématique complexe, le **Secrétariat Permanent du Predit **contribue de façon décisive, au sein de l’Eranet transport, à la construction d’une coopération entre programmes incitatifs nationaux. Ce programme multilatéral est destiné à se développer dans le cadre d’un **Eranet Plus (**appels à projets transnationaux co-financés par le budget européen).
+Pour construire une contribution de la recherche transport à ce champ thématique complexe, le **Secrétariat Permanent du Predit** contribue de façon décisive, au sein de l’Eranet transport, à la construction d’une coopération entre programmes incitatifs nationaux. Ce programme multilatéral est destiné à se développer dans le cadre d’un **Eranet Plus (**appels à projets transnationaux co-financés par le budget européen).
 
  
 
-Le cahier des charges pour la recherche en cours de mise au point comprend deux grandes orientations : la première en matière de politique de transports (recherches stratégiques), la seconde vers les technologies, et **cinq dimensions clés **:
+Le cahier des charges pour la recherche en cours de mise au point comprend deux grandes orientations : la première en matière de politique de transports (recherches stratégiques), la seconde vers les technologies, et **cinq dimensions clés**:
 
  
 
@@ -71,11 +71,11 @@ stockage et gestion de l’énergie, pchaîne de traction, architecture de véhi
 
  
 
-** **
+ 
 
  
 
-A ce jour, **huit pays **(France, Allemagne, Autriche, Pays-Bas, Norvège, Suède, Pologne et Finlande) **se sont engagés à contribuer à la création de l’ Eranet Plus « Electromobilité ». Prochaines étapes du projet ERANET + Electromobilité: **
+A ce jour, **huit pays** (France, Allemagne, Autriche, Pays-Bas, Norvège, Suède, Pologne et Finlande) **se sont engagés à contribuer à la création de l’ Eranet Plus « Electromobilité ». Prochaines étapes du projet ERANET + Electromobilité:**
 
  
 
@@ -87,7 +87,7 @@ A ce jour, **huit pays **(France, Allemagne, Autriche, Pays-Bas, Norvège, Suèd
 
  
 
-**Démarrage des projets : **Pour plus d’informations :
+**Démarrage des projets :** Pour plus d’informations :
 
  
 

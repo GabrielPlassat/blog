@@ -87,6 +87,6 @@ As part of the opening ceremony, Commission Vice-President Siim Kallas will awar
 
  
 
- ** Multimod eu ** from **Les transports du futur** 
+ **Multimod eu** from **Les transports du futur** 
 
 More information : http://ec.europa.eu/transport/themes/its/index_en.htm

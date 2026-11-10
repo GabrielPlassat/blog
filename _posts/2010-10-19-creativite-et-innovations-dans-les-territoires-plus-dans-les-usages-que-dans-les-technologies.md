@@ -27,7 +27,7 @@ La réflexion du groupe a mis en évidence, d’une part, ce qui est nouveau : 
 
  
 
-**Sur le sujet des mobilités, cela rejoint complétement les propositions d'innovations dans les usages apportés par les TIC, dans de nouveaux modes de gouvernance et d'autorités des transports, dans le partage de nouvelles données permettant de créer de nouveaux services. **
+**Sur le sujet des mobilités, cela rejoint complétement les propositions d'innovations dans les usages apportés par les TIC, dans de nouveaux modes de gouvernance et d'autorités des transports, dans le partage de nouvelles données permettant de créer de nouveaux services.**
 
  
 

@@ -61,6 +61,6 @@ L'extrait ci dessous du **rapport sur la fiscalité numérique** montre à quel 
 
  
 
-***Bien sûr ces 8 champs de recherche sont liés entre eux. Comment représenter ces 8 champs graphiquement et leurs liens ? Y a t-il d'autres champs ? N'hésiter pas à rédiger vos propositions en mode commentaire ci dessous ou par mail (voir Contact en haut). ***
+***Bien sûr ces 8 champs de recherche sont liés entre eux. Comment représenter ces 8 champs graphiquement et leurs liens ? Y a t-il d'autres champs ? N'hésiter pas à rédiger vos propositions en mode commentaire ci dessous ou par mail (voir Contact en haut).** *
 
 "

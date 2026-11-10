@@ -14,7 +14,7 @@ Cette affirmation de Mme Asensio mérite que l’on y prête attention tant les 
 
  
 
-**« **Les clients ont énormément changé, et l'industrie automobile n'évolue pas assez vite. Les jeunes générations *(25-35 ans) *ont l'habitude de customiser, de personnaliser tout ce qu'ils possèdent, de leur téléphone à leur page Web. »
+**«** Les clients ont énormément changé, et l'industrie automobile n'évolue pas assez vite. Les jeunes générations *(25-35 ans) *ont l'habitude de customiser, de personnaliser tout ce qu'ils possèdent, de leur téléphone à leur page Web. »
 
  
 

@@ -30,7 +30,7 @@ On trouve dans ce travail, comparé à des exercices analogues réalisés en Fra
 
  
 
-**Au total, ce sont soixante grandes tendances, sept défis sociétaux, et onze champs de recherche prioritaires qui ont été identifiés. **
+**Au total, ce sont soixante grandes tendances, sept défis sociétaux, et onze champs de recherche prioritaires qui ont été identifiés.**
 
  
 
@@ -252,7 +252,7 @@ Ce défi regroupe treize des grandes tendances identifiées, la première le sou
 - Le bruit: le problème d'environnement et de santé ignoré 
  
 
-**Nouveaux défis**** entre transparence et protection de la vie privée**
+**Nouveaux défis****entre transparence et protection de la vie privée**
 
  
 
@@ -291,7 +291,7 @@ Ce défi regroupe sept des grandes tendances identifiées, la première le sous-
 - Conséquences de l’exigence de transparence et hyperpuritanisme 
  
 
-**Société pluraliste**** à la recherche d'appartenance et de distinction :
+**Société pluraliste****à la recherche d'appartenance et de distinction :
 **
 
  
@@ -420,21 +420,21 @@ a cohésion sociale - Ciment des sociétés du 21ème siècle
 - **Photonique** 
 - **Production** 
 - **Recherche sur la sécurité civile** 
-- **Science et technologies des matériaux ** 
+- **Science et technologies des matériaux** 
  
 
-** **
+ 
 
  
 
-**Biotechnologies : **
+**Biotechnologies :**
 
  
  
 - Production durable  basée sur la biomasse : biocarburants, produits pharmaceutiques, principes biologiques transversaux, production biologique moléculaire. 
  
 
-**Services : **
+**Services :**
 
  
  
@@ -455,7 +455,7 @@ a cohésion sociale - Ciment des sociétés du 21ème siècle
 - Approches pour un système de santé durable,  réponses aux nouveaux défis de santé publique,  analyse moléculaire et diagnostic,  technologie médicale et e-santé, médecine individualisée, système d’information sur l’alimentation, réponses aux allergies et intolérances alimentaires. 
  
 
-**Technologies de l’information et de la communication : **
+**Technologies de l’information et de la communication :**
 
  
  
@@ -497,7 +497,7 @@ a cohésion sociale - Ciment des sociétés du 21ème siècle
 - Technologies et systèmes d'information et de communication, technologies de capteurs et de détection, intelligence artificielle / robotique, technologie et équipement de la protection, simulation et modélisation, reconnaissance biométrique, technologies d’observation, de navigation et de localisation. 
  
 
-**Science et technologies des matériaux **
+**Science et technologies des matériaux**
 
  
  
@@ -545,11 +545,11 @@ L’ambassade de France en Inde a réalisé un rapport de 23 pages intitulé [L�
 
  
 
-[Citizens in an interconnected and polycentric world](http://europa.eu/espas/pdf/espas_report_ii_01_en.pdf)**  European Union Institute for security studies 2012**
+[Citizens in an interconnected and polycentric world](http://europa.eu/espas/pdf/espas_report_ii_01_en.pdf) **European Union Institute for security studies 2012**
 
  
 
-**Nouvelles dimensions de**** la croissance et de l'équilibre entre développement durable, prospérité et qualité de vie**
+**Nouvelles dimensions de****la croissance et de l'équilibre entre développement durable, prospérité et qualité de vie**
 
  
 
@@ -557,7 +557,7 @@ Global Footprint Network (2012): Global Footprint Network 2012 Annual Report.
 
  
 
-**Nouveaux défis**** entre transparence et protection de la vie privée**
+**Nouveaux défis****entre transparence et protection de la vie privée**
 
  
 
@@ -565,7 +565,7 @@ Global Footprint Network (2012): Global Footprint Network 2012 Annual Report.
 
  
 
-**Société pluraliste**** à la recherche d'appartenance et de distinction**
+**Société pluraliste****à la recherche d'appartenance et de distinction**
 
  
 

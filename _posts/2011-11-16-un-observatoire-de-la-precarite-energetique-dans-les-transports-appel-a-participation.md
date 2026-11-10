@@ -11,7 +11,7 @@ redirect_from:
   - /2011/11/16/un-observatoire-de-la-precarite-energetique-dans-les-transports-appel-a-participation/
 ---
 
-Un [**observatoire **](http://www.developpement-durable.gouv.fr/L-Observatoire-national-de-la,21540.html)a été mis en oeuvre il y a quelques mois sur le sujet rassemblant Ministères, Agences, Acteurs économiques et associations. Historiquement focalisé sur l'habitat, la mobilité est maintenant intégrée à la réflexion dans une approche plus globale.
+Un [**observatoire** ](http://www.developpement-durable.gouv.fr/L-Observatoire-national-de-la,21540.html)a été mis en oeuvre il y a quelques mois sur le sujet rassemblant Ministères, Agences, Acteurs économiques et associations. Historiquement focalisé sur l'habitat, la mobilité est maintenant intégrée à la réflexion dans une approche plus globale.
 
  
 
@@ -19,4 +19,4 @@ Dans le domaine des transports, nous cherchons des entreprises, organismes inté
 
  
 
-**Contact **: gabriel.plassat@ademe.fr, didier.cherel@ademe.fr
+**Contact**: gabriel.plassat@ademe.fr, didier.cherel@ademe.fr

@@ -11,7 +11,7 @@ redirect_from:
   - /2010/01/26/entretien-croise-le-collaboratif-estil-soluble-dans-les-transports-philippe-gargov/
 ---
 
-Cet entretien croisé a été réalisé à partir des restitutions d'interviews réalisées dans le cadre du mémoire d'alternance de **[Philippe Gargov](http://www.pop-up-urbain.com/)** (co-dirigé par Eric Magnin et Bruno Marzloff). Si vous souhaitez en savoir plus, l’adresse originale du texte est **[là](http://www.groupechronos.org/index.php/fre/themas/entretiens/entretien-croise-le-collaboratif-est-il-soluble-dans-les-transports)**, et la version complète du mémoire est** [ici](http://www.groupechronos.org/index.php/fre/projets/etudes/enjeux-et-potentiels-de-l-information-collaborative-dans-les-transports-en-commun)**.
+Cet entretien croisé a été réalisé à partir des restitutions d'interviews réalisées dans le cadre du mémoire d'alternance de **[Philippe Gargov](http://www.pop-up-urbain.com/)** (co-dirigé par Eric Magnin et Bruno Marzloff). Si vous souhaitez en savoir plus, l’adresse originale du texte est **[là](http://www.groupechronos.org/index.php/fre/themas/entretiens/entretien-croise-le-collaboratif-est-il-soluble-dans-les-transports)**, et la version complète du mémoire est **[ici](http://www.groupechronos.org/index.php/fre/projets/etudes/enjeux-et-potentiels-de-l-information-collaborative-dans-les-transports-en-commun)**.
 
  
 
@@ -35,7 +35,7 @@ Sur son blog, la plateforme collaborative d'information voyageurs **[Clever Comm
 
  
 
-******
+
 
  
 
@@ -53,7 +53,7 @@ Sur son blog, la plateforme collaborative d'information voyageurs **[Clever Comm
 
  
 
-******
+
 
  
 
@@ -71,7 +71,7 @@ Sur son blog, la plateforme collaborative d'information voyageurs **[Clever Comm
 
  
 
-******
+
 
  
 

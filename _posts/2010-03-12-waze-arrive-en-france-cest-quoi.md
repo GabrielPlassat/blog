@@ -19,7 +19,7 @@ Déjà opérationnel à l'étranger et présenté dans une note précédente (**
 
  
 
-***   ******Waze : le premier GPS social et gratuit sur mobile arrive en France ***
+***   Waze : le premier GPS social et gratuit sur mobile arrive en France** *
 
  
 
@@ -33,7 +33,7 @@ Déjà opérationnel à l'étranger et présenté dans une note précédente (**
 
  
 
-**Paris le 10 mars 2010 - **Waze, premier GPS social au monde, annonce aujourd’hui le lancement de son application sur mobile en France. Disponible sous iPhone, Android, Windows Mobile et Symbian, ce GPS enrichi des informations générées en temps réel par les utilisateurs est disponible en français sur les iPhones et mobiles sous Android, Windows Mobile et Symbian. 
+**Paris le 10 mars 2010 -** Waze, premier GPS social au monde, annonce aujourd’hui le lancement de son application sur mobile en France. Disponible sous iPhone, Android, Windows Mobile et Symbian, ce GPS enrichi des informations générées en temps réel par les utilisateurs est disponible en français sur les iPhones et mobiles sous Android, Windows Mobile et Symbian. 
 
  
 
@@ -45,7 +45,7 @@ Déjà opérationnel à l'étranger et présenté dans une note précédente (**
 
  
 
-****
+
 
  
 
@@ -84,7 +84,7 @@ Waze réussit le pari d’introduire une dimension sociale et de jeu à un servi
 
  
 
-****
+
 
  
 
@@ -98,7 +98,7 @@ Waze mène également des opérations plus ponctuelles pour animer sa communaut�
 
  
 
-****
+
 
  
 

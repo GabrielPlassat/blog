@@ -11,7 +11,7 @@ redirect_from:
   - /2011/12/07/quel-financement-possible-pour-les-transports-publics/
 ---
 
-Ce sujet largement [**étudié **](http://www.predit.prd.fr/predit4/politiques-de-transport/)est éclairé par l'actualité récente. D'une part Veolia vient de décider de se séparer de sa branche transport car [**le transport est une activité capitalistique et ne rentre pas dans nos priorités d'investissement**](http://www.lesechos.fr/entreprises-secteurs/service-distribution/actu/0201780849676-le-desengagement-de-l-activite-transport-sort-veolia-d-une-orniere-et-soulage-le-marche-259109.php)", et d'autre part, le [**tarif unique en île de France**](http://www.lesechos.fr/economie-politique/regions/idf/0201782982863-transports-d-ile-de-france-les-usagers-risquent-d-etre-mis-davantage-a-contribution-259690.php) soulève la question de son financement.
+Ce sujet largement [**étudié** ](http://www.predit.prd.fr/predit4/politiques-de-transport/)est éclairé par l'actualité récente. D'une part Veolia vient de décider de se séparer de sa branche transport car [**le transport est une activité capitalistique et ne rentre pas dans nos priorités d'investissement**](http://www.lesechos.fr/entreprises-secteurs/service-distribution/actu/0201780849676-le-desengagement-de-l-activite-transport-sort-veolia-d-une-orniere-et-soulage-le-marche-259109.php)", et d'autre part, le [**tarif unique en île de France**](http://www.lesechos.fr/economie-politique/regions/idf/0201782982863-transports-d-ile-de-france-les-usagers-risquent-d-etre-mis-davantage-a-contribution-259690.php) soulève la question de son financement.
 
  
 
@@ -54,7 +54,7 @@ Les technologies associées sont donc disponibles. Il y a besoin d'innovations d
 
  
 
-**Mot clé : **données, accès/création, normes/standards
+**Mot clé :** données, accès/création, normes/standards
 
  
 
@@ -82,7 +82,7 @@ Permettre aux citoyens de créer des données (trafic, routes pour vélo ou des 
 
  
 
-**Mot clé : **Centrale de mobilité**, **assistant personnel de mobilité, outil de gestion urbaine pour une collectivité, outil d’aide aux changements d’organisation, de consommations ou de localisation (entreprises, ménages), outil de gestion  pour les pouvoirs publics (statistiques, modélisation, prévision).
+**Mot clé :** Centrale de mobilité**,** assistant personnel de mobilité, outil de gestion urbaine pour une collectivité, outil d’aide aux changements d’organisation, de consommations ou de localisation (entreprises, ménages), outil de gestion  pour les pouvoirs publics (statistiques, modélisation, prévision).
 
  
 
@@ -110,7 +110,7 @@ Des solutions de tarification dynamique sont étudiées comme le road pricing, o
 
  
 
-**Mot clé : **autopartage, covoiturage, transport à la demande, vélo-véhicule libre service, parking haut niveau de service, aire de livraison HNS, télécentre, e-commerce, livraison groupée, centre multimodal de distribution urbaine, solution de stockage/livraison de colis, tarification intelligente, solution d’assurances.
+**Mot clé :** autopartage, covoiturage, transport à la demande, vélo-véhicule libre service, parking haut niveau de service, aire de livraison HNS, télécentre, e-commerce, livraison groupée, centre multimodal de distribution urbaine, solution de stockage/livraison de colis, tarification intelligente, solution d’assurances.
 
  
 
@@ -126,7 +126,7 @@ Des solutions de tarification dynamique sont étudiées comme le road pricing, o
 
  
 
-**Exemples** : autopartage classique type **Zipcar** (Zipcar non rentable à ce jour, malgré une présence mondiale, sans doute lié au besoin d’investissement dans les véhicules), autopartage avec des véhicules électriques type Autolib (**rapport du CAS**), autopartage entre particulier type **buzzcar**, covoiturage dynamique type **Avego **ou **Megacarpool** à Delhi (la rentabilité est liée à un effet seuil où il y a suffisamment d’offres/demandes, Megacarpool propose un système de point gagné quand on prend quelqu’un, utilisable pour aller un autre jour dans une autre voiture), partage d’un taxi (**écotaxi**, créée par Orange), transport à la demande… Cela touche également les infrastructures : parking communicant (application **Navx**), routes, gares, aires de livraison, **arrêt de bus**, borne de recharge électrique. Ces solutions de mobilité/immobilité vont utiliser des données, en produire d’autres, et auront besoin d’être lier entre elles pour offrir une solution globale dite intégrée de performances supérieures à l’automobile possédée.
+**Exemples** : autopartage classique type **Zipcar** (Zipcar non rentable à ce jour, malgré une présence mondiale, sans doute lié au besoin d’investissement dans les véhicules), autopartage avec des véhicules électriques type Autolib (**rapport du CAS**), autopartage entre particulier type **buzzcar**, covoiturage dynamique type **Avego** ou **Megacarpool** à Delhi (la rentabilité est liée à un effet seuil où il y a suffisamment d’offres/demandes, Megacarpool propose un système de point gagné quand on prend quelqu’un, utilisable pour aller un autre jour dans une autre voiture), partage d’un taxi (**écotaxi**, créée par Orange), transport à la demande… Cela touche également les infrastructures : parking communicant (application **Navx**), routes, gares, aires de livraison, **arrêt de bus**, borne de recharge électrique. Ces solutions de mobilité/immobilité vont utiliser des données, en produire d’autres, et auront besoin d’être lier entre elles pour offrir une solution globale dite intégrée de performances supérieures à l’automobile possédée.
 
  
 
@@ -134,11 +134,11 @@ Des solutions de tarification dynamique sont étudiées comme le road pricing, o
 
  
 
-**Mot clé : **gouvernance mobilité, gouvernance transport et livraison de marchandises, tarification multimodales, billetique multimodale, solution d’assurances globale, **smart city**.
+**Mot clé :** gouvernance mobilité, gouvernance transport et livraison de marchandises, tarification multimodales, billetique multimodale, solution d’assurances globale, **smart city**.
 
  
 
-**Enjeux** : Intégration de plusieurs solutions de mobilité aujourd’hui réalisées en silos, permettant de créer une solution multimodale adaptée à chaque besoin, que l’on pourrait consommer sous forme de forfait. Il est alors question d’intégration de plusieurs solutions, de gouvernance, de **management des mobilités **pour les collectivités, de tarification, de billetique, et d’assurance.
+**Enjeux** : Intégration de plusieurs solutions de mobilité aujourd’hui réalisées en silos, permettant de créer une solution multimodale adaptée à chaque besoin, que l’on pourrait consommer sous forme de forfait. Il est alors question d’intégration de plusieurs solutions, de gouvernance, de **management des mobilités** pour les collectivités, de tarification, de billetique, et d’assurance.
 
  
 
@@ -154,6 +154,6 @@ Des solutions de tarification dynamique sont étudiées comme le road pricing, o
 
  
 
-**Pensez le financement des transports publics nécessite de penser l'intégralité des modes de transports en considérant les véhicules, les infrastructures, et sans doute demain les énergies. La présentation ci dessous résume en 20 diapos cette vision systémique **:
+**Pensez le financement des transports publics nécessite de penser l'intégralité des modes de transports en considérant les véhicules, les infrastructures, et sans doute demain les énergies. La présentation ci dessous résume en 20 diapos cette vision systémique**:
 
  Td f 2011v1 View more presentations from Les transports du futur

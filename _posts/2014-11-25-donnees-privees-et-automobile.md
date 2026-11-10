@@ -73,7 +73,7 @@ Cette approche de la donnée révèle avant tout une posture, celle d'une filiè
 
  
 
-**En agissant ainsi, s'ouvre de plus en plus des espaces pour l'innovation, pour venir remplir les vides entre ces approches fermées et descendantes, et les besoins des citoyens et territoires pour améliorer les mobilités quotidiennes. L'automobile connectée ne résoudra pas seule l'équation complexe des mobilités quotidiennes dont l'expérience est de moins de moins satisfaisante sur tous les critères. **
+**En agissant ainsi, s'ouvre de plus en plus des espaces pour l'innovation, pour venir remplir les vides entre ces approches fermées et descendantes, et les besoins des citoyens et territoires pour améliorer les mobilités quotidiennes. L'automobile connectée ne résoudra pas seule l'équation complexe des mobilités quotidiennes dont l'expérience est de moins de moins satisfaisante sur tous les critères.**
 
  
 
@@ -88,4 +88,4 @@ Cette approche de la donnée révèle avant tout une posture, celle d'une filiè
 
  
 
- ** Consumer privacy Automotive ** from **Les transports du futur**
+ **Consumer privacy Automotive** from **Les transports du futur**

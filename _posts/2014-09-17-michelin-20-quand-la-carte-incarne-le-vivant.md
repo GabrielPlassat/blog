@@ -67,7 +67,7 @@ You Are Here is a project of the Social Computing Group at the MIT Media Lab."
 
  
 
-***Accidents de Vélos à Cambridge et Los Angeles ***
+***Accidents de Vélos à Cambridge et Los Angeles** *
 
  
 

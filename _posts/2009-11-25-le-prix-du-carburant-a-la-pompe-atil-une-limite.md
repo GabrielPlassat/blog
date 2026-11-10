@@ -23,7 +23,7 @@ En Europe notamment, le prix du carburant à la pompe contient une forte proport
 
  
 
-·    d’effet de levier pour développer les modes alternatifs à l’automobile, **[de nouvelles mobilités]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/) **ou les transports en commun,
+·    d’effet de levier pour développer les modes alternatifs à l’automobile, **[de nouvelles mobilités]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** ou les transports en commun,
 
  
 

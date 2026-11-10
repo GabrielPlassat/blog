@@ -33,7 +33,7 @@ Si les données, nos traces, sont partagées (de façon acceptable), le temps r�
 
  
 
-En reprenant une **ancienne note **: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  
+En reprenant une **ancienne note**: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  
 
 
  

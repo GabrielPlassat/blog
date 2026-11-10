@@ -24,7 +24,7 @@ Sur cette base, Alibaba vise maintenant la mobilité porte à porte, la voiture 
 
  
 
-En Chine, le consommateur "découvre" en même temps le numérique, internet, GPS, smartphone et l'automobile. Il ne comprend pourquoi l'automobile n'est pas "numérique". **Et si les premières industries de masse de la voiture connectée et des services naissaient en Chine ? **
+En Chine, le consommateur "découvre" en même temps le numérique, internet, GPS, smartphone et l'automobile. Il ne comprend pourquoi l'automobile n'est pas "numérique". **Et si les premières industries de masse de la voiture connectée et des services naissaient en Chine ?**
 
  
 

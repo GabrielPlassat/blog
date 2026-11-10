@@ -11,7 +11,7 @@ redirect_from:
   - /2013/02/04/les-transports-a-lage-de-la-multitude/
 ---
 
-**Depuis 20 ans, le numérique s'insère partout et ce n'est que le début. ** 
+**Depuis 20 ans, le numérique s'insère partout et ce n'est que le début.** 
 
  
 

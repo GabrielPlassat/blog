@@ -17,7 +17,7 @@ Les rencontres de 2010 proposent aux chercheurs de venir contribuer à la progre
 
  
 
-**18ème Colloque International du Gerpisa -  **9 Juin 2010 09:00 – 11 Juin 2010 17:30 
+**18ème Colloque International du Gerpisa -** 9 Juin 2010 09:00 – 11 Juin 2010 17:30 
 
  
 

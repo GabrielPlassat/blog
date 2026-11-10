@@ -19,7 +19,7 @@ Mené par des considérations à la fois égoïste (contraintes budgétaires) et
 
  
 
-**En expérimentant concrètement, l'utilisateur constate que cela fonctionne et lui donne un service équivalent. Même si il souhaite (peut être) avoir sa voiture, il accepte peu à peu l'utilisation de services de mobilité lui permettant de retarder, et dans certains cas d'annuler, le besoin d'investir dans un véhicule privé**. **Seule l'expérimentation permet de changer les pratiques dès lors qu'il s'agit de réaliser des tâches complexes. **
+**En expérimentant concrètement, l'utilisateur constate que cela fonctionne et lui donne un service équivalent. Même si il souhaite (peut être) avoir sa voiture, il accepte peu à peu l'utilisation de services de mobilité lui permettant de retarder, et dans certains cas d'annuler, le besoin d'investir dans un véhicule privé**. **Seule l'expérimentation permet de changer les pratiques dès lors qu'il s'agit de réaliser des tâches complexes.**
 
  
 

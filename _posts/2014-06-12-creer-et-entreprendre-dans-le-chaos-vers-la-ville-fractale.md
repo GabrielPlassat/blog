@@ -26,4 +26,4 @@ Dans ce cadre, mon intervention à la conférence **Made In the City** : *La vi
 
  
 
- ** G plassat fense14 ** from **Les transports du futur**
+ **G plassat fense14** from **Les transports du futur**

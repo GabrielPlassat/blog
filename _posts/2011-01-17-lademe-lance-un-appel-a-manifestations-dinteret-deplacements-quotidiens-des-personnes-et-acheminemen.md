@@ -15,7 +15,7 @@ Dans le cadre des **[investissements d'avenir ](http://investissement-avenir.gou
 
  
 
-Il s'agit, dans cet AMI, d'innover dans une **approche systémique **en incluant tous les acteurs de la mobilité : opérateurs de transports publics, constructeurs automobiles, de camion ou de deux roues, gestionnaires d'infrastructures, de route ou de parking, loueurs, banques et assurances, opérateurs de télécommunications, laboratoires de recherche sur les transports, la gestion de données ou la simulation numérique complexe, fournisseurs d'énergies mais également les collectivités et les autorités organisatrices.
+Il s'agit, dans cet AMI, d'innover dans une **approche systémique** en incluant tous les acteurs de la mobilité : opérateurs de transports publics, constructeurs automobiles, de camion ou de deux roues, gestionnaires d'infrastructures, de route ou de parking, loueurs, banques et assurances, opérateurs de télécommunications, laboratoires de recherche sur les transports, la gestion de données ou la simulation numérique complexe, fournisseurs d'énergies mais également les collectivités et les autorités organisatrices.
 
  
 
@@ -43,10 +43,10 @@ Cet AMI est une opportunité unique pour tous les acteurs de la mobilité de se 
 
  
 
-Tous les documents nécessaires (également téléchargeables ci dessous) au montage d'un projet sont disponibles ci dessous ou sur le site de **l'ADEME**. Les outils *Les Transports du Futur *comme le **flux d'information**, le compte **twitter **ou le **groupe de discussion **(maintenant totalement libre d'accès) peuvent être utilisés pour trouver des informations ou échanger. **Vous avez jusqu'au 20 mai 2011 (15h).**
+Tous les documents nécessaires (également téléchargeables ci dessous) au montage d'un projet sont disponibles ci dessous ou sur le site de **l'ADEME**. Les outils *Les Transports du Futur *comme le **flux d'information**, le compte **twitter** ou le **groupe de discussion** (maintenant totalement libre d'accès) peuvent être utilisés pour trouver des informations ou échanger. **Vous avez jusqu'au 20 mai 2011 (15h).**
 
  
 
-**Ci dessous le texte de l'AMI Mobilité et la Feuille de route associée : ***** ***
+**Ci dessous le texte de l'AMI Mobilité et la Feuille de route associée :******* *
 
  Ia ami mobilite1 View more documents from transportsdufutur. Ia ami mobilite_annexe1_fdr View more documents from transportsdufutur.

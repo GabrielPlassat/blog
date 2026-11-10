@@ -16,7 +16,7 @@ Ces 10 exemples d'utilisation des données dans le domaine des transports de mar
  
 
 **Traffic accidents in the U.S. between 2001 to 2009
- **
+**
 
  
 
@@ -24,7 +24,7 @@ Ces 10 exemples d'utilisation des données dans le domaine des transports de mar
 
  
 
-** ![](http://international.ateneonaider.com/sites/default/files/17/1_0.jpg)**
+**![](http://international.ateneonaider.com/sites/default/files/17/1_0.jpg)**
 
  
 
@@ -37,7 +37,7 @@ An impressive work that collects all traffic accidents on different roads of the
  
 
 **The long journey of trash
- **
+**
 
  
 
@@ -58,7 +58,7 @@ I wrote some lines about this project from MIT [some time ago](http://www.delici
  
 
 **A public hire bike system in real time
- **
+**
 
  
 
@@ -139,7 +139,7 @@ What can you do with the census data? With this map you can reach the level of d
  
 
 **Time distance to get around the city
- **
+**
 
  
 
@@ -160,7 +160,7 @@ What can you do with the census data? With this map you can reach the level of d
  
 
 **The changing city. Day and night
- **
+**
 
  
 
@@ -181,7 +181,7 @@ A simple but powerful idea. The population of New York during the day and at nig
  
 
 **Singapore real time
- **
+**
 
  
 
@@ -199,7 +199,7 @@ e and goods in a city that serves as a hub of the global economy. The [video ](h
  
 
 **Understanding air pollution
- **
+**
 
  
 

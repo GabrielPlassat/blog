@@ -53,8 +53,8 @@ Edgar Morin, *La Méthode *et *Introduction à la pensée complexe*.
  
 
 « Qu’est ce que la complexité ? au premier abord, **la complexité est un tissu (complexus : ce qui est tissé ensemble) de constituants hétérogènes inséparablement associés** : elle pose le paradoxe de l’un et du multiple. Au second abord, **la complexité est effectivement le tissu d’évènements, actions, rétroactions, déterminations, aléas, qui constituent notre monde phénoménal. Mais alors la complexité se présente avec les traits inquiétants du fouillis, de l’inextricable, du désordre, de l’ambiguïté, de l’incertitude**… D’où la nécessité, pour la connaissance, de mettre de l’ordre dans les phénomènes en refoulant le désordre, d’écarter l’incertain, c'est-à-dire de sélectionner les éléments d’ordre et de certitude, de désambiguïser, clarifier, distinguer, hiérarchiser…
-Mais de telles opérations, nécessaire à l’intelligibilité, risquent de rendre aveugle si elles éliminent les autres caractères du complexus et effectivement, comme je l’ai indiqué, elles nous ont rendus aveugles.[…] La difficulté de la pensée complexe est qu’elle doit affronter le fouillis (le jeu infini des inter-rétroactions), la solidarité des phénomènes entre eux, le brouillard, l’incertitude, la contradiction. »****
+Mais de telles opérations, nécessaire à l’intelligibilité, risquent de rendre aveugle si elles éliminent les autres caractères du complexus et effectivement, comme je l’ai indiqué, elles nous ont rendus aveugles.[…] La difficulté de la pensée complexe est qu’elle doit affronter le fouillis (le jeu infini des inter-rétroactions), la solidarité des phénomènes entre eux, le brouillard, l’incertitude, la contradiction. »
 
  
 
-Reprenant *E.Morin* (voir **l’article **sur ce sujet), la somme des 2 sera à la fois supérieure et inférieure à la somme des parties. De ce paradoxe, il devient urgent de s’intéresser pour trouver notre **voie d’intérêts communs**.
+Reprenant *E.Morin* (voir **l’article** sur ce sujet), la somme des 2 sera à la fois supérieure et inférieure à la somme des parties. De ce paradoxe, il devient urgent de s’intéresser pour trouver notre **voie d’intérêts communs**.

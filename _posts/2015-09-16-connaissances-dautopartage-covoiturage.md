@@ -32,14 +32,14 @@ Afin de mieux comprendre les usages de services de mobilité en forte évolution
 
 L’objectif est, pour chacun des services, de mieux connaître la pratique, la quantifier, l’évaluer, de comprendre les conditions du passage à l’acte, les motivations d’adopter de nouvelles pratiques, les freins ressentis, etc. Une objectif plus global est de comprendre les complémentarités – et parfois concurrences – entre les différents services, les liens avec les autres modes comme les transports collectifs et les modes actifs, les meilleurs leviers pour développer ces services de manière plus intégrée et cohérente, …
 
-**L’autopartage **
+**L’autopartage**
 
 L’article L1231-1-14 du Code des transports définit l’activité d’autopartage comme *« la mise en commun d'un véhicule ou d'une flotte de véhicules de transport terrestre à moteur au profit d'utilisateurs abonnés ou habilités par l'organisme ou la personne gestionnaire des véhicules. Chaque abonné ou utilisateur habilité peut accéder à un véhicule sans conducteur pour le trajet de son choix et pour une durée limitée.* »
 
 Il existe diverses catégories de services d’autopartage, très différents dans leur conception et leur utilisation. Les 3 principales offres ciblant les particuliers sont :
 
 	
-- **L’autopartage en boucle **: les véhicules, gérés par un opérateur, doivent être rapportés à la station de départ. Ils sont utilisés en moyenne pour quelques heures et quelques dizaines de kilomètres. Exemples : le réseau Citiz présent dans une quinzaine d’agglomérations françaises, Mobizen (Ile-de-France), Mobility Carsharing (Suisse), Zipcar (US), …
+- **L’autopartage en boucle**: les véhicules, gérés par un opérateur, doivent être rapportés à la station de départ. Ils sont utilisés en moyenne pour quelques heures et quelques dizaines de kilomètres. Exemples : le réseau Citiz présent dans une quinzaine d’agglomérations françaises, Mobizen (Ile-de-France), Mobility Carsharing (Suisse), Zipcar (US), …
 	
 - **L’autopartage en trace directe** : les véhicules peuvent être restitués dans n’importe quelle station (système avec station) ou n’importe où sur une place de stationnement en voirie (systèmes en flotte libre). Ils sont utilisés pour quelques dizaines de minutes et quelques kilomètres. Exemples : Autolib’, Car2go, Drivenow, …
 	
@@ -54,7 +54,7 @@ Les études soutenues par l’ADEME portent sur ces 3 grandes formes d’autopar
 	
 - L’[**Enquête nationale sur l’autopartage entre particuliers**](http://www.ademe.fr/enquete-nationale-lautopartage-entre-particuliers-ena4) (2015) : 1 020 utilisateurs interrogés, parmi lesquels 303 propriétaires (qui louent leur propre voiture à des particuliers) et 717 locataires (qui louent des voitures qui appartiennent à des particuliers). Les personnes interrogées sont inscrites sur les principales plateformes de location de voitures entre particuliers.
 
-**Le covoiturage **
+**Le covoiturage**
 
 Le covoiturage est défini comme « *l’utilisation en commun d’un véhicule terrestre à moteur par un conducteur et un ou plusieurs passagers, effectuée à titre non onéreux, excepté le partage des frais, dans le cadre d’un déplacement que le conducteur effectue pour son propre compte. Leur mise en relation, à cette fin, peut être effectuée à titre onéreux* » (Art. L. 3132-1 de la loi de transition énergétique pour la croissance verte de 2015).
 
