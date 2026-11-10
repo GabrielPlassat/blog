@@ -21,7 +21,7 @@ En croisant deux informations, imaginons que les futures systèmes de véhicules
 - et à l'extrême, un confort tel que l'on a pas forcement envie de rester longtemps dans la voiture, 
  
 
-Renault Bajaj **[vient d'annoncer]()** quelques informations sur la future concurrente de la Nano: moins chère et plus efficace. Interessera-t-elle seulement les indiens ?
+Renault Bajaj **[vient d'annoncer](http://www.lexpansion.com/economie/actualite-entreprise/renault-et-bajaj-veulent-contrer-la-nano_231776.html)** quelques informations sur la future concurrente de la Nano: moins chère et plus efficace. Interessera-t-elle seulement les indiens ?
 
  
 
@@ -49,10 +49,10 @@ Renault Bajaj **[vient d'annoncer]()** quelques informations sur la future concu
 
  
 
-Le commissariat général au développement durable vient d'annoncer les [premiers bilans économiques des vélos en libre service](). L'équilibre est réalisé dans certains cas, mais il semble fragile. Et pourtant il est question de gérer des objets techniques, on ne peut plus simple - des vélos coûtant 2000-3000 euros par an. Quels seront les bilans économiques des systèmes impliquant des voitures électriques ? Rendez vous dans 2-3 ans ...
+Le commissariat général au développement durable vient d'annoncer les [premiers bilans économiques des vélos en libre service](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2010/05/LPS50.pdf). L'équilibre est réalisé dans certains cas, mais il semble fragile. Et pourtant il est question de gérer des objets techniques, on ne peut plus simple - des vélos coûtant 2000-3000 euros par an. Quels seront les bilans économiques des systèmes impliquant des voitures électriques ? Rendez vous dans 2-3 ans ...
 
  
 
-La mise en oeuvre de véhicules simples à très bas prix permettra de se rapprocher des modèles économiques des vélos en libre service. . Voir également **[ici]()** , **[ici]()** et **[là]()**.
+La mise en oeuvre de véhicules simples à très bas prix permettra de se rapprocher des modèles économiques des vélos en libre service. . Voir également **[ici]({{ site.baseurl }}/2010/01/vers-des-voitures-a-tres-bas-prix/)** , **[ici]({{ site.baseurl }}/2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites/)** et **[là]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**.
 
 "

@@ -17,7 +17,7 @@ redirect_from:
 
  
 
-Cette annonce est un premier pas important fruit d'un intense lobbying de la part de **[Free Our Data]()**", une campagne pour l'accès libre et gratuit aux données portant sur le Royaume-Unis et ses citoyens, mais aussi de **[Tim Berners-Lee]()** (un des fondateurs de web) et **[Nigel Shaldot]()** à propos du bénéfice des données libres. 
+Cette annonce est un premier pas important fruit d'un intense lobbying de la part de **[Free Our Data](http://www.freeourdata.org.uk/index.php)**", une campagne pour l'accès libre et gratuit aux données portant sur le Royaume-Unis et ses citoyens, mais aussi de **[Tim Berners-Lee](http://www.number10.gov.uk/Pagetag/sir-tim-berners-lee)** (un des fondateurs de web) et **[Nigel Shaldot](http://www.number10.gov.uk/Pagetag/nigel-shadbolt)** à propos du bénéfice des données libres. 
 
  
 
@@ -39,7 +39,7 @@ C'est pourquoi le Premier Ministre a demandé à Tim Berners-Lee de le conseille
 
  
 
-Nous l’avons déjà abordé dans des précédents articles (voir **[ici ]()**et **[là]()**), les questions de la disponibilité des données liées à la mobilité, aux modes de transports sont centrales. Ceci est également largement ressorti du s**[éminaire organisé par l’ADEME]()**.
+Nous l’avons déjà abordé dans des précédents articles (voir **[ici ]({{ site.baseurl }}/2009/11/participation-des-usagersinternautes-a-linformation-deplacements/)**et **[là](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/6a0120a66d2ad4970b012875a85d74970c/edithttp:/transportsdufutur.ademe.fr/blog/2009/11/open-source-mobilites-quels-avantages-quelles-consequences.html)**), les questions de la disponibilité des données liées à la mobilité, aux modes de transports sont centrales. Ceci est également largement ressorti du s**[éminaire organisé par l’ADEME]({{ site.baseurl }}/)**.
 
  
 

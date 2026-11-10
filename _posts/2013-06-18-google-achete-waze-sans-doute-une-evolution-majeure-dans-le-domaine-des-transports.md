@@ -40,15 +40,15 @@ En résumé, Waze permet d'accéder à:
 - Carte temps réel mise à jour en permanence par la communauté des éditeurs de carte de Waze 
  
 
-Ajouter à cela, la capacité à apprendre du temps réel pour faire du prédictif (en plus des smartphones Android) et vous obtenez un acteur central capable de vous donner des connaissances contextualisées dynamiques et prédictives. Les annonceurs vont adorer. Noter au passage la notion de point et de classement dans votre communauté (lire l’article **[Votre réputation sera votre monnaie et la base de votre réputation altruiste]()**) visant à récompenser sous une forme non monétaire l’activité.
+Ajouter à cela, la capacité à apprendre du temps réel pour faire du prédictif (en plus des smartphones Android) et vous obtenez un acteur central capable de vous donner des connaissances contextualisées dynamiques et prédictives. Les annonceurs vont adorer. Noter au passage la notion de point et de classement dans votre communauté (lire l’article **[Votre réputation sera votre monnaie et la base de votre réputation altruiste]({{ site.baseurl }}/2013/04/votre-reputation-numerique-sera-votre-monnaie-et-la-base-de-votre-implication-altruiste/)**) visant à récompenser sous une forme non monétaire l’activité.
 
  
 
-Imaginer ensuite sur votre carte GoogleMap une nouvelle option : les véhicules de la communauté Waze vont informent, et demain vous proposent de covoiturer ou d’autopartager, … Décidemment, la carte n’a pas finie d’être la zone de combat des acteurs du transport (lien vers le **[système cartographique d'Amazon]()**). 
+Imaginer ensuite sur votre carte GoogleMap une nouvelle option : les véhicules de la communauté Waze vont informent, et demain vous proposent de covoiturer ou d’autopartager, … Décidemment, la carte n’a pas finie d’être la zone de combat des acteurs du transport (lien vers le **[système cartographique d'Amazon](http://pro.clubic.com/entreprises/amazon/actualite-511287-amazon-cartographie.html)**). 
 
  
 
-Ce récent **[article]()** de Forbes propose notamment deux raisons de cette acquisition. Il est rappelé dès le départ que “General navigation and maps, are really the ‘search’ for mobile,” […] and Waze to search the real world tomorrow. Waze, he added, was one of only four major companies that built its own extensive maps of the world, the others being TomTom, Navteq and Google.
+Ce récent **[article](http://www.forbes.com/sites/parmyolson/2013/06/13/what-waze-adds-to-google-a-view-from-wazes-ceo/?utm_campaign=techtwittersf&utm_source=twitter&utm_medium=social)** de Forbes propose notamment deux raisons de cette acquisition. Il est rappelé dès le départ que “General navigation and maps, are really the ‘search’ for mobile,” […] and Waze to search the real world tomorrow. Waze, he added, was one of only four major companies that built its own extensive maps of the world, the others being TomTom, Navteq and Google.
 
  
 
@@ -68,7 +68,7 @@ Ce récent **[article]()** de Forbes propose notamment deux raisons de cette acq
 
  
 
-Cette indexation du monde réel déjà mentionnée dans un précédent article (lire l’article **[Le choc à venir entre industrie automobile et industrie numérique]()**) a déjà eu lieu avec Street View, mais là elle sera réalisée par la multitude. Plus tard, peut être, les GoogleCars pourront aussi poursuivre cette indexation de façon automatique. Les robots alimenteront alors eux-mêmes les données cartographiques dont ils auront besoin pour circuler.
+Cette indexation du monde réel déjà mentionnée dans un précédent article (lire l’article **Le choc à venir entre industrie automobile et industrie numérique**) a déjà eu lieu avec Street View, mais là elle sera réalisée par la multitude. Plus tard, peut être, les GoogleCars pourront aussi poursuivre cette indexation de façon automatique. Les robots alimenteront alors eux-mêmes les données cartographiques dont ils auront besoin pour circuler.
 
  
 
@@ -88,7 +88,7 @@ Pour le moment, il n’y a pas de publicité géolocalisée lors d’une utilisa
 
  
 
-*Waze takes an open perspective to its data and its tools for selling ads. It **[has a site]()** that makes it relatively easy for second-tier ad sellers or advertisers themselves to pitch to users. It also **[has a site]()** specifically for TV news stations who want to use Waztext-align: justify"">[…] “Just like search became the interface for monetization on the web, maps are going to be a big part of the monetization engine for mobile,” he said, “because that’s what you open when you’re going places.”*
+*Waze takes an open perspective to its data and its tools for selling ads. It **has a site** that makes it relatively easy for second-tier ad sellers or advertisers themselves to pitch to users. It also **has a site** specifically for TV news stations who want to use Waztext-align: justify"">[…] “Just like search became the interface for monetization on the web, maps are going to be a big part of the monetization engine for mobile,” he said, “because that’s what you open when you’re going places.”*
 
  
 
@@ -96,7 +96,7 @@ Pour le moment, il n’y a pas de publicité géolocalisée lors d’une utilisa
 
  
 
-Cette indexation du monde réel déjà mentionnée dans un précédent article (lire l’article **[Le choc à venir entre industrie automobile et industrie numérique]()**) a déjà eu lieu avec Street View, mais là elle sera réalisée par la multitude. Plus tard, peut être, les GoogleCars pourront aussi poursuivre cette indexation de façon automatique. Les robots alimenteront alors eux-mêmes les données cartographiques dont ils auront besoin pour circuler.
+Cette indexation du monde réel déjà mentionnée dans un précédent article (lire l’article **Le choc à venir entre industrie automobile et industrie numérique**) a déjà eu lieu avec Street View, mais là elle sera réalisée par la multitude. Plus tard, peut être, les GoogleCars pourront aussi poursuivre cette indexation de façon automatique. Les robots alimenteront alors eux-mêmes les données cartographiques dont ils auront besoin pour circuler.
 
  
 
@@ -116,7 +116,7 @@ Pour le moment, il n’y a pas de publicité géolocalisée lors d’une utilisa
 
  
 
-*Waze takes an open perspective to its data and its tools for selling ads. It **[has a site]()** that makes it relatively easy for second-tier ad sellers or advertisers themselves to pitch to users. It also **[has a site]()** specifically for TV news stations who want to use Waze for their traffic updates, on the condition they name the company on air. At the time of Bardin’s interview Waze was being used on 25 TV news programs across the U.S.*
+*Waze takes an open perspective to its data and its tools for selling ads. It **has a site** that makes it relatively easy for second-tier ad sellers or advertisers themselves to pitch to users. It also **has a site** specifically for TV news stations who want to use Waze for their traffic updates, on the condition they name the company on air. At the time of Bardin’s interview Waze was being used on 25 TV news programs across the U.S.*
 
  
 

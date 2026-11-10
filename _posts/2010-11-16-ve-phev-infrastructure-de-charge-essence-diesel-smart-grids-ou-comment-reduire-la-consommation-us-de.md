@@ -72,4 +72,4 @@ La seconde, liée à la première, pourrait venir de "l'apprentissage cumulé" o
 
 Cette étude focalisée sur les véhicules, élargie aux énergies et infrastructures, est une base de travail remarquable. Elle nécessiterait d'être complétée et revue en incluant l'apport des technologies de l'information permettant de reconsidérer les usages possibles, donc les choix technologiques. Cette boucle itérative complexe ne peut être, à mon sens, finalisée qu'en incluant les utilisateurs citoyens, qu'en utilisant concrétement toutes ces solutions.
 
- [Prosp techno usa]() View more [documents]() from [transportsdufutur](). "2010-11-16 12:32:09https://transportsdufutur.ademe.fr/2010/11/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de.htmlcitoyen|Efficacité énergétique|Energie|EPA|Infrastructure|innovation|sécurité|smartgrid|stationnement|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de2015-07-21 16:37:33
+ Prosp techno usa View more documents from transportsdufutur.

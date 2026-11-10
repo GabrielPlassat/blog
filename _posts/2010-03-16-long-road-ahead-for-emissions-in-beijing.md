@@ -104,10 +104,4 @@ However, this will happen only if Beijing's public transportation system is furt
 
  
 
-The writer is a corporate trainer in Beijing. 
-
- 
-
- 
-
-"2010-03-16 09:17:07https://transportsdufutur.ademe.fr/2010/03/long-road-ahead-for-emissions-in-beijing.htmlchine|qualité de l'air|véhicule proprepublish18gabriel plassatlong-road-ahead-for-emissions-in-beijing2010-03-16 09:17:07
+The writer is a corporate trainer in Beijing.

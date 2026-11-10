@@ -21,25 +21,11 @@ Bien sûr, ces véhicules ne sont pas aux standards", ne seraient pas commercial
 
  
 
-Comme l'indique [**Michel Bauwens**](), un des théoriciens du peer-to-peer dans un article de [**Greensiders**]():
+Comme l'indique **Michel Bauwens**, un des théoriciens du peer-to-peer dans un article de **Greensiders**:
 
  
 
-"*Lorsque l'ère de l'énergie bon marché se terminera. Nous arriverons alors à relocaliser la production avec du capital redistribué ( »[crowdsourcing]() », etc.), les outils de production seront plus miniaturisés ([multimachine](), [FabLabs](), imprimante 3D) et le tout sera basé sur des « communs d'innovation partagée ».*
-
- 
-
-*Le déploiement des réseaux P2P conduit à une « horizontalisation » de la société : à l'inverse des institutions verticales qui prédominent dans nos organisations actuelles, cette philosophie économique et civilisationnelle tend à rééquilibrer nos échelles de valeurs. Au final, les petites connaissances seront mises à une échelle plus globale, et l'ensemble de la société passera d'une logique de centralisation à une logique de coordination mutuelle.*
-
- 
-
-*Cela fait quinze ans que les choses se redistribuent avec Internet. Le changement social s'accélère, nous sommes dans une phase d'émergence.*"
-
- 
-
-Ces nouveaux moyens, outils et réseaux pourraient s'appliquer également à la couche supérieure, celles des services de mobilité qui pourraient naître en exploitant différemment nos véhicules, et en concevant d''autres types de véhicules. Cette transition en cours aura des conséquences dans tous les domaines: l'éducation, la formation, la notion même de travail, et l'entreprise.
-
-"2012-01-16 16:47:04https://transportsdufutur.ademe.fr/2012/01/co-creer-une-automobile-pour-linstant-cela-ne-sert-a-rien-mais-demain.htmlcitoyen|connectivité|holoptisme|innovation|intelligence collective|internet|open innovation|open sourcepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatco-creer-une-automobile-pour-linstant-cela-ne-sert-a-rien-mais-demain2015-07-21 16:36:38>"*Lorsque l'ère de l'énergie bon marché se terminera. Nous arriverons alors à relocaliser la production avec du capital redistribué ( »[crowdsourcing]() », etc.), les outils de production seront plus miniaturisés ([multimachine](), [FabLabs](), imprimante 3D) et le tout sera basé sur des « communs d'innovation partagée ».*
+"*Lorsque l'ère de l'énergie bon marché se terminera. Nous arriverons alors à relocaliser la production avec du capital redistribué ( »crowdsourcing », etc.), les outils de production seront plus miniaturisés (multimachine, FabLabs, imprimante 3D) et le tout sera basé sur des « communs d'innovation partagée ».*
 
  
 
@@ -52,5 +38,3 @@ Ces nouveaux moyens, outils et réseaux pourraient s'appliquer également à la 
  
 
 Ces nouveaux moyens, outils et réseaux pourraient s'appliquer également à la couche supérieure, celles des services de mobilité qui pourraient naître en exploitant différemment nos véhicules, et en concevant d''autres types de véhicules. Cette transition en cours aura des conséquences dans tous les domaines: l'éducation, la formation, la notion même de travail, et l'entreprise.
-
-"

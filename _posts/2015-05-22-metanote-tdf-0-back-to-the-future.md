@@ -23,7 +23,7 @@ Certaines propositions décrites n'ont pas eu lieu, mais le rôle clé du numér
 
  
 
- [![]()]()
+ 
 
  
 
@@ -43,7 +43,7 @@ Certaines propositions décrites n'ont pas eu lieu, mais le rôle clé du numér
 
  
 
-La mobilité est avant tout source de rencontre et de richesse. Au niveau mondial, nos déplacements individuels sont promis à une croissance importante liée essentiellement à une augmentation du niveau de vie et à la volonté d’optimiser son « temps à soi ». Mais cette croissance risque de ne pas être homogène pour tous, allant de l’exclusion avec de véritables [condamnés]() à demeure, à de nouveaux [voyageurs]() spatiaux.
+La mobilité est avant tout source de rencontre et de richesse. Au niveau mondial, nos déplacements individuels sont promis à une croissance importante liée essentiellement à une augmentation du niveau de vie et à la volonté d’optimiser son « temps à soi ». Mais cette croissance risque de ne pas être homogène pour tous, allant de l’exclusion avec de véritables condamnés à demeure, à de nouveaux voyageurs spatiaux.
 
  
 
@@ -91,7 +91,7 @@ Ce changement majeur pourrait venir de nouvelles contraintes. Actuellement, limi
 
  
 
-Développement des radars, caméras urbaines, téléphones portables, GPS embarqués, nos objets nomades peuvent améliorer notre efficacité énergétique, mais deviennent en retour des traceurs de notre mobilité. Un secteur économique, l’un des plus puissants de la planète, le [secteur de l’assurance]() commence à utiliser ces technologies pour assurer la stabilité de la croissance économique, renforcer la prospérité des marchés, favoriser l’innovation. Les surveillances publiques (radar) et privées (assurances) limiteront le conducteur dans sa liberté de conduite. L’assureur, avec les contrats [Pay As You Drive](), calcule les primes pour chaque trajet selon l’heure du jour, le type de route et le kilométrage détaillés sur une facture d’assurance mensuelle. Le coût de la « boîte noire » se chiffre à 100 euros, mais pourrait générer des économies sur l’assurance de près de 30 % par an, et des économies d’énergie de l’ordre de 4%. Mais, en retour, la mobilité pourrait devenir surveillée, la liberté réelle réduite… **L’information est un élément essentiel pour un choix éclairé du consommateur, mais également de compréhension des risques avec une valeur économique pour l’assureur**.
+Développement des radars, caméras urbaines, téléphones portables, GPS embarqués, nos objets nomades peuvent améliorer notre efficacité énergétique, mais deviennent en retour des traceurs de notre mobilité. Un secteur économique, l’un des plus puissants de la planète, le secteur de l’assurance commence à utiliser ces technologies pour assurer la stabilité de la croissance économique, renforcer la prospérité des marchés, favoriser l’innovation. Les surveillances publiques (radar) et privées (assurances) limiteront le conducteur dans sa liberté de conduite. L’assureur, avec les contrats Pay As You Drive, calcule les primes pour chaque trajet selon l’heure du jour, le type de route et le kilométrage détaillés sur une facture d’assurance mensuelle. Le coût de la « boîte noire » se chiffre à 100 euros, mais pourrait générer des économies sur l’assurance de près de 30 % par an, et des économies d’énergie de l’ordre de 4%. Mais, en retour, la mobilité pourrait devenir surveillée, la liberté réelle réduite… **L’information est un élément essentiel pour un choix éclairé du consommateur, mais également de compréhension des risques avec une valeur économique pour l’assureur**.
 
  
 
@@ -99,7 +99,7 @@ Développement des radars, caméras urbaines, téléphones portables, GPS embarq
 
  
 
-La plupart des pays européens et des mégalopoles mondiales mettent en œuvre des [Zones à Faibles Emissions (ZFE)]() ou des péages urbains dans lesquelles le tarif d’accès est réduit pour certains véhicules sous conditions de performances environnementales minimales (émissions polluantes, GES, bruit). **La voiture ne permet plus d’aller partout. Sous cette contrainte de « nouvelles » formes de véhicules (2-3 roues) vont se développer, faisant rentrer de nouveaux acteurs.**
+La plupart des pays européens et des mégalopoles mondiales mettent en œuvre des Zones à Faibles Emissions (ZFE) ou des péages urbains dans lesquelles le tarif d’accès est réduit pour certains véhicules sous conditions de performances environnementales minimales (émissions polluantes, GES, bruit). **La voiture ne permet plus d’aller partout. Sous cette contrainte de « nouvelles » formes de véhicules (2-3 roues) vont se développer, faisant rentrer de nouveaux acteurs.**
 
  
 
@@ -115,11 +115,11 @@ Le prix de la mobilité individuelle est en croissance, avec un point de départ
 
  
 
-Le principe pollueur/payeur, un des mieux accepté par l’opinion publique, pourrait peser sur les acheteurs particuliers ou professionnels une contrainte morale croissante. Par ailleurs, la société évolue et sa (ou ses ?) mobilité également : impact du [vieillissement]() nécessitant des modes spécifiques, de l’éclatement du modèle familial induisant une souplesse aujourd’hui impossible – une semaine avec un deux roues (le couple), une semaine avec un minibus (mes enfants et ceux de ma compagne), de l’arrivée sur le marché du travail de la [génération Y]() qui ne se déplace plus dans l’entreprise pour travailler.** Les besoins en termes de types de véhicule se diversifient. Les évolutions sur « l’objet automobile » ne suffiront pas, les principales sources de progrès pourraient venir des évolutions d’usage, de modes d’organisations.**
+Le principe pollueur/payeur, un des mieux accepté par l’opinion publique, pourrait peser sur les acheteurs particuliers ou professionnels une contrainte morale croissante. Par ailleurs, la société évolue et sa (ou ses ?) mobilité également : impact du vieillissement nécessitant des modes spécifiques, de l’éclatement du modèle familial induisant une souplesse aujourd’hui impossible – une semaine avec un deux roues (le couple), une semaine avec un minibus (mes enfants et ceux de ma compagne), de l’arrivée sur le marché du travail de la génération Y qui ne se déplace plus dans l’entreprise pour travailler.** Les besoins en termes de types de véhicule se diversifient. Les évolutions sur « l’objet automobile » ne suffiront pas, les principales sources de progrès pourraient venir des évolutions d’usage, de modes d’organisations.**
 
  
 
-En conséquence, sous ces nouvelles tendances réduisant la liberté de lieu, la liberté de conduite et d’action, augmentant les coûts, la voiture pourrait faire moins rêver car elle ne sera plus un symbole de liberté. En 2008, 44% des Japonais considèrent déjà que leur voiture comme un « simple moyen de transport » et, d’après la Fédération des constructeurs Japonais, « [il ne fait aucun doute que le secteur paie le prix d’une longue période de crise au cours de laquelle le regard que les Japonais posaient sur leur voiture a totalement changé]() ». 
+En conséquence, sous ces nouvelles tendances réduisant la liberté de lieu, la liberté de conduite et d’action, augmentant les coûts, la voiture pourrait faire moins rêver car elle ne sera plus un symbole de liberté. En 2008, 44% des Japonais considèrent déjà que leur voiture comme un « simple moyen de transport » et, d’après la Fédération des constructeurs Japonais, « il ne fait aucun doute que le secteur paie le prix d’une longue période de crise au cours de laquelle le regard que les Japonais posaient sur leur voiture a totalement changé ». 
 
  
 
@@ -167,7 +167,7 @@ Utilisant des véhicules à faibles prix produit à très grand volume, la 3ème
 
  
 
-*> récemment Helsinki lance un programme complet pour industrialiser des services de mobilité totalement intégrés et permettre des mobilités sans posséder d'automobile grâce à des forfaits mobilités : [http://maas.fi/]() *
+*> récemment Helsinki lance un programme complet pour industrialiser des services de mobilité totalement intégrés et permettre des mobilités sans posséder d'automobile grâce à des forfaits mobilités : http://maas.fi/ *
 
  
 
@@ -183,19 +183,19 @@ Utilisant des véhicules à faibles prix produit à très grand volume, la 3ème
 
  
 
-L’apport des [technologies de l’information](), de la robotique sera essentiel pour assurer une multimodalité fluide, améliorer la sécurité tout en réduisant les coûts d’exploitation (cybercar), permettre une automatisation de certains usages. 
+L’apport des technologies de l’information, de la robotique sera essentiel pour assurer une multimodalité fluide, améliorer la sécurité tout en réduisant les coûts d’exploitation (cybercar), permettre une automatisation de certains usages. 
 
  
 
-*> 20 MétaNotes plus tard, la [Chimère]() décrit cette automatisation.*
+*> 20 MétaNotes plus tard, la Chimère décrit cette automatisation.*
 
  
 
-Ceci sera sans doute complété par les progrès apportés par le [web2.0](), l’ouverture des bases de données liée à la mobilité, la diffusion étendue d’objets nomades, permettant une utilisation et des transferts des différents modes simplifiés, avec en contrepartie une surveillance accrue qu’il faudra protéger. De même, des efforts particuliers devront être apportés pour réduire une exclusion sociale de la mobilité (exclus des villes, exclus des TIC, …).
+Ceci sera sans doute complété par les progrès apportés par le web2.0, l’ouverture des bases de données liée à la mobilité, la diffusion étendue d’objets nomades, permettant une utilisation et des transferts des différents modes simplifiés, avec en contrepartie une surveillance accrue qu’il faudra protéger. De même, des efforts particuliers devront être apportés pour réduire une exclusion sociale de la mobilité (exclus des villes, exclus des TIC, …).
 
  
 
-*> L'open data Transport se structure avec notamment le [**récent rapport**](). Et la précarité dans le domaine de la mobilité est maintenant étudiée ([**Mobilité inclusive**]()).*
+*> L'open data Transport se structure avec notamment le **récent rapport**. Et la précarité dans le domaine de la mobilité est maintenant étudiée (**Mobilité inclusive**).*
 
  
 
@@ -203,7 +203,7 @@ Ces véhicules pourront avoir des efficacités énergétiques bien supérieures�
 
  
 
-*> [Autolib avec Bolloré et Tesla avec E.Musk]() mettent en oeuvre des schémas industriels centrés sur la batterie, des voitures luxes ou serviciels et services de stockage énergétique stationnaire. *
+*> Autolib avec Bolloré et Tesla avec E.Musk mettent en oeuvre des schémas industriels centrés sur la batterie, des voitures luxes ou serviciels et services de stockage énergétique stationnaire. *
 
  
 
@@ -219,19 +219,19 @@ En parallèle, le centre de gravité se déplacera vers l’Asie. Aidés par des
 
  
 
-De nombreux signaux faibles, en partie décrits dans ce document, matérialisent cette mutation. L’engouement pour le vélib’, dont l’intelligence collective a permis d’y associer des [widgets à haute valeur ajoutée](), le lancement de l’autolib’, le [covoiturage dynamique]() ou l’autostop sécurisé, sont autant de brique unitaires qui permettront, à terme, de franchir le pas vers le service. Mais tant que la palette de solutions ne sera complète, l’acte d’achat du véhicule continuera, et l’impact réel sur les consommations énergétiques restera faible.
+De nombreux signaux faibles, en partie décrits dans ce document, matérialisent cette mutation. L’engouement pour le vélib’, dont l’intelligence collective a permis d’y associer des widgets à haute valeur ajoutée, le lancement de l’autolib’, le covoiturage dynamique ou l’autostop sécurisé, sont autant de brique unitaires qui permettront, à terme, de franchir le pas vers le service. Mais tant que la palette de solutions ne sera complète, l’acte d’achat du véhicule continuera, et l’impact réel sur les consommations énergétiques restera faible.
 
  
 
-L’automatisation de l’automobile, pour notamment permettre une gestion physique de la flotte de véhicules avec peu de personnel, **la mutualisation générale des bases de données liées à tous les modes de transports, soulèvent autant de problèmes technologiques, juridiques que d’absence de standard**. Pourtant, CISCO, premier fournisseur mondial de solutions réseaux pour Internet, à travers son projet *[Connected Urban Development]()*, nous projette en avant grâce au *Personnal Transport Assistant - PTA*, développé avec le MIT. Un objet unique, forcément nomade, concentre toutes les informations nécessaires à une mobilité efficace, performante, à haute valeur ajoutée. Connecté à toutes les bases de données des différents modes en temps réel, à votre réseau social, aux prévision météo (important pour le vélo), votre agenda, le PTA détermine le meilleur choix pour vous permettre d’arriver à l’heure à vos rendez vous, avec le minimum d’émissions de CO2, en ayant rencontré vos amis dans le (même) bus. Les différents PTA communiquent pour gérer la mobilité d’un réseau de personne, d’une entreprise, comptabilisent les émissions de CO2, réservent si besoin des véhicules en libre service, et payent les billets. Des entreprises comme CISCO, qui ne connaissent rien à l’automobile, pourraient bouleverser notre façon de nous déplacer...
+L’automatisation de l’automobile, pour notamment permettre une gestion physique de la flotte de véhicules avec peu de personnel, **la mutualisation générale des bases de données liées à tous les modes de transports, soulèvent autant de problèmes technologiques, juridiques que d’absence de standard**. Pourtant, CISCO, premier fournisseur mondial de solutions réseaux pour Internet, à travers son projet *Connected Urban Development*, nous projette en avant grâce au *Personnal Transport Assistant - PTA*, développé avec le MIT. Un objet unique, forcément nomade, concentre toutes les informations nécessaires à une mobilité efficace, performante, à haute valeur ajoutée. Connecté à toutes les bases de données des différents modes en temps réel, à votre réseau social, aux prévision météo (important pour le vélo), votre agenda, le PTA détermine le meilleur choix pour vous permettre d’arriver à l’heure à vos rendez vous, avec le minimum d’émissions de CO2, en ayant rencontré vos amis dans le (même) bus. Les différents PTA communiquent pour gérer la mobilité d’un réseau de personne, d’une entreprise, comptabilisent les émissions de CO2, réservent si besoin des véhicules en libre service, et payent les billets. Des entreprises comme CISCO, qui ne connaissent rien à l’automobile, pourraient bouleverser notre façon de nous déplacer...
 
  
 
-*> Cisco n'a pas industrialisé cette idée. Google Now le fait (lire cet [**article**]() associé).*
+*> Cisco n'a pas industrialisé cette idée. Google Now le fait (lire cet **article** associé).*
 
  
 
-*> Le choc à venir entre les acteurs historiques et les acteurs numériques (lire cet [**article** ]()associé)*
+*> Le choc à venir entre les acteurs historiques et les acteurs numériques (lire cet **article** associé)*
 
  
 
@@ -239,9 +239,9 @@ Cette transition de l'objet Véhicule aux services de mobilité doit être vue a
 
  
 
-*> Créée en 2015, [**La Fabrique des Mobilités**]() vise à accompagner cet écosystème dans cette transformation en choisissant dès le départ des fondamentaux centrés sur les plateformes ouvertes. *
+*> Créée en 2015, **La Fabrique des Mobilités** vise à accompagner cet écosystème dans cette transformation en choisissant dès le départ des fondamentaux centrés sur les plateformes ouvertes. *
 
- "> [![]()]()
+ "> 
 
  
 
@@ -261,7 +261,7 @@ Cette transition de l'objet Véhicule aux services de mobilité doit être vue a
 
  
 
-La mobilité est avant tout source de rencontre et de richesse. Au niveau mondial, nos déplacements individuels sont promis à une croissance importante liée essentiellement à une augmentation du niveau de vie et à la volonté d’optimiser son « temps à soi ». Mais cette croissance risque de ne pas être homogène pour tous, allant de l’exclusion avec de véritables [condamnés]() à demeure, à de nouveaux [voyageurs]() spatiaux.
+La mobilité est avant tout source de rencontre et de richesse. Au niveau mondial, nos déplacements individuels sont promis à une croissance importante liée essentiellement à une augmentation du niveau de vie et à la volonté d’optimiser son « temps à soi ». Mais cette croissance risque de ne pas être homogène pour tous, allant de l’exclusion avec de véritables condamnés à demeure, à de nouveaux voyageurs spatiaux.
 
  
 

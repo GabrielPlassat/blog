@@ -27,6 +27,6 @@ Mais cette application permet également d'identifier à la fois les lieux, les 
 
  
 
-Cette annonce rejoint les nombreux articles rédigés sur le sujet des liens [**santé/mobilité**](), de développement de [**nouvelles formes de surveillance**]() conduisant à poser cette question. **Et si nos pratiques de mobilité étaient conditionnées par de nouvelles formes de surveillance** (lire cet [**article** ]()sur ce sujet) ?
+Cette annonce rejoint les nombreux articles rédigés sur le sujet des liens [**santé/mobilité**](/?s=sante), de développement de [**nouvelles formes de surveillance**](/?s=surveillance) conduisant à poser cette question. **Et si nos pratiques de mobilité étaient conditionnées par de nouvelles formes de surveillance** (lire cet [**article** ](http://blogs.wsj.com/digits/2014/04/24/with-app-acquisition-facebook-enters-fitness-tracking-market/)sur ce sujet) ?
 
 "

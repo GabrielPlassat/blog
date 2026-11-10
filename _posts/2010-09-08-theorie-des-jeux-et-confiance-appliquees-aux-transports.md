@@ -66,7 +66,7 @@ L'intervention du Milieu" vient essentiellement des collectivités publiques via
 
  
 
-[**Michela MARZANO**](), philosophe, nous indique que développer la confiance, passe par l'acceptation  du risque de la trahison, et de la dépendance, renforçant également la cohésion.
+**Michela MARZANO**, philosophe, nous indique que développer la confiance, passe par l'acceptation  du risque de la trahison, et de la dépendance, renforçant également la cohésion.
 
  
  

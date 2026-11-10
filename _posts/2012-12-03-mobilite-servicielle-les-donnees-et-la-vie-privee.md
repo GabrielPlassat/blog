@@ -19,8 +19,7 @@ Les données alimentent notamment des moteurs numériques d'apprentissage des us
 
  
 
-En inventant un nouveau mode de communication (après l'écriture et le livre), le numérique impose de questionner nos concepts, nos lois. La CNIL vient de publier son premier Cahier Innovation & Prospective dédié à **[la Vie privée à l'horizon 2020]()**. **Ces facteurs de transformation et interrogations sont essentielles à connaître.** Des propositions sont également faites comme celle de créer de nouveaux droits, ceux de l'Homme numérique.
+En inventant un nouveau mode de communication (après l'écriture et le livre), le numérique impose de questionner nos concepts, nos lois. La CNIL vient de publier son premier Cahier Innovation & Prospective dédié à **la Vie privée à l'horizon 2020**. **Ces facteurs de transformation et interrogations sont essentielles à connaître.** Des propositions sont également faites comme celle de créer de nouveaux droits, ceux de l'Homme numérique.
 
- ** [Cnil cahiers i-pn1]() ** from **[Les transports du futur]()** J.Attali, dans Conversation d'Avenir, avait également abordé les évolutions de la vie privée (Vidéo de 2008) : 
-[conversation d'avenirs, vie privée]() *par [publicsenat]()*"2012-12-03 16:14:13https://transportsdufutur.ademe.fr/2012/12/mobilite-servicielle-les-donnees-et-la-vie-privee.htmlassistant de mobilité|connectivité|donnée data|données réelles|internet|internet des objets|surveillancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobilite-servicielle-les-donnees-et-la-vie-privee2015-07-21 16:35:47width=""479""> ** [Cnil cahiers i-pn1]() ** from **[Les transports du futur]()** J.Attali, dans Conversation d'Avenir, avait également abordé les évolutions de la vie privée (Vidéo de 2008) : 
-[conversation d'avenirs, vie privée]() *par [publicsenat]()*"
+ ** Cnil cahiers i-pn1 ** from **Les transports du futur** J.Attali, dans Conversation d'Avenir, avait également abordé les évolutions de la vie privée (Vidéo de 2008) : 
+conversation d'avenirs, vie privée *par publicsenat*

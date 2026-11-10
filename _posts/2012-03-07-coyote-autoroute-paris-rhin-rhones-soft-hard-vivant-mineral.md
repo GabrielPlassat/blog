@@ -6,12 +6,12 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2012/03/coyote-autoroute-paris-rhin-rhones-soft-hard-vivant-mineral.html"
 tags: ["citoyen", "connectivité", "donnée data", "Infrastructure", "innovation", "intelligence collective", "internet", "monnaie complémentaire", "plate-forme", "transition générationnelle"]
-theme: "Données & services numériques"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2012/03/07/coyote-autoroute-paris-rhin-rhones-soft-hard-vivant-mineral/
 ---
 
-[**Coyote et APRR décident, ce jour (février 2012), de partager leur connaissance de l’autoroute pour la rendre encore plus sûre en permettant, notamment grâce aux technologies communautaires en temps réel, à leurs clients de bénéficier d’informations toujours plus pertinentes.**]()"
+[**Coyote et APRR décident, ce jour (février 2012), de partager leur connaissance de l’autoroute pour la rendre encore plus sûre en permettant, notamment grâce aux technologies communautaires en temps réel, à leurs clients de bénéficier d’informations toujours plus pertinentes.**]({{ site.baseurl }}/assets/images/2012/03/CPCoyote-APRR.pdf)"
 
  
 
@@ -23,7 +23,7 @@ Cette alliance du numérique et des infrastructures est intéressante à plusieu
 - Coyote est une solution quasiment uniquement vivante, peu matérialisée dans laquelle la valeur principale est celle des usagers et des données qu'ils vont décider de partager. Ce dernier point est essentiel et nous y reviendrons. APRR est une structure quasiment figée, immobile. 
  
 
-Apporter une certaine forme d'intelligence collective à un réseau routier étendu devient essentiel pour améliorer la performance de nos systèmes de transport. Ce sujet de l'intelligence collective a déjà été abordé dans ce blog ([**précédents articles**]() sur ce sujet). Cette alliance est un exemple concret, mais ce n'est que la partie visible d'une évolution majeure de notre société.
+Apporter une certaine forme d'intelligence collective à un réseau routier étendu devient essentiel pour améliorer la performance de nos systèmes de transport. Ce sujet de l'intelligence collective a déjà été abordé dans ce blog ([**précédents articles**](/?s=intelligence+collective) sur ce sujet). Cette alliance est un exemple concret, mais ce n'est que la partie visible d'une évolution majeure de notre société.
 
  
 
@@ -31,11 +31,11 @@ Dans cette alliance, qui crée principalement la valeur ? quelles étaient les a
 
  
 
-Encore une fois, la principale valeur créée vient des usagers de Coyote. La technologie numérique leur permet d'échanger une information à haute valeur ajoutée: "data is oil". Jusqu'à présent, l'échange était limité à un cercle restreint d'usagers, leur monnaie n'était pas visible car tous ont le même niveau d'engagement. Mais cette alliance pourrait changer la donne. Dès lors que le système s'ouvre, la question de la valeur de l'information fournie par un usager va se poser. A terme, il faudra le payer d'une façon ou d'une autre, soit avec une autre information, soit avec un avantage, soit avec des monnaies à inventer ([**précédents articles sur le thème des monnaies complémentaires**]()).
+Encore une fois, la principale valeur créée vient des usagers de Coyote. La technologie numérique leur permet d'échanger une information à haute valeur ajoutée: "data is oil". Jusqu'à présent, l'échange était limité à un cercle restreint d'usagers, leur monnaie n'était pas visible car tous ont le même niveau d'engagement. Mais cette alliance pourrait changer la donne. Dès lors que le système s'ouvre, la question de la valeur de l'information fournie par un usager va se poser. A terme, il faudra le payer d'une façon ou d'une autre, soit avec une autre information, soit avec un avantage, soit avec des monnaies à inventer ([**précédents articles sur le thème des monnaies complémentaires**](/?s=monnaie+complementaire)).
 
  
 
-APRR a sans doute choisi la meilleure façon de créer de l'information à haute valeur ajoutée au meilleur coût. Les autres solutions sont l'installation de capteurs (dans la route ou **[les airs]()**), la transformation des flux d'informations (vidéo par exemple) en données exploitables. Elles se déploieront également de façon complémentaire grâce notamment à l'internet des objets.
+APRR a sans doute choisi la meilleure façon de créer de l'information à haute valeur ajoutée au meilleur coût. Les autres solutions sont l'installation de capteurs (dans la route ou **[les airs](http://www.fly-n-sense.com/)**), la transformation des flux d'informations (vidéo par exemple) en données exploitables. Elles se déploieront également de façon complémentaire grâce notamment à l'internet des objets.
 
  
 

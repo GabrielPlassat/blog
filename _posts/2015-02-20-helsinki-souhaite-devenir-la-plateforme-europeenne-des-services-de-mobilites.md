@@ -37,25 +37,11 @@ La Finlande, en commençant par Helsinki, souhaite devenir la première platefor
 
  
 
-Plusieurs appels sont organisés ([**lien vers l'appel**]()) : préétude, démonstrateurs, montage de consortium et projets à échelle 1. Des partenaires étrangers peuvent rejoindre les consortiums pilotés par des entreprises finlandaises. [**Tziip**]() seprésente comme le premier opérateur de *Mobility as a service* au monde et un premier consortium s'est déjà positionné *: *[**www.maas.fi.**]()
+Plusieurs appels sont organisés (**lien vers l'appel**) : préétude, démonstrateurs, montage de consortium et projets à échelle 1. Des partenaires étrangers peuvent rejoindre les consortiums pilotés par des entreprises finlandaises. **Tziip** seprésente comme le premier opérateur de *Mobility as a service* au monde et un premier consortium s'est déjà positionné *: ***www.maas.fi.**
 
  
 
-La possession automobile et son usage privé sont profondément remis en question. La dépossession devient vraiment un business (lire vers [**l'article associé**]()).
-
- 
-
-**Si des acteurs sont intéressés (Cityway s'est déjà manifesté) : envoyer moi un mail.**
-
- 
-
-Présentation de Sonja Heikkila à la conférence de lancement de la Fabrique des Mobilités :
-
- 
-
- 
-
- ** [Mobility as a service Helsinki]() ** from **[Les transports du futur]()**"2015-02-20 09:56:56https://transportsdufutur.ademe.fr/2015/02/helsinki-souhaite-devenir-la-plateforme-europeenne-des-services-de-mobilites.htmlassistant de mobilité|autorité des transports|cité|citoyen|collectivité|commuter|connectivité|économie de l'expérience|économie fonctionnalité|Fabrique des mobilités|finlande|gouvernance|innovation|internet|ITS|management de la mobilité|open innovation|plate-forme|Service de mobilité|Territoire Collectivité Etat Europepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassathelsinki-souhaite-devenir-la-plateforme-europeenne-des-services-de-mobilites2017-05-05 15:38:01>La possession automobile et son usage privé sont profondément remis en question. La dépossession devient vraiment un business (lire vers [**l'article associé**]()).
+La possession automobile et son usage privé sont profondément remis en question. La dépossession devient vraiment un business (lire vers **l'article associé**).
 
  
 
@@ -69,4 +55,4 @@ Présentation de Sonja Heikkila à la conférence de lancement de la Fabrique de
 
  
 
- ** [Mobility as a service Helsinki]() ** from **[Les transports du futur]()**"
+ ** Mobility as a service Helsinki ** from **Les transports du futur**

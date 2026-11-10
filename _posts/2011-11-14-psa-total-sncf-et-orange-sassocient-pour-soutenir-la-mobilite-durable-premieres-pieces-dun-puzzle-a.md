@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "14/11/2011 14:49"
 tags: ["citoyen", "collectivité", "holoptisme", "innovation", "living lab", "management de la mobilité", "marketing individualisé", "pensée complexe"]
-theme: "Communs, écosystèmes & open source"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2011/11/14/psa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a/
 ---
@@ -23,11 +23,11 @@ Ecomobilité Ventures prendra des participations minoritaires dans des entrepris
 
  
 
-Pour chaque industriel partenaire du fond, les objectifs sont clairs : assurer un service porte à porte pour la SNCF, apporter les TIC dans les transports puis dans les smart cities pour Orange (voir [**ICI**]() les opportunités et les risques des Smart Cities), développer des solutions de mobilité adaptées aux territoires pour PSA et Total. Mais est ce qu'en dehors des start-up connues actuellement dont la plupart des produits/services peinent à se développer, ce type de fond saura capables de susciter l'innovation, de permettre un changement d'échelle ? Qu'est ce qu'un modèle d'affaire robuste dans ce domaine à la croisée du transport collectif, individuel, public et privé ? Ne doit-on pas, en même temps, inventer d'autres critères de jugement et de sélection ? Comment associer les usagers et les collectivités à ce processus de sélection ? 
+Pour chaque industriel partenaire du fond, les objectifs sont clairs : assurer un service porte à porte pour la SNCF, apporter les TIC dans les transports puis dans les smart cities pour Orange (voir **ICI** les opportunités et les risques des Smart Cities), développer des solutions de mobilité adaptées aux territoires pour PSA et Total. Mais est ce qu'en dehors des start-up connues actuellement dont la plupart des produits/services peinent à se développer, ce type de fond saura capables de susciter l'innovation, de permettre un changement d'échelle ? Qu'est ce qu'un modèle d'affaire robuste dans ce domaine à la croisée du transport collectif, individuel, public et privé ? Ne doit-on pas, en même temps, inventer d'autres critères de jugement et de sélection ? Comment associer les usagers et les collectivités à ce processus de sélection ? 
 
  
 
-Ce blog tente de présenter les [**multiples facettes de ce sujet complexe**](), au sens de "tissé ensemble" (voir [**ICI**]()). L'initiative de ces quatre industriels doit être encouragée, soutenue car elle va assurement participer à la naissance de solutions innovantes. Mais nous devons accélérer, pas uniquement dans l'amont (production de solution de mobilité) mais également dans l'aval (le changement de comportement), c'est à dire la capacité à quantifier et qualifier l'acceptabilité, l'acceptation puis l'intégration de toute nouvelle solution de mobilité en fonction des utilisateurs, des territoires, des contextes. Ainsi, les produits/services innovants ne pourront être validés qu'après avoir été "plongés" dans plusieurs contextes, plusieurs territoires, plus laboratoires vivants. Il faut donc associer, DES LE DEPART, les utilisateurs et les collectivités.
+Ce blog tente de présenter les **multiples facettes de ce sujet complexe**, au sens de "tissé ensemble" (voir **ICI**). L'initiative de ces quatre industriels doit être encouragée, soutenue car elle va assurement participer à la naissance de solutions innovantes. Mais nous devons accélérer, pas uniquement dans l'amont (production de solution de mobilité) mais également dans l'aval (le changement de comportement), c'est à dire la capacité à quantifier et qualifier l'acceptabilité, l'acceptation puis l'intégration de toute nouvelle solution de mobilité en fonction des utilisateurs, des territoires, des contextes. Ainsi, les produits/services innovants ne pourront être validés qu'après avoir été "plongés" dans plusieurs contextes, plusieurs territoires, plus laboratoires vivants. Il faut donc associer, DES LE DEPART, les utilisateurs et les collectivités.
 
  
 
@@ -53,22 +53,8 @@ Les premières pièces du puzzle rassemblées par ces acteurs industriels doiven
 
  
  
-- les usagers aujourd'hui et [**demain**](), 
-- les [**territoires **]()et les collectivités - [**source d'innovation**](), 
+- les usagers aujourd'hui et **demain**, 
+- les **territoires **et les collectivités - **source d'innovation**, 
  
 
-Tout en développant et en utilisant [**d'autres critères de jugement**]() d'un produit et d'un service, pour changer d'échelle et modifier massivement nos solutions de mobilité, trouver d'autres modèles économiques en revoyant complètement les chaînes de valeurs et les moyens de "récompenser" un changement.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"2011-11-14 14:49:44https://transportsdufutur.ademe.fr/2011/11/psa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a.htmlcitoyen|collectivité|holoptisme|innovation|living lab|management de la mobilité|marketing individualisé|pensée complexepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpsa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a2015-07-21 16:36:41
+Tout en développant et en utilisant **d'autres critères de jugement** d'un produit et d'un service, pour changer d'échelle et modifier massivement nos solutions de mobilité, trouver d'autres modèles économiques en revoyant complètement les chaînes de valeurs et les moyens de "récompenser" un changement.

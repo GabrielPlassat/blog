@@ -79,7 +79,7 @@ Après l’analyse sociologique, une étude sur l’impact écologique devrait s
 
  
 
-**Qu'est ce que le gratuit**: sans valeur marchande pour celui qui le consomme, qui l'utilise, les coûts pouvant supportés par quelqu'un d'autre que celui qui consomme. Internet, wikipédia, l'école ou la police, téléphone gratuit, de nombreux exemples montrent que la gratuité apparente" a plusieurs formes. Gratuit pour l'utilisateur mais pas pour le contribuable (inclus dans les impôts ou  les assurances, donc globalisé), payé par la publicité (avec pour objectifs de vendre un autre produit, donc il s'agit d'un investissement différé), objet compris dans un forfait (permettant de vendre des services) ou encore complétement déconnecté de la sphère marchande comme wikipédia (consultation de savoir sans publicité). Cette dernière voie, déjà détaillée dans le blog (voir **[ici]()** et **[ici]()**), appelle des mécanismes sociaux complexes : pourquoi des personnes donnent du temps, des savoirs gratuitement en rédigeant un article ? Comment favoriser, développer cette créativité purement gratuite ? Une piste est de développer, d'utiliser la puissance des **[réseaux sociaux]()**.
+**Qu'est ce que le gratuit**: sans valeur marchande pour celui qui le consomme, qui l'utilise, les coûts pouvant supportés par quelqu'un d'autre que celui qui consomme. Internet, wikipédia, l'école ou la police, téléphone gratuit, de nombreux exemples montrent que la gratuité apparente" a plusieurs formes. Gratuit pour l'utilisateur mais pas pour le contribuable (inclus dans les impôts ou  les assurances, donc globalisé), payé par la publicité (avec pour objectifs de vendre un autre produit, donc il s'agit d'un investissement différé), objet compris dans un forfait (permettant de vendre des services) ou encore complétement déconnecté de la sphère marchande comme wikipédia (consultation de savoir sans publicité). Cette dernière voie, déjà détaillée dans le blog (voir **[ici]({{ site.baseurl }}/2009/11/open-source-mobilites-quels-avantages-quelles-consequences/)** et **[ici]({{ site.baseurl }}/2010/01/la-puissance-des-reseaux-seratelle-suffisante/)**), appelle des mécanismes sociaux complexes : pourquoi des personnes donnent du temps, des savoirs gratuitement en rédigeant un article ? Comment favoriser, développer cette créativité purement gratuite ? Une piste est de développer, d'utiliser la puissance des **[réseaux sociaux]({{ site.baseurl }}/2010/04/blog-et-reseaux-sociaux-aujourdhui-et-demain/)**.
 
  
 
@@ -87,7 +87,7 @@ Après l’analyse sociologique, une étude sur l’impact écologique devrait s
 
  
 
-En forçant les traits, ce qui est abondant deviendra gratuit, ce qui est rare deviendra cher. La mobilité porte à porte fluide permettant de valoriser son temps pendant le transport aura donc une valeur de plus en plus grande, le temps libre étant la ressource la plus précieuse (voir **[ici]()**). Une partie de cette valeur pourra être payée par d'autres personnes, en fonction par exemple des qualités énergétiques et environnementales de leur mobilité. A l'inverse les objets permettant de se déplacer seront progressivement de moins en moins chers, voire même gratuits (voir **[ici]()**) inclus dans des forfaits.  Dans le cas d'Aubagne, équilibré entre ville et campagne, le lien social semble piloter le choix de la gratuité. Il en découle d'autres avantages: augmentation des fréquentations, sentiment de reconnaissance notamment chez les jeunes, environnement. 
+En forçant les traits, ce qui est abondant deviendra gratuit, ce qui est rare deviendra cher. La mobilité porte à porte fluide permettant de valoriser son temps pendant le transport aura donc une valeur de plus en plus grande, le temps libre étant la ressource la plus précieuse (voir **ici**). Une partie de cette valeur pourra être payée par d'autres personnes, en fonction par exemple des qualités énergétiques et environnementales de leur mobilité. A l'inverse les objets permettant de se déplacer seront progressivement de moins en moins chers, voire même gratuits (voir **ici**) inclus dans des forfaits.  Dans le cas d'Aubagne, équilibré entre ville et campagne, le lien social semble piloter le choix de la gratuité. Il en découle d'autres avantages: augmentation des fréquentations, sentiment de reconnaissance notamment chez les jeunes, environnement. 
 
  
 
@@ -95,47 +95,7 @@ En forçant les traits, ce qui est abondant deviendra gratuit, ce qui est rare d
 
  
 
-La gratuité relève avant tout d'une utopie, celle d'une ère vécue comme abondante. Mais elle permet de mettre en oeuvre un modèle qui libère des contraintes. Certaines mobilités peuvent donc devenir gratuites (en utilisant plusieurs formes de gratuités) par la prise en compte des coûts par d'autres citoyens moins vertueux, par la publicité, par l'intégration du temps de travail de certains citoyens ayant développés des outils gratuits. Les conséquences de cette gratuité au niveau des bénéfices sociaux, relationnels devront être suivies, quantifiées. Et simultanénement, **[les tableaux de bord financiers des opérateurs devront s'ouvrir aux citoyens]()**. Ces derniers ne sont pas dupes des coûts, la gratuité sera alors incluse dans un mouvement plus vaste de transparence, de participation des usagers à certaines décisions, notamment celles des financements de leurs moyens de transport.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-La gratuité des bus à Aubagne en chiffres:
-
- 
-
- 
-- 2 968 650 voyageurs transportés entre le 15 mai 2009 et le 31 mars 2010 
-- + 90% de fréquentation au premier trimestre 2010 (par rapport au premier trimestre 2009) 
-- 88% des usagers satisfaits de la gratuité des transports 
-- 20% de nouveaux passagers 
-- 18% des usagers n’auraient pas pris le bus s’il n’était pas gratuit, 
-- 63 % choisissent d’abandonner un véhicule plus polluant 
-- 12 millions d’euros consacrés aux transports en commun dans le budget de la CPAE, contre 10 millions avant la gratuité 
-- 5 millions d’euros de taxe « Versement transport » prélevée sur les entreprises de plus de 10 salariés, contre 2 millions avant la gratuité 
-
- 
-
-  
-
-"2010-05-26 10:59:04https://transportsdufutur.ademe.fr/2010/05/en-temps-de-crise-peuton-faire-des-transports-gratuits.htmlcité|citoyen|collectivité|crise|gratuit|internet|low cost|open source|partage de données|philanthropie|réseauxpublish18gabriel plassaten-temps-de-crise-peuton-faire-des-transports-gratuits2010-05-26 10:59:04MARGIN: 0pt"">En forçant les traits, ce qui est abondant deviendra gratuit, ce qui est rare deviendra cher. La mobilité porte à porte fluide permettant de valoriser son temps pendant le transport aura donc une valeur de plus en plus grande, le temps libre étant la ressource la plus précieuse (voir **[ici]()**). Une partie de cette valeur pourra être payée par d'autres personnes, en fonction par exemple des qualités énergétiques et environnementales de leur mobilité. A l'inverse les objets permettant de se déplacer seront progressivement de moins en moins chers, voire même gratuits (voir **[ici]()**) inclus dans des forfaits.  Dans le cas d'Aubagne, équilibré entre ville et campagne, le lien social semble piloter le choix de la gratuité. Il en découle d'autres avantages: augmentation des fréquentations, sentiment de reconnaissance notamment chez les jeunes, environnement. 
-
- 
-
- 
-
- 
-
-La gratuité relève avant tout d'une utopie, celle d'une ère vécue comme abondante. Mais elle permet de mettre en oeuvre un modèle qui libère des contraintes. Certaines mobilités peuvent donc devenir gratuites (en utilisant plusieurs formes de gratuités) par la prise en compte des coûts par d'autres citoyens moins vertueux, par la publicité, par l'intégration du temps de travail de certains citoyens ayant développés des outils gratuits. Les conséquences de cette gratuité au niveau des bénéfices sociaux, relationnels devront être suivies, quantifiées. Et simultanénement, **[les tableaux de bord financiers des opérateurs devront s'ouvrir aux citoyens]()**. Ces derniers ne sont pas dupes des coûts, la gratuité sera alors incluse dans un mouvement plus vaste de transparence, de participation des usagers à certaines décisions, notamment celles des financements de leurs moyens de transport.
+La gratuité relève avant tout d'une utopie, celle d'une ère vécue comme abondante. Mais elle permet de mettre en oeuvre un modèle qui libère des contraintes. Certaines mobilités peuvent donc devenir gratuites (en utilisant plusieurs formes de gratuités) par la prise en compte des coûts par d'autres citoyens moins vertueux, par la publicité, par l'intégration du temps de travail de certains citoyens ayant développés des outils gratuits. Les conséquences de cette gratuité au niveau des bénéfices sociaux, relationnels devront être suivies, quantifiées. Et simultanénement, **les tableaux de bord financiers des opérateurs devront s'ouvrir aux citoyens**. Ces derniers ne sont pas dupes des coûts, la gratuité sera alors incluse dans un mouvement plus vaste de transparence, de participation des usagers à certaines décisions, notamment celles des financements de leurs moyens de transport.
 
  
 
@@ -161,10 +121,4 @@ La gratuité des bus à Aubagne en chiffres:
 - 18% des usagers n’auraient pas pris le bus s’il n’était pas gratuit, 
 - 63 % choisissent d’abandonner un véhicule plus polluant 
 - 12 millions d’euros consacrés aux transports en commun dans le budget de la CPAE, contre 10 millions avant la gratuité 
-- 5 millions d’euros de taxe « Versement transport » prélevée sur les entreprises de plus de 10 salariés, contre 2 millions avant la gratuité 
-
- 
-
-  
-
-"
+- 5 millions d’euros de taxe « Versement transport » prélevée sur les entreprises de plus de 10 salariés, contre 2 millions avant la gratuité

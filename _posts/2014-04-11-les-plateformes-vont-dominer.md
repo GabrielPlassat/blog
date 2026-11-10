@@ -27,6 +27,4 @@ La présentation ci-dessous illustre cette tendance et la complète :
 
  
 
- ** [TEDxESADE - 2014 - Platforms are eating the world - Albert Cañigueral]() ** from **[Consumo Colaborativo]()**   **Suivre [@sanguit]() et [http://platformed.info/]()**"2014-04-11 14:15:52https://transportsdufutur.ademe.fr/2014/04/les-plateformes-vont-dominer.htmlplate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-plateformes-vont-dominer2015-07-21 16:35:33width=""427""> 
-
- ** [TEDxESADE - 2014 - Platforms are eating the world - Albert Cañigueral]() ** from **[Consumo Colaborativo]()**   **Suivre [@sanguit]() et [http://platformed.info/]()**"
+ ** TEDxESADE - 2014 - Platforms are eating the world - Albert Cañigueral ** from **Consumo Colaborativo**   **Suivre @sanguit et http://platformed.info/**

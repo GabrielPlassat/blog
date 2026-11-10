@@ -6,7 +6,7 @@ source: fabmob
 source_name: "Fabrique des Mobilités"
 original_url: "https://fabmob.io/blog/mobilite-connect-simple-personnel-universel"
 tags: []
-theme: "Communs, écosystèmes & open source"
+theme: "Déplacements, vélo & santé"
 ---
 
 Les offres de "nouvelles mobilités" ne cessent d'apparaître. Essentiellement dans l'urbain, elles deviennent peu à peu illisibles par les citoyens. Des plateformes d'aggrégation comme Free2Move se développent en complément des assistants de mobilité comme CityMapper ou GoogleMap. Mobility Connect est le _symétrique_ vu du citoyen. Ce projet vise à redonner des avantages à l'usager en commençant par lui restituer une grande partie des données le concernant dans les domaines de la mobilité. Il s'agit donc d'un aggrégateur privé de données existantes aujourd'hui éparpillées. Pourquoi personne n'a accès simplement à une version numérique de son permis de conduire, les points associés, le bonus/malus de son assurance, les distances déclarées chaque année ou encore ses parcours en transport en commun. En rassemblant ces données et en pensant "plateforme", le compte Mobilité va apporter de la valeur à tous les acteurs de l'écosystème en commençant par le citoyen !

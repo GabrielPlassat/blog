@@ -104,7 +104,7 @@ Esquissons ces qualités dans le domaine des véhicules et des services de mobil
 - Le vrai : Les objets, dont les véhicules, mais également les services, comme l’autopartage par exemple, sont totalement caractérisés en matière de performances environnementales, économiques et sociales. Les coûts et les bénéfices sont établis, partagés en toute transparence à tous les acteurs, permettant d'améliorer fortement la réplicabilité. Les émissions polluantes et la consommation, par exemple, sont totalement connues en usage réel ; ces informations sont disponibles, utilisables pour sélectionner les meilleurs objets en fonction des contextes. Les usagers participent largement à la qualification de ces indicateurs. 
  
 
-Le reverse" marketing, mentionné dans un [**article **]()précédent, va toucher tous les domaines, tous les produits. Les entreprises vont devoir (re)penser leurs organisations et leurs produits par le prisme du bon, du beau et du vrai.
+Le reverse" marketing, mentionné dans un [**article **]({{ site.baseurl }}/2011/08/le-reverse-marketing-utilisant-le-tsunami-des-donnees-le-consommateur-reprend-la-main-quelles-conseq/)précédent, va toucher tous les domaines, tous les produits. Les entreprises vont devoir (re)penser leurs organisations et leurs produits par le prisme du bon, du beau et du vrai.
 
  
 

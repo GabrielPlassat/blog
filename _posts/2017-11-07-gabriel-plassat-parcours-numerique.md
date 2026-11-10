@@ -5,7 +5,7 @@ date: 2017-11-07
 source: tdf
 source_name: "Transports du Futur"
 tags: []
-theme: "Stratégies numériques"
+theme: "Communs, écosystèmes & open source"
 redirect_from:
   - /2017/11/07/gabriel-plassat-parcours-numerique/
 ---

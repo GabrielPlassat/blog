@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/04/lavenir-des-bouteilles-passe-par-la-logistique.html"
 tags: []
-theme: "Données & services numériques"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2010/04/06/lavenir-des-bouteilles-passe-par-la-logistique/
 ---

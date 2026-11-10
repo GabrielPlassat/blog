@@ -35,10 +35,4 @@ Ceci intéresse et concerne bien évidemment les [**gestionnaires des infrastruc
 
  
 
-Dans ce schéma d'évolutions, l'arrêt disparaît sauf si il se justifie pleinement sa valeur augmente. La rencontre a lieu en mouvement. Dès lors, l'interaction avec le smartphone doit évoluer la commande vocale se développera. Notre assistant numérique captera l'ambience physique, les données, fournira une partie de notre trace numérique à l'environnement, et la commande vocale permettra d'interagir. Ainsi par exemple, lors d'un déplacement, l'assistant constatant un retard sur l'horaire prévu rendant impossible le rendez vous indiqué dans l'agenda proposera de le reprogrammer, de contacter la personne ou son assistant numérique. Voir cette [**vidéo**]().
-
- 
-
- 
-
-"2012-02-10 17:58:27https://transportsdufutur.ademe.fr/2012/02/mobilis-in-mobile-la-rencontre-personneproduit-service-se-fera-de-plus-en-plus-dans-en-mouvement.htmlassistant de mobilité|Assistant Personnel de Consommation|centre commercial|citoyen|connectivité|Infrastructure|internet|iphone|marchandises|marketing|marketing individualisépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobilis-in-mobile-la-rencontre-personneproduit-service-se-fera-de-plus-en-plus-dans-en-mouvement2015-07-21 16:36:36
+Dans ce schéma d'évolutions, l'arrêt disparaît sauf si il se justifie pleinement sa valeur augmente. La rencontre a lieu en mouvement. Dès lors, l'interaction avec le smartphone doit évoluer la commande vocale se développera. Notre assistant numérique captera l'ambience physique, les données, fournira une partie de notre trace numérique à l'environnement, et la commande vocale permettra d'interagir. Ainsi par exemple, lors d'un déplacement, l'assistant constatant un retard sur l'horaire prévu rendant impossible le rendez vous indiqué dans l'agenda proposera de le reprogrammer, de contacter la personne ou son assistant numérique. Voir cette **vidéo**.

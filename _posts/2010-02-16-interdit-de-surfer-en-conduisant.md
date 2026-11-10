@@ -89,7 +89,7 @@ The Connected Bus uses advanced Internet technology to enhance your ride, making
 - **Find It**": locate services and points of interest near the bus 
 - **Operator services**: assist bus drivers and maintenance staff 
 - **Security system**: lets drivers contact emergency services at the touch of a button 
- **What Makes The Connected Bus Green**? [SFMTA Hybrid Bus]() 
+ **What Makes The Connected Bus Green**? [SFMTA Hybrid Bus](http://www.sfmta.com/cms/mfleet/hybrids.htm) 
 
  
 

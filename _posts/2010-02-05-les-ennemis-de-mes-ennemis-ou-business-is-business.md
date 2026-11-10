@@ -37,6 +37,4 @@ A l’inverse, la Russie et le Venezuela ont annoncé lundi la signature d'un **
 
  
 
-**[L’article XIII de l’art de la guerre]()** de Sun Tzu nous rappelle « Le grand secret de venir à bout de tout consiste dans l'art de savoir mettre la division à propos division *dans les villes et les villages*, division *extérieure*, division *entre les inférieurs et les supérieurs*, division *de mort*, division *de vie*. »
-
-"2010-02-05 12:22:37https://transportsdufutur.ademe.fr/2010/02/les-ennemis-de-mes-ennemis-ou-business-is-business.htmlart de la guerre|Energie|Véhiculepublish18gabriel plassatles-ennemis-de-mes-ennemis-ou-business-is-business2010-02-05 12:22:37
+**[L’article XIII de l’art de la guerre](http://artdelaguerreselonsuntzu.ifrance.com/artdelaguerreselonsuntzu/art13.htm)** de Sun Tzu nous rappelle « Le grand secret de venir à bout de tout consiste dans l'art de savoir mettre la division à propos division *dans les villes et les villages*, division *extérieure*, division *entre les inférieurs et les supérieurs*, division *de mort*, division *de vie*. »

@@ -30,5 +30,5 @@ Il nous faudra tenir compte de ce point de départ pour concevoir des solutions 
  
 
  
-**[Yann Algan, Construire une société de confiance. Les ERNEST]()**
-*par [les_ernest]()*"
+**[Yann Algan, Construire une société de confiance. Les ERNEST](http://www.dailymotion.com/swf/xbqvqz)**
+*par [les_ernest](http://www.dailymotion.com/les_ernest)*"

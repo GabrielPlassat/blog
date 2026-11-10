@@ -19,7 +19,7 @@ Il aspirera l'autoradio, qui va donc disparaître, le service **[E-Call](http://
 
  
 
-Il stocke(ra) notre passé, nous aidera à choisir en temps réel les meilleurs modes, les meilleurs chemins. Puis ensuite il nous aidera à planifier notre futur et deviendra, par exemple, un assistant de rencontre". **[Cisco ]()**l'a déjà réalisé ... Ainsi, vous lui indiquerez que vous voulez rencontrer ces 5 personnes la semaine prochaine. Il optimisera les rencontres dans les différents espaces/temps. En échangeant avec les autres machines, puis les personnes valideront des propositions. Des ajustements temps réel seront gérés, simplifiés, les machines reprogrammant les meilleures rencontres.
+Il stocke(ra) notre passé, nous aidera à choisir en temps réel les meilleurs modes, les meilleurs chemins. Puis ensuite il nous aidera à planifier notre futur et deviendra, par exemple, un assistant de rencontre". **[Cisco ]({{ site.baseurl }}/2011/04/personnal-travel-assistant-assistant-personnel-de-mobilite-seoul/)**l'a déjà réalisé ... Ainsi, vous lui indiquerez que vous voulez rencontrer ces 5 personnes la semaine prochaine. Il optimisera les rencontres dans les différents espaces/temps. En échangeant avec les autres machines, puis les personnes valideront des propositions. Des ajustements temps réel seront gérés, simplifiés, les machines reprogrammant les meilleures rencontres.
 
  
 
@@ -33,18 +33,9 @@ Si les données, nos traces, sont partagées (de façon acceptable), le temps r�
 
  
 
-En reprenant une **[ancienne note ]()**: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  
-[![]()]()
+En reprenant une **ancienne note **: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  
+
 
  
 
 De nombreux acteurs privés et publics devront s'associer pour développer des outils de pilotage des mobilité, de management de la mobilité.
-
-"2011-06-17 17:43:43https://transportsdufutur.ademe.fr/2011/06/et-si-une-fois-connectee-la-voiture-devenait-de-plus-en-plus-rudimentaire.htmlassistant de mobilité|autorité des transports|connectivité|donnée data|internet|management de la mobilité|partage de données|simplicitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-une-fois-connectee-la-voiture-devenait-de-plus-en-plus-rudimentaire2015-07-21 16:36:46>En reprenant une **[ancienne note ]()**: Le cube central représente les bases de données. Les flux de données/services sont dirigés vers plusieurs acteurs: citoyen, famille, entreprise, autorité organisatrice locale, pouvoirs publics centraux.  
-[![]()]()
-
- 
-
-De nombreux acteurs privés et publics devront s'associer pour développer des outils de pilotage des mobilité, de management de la mobilité.
-
-"

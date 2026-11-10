@@ -21,7 +21,7 @@ Le vélo (déjà abordé **[ici]({{ site.baseurl }}/2010/01/yike-bike/)**) évol
 
  
 
-[Dans un **[article]()** issu d'internetactu] En matière d'intelligence, selon **[Thompson]()**, les entités les plus brillantes de notre planète ne sont ni les êtres humains les plus accomplis ni les machines les plus accomplies. **Ce sont des gens à l’intelligence moyenne qui ont une aptitude particulière à mêler leur intelligence à celle de la machine**. Or, et on ne peut que donner raison à Clive Thompson, on ne peut pas faire comme si l’âge des machines étaient en passe de s’achever. Il est certain que l’on va de plus en plus dépendre de l’assistance numérique pour penser et se socialiser. **Et trouver le moyen d’intégrer l’intelligence de la machine à nos vies personnelles est le défi le plus important qui nous soit offert**. Quand s’en remettre à la machine ? Quand se fier à soi-même ? Il n’y a pas, d’après Thompson, de réponse univoque, et il n’y en aura jamais. Il s’agit là, selon lui, d’une quête personnelle. Mais en aucun cas nous ne devons éluder la question tant les avantages cognitifs sont grands pour ceux qui savent le mieux penser avec la machine. Au final, dit Thompson, la vraie question est : *“quelle sorte de cyborg voulez-vous être ?”*
+[Dans un **[article](http://www.internetactu.net/2010/04/06/pdlt-quel-sorte-de-cyborg-voulez-vous-etre/)** issu d'internetactu] En matière d'intelligence, selon **[Thompson](http://www.wired.com/magazine/2010/03/st_thompson_cyborgs/)**, les entités les plus brillantes de notre planète ne sont ni les êtres humains les plus accomplis ni les machines les plus accomplies. **Ce sont des gens à l’intelligence moyenne qui ont une aptitude particulière à mêler leur intelligence à celle de la machine**. Or, et on ne peut que donner raison à Clive Thompson, on ne peut pas faire comme si l’âge des machines étaient en passe de s’achever. Il est certain que l’on va de plus en plus dépendre de l’assistance numérique pour penser et se socialiser. **Et trouver le moyen d’intégrer l’intelligence de la machine à nos vies personnelles est le défi le plus important qui nous soit offert**. Quand s’en remettre à la machine ? Quand se fier à soi-même ? Il n’y a pas, d’après Thompson, de réponse univoque, et il n’y en aura jamais. Il s’agit là, selon lui, d’une quête personnelle. Mais en aucun cas nous ne devons éluder la question tant les avantages cognitifs sont grands pour ceux qui savent le mieux penser avec la machine. Au final, dit Thompson, la vraie question est : *“quelle sorte de cyborg voulez-vous être ?”*
 
  
 
@@ -33,7 +33,7 @@ Le vélo (déjà abordé **[ici]({{ site.baseurl }}/2010/01/yike-bike/)**) évol
 
  
 
-Selon **[l’Observatoire du Cycle]()**, le marché cycles 2009, en baisse de 6%, se traduit par une situation assez contrastée :
+Selon **[l’Observatoire du Cycle](http://www.tousavelo.com/)**, le marché cycles 2009, en baisse de 6%, se traduit par une situation assez contrastée :
 
  
 
@@ -51,4 +51,4 @@ Selon **[l’Observatoire du Cycle]()**, le marché cycles 2009, en baisse de 6%
 
 ******** 
 
- **[4 Fiche VéLos Et Usages 2009]()** View more [documents]() from [transportsdufutur]()."
+ **[4 Fiche VéLos Et Usages 2009](http://www.slideshare.net/transportsdufutur/4-fiche-vlos-et-usages-2009)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur)."

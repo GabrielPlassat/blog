@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/02/european-roadmap-electrification-of-road-transport.html"
 tags: ["ERTRAC", "Europe", "multimodes", "Service de mobilité", "smartgrid", "TIC", "VE"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Regards en anglais"
 redirect_from:
   - /2010/02/19/european-roadmap-electrification-of-road-transport/
 ---

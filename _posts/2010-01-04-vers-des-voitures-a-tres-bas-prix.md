@@ -42,7 +42,7 @@ Alors que le rapport de CETELEM conclut en ouvrant vers le véhicule électrique
 
  
 
-Que se passera-t-il avec des véhicules à moins de 4000 euros (comme les constructeurs indiens, chinois pourront bientôt le faire) correspondant environ à 10000 km, soit une année d'utilisation ? Ira-t-on à l'extrême vers des **[voitures gratuites]()** ? 
+Que se passera-t-il avec des véhicules à moins de 4000 euros (comme les constructeurs indiens, chinois pourront bientôt le faire) correspondant environ à 10000 km, soit une année d'utilisation ? Ira-t-on à l'extrême vers des **voitures gratuites** ? 
 
  
 
@@ -51,5 +51,3 @@ Comme le prix de l'objet devient nettement inférieur à son usage, et comme des
  
 
 **Paradoxalement, alors que la mobilité rapide-sûr-fiable sera de plus en plus chère - car rare -, les véhicules pourraient être de moins en moins chers, voire gratuits - car abondants - dans certains cas.**
-
-"2010-01-04 15:25:19https://transportsdufutur.ademe.fr/2010/01/vers-des-voitures-a-tres-bas-prix.htmlEnergie|low cost|Précarité|rickshaw|Service de mobilité|simplicité|TIC|transition générationnelle|Véhiculepublish18gabriel plassatvers-des-voitures-a-tres-bas-prix2010-01-04 15:25:19

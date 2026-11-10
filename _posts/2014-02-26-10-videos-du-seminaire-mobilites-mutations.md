@@ -49,6 +49,6 @@ François Moisan et Plusieurs personnes sur filière industrielle des mobilités
 
  
 
-Et toutes les vidéos visibles sur la [**playlist Mobilités Mutations**]().
+Et toutes les vidéos visibles sur la [**playlist Mobilités Mutations**]({{ site.baseurl }}/2014/02/mobilites-mutations-et-apres/).
 
 "

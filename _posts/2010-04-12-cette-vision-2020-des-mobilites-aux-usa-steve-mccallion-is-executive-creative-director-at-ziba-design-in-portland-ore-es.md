@@ -40,7 +40,7 @@ People in 2020 are more open to sharing mobility resources, as pride of ownershi
 
  
 
-**Health and mobility will reunite.** No longer the default for all activities, the car persists in 2020, but is augmented by alternative modes of transportation that provide bonus benefits for health and well-being. Driving five houses over to pick up our kids from a play date now feels absurdly excessive. Walking and biking to work are considered smart, healthy alternatives to the **car-plus-gym-membership solution**. Kids walk to school (some through the snow, uphill both ways, like their parents did) or ride their bikes as a means to reduce greenhouse gases, obesity and the cost of education. Even in 2010, such tendencies are manifested in parent-organized walking buses" (a curious need to leverage the metaphor of a bus to reinvent the idea of walking to school), and the occasional city-dweller in London, [San Francisco]() or New York running or biking to work, backpack in tow.
+**Health and mobility will reunite.** No longer the default for all activities, the car persists in 2020, but is augmented by alternative modes of transportation that provide bonus benefits for health and well-being. Driving five houses over to pick up our kids from a play date now feels absurdly excessive. Walking and biking to work are considered smart, healthy alternatives to the **car-plus-gym-membership solution**. Kids walk to school (some through the snow, uphill both ways, like their parents did) or ride their bikes as a means to reduce greenhouse gases, obesity and the cost of education. Even in 2010, such tendencies are manifested in parent-organized walking buses" (a curious need to leverage the metaphor of a bus to reinvent the idea of walking to school), and the occasional city-dweller in London, [San Francisco](http://topics.forbes.com/San%20Francisco) or New York running or biking to work, backpack in tow.
 
  
 
@@ -61,5 +61,3 @@ People in 2020 are more open to sharing mobility resources, as pride of ownershi
  
 
 *Steve McCallion is executive creative director at Ziba Design, in Portland, Ore.*
-
-"2010-04-12 11:34:08https://transportsdufutur.ademe.fr/2010/04/cette-vision-2020-des-mobilites-aux-usa-steve-mccallion-is-executive-creative-director-at-ziba-design-in-portland-ore-es.htmlautopartage|citoyen|connectivité|covoiturage|données réelles|Efficacité énergétique|emission|Energie|internet|internet des objets|iphone|mode doux|multimodes|partage de données|Santé|Service de mobilité|transition générationnelle|véhicule proprepublish18gabriel plassatcette-vision-2020-des-mobilites-aux-usa-steve-mccallion-is-executive-creative-director-at-ziba-design-in-portland-ore-es2010-04-12 11:34:08

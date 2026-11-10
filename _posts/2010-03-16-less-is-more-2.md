@@ -46,7 +46,7 @@ Rien pour autant n'est acquis, comme par le passé, la masse pourrait-elle repar
 
  
 
-Et une **[étude commune ADEME - IFP]()** montre qu'en réduisant la masse, qu'en adaptant les performances aux besoins réels, il est possible de réduire sans délai les émissions de GES en améliorant ainsi l'efficacité énergétique. Les objectifs de 120 gCO2/km en 2012 puis 95 gCO2/km en 2020 sont non seulement atteignables, mais sans surcoût, sans attendre d'hypothétique rupture technologique... **Et si c'était cela le progrès ?**
+Et une **[étude commune ADEME - IFP](http://docs.google.com/fileview?id=0B-0CzLRVt-K9MjNkMGYxOWUtMThhNy00ZThmLThjNWYtNTFjOWZhZjRhYWE4&hl=en)** montre qu'en réduisant la masse, qu'en adaptant les performances aux besoins réels, il est possible de réduire sans délai les émissions de GES en améliorant ainsi l'efficacité énergétique. Les objectifs de 120 gCO2/km en 2012 puis 95 gCO2/km en 2020 sont non seulement atteignables, mais sans surcoût, sans attendre d'hypothétique rupture technologique... **Et si c'était cela le progrès ?**
 
  
 

@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2015/10/combien-temps-reste.html"
 tags: ["Acteur numérique des Mobilités et des Logistiques", "artiste", "bitcoin", "blockchain", "communs", "holoptisme", "innovation"]
-theme: "Stratégies numériques"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2015/10/16/combien-temps-reste/
 ---

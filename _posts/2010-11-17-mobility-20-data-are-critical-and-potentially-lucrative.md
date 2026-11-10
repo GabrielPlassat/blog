@@ -11,7 +11,7 @@ redirect_from:
   - /2010/11/17/mobility-20-data-are-critical-and-potentially-lucrative/
 ---
 
-Creating Markets for Connected Vehicle Data," the latest industry forum was conducted by the **[Center for Automotive Research (CAR]()**), a non-profit research organization dedicated to conducting research on significant issues related to the future direction of the global automotive industry.
+Creating Markets for Connected Vehicle Data," the latest industry forum was conducted by the **[Center for Automotive Research (CAR](http://www.crosscountry-auto.com/connected-vehicle-solutions)**), a non-profit research organization dedicated to conducting research on significant issues related to the future direction of the global automotive industry.
 
  
 
@@ -19,7 +19,7 @@ Based on budget per household evolution which present clear reduction for new mo
 
  
 
-[![]()]()  
+  
 
  
 "These are easy, first steps that deliver clear, tangible benefits to vehicle owners and makes them comfortable in entrusting the insurance industry with their data," said Ferrick, senior vice president and general manager at Cross Country Automotive Services. Its company manages data and voice calls with drivers associated with nearly 6 million roadside events annually. "In just about every roadside incident, consumers want help at the scene, want to contact their loved ones and, in significant accidents, want to notify their insurance carrier." 
@@ -36,15 +36,9 @@ Through automatic collision notification triggered by air bag deployment and oth
 
  
 
-[![]()]() 
+ 
 Cross Country's roadside services unit provides accident scene management, vehicle release management and total loss screening services to more than 30 North American insurance carriers, providing coverage to approximately 40 million vehicles. Cross Country also operates one of the largest networks of independent roadside assistance and towing service providers with more than 20,000 suppliers across the U.S. and Canada serving more 76 million motorists.
 
  
 
-[![]()]() 
- 
 
-"2010-11-17 11:58:51https://transportsdufutur.ademe.fr/2010/11/mobility-20-data-are-critical-and-potentially-lucrative.htmlassurance|confiance|connectivité|donnée data|données réelles|sécuritépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobility-20-data-are-critical-and-potentially-lucrative2015-07-21 16:37:33margin-right: auto"" title=""Data_us"" /> 
- 
-
-"

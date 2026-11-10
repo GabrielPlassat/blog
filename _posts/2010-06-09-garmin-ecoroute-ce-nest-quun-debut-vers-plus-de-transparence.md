@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/06/garmin-ecoroute-ce-nest-quun-debut-vers-plus-de-transparence.html"
 tags: ["données réelles", "Efficacité énergétique", "emission", "Energie"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Données & services numériques"
 redirect_from:
   - /2010/06/09/garmin-ecoroute-ce-nest-quun-debut-vers-plus-de-transparence/
 ---

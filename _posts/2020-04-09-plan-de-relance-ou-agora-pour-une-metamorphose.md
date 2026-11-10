@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2020/04/plan-de-relance-ou-agora-pour-une-metamorphose.html"
 tags: ["relance", "résilience"]
-theme: "Communs, écosystèmes & open source"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2020/04/09/plan-de-relance-ou-agora-pour-une-metamorphose/
 ---

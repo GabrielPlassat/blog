@@ -15,55 +15,32 @@ redirect_from:
 
  
  
-- plus le véhicule est léger, moins il y aura besoin de batterie donc plus il sera léger, et donc moins il y aura besoin de batterie, donc .. (voir un autre exemple [**Less is more**]()") 
-- la meilleure énergie de propulsion est la vôtre, parce que votre santé sera un problème collectif (voir le lien [**santé et mobilité**]()) 
-- la capacité d'adaptation du véhicule à différents contextes s'améliore quand on mélange modes de transports lourds, collectifs, légers, individuels (voir l'exemple [Hollandais]()) 
+- plus le véhicule est léger, moins il y aura besoin de batterie donc plus il sera léger, et donc moins il y aura besoin de batterie, donc .. (voir un autre exemple [**Less is more**](/?s=less+is+more)") 
+- la meilleure énergie de propulsion est la vôtre, parce que votre santé sera un problème collectif (voir le lien [**santé et mobilité**](/?s=sante)) 
+- la capacité d'adaptation du véhicule à différents contextes s'améliore quand on mélange modes de transports lourds, collectifs, légers, individuels (voir l'exemple [Hollandais]({{ site.baseurl }}/2012/01/trainvelovelotrain-individuelcollectif-publicprive/)) 
  
 
-**Pour amener les enfants à l'école : **[vélobus collectif à assistance électrique]()
-
- 
-
-[![]()]()
+**Pour amener les enfants à l'école : **[vélobus collectif à assistance électrique](http://www.yelomart.fr/voitures-transports/hollande-un-bus-scolaire-a-pedales/)
 
  
 
-**Pour visiter des sites touristiques étendus **: [vélobus collectif séparables à assistance électrique]()
+
 
  
 
- 
-
-[BIKE GUIDE]() from [Kukil Han]() on [Vimeo]().
-
- 
-
-**Pour se déplacer en milieu urbain ou périburbain** : [Tricycle 500W protégé]()
-
- 
-
-[![]()]()
-D'autres exemples [less is more](), et [si le 2-3 roues était > 4 roues]().
-
-"2012-03-01 09:37:31https://transportsdufutur.ademe.fr/2012/03/et-si-lhybridation-devenait-principalement-muscle-electricite.htmlautarcie|carburant|citoyen|collectivité|commuter|économie fonctionnalité|Efficacité énergétique|externalité|innovation|low cost|multimodes|Santé|Service de mobilité|simplicité|Véhicule|véhicule mono-usage|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-lhybridation-devenait-principalement-muscle-electricite2015-07-21 16:36:34title=""Velo-bus"" />
-
- 
-
-**Pour visiter des sites touristiques étendus **: [vélobus collectif séparables à assistance électrique]()
+**Pour visiter des sites touristiques étendus **: vélobus collectif séparables à assistance électrique
 
  
 
  
 
-[BIKE GUIDE]() from [Kukil Han]() on [Vimeo]().
+BIKE GUIDE from Kukil Han on Vimeo.
 
  
 
-**Pour se déplacer en milieu urbain ou périburbain** : [Tricycle 500W protégé]()
+**Pour se déplacer en milieu urbain ou périburbain** : Tricycle 500W protégé
 
  
 
-[![]()]()
-D'autres exemples [less is more](), et [si le 2-3 roues était > 4 roues]().
 
-"
+D'autres exemples less is more, et si le 2-3 roues était > 4 roues.

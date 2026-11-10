@@ -15,7 +15,7 @@ Le Conseil général des Côtes d'Armor organise la cinquième édition du Congr
 
  
 
-[![]()]() 
+ 
 Le thème choisi pour cette cinquième édition ouvre le débat sur la contribution des nouvelles technologies à une véritable mobilité citoyenne, et vise à rassembler les forces vives des ITS autour de l'enjeu du développement durable. C'est en effet à travers un partenariat actif entre le secteur public, privé et de la recherche que les outils nous permettant de déployer des politiques publiques durables en terme de transport seront développés. 
 
  
@@ -44,10 +44,10 @@ Nous comptons sur votre présence et votre participation dans ces débats essent
 
  
 
-Les modalités d'inscription sont accessibles sur le **[site du congrès]()** .
+Les modalités d'inscription sont accessibles sur le **[site du congrès](http://www.congresits.com)** .
 
  
 
  
 
- **[Its bretagne 2020]()** View more [documents]() from [transportsdufutur]()."
+ **[Its bretagne 2020](http://www.slideshare.net/transportsdufutur/its-bretagne-2020)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur)."

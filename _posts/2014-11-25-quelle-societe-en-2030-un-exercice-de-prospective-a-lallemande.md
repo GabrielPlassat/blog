@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2014/11/quelle-societe-en-2030-un-exercice-de-prospective-a-lallemande.html"
 tags: ["innovation", "internet", "pensée complexe", "plate-forme", "temporalité", "transition générationnelle"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2014/11/25/quelle-societe-en-2030-un-exercice-de-prospective-a-lallemande/
 ---
@@ -529,15 +529,15 @@ Martin Ford, fondateur d’une firme de la Silicon Valley, publie [The Lights in
 
  
 
-[Et si l’émergence la Chine et de l’Inde devait radicalement modifier les modes d’innovation occidentaux ?](http://ademe-desr.typepad.fr/emergences/2011/03/et-si-lemergence-la-chine-et-de-linde-devait-radicalement-modifier-les-modes-dinnovation-occidentaux.html#tp)  [Marc GIGET](http://www.rencontre-innovation.com/?page_id=141), professeur titulaire de la Chaire d’Économie de la Technologie et de l’Innovation au Conservatoire National des Arts et Métiers ([CNAM](http://www.cnam.fr/jsp/fiche_pagelibre.jsp?STNAV=&RUBNAV=&CODE=36392593&LANGUE=0&RH=)) et Directeur de [l’Institut Européen de Stratégies Créatives et d’Innovations](http://www.directeur-innovation.com/einstitut/), est intervenu le 4 mars 2011, sur le thème : *Et si l’émergence de pays comme la Chine et l’Inde devait radicalement modifier les modes d’innovation ?"* dans le cadre d’un atelier organisé par [Transit-City]()
+[Et si l’émergence la Chine et de l’Inde devait radicalement modifier les modes d’innovation occidentaux ?](http://ademe-desr.typepad.fr/emergences/2011/03/et-si-lemergence-la-chine-et-de-linde-devait-radicalement-modifier-les-modes-dinnovation-occidentaux.html#tp)  [Marc GIGET](http://www.rencontre-innovation.com/?page_id=141), professeur titulaire de la Chaire d’Économie de la Technologie et de l’Innovation au Conservatoire National des Arts et Métiers ([CNAM](http://www.cnam.fr/jsp/fiche_pagelibre.jsp?STNAV=&RUBNAV=&CODE=36392593&LANGUE=0&RH=)) et Directeur de [l’Institut Européen de Stratégies Créatives et d’Innovations](http://www.directeur-innovation.com/einstitut/), est intervenu le 4 mars 2011, sur le thème : *Et si l’émergence de pays comme la Chine et l’Inde devait radicalement modifier les modes d’innovation ?"* dans le cadre d’un atelier organisé par [Transit-City](http://www.transit-city.com/)
 
  
 
-[De l’innovation frugale à  l’innovation intégrée, les solutions de l’Inde]() 
+[De l’innovation frugale à  l’innovation intégrée, les solutions de l’Inde](http://www.hecalumni.fr/fr/magazine/rencontres/rencontres/linnovation-frugale-mode-demploi) 
 
  
 
-L’ambassade de France en Inde a réalisé un rapport de 23 pages intitulé [L’innovation en Inde]()
+L’ambassade de France en Inde a réalisé un rapport de 23 pages intitulé [L’innovation en Inde](http://www.bulletins-electroniques.com/rapports/smm12_030.htm)
 
  
 
@@ -545,7 +545,7 @@ L’ambassade de France en Inde a réalisé un rapport de 23 pages intitulé [L�
 
  
 
-[Citizens in an interconnected and polycentric world]()**  European Union Institute for security studies 2012**
+[Citizens in an interconnected and polycentric world](http://europa.eu/espas/pdf/espas_report_ii_01_en.pdf)**  European Union Institute for security studies 2012**
 
  
 
@@ -553,7 +553,7 @@ L’ambassade de France en Inde a réalisé un rapport de 23 pages intitulé [L�
 
  
 
-[Global Footprint Network (2012): Global Footprint Network 2012 Annual Report.]()
+Global Footprint Network (2012): Global Footprint Network 2012 Annual Report.
 
  
 
@@ -561,7 +561,7 @@ L’ambassade de France en Inde a réalisé un rapport de 23 pages intitulé [L�
 
  
 
-[Personal data. The emergence of a new asset class]()
+[Personal data. The emergence of a new asset class](>Global Footprint Network (2012): Global Footprint Network 2012 Annual Report.</a></p> <p><strong>Nouveaux défis</strong><strong> entre transparence et protection de la vie privée</strong></p> <p><a href=)
 
  
 
@@ -569,6 +569,6 @@ L’ambassade de France en Inde a réalisé un rapport de 23 pages intitulé [L�
 
  
 
-[150 Million Adults Worldwide Would Migrate to the U.S]().
+[150 Million Adults Worldwide Would Migrate to the U.S](/www.gallup.com/poll/153992/150-million-adultsworldwide-).
 
 "

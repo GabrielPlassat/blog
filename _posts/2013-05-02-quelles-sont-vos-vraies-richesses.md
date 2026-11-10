@@ -59,7 +59,7 @@ Et le numérique permet également de créer de nouvelles monnaies, et même de
 
  
 
-T*out au long de l'histoire, les moyens d'expression de la richesse ont évolués jusqu'à devenir plus abstraits et plus intangibles. Les monnaies libres poursuivent cette évolution, elle deviennent un méta-système, et non juste un nouveau type de monnaie. D'où l'appellation méta-monnaies" ([MetaCurrencies]()) quant à l'infrastructure et le standard technologique, qui va permettre la création de toutes formes de monnaie de manière universelle.*
+T*out au long de l'histoire, les moyens d'expression de la richesse ont évolués jusqu'à devenir plus abstraits et plus intangibles. Les monnaies libres poursuivent cette évolution, elle deviennent un méta-système, et non juste un nouveau type de monnaie. D'où l'appellation méta-monnaies" ([MetaCurrencies](http://metacurrency.org/)) quant à l'infrastructure et le standard technologique, qui va permettre la création de toutes formes de monnaie de manière universelle.*
 
  
 
@@ -67,7 +67,7 @@ T*out au long de l'histoire, les moyens d'expression de la richesse ont évolué
 
  
 
-*Les [flowplaces]() permettent de fournir des plates-formes unifiées pour toutes les formes de richesse, de la même manière qu'Internet fournit une plate-forme unifiée pour l'échange de tous types d'informations. La grande percée d'Internet fut de ne pas spécifier le type de données qui pourrait le traverser (à la différence du réseau téléphonique), la grande avancée des MétaMonnaies réside dans l'absence de pré-définition de la richesse. A la place, ce standart et son infrastructure fourniseent les briques de base pour que les collectifs puissent créer ce dont ils ont besoin pour leurs richesses.*
+*Les flowplaces permettent de fournir des plates-formes unifiées pour toutes les formes de richesse, de la même manière qu'Internet fournit une plate-forme unifiée pour l'échange de tous types d'informations. La grande percée d'Internet fut de ne pas spécifier le type de données qui pourrait le traverser (à la différence du réseau téléphonique), la grande avancée des MétaMonnaies réside dans l'absence de pré-définition de la richesse. A la place, ce standart et son infrastructure fourniseent les briques de base pour que les collectifs puissent créer ce dont ils ont besoin pour leurs richesses.*
 
  
 
@@ -75,12 +75,12 @@ T*out au long de l'histoire, les moyens d'expression de la richesse ont évolué
 
  
 
-Ce dernier point est essentiel dans le domaine des transports. Que se passera-t-il quand de nouvelles monnaies vont apparaître dans les services de mobilité ou encore dans les modes doux (voir **[un article dédié aux monnaies pour le vélo]()**) ?
+Ce dernier point est essentiel dans le domaine des transports. Que se passera-t-il quand de nouvelles monnaies vont apparaître dans les services de mobilité ou encore dans les modes doux (voir **un article dédié aux monnaies pour le vélo**) ?
 
  
  
 - Ces monnaies pourraient alors être utilisées pour quantifier plus précisement les pratiques et améliorer encore les services, ou encore quantifier précisement les gains énergétiques, les négaWatt, 
-- Des mécanismes de "récompenses" publics et/ou privés pourraient se développer sur la base des **[nudges]() **(voir également **[ce rapport du CAS sur les nudges verts]()**), 
+- Des mécanismes de "récompenses" publics et/ou privés pourraient se développer sur la base des **nudges **(voir également **ce rapport du CAS sur les nudges verts**), 
 - Ces récompenses n'auront pas d'effets rebonds négatifs car ces monnaies sont par construction locales et limitées à des communautés, 
 - Les ambassadeurs (personnes qui utilisent, parlent, simplifient le plus les services) sont plus facilement identifiés et deviennent des vecteurs de développement, 
  
@@ -89,54 +89,4 @@ L'engagement d'un grand nombre de personnes dans de nouvelles pratiques de mobil
 
  
 
- [![]()]()Dans vos organisations, à votre niveau individuel, quelles sont vos vraies richesses ? comment les représentez-vous ? comment les échangez-vous ? avez-vous étudié la création d'une monnaie ? Et si une communauté d'usagers créait une monnaie utilisable sur vos produits/services, sans vous impliquer ? Le sujet n'est pas intéressant, il est essentiel.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-"2013-05-02 11:32:30https://transportsdufutur.ademe.fr/2013/05/quelles-sont-vos-vraies-richesses.htmlcitoyen|confiance|covoiturage|donnée data|externalité|gratuit|holoptisme|intelligence collective|internet|lien social|living lab|marketing individualisé|monnaie complémentaire|multimodes|pensée complexe|Santé|Service de mobilité|yield managementpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatquelles-sont-vos-vraies-richesses2015-07-21 16:35:43padding-left: 30px"">*Les collectifs -- régions, entreprises, associations, ONG, villes --  sont alors sur le champ capables d'utiliser les flowplaces et les monnaies libres pour les Systèmes d'Echanges Locaux (SEL), les banques de temps, les réseaux de troc, les programmes de droits à l'émission de dioxyde de carbone, les coopératives de garde d'enfants, les systèmes de suivi de la réputation, les programmes de fidélisation commerciale, etc. Les effets les plus importants se feront sentir lorsque l'on fera appel à la créativité pour inventer de nouvelles monnaies qui résolvent des problèmes qui nous semblent insurmontables aujourd'hui.*
-
- 
-
-Ce dernier point est essentiel dans le domaine des transports. Que se passera-t-il quand de nouvelles monnaies vont apparaître dans les services de mobilité ou encore dans les modes doux (voir **[un article dédié aux monnaies pour le vélo]()**) ?
-
- 
- 
-- Ces monnaies pourraient alors être utilisées pour quantifier plus précisement les pratiques et améliorer encore les services, ou encore quantifier précisement les gains énergétiques, les négaWatt, 
-- Des mécanismes de "récompenses" publics et/ou privés pourraient se développer sur la base des **[nudges]() **(voir également **[ce rapport du CAS sur les nudges verts]()**), 
-- Ces récompenses n'auront pas d'effets rebonds négatifs car ces monnaies sont par construction locales et limitées à des communautés, 
-- Les ambassadeurs (personnes qui utilisent, parlent, simplifient le plus les services) sont plus facilement identifiés et deviennent des vecteurs de développement, 
- 
-
-L'engagement d'un grand nombre de personnes dans de nouvelles pratiques de mobilités est alors envisageable à travers l'identification de futurs ambassadeurs qui seront ensuite suivis par la multitude. Les monnaies vont faciliter la représentation de nouvelles communautés de pratiqueselles sont alors accélérer la synchronisation des citoyens pour atteindre un but. Ces dynamiques sont également imbriquées entre elles, augmentant leurs effets et créant des cercles vertueux.
-
- 
-
- [![]()]()Dans vos organisations, à votre niveau individuel, quelles sont vos vraies richesses ? comment les représentez-vous ? comment les échangez-vous ? avez-vous étudié la création d'une monnaie ? Et si une communauté d'usagers créait une monnaie utilisable sur vos produits/services, sans vous impliquer ? Le sujet n'est pas intéressant, il est essentiel.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-"
+ Dans vos organisations, à votre niveau individuel, quelles sont vos vraies richesses ? comment les représentez-vous ? comment les échangez-vous ? avez-vous étudié la création d'une monnaie ? Et si une communauté d'usagers créait une monnaie utilisable sur vos produits/services, sans vous impliquer ? Le sujet n'est pas intéressant, il est essentiel.

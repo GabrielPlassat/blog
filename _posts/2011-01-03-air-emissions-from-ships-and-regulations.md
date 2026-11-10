@@ -11,7 +11,7 @@ redirect_from:
   - /2011/01/03/air-emissions-from-ships-and-regulations/
 ---
 
-European Commission's Joint Research Centre (**[JRC](http://www.google.fr/url?sa=t&source=web&cd=1&ved=0CB4QFjAA&url=http%3A%2F%2Fec.europa.eu%2Fdgs%2Fjrc%2Fredirect.cfm%3Foriginal%3D%2F&ei=dtAhTYCrEcmb8QPQ8uTqBQ&usg=AFQjCNFCHPpfErhB4HARGzrPQ1c3I8pPYw&sig2=WjZCIVxSvywvSVjztrvoMA)**) released a new **[reference report]()**" focused on reducing greenhouse gas (GHG) emissions from shipping. The report titled  Regulating Air Emissions from Ships: The State of the Art on Methodologies, Technologies  and Policy Options" provides an overview of methodologies for estimating air emissions from shipping, describes technological solutions and proposes policy options for reducing carbon emissions as well as SOx air pollution in this sector.
+European Commission's Joint Research Centre (**[JRC](http://www.google.fr/url?sa=t&source=web&cd=1&ved=0CB4QFjAA&url=http%3A%2F%2Fec.europa.eu%2Fdgs%2Fjrc%2Fredirect.cfm%3Foriginal%3D%2F&ei=dtAhTYCrEcmb8QPQ8uTqBQ&usg=AFQjCNFCHPpfErhB4HARGzrPQ1c3I8pPYw&sig2=WjZCIVxSvywvSVjztrvoMA)**) released a new **[reference report](http://ec.europa.eu/dgs/jrc/downloads/jrc_reference_report_2010_11_ships_emissions.pdf)**" focused on reducing greenhouse gas (GHG) emissions from shipping. The report titled  Regulating Air Emissions from Ships: The State of the Art on Methodologies, Technologies  and Policy Options" provides an overview of methodologies for estimating air emissions from shipping, describes technological solutions and proposes policy options for reducing carbon emissions as well as SOx air pollution in this sector.
 
  
 
@@ -29,4 +29,4 @@ The report lists a number of technologies available to reduce carbon emissions f
 
 However, to achieve significant improvements in the reduction of carbon emissions and air pollution, technological solutions should be supplemented with other approaches, including regional and global market-based measures, JRC said. In particular, the report analyses the introduction a GHG Emission Trading Scheme (ETS) for the shipping sector at international level.
 
- [Jrc reference report_2010_11_ships_emissions]() View more [documents]() from [transportsdufutur](). "
+ [Jrc reference report_2010_11_ships_emissions](http://www.slideshare.net/transportsdufutur/jrc-reference-report201011shipsemissions) View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). "

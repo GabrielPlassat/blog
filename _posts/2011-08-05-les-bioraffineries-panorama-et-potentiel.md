@@ -62,6 +62,6 @@ Une étude complète a été menée sur le sujet à l'ADEME. Les principales con
 
  
 
-[![]()]() 
+ 
  
 <img alt=""Filière betterave"" class=""asset asset-image at-xid-6a0120a66d

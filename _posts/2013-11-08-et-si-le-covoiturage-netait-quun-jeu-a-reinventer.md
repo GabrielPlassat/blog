@@ -74,23 +74,3 @@ Pour la collectivité publique une réduction significative des véhicules aux a
  
 
 Le véhicule et l’adulte deviendraient alors totalement  accessoires, des moyens et non des finalités au service d’un plus grand nombre pour faire prendre conscience de cette efficacité. C’est peut être ce levier qui sensibilisera à son tour le monde des adultes.
-
-"2013-11-08 09:27:19https://transportsdufutur.ademe.fr/2013/11/et-si-le-covoiturage-netait-quun-jeu-a-reinventer.htmlArticles invitésADEME|autopartage|covoituragepublish27pierre tramiet-si-le-covoiturage-netait-quun-jeu-a-reinventer2017-11-02 16:45:43color: black"">Pour mieux connaitre les déplacements et les lieux de résidence afin d’apporter dans un second temps des services appropriés à l’intérieur de la tribu (des offres spécifiques de magasins sur le parcours en fonction de la population) ou  à l’extérieur de la tribu (profiter de ce déplacement pour porter éventuellement des colis/objets à des personnes âgées, etc…)
-
- 
-
-L’objectif est bien là, utiliser cette nouvelle conscience des enfants, non encore bridée par les modèles de contraintes apportés par le monde adulte, contraintes de temps ou d’emploi du temps mal géré, contraintes économiques inconscientes, afin qu’ils puissent appréhender les choses de manière ludique, pour créer de nouveaux mondes, le leur, en lien avec leur imagination.
-
- 
-
-Les conséquences pourraient être multiples : les gens se connaissent, connaissent les trajets, les déplacements sont optimisés, les émissions polluantes réduites etc…, le choix du véhicule occupé pourrait se faire de prime abord en raison des occupants parce qu’on les connait, mais très vite dans un second temps cela pourrait être en fonction du véhicule, de sa forme, de ses caractéristiques techniques, du déplacement facile et ludique, entrainé par le rating du véhicule, du conducteur, des occupants etc …
-
- 
-
-Pour la collectivité publique une réduction significative des véhicules aux abords des écoles, une diminution sensible des situations ‘dangereuses’, des parents moins stressés, des parcours moins accidentogènes …
-
- 
-
-Le véhicule et l’adulte deviendraient alors totalement  accessoires, des moyens et non des finalités au service d’un plus grand nombre pour faire prendre conscience de cette efficacité. C’est peut être ce levier qui sensibilisera à son tour le monde des adultes.
-
-"

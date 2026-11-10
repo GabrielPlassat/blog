@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html"
 tags: ["citoyen", "collectivité", "connectivité", "internet", "internet des objets", "living lab", "partage de données"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Données & services numériques"
 redirect_from:
   - /2010/04/30/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab/
 ---
@@ -15,7 +15,7 @@ En matière de mobilités, après une ère d'innovation basée sur des produits,
 
  
 
-Parmi les serious games en matière de mobilité, nous pouvons citer [**Clim city**]()**,** Bus training game (RATP), Enercities ou encore la ville **[d'Issy les moulineaux]()** sur les impôts locaux (voir la liste **[ici]()**). Mais il existe d'autres serious games également intéressants ([**changement climatique, le monde des entreprises**]()**). **Ces mondes sont entièrement virtuels, reproduisent fidèlement la réalité (tout au moins ce qui est modélisable). Pour accroitre la complexité, des villes laboratoires sont alors nécessaires. 
+Parmi les serious games en matière de mobilité, nous pouvons citer [**Clim city**](http://climcity.cap-sciences.net/)**,** Bus training game (RATP), Enercities ou encore la ville **[d'Issy les moulineaux](http://www.issy.com/index.php/fr/citoyens/finances_locales/issy_une_ville_qui_compte/issy_lance_un_serious_game_sur_les_impots_locaux)** sur les impôts locaux (voir la liste **[ici](http://www.e-virtuoses.net/detail_atelier8.php)**). Mais il existe d'autres serious games également intéressants ([**changement climatique, le monde des entreprises**](http://www.e-virtuoses.net/detail_atelier9.php)**). **Ces mondes sont entièrement virtuels, reproduisent fidèlement la réalité (tout au moins ce qui est modélisable). Pour accroitre la complexité, des villes laboratoires sont alors nécessaires. 
 
  
 
@@ -23,9 +23,9 @@ Parmi les serious games en matière de mobilité, nous pouvons citer [**Clim cit
 
  
 
-**[Transpolis]()** pourrait être cette ville expérimentale notamment pour le transport de marchandises et de personnes. Voir la présentation ci dessous :
+**[Transpolis](http://www.lutb.fr/Animation.408.0.html)** pourrait être cette ville expérimentale notamment pour le transport de marchandises et de personnes. Voir la présentation ci dessous :
 
- **[Transpolis]()** View more [presentations]() from [transportsdufutur](). 
+ **[Transpolis](http://www.slideshare.net/transportsdufutur/transpolis-3920243)** View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 
 Cet outil permettra de tester des avancées technologiques conçues en lien avec la ville de demain grâce aux outils de la plate-forme, et d'isoler certains paramètres influents :
 
@@ -59,7 +59,7 @@ Une philosophie : renforcer l’efficacité de la ville en optimisant l’effica
 
  
 
-Mais la ville laboratoire ne pourra pas intégrer les problématiques les plus complexes : influence des temporalités, mode de gouvernance locale, jeux d'acteurs, participation des usagers, des citoyens. Il faudra alors que la ville réelle devienne le laboratoire et que l'on fournisse aux citoyens des outils pour participer à la conception des services  qu'ils vont eux-mêmes utiliser. Le "living lab" existe depuis des années, plus d'une centaine de site en Europe (voir **[ici]()**). Concernant la mobilité et les véhicules, quelques exemples **[ici]()**, **[ici]()** ou [**là**]()**.** Une chaîne TV Youtube : **[ici]()**.
+Mais la ville laboratoire ne pourra pas intégrer les problématiques les plus complexes : influence des temporalités, mode de gouvernance locale, jeux d'acteurs, participation des usagers, des citoyens. Il faudra alors que la ville réelle devienne le laboratoire et que l'on fournisse aux citoyens des outils pour participer à la conception des services  qu'ils vont eux-mêmes utiliser. Le "living lab" existe depuis des années, plus d'une centaine de site en Europe (voir **[ici](http://www.openlivinglabs.eu/)**). Concernant la mobilité et les véhicules, quelques exemples **[ici](http://www.viktoria.se/node/5850)**, **[ici](http://www.livinglabs-global.com/)** ou [**là**](http://www.livinglabs-global.com/showcase/showcase/392/bringbuddy.aspx)**.** Une chaîne TV Youtube : **[ici](http://www.youtube.com/user/livinglabsglobal)**.
 
  
 

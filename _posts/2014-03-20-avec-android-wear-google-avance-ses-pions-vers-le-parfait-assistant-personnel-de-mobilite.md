@@ -19,9 +19,9 @@ Après une version actualisée de Google Map (lire [**Google Map devient dans le
 
  
 
- Plus l'écran est petit, plus les informations seront pré-traitées, pré-sélectionnées par des algorithmes. Ainsi, l'intégration de Google Now s'annonce essentielle pour proposer une expérience à la fois simple et riche". Plus la montre est utilisée, plus les algorithmes apprendront vos usages et plus l'information poussée sera à la fois présentée comme pertinente mais probablement limitée. Il est également annoncé la possibilité d'utiliser des capteurs pour alimenter des applications concernant votre activité physique, votre santé et également vos mobilités actives. Le domaine de la santé sera bouleversé par ces flux de données et de services. Les pratiques sportives ou encore les mobilités actives pourraient être "récompensées" (lire cet [**article sur les liens data, mobilités, assurance santé**]()) dans un premier temps, puis imposées compte tenu des déficits financiers (lire la métaNote sur [**la surveillance**]()). 
+ Plus l'écran est petit, plus les informations seront pré-traitées, pré-sélectionnées par des algorithmes. Ainsi, l'intégration de Google Now s'annonce essentielle pour proposer une expérience à la fois simple et riche". Plus la montre est utilisée, plus les algorithmes apprendront vos usages et plus l'information poussée sera à la fois présentée comme pertinente mais probablement limitée. Il est également annoncé la possibilité d'utiliser des capteurs pour alimenter des applications concernant votre activité physique, votre santé et également vos mobilités actives. Le domaine de la santé sera bouleversé par ces flux de données et de services. Les pratiques sportives ou encore les mobilités actives pourraient être "récompensées" (lire cet [**article sur les liens data, mobilités, assurance santé**]({{ site.baseurl }}/2014/02/vous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante/)) dans un premier temps, puis imposées compte tenu des déficits financiers (lire la métaNote sur [**la surveillance**]({{ site.baseurl }}/2013/03/metanote-tdf-3-la-surveillance-reloaded/)). 
 
-Avec Android Wear, Google poursuit le développement de l'Assistant Personnel Intégral (lire également [**Google Hotel Finder**](), [**In the race to get you around cities with a smartphone + credit card**]()). Le paiement sera bientôt ajouté (lire [**le design du ticket de transport**]()), de même que des informations temps réel remontant des usagers en transports en communs, en covoiturage ou simplement en voiture avec [**Open Automotive Alliance**]() (lire également [**Waze**]()). Ce n'est pas un hasard si Google vient d'héberger une conférence sur la [**mobilité urbaine organisée par New Cities Foundation**]().
+Avec Android Wear, Google poursuit le développement de l'Assistant Personnel Intégral (lire également **Google Hotel Finder**, **In the race to get you around cities with a smartphone + credit card**). Le paiement sera bientôt ajouté (lire **le design du ticket de transport**), de même que des informations temps réel remontant des usagers en transports en communs, en covoiturage ou simplement en voiture avec **Open Automotive Alliance** (lire également **Waze**). Ce n'est pas un hasard si Google vient d'héberger une conférence sur la **mobilité urbaine organisée par New Cities Foundation**.
 
  
 
@@ -33,20 +33,8 @@ Avec une interface aussi simple et dépouillée, ne permettant pas une explorati
 
  
 
-**Pour certain comme [Affordance]() : "L'OS Android Wear sera logiquement amené à diriger l'utilisation de nos propres capacités cognitives par des logiciels applicatifs. Il le fera de deux manières : en extrayant et en nous proposant sans cesse de l'information de/sur nous-mêmes (nous sommes une sorte de suite de 0 et de 1), et en mobilisant notre capacité attentionnelle, c'est à dire en nous allouant des plages mémoire."**
+**Pour certain comme Affordance : "L'OS Android Wear sera logiquement amené à diriger l'utilisation de nos propres capacités cognitives par des logiciels applicatifs. Il le fera de deux manières : en extrayant et en nous proposant sans cesse de l'information de/sur nous-mêmes (nous sommes une sorte de suite de 0 et de 1), et en mobilisant notre capacité attentionnelle, c'est à dire en nous allouant des plages mémoire."**
 
  
 
 **Les véhicules, assemblages de tôle et de plastique, ne deviendront bientôt que des supports physiques générateurs de données. Ce sera l'information qui permettra de se déplacer en optimisant la gestion des sièges libres en circulation.**
-
-"2014-03-20 12:33:32https://transportsdufutur.ademe.fr/2014/03/avec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite.htmlassistant de mobilité|citoyen|commuter|googlepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatavec-android-wear-google-avance-ses-pions-vers-le-parfait-assistant-personnel-de-mobilite2015-07-21 16:35:34>**Cette couche logicielle va conduire à une main mise dans la production de données hypercontextualisées, donc très riches. Très peu d'acteurs auront autant de connaissances pour comprendre les pratiques et les comportements dans le domaine des transports. Il n'aura fallu qu'une dizaine d'années pour construire un empire. **
-
- 
-
-**Pour certain comme [Affordance]() : "L'OS Android Wear sera logiquement amené à diriger l'utilisation de nos propres capacités cognitives par des logiciels applicatifs. Il le fera de deux manières : en extrayant et en nous proposant sans cesse de l'information de/sur nous-mêmes (nous sommes une sorte de suite de 0 et de 1), et en mobilisant notre capacité attentionnelle, c'est à dire en nous allouant des plages mémoire."**
-
- 
-
-**Les véhicules, assemblages de tôle et de plastique, ne deviendront bientôt que des supports physiques générateurs de données. Ce sera l'information qui permettra de se déplacer en optimisant la gestion des sièges libres en circulation.**
-
-"

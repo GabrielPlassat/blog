@@ -15,16 +15,14 @@ Simplificateur et facilitateur, reliant les usagers, créateur de nouvelles donn
 
  
 
-Cette participation de l'utilisateur est créatrice d'une nouvelle forme de richesse à la fois individuelle et collective. D'où le débat actuel sur les taxes à associer aux données et **[le rapport Colin & Collin]()**. Un élément est encore manquant: la capacité à quantifier/qualifier au sens des bénéfices individuels et collectifs les conséquences des choix rendus possible par les Applications/données. 
+Cette participation de l'utilisateur est créatrice d'une nouvelle forme de richesse à la fois individuelle et collective. D'où le débat actuel sur les taxes à associer aux données et **le rapport Colin & Collin**. Un élément est encore manquant: la capacité à quantifier/qualifier au sens des bénéfices individuels et collectifs les conséquences des choix rendus possible par les Applications/données. 
 
  
 
-La magazine Ville, Rail & Transports propose une liste à jour des 100 principales application dans le domaine de la mobilité, issu du numéro **[accessible en ligne]()**. 
+La magazine Ville, Rail & Transports propose une liste à jour des 100 principales application dans le domaine de la mobilité, issu du numéro **accessible en ligne**. 
 
  
 
  
 
- ** [100 applications transports]() ** from **[Les transports du futur]()** "2013-01-21 12:20:07https://transportsdufutur.ademe.fr/2013/01/100-applications-mobilite-par-ville-rail-transports.htmlapplication|assistant de mobilité|autopartage|citoyen|commuter|congestion|connectivité|covoiturage|donnée data|Efficacité énergétique|gratuit|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassat100-applications-mobilite-par-ville-rail-transports2015-07-21 16:35:45width=""479""> 
-
- ** [100 applications transports]() ** from **[Les transports du futur]()** "
+ ** 100 applications transports ** from **Les transports du futur**

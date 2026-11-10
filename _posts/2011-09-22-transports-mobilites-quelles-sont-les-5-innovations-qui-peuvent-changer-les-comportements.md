@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2011/09/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements.html"
 tags: ["carburant", "citoyen", "collectivité", "données réelles", "economie circulaire", "Efficacité énergétique", "gouvernance", "holoptisme", "innovation", "internet", "monnaie complémentaire", "open innovation", "TIC"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2011/09/22/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements/
 ---

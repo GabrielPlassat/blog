@@ -33,12 +33,10 @@ L’Observatoire Indépendant de la Publicité émane de l’Alliance pour la pl
 
  
 
-[![]()]() 
-**[HONDA ]()**avec "Devenez EGO-responsable" reçoit les mêmes notes ...
+ 
+**HONDA **avec "Devenez EGO-responsable" reçoit les mêmes notes ...
 
  
 
-[![]()]() 
-Les industries automobiles sont passées maîtres dans l'art de la communication, elles y allouent des budgets conséquents. Tous les acteurs de la chaîne y trouvent un rôle, un intérêt, même ceux qui jugent au nom du consommateur. Seul ce dernier, par le biais de l'action politique, pourrait (devrait) se placer en position dominante, être capable de se fédérer avec le minimum d'intermédiaire. Comme l'indique **[Dominique Desjeux]()**, "La consommation devient un véritable sport de combat !"
-
-"2010-09-23 10:32:51https://transportsdufutur.ademe.fr/2010/09/honda-et-audi-epingles-par-lobservatoire-independant-de-la-pub.htmlcitoyen|publicité|Véhicule|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassathonda-et-audi-epingles-par-lobservatoire-independant-de-la-pub2015-07-21 16:37:38
+ 
+Les industries automobiles sont passées maîtres dans l'art de la communication, elles y allouent des budgets conséquents. Tous les acteurs de la chaîne y trouvent un rôle, un intérêt, même ceux qui jugent au nom du consommateur. Seul ce dernier, par le biais de l'action politique, pourrait (devrait) se placer en position dominante, être capable de se fédérer avec le minimum d'intermédiaire. Comme l'indique **Dominique Desjeux**, "La consommation devient un véritable sport de combat !"

@@ -42,33 +42,9 @@ Les résultats des simulations montrent des bénéfices très importants apport�
 
  
 
- [![]()]() 
-[![]()]() 
+  
+ 
  
  
 
- [Mobility integrated]() View more [documents]() from [transportsdufutur]() "2011-05-26 09:46:07https://transportsdufutur.ademe.fr/2011/05/scenario-dune-mobilite-integree-et-si-cetait-le-seul-viable.htmlautorité des transports|chine|collectivité|Efficacité énergétique|emission|Energie|externalité|gouvernance|Infrastructure|management de la mobilité|megacity|partage de la voirie|Pay as You Movepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatscenario-dune-mobilite-integree-et-si-cetait-le-seul-viable2015-07-21 16:36:47>Dans le scénario "Mobilité Intégrée" la consommation d'énergie est ramenée à 12% de celle du scénario tendanciel (2020), tandis que les émissions de CO2 baissent de 79%. Les politiques liées aux véhicules propres et aux carburants, bien qu'importantes, ne sont pas aussi importantes que le développement intégré de l'usage des sols, la mise en oeuvre de tarification liée aux usage (roadpricing), la priorisation des transports publics et des modes doux permettant également d'amener de nouveaux véhicules légers et efficaces.
-
- 
-
-Les mesures du scénario "Mobilité Intégrée" sont :
-
- 
- 
-- management de l'espace public : paiement dynamique du stationnement, limitation des immatriculations, 
-- véhicules : mini véhicules comme au japon sont favorisés, prioritaires pour accéder aux villes 
-- carburants : fossile, électrique pour les petits véhicules (25%), 20% GNV, hybride, système de taxe équivalent à l'Europe, 
-- Tarifications : mise en oeuvre d'un système de tarification à l'usage (roadpricing) 
-- Urbanisme intégré : habitat - transport, services déservis par des modes lourds (BRT, train) 
- 
-
-Les résultats des simulations montrent des bénéfices très importants apportés par cette approche intégrée :
-
- 
-
- [![]()]() 
-[![]()]() 
- 
- 
-
- [Mobility integrated]() View more [documents]() from [transportsdufutur]() "
+ Mobility integrated View more documents from transportsdufutur

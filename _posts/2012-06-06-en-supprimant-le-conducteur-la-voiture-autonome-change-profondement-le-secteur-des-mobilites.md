@@ -27,7 +27,7 @@ Deux voies peuvent se présenter : ce cybercar est toujours acheté par un parti
 
  
 
-Dans un article [**précédent**](), il est détaillé cette vision d'un service de mobilité opéré avec une cohorte de robot roulant géré par un superviseur. Ce service est à la frontière de toutes les cloisons actuelles : public, privé, collectif, individuel. Une AOT pourrait supprimer des lignes de bus/car mal remplies tout en améliorant le service rendu, une zone commerciale pourrait investir dans une flotte de cybercar pour améliorer la circulation et augmenter le temps marchand des consommateurs, une entreprise étendue pourrait mettre à disposition de ses salariés ce type de service à certaines heures ...
+Dans un article [**précédent**]({{ site.baseurl }}/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer/), il est détaillé cette vision d'un service de mobilité opéré avec une cohorte de robot roulant géré par un superviseur. Ce service est à la frontière de toutes les cloisons actuelles : public, privé, collectif, individuel. Une AOT pourrait supprimer des lignes de bus/car mal remplies tout en améliorant le service rendu, une zone commerciale pourrait investir dans une flotte de cybercar pour améliorer la circulation et augmenter le temps marchand des consommateurs, une entreprise étendue pourrait mettre à disposition de ses salariés ce type de service à certaines heures ...
 
  
 

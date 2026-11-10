@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2013/09/ralentir-la-ville-pour-de-nouvelles-experiences-de-mobilite.html"
 tags: ["art de la guerre", "citoyen", "collectivité", "commuter", "congestion", "Efficacité énergétique", "emission", "externalité", "Infrastructure", "innovation", "management de la mobilité", "temporalité"]
-theme: "Déplacements, vélo & santé"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/09/26/ralentir-la-ville-pour-de-nouvelles-experiences-de-mobilite/
 ---

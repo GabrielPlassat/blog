@@ -39,19 +39,7 @@ Ainsi deux chemins distincts pourraient se dessiner avec de nombreux intermédia
  
  
 - Les pratiques de mobilité se réorganisent en cherchant à mieux utiliser les outils (véhicule, infrastructure) grâce aux TIC qui nous permettent de partager, mieux remplir, optimiser les trajets, mieux et plus utiliser les TC et les modes doux. Les TIC, dont Nike FuelBand, ne sont alors que des moyens pour quantifier les efforts, créer des monnaies alternatives, faire remonter des données pour connaître les pratiques quotidiennes. Les bénéfices sur la santé opérés grâce à des mobilités moins motorisées sont compris et partagés entre les acteurs. La confiance peut s'installer. Cette voie est présentée dans ce [**document**](http://www.slideshare.net/transportsdufutur/td-f-2011v1). 
-- Les pratiques de mobilité ne changent pas, les tendances se poursuivent et les dépenses de santé augmentent. De plus en plus de ménages rentrent dans une précarité énergétique dans le domaine de la mobilité (voir [**ICI**]({{ site.baseurl }}/2012/01/grand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain/) une estimation pour le Sud Est). Utilisant les TIC et proposant des coûts basés du bonus/malus (mobilité et santé), les assurances accèdent à l'ensemble des données liées aux mobilités, aux pratiques quotidiennes dont celles liées à nos activités physiques. L'activité physique est alors récompensée", permettant de réduire le prix de l'assurance santé-mobilité. Cette [**surveillance **]()pose question ... 
+- Les pratiques de mobilité ne changent pas, les tendances se poursuivent et les dépenses de santé augmentent. De plus en plus de ménages rentrent dans une précarité énergétique dans le domaine de la mobilité (voir [**ICI**]({{ site.baseurl }}/2012/01/grand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain/) une estimation pour le Sud Est). Utilisant les TIC et proposant des coûts basés du bonus/malus (mobilité et santé), les assurances accèdent à l'ensemble des données liées aux mobilités, aux pratiques quotidiennes dont celles liées à nos activités physiques. L'activité physique est alors récompensée", permettant de réduire le prix de l'assurance santé-mobilité. Cette [**surveillance **]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)pose question ... 
  
 
 Les technologies ne sont que des outils. Elles permettent dans certains cas de repenser nos pratiques quotidiennes, de les optimiser au regard de critères stratégiques. Quels chemins choisirons nous ?
-
- 
-
- 
-
- 
-
- 
-
-"2012-01-20 10:17:23https://transportsdufutur.ademe.fr/2012/01/super-a-160-eurolitre-passer-a-nike-fuel.htmlassurance|citoyen|confiance|donnée data|données réelles|Efficacité énergétique|innovation|obésité|PAYD|surveillancepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsuper-a-160-eurolitre-passer-a-nike-fuel2015-07-21 16:36:38> 
-
-"

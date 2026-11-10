@@ -6,17 +6,17 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2012/08/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au.html"
 tags: ["citoyen", "données réelles", "economie circulaire", "économie de l'expérience", "Efficacité énergétique", "holoptisme", "innovation", "intelligence collective", "Service de mobilité", "TED"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2012/08/13/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au/
 ---
 
 [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017744197e06970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017744197e06970d-pi.jpg)
-Certaines entreprises ont déjà mis en oeuvre des stratégies visant à transformer leurs modèles d'affaires pour faire vivre à leurs clients, devenus des [**invités**](http://sensduclient.blogspot.fr/2011/01/les-10-tendances-du-sens-du-client-2011.html), une [**expérience mémorable**](http://www.experience-marketing.fr/les-xperts/les-secrets-des-experiences-memorables-15/). Citons Apple ou Starbuck. Après l'économie des services, se développe actuellement [**l'économie de l'expérience**](http://www.geoffroigaron.com/2010/04/evenements/les-4-e-du-marketing-et-leconomie-de-lexperience-rdvweb/). Le risque à ne pas suivre cette voie est grand. Ces modèles d'affaires élèvent la relation avec l'acheteur", et décalent les concurrents vers le bas. Les objets d'aujourd'hui pourraient ainsi devenir des [**commodités** ]()demain pour les maîtres de l'économie de l'expérience ([**wiki**]()). Les conséquences pour le secteur des transports et des mobilités sont évidentes, directes, potentiellement dangereuses pour les industries en place. D'autant que déjà se prépare la phase suivante, l'économie de la transformation de soi, le citoyen consommateur en sera le coeur. 
+Certaines entreprises ont déjà mis en oeuvre des stratégies visant à transformer leurs modèles d'affaires pour faire vivre à leurs clients, devenus des [**invités**](http://sensduclient.blogspot.fr/2011/01/les-10-tendances-du-sens-du-client-2011.html), une [**expérience mémorable**](http://www.experience-marketing.fr/les-xperts/les-secrets-des-experiences-memorables-15/). Citons Apple ou Starbuck. Après l'économie des services, se développe actuellement [**l'économie de l'expérience**](http://www.geoffroigaron.com/2010/04/evenements/les-4-e-du-marketing-et-leconomie-de-lexperience-rdvweb/). Le risque à ne pas suivre cette voie est grand. Ces modèles d'affaires élèvent la relation avec l'acheteur", et décalent les concurrents vers le bas. Les objets d'aujourd'hui pourraient ainsi devenir des [**commodités** ]({{ site.baseurl }}/2012/07/lavenir-de-lautomobile/)demain pour les maîtres de l'économie de l'expérience ([**wiki**](http://en.wikipedia.org/wiki/The_Experience_Economy)). Les conséquences pour le secteur des transports et des mobilités sont évidentes, directes, potentiellement dangereuses pour les industries en place. D'autant que déjà se prépare la phase suivante, l'économie de la transformation de soi, le citoyen consommateur en sera le coeur. 
 
  
 
-L'[article de Nathalie Van Laethem]() détaille cette nouvelle relation client : *« Les clients veulent de l’expérience mais ils veulent du sens. Une offre doit être porteuse de sens désormais, et la **[communication]()** ne peut plus être aveuglément distribuée à 360 degrés, mais intégrée, adaptée » remarque Thierry Spencer dans son blog,**[ le Sens du client]()**. Ainsi, après être passé d’une approche purement transactionnelle (achat) à une approche relationnelle (fidélisation), les marques doivent s’intéresser davantage au vécu du consommateur:*
+L'[article de Nathalie Van Laethem](http://www.marketing-strategie.fr/2011/04/18/le-mix-marketing-de-lexperience-client/#comments) détaille cette nouvelle relation client : *« Les clients veulent de l’expérience mais ils veulent du sens. Une offre doit être porteuse de sens désormais, et la **[communication](http://www.marketing-strategie.fr/tag/communication/)** ne peut plus être aveuglément distribuée à 360 degrés, mais intégrée, adaptée » remarque Thierry Spencer dans son blog,**[ le Sens du client](http://sensduclient.blogspot.com/2011/01/les-10-tendances-du-sens-du-client-2011.html)**. Ainsi, après être passé d’une approche purement transactionnelle (achat) à une approche relationnelle (fidélisation), les marques doivent s’intéresser davantage au vécu du consommateur:*
 
  
  
@@ -28,7 +28,7 @@ L'[article de Nathalie Van Laethem]() détaille cette nouvelle relation client :
 
  
 
-*Si l’économie de l’expérience apporte « une différenciation croissante de l’offre accompagnée d’une augmentation de sa valeur », comme le souligne [Yves Evrard](), professeur à HEC, c’est bien parce que l’individu est acteur et impliqué dans son acte de consommation. Ce qui était le cas pour les offres de services le devient aussi pour les produits, mais cette expérience doit être tout à la fois:*
+*Si l’économie de l’expérience apporte « une différenciation croissante de l’offre accompagnée d’une augmentation de sa valeur », comme le souligne [Yves Evrard](http://archives.lesechos.fr/archives/2004/LesEchos/19279-508-ART_MNG.htm), professeur à HEC, c’est bien parce que l’individu est acteur et impliqué dans son acte de consommation. Ce qui était le cas pour les offres de services le devient aussi pour les produits, mais cette expérience doit être tout à la fois:*
 
  
  
@@ -38,7 +38,7 @@ L'[article de Nathalie Van Laethem]() détaille cette nouvelle relation client :
 - *Authentique: le désir d’authenticité devient le principal critère d’achat.* 
  
 
-Les objectifs à viser sont assez clairs pour le secteur des mobilités : **faire vivre des expériences transformantes aux usagers en les plaçant au centre**. La transparence et l'accès aux données de performances réelles de l'entreprise et des services sont des préalables qu'il ne faut pas négliger. Cette expérience pourra dès lors avoir un sens, elle transformera les habitudes, les réflexes vers des mobilités plus solidaires, plus efficaces. Cette expérience sera réalisée en grande partie grâce aux citoyens eux-mêmes grâce à de nouveaux outils déployant [**leur intelligence collective**](). Bien sûr les briques servicielles que nous construisons actuellement basées sur le partage (autopartage, covoiturage), sur un meilleur usage des modes collectifs et actifs, seront incluses tout en étant revisitées, réorientées.
+Les objectifs à viser sont assez clairs pour le secteur des mobilités : **faire vivre des expériences transformantes aux usagers en les plaçant au centre**. La transparence et l'accès aux données de performances réelles de l'entreprise et des services sont des préalables qu'il ne faut pas négliger. Cette expérience pourra dès lors avoir un sens, elle transformera les habitudes, les réflexes vers des mobilités plus solidaires, plus efficaces. Cette expérience sera réalisée en grande partie grâce aux citoyens eux-mêmes grâce à de nouveaux outils déployant [**leur intelligence collective**]({{ site.baseurl }}/2011/09/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements/). Bien sûr les briques servicielles que nous construisons actuellement basées sur le partage (autopartage, covoiturage), sur un meilleur usage des modes collectifs et actifs, seront incluses tout en étant revisitées, réorientées.
 
  
 

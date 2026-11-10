@@ -15,7 +15,7 @@ Un professeur de l'Université de Stanford expérimente un système permettant d
 
  
 
-La mise en oeuvre de "récompense" monétaire ou non monétaire (temps gagné, qualité du déplacement, et demain connectivité) a été récemment revisité par la disponibilité des TIC. Le Centre d'Analyse Stratégique, dans sa note sur les [**Nudges Verts**](), montre le potentiel de ces coups de pouce ou "monnaies complémentaires", et les synergies avec le numérique. En effet le numérique a la capacité d'accéder aux usages réels, d'identifier, éventuellement payer simplement et rapidement, et également de donner à l'individu d'une part la vision de ses bénéfices individuels mais également les bénéfices collectifs (nous reviendrons sur cette notion essentielle). Le projet Capri utilise des vecteurs numériques dont les smartphones.
+La mise en oeuvre de "récompense" monétaire ou non monétaire (temps gagné, qualité du déplacement, et demain connectivité) a été récemment revisité par la disponibilité des TIC. Le Centre d'Analyse Stratégique, dans sa note sur les [**Nudges Verts**](http://www.strategie.gouv.fr/content/note-d%E2%80%99analyse-216-nudges-verts-de-nouvelles-incitations-pour-des-comportements-ecologiques-), montre le potentiel de ces coups de pouce ou "monnaies complémentaires", et les synergies avec le numérique. En effet le numérique a la capacité d'accéder aux usages réels, d'identifier, éventuellement payer simplement et rapidement, et également de donner à l'individu d'une part la vision de ses bénéfices individuels mais également les bénéfices collectifs (nous reviendrons sur cette notion essentielle). Le projet Capri utilise des vecteurs numériques dont les smartphones.
 
  
 
@@ -27,7 +27,7 @@ La mise en oeuvre de "récompense" monétaire ou non monétaire (temps gagné, q
 
  
 
-Il est [**indiqué** ]()que cette mesure est en général peu efficace en terme d'impact, qu'il faut des montants élevés pour changer les comportements, et donc que la meilleure mesure est plutôt du coté de la contrainte : la [**taxe**](). Si il est vrai que nous savons que le signal prix est un moyen efficace, la complémentarité des deux outils contraintes/récompenses restent à étudier au cas par cas en fonction des territoires, des cibles, des configurations.
+Il est [**indiqué** ](http://mobile.nytimes.com/2012/06/12/science/experimental-campaigns-pay-drivers-to-avoid-rush-hour-traffic.xml)que cette mesure est en général peu efficace en terme d'impact, qu'il faut des montants élevés pour changer les comportements, et donc que la meilleure mesure est plutôt du coté de la contrainte : la [**taxe**]({{ site.baseurl }}/2010/05/vous-commencez-a-travailler-a-8h30-cela-vous-coutera-plus-cher/). Si il est vrai que nous savons que le signal prix est un moyen efficace, la complémentarité des deux outils contraintes/récompenses restent à étudier au cas par cas en fonction des territoires, des cibles, des configurations.
 
  
 
@@ -43,11 +43,11 @@ Il est [**indiqué** ]()que cette mesure est en général peu efficace en terme 
 
  
 
-Dans ce type de projet, une des difficultés est de montrer que les changements de comportement d'une faible quantité de personne peut avoir un impact important, notamment dans ce projet sur la congestion. La théorie des jeux et notamment [**le dilemne du prisonnier**]() indique qu'en général les personnes choisissent des configurations qui ne sont pas à l'optimum collectif. Les outils numériques peuvent nous aider à donner à chaque individu des éléments totalement adapté à son cas unique (hypercontextualisation : si tu fais ça alors ... tu as gagné XX points parce que ...), et en même temps une image du collectif (vision du "tout" : comme vous avez été 2000 à agir comme ça vous avez réduit de ... si vous aviez 1000 de plus vous auriez ...). Cette vision simultanée de soi et du tout est essentielle dans les prises de décision, il y a des synergies évidentes. Le numérique est ici un catalyseur qui donne accès facilement et simultanément pour tous les acteurs à des représentations visuelles qui vont guider les changements de comportement.
+Dans ce type de projet, une des difficultés est de montrer que les changements de comportement d'une faible quantité de personne peut avoir un impact important, notamment dans ce projet sur la congestion. La théorie des jeux et notamment [**le dilemne du prisonnier**]({{ site.baseurl }}/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports/) indique qu'en général les personnes choisissent des configurations qui ne sont pas à l'optimum collectif. Les outils numériques peuvent nous aider à donner à chaque individu des éléments totalement adapté à son cas unique (hypercontextualisation : si tu fais ça alors ... tu as gagné XX points parce que ...), et en même temps une image du collectif (vision du "tout" : comme vous avez été 2000 à agir comme ça vous avez réduit de ... si vous aviez 1000 de plus vous auriez ...). Cette vision simultanée de soi et du tout est essentielle dans les prises de décision, il y a des synergies évidentes. Le numérique est ici un catalyseur qui donne accès facilement et simultanément pour tous les acteurs à des représentations visuelles qui vont guider les changements de comportement.
 
  
 
-Le citoyen est alors totalement inclus dans un collectif qui devient à son tour plus intelligent. Cette situation singulière porte le nom d'holoptisme elle est abordée dans plusieurs [**articles**]() du blog.
+Le citoyen est alors totalement inclus dans un collectif qui devient à son tour plus intelligent. Cette situation singulière porte le nom d'holoptisme elle est abordée dans plusieurs **articles** du blog.
 
  
 
@@ -59,10 +59,10 @@ Le citoyen est alors totalement inclus dans un collectif qui devient à son tour
 
  
 
-Ce management cohérent de la demande doit être mené conjointement avec une remise à plat des offres de mobilité qui seront plus efficaces, et porté par des campagnes d'informations. En France, l'Ifsstar travaille ces sujets "Pay as You Move", "[**roadpricing**]()".
+Ce management cohérent de la demande doit être mené conjointement avec une remise à plat des offres de mobilité qui seront plus efficaces, et porté par des campagnes d'informations. En France, l'Ifsstar travaille ces sujets "Pay as You Move", "**roadpricing**".
 
  
 
 Une des meilleures synthèses trouvée sur le sujet :
 
- [Tdm strategy analysis_20090318final]() View more [documents]() from [Les transports du futur](). "2012-06-14 08:37:13https://transportsdufutur.ademe.fr/2012/06/a-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassata-travers-un-exemple-retracons-quelques-innovations-du-domaine-des-transports2015-07-21 16:36:32
+ Tdm strategy analysis_20090318final View more documents from Les transports du futur.

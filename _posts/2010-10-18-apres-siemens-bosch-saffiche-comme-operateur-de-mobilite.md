@@ -27,7 +27,7 @@ Service providers, for example, could propose routes to drivers that take into a
 
  
 
-The Bosch solution is based on Bosch’s [Visual Rules]() software, which allows specialist users to independently define and modify business rules. The software also makes it possible for other companies to integrate their business models into the eMobility Solution. Those companies might include operators of parking garages or facility managers, for example. The solution can be adapted to existing information and energy networks, allowing an e-mobility network to be tailored to the existing infrastructure in a given city.
+The Bosch solution is based on Bosch’s [Visual Rules](http://www.visual-rules.com/business-rules-management-enterprise-decision-management.html) software, which allows specialist users to independently define and modify business rules. The software also makes it possible for other companies to integrate their business models into the eMobility Solution. Those companies might include operators of parking garages or facility managers, for example. The solution can be adapted to existing information and energy networks, allowing an e-mobility network to be tailored to the existing infrastructure in a given city.
 
  
 
@@ -43,6 +43,6 @@ The software and systems unit’s web-based solutions are designed to network di
 
  
 
-En complément, les liens fournis par **[Silobreaker]() :**
+En complément, les liens fournis par **[Silobreaker](http://www.silobreaker.com/FlashNetwork.aspx?FreetextSearchStrings=emobility&q=emobility&rd=true) :**
 
- // [www.silobreaker.com]()"2010-10-18 08:30:28https://transportsdufutur.ademe.fr/2010/10/apres-siemens-bosch-saffiche-comme-operateur-de-mobilite.htmlcollectivité|internet|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatapres-siemens-bosch-saffiche-comme-operateur-de-mobilite2015-07-21 16:37:36// ]]> [www.silobreaker.com]()"
+ // www.silobreaker.com

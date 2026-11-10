@@ -25,4 +25,4 @@ https://www.youtube.com/embed/2QgIiz-v7u0
 - [38:00](https://www.youtube.com/watch?v=2QgIiz-v7u0&t=2280s) Les AOM 
 - [44:00](https://www.youtube.com/watch?v=2QgIiz-v7u0&t=2640s) Pistes d'actions
 
-Mobilités hier, aujourd'hui et demain. Le rôle central des plateformes avec effet de réseaux2021-09-12 15:07:16https://transportsdufutur.ademe.fr/2021/09/mobilites-et-effets-de-reseaux.htmlMes postseffet de réseau|plateformepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmobilites-et-effets-de-reseaux2021-09-12 15:07:19
+Mobilités hier, aujourd'hui et demain. Le rôle central des plateformes avec effet de réseaux

@@ -23,15 +23,15 @@ Après deux ateliers et un travail considérable de veille et de repérage d’i
 
  
 
-*Voir tous les éléments sur **[le blog de la FING]()**.*
+*Voir tous les éléments sur **[le blog de la FING](http://fing.org/?Le-point-sur-l-expedition)**.*
 
  
 
 * *
 
- [Expédition "Confiance numérique" - Les pistes d'innovation]() View more [presentations]() from [Daniel Kaplan](). 
+ [Expédition "Confiance numérique" - Les pistes d'innovation](http://www.slideshare.net/slidesharefing/expdition-confiance-numrique-les-pistes-dinnovation) View more [presentations](http://www.slideshare.net/) from [Daniel Kaplan](http://www.slideshare.net/slidesharefing). 
 
-A suivre au fil de l’eau sur [le blog du groupe]() :
+A suivre au fil de l’eau sur [le blog du groupe](http://www.reseaufing.org/pg/groups/20404/confiance-numerique-nouvelles-approches/) :
 
  
  

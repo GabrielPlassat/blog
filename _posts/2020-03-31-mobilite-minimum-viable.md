@@ -6,7 +6,7 @@ source: fabmob
 source_name: "Fabrique des Mobilités"
 original_url: "https://fabmob.io/blog/mobilite-minimum-viable"
 tags: []
-theme: "Communs, écosystèmes & open source"
+theme: "Intelligence collective & innovation"
 ---
 
 Le Covid-19 questionne le quotidien, les proximités, la résilience des personnes, des ménages, des quartiers, des communes, des pays, de l’Europe, de notre planète. Il remet en question, révèle les faiblesses de nos organisations sociales, de nos normes sociales, de nos temporalités et nos habitudes. Pour la première fois en dehors d’un conflit, le virus synchronise l’humanité à un niveau inégalé dans la durée, en nombre de personne impliqué, sur toutes les classes sociales, sur un même défi. A la différence des précédents virus, la réflexivité, les modes de communication et les données produites atteignent une tout autre échelle. Nous serons en situation d’analyser à posteriori les décisions et leur impact dans plusieurs pays.

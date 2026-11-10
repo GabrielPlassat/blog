@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2009/11/quel-sera-le-prochain-cygne-noir.html"
 tags: []
-theme: "Stratégies numériques"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2009/11/30/quel-sera-le-prochain-cygne-noir/
 ---

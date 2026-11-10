@@ -19,7 +19,7 @@ La carte a toujours été utilisée pour penser le territoire, pour le représen
 
  
 
-[![]()]()
+
 
  
 
@@ -27,7 +27,7 @@ La carte a toujours été utilisée pour penser le territoire, pour le représen
 
  
 
-Le projet [**YouAreHere**]() est une petite usine à carte. Mais des cartes narratives qui vous racontent des histoires, des cartes humaines (voir aussi ces [**cartes**]()).
+Le projet **YouAreHere** est une petite usine à carte. Mais des cartes narratives qui vous racontent des histoires, des cartes humaines (voir aussi ces **cartes**).
 
  
 
@@ -39,7 +39,7 @@ Le projet [**YouAreHere**]() est une petite usine à carte. Mais des cartes narr
 
  
 
-Each of these [maps]() will be an aggregation of thousands of microstories, tracing the narratives of our collective experience. We will make maps of the little things that make up life — from the trees we hug, to the places where we crashed our bikes, to the benches where we fell in love.
+Each of these maps will be an aggregation of thousands of microstories, tracing the narratives of our collective experience. We will make maps of the little things that make up life — from the trees we hug, to the places where we crashed our bikes, to the benches where we fell in love.
 
  
 
@@ -51,7 +51,7 @@ We hope that by showing these stories, we empower people to make their city — 
 
  
 
-You Are Here is a project of the [Social Computing Group]() at the [MIT Media Lab]()."
+You Are Here is a project of the Social Computing Group at the MIT Media Lab."
 
  
 
@@ -63,7 +63,7 @@ You Are Here is a project of the [Social Computing Group]() at the [MIT Media La
 
  
 
-[![]()]()
+
 
  
 
@@ -71,7 +71,7 @@ You Are Here is a project of the [Social Computing Group]() at the [MIT Media La
 
  
 
-[![]()]() [![]()]()
+ 
 
  
 
@@ -79,7 +79,7 @@ You Are Here is a project of the [Social Computing Group]() at the [MIT Media La
 
  
 
-[![]()]()
+
 
  
 
@@ -87,14 +87,12 @@ You Are Here is a project of the [Social Computing Group]() at the [MIT Media La
 
  
 
-Google offre dès aujourd'hui un [**assistant de mobilité**]() (lire également l'article sur [**Android Wear**]()) regroupant les cartes "minérales" enrichies de quelques données "humaines" avec Waze notamment, et quasiment l'intégralité des Points d'intérêt. Mais la prochaine bataille aura lieu autour des données produites par les citoyens en activité, et le croisement de ces données hétérogènes.
+Google offre dès aujourd'hui un **assistant de mobilité** (lire également l'article sur **Android Wear**) regroupant les cartes "minérales" enrichies de quelques données "humaines" avec Waze notamment, et quasiment l'intégralité des Points d'intérêt. Mais la prochaine bataille aura lieu autour des données produites par les citoyens en activité, et le croisement de ces données hétérogènes.
 
  
 
-Ce n'est donc qu'un début. L'internet des objets commence, la voiture "connectée" produira des données. Après avoir voulu les protéger, les fermer, les garder pour soi, certains acteurs comprendront qu'ils ont plus à gagner à rendre aux citoyens les données les concernant et/ou à les mettre à disposition de régie de données. La valeur de la donnée n'est généralement pas connue à priori, elle se détermine à posteriori, une fois qu'elle a été croisée, hybridée avec d'autres données venant d'un autre domaine, d'autres acteurs (lire notamment la [**fiction N°7**]() et la [**MétaNote N°18 sur la demande**]()). Cette "biodiversité" des données ouvrira des champs d'innovations.
+Ce n'est donc qu'un début. L'internet des objets commence, la voiture "connectée" produira des données. Après avoir voulu les protéger, les fermer, les garder pour soi, certains acteurs comprendront qu'ils ont plus à gagner à rendre aux citoyens les données les concernant et/ou à les mettre à disposition de régie de données. La valeur de la donnée n'est généralement pas connue à priori, elle se détermine à posteriori, une fois qu'elle a été croisée, hybridée avec d'autres données venant d'un autre domaine, d'autres acteurs (lire notamment la **fiction N°7** et la **MétaNote N°18 sur la demande**). Cette "biodiversité" des données ouvrira des champs d'innovations.
 
  
 
 **Une fois les données accessibles, une multitude de représentation de notre territoire à fort pouvoir narratif pourra être créer. Aujourd'hui, aucun acteur industriel n'a pris cette position stratégique.**
-
-"2014-09-17 10:03:20https://transportsdufutur.ademe.fr/2014/09/michelin-20-quand-la-carte-incarne-le-vivant.htmlapplication|assistant de mobilité|citoyen|donnée data|Infrastructure|innovation|intelligence collective|internet|internet des objets|partage de données|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmichelin-20-quand-la-carte-incarne-le-vivant2015-07-21 16:35:29

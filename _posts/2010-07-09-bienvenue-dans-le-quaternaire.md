@@ -27,11 +27,11 @@ Le « roi du jetable » serait donc le parfait candidat à l’économie de fonc
 
  
 
-*Pour contacter Claire Gérard: [claire.gerard@bicworld.com]()*
+*Pour contacter Claire Gérard: claire.gerard@bicworld.com*
 
  
 
-*Site Web du programme Bic Recycle : [www.bicrecycle.com]()*
+*Site Web du programme Bic Recycle : www.bicrecycle.com*
 
  
 
@@ -54,15 +54,15 @@ Le modèle Cradle to Cradle (du berceau au berceau) adresse ces problématiques 
 
  
 
-*Pour contacter l'auteur: [d.lhote@stratecollege.fr]()*
+*Pour contacter l'auteur: d.lhote@stratecollege.fr*
 
  
 
-*Pour en savoir plus sur le Cradle to Cradle: [Le livre]() (anglais)*
+*Pour en savoir plus sur le Cradle to Cradle: Le livre (anglais)*
 
  
 
-*Résumé du livre en français sur le blog de David L'Hôte, [deformat.org]().*
+*Résumé du livre en français sur le blog de David L'Hôte, deformat.org.*
 
  
 
@@ -78,7 +78,7 @@ Le modèle Cradle to Cradle (du berceau au berceau) adresse ces problématiques 
 
  
 
-On pense d’abord au marché de l’occasion et au don, qui s'organisent maintenant de façon très efficace grâce au Web. D'autres sites permettent de multiplier les utilisateurs d'un objet peu utilisé en troquant son utilisation ou sa fonctionnalité contre celle d’un autre objet, contre des services à la personne ou contre de l'argent. Si certains, comme l’initiative [Espace Troc]() du Rhône en Vert, reposent sur un principe de troc direct, d’autres, comme [Easyswap](), proposent un Système d’Échange Local (SEL) utilisant une monnaie alternative sous forme de points. Enfin, [Zilok]() et [E-loue]() coordonnent la location de biens entre particuliers, transformant l’objet domestique en actif pouvant générer des revenus au même titre que l’immobilier. 
+On pense d’abord au marché de l’occasion et au don, qui s'organisent maintenant de façon très efficace grâce au Web. D'autres sites permettent de multiplier les utilisateurs d'un objet peu utilisé en troquant son utilisation ou sa fonctionnalité contre celle d’un autre objet, contre des services à la personne ou contre de l'argent. Si certains, comme l’initiative Espace Troc du Rhône en Vert, reposent sur un principe de troc direct, d’autres, comme Easyswap, proposent un Système d’Échange Local (SEL) utilisant une monnaie alternative sous forme de points. Enfin, Zilok et E-loue coordonnent la location de biens entre particuliers, transformant l’objet domestique en actif pouvant générer des revenus au même titre que l’immobilier. 
 
  
 
@@ -86,7 +86,7 @@ Si l’initiative sociale et solidaire que l’on peut accorder à ces propositi
 
  
 
-*Pour contacter l'auteur: [mauroy@capinnov.altavia.fr]()*
+*Pour contacter l'auteur: mauroy@capinnov.altavia.fr*
 
  
 
@@ -98,7 +98,7 @@ Les consommateurs partagent sur Internet leur savoir-faire sur le détournement 
 
  
 
-*À une époque où la diffusion de l'information est telle que n'importe qui peut apprendre à crocheter des serrures réputées inviolables, peut-on vraiment verrouiller sa clientèle en empêchant tout détournement des consommables propriétaires?* [La suite sur le Blog]()
+*À une époque où la diffusion de l'information est telle que n'importe qui peut apprendre à crocheter des serrures réputées inviolables, peut-on vraiment verrouiller sa clientèle en empêchant tout détournement des consommables propriétaires?* La suite sur le Blog
 
  
 
@@ -114,7 +114,7 @@ La division Michelin Fleet Solutions commercialise des prestations de chaussage 
 
  
 
-*Un pas en avant, certes, et un modèle qui peut inspirer bien d'autres industriels. Reste que la boucle de recyclage à l'infini n’est pas encore là et la valorisation qui est aujourd'hui accordée n'est qu'un sursis avant l'inévitable statut de déchet. [La suite sur le Blog ]()*
+*Un pas en avant, certes, et un modèle qui peut inspirer bien d'autres industriels. Reste que la boucle de recyclage à l'infini n’est pas encore là et la valorisation qui est aujourd'hui accordée n'est qu'un sursis avant l'inévitable statut de déchet. La suite sur le Blog *
 
  
 
@@ -134,7 +134,7 @@ Tel est le message de cet ouvrage écrit par une économiste de talent, Michèle
 
  
 
-[L'espoir économique. Vers la révolution du quaternaire]() par Michèle Debonneuil
+L'espoir économique. Vers la révolution du quaternaire par Michèle Debonneuil
 
  
 
@@ -142,6 +142,6 @@ Tel est le message de cet ouvrage écrit par une économiste de talent, Michèle
 
  
 
-Recommandé par Hugues de Vaulx, Directeur associé, [Coop Alternatives]().
+Recommandé par Hugues de Vaulx, Directeur associé, Coop Alternatives.
 
 "

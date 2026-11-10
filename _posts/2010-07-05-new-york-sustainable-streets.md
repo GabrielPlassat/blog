@@ -34,10 +34,10 @@ Sustainable streets are described below with many actions on transportation :
 Guidelines for incorporating the Manual into the design process.
 [**Chapter 2: Geometry**](../../downloads/pdf/nycdot_streetdesignmanual_ch2.pdf) (71.5 MB)
 A toolbox" of geometric street treatments to enhance safety, mobility and sustainability.
-[**Chapter 3: Materials**]() (48.2 MB)
+[**Chapter 3: Materials**](../../downloads/pdf/nycdot_streetdesignmanual_ch3.pdf) (48.2 MB)
 Specific materials with recommendations for use, and references to appropriate specifications.
-[**Chapter 4: Lighting**]() (28.4 MB)
+[**Chapter 4: Lighting**](../../downloads/pdf/nycdot_streetdesignmanual_ch4.pdf) (28.4 MB)
 Street and pedestrian lights that meet energy-efficiency, technical and visual quality criteria.
-[**Chapter 5: Furniture**]() (9.76 MB)
+[**Chapter 5: Furniture**](../../downloads/pdf/nycdot_streetdesignmanual_ch5.pdf) (9.76 MB)
 Freestanding elements that are part of NYCDOT's coordinated street furniture franchise and site furnishings used by other agencies.
-[**Glossary & Appendices**]() (2.71 KB) "
+**Glossary & Appendices** (2.71 KB) "

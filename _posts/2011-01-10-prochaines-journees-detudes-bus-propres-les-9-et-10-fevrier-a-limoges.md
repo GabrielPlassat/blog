@@ -11,7 +11,7 @@ redirect_from:
   - /2011/01/10/prochaines-journees-detudes-bus-propres-les-9-et-10-fevrier-a-limoges/
 ---
 
-**L'ADEME **organise, avec le **GART **et l'**UTP**, les prochaines **Journées d'études Bus propres"** : les 9 et 10 février à Limoges. Il s'agit de la 7ème édition. Vous pouvez accéder aux livrables (OPTIBUS II) de la 6ème édition (2007) **[ICI]()**.
+**L'ADEME **organise, avec le **GART **et l'**UTP**, les prochaines **Journées d'études Bus propres"** : les 9 et 10 février à Limoges. Il s'agit de la 7ème édition. Vous pouvez accéder aux livrables (OPTIBUS II) de la 6ème édition (2007) **[ICI](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=48657&p1=00&p2=12&ref=17597)**.
 
  
 
@@ -26,14 +26,8 @@ Le programme s'articulera autour de témoignages d'entreprises, d'exploitants de
 
 ** 
 
-Programme complet ci dessous, et inscription en ligne sur : [www.colloque-buspropres.ademe.fr**]() 
+Programme complet ci dessous, et inscription en ligne sur : www.colloque-buspropres.ademe.fr** 
 
  
 
- [Bus propres]() View more [documents]() from [transportsdufutur](). "2011-01-10 17:11:42https://transportsdufutur.ademe.fr/2011/01/prochaines-journees-detudes-bus-propres-les-9-et-10-fevrier-a-limoges.htmlADEME|BHNS|biocarburant|carburant|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatprochaines-journees-detudes-bus-propres-les-9-et-10-fevrier-a-limoges2015-07-21 16:37:29font-size: small""> 
-
-Programme complet ci dessous, et inscription en ligne sur : [**www.colloque-buspropres.ademe.fr**]() 
-
- 
-
- [Bus propres]() View more [documents]() from [transportsdufutur](). "
+ Bus propres View more documents from transportsdufutur.

@@ -21,4 +21,4 @@ Dans nos villes, des marchandises entrent, sortent et circulent en permanence. L
 
 Avec ce séminaire, **FNE **veut encourager la communication entre les acteurs associatifs, les élus et les milieux socioprofessionnels autour de la problématique de la livraison de marchandises en ville. Tout au long de cette journée, les participants seront invités à débattre avec les intervenants. Avec, à terme, un objectif : la réalisation d’actions concrètes dans l’organisation de la livraison de marchandises en milieu urbain.
 
- [Séminaire national logistique urbaine le 17092010 à montpellier]() View more [presentations]() from [transportsdufutur](). "
+ [Séminaire national logistique urbaine le 17092010 à montpellier](http://www.slideshare.net/transportsdufutur/sminaire-national-logistique-urbaine-le-17092010-montpellier) View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). "

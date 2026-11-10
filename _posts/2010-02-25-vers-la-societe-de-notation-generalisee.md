@@ -28,11 +28,11 @@ Les acteurs sociaux sont confrontés dans leur vie quotidienne à une multitude 
 
  
 
-Il a déjà abordé sur ce blog le besoin de réduire l’asymétrie d’information au moment de l’acte d’achat. Le téléphone portable (voir **[ici]()**) devenant la souris et l’écran permet de faire venir, via de nouveaux outils, toute la connaissance contenue sur la toile pour guider le choix. 
+Il a déjà abordé sur ce blog le besoin de réduire l’asymétrie d’information au moment de l’acte d’achat. Le téléphone portable (voir **[ici]({{ site.baseurl }}/2010/01/le-telephone-te-guidera/)**) devenant la souris et l’écran permet de faire venir, via de nouveaux outils, toute la connaissance contenue sur la toile pour guider le choix. 
 
  
 
-[![]()]()
+
 
 En matière de mobilité, le manque d’informations est, on ne peut plus, évident : aucune connaissance de la consommation réelle du véhicule avant l’achat, aucune connaissance de l’utilisation de la climatisation par exemple, aucune connaissance globale des données liées aux transports en commun sur un territoire, aucune connaissance des destinations/places libres du flux, aucune connaissance des émissions réelles des véhicules … 
 
@@ -44,7 +44,7 @@ La notation n’est donc pas seulement un concentré d’informations destiné �
 
  
 
-[![]()]()
+
 
  
 
@@ -58,7 +58,7 @@ La notation n’est donc pas seulement un concentré d’informations destiné �
 
  
 
-Dans les transports, plusieurs avancées pourraient modifier les modèles économiques actuels, comme la connaissance et le partage des émissions réelles de CO2 et polluants (voir **[ici]()**), le partage d’incidents et le groupement d’actions.
+Dans les transports, plusieurs avancées pourraient modifier les modèles économiques actuels, comme la connaissance et le partage des émissions réelles de CO2 et polluants (voir **[ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)**), le partage d’incidents et le groupement d’actions.
 
  
 

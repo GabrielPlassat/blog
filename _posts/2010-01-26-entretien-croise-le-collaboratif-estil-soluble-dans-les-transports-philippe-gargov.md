@@ -23,7 +23,7 @@ Sur son blog, la plateforme collaborative d'information voyageurs **[Clever Comm
 
  
 
-*Yann Le Tilly* est directeur général de **[Canal TP]()**, premier acteur de l'informationvoyageur en France. Auteur du blog **[TransID]()**, il scrute l'innovation dans les transports publics. Il s'était déjà retrouvé dans nos colonnes pour faire part de ses perspectives. *Loïc Haÿ* est chargé de mission à l'**[ARTESI Ile de France]()**. Fin connaisseur des technologies et de leurs développements dans la ville, Chronos l'avait déjà interviewé sur la question des widgets. Les deux entretiens ont été réalisés dans le cadre d'une étude sur l'impact de l'information collaborative dans les transports en commun.
+*Yann Le Tilly* est directeur général de **[Canal TP](http://canaltp.fr/)**, premier acteur de l'informationvoyageur en France. Auteur du blog **[TransID](http://transid.blogspot.com/)**, il scrute l'innovation dans les transports publics. Il s'était déjà retrouvé dans nos colonnes pour faire part de ses perspectives. *Loïc Haÿ* est chargé de mission à l'**[ARTESI Ile de France](http://www.artesi.artesi-idf.com/public/artesi/)**. Fin connaisseur des technologies et de leurs développements dans la ville, Chronos l'avait déjà interviewé sur la question des widgets. Les deux entretiens ont été réalisés dans le cadre d'une étude sur l'impact de l'information collaborative dans les transports en commun.
 
  
 
@@ -39,13 +39,13 @@ Sur son blog, la plateforme collaborative d'information voyageurs **[Clever Comm
 
  
 
-*Loïc Haÿ* "Qu'est ce qui change avec le microblogging, Twitter ou autres ? Les microinformations produites par les utilisateurs permettent d’avoir quelque chose qu’on n'avait pas avant : une indexation temps réel de l’information **[une tendance lourde pour les années à venir]()**, selon ReadWriteWeb. Chose inédite, une massification des usages se conjugue à la prégnance de l'information en temps réel. Dans ce contexte, on peut supposer que la diffusion d'informations entre usagers sera potentiellement plus rapide." Yann Le Tilly "En matière de cartographie, des réalisations comme Open Street Map (**[23 millions de kilomètres]()** de routes cartographiés par des citoyens !) ont démontré que les contributions usagers pouvaient être de très bonne qualité, jusqu'à commencer à se substituer à des offres professionnelles. La contribution des voyageurs à l’information transport public est un phénomène extrêmement prometteur. Mais il faut bien voir les bémols : aujourd’hui Twitter ou les mashups ne sont pas suffisamment accessibles pour permettre l’implication des utilisateurs. Je suis persuadé que ça va venir, mais ce n’est pas encore ça."
+*Loïc Haÿ* "Qu'est ce qui change avec le microblogging, Twitter ou autres ? Les microinformations produites par les utilisateurs permettent d’avoir quelque chose qu’on n'avait pas avant : une indexation temps réel de l’information **[une tendance lourde pour les années à venir](http://fr.readwriteweb.com/2009/09/16/prospective/web-temps-reel/)**, selon ReadWriteWeb. Chose inédite, une massification des usages se conjugue à la prégnance de l'information en temps réel. Dans ce contexte, on peut supposer que la diffusion d'informations entre usagers sera potentiellement plus rapide." Yann Le Tilly "En matière de cartographie, des réalisations comme Open Street Map (**[23 millions de kilomètres](http://transid.blogspot.com/2009/09/decarta-diffusera-osm.html)** de routes cartographiés par des citoyens !) ont démontré que les contributions usagers pouvaient être de très bonne qualité, jusqu'à commencer à se substituer à des offres professionnelles. La contribution des voyageurs à l’information transport public est un phénomène extrêmement prometteur. Mais il faut bien voir les bémols : aujourd’hui Twitter ou les mashups ne sont pas suffisamment accessibles pour permettre l’implication des utilisateurs. Je suis persuadé que ça va venir, mais ce n’est pas encore ça."
 
  
 
  
 
-[![]()]() 
+ 
 
  
 
@@ -75,11 +75,11 @@ Sur son blog, la plateforme collaborative d'information voyageurs **[Clever Comm
 
  
 
-*Yann Le Tilly* "On peut imaginer les contours d'un transport public qui émerge vraiment par l’utilisateur : des places de marché pour le covoiturage, par exemple. Mais il ne faut pas oublier que le 2.0 n'est qu'une étape. Il serait intéressant de se demander ce que seraient les transports 3.0, en éclairant ce que pourrait apporter la généralisation, dans les transports en commun, de l’Internet des objets **[une autre tendance décryptée]()** par ReadWriteWeb."
+*Yann Le Tilly* "On peut imaginer les contours d'un transport public qui émerge vraiment par l’utilisateur : des places de marché pour le covoiturage, par exemple. Mais il ne faut pas oublier que le 2.0 n'est qu'une étape. Il serait intéressant de se demander ce que seraient les transports 3.0, en éclairant ce que pourrait apporter la généralisation, dans les transports en commun, de l’Internet des objets **[une autre tendance décryptée](http://fr.readwriteweb.com/2009/09/25/a-la-une/top-5-des-innovations-du-web-en-2009-linternet-des-objets/)** par ReadWriteWeb."
 
  
 
-*Loïc Haÿ* "Effectivement, il y a plein de choses à réinventer du côté de l’Information Voyageurs, avec un rôle toujours plus important à donner à l’usager en exploitant ses contributions. Il s'agirait alors de "crowdsourcing public" – disons plutôt d’intérêt général. On peut aussi s'interroger sur le prolongement physique de cette information collaborative dans les réseaux de transports, via des écrans collectifs du type **[CityWall]()**. Il s’agirait de matérialiser, de rendre visible l’activité des routines dans l’espace urbain quotidien. Il y a des choses à expérimenter, des prototypes à mettre en place, et autour d'axes stratégiques essayer de trouver des combinaisons fertiles."
+*Loïc Haÿ* "Effectivement, il y a plein de choses à réinventer du côté de l’Information Voyageurs, avec un rôle toujours plus important à donner à l’usager en exploitant ses contributions. Il s'agirait alors de "crowdsourcing public" – disons plutôt d’intérêt général. On peut aussi s'interroger sur le prolongement physique de cette information collaborative dans les réseaux de transports, via des écrans collectifs du type **[CityWall](http://www.villes2.fr/Presentation-du-projet-CityWall_a247.html)**. Il s’agirait de matérialiser, de rendre visible l’activité des routines dans l’espace urbain quotidien. Il y a des choses à expérimenter, des prototypes à mettre en place, et autour d'axes stratégiques essayer de trouver des combinaisons fertiles."
 
  
 

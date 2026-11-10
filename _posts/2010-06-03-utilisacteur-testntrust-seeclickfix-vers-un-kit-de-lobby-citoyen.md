@@ -35,10 +35,10 @@ Le dernier [**Utilisacteur.fr**](http://www.utilisacteur.fr/) vise les usagers d
 
  
 
-[![]()]() 
-Ce site propose également un outil pour le stationnement [**Uinfopark**]() qui permet aux personnes d'indiquer la disponibilité de place de parking sur une carte google : 
+ 
+Ce site propose également un outil pour le stationnement [**Uinfopark**](http://www.utilisacteur.fr/fr/uinfopark/map) qui permet aux personnes d'indiquer la disponibilité de place de parking sur une carte google : 
 
- *Disponible à 22:00 (dans 01:59)* *Près de 79 Boulevard de la Reine, 78000 Versailles, France* *Actuellement occupé par : chris75* Cet outil permet ainsi aux usagers de générer de l'information temps réel, de se structurer sans nécessiter la participation de l'opérateur. Dans un second temps cette communauté aura atteint une masse critique avec suffisament de "savoirs", de "connaissance" pour avoir une autorité équivalente à celle de l'opérateur, facilitant les échanges, les demandes de véhicules supplémentaires.   **[SeeClickFix]()** permet comme son nom l'indique de repérer un incident, partager cette information en faisant voter les citoyens pour demander que le problème soit réglé : "Tools to help communitier help themselves". Plusieurs outils sont disponibles pour les citoyens, pour les communautés, pour les pouvoirs publics, pour les médias. L'idée est de définir une zone géographique de surveillance, de relever les problèmes, et faire du lobby grâce à des widgets adaptés à votre besoin, pour être suivi par d'autres personnes et atteindre une taille suffisante. Pour les pouvoirs publics, les outils sont les suivants : 
+ *Disponible à 22:00 (dans 01:59)* *Près de 79 Boulevard de la Reine, 78000 Versailles, France* *Actuellement occupé par : chris75* Cet outil permet ainsi aux usagers de générer de l'information temps réel, de se structurer sans nécessiter la participation de l'opérateur. Dans un second temps cette communauté aura atteint une masse critique avec suffisament de "savoirs", de "connaissance" pour avoir une autorité équivalente à celle de l'opérateur, facilitant les échanges, les demandes de véhicules supplémentaires.   **[SeeClickFix](http://www.seeclickfix.com/citizens)** permet comme son nom l'indique de repérer un incident, partager cette information en faisant voter les citoyens pour demander que le problème soit réglé : "Tools to help communitier help themselves". Plusieurs outils sont disponibles pour les citoyens, pour les communautés, pour les pouvoirs publics, pour les médias. L'idée est de définir une zone géographique de surveillance, de relever les problèmes, et faire du lobby grâce à des widgets adaptés à votre besoin, pour être suivi par d'autres personnes et atteindre une taille suffisante. Pour les pouvoirs publics, les outils sont les suivants : 
 
 · Transparent communication with citizens
 
@@ -72,7 +72,7 @@ Ce site propose également un outil pour le stationnement [**Uinfopark**]() qui
 
  
 
-**[Test'n'Trust ]()**est le premier site comparateur de satisfaction entre consommateur pour donner son avis sur tous les produits, tous les services, les sociétés privées, les administrations publiques. Le site Testntrust est un **espace de connexion** qui permet à ces deux réseaux de travailler, ensemble, à **l’amélioration de la qualité de l’offre.** 
+**[Test'n'Trust ](http://www.testntrust.com/)**est le premier site comparateur de satisfaction entre consommateur pour donner son avis sur tous les produits, tous les services, les sociétés privées, les administrations publiques. Le site Testntrust est un **espace de connexion** qui permet à ces deux réseaux de travailler, ensemble, à **l’amélioration de la qualité de l’offre.** 
 
  
 
@@ -88,7 +88,7 @@ Vous êtes un consommateur et vous cherchez un plombier, un opérateur de télé
 
  
 
-A votre tour, vous voulez exprimer votre satisfaction ? **[Inscrivez-vous]() gratuitement** sur Testntrust. Vous noterez ainsi les professionnels à partir de questions simples et précises sur votre expérience de consommation. Vous choisissez librement votre niveau de participation : **Membre Access, Membre Premium** ou **Membre Premium Expert.** Votre inscription est nominative. Votre démarche est sérieuse et objective. Vous souhaitez apporter une contribution constructive. 
+A votre tour, vous voulez exprimer votre satisfaction ? **[Inscrivez-vous](http://www.testntrust.com/fr_comment_ca_marche.seam?actionOutcome=%2Fconnexion.xhtml&cid=50731) gratuitement** sur Testntrust. Vous noterez ainsi les professionnels à partir de questions simples et précises sur votre expérience de consommation. Vous choisissez librement votre niveau de participation : **Membre Access, Membre Premium** ou **Membre Premium Expert.** Votre inscription est nominative. Votre démarche est sérieuse et objective. Vous souhaitez apporter une contribution constructive. 
 
  
 
@@ -108,7 +108,7 @@ Des professionnels responsables et impliqués. Le comparateur s’appuie sur l�
 
  
 
-Extrait de Propaganda (1928) que **[je vous encourage à lire ici]() **: «Théoriquement, chacun achète au meilleur coût ce que le marché a de mieux à lui offrir. Dans la pratique, si avant d'acheter tout le monde comparait les prix et étudiait la composition chimique des *[produits]* proposés dans le commerce, la vie économique serait complètement paralysée. Pour éviter que la confusion ne s'installe, la société consent à ce que son choix se réduise aux idées et aux objets portés à son attention par la propagande de toute sorte *(ie marketing)*». **Il a donc fallu attendre presque 100 ans pour que cela change.** 
+Extrait de Propaganda (1928) que **je vous encourage à lire ici **: «Théoriquement, chacun achète au meilleur coût ce que le marché a de mieux à lui offrir. Dans la pratique, si avant d'acheter tout le monde comparait les prix et étudiait la composition chimique des *[produits]* proposés dans le commerce, la vie économique serait complètement paralysée. Pour éviter que la confusion ne s'installe, la société consent à ce que son choix se réduise aux idées et aux objets portés à son attention par la propagande de toute sorte *(ie marketing)*». **Il a donc fallu attendre presque 100 ans pour que cela change.** 
 
  
 

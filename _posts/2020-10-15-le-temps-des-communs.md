@@ -6,7 +6,7 @@ source: fabmob
 source_name: "Fabrique des Mobilités"
 original_url: "https://fabmob.io/blog/le-temps-des-communs"
 tags: ["anoptique", "commun"]
-theme: "Communs, écosystèmes & open source"
+theme: "Intelligence collective & innovation"
 ---
 
 > Le temps n'a pas d'importance, seule la vie est importante - le 5ème élément

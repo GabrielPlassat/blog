@@ -15,7 +15,7 @@ La société de Sportlifestyle PUMA a annoncé jeudi, au cours de la conférence
 
  
 
-Si la compensation permet facilement" de s'afficher comme neutre (il est rappelé **[ici]()** les préalables avant de compenser), les constructeurs automobiles comme Porsche devront, à l'avenir, utiliser toutes les solutions pour améliorer leur image citoyenne. L'exemple de PUMA est intéressant car global et mondial, avec des actions demandés auprès des fournisseurs. Porsche, généralement classé parmi les véhicules les plus fortement émetteurs de CO2, pourrait alors baser une partie de sa communication sur la **[philanthropie]()**. La Responsabilité Sociale de ce type d'Entreprise (RSE, déjà abordé **[ici]()** et **[là]()**) utilisera de moins en moins les vecteurs traditionnels, cherchera à créer un Univers homogène, responsable, engagé dans la société par les produits qu'elles commercialisent. Et si ces derniers sont difficilement compatibles, l'Univers créé devra s'élargir pour accueillir des services, des actions dans un autre domaine, permettant alors de "compenser" les produits.
+Si la compensation permet facilement" de s'afficher comme neutre (il est rappelé **[ici](http://www.compensationco2.fr/servlet/KBaseShow?sort=-1&cid=21238&m=3&catid=21252)** les préalables avant de compenser), les constructeurs automobiles comme Porsche devront, à l'avenir, utiliser toutes les solutions pour améliorer leur image citoyenne. L'exemple de PUMA est intéressant car global et mondial, avec des actions demandés auprès des fournisseurs. Porsche, généralement classé parmi les véhicules les plus fortement émetteurs de CO2, pourrait alors baser une partie de sa communication sur la **[philanthropie](/philanthropie/)**. La Responsabilité Sociale de ce type d'Entreprise (RSE, déjà abordé **[ici]({{ site.baseurl }}/2010/02/is-it-business-or-philanthropy/)** et **[là]({{ site.baseurl }}/2010/04/la-puissance-sous-estimee-du-consommateur/)**) utilisera de moins en moins les vecteurs traditionnels, cherchera à créer un Univers homogène, responsable, engagé dans la société par les produits qu'elles commercialisent. Et si ces derniers sont difficilement compatibles, l'Univers créé devra s'élargir pour accueillir des services, des actions dans un autre domaine, permettant alors de "compenser" les produits.
 
  
 
@@ -28,6 +28,4 @@ De plus, PUMA souhaite compenser l’empreinte carbone de ses employés en subve
 
  
 
-[Source]()
-
-"2010-04-26 14:24:11https://transportsdufutur.ademe.fr/2010/04/porsche-sinspirera-bientot-de-puma.htmlemission|philanthropie|Véhicule|véhicule proprepublish18gabriel plassatporsche-sinspirera-bientot-de-puma2010-04-26 14:24:11
+Source

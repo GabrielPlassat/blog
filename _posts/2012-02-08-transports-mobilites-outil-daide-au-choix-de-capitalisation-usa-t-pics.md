@@ -18,12 +18,10 @@ Transportation Project Impact Case Studies (T-PICS) is a web tool that provides 
 
  
 
-T-PICS is available at [transportationforcommunities.com/t-pics]()." 
+T-PICS is available at transportationforcommunities.com/t-pics." 
 
  
 
  
 
-[Transportation Project Impact Case Studies]() from [The National Academies]() on [Vimeo]().
-
-"2012-02-08 11:45:18https://transportsdufutur.ademe.fr/2012/02/transports-mobilites-outil-daide-au-choix-de-capitalisation-usa-t-pics.htmlassistant de mobilité|autorité des transports|cité|collectivité|donnée data|données réelles|Efficacité énergétique|gouvernance|Infrastructure|innovation|internet|ITS|management de la mobilité|open innovation|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattransports-mobilites-outil-daide-au-choix-de-capitalisation-usa-t-pics2015-07-21 16:36:37
+Transportation Project Impact Case Studies from The National Academies on Vimeo.

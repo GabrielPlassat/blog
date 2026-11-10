@@ -19,7 +19,7 @@ Alors que [**Paris Tech Review**](http://www.paristechreview.com/2012/02/13/aven
 
  
 
-Et c'est bien là le problème, les nouveaux entrants, ceux qui vont modifier les usages, les pratiques de mobilités pourraient ne pas être les constructeurs automobile eux-mêmes. Et [**l'article du Times**]() montre la scission en mentionnant non pas VW, Audi ou Fiat, mais RelayRides, Getaround et JustShareIt. 
+Et c'est bien là le problème, les nouveaux entrants, ceux qui vont modifier les usages, les pratiques de mobilités pourraient ne pas être les constructeurs automobile eux-mêmes. Et [**l'article du Times**](http://www.time.com/time/specials/packages/article/0,28804,2094921_2094923_2106141,00.html?xid=tweetbut) montre la scission en mentionnant non pas VW, Audi ou Fiat, mais RelayRides, Getaround et JustShareIt. 
 
  
 
@@ -27,14 +27,12 @@ L'objet automobile n'est pas ici sacralisé, sa technologie est remise à sa pla
 
  
 
-Le Times indique alors : "But the rise of collaborative consumption, in which people rent or lend everything from a hammer (at [borrowtools.org]()) to a cocktail dress (at [renttherunway.com]()), suggests that enough people are comfortable with the idea to make the business model work. "We have moved into an era where access to good services and talent trumps the ownership of them," says Lisa Ganksy, author of *The Mesh: Why The Future of Business is Sharing* and a RelayRides advisor.". Oui le peer to peer n'est pas pour tout le monde, mais il est observé que de plus en plus de personne s'y intéresse. Et là les noms des investisseurs s'appellent [**Google Ventures**](), [**August Ventures**]() et maintenant GM.
+Le Times indique alors : "But the rise of collaborative consumption, in which people rent or lend everything from a hammer (at borrowtools.org) to a cocktail dress (at renttherunway.com), suggests that enough people are comfortable with the idea to make the business model work. "We have moved into an era where access to good services and talent trumps the ownership of them," says Lisa Ganksy, author of *The Mesh: Why The Future of Business is Sharing* and a RelayRides advisor.". Oui le peer to peer n'est pas pour tout le monde, mais il est observé que de plus en plus de personne s'y intéresse. Et là les noms des investisseurs s'appellent **Google Ventures**, **August Ventures** et maintenant GM.
 
  
 
-"Michael Arrington, the TechCrunch blog founder turned investor, who is backing RelayRides' rival Getaround, says he expects peer-to-peer car-sharing to become a multibillion-dollar industry in the U.S as well. "There are lots of these business models that facilitate seemingly crazy transactions between strangers, like [**Prosper **]()[where people lend money to strangers] and [**Airbnb**]() [where people rent out rooms in their homes to strangers].".
+"Michael Arrington, the TechCrunch blog founder turned investor, who is backing RelayRides' rival Getaround, says he expects peer-to-peer car-sharing to become a multibillion-dollar industry in the U.S as well. "There are lots of these business models that facilitate seemingly crazy transactions between strangers, like **Prosper **[where people lend money to strangers] and **Airbnb** [where people rent out rooms in their homes to strangers].".
 
  
 
 Les innovations principales imaginées ici ne sont pas telle ou telle technologie permettant de gagner 1 ou 5% de consommation, mais bien de nouvelles approches du client basées sur les changements des pratiques réelles des citoyens. Or ces changements sont porteurs à la fois de sens, d'économie (monétaire), et d'économie énergétique. La question devient : "**The real issue isn't will people rent cars?' It's who can control their costs best**".
-
-"2012-02-14 09:59:03https://transportsdufutur.ademe.fr/2012/02/le-choc-des-cultures-2-articles-2-visions-du-monde-qui-vient.htmlautopartage|citoyen|confiance|covoiturage|données réelles|Efficacité énergétique|General Motor|google|intelligence collective|internet|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-choc-des-cultures-2-articles-2-visions-du-monde-qui-vient2015-07-21 16:36:36

@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2017/04/connaitre-pollution-voitures.html"
 tags: ["Acteur historique des Mobilités et Logistiques", "art de la guerre", "cité", "citoyen", "collectivité", "congestion", "données réelles", "externalité", "fiscalité", "guide d'achat", "Non classé", "qualité de l'air", "Que sait-on de nos mobilités ?"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Stratégies numériques"
 redirect_from:
   - /2017/04/04/connaitre-pollution-voitures/
 ---

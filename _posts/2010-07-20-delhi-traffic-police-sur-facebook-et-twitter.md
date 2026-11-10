@@ -15,7 +15,7 @@ Depuis plusieurs mois, la **[police de Delhi](http://www.facebook.com/l.php?u=ht
 
  
 
-[![]()]()
+
 
  
 
@@ -24,7 +24,7 @@ Depuis plusieurs mois, la **[police de Delhi](http://www.facebook.com/l.php?u=ht
  
 Il est alors possible d'interroger sur les conditions de trafic dans telle ou telle partie de la ville, mais également de fournir des informations (photos, videos) de délits ou d'infractions. 
 
-En complément, un **[service de SMS]()** est proposé pour indiquer en temps réel sur des parcours sélectionnés par chaque usager, les temps de parcours et incidents. "All a person needs to do is SMS "Join DTP'' to 09219592195 to subscribe to the service. The alerts will be sent automatically as SMSes. To unsubscribe, commuters can SMS "Leave DTP'' to the same number and the alerts will stop,'' said Ajay Chadha, special commissioner of police (traffic). 
+En complément, un **[service de SMS](http://timesofindia.indiatimes.com/city/delhi/Cops-to-SMS-jam-updates/articleshow/6178854.cms)** est proposé pour indiquer en temps réel sur des parcours sélectionnés par chaque usager, les temps de parcours et incidents. "All a person needs to do is SMS "Join DTP'' to 09219592195 to subscribe to the service. The alerts will be sent automatically as SMSes. To unsubscribe, commuters can SMS "Leave DTP'' to the same number and the alerts will stop,'' said Ajay Chadha, special commissioner of police (traffic). 
 
  
 

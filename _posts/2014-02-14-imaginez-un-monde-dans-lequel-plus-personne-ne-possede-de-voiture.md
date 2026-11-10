@@ -14,11 +14,11 @@ Le dernier [**article**](http://m.theatlanticcities.com/commute/2014/02/imagine-
 
  
 
-*It's a game-changer," says autonomous car researcher [Alain L. Kornhauser]() of Princeton University. "What I think is going to happen is that nobody will own a car. … If you can get [mobility] by the drink, you won't buy the bottle."*
+*It's a game-changer," says autonomous car researcher [Alain L. Kornhauser](http://www.princeton.edu/~alaink/) of Princeton University. "What I think is going to happen is that nobody will own a car. … If you can get [mobility] by the drink, you won't buy the bottle."*
 
  
 
-Ceci doit être mis en parallèle avec la rapidité d'execution de Google dans le domaine. Ce n'est plus une question ou une option. Cet acteur arrive dans la mobilité (voir la [**vidéo Google History**]() depuis Google Map, Google Now, Google hotel finder, Uber, [**Waze**]()), dans la robotique (lire la [**fiction N°6**]() basée sur l'achat récent de 8 sociétés de robotiques), dans l'automobile (avec notamment [**open Automotive alliance**]()). Il s'y emploie avec une énergie et une rapidité inédite.
+Ceci doit être mis en parallèle avec la rapidité d'execution de Google dans le domaine. Ce n'est plus une question ou une option. Cet acteur arrive dans la mobilité (voir la [**vidéo Google History**](http://www.youtube.com/watch?v=0o9H7KdS_JE) depuis Google Map, Google Now, Google hotel finder, Uber, [**Waze**]({{ site.baseurl }}/2013/06/google-achete-waze-sans-doute-une-evolution-majeure-dans-le-domaine-des-transports/)), dans la robotique (lire la [**fiction N°6**]({{ site.baseurl }}/2013/12/fiction-n6-big-dog/) basée sur l'achat récent de 8 sociétés de robotiques), dans l'automobile (avec notamment [**open Automotive alliance**](http://www.openautoalliance.net/#about)). Il s'y emploie avec une énergie et une rapidité inédite.
 
  
 
@@ -32,15 +32,15 @@ Ceci doit être mis en parallèle avec la rapidité d'execution de Google dans l
 
  
 
-Complétés par des offres traditionnels de transports collectifs, de modes actifs et de services de mobilité, la dépossession de l'objet automobile peut se décrire d'un point de vue technique, économique et également énergétique et environnemental (lire l'article [**Dans le monde de la rareté le partage ...**]()). De nouveaux équilibres systémiques auront lieu entre tous ces modes, certains disparaitront en fonction des territoires.
+Complétés par des offres traditionnels de transports collectifs, de modes actifs et de services de mobilité, la dépossession de l'objet automobile peut se décrire d'un point de vue technique, économique et également énergétique et environnemental (lire l'article [**Dans le monde de la rareté le partage ...**]({{ site.baseurl }}/2012/06/dans-le-monde-de-la-rarete-le-partage-dun-vehicule-ne-sera-plus-une-option/)). De nouveaux équilibres systémiques auront lieu entre tous ces modes, certains disparaitront en fonction des territoires.
 
  
 
-*The worlds of transit and car-share are already starting to converge. In Portland, Zipcar [recently partnered]() with TriMet, the city's transit agency, to offer riders a new option for the first-and-last mile of their commute. That's a sign the demand for a mobility network free of car ownership is growing even without a driverless element. Cities that fail to start asking questions a shared autonomous future now risk making transport investments that could become irrelevant even before they're completed.*
+*The worlds of transit and car-share are already starting to converge. In Portland, Zipcar [recently partnered](http://news.trimet.org/2014/01/trimet-and-zipcar-join-together-to-increase-transportation-options/) with TriMet, the city's transit agency, to offer riders a new option for the first-and-last mile of their commute. That's a sign the demand for a mobility network free of car ownership is growing even without a driverless element. Cities that fail to start asking questions a shared autonomous future now risk making transport investments that could become irrelevant even before they're completed.*
 
  
 
-Mais les leaders seront ceux qui auront inventé de nouveaux imaginaires, de nouvelles expériences de mobilités rendues possibles par ces techniques. Et pour cela, ils seront en empathie avec la multitude d'usagers, permettant aux innovations de se brancher sur leur plateforme. La plateforme permet non seulement de proposer des services, des informations, des ressources mais également d'apprendre à connaître, *sans cesse*, les usages, les pratiques, pour, *en permanence*, corriger, ajuster, optimiser, modifier la plateforme. Plus elle est utilisée, plus elle est séduisante, donc utilisée, et plus les innovations viennent s'y connecter, augmentant encore son attractivité. La démarche est radicalement opposée aux concepts d'une plateforme automobile fondée sur un principe de sous-traitants, de chaîne de commandement verticale descendante (lire la fiction [**La plateformisation a déjà commencé**]()).
+Mais les leaders seront ceux qui auront inventé de nouveaux imaginaires, de nouvelles expériences de mobilités rendues possibles par ces techniques. Et pour cela, ils seront en empathie avec la multitude d'usagers, permettant aux innovations de se brancher sur leur plateforme. La plateforme permet non seulement de proposer des services, des informations, des ressources mais également d'apprendre à connaître, *sans cesse*, les usages, les pratiques, pour, *en permanence*, corriger, ajuster, optimiser, modifier la plateforme. Plus elle est utilisée, plus elle est séduisante, donc utilisée, et plus les innovations viennent s'y connecter, augmentant encore son attractivité. La démarche est radicalement opposée aux concepts d'une plateforme automobile fondée sur un principe de sous-traitants, de chaîne de commandement verticale descendante (lire la fiction [**La plateformisation a déjà commencé**]({{ site.baseurl }}/2014/01/fiction-n7-cc/)).
 
  
 
@@ -48,11 +48,11 @@ Mais les leaders seront ceux qui auront inventé de nouveaux imaginaires, de nou
 
  
 
-De nouveaux contrats seront probablement inventés entre ces leaders et la multitude. Les citoyens étant quelquefois utilisateurs simples, quelquefois producteurs de données, quelquefois producteurs de services, ces parcours seront valorisés et capitalisés dans des solutions d'aggrégation de confiance et de réputation. Probablement, naitront des plateformes transversales de réputation, innovation majeure déjà abordée dans cet article ([**Votre réputation sera votre monnaie et la base de votre implication**]()). La gestion des données personnelles aura progressée et une multitude de solutions seront proposées : depuis la vente directe (lire l'article [**Vos données à 8 dollars par mois**]()) jusqu'à des coffres forts individuels alimentés par toutes vos actions et dont vous aurez la gestion (lire l'article [**Users can regain control of their data**]()).
+De nouveaux contrats seront probablement inventés entre ces leaders et la multitude. Les citoyens étant quelquefois utilisateurs simples, quelquefois producteurs de données, quelquefois producteurs de services, ces parcours seront valorisés et capitalisés dans des solutions d'aggrégation de confiance et de réputation. Probablement, naitront des plateformes transversales de réputation, innovation majeure déjà abordée dans cet article ([**Votre réputation sera votre monnaie et la base de votre implication**]({{ site.baseurl }}/2013/04/votre-reputation-numerique-sera-votre-monnaie-et-la-base-de-votre-implication-altruiste/)). La gestion des données personnelles aura progressée et une multitude de solutions seront proposées : depuis la vente directe (lire l'article [**Vos données à 8 dollars par mois**](http://www.technologyreview.com/news/524621/sell-your-personal-data-for-8-a-month/?utm_campaign=socialsync&utm_medium=social-post&utm_source=twitter)) jusqu'à des coffres forts individuels alimentés par toutes vos actions et dont vous aurez la gestion (lire l'article [**Users can regain control of their data**](http://www.forbes.com/sites/adamtanner/2014/02/13/at-last-users-can-regain-control-of-their-big-data/?utm_campaign=techtwittersf&utm_source=twitter&utm_medium=social)).
 
  
 
-Les plateformes et les usagers (lire la [**MétaNote N°18 Apprenons à connaître les citoyens du futur**]()) seront engagés dans des processus de co-innovation techniques et sociales permanents fondés sur ces nouveaux contrats. 
+Les plateformes et les usagers (lire la [**MétaNote N°18 Apprenons à connaître les citoyens du futur**]({{ site.baseurl }}/2013/12/quelles-sont-les-evolutions-a-venir-de-nos-structures-familiales-de-nos-communautes-et-donc-de-nous/)) seront engagés dans des processus de co-innovation techniques et sociales permanents fondés sur ces nouveaux contrats. 
 
  
 
@@ -60,7 +60,7 @@ Les plateformes et les usagers (lire la [**MétaNote N°18 Apprenons à connaît
 
  
 
-En conclusion, les innovations sur les véhicules ne seront qu'un détail de l'histoire. Déjà aujourd'hui ils n'étonnent personne. Par contre, des mutations majeures auront lieu en s'appuyant sur ces nouvelles ressources robotisées. Malheureusement pour les acteurs du domaine, il est fort probable qu'il n'y aura pas plus de 3 ou 4 plateformes mondiales. Les conséquences pour les fabricants de voitures seront inédites puisqu'ils n'auront plus la relation avec les citoyens du futur (lire la [**MétaNote N°17 La révolution numérique et la fin de l'automobile**]()).
+En conclusion, les innovations sur les véhicules ne seront qu'un détail de l'histoire. Déjà aujourd'hui ils n'étonnent personne. Par contre, des mutations majeures auront lieu en s'appuyant sur ces nouvelles ressources robotisées. Malheureusement pour les acteurs du domaine, il est fort probable qu'il n'y aura pas plus de 3 ou 4 plateformes mondiales. Les conséquences pour les fabricants de voitures seront inédites puisqu'ils n'auront plus la relation avec les citoyens du futur (lire la [**MétaNote N°17 La révolution numérique et la fin de l'automobile**]({{ site.baseurl }}/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer/)).
 
  
 

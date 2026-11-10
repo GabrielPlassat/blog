@@ -11,7 +11,7 @@ redirect_from:
   - /2013/02/08/concepts-de-velos-en-libre-service/
 ---
 
-La [**MétaNote N°12**]({{ site.baseurl }}/2011/05/metanote-tdf-12-lavenir-du-velo/) propose une certaine vision du futur pour le vélo. Les concepts [**d'un concours de vélos en libre service**](http://bicycledesign.net/2013/02/vote-for-the-winner-of-the-isuda-bike-share-design-competition/) vont dans le même sens. La mise à disposition de vélo en libre service permet notamment d'apporter vite et partout dans la ville une certaine quantité de vélo. Cette masse" de vélo en circulation redonne une place à ce mode en relatif aux autres, notamment à la voiture, dans la "[**bataille de la route**]()". Cela accélère le report modal sur le vélo en général qu'il soit public ou privé.
+La [**MétaNote N°12**]({{ site.baseurl }}/2011/05/metanote-tdf-12-lavenir-du-velo/) propose une certaine vision du futur pour le vélo. Les concepts [**d'un concours de vélos en libre service**](http://bicycledesign.net/2013/02/vote-for-the-winner-of-the-isuda-bike-share-design-competition/) vont dans le même sens. La mise à disposition de vélo en libre service permet notamment d'apporter vite et partout dans la ville une certaine quantité de vélo. Cette masse" de vélo en circulation redonne une place à ce mode en relatif aux autres, notamment à la voiture, dans la "[**bataille de la route**]({{ site.baseurl }}/2012/10/et-si-le-velo-reprenait-sa-place-dans-la-bataille-de-la-route/)". Cela accélère le report modal sur le vélo en général qu'il soit public ou privé.
 
  
 
@@ -23,16 +23,16 @@ A noter également une solution très élégante de vélo en libre service dont 
 
  
 
- [![]()]()
+ 
  
 
- [![]()]() 
-
- [![]()]()
+  
 
  
 
- [![]()]()
+ 
+
+ 
 
  
 

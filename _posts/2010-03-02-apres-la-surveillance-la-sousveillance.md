@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: " MARGIN: 0pt\"\"><span style=\"\"FONT-FAMILY: Calibri\"\"><font size=\"\"3\"\">Cet équilibre surveillance/sousveillance pourrait permettre de maîtriser les dérives, d’instaurer un miroir, et donner une position forte à l’organisme de contrôle comme la CNIL, en espérant que la sousveillance ne soit pas, à son tour, gérée par des sociétés privées.<o:p></o:p></font></span></p>\""
 tags: ["assurance", "citoyen", "données réelles", "internet", "partage de données", "PAYD", "qualité de l'air"]
-theme: "Données & services numériques"
+theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2010/03/02/apres-la-surveillance-la-sousveillance/
 ---
@@ -97,18 +97,14 @@ Certains observateurs, comme Steve Mann, un ancien du Media Lab du MIT, ou l’a
 
  
 
-Dans le domaine des transports, nous devons imaginer cette deuxième phase de sousveillance et d’équiveillance. Certains constructeurs proposent des éthylotests anti-démarrage (voir **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**), c’est déjà un mécanisme d’équiveillance puisque je m’autocontrôle. Le système « Pay As You Drive » est également d’une certaine façon, une autosurveillance par l'intermédiaire d'une société privée qui me récompense pour bonne conduite". Il faut rappeler que le gouvernement Hollandais essaye de mettre en oeuvre un tel système à tous les véhicules du pays pour gérer notamment la congestion (**[Roadpricing]()**).
+Dans le domaine des transports, nous devons imaginer cette deuxième phase de sousveillance et d’équiveillance. Certains constructeurs proposent des éthylotests anti-démarrage (voir **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**), c’est déjà un mécanisme d’équiveillance puisque je m’autocontrôle. Le système « Pay As You Drive » est également d’une certaine façon, une autosurveillance par l'intermédiaire d'une société privée qui me récompense pour bonne conduite". Il faut rappeler que le gouvernement Hollandais essaye de mettre en oeuvre un tel système à tous les véhicules du pays pour gérer notamment la congestion (**[Roadpricing](http://www.ertico.com/en/news/ertico_newsroom/news_update_on_the_dutch_road_pricing_project.htm)**).
 
  
 
-La sousveillance pourrait voir le jour grâce aux communautés sur internet qui développeront à la fois des outils et  des capteurs (voir **[ici ]()**par exemple). Ainsi par exemple, les cartes de bruit mises en œuvre dans certaines villes (voir **[ici ]()**à Nice) par les autorités locales, pourraient être remises en cause par des cartes créées par des citoyens avec d’autres moyens comme **[la montre verte]()**. De la même manière, localement, des communautés pourraient développer des outils/capteurs pour contrôler la qualité de l’air, et, comme un particulier en Allemagne, porter plainte en cas de dépassement des limites (voir **[ici]()**), ou gérer au mieux leurs espaces publics à l’échelle d’un quartier (congestion, livraison, stationnement…)
+La sousveillance pourrait voir le jour grâce aux communautés sur internet qui développeront à la fois des outils et  des capteurs (voir **[ici ](http://www.futuribles-revue.com/index.php?option=article&access=doi&doi=10.1051/futur/200935325)**par exemple). Ainsi par exemple, les cartes de bruit mises en œuvre dans certaines villes (voir **[ici ](http://www.cnt.fr/UserFiles/File/dossiers/44%20tonnes/CNT%2044T%20mot%20du%20President%2001oct2009.pdf)**à Nice) par les autorités locales, pourraient être remises en cause par des cartes créées par des citoyens avec d’autres moyens comme **la montre verte**. De la même manière, localement, des communautés pourraient développer des outils/capteurs pour contrôler la qualité de l’air, et, comme un particulier en Allemagne, porter plainte en cas de dépassement des limites (voir **[ici](http://www.dieselnet.com/news/2010/02cummins.php)**), ou gérer au mieux leurs espaces publics à l’échelle d’un quartier (congestion, livraison, stationnement…)
 
  
 
  
 
 Cet équilibre surveillance/sousveillance pourrait permettre de maîtriser les dérives, d’instaurer un miroir, et donner une position forte à l’organisme de contrôle comme la CNIL, en espérant que la sousveillance ne soit pas, à son tour, gérée par des sociétés privées.
-
-"2010-03-02 15:44:19https://transportsdufutur.ademe.fr/2010/03/apres-la-surveillance-la-sousveillance.htmlMétaNotesassurance|citoyen|données réelles|internet|partage de données|PAYD|qualité de l'airpublish18gabriel plassatapres-la-surveillance-la-sousveillance2017-11-02 16:38:34MARGIN: 0pt"">Cet équilibre surveillance/sousveillance pourrait permettre de maîtriser les dérives, d’instaurer un miroir, et donner une position forte à l’organisme de contrôle comme la CNIL, en espérant que la sousveillance ne soit pas, à son tour, gérée par des sociétés privées.
-
-"

@@ -31,6 +31,6 @@ Pour clore cette rencontre, il vous sera présenté plusieurs chantiers qui se p
 
  
 
-[Télécharger le coupon-réponse "Les devenirs des mobilités : regards croisés d'étudiants !"]()
+[Télécharger le coupon-réponse "Les devenirs des mobilités : regards croisés d'étudiants !"]({{ site.baseurl }}/assets/images/2011/02/Novincie-1603-2011.pdf)
 
 "

@@ -24,25 +24,13 @@ L'ADEME vient d'ouvrir un [**Appel à Manifestation d'Intérêt sur ce sujet des
 
  La commission Européenne dans son document *Flightpath 2050, Europe's vision for Aviation* propose comme objectif : 90% of travellers within Europe are able to complete their journey, door-to-door within **4 hours**. Passengers and freight are able to transfer seamlessly between transport modes to reach the final destination smoothly, predictably and on-time.". 
 
-La multimodalité est donc au coeur du transport aérien, au coeur des industries du voyage comme Amadeus. Et sur ce sujet, l'accès, la gestion, la mise en forme des données deviennent des enjeux majeurs. Ainsi des acteurs comme Google se place nettement dans le domaine du voyage : avion, train, TC, hotel, météo ... (voir [**ICI**]()), ou encore le [**peer to peer**]() pourrait faire disparaître des intermédiaires à faible valeur ajoutée.
+La multimodalité est donc au coeur du transport aérien, au coeur des industries du voyage comme Amadeus. Et sur ce sujet, l'accès, la gestion, la mise en forme des données deviennent des enjeux majeurs. Ainsi des acteurs comme Google se place nettement dans le domaine du voyage : avion, train, TC, hotel, météo ... (voir **ICI**), ou encore le **peer to peer** pourrait faire disparaître des intermédiaires à faible valeur ajoutée.
 
  
 
-L'ADEME vient d'ouvrir un [**Appel à Manifestation d'Intérêt sur ce sujet des mobilités occasionnelles**](). Il s'agit d'une opportunité pour tous les acteurs ...
+L'ADEME vient d'ouvrir un [**Appel à Manifestation d'Intérêt sur ce sujet des mobilités occasionnelles**]({{ site.baseurl }}/2011/12/ami-chaines-logistiques-et-mobilites-occasionnelles-des-personnes-ademe/). Il s'agit d'une opportunité pour tous les acteurs ...
 
- [From chaos to_collaboration]() View more [documents]() from [Les transports du futur]() [Flightpath2050]() 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- View more [documents]() from [Les transports du futur](). "2012-01-13 15:09:43https://transportsdufutur.ademe.fr/2012/01/le-futur-du-voyage-from-chaos-to-collaboration.htmlassistant de mobilité|autorité des transports|aviation|citoyen|connectivité|donnée data|intelligence collective|voyagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-futur-du-voyage-from-chaos-to-collaboration2015-07-21 16:36:38>[From chaos to_collaboration]() View more [documents]() from [Les transports du futur]() [Flightpath2050]() 
+ From chaos to_collaboration View more documents from Les transports du futur Flightpath2050 
 
  
 
@@ -54,4 +42,4 @@ L'ADEME vient d'ouvrir un [**Appel à Manifestation d'Intérêt sur ce sujet des
 
  
 
- View more [documents]() from [Les transports du futur](). "
+ View more documents from Les transports du futur.

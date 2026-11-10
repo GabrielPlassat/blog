@@ -11,13 +11,13 @@ redirect_from:
   - /2010/09/07/plate-forme-dinformation-du-plan-vehicule-vert-breton/
 ---
 
-Faisant suite à un précédent article détaillant la journée **La Bretagne, précurseur d’un nouveau standard de mobilité !" (voir [ici]()), **[une plate forme ]()est proposée pour accéder à toutes les informations relatives à ce projet régional qui a vocation à diffuser largement l'approche, les méthodes et les outils.
+Faisant suite à un précédent article détaillant la journée **La Bretagne, précurseur d’un nouveau standard de mobilité !" (voir [ici]( {{ site.baseurl }}/2010/07/synthese-conference-plan-vehicule-vert-breton-du-1er-juillet-2010/)), **[une plate forme ](http://www.themavision.fr/jcms/c_70658/projet-editorial)est proposée pour accéder à toutes les informations relatives à ce projet régional qui a vocation à diffuser largement l'approche, les méthodes et les outils.
 
  
 
 La filière véhicule bretonne est un enjeu stratégique pour la région. En cohérence avec la stratégie régionale, la plateforme Themavision Véhicules et Mobilité propose un éclairage des évolutions de la filière.
 
- [Rennes]() View more [presentations]() from [transportsdufutur](). 
+ [Rennes](http://www.slideshare.net/transportsdufutur/rennes) View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 
  
 

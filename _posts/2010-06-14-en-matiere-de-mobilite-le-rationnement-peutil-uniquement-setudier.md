@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/06/en-matiere-de-mobilite-le-rationnement-peutil-uniquement-setudier.html"
 tags: ["autarcie", "collectivité", "economie circulaire", "Efficacité énergétique", "internet", "living lab", "partage de données", "Plateforme d'idées"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Données & services numériques"
 redirect_from:
   - /2010/06/14/en-matiere-de-mobilite-le-rationnement-peutil-uniquement-setudier/
 ---
@@ -28,11 +28,11 @@ En France, le LET étudie ce concept de rationnement, de quotas. Plusieurs docum
 - pour nourrir des réflexions plus politiques, et montrer la ou les voies pour aller vers une certaine forme de maîtrise de nos mobilités. 
  
 
-1. Passer de 5 tonnes de carbone par an et par habitant à 0.5 implique des changements d'habitude, de modes de vie, avec des barrières non négligeables. Ces barrières ne seront identifiables qu'en expérimentant dans la vraie vie", ce qui rejoint la notion de living lab (déjà abordée **[ici]()**) : au niveau personnel, au niveau du foyer familial, d'un quartier, d'une ville ou d'un pays. La comptabilité des émissions pourrait passer par une carte, et poser la question de la protection des données privées.
+1. Passer de 5 tonnes de carbone par an et par habitant à 0.5 implique des changements d'habitude, de modes de vie, avec des barrières non négligeables. Ces barrières ne seront identifiables qu'en expérimentant dans la vraie vie", ce qui rejoint la notion de living lab (déjà abordée **[ici](http://www.let.fr/fr/annuaire/auteurs/craux/recherches4.html)**) : au niveau personnel, au niveau du foyer familial, d'un quartier, d'une ville ou d'un pays. La comptabilité des émissions pourrait passer par une carte, et poser la question de la protection des données privées.
 
  
 
-2. Ce "choc pédagogique" nécessite des conseils, des outils. Le partage de certaines données doit conduire d'une part à mieux vivre cette expérimentation et d'autre part à mieux capitaliser nos réussites, nos échecs, et les chemins empruntés. Cette tendance au partage de données peut aller loin, comme le montre les actions détaillées **[ici]()**.
+2. Ce "choc pédagogique" nécessite des conseils, des outils. Le partage de certaines données doit conduire d'une part à mieux vivre cette expérimentation et d'autre part à mieux capitaliser nos réussites, nos échecs, et les chemins empruntés. Cette tendance au partage de données peut aller loin, comme le montre les actions détaillées **[ici]({{ site.baseurl }}/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab/)**.
 
  
 
@@ -40,6 +40,6 @@ En France, le LET étudie ce concept de rationnement, de quotas. Plusieurs docum
 
  
 
-Il est intéressant de noter que ces démarches partent "du bas", et se cristallisent au niveau des villes, les "**[villes en transition]()**" ou  "**[transitions towns]()**", là où il faudra s'organiser pour partager l'énergie et l'alimentaire disponibles. Le partage des moyens pour y arriver doit, lui, être mondial.
+Il est intéressant de noter que ces démarches partent "du bas", et se cristallisent au niveau des villes, les "**[villes en transition](http://villesentransition.net/)**" ou  "**[transitions towns](http://www.transitiontowns.org/)**", là où il faudra s'organiser pour partager l'énergie et l'alimentaire disponibles. Le partage des moyens pour y arriver doit, lui, être mondial.
 
 "

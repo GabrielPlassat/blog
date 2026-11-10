@@ -23,20 +23,4 @@ Les informations à connaître, les tendances à prévoir, les décisions à pre
 
  
 
-En voici un exemple concret, appliqué aux Transports à Séoul, développé en partenariat avec **[Cisco]()**. Ou comment une entreprise qui ne produit pas de véhicule peut bouleverser la façon dont nous nous déplacerons. Noter également que ce type de solution ne peut se développer que si les données sont disponibles et partagées, et que si l'autorité des transports devient multimodale, temps réel, "prédictive".
-
- 
-
- 
-
- 
-
-"2011-04-14 10:14:07https://transportsdufutur.ademe.fr/2011/04/personnal-travel-assistant-assistant-personnel-de-mobilite-seoul.htmlassistant de mobilité|autorité des transports|données réelles|internet|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpersonnal-travel-assistant-assistant-personnel-de-mobilite-seoul2015-07-21 16:37:24>En voici un exemple concret, appliqué aux Transports à Séoul, développé en partenariat avec **[Cisco]()**. Ou comment une entreprise qui ne produit pas de véhicule peut bouleverser la façon dont nous nous déplacerons. Noter également que ce type de solution ne peut se développer que si les données sont disponibles et partagées, et que si l'autorité des transports devient multimodale, temps réel, "prédictive".
-
- 
-
- 
-
- 
-
-"
+En voici un exemple concret, appliqué aux Transports à Séoul, développé en partenariat avec **Cisco**. Ou comment une entreprise qui ne produit pas de véhicule peut bouleverser la façon dont nous nous déplacerons. Noter également que ce type de solution ne peut se développer que si les données sont disponibles et partagées, et que si l'autorité des transports devient multimodale, temps réel, "prédictive".

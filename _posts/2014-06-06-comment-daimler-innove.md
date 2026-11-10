@@ -27,7 +27,7 @@ Cette structure Mobility est hébergée par **[Daimler Financial Services](http:
 
  
 
-Les services de mobilité sont hébergés dans Moovel : Avec les Services car2go, car2go black, Park2gether et l'application **[moovel]().** Comme d'autres applications du même type, Moovel regroupe les offres de différents fournisseurs de mobilité et trouve le chemin optimal d'un point A à un point B. Les partenaires vont de car2go, du covoiturage ou des loueurs de vélos jusqu'aux transports en commun et au chemin de fer allemand.
+Les services de mobilité sont hébergés dans Moovel : Avec les Services car2go, car2go black, Park2gether et l'application **moovel.** Comme d'autres applications du même type, Moovel regroupe les offres de différents fournisseurs de mobilité et trouve le chemin optimal d'un point A à un point B. Les partenaires vont de car2go, du covoiturage ou des loueurs de vélos jusqu'aux transports en commun et au chemin de fer allemand.
 
  
 
@@ -43,12 +43,4 @@ La relation avec la Multitude, contextualisée, riche, doit être l'obsession de
 
  
 
-**[Bruno Marion]() vient de publier un livre "Chaos, Mode d'emploi, solutions individuelles et collectives" visant à fournir de nouvelles lunettes pour voir, tel qu'il est, le monde Chaotique et pour pouvoir y agir pleinement. **Pour le moment, Daimler Mobility Service met en oeuvre des projets relativement classiques et observés par ailleurs, mais le choix stratégique de séparer Mobility Service peut permettre de penser et d'agir autrement.
-
-"2014-06-06 16:09:57https://transportsdufutur.ademe.fr/2014/06/comment-daimler-innove.htmlinnovation|intelligence collective|multimodes|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcomment-daimler-innove2015-07-21 16:35:32>La relation avec la Multitude, contextualisée, riche, doit être l'obsession de cette Business Unit. La recherche des modèles d'affaires ne pourra se faire qu'en itérant sans cesse au plus près de la multitude. Les interfaces, les services, les fonctionnalités et leur design ne seront jamais terminés. Dès lors, les critères de décision de tous les projets *Mobilité* n'auront aucun rapport avec ceux de l'univers Automobile. **Centrés sur l'expérience Utilisateur, profondément tissés et imprégnés de numérique, ces projets devront sortir d'une vision linéaire et verticale puisque l'itération avec la multitude y est centrale et par nature imprévisible à priori. Les projets portés devront être basés sur des processus issus du chaos, donc cycliques et "fractals". **
-
- 
-
-**[Bruno Marion]() vient de publier un livre "Chaos, Mode d'emploi, solutions individuelles et collectives" visant à fournir de nouvelles lunettes pour voir, tel qu'il est, le monde Chaotique et pour pouvoir y agir pleinement. **Pour le moment, Daimler Mobility Service met en oeuvre des projets relativement classiques et observés par ailleurs, mais le choix stratégique de séparer Mobility Service peut permettre de penser et d'agir autrement.
-
-"
+**Bruno Marion vient de publier un livre "Chaos, Mode d'emploi, solutions individuelles et collectives" visant à fournir de nouvelles lunettes pour voir, tel qu'il est, le monde Chaotique et pour pouvoir y agir pleinement. **Pour le moment, Daimler Mobility Service met en oeuvre des projets relativement classiques et observés par ailleurs, mais le choix stratégique de séparer Mobility Service peut permettre de penser et d'agir autrement.

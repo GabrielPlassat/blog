@@ -6,7 +6,7 @@ source: brico
 source_name: "Bricologie & Sérendipité"
 original_url: "https://plassat.wordpress.com/2014/04/28/letre-et-lecran-la-revolution-ontophanique/"
 tags: []
-theme: "Stratégies numériques"
+theme: "Intelligence collective & innovation"
 ---
 
 La thèse de Stéphane Vial rassemble des points essentiels à connaître concernant la révolution numérique, son livre [**"l'être et l'écran"**](http://t.co/8YgGkSLoxs) vient de paraître.

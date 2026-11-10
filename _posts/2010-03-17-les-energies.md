@@ -38,11 +38,11 @@ Les compagnies deviennent des énergéticiens multi-produits travaillant le gaz
 
  
  
-- des alliances, partenariats, acquisitions pour co-produire des produits /services (voir **[ici]()** un exemple) ou à des batailles pour conserver les ressources primaires (il y a déjà aujourd'hui plusieurs utilisateurs d'huile de palme : industries alimentaire, des savons et demain des énergies), 
+- des alliances, partenariats, acquisitions pour co-produire des produits /services (voir **[ici]({{ site.baseurl }}/2009/11/quel-sera-le-prochain-cygne-noir/)** un exemple) ou à des batailles pour conserver les ressources primaires (il y a déjà aujourd'hui plusieurs utilisateurs d'huile de palme : industries alimentaire, des savons et demain des énergies), 
 - des bilans environnementaux multicritères de plus en plus complexes variables dans le temps (en fonction de la demande d'un ou plusieurs co-produits) et dans l'espace (les marchés ne sont pas homogènes selon les territoires). 
  
 
-Pour favoriser l’innovation, le progrès continu, il nous faudra, comme le propose la Directive Européenne sur les véhicules propres et efficaces, utiliser l’approche « **technology neutral** » et, plutôt que de choisir des solutions technologiques à priori, définir des **critères de performance** : polluants, GES, ressources en eau, en métaux précieux, production de déchets recyclables, nucléaires, du **puits à la roue,** du berceau à la tombe… Cette démarche complexe, permettant de proposer des bilans par filière, [**ne sera sans doute jamais terminée**](), de « nouveaux » polluants sont découverts ou plutôt de nouveaux impacts sanitaires (comme le NO2), de nouveaux liens sont établis comme énergie-alimentaire. C’est pourtant la seule voie qui nous permettra, collectivement en impliquant le plus largement possible la société – ONG, citoyens engagés, industriels, pouvoirs publics nationaux, locaux, européens, de construire à la fois des indicateurs de performance, des méthodes de partage de connaissance et de débat, et finalement de [**choisir ensemble les solutions les mieux adaptées**]().
+Pour favoriser l’innovation, le progrès continu, il nous faudra, comme le propose la Directive Européenne sur les véhicules propres et efficaces, utiliser l’approche « **technology neutral** » et, plutôt que de choisir des solutions technologiques à priori, définir des **critères de performance** : polluants, GES, ressources en eau, en métaux précieux, production de déchets recyclables, nucléaires, du **puits à la roue,** du berceau à la tombe… Cette démarche complexe, permettant de proposer des bilans par filière, **ne sera sans doute jamais terminée**, de « nouveaux » polluants sont découverts ou plutôt de nouveaux impacts sanitaires (comme le NO2), de nouveaux liens sont établis comme énergie-alimentaire. C’est pourtant la seule voie qui nous permettra, collectivement en impliquant le plus largement possible la société – ONG, citoyens engagés, industriels, pouvoirs publics nationaux, locaux, européens, de construire à la fois des indicateurs de performance, des méthodes de partage de connaissance et de débat, et finalement de **choisir ensemble les solutions les mieux adaptées**.
 
  
 
@@ -50,7 +50,7 @@ Nous serons donc en transition permanente, intégrant de nouvelles énergies, s�
 
  
 
-[![]()]() 
+ 
 
  
 
@@ -60,66 +60,4 @@ Dans ce contexte de diversification énergétique, de spécialisation et de réd
  
 - proposer des services, bien plus séduisants que les produits, 
 - élargir le système considéré en s'intéressant simultanément à l'habitat et aux mobilités, en devenant acteur du management de la mobilité éventuellement avec d'autres acteurs comme les gestionnaires d'infrastructure (parking, autoroute), 
-- devenir des acteurs de l'efficacité énergétique, voire même des modes doux ou des téléactivités. 
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"2010-03-17 16:15:41https://transportsdufutur.ademe.fr/2010/03/les-energies.htmlMétaNotesbatiment|citoyen|Efficacité énergétique|Infrastructure|internet|mode doux|multimodes|PDIE|Service de mobilitépublish18gabriel plassatles-energies2017-11-02 16:38:347846"" target=""_blank"">ici un exemple) ou à des batailles pour conserver les ressources primaires (il y a déjà aujourd'hui plusieurs utilisateurs d'huile de palme : industries alimentaire, des savons et demain des énergies), 
-- des bilans environnementaux multicritères de plus en plus complexes variables dans le temps (en fonction de la demande d'un ou plusieurs co-produits) et dans l'espace (les marchés ne sont pas homogènes selon les territoires). 
- 
-
-Pour favoriser l’innovation, le progrès continu, il nous faudra, comme le propose la Directive Européenne sur les véhicules propres et efficaces, utiliser l’approche « **technology neutral** » et, plutôt que de choisir des solutions technologiques à priori, définir des **critères de performance** : polluants, GES, ressources en eau, en métaux précieux, production de déchets recyclables, nucléaires, du **puits à la roue,** du berceau à la tombe… Cette démarche complexe, permettant de proposer des bilans par filière, [**ne sera sans doute jamais terminée**](), de « nouveaux » polluants sont découverts ou plutôt de nouveaux impacts sanitaires (comme le NO2), de nouveaux liens sont établis comme énergie-alimentaire. C’est pourtant la seule voie qui nous permettra, collectivement en impliquant le plus largement possible la société – ONG, citoyens engagés, industriels, pouvoirs publics nationaux, locaux, européens, de construire à la fois des indicateurs de performance, des méthodes de partage de connaissance et de débat, et finalement de [**choisir ensemble les solutions les mieux adaptées**]().
-
- 
-
-Nous serons donc en transition permanente, intégrant de nouvelles énergies, sélectionnant les meilleures par usage, par territoire, par application, ce qui est directement opposé aux standards du métier qui nécessite des investissements lourds, donc des choix pour le long terme. Il convient alors de mettre en oeuvre des outils pour gérer ces transitions tant au niveau technologique que social. 
-
- 
-
-[![]()]() 
-
- 
-
-Dans ce contexte de diversification énergétique, de spécialisation et de réduction de la consommation d'énergie, le passage à une économie des services, notamment en matière de mobilité, pourrait se révéler particulièrement intéressante pour les énergéticiens :
-
- 
- 
-- proposer des services, bien plus séduisants que les produits, 
-- élargir le système considéré en s'intéressant simultanément à l'habitat et aux mobilités, en devenant acteur du management de la mobilité éventuellement avec d'autres acteurs comme les gestionnaires d'infrastructure (parking, autoroute), 
-- devenir des acteurs de l'efficacité énergétique, voire même des modes doux ou des téléactivités. 
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"
+- devenir des acteurs de l'efficacité énergétique, voire même des modes doux ou des téléactivités.

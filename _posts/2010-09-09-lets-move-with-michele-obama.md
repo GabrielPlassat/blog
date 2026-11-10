@@ -19,7 +19,7 @@ President Barack Obama created a White House Task Force on Childhood Obesity,  
 
  
 
-Adult obesity rates increased in 28 states in the past year, and declined only in the District of Columbia (D.C.), according to **[*F as in Fat: How Obesity Threatens America*']()*****[s Future 2010]()**, *a report from the Trust for America's Health (TFAH) and the Robert Wood Johnson Foundation (RWJF). More than two-thirds of states (38) have adult obesity rates above 25 percent.
+Adult obesity rates increased in 28 states in the past year, and declined only in the District of Columbia (D.C.), according to **[*F as in Fat: How Obesity Threatens America*'](http://healthyamericans.org/reports/obesity2010/)*****[s Future 2010](http://healthyamericans.org/reports/obesity2010/)**, *a report from the Trust for America's Health (TFAH) and the Robert Wood Johnson Foundation (RWJF). More than two-thirds of states (38) have adult obesity rates above 25 percent.
 
  
 
@@ -39,8 +39,6 @@ The report also includes obesity rates among youths ages 10-17, and the results 
 
  
 
-[![]()]() 
+ 
 
- [Fat health executivesummary]() View more [documents]() from [transportsdufutur](). "2010-09-09 15:23:42https://transportsdufutur.ademe.fr/2010/09/lets-move-with-michele-obama.htmlmarche|mode doux|obésitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlets-move-with-michele-obama2015-07-21 16:37:39margin-right: auto"" title=""Obesite"" /> 
-
- [Fat health executivesummary]() View more [documents]() from [transportsdufutur](). "
+ Fat health executivesummary View more documents from transportsdufutur.

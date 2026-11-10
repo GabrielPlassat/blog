@@ -27,35 +27,18 @@ Le cas des véhicules lourds et des camions grand routier" diffère quelque peu.
 
  
 
-*Chaque arrêt se doit désormais d'être optimisé*, tant au niveau de l'organisation logistique globale (localisation de l'arrêt, choix des routes, des aires de repos...), que de la qualité des services offerts aux chauffeurs ou de l'utilisation rationnelle de l'énergie. Là encore une approche systémique est nécessaire impliquant les gestionnaires des infrastructures routières, les constructeurs et équipementiers et les transporteurs. Dans ce domaine, les états-unis ont mis en oeuvre depuis plusieurs années un programme fédéral sur ce sujet : **[National Idle Reduction Network]()**.
+*Chaque arrêt se doit désormais d'être optimisé*, tant au niveau de l'organisation logistique globale (localisation de l'arrêt, choix des routes, des aires de repos...), que de la qualité des services offerts aux chauffeurs ou de l'utilisation rationnelle de l'énergie. Là encore une approche systémique est nécessaire impliquant les gestionnaires des infrastructures routières, les constructeurs et équipementiers et les transporteurs. Dans ce domaine, les états-unis ont mis en oeuvre depuis plusieurs années un programme fédéral sur ce sujet : **[National Idle Reduction Network](http://www1.eere.energy.gov/vehiclesandfuels/resources/fcvt_national_idling.html)**.
 
  
 
-Ce réseau national propose des **[études techniques ]()**sur les bénéfices, l'évaluation des solutions technologiques (voir photo ci dessous) tant au niveau des **[véhicules]() **que des infrastructures (comme  [Shorepower](), [CabAire](), [EnviroDock](), ou [idleAIR]() ), l'identification nationale des aires d'arrêt permettant de stationner sans utiliser son moteur, couplée à un **[outil cartographique]()**. Par exemple, **Idle air** propose une solution donnant accès à internet, TV, chaud/froid ...
-
- 
-
-[![]()]() 
- 
-[![]()]() 
-[![]()]() 
-[![]()]() 
- 
-Les progrès à venir vont nécessiter des alliances pour élargir les limites du système considéré, proposer des solutions globales simplificatrices aux usagers (ici les chauffeurs). Quand l'entreprise de transport sera choisie sur la base des émissions de CO2 (par tonne, colis ou m3 transportés), quand le consommateur aura intégré dans ses critères de choix le contenu carbone (aidé par son assistant personnel d'achat, voir **[ici]()**), l'utilisation de ce type de technologies sera vraissemblablement intégré dans les contraintes logistiques.
- 
+Ce réseau national propose des **[études techniques ](http://www.afdc.energy.gov/afdc/vehicles/idle_reduction_electrification.html)**sur les bénéfices, l'évaluation des solutions technologiques (voir photo ci dessous) tant au niveau des **[véhicules](http://www.afdc.energy.gov/afdc/vehicles/idle_reduction_equipment.html) **que des infrastructures (comme  [Shorepower](http://www.shorepower.com/), [CabAire](http://www.cabaire.com/), [EnviroDock](http://www.envirodock.com/), ou [idleAIR](http://convoysolutions.com/) ), l'identification nationale des aires d'arrêt permettant de stationner sans utiliser son moteur, couplée à un **[outil cartographique](http://www.afdc.energy.gov/afdc/locator/tse/state)**. Par exemple, **Idle air** propose une solution donnant accès à internet, TV, chaud/froid ...
 
  
 
  
-
-"2010-12-15 09:44:06https://transportsdufutur.ademe.fr/2010/12/suppression-des-phases-de-ralenti-par-une-approche-systemique.htmlcamion|Efficacité énergétique|emission|Energie|EPA|Infrastructure|innovation|internet|marchandisespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsuppression-des-phases-de-ralenti-par-une-approche-systemique2015-07-21 16:37:31margin-right: auto"" title=""IMG_0062"" /> 
-[![]()]() 
  
-Les progrès à venir vont nécessiter des alliances pour élargir les limites du système considéré, proposer des solutions globales simplificatrices aux usagers (ici les chauffeurs). Quand l'entreprise de transport sera choisie sur la base des émissions de CO2 (par tonne, colis ou m3 transportés), quand le consommateur aura intégré dans ses critères de choix le contenu carbone (aidé par son assistant personnel d'achat, voir **[ici]()**), l'utilisation de ce type de technologies sera vraissemblablement intégré dans les contraintes logistiques.
  
-
- 
-
  
-
-"
+ 
+ 
+Les progrès à venir vont nécessiter des alliances pour élargir les limites du système considéré, proposer des solutions globales simplificatrices aux usagers (ici les chauffeurs). Quand l'entreprise de transport sera choisie sur la base des émissions de CO2 (par tonne, colis ou m3 transportés), quand le consommateur aura intégré dans ses critères de choix le contenu carbone (aidé par son assistant personnel d'achat, voir **[ici]({{ site.baseurl }}/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile/)**), l'utilisation de ce type de technologies sera vraissemblablement intégré dans les contraintes logistiques.

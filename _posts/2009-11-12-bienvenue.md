@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2009/11/bienvenue.html"
 tags: ["ADEME", "Séminaire"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Communs, écosystèmes & open source"
 redirect_from:
   - /2009/11/12/bienvenue/
 ---

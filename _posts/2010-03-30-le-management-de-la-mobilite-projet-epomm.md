@@ -27,11 +27,11 @@ Mobility Management (MM) is a concept to promote sustainable transport and manag
 
  
 
-The MAX Project developped a [Definition of Mobility Management]() Besides English it is available in 14 other European Languages:
+The MAX Project developped a [Definition of Mobility Management](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_english.doc) Besides English it is available in 14 other European Languages:
 
  
 
-[CZ]() - [DE]() - [EE]() - [ES]() - [FR]() - [GR]() - [HU]() - [IT]() - [LT]() - [NL]() - [PL]() - [PT]() - [SE]() - [SI]()
+[CZ](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_czech.doc) - [DE](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_german.doc) - [EE](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_estonian.doc) - [ES](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_spanish.doc) - [FR](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_french.doc) - [GR](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_greek.doc) - [HU](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_hungarian.doc) - [IT](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_italian.doc) - [LT](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_lithuanian.doc) - [NL](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_dutch.doc) - [PL](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_polish.doc) - [PT](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_portuguese.doc) - [SE](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_swedish.doc) - [SI](http://www.epomm.org/docs/mmtools/MMDefinition/MMDefinition_slovenian.doc)
 
  
 
@@ -39,27 +39,27 @@ Mobility Management in more detail :
 
  
 
-On the [interactive graph]() you see the various aspects within MM. It mirrors the overview you can see in the navigation on the left:
+On the [interactive graph](http://www.epomm.org/graph.phtml?id=826) you see the various aspects within MM. It mirrors the overview you can see in the navigation on the left:
 
  
 
-· The various [clients]() that want to implement mobility management 
+· The various [clients](http://www.epomm.org/index.phtml?id=827) that want to implement mobility management 
 
  
 
-· The [user services]() to achieve a desired mobility behaviour 
+· The [user services](http://www.epomm.org/index.phtml?id=828) to achieve a desired mobility behaviour 
 
  
 
-· The [instruments]() that bring these services to the end users 
+· The [instruments](http://www.epomm.org/index.phtml?id=829) that bring these services to the end users 
 
  
 
-· The [target groups]() of end users to be addressed
+· The [target groups](http://www.epomm.org/index.phtml?id=830) of end users to be addressed
 
  
 
-The case studies of the case study database are linked to each of these aspects - so on each aspect you can immediately find fitting, up-to-date examples. In the [user manual](), you can read on all this in form of a booklet.
+The case studies of the case study database are linked to each of these aspects - so on each aspect you can immediately find fitting, up-to-date examples. In the [user manual](http://www.epomm.org/downloads/Usermanual.pdf), you can read on all this in form of a booklet.
  
 
  
@@ -88,11 +88,11 @@ There are two basics for a Mobility Centre:
 
  
 
-A Mobility Centre concentrates all [services]() and thus serves as a platform - a place for communication and exchange. Its presence can give Mobility Management a public face and, thus, promote its presence in the transport marketplace.
+A Mobility Centre concentrates all services and thus serves as a platform - a place for communication and exchange. Its presence can give Mobility Management a public face and, thus, promote its presence in the transport marketplace.
 
  
 
-The structure of a Mobility Centre will vary according to needs and resources. It can be organised and financed by transport providers or jointly with local authorities and private initiatives. However, a Mobility Centre is more than only information about local public transport and ticket sales ([see services]()): its objective should be to serve the [clients]() as adequate and detailed as possible, from providing information until finally putting forward a reservation.
+The structure of a Mobility Centre will vary according to needs and resources. It can be organised and financed by transport providers or jointly with local authorities and private initiatives. However, a Mobility Centre is more than only information about local public transport and ticket sales (see services): its objective should be to serve the clients as adequate and detailed as possible, from providing information until finally putting forward a reservation.
 
  
 
@@ -108,8 +108,8 @@ A city-wide Mobility Centre should be located in a central location for easy acc
 
  
  
-- [Graz, A: Mobility Centre in Graz]() 
-- [Münster, D: Mobility Centre in Münster]() 
-- [Loja de Mobilidade in Porto (Portugal)]() 
-- [Copenhagen, DK: Company orientated Mobility Center]() 
+- Graz, A: Mobility Centre in Graz 
+- Münster, D: Mobility Centre in Münster 
+- Loja de Mobilidade in Porto (Portugal) 
+- Copenhagen, DK: Company orientated Mobility Center 
  "

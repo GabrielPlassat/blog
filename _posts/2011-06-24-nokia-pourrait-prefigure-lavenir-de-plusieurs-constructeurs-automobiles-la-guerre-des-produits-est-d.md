@@ -19,7 +19,7 @@ Dans une note envoyée à l'ensemble du personnel, Stephen Elop reconnaît qu'Ap
 
  
 
-“*Historiquement, nous avons été en concurrence avec Samsung ou HTC mais aujourd'hui on se serre la main tout en restant en compétition, car il y a eu l'émergence de ces écosystèmes. Cela a véritablement commencé avec Apple, en 2007, lorsqu'ils ont lancé [l'iPhone]() avec des services compagnon comme iTunes. Ils ont débuté ce processus visant à fournir une expérience utilisateur complète et ils l'ont fait à un niveau bien supérieur à ce que quiconque avait vu ou fait jusque-là dans l'industrie mobile. Mais Apple étant Apple ils l'ont fait à leur manière en gardant cet écosystème pour eux. Les développeurs peuvent y participer, mais encadrés par certaines limites. C'est un écosystème assez fermé.*”
+“*Historiquement, nous avons été en concurrence avec Samsung ou HTC mais aujourd'hui on se serre la main tout en restant en compétition, car il y a eu l'émergence de ces écosystèmes. Cela a véritablement commencé avec Apple, en 2007, lorsqu'ils ont lancé l'iPhone avec des services compagnon comme iTunes. Ils ont débuté ce processus visant à fournir une expérience utilisateur complète et ils l'ont fait à un niveau bien supérieur à ce que quiconque avait vu ou fait jusque-là dans l'industrie mobile. Mais Apple étant Apple ils l'ont fait à leur manière en gardant cet écosystème pour eux. Les développeurs peuvent y participer, mais encadrés par certaines limites. C'est un écosystème assez fermé.*”
 
  
 
@@ -27,7 +27,7 @@ Stratégiquement cela a eu une conséquence assez intéressante poursuit Elop �
 
  
 
-Le message est clair. Depuis, il y a eu l'alliance de **[Nokia avec Microsoft]()**, avec l'objectif de construire eux-aussi un écosystème :
+Le message est clair. Depuis, il y a eu l'alliance de **Nokia avec Microsoft**, avec l'objectif de construire eux-aussi un écosystème :
 
  
  
@@ -42,10 +42,8 @@ Le parallèle avec l'écosystème (ou les écosystèmes) de la mobilité est év
 
  
 
-Les défis des transports sont dominés par un manque d'accord sur les valeurs accordées aux risques *de ne pas changer*, ainsi qu'à l'urgence des contraintes énergétiques et économiques. Nos solutions technologiques mais surtout les jeux d'acteurs actuels et les modèles économiques associés ne sont pas adaptés à résoudre les problèmes que nous avons engendrés. **[Il faut désormais s'attaquer de front aux systèmes complexes]()**.
+Les défis des transports sont dominés par un manque d'accord sur les valeurs accordées aux risques *de ne pas changer*, ainsi qu'à l'urgence des contraintes énergétiques et économiques. Nos solutions technologiques mais surtout les jeux d'acteurs actuels et les modèles économiques associés ne sont pas adaptés à résoudre les problèmes que nous avons engendrés. **Il faut désormais s'attaquer de front aux systèmes complexes**.
 
  
 
 Apple et Google ont réussi à créer deux *mondes *(très différents Fermé / Ouvert), jouent sur des aires différentes mais apportent aux utilisateurs des produits/services de haute valeur ajoutée. Ils ont résussi à dépasser les découpages technico-industriel classiques et ainsi concurrencer des producteurs d'objet. Dans le domaine de la mobilité, les alliances type Nokia/Microsoft seront sans doute nécessaires, avec des difficultés puisque les modèles de fonctionnement (économique, technique, propriété intellectuel,...) ne pourront être trouvés qu'en avançant, en proposant leur vision du monde non pas sur la base d'un produit mais d'un écosystème ...
-
-"2011-06-24 12:38:44https://transportsdufutur.ademe.fr/2011/06/nokia-pourrait-prefigure-lavenir-de-plusieurs-constructeurs-automobiles-la-guerre-des-produits-est-d.htmlart de la guerre|gouvernance|innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnokia-pourrait-prefigure-lavenir-de-plusieurs-constructeurs-automobiles-la-guerre-des-produits-est-d2015-07-21 16:36:46

@@ -19,7 +19,7 @@ Au programme de cet étrange happening, pensé à l'occasion de la toute nouvell
 
  
 
-L'artiste propose une visite guidée de son exposition le 26 mai, à 19 heures. Un collectif d'artistes, baptisé **[I Park Art]()**, songe, lui aussi, à utiliser l'espace public pour y faire découvrir des oeuvres. Samedi 22 mai, ils monteront une installation temporaire sur une place de stationnement du 11e arrondissement de la capitale. "Une fois le prix du parcmètre payé, rien n'oblige l'utilisateur à y déposer une voiture", constate Mattia Paco Rizzi, le jeune organisateur de l'événement.
+L'artiste propose une visite guidée de son exposition le 26 mai, à 19 heures. Un collectif d'artistes, baptisé **I Park Art**, songe, lui aussi, à utiliser l'espace public pour y faire découvrir des oeuvres. Samedi 22 mai, ils monteront une installation temporaire sur une place de stationnement du 11e arrondissement de la capitale. "Une fois le prix du parcmètre payé, rien n'oblige l'utilisateur à y déposer une voiture", constate Mattia Paco Rizzi, le jeune organisateur de l'événement.
 
  
 
@@ -27,4 +27,4 @@ L'artiste propose une visite guidée de son exposition le 26 mai, à 19 heures. 
 
  
 
- [![]()]() [![]()]() [![]()]() [youtube http://www.youtube.com/watch?v=PxIpb58zQQk&color1=0xb1b1b1&color2=0xd0d0d0&hl=en_US&feature=player_embedded&fs=1]"2010-05-26 14:00:05https://transportsdufutur.ademe.fr/2010/05/quand-lart-utilise-lespace-public.htmlInfrastructure|stationnementpublish18gabriel plassatquand-lart-utilise-lespace-public2010-05-26 14:00:05
+    [youtube http://www.youtube.com/watch?v=PxIpb58zQQk&color1=0xb1b1b1&color2=0xd0d0d0&hl=en_US&feature=player_embedded&fs=1]

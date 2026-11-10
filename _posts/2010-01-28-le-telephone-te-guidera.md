@@ -34,6 +34,6 @@ Par exemple pour l'achat de jouets, l'application fournit les niveaux de plomb, 
 
  
 
-Demain l'IdO (voir **[ici]()**) permettra bien plus, les critères de choix seront définis par les citoyens eux-mêmes, et pour la première fois, les consommateurs, par leur choix, piloteront directement les stratégies des entreprises en matière de performance énergétique et de RSE (voir **[ici]()**). Les informations concernant la performance environnementale des produits d'une entreprise, les matériaux utilisés, les conditions de travail seront recoupées, analysées, triées par des robots numériques. Alors qu'aujourd'hui il est bien vu d'être très présent sur la toile, demain, une communication maîtrisée dans tous les domaines sera indispensable.
+Demain l'IdO (voir **[ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)**) permettra bien plus, les critères de choix seront définis par les citoyens eux-mêmes, et pour la première fois, les consommateurs, par leur choix, piloteront directement les stratégies des entreprises en matière de performance énergétique et de RSE (voir **[ici]({{ site.baseurl }}/2010/01/linternet-des-objets-quelles-consequences-pour-la-mobilite/)**). Les informations concernant la performance environnementale des produits d'une entreprise, les matériaux utilisés, les conditions de travail seront recoupées, analysées, triées par des robots numériques. Alors qu'aujourd'hui il est bien vu d'être très présent sur la toile, demain, une communication maîtrisée dans tous les domaines sera indispensable.
 
 "

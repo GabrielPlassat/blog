@@ -38,11 +38,11 @@ Les principales raisons invoquées pour expliquer le non-respect de la conformit
 - Certaines mesures ne peuvent être prises qu’au niveau local. Il existait aussi une incertitude concernant le timing et l’ambition de certaines mesures communautaires. 
  
 
-Le Président de l’UBA, M. Jochen Flasbarth, attendait davantage d’actions palliatives : La mise en place de zones environnementales a été une mesure positive pour respecter les limites d’émissions de particules. Les zones environnementales devraient être appliquées de manière cohérente afin d’accroître leur efficacité. De plus, d’autres actions sont nécessaires : cibler davantage les transports publics et la promotion de zones pédestres et cyclables dans un grand nombre de villes contribue de manière significative à un air plus propre". L’analyse préliminaire de la qualité de l’air en 2010, ainsi que la comparaison avec les années précédentes, est sur [www.uba.de/uba-info-medien/4063.html]().
+Le Président de l’UBA, M. Jochen Flasbarth, attendait davantage d’actions palliatives : La mise en place de zones environnementales a été une mesure positive pour respecter les limites d’émissions de particules. Les zones environnementales devraient être appliquées de manière cohérente afin d’accroître leur efficacité. De plus, d’autres actions sont nécessaires : cibler davantage les transports publics et la promotion de zones pédestres et cyclables dans un grand nombre de villes contribue de manière significative à un air plus propre". L’analyse préliminaire de la qualité de l’air en 2010, ainsi que la comparaison avec les années précédentes, est sur [www.uba.de/uba-info-medien/4063.html](http://www.uba.de/uba-info-medien/4063.html).
 
  
 
-En Norvège, une nouvelle méthode de calcul des émissions du trafic routier a montré que les émissions de NOx étaient **beaucoup plus importantes qu****’****on ne pensait**, selon de nouvelles données publiées le 11 février 2011 par le bureau national de statistique (SSB) du pays. Le manuel des facteurs d’émissions (**[Handbook of Emission Factors ou HBEFA]()**) est désormais utilisé. Pour plus de détails, aller sur [www.ssb.no/vis/english/subjects/01/04/10/agassn_en/art-2011-02-11-01-en.html]().
+En Norvège, une nouvelle méthode de calcul des émissions du trafic routier a montré que les émissions de NOx étaient **beaucoup plus importantes qu****’****on ne pensait**, selon de nouvelles données publiées le 11 février 2011 par le bureau national de statistique (SSB) du pays. Le manuel des facteurs d’émissions (**[Handbook of Emission Factors ou HBEFA](http://www.hbefa.net/e/index.html)**) est désormais utilisé. Pour plus de détails, aller sur [www.ssb.no/vis/english/subjects/01/04/10/agassn_en/art-2011-02-11-01-en.html](http://www.ssb.no/vis/english/subjects/01/04/10/agassn_en/art-2011-02-11-01-en.html).
 
  
 
@@ -50,7 +50,7 @@ Un nouveau site Internet "UK Air Information Resource" (ressources d’informati
 
  
 
-Le site fournit des informations plus claires sur la qualité de l’air actuelle et projetée au Royaume-Uni et des cartes de surveillance interactives localisant les sites pour tous les réseaux nationaux britanniques de surveillance. Le site dispose d’un nouvel outil amélioré pour sélectionner les données, d’un nouvel outil d’analyse de données *OpenAir* ainsi que d’une bibliothèque et d’une fonction de recherche améliorées. Pour accéder au site, se rendre sur [http://uk-air.defra.gov.uk]() qui remplacera [www.airquality.co.uk]().
+Le site fournit des informations plus claires sur la qualité de l’air actuelle et projetée au Royaume-Uni et des cartes de surveillance interactives localisant les sites pour tous les réseaux nationaux britanniques de surveillance. Le site dispose d’un nouvel outil amélioré pour sélectionner les données, d’un nouvel outil d’analyse de données *OpenAir* ainsi que d’une bibliothèque et d’une fonction de recherche améliorées. Pour accéder au site, se rendre sur [http://uk-air.defra.gov.uk](http://uk-air.defra.gov.uk/) qui remplacera [www.airquality.co.uk](http://www.airquality.co.uk).
 
  
 
@@ -58,7 +58,7 @@ L’association Euromobility a publié son rapport pour 2010 sur la mobilité du
 
  
 
-Le rapport, "La Mobilita’ Sostenibile In Italia: indagine sulle principali 50 città, Edizione 2010" est disponible sur [www.euromobility.org/documenti/atti_di_convegni/2010_50_città/index.html]()
+Le rapport, "La Mobilita’ Sostenibile In Italia: indagine sulle principali 50 città, Edizione 2010" est disponible sur [www.euromobility.org/documenti/atti_di_convegni/2010_50_città/index.html](http://www.euromobility.org/documenti/atti_di_convegni/2010_50_città/index.html)
 
  
 
@@ -78,6 +78,4 @@ TML a constaté que les impôts et prélèvements actuels ne couvraient que part
 
  
 
-Le rapport final est disponible sur le site Internet de l’agence environnementale flamande (en néerlandais) [www.milieurapport.be/nl/publicaties/Onderzoeksrapporten]().
-
-"2011-03-15 11:16:34https://transportsdufutur.ademe.fr/2011/03/qualite-de-lair-et-emissions-liees-aux-transports-2.htmlautorité des transports|collectivité|données réelles|Europe|gouvernance|management de la mobilité|partage de données|qualité de l'air|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatqualite-de-lair-et-emissions-liees-aux-transports-22011-03-15 11:16:34
+Le rapport final est disponible sur le site Internet de l’agence environnementale flamande (en néerlandais) www.milieurapport.be/nl/publicaties/Onderzoeksrapporten.

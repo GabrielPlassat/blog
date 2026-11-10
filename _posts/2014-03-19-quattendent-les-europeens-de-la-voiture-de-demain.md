@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: " border-width: 1px 1px 0"
 tags: ["autorité des transports", "citoyen", "donnée data", "Europe", "Service de mobilité", "Véhicule", "véhicule propre"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2014/03/19/quattendent-les-europeens-de-la-voiture-de-demain/
 ---
@@ -27,7 +27,7 @@ Cette étude montre qu'il devient possible d'imaginer acheter des forfaits mobil
 
  
 
-Mais sa réalisation à grande échelle, dans tous les territoires et pour tous les citoyens, va imposer des évolutions majeures des structures de gouvernance, dont les Autorités Organisatrices des Mobilités préfigurent l'avenir et concernant l'accès à toutes les données nécessaires (lire [**la synthèse de l'AFIMB sur l'open data**]()).
+Mais sa réalisation à grande échelle, dans tous les territoires et pour tous les citoyens, va imposer des évolutions majeures des structures de gouvernance, dont les Autorités Organisatrices des Mobilités préfigurent l'avenir et concernant l'accès à toutes les données nécessaires (lire **la synthèse de l'AFIMB sur l'open data**).
 
  
 
@@ -37,6 +37,4 @@ Mais sa réalisation à grande échelle, dans tous les territoires et pour tous 
 
  
 
- ** [Autoscout24 -the_cars_we_want_tomorrow_2013-14_-_fr]() ** from **[Les transports du futur]()**"2014-03-19 11:02:18https://transportsdufutur.ademe.fr/2014/03/quattendent-les-europeens-de-la-voiture-de-demain.htmlautorité des transports|citoyen|donnée data|Europe|Service de mobilité|Véhicule|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatquattendent-les-europeens-de-la-voiture-de-demain2015-07-21 16:35:34width=""479""> 
-
- ** [Autoscout24 -the_cars_we_want_tomorrow_2013-14_-_fr]() ** from **[Les transports du futur]()**"
+ ** Autoscout24 -the_cars_we_want_tomorrow_2013-14_-_fr ** from **Les transports du futur**

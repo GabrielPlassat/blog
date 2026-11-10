@@ -22,10 +22,10 @@ Des applications sur smartphone permettent de déclarer le mode de transport cho
 - plus d'information vers le citoyen utilisateur: quels modes, quels horaires, quelle perturbation ... 
 - une certaine forme de reconnaissance lors de l'utilisation de modes alternatifs avec l'apparition d'une nouvelle monnaie libre, 
 - plus d'information vers le ou les autorités en charge des transports permettant de mieux connaître les modes de déplacements, permettant ensuite de les comprendre, puis de les modéliser, puis de les prévoir, puis de les manager", 
-- une certaine forme de communauté d'utilisateur, dans laquelle les usagers deviennent acteurs et produisent des données et des services (voir également **[Utilisacteur]()**) 
- [Cp lancement offre gotoo février 2011(2)]() View more [documents]() from [transportsdufutur](). 
+- une certaine forme de communauté d'utilisateur, dans laquelle les usagers deviennent acteurs et produisent des données et des services (voir également **[Utilisacteur]({{ site.baseurl }}/2010/06/utilisacteur-testntrust-seeclickfix-vers-un-kit-de-lobby-citoyen/)**) 
+ [Cp lancement offre gotoo février 2011(2)](http://www.gotoo.fr/) View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 
-GoToo s'intégrera demain dans notre assistant personnel de mobilité (voir **[ICI]() **MétaNote sur le sujet), fera partie des nombreux outils permettant une certaine forme de récompense, pourrait après demain intéresser le secteur de l'assurance maladie (voir **[ICI]()**), et nécessite dès aujourd'hui de mettre en oeuvre des limites à la surveillance, à l'intrusion pour que chaque citoyen soit persuadé qu'il a plus à gagner qu'à perdre à fournir certaines données.
+GoToo s'intégrera demain dans notre assistant personnel de mobilité (voir **[ICI]({{ site.baseurl }}/2011/01/le-mit-developpe-un-outil-co2go-qui-estime-sans-aucune-action-de-la-personne-ses-emissions-de-co2-liees-a-ces-deplacem/) **MétaNote sur le sujet), fera partie des nombreux outils permettant une certaine forme de récompense, pourrait après demain intéresser le secteur de l'assurance maladie (voir **[ICI]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)**), et nécessite dès aujourd'hui de mettre en oeuvre des limites à la surveillance, à l'intrusion pour que chaque citoyen soit persuadé qu'il a plus à gagner qu'à perdre à fournir certaines données.
 
  
 

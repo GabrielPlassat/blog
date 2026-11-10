@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "js.id=id"
 tags: []
-theme: "Veille & documents"
+theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2014/03/27/european-transport-business-summit-2014-direct/
 ---
@@ -39,12 +39,8 @@ A suivre également sur Twitter, avec ci dessous une image des échanges obtenue
 
  
 
-[![]()]()
+
 
  
 
- // // ]]> 
-
-"2014-03-27 10:47:19https://transportsdufutur.ademe.fr/2014/03/european-transport-business-summit-2014-direct.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassateuropean-transport-business-summit-2014-direct2015-07-21 16:35:34js.src=p+"// ]]> 
-
-"
+ // // ]]>

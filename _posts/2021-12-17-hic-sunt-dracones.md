@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2021/12/hic-sunt-dracones.html"
 tags: ["challenge", "extrême défi", "génèse"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Communs, écosystèmes & open source"
 redirect_from:
   - /2021/12/17/hic-sunt-dracones/
 ---

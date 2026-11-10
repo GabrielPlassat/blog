@@ -19,7 +19,7 @@ Quels que soient vos produits ou services actuels, ils devront évoluer, s'adapt
 
  
 
-Ces entreprises sensitives sont structurellement organisées pour créer dans le mouvement, rien n'y est figé. La fluidité se retrouve dans les organisations, les méthodes de création et d'industrialisation. Le futur s'y prépare de la même façon: en réseau, en co-création. Ces industries numériques façonnent dès aujourd'hui un complexus de virtuel et de réel, tissant des expériences totalement inédites. Comment dès lors utiliser les outils marketing "historiques" ? ils ne s'appliquent absolument pas, puisqu'il s'agit d'innovation absolue: pas de référence, juste de la pure création comme [**Ingress**](). 
+Ces entreprises sensitives sont structurellement organisées pour créer dans le mouvement, rien n'y est figé. La fluidité se retrouve dans les organisations, les méthodes de création et d'industrialisation. Le futur s'y prépare de la même façon: en réseau, en co-création. Ces industries numériques façonnent dès aujourd'hui un complexus de virtuel et de réel, tissant des expériences totalement inédites. Comment dès lors utiliser les outils marketing "historiques" ? ils ne s'appliquent absolument pas, puisqu'il s'agit d'innovation absolue: pas de référence, juste de la pure création comme [**Ingress**]({{ site.baseurl }}/2012/11/ibm-dans-son-dernier-executive-report-tranforming-retail-engaging-customers-through-information-influencers-and-interacti/). 
 
  
 
@@ -27,7 +27,7 @@ Ces entreprises sensitives sont structurellement organisées pour créer dans le
 
  
 
-Avez vous mis en oeuvre un [**Niantic Lab**](), un vaisseau capable d'explorer votre propre avenir, rattaché au comité de direction. Capable de revoir vos produits, services, vos modèles d'affaires, vos alliances, vos organisations, vos critères de jugement. Pour cela, êtes vous déjà capables d'identifier au coeur de votre entreprises les pionniers, les créateurs ? puis de les former pour qu'ils puissent s'extraire de la pensée actuelle, devenir totalement "sensitifs" au monde, développer une véritable empathie, et vous proposer une vision crédible et souhaitable des prochaines décennies.
+Avez vous mis en oeuvre un [**Niantic Lab**](http://www.capital.fr/a-la-une/interviews/nous-developpons-des-produits-que-google-n-aurait-pas-forcement-lance-810545#!), un vaisseau capable d'explorer votre propre avenir, rattaché au comité de direction. Capable de revoir vos produits, services, vos modèles d'affaires, vos alliances, vos organisations, vos critères de jugement. Pour cela, êtes vous déjà capables d'identifier au coeur de votre entreprises les pionniers, les créateurs ? puis de les former pour qu'ils puissent s'extraire de la pensée actuelle, devenir totalement "sensitifs" au monde, développer une véritable empathie, et vous proposer une vision crédible et souhaitable des prochaines décennies.
 
  
 

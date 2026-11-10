@@ -29,7 +29,7 @@ Proceeding from this series of realizations, the team embarked on an investigati
 
  
 
-![]()
+
 
  
 
@@ -38,7 +38,7 @@ Public transit is first and foremost about getting somewhere. Anyone who has tra
 
  
 
-![]()
+
 
  
 
@@ -47,7 +47,7 @@ A transit card is a cool thing. It says you're hip, civically minded and incline
 
  
 
-![]()
+
 
  
 
@@ -61,34 +61,8 @@ Sometimes a bus stop is just a bus stop. At the heart of Traffic 2.0 is a design
 
  
 
-*Photo of Seattle Transit Tunnel by [Jason Rodriguez]() / [CC BY-SA 2.0]()*
+*Photo of Seattle Transit Tunnel by Jason Rodriguez / CC BY-SA 2.0*
 
  
 
 *Tad Toulis is the creative director of Teague's Seattle-based design studio. Prior to joining Teague, he worked at Lunar Design, Motorola's Advanced Concepts Group and Samsung's LA LAB. Tad is a regular presenter and lecturer, speaking to the topics of design and business at events, universities and conferences across the globe. His contribution to design has been honored with numerous awards including the Red Dot, IDEA, Good Design and iF awards. Tad was also founding member of designRAW, a San Francisco-based design collective*
-
-"2010-05-20 22:20:57https://transportsdufutur.ademe.fr/2010/05/traffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a.htmlBHNS|connectivité|données réelles|Infrastructure|internet|internet des objets|partage de donnéespublish18gabriel plassattraffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a2010-05-20 22:20:57the decision was made to bring that convenience to the system through the card itself. Powered by RFID, the display lasts indefinitely and brings an extra level of value and functionality to the device. Touching it to the Metroplan migrates your planned itinerary to the card providing a convenient reference for route stops and transfers throughout your trip.
-
- 
-
-![]()
-
- 
-
-**WHEN: Metropoint**
-But what about the wait? Responding to rider complaints over time wasted waiting for connections and arrivals, Metropoint tackles the problem of waiting right at its source, the bus stop itself. Available as a freestanding element as well as an add-on to existing light and utility poles, Metropoint provides riders information about bus arrivals within a 15-minute window. Readable from up to 150 feet, Metropoint gives control back to riders, freeing them from the tyranny of the stop and empowering them with the means to decide how best to use their time. Why 15 minutes? In most urban settings, 15 minutes is sufficient to allow passengers to bypass the stand and support one last errand, or, at the very least, make an informed decision to "wait it out." A quick glance tells riders which routes are en route and which aren't. If the route number is illuminated, but the top portion is not, the bus is more than 15 minutes from arriving at the stop. As the bus draws closer, the top portion of the unit illuminates: One band means the bus is 15 minutes out. Two bands, 10 minutes out. When the bus is less than five minutes away--bingo!--the full "hourglass" and route number flash, informing passengers that arrival is imminent.
-
- 
-
-**Orchestration Over Re-Creation**
-Sometimes a bus stop is just a bus stop. At the heart of Traffic 2.0 is a design solution we believe is a harbinger of things to come: a design solution that seeks to improve upon its surroundings rather than dominate them. Design long ago mastered the art of coming up with "the new"the problem is that the cadence of "the new" is increasingly at odds with "the now." We cannot create our way out of every problem, at least not entirely. With Traffic 2.0 the team chose to leverage what was already there--partly in a nod to the economic crisis and partly to define a restriction within which to work. According to the American Public Transportation Association, there are over 7,700 urban transit systems within the U.S, most of which are composed of bus or light rail systems. In 2009 alone, these systems handled over 10.2 billion trips. Before we rush to replace them, can't we reclaim some through better orchestration of existing infrastructure? It may not bring the rush of blood to our heads that starting anew does, but it just might be the right thing to do.
-
- 
-
-*Photo of Seattle Transit Tunnel by [Jason Rodriguez]() / [CC BY-SA 2.0]()*
-
- 
-
-*Tad Toulis is the creative director of Teague's Seattle-based design studio. Prior to joining Teague, he worked at Lunar Design, Motorola's Advanced Concepts Group and Samsung's LA LAB. Tad is a regular presenter and lecturer, speaking to the topics of design and business at events, universities and conferences across the globe. His contribution to design has been honored with numerous awards including the Red Dot, IDEA, Good Design and iF awards. Tad was also founding member of designRAW, a San Francisco-based design collective*
-
-"

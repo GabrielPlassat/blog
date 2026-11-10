@@ -28,7 +28,7 @@ Le Laboratoire de la Mobilité Inclusive a vocation à :
  
 
  
-L'étude [Mobilité, insertion et accès à l'emploi]()" réalisée par Auxilia en 2013 a permis d'établir que plus de 7 millions de personnes rencontrent des difficultés en France, soit 20% de la population en âge de travailler. En 2014, plusieurs actions ont été lancées au sein du Laboratoire afin d'étudier et de faire émerger des solutions concrètes de mobilité : 
+L'étude [Mobilité, insertion et accès à l'emploi](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2014/07/RapportcompletLMI2013.pdf)" réalisée par Auxilia en 2013 a permis d'établir que plus de 7 millions de personnes rencontrent des difficultés en France, soit 20% de la population en âge de travailler. En 2014, plusieurs actions ont été lancées au sein du Laboratoire afin d'étudier et de faire émerger des solutions concrètes de mobilité : 
  
 - Création d'un groupe de travail sur les "nouveaux services à la mobilité et les personnes précaires" dans l'objectif de rédiger les cahiers des charges de deux expérimentation sur deux terrioires (péri urbain et rural) pour 2015 
 - Création d'un groupe de travail pour "définir un parcours complet de la mobilité" 
@@ -36,20 +36,4 @@ L'étude [Mobilité, insertion et accès à l'emploi]()" réalisée par Auxilia 
 - Lancement d'une étude "benchmark international des solutions de mobilité inclusive". 
  
 
-Comme en 2013, les conclusions de ces études et groupes de travail, seront présentées en décembre prochain à l'occasion des deuxièmes [Rencontres de la Mobilité Inclusive](). Ces rencontres constituent désormais le rendez-vous annuel de contribution au débat, sur les freins à la mobilité et les solutions à mettre en oeuvre.
-
- 
-
- 
-
-"2014-07-31 16:19:07https://transportsdufutur.ademe.fr/2014/07/precarite-et-mobilite-les-actions-du-laboratoire-de-la-mobilie-inclusive.htmlADEME|citoyen|Précarité|Service de mobilitépublish21pierre taillantprecarite-et-mobilite-les-actions-du-laboratoire-de-la-mobilie-inclusive2014-07-31 16:19:07 
-- Lancement d'une étude "benchmark international des solutions de mobilité inclusive". 
- 
-
-Comme en 2013, les conclusions de ces études et groupes de travail, seront présentées en décembre prochain à l'occasion des deuxièmes [Rencontres de la Mobilité Inclusive](). Ces rencontres constituent désormais le rendez-vous annuel de contribution au débat, sur les freins à la mobilité et les solutions à mettre en oeuvre.
-
- 
-
- 
-
-"
+Comme en 2013, les conclusions de ces études et groupes de travail, seront présentées en décembre prochain à l'occasion des deuxièmes Rencontres de la Mobilité Inclusive. Ces rencontres constituent désormais le rendez-vous annuel de contribution au débat, sur les freins à la mobilité et les solutions à mettre en oeuvre.

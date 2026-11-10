@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: " margin-bottom: 5px"
 tags: ["citoyen", "innovation", "internet", "internet des objets"]
-theme: "Veille & documents"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/07/11/les-technologies-en-rupture-dapres-mc-kinsey/
 ---
@@ -19,6 +19,6 @@ Centré sur les techniques, ce rapport n'aborde pas vraiment les conséquences e
 
  
 
-Ce rapport de l'homme à la technique est toujours intéressant à remettre en perspective notamment grâce à des penseurs comme J.ELLUL (lire l'article **[De Jacques ELLUL à Ray KURZWEIL]()**).
+Ce rapport de l'homme à la technique est toujours intéressant à remettre en perspective notamment grâce à des penseurs comme J.ELLUL (lire l'article **De Jacques ELLUL à Ray KURZWEIL**).
 
- ** [Mgi disruptive technologies_executive_summary_may2013]() ** from **[Les transports du futur]()** "2013-07-11 12:44:39https://transportsdufutur.ademe.fr/2013/07/les-technologies-en-rupture-dapres-mc-kinsey.htmlcitoyen|innovation|internet|internet des objetspublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-technologies-en-rupture-dapres-mc-kinsey2015-07-21 16:35:40width=""479""> ** [Mgi disruptive technologies_executive_summary_may2013]() ** from **[Les transports du futur]()** "
+ ** Mgi disruptive technologies_executive_summary_may2013 ** from **Les transports du futur**

@@ -28,9 +28,3 @@ Nous retrouvons les principaux moyens mis en oeuvre par les industries numériqu
  
 
 Poursuivez cette tendance en ajoutant un peu d'internet des objets pour rendre ces capteurs low cost communicants, étendez à d'autres problèmes comme la qualité de l'air et l'énergie, et vous aurez de nouveaux tableaux de bord citoyens".
-
- 
-
- 
-
-"2013-03-20 10:11:55https://transportsdufutur.ademe.fr/2013/03/creer-de-nouvelles-connaissances-le-fond-et-la-forme.htmlcité|citoyen|collectivité|confiance|données réelles|externalité|gouvernance|Infrastructure|innovation|intelligence collective|internet des objets|management de la mobilité|mode doux|multimodes|partage de données|partage de la voirie|péage urbainpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcreer-de-nouvelles-connaissances-le-fond-et-la-forme2015-07-21 16:35:44

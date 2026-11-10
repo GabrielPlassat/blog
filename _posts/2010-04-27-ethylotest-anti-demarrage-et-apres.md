@@ -15,7 +15,7 @@ Obligatoire pour le transport d'enfant depuis janvier 2010, ce système (déjà 
 
  
 
-Depuis le 1er janvier 2010, les autocars neufs affectés aux transports en commun d’enfants sont obligatoirement équipés d'un système de mesure du taux d'alcoolémie au démarrage (EAD). Afin de faciliter les démarches des sociétés de transports, la CNIL a adopté une **[autorisation unique]()** encadrant ces dispositifs.
+Depuis le 1er janvier 2010, les autocars neufs affectés aux transports en commun d’enfants sont obligatoirement équipés d'un système de mesure du taux d'alcoolémie au démarrage (EAD). Afin de faciliter les démarches des sociétés de transports, la CNIL a adopté une **[autorisation unique](http://www.cnil.fr/vos-responsabilites/declarer-a-la-cnil/declaration-simplifiee/)** encadrant ces dispositifs.
 
  
 
@@ -43,7 +43,7 @@ Sur la base de ce fondement légal, des milliers d’organismes sont d'ores et d
 
  
 
-Faute d'avoir des conducteurs suffisamment responsables, la sécurité routière passe ici par de nouvelles technologies, et l'accès à certaines données privées qui impactent potentiellement le domaine public. La surveillance (voir également **[ici]()**) de la capacité à conduire dans de bonnes conditions pour soi, pour ses passagers et pour les autres, impose alors de revoir l'image de liberté du véhicule individuel. De plus en plus, le conducteur sera avant tout libre de suivre scrupuleusement les règles fixées par les autorités publiques, puis de plus en plus par les assureurs privés pour, dans un premier temps, bénéficier de tarif réduit (voir exemples **[ici]()** et **[ici]()**), puis pour être autoriser à rouler.
+Faute d'avoir des conducteurs suffisamment responsables, la sécurité routière passe ici par de nouvelles technologies, et l'accès à certaines données privées qui impactent potentiellement le domaine public. La surveillance (voir également **[ici]({{ site.baseurl }}/2010/03/vers-plus-de-securite/)**) de la capacité à conduire dans de bonnes conditions pour soi, pour ses passagers et pour les autres, impose alors de revoir l'image de liberté du véhicule individuel. De plus en plus, le conducteur sera avant tout libre de suivre scrupuleusement les règles fixées par les autorités publiques, puis de plus en plus par les assureurs privés pour, dans un premier temps, bénéficier de tarif réduit (voir exemples **[ici]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)** et **[ici](http://www.sollyazar.com/consulter-les-dernieres-actualites/easy-drive-le-premier-pay-as-you-drive-fran-ais-a-destination-des-particu-6.html)**), puis pour être autoriser à rouler.
 
  
 

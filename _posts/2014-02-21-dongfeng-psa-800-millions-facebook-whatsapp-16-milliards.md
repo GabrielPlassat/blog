@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2014/02/dongfeng-psa-800-millions-facebook-whatsapp-16-milliards.html"
 tags: ["application", "art de la guerre", "assistant de mobilité", "autopartage", "cité", "citoyen", "collectivité", "commuter", "donnée data", "données réelles", "économie de l'expérience", "économie du quaternaire", "économie fonctionnalité", "google", "holoptisme", "intelligence collective", "marketing individualisé", "monnaie complémentaire", "open innovation", "partage de données", "plate-forme", "Service de mobilité", "territoire", "transition générationnelle", "transparence"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2014/02/21/dongfeng-psa-800-millions-facebook-whatsapp-16-milliards/
 ---
@@ -19,9 +19,9 @@ En même temps, Dongfeng injecte [**800 Millions d'euro**](http://www.lemonde.fr
 
  
 
-Pourquoi investir 16 milliards dans un réseau de messagerie instantanée ? Est ce que ça les vaut" ? Pour tenter d'analyser cela, il faut penser comme les acteurs du numérique. Yann Moulier Boutang a théorisé ce mode de fonctionnement par[** l'économie de la pollinisation**](). La valeur de l'Abeille n'est pas uniquement dans le miel et la cire mais dans la pollinisation. Et c'est bien cela que Facebook a acheté : des abeilles.
+Pourquoi investir 16 milliards dans un réseau de messagerie instantanée ? Est ce que ça les vaut" ? Pour tenter d'analyser cela, il faut penser comme les acteurs du numérique. Yann Moulier Boutang a théorisé ce mode de fonctionnement par[** l'économie de la pollinisation**](http://laviemanifeste.com/archives/351). La valeur de l'Abeille n'est pas uniquement dans le miel et la cire mais dans la pollinisation. Et c'est bien cela que Facebook a acheté : des abeilles.
 
- Ces utilisateurs de Whatsapp, qui utilisent cette application parce qu'elle est séduisante, fonctionnelle (pour attirer les abeilles), créent de la valeur par le contenu qu'ils publient. Ce sont les flux, la pollinisation, qui vont être captés par Facebook. 450 millions d'abeille exactement. Ces abeilles postent des messages régulièrement, très régulièrement, puisque 310 millions le font tous les jours (voir [**cet article**]()). Certains vont déjà faire le calcul du prix de l'abeille ou des flux générés par les abeilles... Mais je pense que toutes les abeilles ne se valent pas. Ces utilisateurs participent, sans le savoir, à des améliorations permanentes de l'application (Whatsapp) et de la plateforme à laquelle elle est rattachée (Facebook). L'attractivité augmente, donc les flux, donc la pollinisation. Certains utilisateurs sont probablement plus actifs, plus sensibles, plus engagés. L'objectif de la plateforme est avant tout de les séduire pour les amener à collaborer, de les surprendre. Le combat des plateformes a commencé depuis à peine quelques années, et déjà les principales relient des centaines de millions d'abeilles (lire [**la plateformisation a déjà commencé**]()). Le contrat, non explicité, est le suivant : plus vous utilisez cette appli, plus elle s'améliore, vous donnant des services (gratuits) des plus en plus performants et en échange, la plateforme (Facebook) valorise le pollen. Ce contrat est accepté, pour le moment. Gardons en tête ces mécanismes contributifs pour envisager de les appliquer sur une autre plateforme. 
+ Ces utilisateurs de Whatsapp, qui utilisent cette application parce qu'elle est séduisante, fonctionnelle (pour attirer les abeilles), créent de la valeur par le contenu qu'ils publient. Ce sont les flux, la pollinisation, qui vont être captés par Facebook. 450 millions d'abeille exactement. Ces abeilles postent des messages régulièrement, très régulièrement, puisque 310 millions le font tous les jours (voir [**cet article**](http://www.technologyreview.com/view/524956/why-facebook-thinks-whatsapp-is-worth-16b/)). Certains vont déjà faire le calcul du prix de l'abeille ou des flux générés par les abeilles... Mais je pense que toutes les abeilles ne se valent pas. Ces utilisateurs participent, sans le savoir, à des améliorations permanentes de l'application (Whatsapp) et de la plateforme à laquelle elle est rattachée (Facebook). L'attractivité augmente, donc les flux, donc la pollinisation. Certains utilisateurs sont probablement plus actifs, plus sensibles, plus engagés. L'objectif de la plateforme est avant tout de les séduire pour les amener à collaborer, de les surprendre. Le combat des plateformes a commencé depuis à peine quelques années, et déjà les principales relient des centaines de millions d'abeilles (lire [**la plateformisation a déjà commencé**]({{ site.baseurl }}/2014/01/fiction-n7-cc/)). Le contrat, non explicité, est le suivant : plus vous utilisez cette appli, plus elle s'améliore, vous donnant des services (gratuits) des plus en plus performants et en échange, la plateforme (Facebook) valorise le pollen. Ce contrat est accepté, pour le moment. Gardons en tête ces mécanismes contributifs pour envisager de les appliquer sur une autre plateforme. 
 
 **Et si naissait une plateforme citoyenne pour mieux gérer les communs ?**
 
@@ -31,11 +31,11 @@ Il est tout à fait envisageable d'utiliser les mêmes mécanismes sur une plate
 
  
 
-[![]()]()
+
 
  
 
-*Schéma [**Philippe Botte**]() basé sur la théorie de Yann Moulier Boutang*
+*Schéma [**Philippe Botte**](http://www.amelios.fr/) basé sur la théorie de Yann Moulier Boutang*
 
  
 
@@ -43,11 +43,11 @@ Il est tout à fait envisageable d'utiliser les mêmes mécanismes sur une plate
 
  
 
-Dans le domaine des mobilités, ce blog décrit de nombreux services, considérés comme des applications. Chaque service est spécialisé sur une fonction, une mobilité précise, un environnement donné. Il n'existe pas de plateforme globale rassemblant ces différentes applications. Nous pouvons attendre qu'un acteur le fasse, probablement celui qui possède l'application la plus puissante (lire notamment la [**MétaNote N°14 l'avenir de l'automobile**]()). Soit nous considérons cette plateforme comme un **[*commun*]()**, indispensable pour faire muter notre système de transport, pour construire une société libre et équilibrée. Esquissons cette plateforme.
+Dans le domaine des mobilités, ce blog décrit de nombreux services, considérés comme des applications. Chaque service est spécialisé sur une fonction, une mobilité précise, un environnement donné. Il n'existe pas de plateforme globale rassemblant ces différentes applications. Nous pouvons attendre qu'un acteur le fasse, probablement celui qui possède l'application la plus puissante (lire notamment la [**MétaNote N°14 l'avenir de l'automobile**]({{ site.baseurl }}/2012/07/lavenir-de-lautomobile/)). Soit nous considérons cette plateforme comme un **[*commun*](http://p2pfoundation.net/Four_Future_P2P_Scenarios#.UwdmJFXhxXI.twitter)**, indispensable pour faire muter notre système de transport, pour construire une société libre et équilibrée. Esquissons cette plateforme.
 
  
 
-Elle hébergera plusieurs monnaies (et les dispositifs pour les gérer), toutes les applications (services de mobilité et d'immobilité), des systèmes complets de réputation, des outils de réseaux sociaux basés sur le web sémantique permettant de capitaliser et de faire des propositions de mobilité adaptées aux besoins (si vous vous déplacez comme ça dans telle condition alors vous pourriez aussi essayer ce service). **Appelons cette plateforme WikiMobilis**. Elle devra être séduisante, simple d'usage et présente dans chaque poche (comme un clé de voiture). Elle rassemblera plusieurs millions d'abeilles utilisatrices et contributives de services de mobilités mais également productrices de connaissances sur les usages, productrices de liens sociaux, productrices de bénéfices sur notre santé. Plus nous l'utiliserons plus elle sera performante, plus elle intègrera de nouvelles applications (services), plus elle attirera d'abeille. Les valeurs qu'elle porte devront bien sûr être cohérente avec les aspirations des "citoyens du futur" (lire la MétaNote [**Apprenons à connaître les citoyens du futur**]()).
+Elle hébergera plusieurs monnaies (et les dispositifs pour les gérer), toutes les applications (services de mobilité et d'immobilité), des systèmes complets de réputation, des outils de réseaux sociaux basés sur le web sémantique permettant de capitaliser et de faire des propositions de mobilité adaptées aux besoins (si vous vous déplacez comme ça dans telle condition alors vous pourriez aussi essayer ce service). **Appelons cette plateforme WikiMobilis**. Elle devra être séduisante, simple d'usage et présente dans chaque poche (comme un clé de voiture). Elle rassemblera plusieurs millions d'abeilles utilisatrices et contributives de services de mobilités mais également productrices de connaissances sur les usages, productrices de liens sociaux, productrices de bénéfices sur notre santé. Plus nous l'utiliserons plus elle sera performante, plus elle intègrera de nouvelles applications (services), plus elle attirera d'abeille. Les valeurs qu'elle porte devront bien sûr être cohérente avec les aspirations des "citoyens du futur" (lire la MétaNote [**Apprenons à connaître les citoyens du futur**]({{ site.baseurl }}/2013/12/quelles-sont-les-evolutions-a-venir-de-nos-structures-familiales-de-nos-communautes-et-donc-de-nous/)).
 
  
 

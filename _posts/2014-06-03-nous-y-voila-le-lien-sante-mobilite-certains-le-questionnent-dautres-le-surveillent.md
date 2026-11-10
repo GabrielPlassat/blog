@@ -38,11 +38,11 @@ Plusieurs notes ont été rédigées sur le rôle majeur des assureurs (lire l'a
 
  
 
-Plus vous marchez, plus votre capteur numérique l'enregistre, plus [**votre santé s'améliore**]({{ site.baseurl }}/2010/01/plan-national-de-prevention-par-lactivite-physique-ou-sportive/) plus cela vous rapporte" et plus AXA y gagne en réduisant statistiquement vos dépenses de santé et probablement également vos dépenses de transports (assurance voiture). Et si, par ce biais, AXA n'était pas le meilleur promoteur des pratiques de vélo et marche pour aller au travail ? Est ce complémentaire, concurrent ou différent d'une approche de soutien au vélo basée sur une indemnité à l'usage (lire cet article sur le blog de l'ADEME concernant [**l'expérimentation de l'indemnité vélo**]()) ?
+Plus vous marchez, plus votre capteur numérique l'enregistre, plus [**votre santé s'améliore**]({{ site.baseurl }}/2010/01/plan-national-de-prevention-par-lactivite-physique-ou-sportive/) plus cela vous rapporte" et plus AXA y gagne en réduisant statistiquement vos dépenses de santé et probablement également vos dépenses de transports (assurance voiture). Et si, par ce biais, AXA n'était pas le meilleur promoteur des pratiques de vélo et marche pour aller au travail ? Est ce complémentaire, concurrent ou différent d'une approche de soutien au vélo basée sur une indemnité à l'usage (lire cet article sur le blog de l'ADEME concernant [**l'expérimentation de l'indemnité vélo**](http://www.presse.ademe.fr/2014/06/20-entreprises-testent-lindemnite-velo.html)) ?
 
  
 
-Les changements de pratiques de mobilités apparaissent au centre des enjeux avec un angle énergie, environnement. Pour cela, plusieurs leviers peuvent être utilisés : du changement de comportement à l'engagement citoyen (lire [**cet article dédié**]()), l'apport des sciences psycho-sociales (lire [**cet article dédié**]()), l'exploitation des technologies numériques pour créer de nouvelles données (lire [**cet article dédié**]()) et finalement questionner l'objet lien mis en oeuvre (lire [**cet article sur la peur, la proie ou l'Art ?**]()).
+Les changements de pratiques de mobilités apparaissent au centre des enjeux avec un angle énergie, environnement. Pour cela, plusieurs leviers peuvent être utilisés : du changement de comportement à l'engagement citoyen (lire [**cet article dédié**](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/2014/03/du-changement-de-comportement-a-lengagement-citoyen.html)), l'apport des sciences psycho-sociales (lire [**cet article dédié**]({{ site.baseurl }}/2014/02/quelle-place-pour-les-apports-sociologiques-face-a-lincantation-du-report-modal/)), l'exploitation des technologies numériques pour créer de nouvelles données (lire [**cet article dédié**]({{ site.baseurl }}/2014/02/vous-reduirez-lusage-de-la-voiture-pour-payer-moins-cher-dassurance-sante/)) et finalement questionner l'objet lien mis en oeuvre (lire [**cet article sur la peur, la proie ou l'Art ?**]({{ site.baseurl }}/2013/09/quel-est-lobjet-lien-de-votre-projet-la-peur-la-proie-ou-lart/)).
 
  
 
@@ -50,11 +50,11 @@ Les changements de pratiques de mobilités apparaissent au centre des enjeux ave
 
  
 
-La donnée numérique se positionne comme un paramètre majeur des innovations (lire cet article [**Que savons nous du pouvoir de la donnée ?**]()). La valeur de la donnée produite n'est pas connue "**à priori**", quand elle est produite. Sa valeur ne viendra que dans l'hybridation, le croisement qui seront faits, éventuellement par d'autres persones, avec d'autres données. La valeur est donc déterminée "**à posteriori**", dans le flux. Ceci est essentiel à comprendre, car en conséquence, les modèles d'affaires sont donc particulièrement délicats à établir au départ. D'autant que c'est bien l'accès à cette donnée qui permettra de réaliser un outil 
+La donnée numérique se positionne comme un paramètre majeur des innovations (lire cet article **Que savons nous du pouvoir de la donnée ?**). La valeur de la donnée produite n'est pas connue "**à priori**", quand elle est produite. Sa valeur ne viendra que dans l'hybridation, le croisement qui seront faits, éventuellement par d'autres persones, avec d'autres données. La valeur est donc déterminée "**à posteriori**", dans le flux. Ceci est essentiel à comprendre, car en conséquence, les modèles d'affaires sont donc particulièrement délicats à établir au départ. D'autant que c'est bien l'accès à cette donnée qui permettra de réaliser un outil 
 
  
 
-Dans ce futur d'autosurveillance de soi via un tiers et des outils numériques, plusieurs acteurs se positionnent. Ils viennent du monde du sport comme [**Nike**](), des fournisseurs d'[**objets connectés**](), des acteurs nouveaux centrés sur les incitatifs comme [**CitéGreen**]() ou encore des pouvoirs publics qui, par la loi, peuvent obliger la mise en oeuvre de système de surveillance (lire cet article sur [**les boites noires dans les voitures aux USA**]()). Cette vision d'un système de bonus/malus généralisé et généralisable est bien sûr fortement questionnable. L'objectif est ici de montrer que certains acteurs y ont intérêt.
+Dans ce futur d'autosurveillance de soi via un tiers et des outils numériques, plusieurs acteurs se positionnent. Ils viennent du monde du sport comme **Nike**, des fournisseurs d'**objets connectés**, des acteurs nouveaux centrés sur les incitatifs comme **CitéGreen** ou encore des pouvoirs publics qui, par la loi, peuvent obliger la mise en oeuvre de système de surveillance (lire cet article sur **les boites noires dans les voitures aux USA**). Cette vision d'un système de bonus/malus généralisé et généralisable est bien sûr fortement questionnable. L'objectif est ici de montrer que certains acteurs y ont intérêt.
 
  
 
@@ -66,18 +66,8 @@ Quel serait alors les dispositifs communs permettant de maximiser l'usage du num
 
  
 
-Cet [**article**]() de Valérie Peugeot (Orange Labs, VECAM) concernant les données personnelles est essentiel. Il est présenté quatre pistes concernant la gestion des données personnelles dont plusieurs conduisant à des impasses. Une des pistes à retenir concerne la création de commun associé à des faisceaux de droits juridiques, permettant notamment "*Une ouverture de la donnée individuelle à un tiers sur base d’une autorisation explicite de la part de l’individu coproducteur, en échange d’un service**".*** Cette approche peut être combinée à la notion de [**Privacy by Design**]() venu du Canada qui peut se définir par 7 principes de bases (lien vers l'[**article**]()) : "*ensuring privacy and gaining personal control over one’s information and, for organizations, gaining a sustainable competitive advantage*".
+Cet **article** de Valérie Peugeot (Orange Labs, VECAM) concernant les données personnelles est essentiel. Il est présenté quatre pistes concernant la gestion des données personnelles dont plusieurs conduisant à des impasses. Une des pistes à retenir concerne la création de commun associé à des faisceaux de droits juridiques, permettant notamment "*Une ouverture de la donnée individuelle à un tiers sur base d’une autorisation explicite de la part de l’individu coproducteur, en échange d’un service**".*** Cette approche peut être combinée à la notion de **Privacy by Design** venu du Canada qui peut se définir par 7 principes de bases (lien vers l'**article**) : "*ensuring privacy and gaining personal control over one’s information and, for organizations, gaining a sustainable competitive advantage*".
 
  
 
-**Il s'agit des premiers exemples d'usage de données personnelles au croisement de plusieurs domaines. Plusieurs vagues vont suivre. La santé et la mobilité sont liées avec ou sans numérique. N'attendons pas que seuls les acteurs marchands s'emparent de ce sujet. Plus l'asymétrie sera grande vis à vis du citoyen, plus de nouveaux mouvements contre-culturel vont émerger sur ce sujet tant il est important. Il est également possible de changer sans rien attendre des autres, des acteurs marchands comme de l'Etat (lire cet [article]())**
-
- 
-
- 
-
- 
-
- 
-
-"2014-06-03 12:57:34https://transportsdufutur.ademe.fr/2014/06/nous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent.htmlanthropologie|assistant de mobilité|assurance|citoyen|commuter|confiance|connectivité|données réelles|innovation|lloyd's|marche|monnaie complémentaire|partage de données|pensée complexe|sousveillance|surveillance|transparence|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent2015-07-21 16:35:32
+**Il s'agit des premiers exemples d'usage de données personnelles au croisement de plusieurs domaines. Plusieurs vagues vont suivre. La santé et la mobilité sont liées avec ou sans numérique. N'attendons pas que seuls les acteurs marchands s'emparent de ce sujet. Plus l'asymétrie sera grande vis à vis du citoyen, plus de nouveaux mouvements contre-culturel vont émerger sur ce sujet tant il est important. Il est également possible de changer sans rien attendre des autres, des acteurs marchands comme de l'Etat (lire cet article)**
