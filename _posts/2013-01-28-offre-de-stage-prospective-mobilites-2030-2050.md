@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Offre de stage - Prospective Mobilités 2030-2050"
-date: 2013-01-28 10:06:00 +0100
-categories: []
+date: 2013-01-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/01/offre-de-stage-prospective-mobilites-2030-2050.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2013/01/28/offre-de-stage-prospective-mobilites-2030-2050/
 ---
 
-En s’appuyant sur l’[**étude récemment publiée par l’ADEME dédiée aux scénarios énergétiques 2030-2050** ](/2012/11/contribution-de-lademe-aux-visions-energetiques-2030-2050.html)et les modèles de calcul associés, dans le domaine des transports de personnes et de marchandises, le stage visera  à :
+En s’appuyant sur l’[**étude récemment publiée par l’ADEME dédiée aux scénarios énergétiques 2030-2050** ]({{ site.baseurl }}/2012/11/contribution-de-lademe-aux-visions-energetiques-2030-2050/)et les modèles de calcul associés, dans le domaine des transports de personnes et de marchandises, le stage visera  à :
 
  
  

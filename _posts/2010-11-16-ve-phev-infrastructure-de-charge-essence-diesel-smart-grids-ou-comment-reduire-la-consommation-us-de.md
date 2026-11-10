@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "VE, PHEV, infrastructure de charge, essence, Diesel, smart grids, ou comment réduire la consommation US de pétrole de 1 milliard de baril (jusqu’en 2025) tout en réduisant le coût total de possession de $6,000 par véhicule ?"
-date: 2010-11-16 12:32:09 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'Efficacité énergétique', 'Energie', 'EPA', 'Infrastructure', 'innovation', 'sécurité', 'smartgrid', 'stationnement', 'VE']
-=======
-tags: ["citoyen", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "EPA", "Infrastructure", "innovation", "s\u00e9curit\u00e9", "smartgrid", "stationnement", "VE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "16/11/2010 12:32"
+tags: ["citoyen", "Efficacité énergétique", "Energie", "EPA", "Infrastructure", "innovation", "sécurité", "smartgrid", "stationnement", "VE"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/11/16/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de/
 ---
 
 Le 21 mai 2010, le président Obama demande à l’**[EPA](http://www.epa.gov)**, la **[NHTSA](http://www.nhtsa.gov)** et le **[CARB ](http://www.arb.ca.gov/)**de remettre en Septembre un rapport complet coordonné visant à définir la stratégie nationale des USA en matière de véhicules « légers ».
@@ -52,8 +53,8 @@ Dans tous les cas, il est remarquable de constater que tous les scénarios condu
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f5e55ff2970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f5e55ff2970b-800wi.jpg) 
-Ce rapport montre que l'avenir du secteur industriel automobile se joue maintenant avec les infrastructures énergétiques électriques, avec l'économie de la seconde vie des batteries. Par contre, l'usage des objets n'a pas été introduit dans la réflexion, et notamment l'apport des technologies de l'information. Le précédent article consacré à **[General Electric](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html)** indique que le succès en matière de transports et mobilités sera sans doute à la croisée de plusieurs domaines {véhicules, énergies, infrastructures et informations}.
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5e55ff2970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5e55ff2970b-800wi.jpg) 
+Ce rapport montre que l'avenir du secteur industriel automobile se joue maintenant avec les infrastructures énergétiques électriques, avec l'économie de la seconde vie des batteries. Par contre, l'usage des objets n'a pas été introduit dans la réflexion, et notamment l'apport des technologies de l'information. Le précédent article consacré à **[General Electric]({{ site.baseurl }}/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique/)** indique que le succès en matière de transports et mobilités sera sans doute à la croisée de plusieurs domaines {véhicules, énergies, infrastructures et informations}.
 
  
 
@@ -71,8 +72,4 @@ La seconde, liée à la première, pourrait venir de "l'apprentissage cumulé" o
 
 Cette étude focalisée sur les véhicules, élargie aux énergies et infrastructures, est une base de travail remarquable. Elle nécessiterait d'être complétée et revue en incluant l'apport des technologies de l'information permettant de reconsidérer les usages possibles, donc les choix technologiques. Cette boucle itérative complexe ne peut être, à mon sens, finalisée qu'en incluant les utilisateurs citoyens, qu'en utilisant concrétement toutes ces solutions.
 
-<<<<<<< HEAD
  [Prosp techno usa]() View more [documents]() from [transportsdufutur](). "2010-11-16 12:32:09https://transportsdufutur.ademe.fr/2010/11/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de.htmlcitoyen|Efficacité énergétique|Energie|EPA|Infrastructure|innovation|sécurité|smartgrid|stationnement|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de2015-07-21 16:37:33
-=======
- [Prosp techno usa]() View more [documents]() from [transportsdufutur](). "2010-11-16 12:32:09/2010/11/16/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de/citoyen|Efficacité énergétique|Energie|EPA|Infrastructure|innovation|sécurité|smartgrid|stationnement|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de2015-07-21 16:37:33
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

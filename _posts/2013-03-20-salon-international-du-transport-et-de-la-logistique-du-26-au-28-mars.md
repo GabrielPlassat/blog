@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Salon International du Transport et de la Logistique du 26 au 28 mars"
-date: 2013-03-20 09:25:40 +0100
-categories: []
+date: 2013-03-20
+source: tdf
+source_name: "Transports du Futur"
+original_url: "font-size: 11pt\"\">4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : <a href=\"\"http://www.sitl.eu/site/FR/Conferences/Programme_des_conferences/Zoom_conference,Les_certificats_deconomie_denergie_dans_le_transport_et_la_logistique__comment_valoriser_ses_actions_environnementales,C5184,I5185,Zoom-b23b3b46dbbee309992a6ec052a94e59.htm?KM_Session=1f7959af714c6e525fb4b00c21eb3075\"\">\"Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?\"</a></span></p>\""
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2013/03/20/salon-international-du-transport-et-de-la-logistique-du-26-au-28-mars/
 ---
 
 Le salon **[SITL Solutions Logistiques](http://www.sitl.eu/)** (30ème édition) sera déroulera du 26 au 28 mars 2013 à Paris Nord Villepinte. En 30 ans, SITL a accueilli, parfois précédé, toujours  accompagné, les grandes mutations de la logistique, fonction devenue  stratégique, au service de la croissance des entreprises.
@@ -32,10 +37,6 @@ L'ADEME intervient dans plusieurs conférences et tables rondes :
 
 4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
 
-<<<<<<< HEAD
 "2013-03-20 09:25:40https://transportsdufutur.ademe.fr/2013/03/salon-international-du-transport-et-de-la-logistique-du-26-au-28-mars.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsalon-international-du-transport-et-de-la-logistique-du-26-au-28-mars2015-07-21 16:35:44font-size: 11pt"">4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
-=======
-"2013-03-20 09:25:40/2013/03/20/salon-international-du-transport-et-de-la-logistique-du-26-au-28-mars/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsalon-international-du-transport-et-de-la-logistique-du-26-au-28-mars2015-07-21 16:35:44font-size: 11pt"">4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 "

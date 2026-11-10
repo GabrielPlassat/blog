@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Utilisacteur, test'n'trust, see-click-fix vers un kit de lobby citoyen"
-date: 2010-06-03 09:43:22 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'finlande', 'internet', 'internet des objets', 'marchandises', 'marketing', 'partage de données', 'propaganda', 'réseaux', 'transition générationnelle']
-=======
-tags: ["citoyen", "collectivit\u00e9", "finlande", "internet", "internet des objets", "marchandises", "marketing", "partage de donn\u00e9es", "propaganda", "r\u00e9seaux", "transition g\u00e9n\u00e9rationnelle"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-06-03
+source: tdf
+source_name: "Transports du Futur"
+tags: ["citoyen", "collectivité", "finlande", "internet", "internet des objets", "marchandises", "marketing", "partage de données", "propaganda", "réseaux", "transition générationnelle"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/06/03/utilisacteur-testntrust-seeclickfix-vers-un-kit-de-lobby-citoyen/
 ---
 
 Le [National Consumer Research Center finlandais](http://www.ncrc.fi/) révèle, ces derniers jours et d’après plusieurs études réalisées auprès des consommateurs finlandais et américains, les grandes tendances de consommation de Demain. Celles-ci ne seront plus l’apanage d’une minorité mais se généraliseront partout dans le monde.

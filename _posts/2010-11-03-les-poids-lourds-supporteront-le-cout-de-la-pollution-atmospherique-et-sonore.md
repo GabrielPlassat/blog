@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les poids lourds supporteront le coût de la pollution atmosphérique et sonore"
-date: 2010-11-03 10:26:32 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['donnée data', 'données réelles', 'emission', 'Infrastructure', 'marchandises', 'Véhicule']
-=======
-tags: ["donn\u00e9e data", "donn\u00e9es r\u00e9elles", "emission", "Infrastructure", "marchandises", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/les-poids-lourds-supporteront-le-cout-de-la-pollution-atmospherique-et-sonore.html"
+tags: ["donnée data", "données réelles", "emission", "Infrastructure", "marchandises", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/11/03/les-poids-lourds-supporteront-le-cout-de-la-pollution-atmospherique-et-sonore/
 ---
 
 Les ministres de l'UE se sont prononcés aujourd'hui en faveur de nouvelles règles européennes qui autoriseraient les États membres à taxer les poids lourds afin de couvrir le coût de la pollution atmosphérique et sonore. Cette taxe s'ajouterait à celle déjà appliquée pour couvrir les coûts relatifs aux infrastructures. Telle qu'elle est proposée, la révision de la directive «Eurovignette» permettra aux États membres de mieux gérer les problèmes de circulation, en leur laissant la possibilité de moduler les taxes appliquées aux poids lourds en fonction du moment de la journée.
@@ -18,7 +19,7 @@ Siim Kallas, vice-président de la Commission européenne responsable des transp
 
  
 
-**Quand les TIC permettent déjà aujourd'hui d'accéder à des données hier confidentielles concernant les polluants et émissions de GES (voir [ici ](/2010/06/garmin-ecoroute-ce-nest-quun-debut-vers-plus-de-transparence.html)et [ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)), nous pouvons penser que cette réglementation associée à des outils numériques permettront de réduire les émissions réelles.**
+**Quand les TIC permettent déjà aujourd'hui d'accéder à des données hier confidentielles concernant les polluants et émissions de GES (voir [ici ]({{ site.baseurl }}/2010/06/garmin-ecoroute-ce-nest-quun-debut-vers-plus-de-transparence/)et [ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)), nous pouvons penser que cette réglementation associée à des outils numériques permettront de réduire les émissions réelles.**
 
  
 
@@ -30,7 +31,7 @@ Siim Kallas, vice-président de la Commission européenne responsable des transp
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f58c3e09970b-320wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f58c3e09970b-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f58c3e09970b-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f58c3e09970b-800wi.jpg) 
  
 La directive «Eurovignette» actuelle interdit la perception d'autres taxes couvrant, par exemple, les «coûts externes» générés, notamment, par la pollution atmosphérique et sonore, qui sont pour l'heure supportés par la société et les contribuables.
 

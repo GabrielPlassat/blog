@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "ECTRI European Conference of Transport Research Institutes"
-date: 2010-07-07 11:31:21 +0100
-categories: []
+date: 2010-07-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/ectri-european-conference-of-transport-research-institutes.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/07/07/ectri-european-conference-of-transport-research-institutes/
 ---
 
 ECTRI is an international non-profit association registered in France. Founded in 2003 by 15 national transport research institutes, ECTRI today includes 27 institutes (or universities) from 20 different countries. 
@@ -38,7 +43,7 @@ For a short overview of ECTRI and its activities, you can download the following
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013485429190970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b013485429190970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013485429190970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013485429190970c-pi.jpg) 
  
 
  

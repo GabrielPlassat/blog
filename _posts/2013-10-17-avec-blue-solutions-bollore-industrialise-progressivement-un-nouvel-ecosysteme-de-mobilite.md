@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Avec Blue Solutions, Bolloré industrialise progressivement un nouvel écosystème de mobilité"
-date: 2013-10-17 10:39:22 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['batterie', 'blue solution', 'Efficacité énergétique', 'innovation', 'plate-forme', 'Service de mobilité', 'territoire']
-=======
-tags: ["batterie", "blue solution", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "plate-forme", "Service de mobilit\u00e9", "territoire"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-10-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: ">En maîtrisant toute la chaîne, toutes les boucles rétroactives permettant de renvoyer les bonnes informations aux concepteurs, les processus d'optimisation et d'innovation vont pouvoir être beaucoup plus rapides, itératifs. Idéalement, la version béta va devenir la norme.</p> <p style=\"\"text-align: justify"
+tags: ["batterie", "blue solution", "Efficacité énergétique", "innovation", "plate-forme", "Service de mobilité", "territoire"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2013/10/17/avec-blue-solutions-bollore-industrialise-progressivement-un-nouvel-ecosysteme-de-mobilite/
 ---
 
 Blue Solutions fait son introduction en **[bourse](http://www.boursier.com/actions/actualites/news/introductions-blue-solutions-de-bollore-arrive-sur-nyse-euronext-550465.html)**, et annonce le même jour **[le lancement d'un projet en Côte d'ivoire](http://news.abidjan.net/h/477690.html)** couplant 2 bus électriques (Blue bus) alimentés à partir de panneaux photovoltaïques. au centre la technologie des batteries Lithium-métal-polymère (LMP) (lire le CP en bas...). Partir d'une technologie stratégique pour construire progressivement un écosystème de mobilité, de gestion de l'énergie, en déployant des laboratoires vivants à petites ou grandes échelles, telle est la stratégie.
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b019b0016b03e970b-800wi.jpg) ](/assets/images/old/6a0120a66d2ad4970b019b0016b03e970b-pi.jpg)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b0016b03e970b-800wi.jpg) ]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b0016b03e970b-pi.jpg)
 
  
 
@@ -22,7 +23,7 @@ Blue Solutions fait son introduction en **[bourse](http://www.boursier.com/actio
 
  
 
-La **[MétaNote N°0](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)** rédigée en 2008 avec **[Global Chance](http://www.global-chance.org/IMG/pdf/GC26LEF81p98-101.pdf)** (et publiée en 2009 sur ce blog) indiquait déjà : Ces objets dont la principale valeur ajoutée ne viendra pas forcément du cœur de métier d’un constructeur automobile (électronique, télécommunication, stockage chimique…) pourraient conduire alors à une inversion des rôles : des voitures Hitachi, NEC ou Sanyo, puisque la marque devient secondaire.". Avec Autolib', Blue solutions, Bolloré déploie une suite servicielle co-conçue avec les utilisateurs. Le processus est itératif comme en témoigne **[le partenariat avec Renault]()** pour industrialiser un véhicule 3 places, 200 km d'autonomie, dédié au partage. En exploitant l'expérience d'Autolib', le cahier des charges de l'objet est revu. 
+La **[MétaNote N°0]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** rédigée en 2008 avec **[Global Chance](http://www.global-chance.org/IMG/pdf/GC26LEF81p98-101.pdf)** (et publiée en 2009 sur ce blog) indiquait déjà : Ces objets dont la principale valeur ajoutée ne viendra pas forcément du cœur de métier d’un constructeur automobile (électronique, télécommunication, stockage chimique…) pourraient conduire alors à une inversion des rôles : des voitures Hitachi, NEC ou Sanyo, puisque la marque devient secondaire.". Avec Autolib', Blue solutions, Bolloré déploie une suite servicielle co-conçue avec les utilisateurs. Le processus est itératif comme en témoigne **[le partenariat avec Renault]()** pour industrialiser un véhicule 3 places, 200 km d'autonomie, dédié au partage. En exploitant l'expérience d'Autolib', le cahier des charges de l'objet est revu. 
 
  
 
@@ -48,11 +49,7 @@ En partant de la batterie, Blue solutions est devenue une plateforme, sur laquel
 
  
 
-<<<<<<< HEAD
  ** [Cp bluebus abidjan 3]() ** from **[Les transports du futur]()** "2013-10-17 10:39:22https://transportsdufutur.ademe.fr/2013/10/avec-blue-solutions-bollore-industrialise-progressivement-un-nouvel-ecosysteme-de-mobilite.htmlbatterie|blue solution|Efficacité énergétique|innovation|plate-forme|Service de mobilité|territoirepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatavec-blue-solutions-bollore-industrialise-progressivement-un-nouvel-ecosysteme-de-mobilite2015-07-21 16:35:38>En maîtrisant toute la chaîne, toutes les boucles rétroactives permettant de renvoyer les bonnes informations aux concepteurs, les processus d'optimisation et d'innovation vont pouvoir être beaucoup plus rapides, itératifs. Idéalement, la version béta va devenir la norme.
-=======
- ** [Cp bluebus abidjan 3]() ** from **[Les transports du futur]()** "2013-10-17 10:39:22/2013/10/17/avec-blue-solutions-bollore-industrialise-progressivement-un-nouvel-ecosysteme-de-mobilite/batterie|blue solution|Efficacité énergétique|innovation|plate-forme|Service de mobilité|territoirepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatavec-blue-solutions-bollore-industrialise-progressivement-un-nouvel-ecosysteme-de-mobilite2015-07-21 16:35:38>En maîtrisant toute la chaîne, toutes les boucles rétroactives permettant de renvoyer les bonnes informations aux concepteurs, les processus d'optimisation et d'innovation vont pouvoir être beaucoup plus rapides, itératifs. Idéalement, la version béta va devenir la norme.
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

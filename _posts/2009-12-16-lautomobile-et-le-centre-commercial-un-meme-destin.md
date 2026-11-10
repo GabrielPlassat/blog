@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "L’automobile et le centre commercial, un même destin ?"
-date: 2009-12-16 12:16:37 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['centre commercial', 'drive-in', 'Energie', 'Infrastructure', 'Véhicule']
-=======
-tags: ["centre commercial", "drive-in", "Energie", "Infrastructure", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-12-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/lautomobile-et-le-centre-commercial-un-meme-destin.html"
+tags: ["centre commercial", "drive-in", "Energie", "Infrastructure", "Véhicule"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2009/12/16/lautomobile-et-le-centre-commercial-un-meme-destin/
 ---
 
 Alors que les ventes dans les hypermarchés poursuivent leur descente, les grands centres commerciaux eux aussi ne font plus recettes ([moins 6,8% en novembre par rapport à 2008](http://www.lemonde.fr/economie/article/2009/12/14/face-a-un-certain-essoufflement-le-modele-du-centre-commercial-tente-de-se-reinventer_1280306_3234.html)). Ironie de l’histoire, pour certains c’est la prime à la casse automobile qui serait à l’origine en « aspirant » le budget des ménages, les conduisant à des économies sur les autres postes. Le couple automobile / supermarché est-il fâché ?
@@ -16,7 +17,7 @@ Alors que les ventes dans les hypermarchés poursuivent leur descente, les grand
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0128765a3e74970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0128765a3e74970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128765a3e74970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128765a3e74970c-pi.jpg) 
 voir aussi [**Blog Transit city**](http://transit-city.blogspot.com/) 
 
  
@@ -33,8 +34,8 @@ Pour tenter de conserver ces commerces, de nombreuses pistes sont proposer : un
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a7574834970b-120pi.png)](/assets/images/old/6a0120a66d2ad4970b0120a7574834970b-pi.png) 
-![](/assets/images/old/6a0120a66d2ad4970b0120a75746cb970b-120pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a7574834970b-120pi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a7574834970b-pi.png) 
+![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a75746cb970b-120pi.jpg) 
   
 
  
@@ -59,17 +60,13 @@ Ceci oblige à repenser ces centres commerciaux : leur « mono-usage », leur
 
  
 
-En étant capable de « condenser » en un point l’espace-temps, ces endroits permettront de mieux accorder les temporalités individuelles de chacun, de pouvoir réaliser plusieurs activités en un même lieu, de choisir (en étant assisté, voir **[ici](http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/6a0120a66d2ad4970b012875a85d74970c/edit)**) le meilleur mode de déplacement au meilleur moment. Et finalement faire du « transit » un état stable, apaisé.
+En étant capable de « condenser » en un point l’espace-temps, ces endroits permettront de mieux accorder les temporalités individuelles de chacun, de pouvoir réaliser plusieurs activités en un même lieu, de choisir (en étant assisté, voir **[ici](https://web.archive.org/web/2018/http://www.typepad.com/site/blogs/6a0120a66d2ad4970b0128756e7ed4970c/post/6a0120a66d2ad4970b012875a85d74970c/edit)**) le meilleur mode de déplacement au meilleur moment. Et finalement faire du « transit » un état stable, apaisé.
 
  
 
  
 
-<<<<<<< HEAD
 A ce moment, les mobilités des personnes et des marchandises n’auront alors jamais été plus inter liées, plus performantes, mais aussi pl
-=======
-A ce moment, les mobilités des personnes et des marchandises n’auront alors jamais été plus inter liées, plus performantes, mais aussi pl_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 us complexes à gérer, impliquant de nouveaux métiers, des données fiables et partagées, et une grande maîtrise de l’espace public.
 
  

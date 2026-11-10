@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "For Gen Yers, driving isn’t part of the American Dream anymore. Being connected is."
-date: 2011-01-03 17:06:31 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'internet', 'partage de données', 'Service de mobilité', 'transition générationnelle']
-=======
-tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "internet", "partage de donn\u00e9es", "Service de mobilit\u00e9", "transition g\u00e9n\u00e9rationnelle"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-01-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/01/for-gen-yers-driving-isnt-part-of-the-american-dream-anymore-being-connected-is.html"
+tags: ["cité", "citoyen", "collectivité", "commuter", "connectivité", "internet", "partage de données", "Service de mobilité", "transition générationnelle"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/01/03/for-gen-yers-driving-isnt-part-of-the-american-dream-anymore-being-connected-is/
 ---
 
 **Walkable, urban, transit-oriented.** For Gen Yers, [driving isn’t part of the American Dream anymore](http://www.cooltownstudios.com/2010/06/14/emerging-generations-who-needs-a-car). [Being connected is](http://www.cooltownstudios.com/2010/07/02/the-shift-from-automobile-to-mobile-device). 

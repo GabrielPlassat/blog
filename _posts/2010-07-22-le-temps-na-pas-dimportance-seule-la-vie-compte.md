@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le temps n’a pas d’importance, seule la vie est importante"
-date: 2010-07-22 18:29:54 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'voyage']
-=======
+date: 2010-07-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/le-temps-na-pas-dimportance-seule-la-vie-compte.html"
 tags: ["citoyen", "voyage"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/07/22/le-temps-na-pas-dimportance-seule-la-vie-compte/
 ---
 
 En période de vacances, les transports sont également directement lies aux voyages. Le voyage fait également parti de nos imaginaires, et d’une certaine image du luxe. Comment voyagerons nous demain ? Quels voyages nous feront rêver ?

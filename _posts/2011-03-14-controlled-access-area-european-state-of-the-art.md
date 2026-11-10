@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Controlled Access Area, European State of the Art"
-date: 2011-03-14 16:52:29 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'citoyen', 'collectivité', 'Europe', 'management de la mobilité', 'multimodes', 'partage de la voirie', 'Pay as You Move', 'péage urbain', "qualité de l'air", 'roadpricing', 'surveillance']
-=======
-tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "Europe", "management de la mobilit\u00e9", "multimodes", "partage de la voirie", "Pay as You Move", "p\u00e9age urbain", "qualit\u00e9 de l'air", "roadpricing", "surveillance"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-03-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/03/controlled-access-area-european-state-of-the-art.html"
+tags: ["autorité des transports", "citoyen", "collectivité", "Europe", "management de la mobilité", "multimodes", "partage de la voirie", "Pay as You Move", "péage urbain", "qualité de l'air", "roadpricing", "surveillance"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/03/14/controlled-access-area-european-state-of-the-art/
 ---
 
 An increasing number of European cities is engaged in the design and implementation of demand management strategies based upon the concept of ‘controlled access’, which entails the more or less gradual interdiction of selected urban areas to traffic. The current situation is characterized by a high degree of heterogeneity, for what concerns:

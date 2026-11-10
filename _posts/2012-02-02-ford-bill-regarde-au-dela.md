@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "FORD (Bill) regarde au delà ..."
-date: 2012-02-02 09:31:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'commuter', 'connectivité', 'donnée data', 'FORD', 'Infrastructure', 'innovation', 'internet', 'ITS', 'Service de mobilité', 'téléphone', 'TIC', 'Véhicule']
-=======
-tags: ["citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "donn\u00e9e data", "FORD", "Infrastructure", "innovation", "internet", "ITS", "Service de mobilit\u00e9", "t\u00e9l\u00e9phone", "TIC", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-02-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "padding-left: 30px\"\">\"Now we're seeing the beginning of what's called intelligent multimodal transportation. Smart phones allow us to instantly rent a bike, carpool with someone just a mile up the road, find a bus, and even \"ping a ride\" with a car service or cab to get where we are going. Car-sharing services like Zipcar are viable businesses today in our thickest cities, because users can easily reach a shared car on foot after pulling up its location on their phone. In thick cities, technology is rapidly making it even more convenient to live without owning a car.\"</p> <p style=\"\"text-align: justify\"\"><strong>Et si nous avions en France, toutes les compétences, toutes les industries, tout l'écosystème, toute la dynamique pour créer et industrialiser à grande échelle ces nouvelles mobilités ? et créer ainsi des leaders mondiaux...Tous les renseignements pour l'AMI (Appel à Manifestations d'Intérêt) sur les mobilités et les chaînes logistiques : <a href=\"\"/2011/12/ami-chaines-logistiques-et-mobilites-occasionnelles-des-personnes-ademe.html\"\" target=\"\"_blank\"\">ICI</a>.<br /></strong></p> <p style=\"\"text-align: justify\"\"> </p>\""
+tags: ["citoyen", "collectivité", "commuter", "connectivité", "donnée data", "FORD", "Infrastructure", "innovation", "internet", "ITS", "Service de mobilité", "téléphone", "TIC", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2012/02/02/ford-bill-regarde-au-dela/
 ---
 
 Dans un [**article publié en mai 2011**](http://management.fortune.cnn.com/2011/05/17/bill-ford-looks-ahead/), Bill FORD propose sa vision de l'avenir. Les constats sont pertinents, et les pistes de solutions également même si B.FORD propose toujours sur des progrès technologiques sur les objets sans innover sur le système :
@@ -41,11 +42,7 @@ Mais aux USA, [**certains pensent**]() à améliorer le système, et cela passe 
 
  
 
-<<<<<<< HEAD
 "2012-02-02 09:31:00https://transportsdufutur.ademe.fr/2012/02/ford-bill-regarde-au-dela.htmlcitoyen|collectivité|commuter|connectivité|donnée data|FORD|Infrastructure|innovation|internet|ITS|Service de mobilité|téléphone|TIC|Véhiculepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatford-bill-regarde-au-dela2015-07-21 16:36:37padding-left: 30px"">"Now we're seeing the beginning of what's called intelligent multimodal transportation. Smart phones allow us to instantly rent a bike, carpool with someone just a mile up the road, find a bus, and even "ping a ride" with a car service or cab to get where we are going. Car-sharing services like Zipcar are viable businesses today in our thickest cities, because users can easily reach a shared car on foot after pulling up its location on their phone. In thick cities, technology is rapidly making it even more convenient to live without owning a car."
-=======
-"2012-02-02 09:31:00/2012/02/02/ford-bill-regarde-au-dela/citoyen|collectivité|commuter|connectivité|donnée data|FORD|Infrastructure|innovation|internet|ITS|Service de mobilité|téléphone|TIC|Véhiculepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatford-bill-regarde-au-dela2015-07-21 16:36:37padding-left: 30px"">"Now we're seeing the beginning of what's called intelligent multimodal transportation. Smart phones allow us to instantly rent a bike, carpool with someone just a mile up the road, find a bus, and even "ping a ride" with a car service or cab to get where we are going. Car-sharing services like Zipcar are viable businesses today in our thickest cities, because users can easily reach a shared car on foot after pulling up its location on their phone. In thick cities, technology is rapidly making it even more convenient to live without owning a car."
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

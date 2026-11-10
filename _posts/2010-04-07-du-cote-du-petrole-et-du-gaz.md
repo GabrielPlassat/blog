@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Du coté du pétrole et du gaz"
-date: 2010-04-07 14:12:36 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'gaz', 'pétrole', 'prix carburant']
-=======
-tags: ["Energie", "gaz", "p\u00e9trole", "prix carburant"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/du-cote-du-petrole-et-du-gaz.html"
+tags: ["Energie", "gaz", "pétrole", "prix carburant"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/04/07/du-cote-du-petrole-et-du-gaz/
 ---
 
 **Du coté du pétrole, deux récents rapports américains issus du DoE et du DoD indiquent des tensions dès 2012 (source [http://petrole.blog.lemonde.fr](http://petrole.blog.lemonde.fr/))  :**
@@ -38,7 +39,7 @@ Autant dire que si cette hypothèse du Pentagone se réalise, c’est un troisi�
 
  
 
-Un pronostic identique d’un écart de 10 Mb/j entre offre et demande de pétrole en 2015 apparaît à la page 8 du [document](/assets/images/2010/04/Sweetnam.pdf) du Département de l’énergie américain (DoE) mis au jour dans l’[enquête publiée](http://petrole.blog.lemonde.fr/2010/03/23/washington-envisage-un-declin-de-la-production-de-petrole-mondiale-a-partir-de-2011/) ici le 23 mars.
+Un pronostic identique d’un écart de 10 Mb/j entre offre et demande de pétrole en 2015 apparaît à la page 8 du [document]({{ site.baseurl }}/assets/images/2010/04/Sweetnam.pdf) du Département de l’énergie américain (DoE) mis au jour dans l’[enquête publiée](http://petrole.blog.lemonde.fr/2010/03/23/washington-envisage-un-declin-de-la-production-de-petrole-mondiale-a-partir-de-2011/) ici le 23 mars.
 
  **[Oil Iea Sweetnam](http://www.slideshare.net/transportsdufutur/oil-iea-sweetnam)** View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 
@@ -50,11 +51,7 @@ La récession économique, le développement de ressources gazières non convent
 
  
 
-<<<<<<< HEAD
 De nouvelles perspectives
-=======
-De nouvelles perspectives_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 pour la sécurité gazière. Six objectifs peuvent ainsi être fixés : 
 
  
@@ -103,9 +100,5 @@ Les tendances sont donc claires, le moyen terme est connu, les transitions reste
 
  
 
-<<<<<<< HEAD
 ·     localement, en fonction des ressources, des carburants issus des déchets ménagers, communaux ou industriels (estérification d’huile usagée, méthanisation de déchets…), ou encore issus de co-productions ind
-=======
-·     localement, en fonction des ressources, des carburants issus des déchets ménagers, communaux ou industriels (estérification d’huile usagée, méthanisation de déchets…), ou encore issus de co-productions ind_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ustriels permettant de mieux valoriser tous les produits et services, prendront des parts marginales en terme d’énergie, mais importantes en terme de robustesse vis-à-vis des fluctuations des marchés.

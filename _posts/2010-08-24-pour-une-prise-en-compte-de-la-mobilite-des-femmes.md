@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Pour une prise en compte de la mobilité des femmes"
-date: 2010-08-24 16:04:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assurance', 'citoyen', 'collectivité', 'confiance', 'partage de la voirie', 'sécurité', 'Service de mobilité', 'surveillance', 'temporalité']
-=======
-tags: ["assurance", "citoyen", "collectivit\u00e9", "confiance", "partage de la voirie", "s\u00e9curit\u00e9", "Service de mobilit\u00e9", "surveillance", "temporalit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/pour-une-prise-en-compte-de-la-mobilite-des-femmes.html"
+tags: ["assurance", "citoyen", "collectivité", "confiance", "partage de la voirie", "sécurité", "Service de mobilité", "surveillance", "temporalité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/08/24/pour-une-prise-en-compte-de-la-mobilite-des-femmes/
 ---
 
 Aujourd’hui encore, les temporalités des hommes et des femmes ne sont pas les mêmes, les salaires non plus, de même que les différentes tâches de la journée. [Les déplacements et les modes utilisés sont donc eux aussi très différents de façon voulue ou pas](http://www.lesquotidiennes.com/travail/les-vraies-raisons-du-comportement-%C2%ABecolo%C2%BB-des-femmes.html). En moyenne, les femmes utilisent plus les transports publics avec des parcours plus complexes que les hommes.

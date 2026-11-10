@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Long road ahead for emissions in Beijing"
-date: 2010-03-16 09:17:07 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['chine', "qualité de l'air", 'véhicule propre']
-=======
-tags: ["chine", "qualit\u00e9 de l'air", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "16/03/2010 09:17"
+tags: ["chine", "qualité de l'air", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/03/16/long-road-ahead-for-emissions-in-beijing/
 ---
 
 [**[lien article](http://www.chinadaily.com.cn/life/2010-03/15/content_9590194.htm)**] Expatriates who have lived in Beijing for a long time have recently been squinting with disbelief when looking at the sky. At the end of last month and beginning of this month, residents of the capital, who are accustomed to seeing acrid smog in winter, were treated to two weekends of gloriously blue days. 
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a94039f2970b-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a94039f2970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a94039f2970b-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a94039f2970b-pi.jpg) 
  
 
  
@@ -109,8 +110,4 @@ The writer is a corporate trainer in Beijing.
 
  
 
-<<<<<<< HEAD
 "2010-03-16 09:17:07https://transportsdufutur.ademe.fr/2010/03/long-road-ahead-for-emissions-in-beijing.htmlchine|qualité de l'air|véhicule proprepublish18gabriel plassatlong-road-ahead-for-emissions-in-beijing2010-03-16 09:17:07
-=======
-"2010-03-16 09:17:07/2010/03/16/long-road-ahead-for-emissions-in-beijing/chine|qualité de l'air|véhicule proprepublish18gabriel plassatlong-road-ahead-for-emissions-in-beijing2010-03-16 09:17:07
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

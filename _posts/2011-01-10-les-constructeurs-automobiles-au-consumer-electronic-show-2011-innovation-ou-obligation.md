@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les constructeurs automobiles au Consumer Electronic Show 2011, innovation ou obligation ?"
-date: 2011-01-10 15:24:29 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'citoyen', 'innovation', 'internet', 'internet des objets', 'partage de données', 'véhicule propre']
-=======
-tags: ["assistant de mobilit\u00e9", "citoyen", "innovation", "internet", "internet des objets", "partage de donn\u00e9es", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-01-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/01/les-constructeurs-automobiles-au-consumer-electronic-show-2011-innovation-ou-obligation.html"
+tags: ["assistant de mobilité", "citoyen", "innovation", "internet", "internet des objets", "partage de données", "véhicule propre"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2011/01/10/les-constructeurs-automobiles-au-consumer-electronic-show-2011-innovation-ou-obligation/
 ---
 
 Ils sont présents avec des « nouveautés », **[BMW](http://www.bmw.com/com/en/insights/technology/connecteddrive/overview.html)**, **[Audi](http://www.greencarcongress.com/2011/01/bluelink-20100106.html)**, **[Toyota](http://rumors.automobilemag.com/ces-2011-toyotas-entune-navigates-books-restaurants-buys-movie-tickets-12133.html)**, **[Hyundai](http://www.greencarcongress.com/2011/01/bluelink-20100106.html)**, **[Ford](http://media.ford.com/mini_sites/10031/FocusElectric/)** … Smartphone on wheels, connected car, de plus en plus d’électronique depuis des décennies, orientés vers le consommateur, le dernier CES (**[Consumer Electronic Show](http://www.cesweb.org/)**) voit arriver, naturellement, en masse les constructeurs. S’agit-il d’innovations automobiles, ou simplement d’une obligation pour eux de suivre l’accélération réelle du monde électronique vers l’ubiquité totale ? Qui gardera le contact avec le client final ? 
@@ -32,4 +33,4 @@ Le conducteur accède ainsi aux possibilités de son smartphone et des compléme
 
  
 
-A court terme, le smartphone est bel et bien un prolongement de soi, une externalisation de certaines de nos fonctions cognitives (voir **[ici](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**). Cet objet, nomade par essence, se positionne comme l’unique concentrateur, comme le lien le plus direct vers le citoyen consommateur. Il permet(tra) de court-circuiter, de revoir de nombreux liens que l’on croyait établis. Ainsi, de nouveaux acteurs seront capables de fournir des informations sur votre automobile, de gérer sa maintenance par exemple. Dans la bataille que se livre actuellement les acteurs économiques, la question peut se poser ainsi : « **Qui sera capable de recueillir l’attention du consommateur, de lui apporter le meilleur service, avec la plus forte valeur ajoutée ?** ».
+A court terme, le smartphone est bel et bien un prolongement de soi, une externalisation de certaines de nos fonctions cognitives (voir **[ici]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)**). Cet objet, nomade par essence, se positionne comme l’unique concentrateur, comme le lien le plus direct vers le citoyen consommateur. Il permet(tra) de court-circuiter, de revoir de nombreux liens que l’on croyait établis. Ainsi, de nouveaux acteurs seront capables de fournir des informations sur votre automobile, de gérer sa maintenance par exemple. Dans la bataille que se livre actuellement les acteurs économiques, la question peut se poser ainsi : « **Qui sera capable de recueillir l’attention du consommateur, de lui apporter le meilleur service, avec la plus forte valeur ajoutée ?** ».

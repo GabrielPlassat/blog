@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "J'ai testé pour vous le véhicule non-autonome et déconnecté"
-date: 2014-06-18 11:20:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'connectivité', 'économie fonctionnalité', 'innovation', 'lien social', 'Véhicule', 'virtuel']
-=======
-tags: ["citoyen", "connectivit\u00e9", "\u00e9conomie fonctionnalit\u00e9", "innovation", "lien social", "V\u00e9hicule", "virtuel"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-06-18
+source: tdf
+source_name: "Transports du Futur"
+tags: ["citoyen", "connectivité", "économie fonctionnalité", "innovation", "lien social", "Véhicule", "virtuel"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2014/06/18/jai-teste-pour-vous-le-vehicule-non-autonome-et-deconnecte/
 ---
 
 Cet article a été rédigé par **[Lomig Unger](http://www.lomigunger.com/)**, animateur de communauté, conduite du changement. ***
@@ -31,7 +31,7 @@ C'est cette expérience que je voudrais partager ici, puisque Gabriel Plassat m'
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a511cff9a8970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a511cff9a8970c-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511cff9a8970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511cff9a8970c-pi.jpg)
 
  
 

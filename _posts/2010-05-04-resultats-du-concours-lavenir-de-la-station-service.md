@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Résultats du concours l'avenir de la station service\"\""
-date: 2010-05-04 11:41:11 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['carburant', 'Infrastructure', 'internet', 'marchandises', 'multimodes']
-=======
+date: 2010-05-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/05/resultats-du-concours-lavenir-de-la-station-service.html"
 tags: ["carburant", "Infrastructure", "internet", "marchandises", "multimodes"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/05/04/resultats-du-concours-lavenir-de-la-station-service/
 ---
 
-Déjà évoqué **[ici](/2010/04/lavenir-des-stations-services-.html)**, la station service va devoir évoluer. Un concours d'idées a été lancé et les trois sélectionnés sont présentés ci dessous. Et si la station service devenait un lieu multimodal, permettant également de recevoir des marchandises, de travailler ou même de s'instruire ?
+Déjà évoqué **[ici]({{ site.baseurl }}/2010/04/lavenir-des-stations-services/)**, la station service va devoir évoluer. Un concours d'idées a été lancé et les trois sélectionnés sont présentés ci dessous. Et si la station service devenait un lieu multimodal, permettant également de recevoir des marchandises, de travailler ou même de s'instruire ?
 
  
 

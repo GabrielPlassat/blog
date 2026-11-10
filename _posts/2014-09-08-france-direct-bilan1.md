@@ -1,14 +1,19 @@
 ---
 layout: post
 title: "Opération France Direct : Bilan de la première étape"
-date: 2014-09-08 16:36:55 +0100
-categories: []
+date: 2014-09-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/09/france-direct-bilan1.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/09/08/france-direct-bilan1/
 ---
 
 *Cet article a été rédigé par **Vincent** Bendetti, théoricien de la mobilité et porteur de l'Opération France Direct. 
 *
-Suite à l[**'article présentant l'Opération France Direct**](/2014/07/operation-france-direct-une-technologie-pour-changer-la-vie.html), et au terme de la première étape de financement participatif qui s'est déroulée du 21 mai à 21 août 2014, 3 établissements sont concernés par les dons citoyens :
+Suite à l[**'article présentant l'Opération France Direct**]({{ site.baseurl }}/2014/07/operation-france-direct-une-technologie-pour-changer-la-vie/), et au terme de la première étape de financement participatif qui s'est déroulée du 21 mai à 21 août 2014, 3 établissements sont concernés par les dons citoyens :
 
  
 
@@ -39,7 +44,7 @@ financement apporté par les citoyens à hauteur de 100%
 
  
 
-  [![](/assets/images/old/6a0120a66d2ad4970b01b8d06253b3970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01b8d06253b3970c-pi.jpg)
+  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d06253b3970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d06253b3970c-pi.jpg)
 
  
 

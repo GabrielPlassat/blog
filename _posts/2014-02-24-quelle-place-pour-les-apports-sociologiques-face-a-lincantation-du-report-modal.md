@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Quelle place pour les apports de la psychologie sociale face à l’incantation du report modal ?"
-date: 2014-02-24 18:13:53 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'anthropologie', 'autorité des transports', 'citoyen', 'collectivité', 'commuter', 'confiance', 'innovation', 'maison de la mobilité', 'management de la mobilité', 'marketing individualisé']
-=======
-tags: ["ADEME", "anthropologie", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "confiance", "innovation", "maison de la mobilit\u00e9", "management de la mobilit\u00e9", "marketing individualis\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-02-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/02/quelle-place-pour-les-apports-sociologiques-face-a-lincantation-du-report-modal.html"
+tags: ["ADEME", "anthropologie", "autorité des transports", "citoyen", "collectivité", "commuter", "confiance", "innovation", "maison de la mobilité", "management de la mobilité", "marketing individualisé"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/02/24/quelle-place-pour-les-apports-sociologiques-face-a-lincantation-du-report-modal/
 ---
 
 *Cet article invité est rédigé par Yannick PAILLET, ingénieur à l'ADEME en direction régionale Picardie.*
@@ -38,7 +39,7 @@ Une des réponses largement utilisée est celle de la communication et du market
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b01a3fcc4ee6b970b-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a3fcc4ee6b970b-pi.jpg)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a3fcc4ee6b970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a3fcc4ee6b970b-pi.jpg)
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Classement CO2 des voitures en Europe, quel bilan ? quel impact sur le choix du consommateur ?"
-date: 2010-08-03 11:52:33 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'citoyen', "guide d'achat", 'Véhicule', 'véhicule propre']
-=======
-tags: ["ADEME", "citoyen", "guide d'achat", "V\u00e9hicule", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/classement-co2-des-voitures-en-europe-quel-bilan-quel-impact-sur-le-choix-du-consommateur.html"
+tags: ["ADEME", "citoyen", "guide d'achat", "Véhicule", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/08/03/classement-co2-des-voitures-en-europe-quel-bilan-quel-impact-sur-le-choix-du-consommateur/
 ---
 
 The European Union has set target values for CO2 emissions from new passenger cars and taken measures to ensure that information on the CO2 performance of new passenger cars is readily available for citizens. **[This study](http://www.europarl.europa.eu/activities/committees/studies/download.do?language=fr&file=31259)** examines the implementation of Directive 1999/94/EC relating to the availability of consumer information on fuel economy and CO2 emissions with respect to the marketing of new passenger cars; and assesses potential amendments to the legislation, taking into consideration research results in the field of consumer behaviour.

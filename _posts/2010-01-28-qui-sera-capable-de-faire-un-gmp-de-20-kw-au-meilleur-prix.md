@@ -1,26 +1,27 @@
 ---
 layout: post
 title: "Qui sera capable de faire un GMP de 20 kW au meilleur prix ?"
-date: 2010-01-28 10:39:01 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'Energie', 'simplicité', 'Véhicule']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "Energie", "simplicit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix.html"
+tags: ["données réelles", "Energie", "simplicité", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/01/28/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix/
 ---
 
-[](/assets/images/old/6a0120a66d2ad4970b0128771eff2a970c-pi.jpg)
-La Daihatsu UFE III, **[la loremo](http://www.loremo.com)**, (et bien d’autres véhicules, voir **[ici ](/assets/images/2010/01/auto-eco.pdf)**!), les estimations d’une étude ADEME/IFP visant à définir et caractériser un véhicule dédié à un usage urbain (dit véhicule mono-usage), et également la Citroën 2 CV, la Mathis 333 (1946) ont en commun le même besoin : un GMP délivrant une puissance de l’ordre de 20 kW pour pouvoir assurer toutes les missions. C'est-à-dire pour se déplacer dans toutes les conditions en milieu urbain et périurbain.
+[]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128771eff2a970c-pi.jpg)
+La Daihatsu UFE III, **[la loremo](http://www.loremo.com)**, (et bien d’autres véhicules, voir **[ici ]({{ site.baseurl }}/assets/images/2010/01/auto-eco.pdf)**!), les estimations d’une étude ADEME/IFP visant à définir et caractériser un véhicule dédié à un usage urbain (dit véhicule mono-usage), et également la Citroën 2 CV, la Mathis 333 (1946) ont en commun le même besoin : un GMP délivrant une puissance de l’ordre de 20 kW pour pouvoir assurer toutes les missions. C'est-à-dire pour se déplacer dans toutes les conditions en milieu urbain et périurbain.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a81c068e970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a81c068e970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a81c068e970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a81c068e970b-pi.jpg) 
 
  
 
  
-![](/assets/images/old/6a0120a66d2ad4970b0128771eff2a970c-120pi.jpg)Les GMP actuellement produits pour des applications automobiles sont, en Europe, centrés vers des cylindrées de l’ordre de 1.6-1.8 litre. Les véhicules du 1er segment affichent des cylindrées de l’ordre de 1 litre et 40-50 kW avec 3 ou 4 cylindres. Il nous faut maintenant concevoir des GMP produisant 20 kW, réalisables avec des « moins de 3 cylindres ». Compte tenu des difficultés de résoudre l’équation : basse consommation + faible émissions de polluants + faible masse + vibrations acceptables avec des moteurs bi cylindres, voire monocylindre nécessitant des arbres d’équilibrage (générateur de masse, volume et frottements donc consommation) et de faibles cylindrées unitaires, les regards se tournent vers une solution « du passé » comme le 2 temps… 
+![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128771eff2a970c-120pi.jpg)Les GMP actuellement produits pour des applications automobiles sont, en Europe, centrés vers des cylindrées de l’ordre de 1.6-1.8 litre. Les véhicules du 1er segment affichent des cylindrées de l’ordre de 1 litre et 40-50 kW avec 3 ou 4 cylindres. Il nous faut maintenant concevoir des GMP produisant 20 kW, réalisables avec des « moins de 3 cylindres ». Compte tenu des difficultés de résoudre l’équation : basse consommation + faible émissions de polluants + faible masse + vibrations acceptables avec des moteurs bi cylindres, voire monocylindre nécessitant des arbres d’équilibrage (générateur de masse, volume et frottements donc consommation) et de faibles cylindrées unitaires, les regards se tournent vers une solution « du passé » comme le 2 temps… 
 
  
 
@@ -30,7 +31,7 @@ Les constructeurs de 2 roues peuvent alors proposer des pistes... Alors que, pou
 
  
 
-Il ne faut pas également oublier les véhicules 3 roues, dont les rickshaws indiens. Bajaj, avec Renault a une JV (et qui a fait l’objet d’une précédente **[note](/2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites.html)**), a annoncé l’année dernière la commercialisation d’un rickshaw équipé d’un **[moteur 2 temps injection directe](http://www.bajajauto.com/comm_psngr_re_gdi_specs.asp)** (1ère mondiale) aux performances intéressantes. Le monde des voiturettes (quadricycle) travaille également le sujet et propose depuis peu **[le plus petit moteur Diesel Common rail](http://www.voiture-sans-permis-paris.com/upload/X%20TOO%20R%20pdf.pdf)** avec une performance de 8.5 kW issu d’un constructeur de moteur Lombardini… 
+Il ne faut pas également oublier les véhicules 3 roues, dont les rickshaws indiens. Bajaj, avec Renault a une JV (et qui a fait l’objet d’une précédente **[note]({{ site.baseurl }}/2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites/)**), a annoncé l’année dernière la commercialisation d’un rickshaw équipé d’un **[moteur 2 temps injection directe](http://www.bajajauto.com/comm_psngr_re_gdi_specs.asp)** (1ère mondiale) aux performances intéressantes. Le monde des voiturettes (quadricycle) travaille également le sujet et propose depuis peu **[le plus petit moteur Diesel Common rail](http://www.voiture-sans-permis-paris.com/upload/X%20TOO%20R%20pdf.pdf)** avec une performance de 8.5 kW issu d’un constructeur de moteur Lombardini… 
 
  
 
@@ -46,4 +47,4 @@ Depuis 1940, peu d’actions ont été menées sur ce type de GMP, il se pourrai
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a81c08cf970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a81c08cf970b-pi.jpg) Jean Andreau devant la Mathis 333
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a81c08cf970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a81c08cf970b-pi.jpg) Jean Andreau devant la Mathis 333

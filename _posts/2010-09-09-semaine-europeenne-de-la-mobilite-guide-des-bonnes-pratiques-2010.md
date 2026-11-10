@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Semaine Européenne de la Mobilité - Guide des bonnes pratiques 2010"
-date: 2010-09-09 09:58:51 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'collectivité', 'Europe', 'TC']
-=======
-tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "Europe", "TC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/semaine-europeenne-de-la-mobilite-guide-des-bonnes-pratiques-2010.html"
+tags: ["cité", "citoyen", "collectivité", "Europe", "TC"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/09/09/semaine-europeenne-de-la-mobilite-guide-des-bonnes-pratiques-2010/
 ---
 
 The 2010 Best Practice Guide has been released. This document has been designed to promote best practice in European cities and towns. It gathers the good examples in 11 eleven cities in Europe.

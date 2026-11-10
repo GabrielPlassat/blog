@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Zone environnementale et nouvelle vignette en Suisse"
-date: 2010-09-08 14:17:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'PAYD', 'péage urbain', "qualité de l'air", 'roadpricing', 'surveillance']
-=======
-tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "PAYD", "p\u00e9age urbain", "qualit\u00e9 de l'air", "roadpricing", "surveillance"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/zone-environnementale-et-nouvelle-vignette-en-suisse.html"
+tags: ["autorité des transports", "cité", "citoyen", "collectivité", "PAYD", "péage urbain", "qualité de l'air", "roadpricing", "surveillance"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/09/08/zone-environnementale-et-nouvelle-vignette-en-suisse/
 ---
 
 Afin de répondre à une demande de certains cantons, la Confédération  Suisse souhaite permettre [**l'instauration de zones environnementales dans les villes**](http://www.astra.admin.ch/00638/index.html?lang=fr&msg-id=34841). Après avoir élaboré un projet d'ordonnance sur le sujet, le Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) peut maintenant lancer [**la procédure d'audition**](http://www.admin.ch/ch/f/gg/pc/pendent.html#DETEC), qui durera jusqu'au 26.11.2010. Sur la base de ce nouvel instrument juridique, les villes et les cantons intéressés pourront interdire, dans certaines zones bien définies, certains véhicules automobiles dont les émissions polluantes sont particulièrement élevées

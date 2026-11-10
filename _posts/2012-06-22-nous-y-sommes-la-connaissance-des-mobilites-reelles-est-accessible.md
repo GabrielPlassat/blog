@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Nous y sommes, la connaissance des mobilités réelles est accessible"
-date: 2012-06-22 16:13:23 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['donnée data', 'données réelles']
-=======
-tags: ["donn\u00e9e data", "donn\u00e9es r\u00e9elles"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-06-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/06/nous-y-sommes-la-connaissance-des-mobilites-reelles-est-accessible.html"
+tags: ["donnée data", "données réelles"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2012/06/22/nous-y-sommes-la-connaissance-des-mobilites-reelles-est-accessible/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0177429e2ea7970d-800wi.png)](/assets/images/old/6a0120a66d2ad4970b0177429e2ea7970d-pi.png)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0177429e2ea7970d-800wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0177429e2ea7970d-pi.png)
 
  
 
@@ -22,4 +23,4 @@ Accédant à ces données, de nombreux outils d'optimisation sont envisageables 
 
  
 
-Si nous nous ne engageons pas dans cette voie [**malgré les difficultés et les risques**](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html) qu'elle présente pour en maîtriser la mise en oeuvre et atteindre des objectifs coordonnés, [**d'autres**](http://owni.fr/revue-du-web/google-maps-vous-traque/) le feront avec [**leurs objectifs**](/2012/06/lacces-a-de-nouvelles-donnees-risques-et-opportunites.html).
+Si nous nous ne engageons pas dans cette voie [**malgré les difficultés et les risques**]({{ site.baseurl }}/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives/) qu'elle présente pour en maîtriser la mise en oeuvre et atteindre des objectifs coordonnés, [**d'autres**](http://owni.fr/revue-du-web/google-maps-vous-traque/) le feront avec [**leurs objectifs**]({{ site.baseurl }}/2012/06/lacces-a-de-nouvelles-donnees-risques-et-opportunites/).

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "« Complete Mobility », vers un indicateur global de la performance"
-date: 2010-06-09 10:55:08 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'Europe', 'Infrastructure']
-=======
-tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "Europe", "Infrastructure"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-06-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/06/complete-mobility-vers-un-indicateur-global-de-la-performance.html"
+tags: ["autorité des transports", "cité", "citoyen", "collectivité", "Europe", "Infrastructure"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/06/09/complete-mobility-vers-un-indicateur-global-de-la-performance/
 ---
 
-Financée par *Siemens*, cette étude, réalisée par *MRC Mc Lean Hazel*, a développé une méthode et un indicateur global permettant de caractériser la mobilité en tant que système complet (**[résumé](http://www.siemens.com/press/en/materials/industry/imo/uitp_2009.php)**, **[étude complète](/assets/images/2010/06/wienstudie_en.pdf)**). Après une présentation de cette étude et des principaux résultats, deux questions se posent :
+Financée par *Siemens*, cette étude, réalisée par *MRC Mc Lean Hazel*, a développé une méthode et un indicateur global permettant de caractériser la mobilité en tant que système complet (**[résumé](http://www.siemens.com/press/en/materials/industry/imo/uitp_2009.php)**, **[étude complète]({{ site.baseurl }}/assets/images/2010/06/wienstudie_en.pdf)**). Après une présentation de cette étude et des principaux résultats, deux questions se posent :
 
  
 
@@ -42,7 +43,7 @@ L’étude propose 11 indicateurs, des notes par indicateurs, un score global, d
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f077b7eb970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f077b7eb970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077b7eb970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077b7eb970b-pi.jpg) 
  
 
  
@@ -51,7 +52,7 @@ L’étude propose 11 indicateurs, des notes par indicateurs, un score global, d
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f077b915970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f077b915970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077b915970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077b915970b-pi.jpg) 
 
  
 
@@ -63,7 +64,7 @@ L’étude propose 11 indicateurs, des notes par indicateurs, un score global, d
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013483a13267970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b013483a13267970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013483a13267970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013483a13267970c-pi.jpg) 
 
  
 
@@ -75,21 +76,17 @@ L’étude propose 11 indicateurs, des notes par indicateurs, un score global, d
 
  
 
-***[![](/assets/images/old/6a0120a66d2ad4970b0133f077ba9f970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f077ba9f970b-pi.jpg) 
-<<<<<<< HEAD
+***[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077ba9f970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077ba9f970b-pi.jpg) 
 
-=======
-_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 60;*** 
 
  
 
-La qualité et la performance du système global pourraient donc avoir les objectifs d’efficacité, de durabilité, d’orienté vers l’utilisateur et sans « couture ». Ces objectifs se traduisent pour le cas de Vienne par une approché intégrée, des engagements vers les utilisateurs, une gestion de l’espace public, l’utilisation des TIC permettant **un management proactif du système, ce qui renvoie à la nécessaire [évolution des autorités des transports](/2010/03/metanote-tdf-2-le-marche-des-mobilites-20.html)**.
+La qualité et la performance du système global pourraient donc avoir les objectifs d’efficacité, de durabilité, d’orienté vers l’utilisateur et sans « couture ». Ces objectifs se traduisent pour le cas de Vienne par une approché intégrée, des engagements vers les utilisateurs, une gestion de l’espace public, l’utilisation des TIC permettant **un management proactif du système, ce qui renvoie à la nécessaire [évolution des autorités des transports]({{ site.baseurl }}/2010/03/metanote-tdf-2-le-marche-des-mobilites-20/)**.
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b0133f077bece970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f077bece970b-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077bece970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f077bece970b-pi.jpg) 
 
  
 

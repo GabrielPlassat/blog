@@ -1,94 +1,41 @@
 ---
 layout: default
 ---
-
-<div class="home">
-  <header class="home-header">
-    <h1 class="page-heading">Transports du Futur</h1>
-    <p class="lead">15 ans d'exploration des mobilités, de l'innovation et des transports de demain</p>
-    <p class="stats">{{ site.posts | size }} articles • 2009-2024</p>
+<div class="home2">
+  <header class="hero">
+    <h1>{{ site.title }}</h1>
+    <p class="lead">{{ site.posts | size }} articles écrits de 2009 à 2026 dans cinq blogs : Transports du Futur, la Fabrique des Mobilités, Bricologie &amp; Sérendipité, le blog de l'eXtrême Défi et LinkedIn.</p>
   </header>
 
-  <!-- Barre de recherche -->
+  <nav class="entrees">
+    <a href="{{ site.baseurl }}/themes/" class="entree"><b>Thèmes</b><span>Neuf familles de sujets, chacune avec ses articles.</span></a>
+    <a href="{{ site.baseurl }}/recents/" class="entree"><b>Derniers articles</b><span>Les textes les plus récents, tous blogs confondus.</span></a>
+    <a href="{{ site.baseurl }}/ciel/" class="entree"><b>Le ciel</b><span>La constellation : chaque article est une étoile, proche de ceux qui lui ressemblent.</span></a>
+    <a href="{{ site.baseurl }}/terre/" class="entree"><b>La terre</b><span>Le rhizome des tags : les idées qui poussent ensemble.</span></a>
+    <a href="{{ site.baseurl }}/temps/" class="entree"><b>Le temps</b><span>La chronologie complète, une ligne par année.</span></a>
+  </nav>
+
+  <section class="home-recents">
+    <h2>Derniers articles</h2>
+    <ul class="plist">
+      {% for post in site.posts limit:8 %}
+      <li><span class="src src-{{ post.source }}">{{ post.source_name }}</span><span class="pd">{{ post.date | date: "%m/%Y" }}</span><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ site.baseurl }}/recents/">Tous les articles récents →</a></p>
+  </section>
+
+  <section class="home-themes">
+    <h2>Thèmes</h2>
+    <div class="theme-grid">
+      {% assign groups = site.posts | group_by: "theme" | sort: "name" %}
+      {% for g in groups %}<a class="theme-card" href="{{ site.baseurl }}/themes/#{{ g.name | slugify }}"><b>{{ g.name }}</b><span>{{ g.size }} articles</span></a>{% endfor %}
+    </div>
+  </section>
+
   <div class="search-section">
-    <input type="text" id="search-input" placeholder="🔍 Rechercher dans les articles..." />
+    <input type="text" id="search-input" placeholder="Rechercher dans les articles…" />
     <div id="search-results"></div>
   </div>
-
-  <!-- Navigation rapide par tags -->
-  <div class="tag-cloud">
-    <h2>📚 Explorer par thème</h2>
-    <div class="tags-wrapper">
-      {% assign sorted_tags = site.tags | sort %}
-      {% for tag in sorted_tags limit:30 %}
-        {% assign tag_name = tag[0] %}
-        {% assign tag_posts = tag[1] %}
-        <a href="{{ site.baseurl }}/tags/#{{ tag_name | slugify }}" class="tag" style="--tag-size: {{ tag_posts | size | divided_by: 10.0 | plus: 1 }}">
-          {{ tag_name }}
-          <span class="count">{{ tag_posts | size }}</span>
-        </a>
-      {% endfor %}
-    </div>
-    <div class="tag-more">
-      <a href="{{ site.baseurl }}/tags/" class="btn-link">Voir tous les tags ({{ site.tags | size }}) →</a>
-    </div>
-  </div>
-
-  <!-- Timeline des articles -->
-  <div class="timeline">
-    <h2>📅 Articles récents</h2>
-    
-    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-    {% for year_group in posts_by_year limit:3 %}
-      <div class="year-section">
-        <h3 class="year-title">{{ year_group.name }}</h3>
-        
-        {% assign posts_by_month = year_group.items | group_by_exp: "post", "post.date | date: '%B'" %}
-        {% for month_group in posts_by_month limit:6 %}
-          <div class="month-section">
-            <h4 class="month-title">{{ month_group.items[0].date | date: "%B %Y" }}</h4>
-            
-            <div class="posts-list">
-              {% for post in month_group.items limit:10 %}
-                <article class="post-preview">
-                  <div class="post-date">
-                    <span class="day">{{ post.date | date: "%d" }}</span>
-                    <span class="month">{{ post.date | date: "%b" }}</span>
-                  </div>
-                  <div class="post-content">
-                    <h2 class="post-title">
-                      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-                    </h2>
-                    
-                    {% if post.tags.size > 0 %}
-                      <div class="post-tags">
-                        {% for tag in post.tags limit:5 %}
-                          <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}" class="tag-mini">{{ tag }}</a>
-                        {% endfor %}
-                        {% if post.tags.size > 5 %}
-                          <span class="tag-more-count">+{{ post.tags.size | minus: 5 }}</span>
-                        {% endif %}
-                      </div>
-                    {% endif %}
-                    
-                    <div class="post-excerpt">
-                      {{ post.content | strip_html | truncatewords: 30 }}
-                    </div>
-                  </div>
-                </article>
-              {% endfor %}
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    {% endfor %}
-  </div>
-
-  <!-- Lien vers archives complètes -->
-  <div class="archives-link">
-    <a href="{{ site.baseurl }}/archives/" class="btn-primary">📚 Voir toutes les archives ({{ site.posts | size }} articles)</a>
-  </div>
 </div>
-
-<!-- Script de recherche -->
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>

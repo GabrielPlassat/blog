@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Géovélo, aide au développement du vélo"
-date: 2010-09-21 09:54:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'citoyen', 'connectivité', 'données réelles', 'internet', 'iphone', 'multimodes', 'Service de mobilité', 'vélo']
-=======
-tags: ["assistant de mobilit\u00e9", "citoyen", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "iphone", "multimodes", "Service de mobilit\u00e9", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-21
+source: tdf
+source_name: "Transports du Futur"
+original_url: "margin-right: auto\"\" title=\"\"Comute\"\" /></a> <br /> <br /> <br /><br /></p>\""
+tags: ["assistant de mobilité", "citoyen", "connectivité", "données réelles", "internet", "iphone", "multimodes", "Service de mobilité", "vélo"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/09/21/geovelo-aide-au-developpement-du-velo/
 ---
 
 Repris du **[blog ](http://3liz.org/blog/rldhont/index.php/2010/09/20/346-le-velo-a-paris-guide-par-osm)***ReLucBlog*, cette application va faciliter les déplacements en vélo. Aujourd'hui, [Paris](http://paris.fr/) a officialisé la mise à disposition d'un nouveau service pour les nombreux cyclistes circulant à Paris : [http://vgps.paris.fr/](http://vgps.paris.fr/)
@@ -26,7 +27,7 @@ Ce nouveau service s'appuie sur le travail réalisé par [Géovélo](http://geov
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134878ab3a1970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134878ab3a1970c-pi.jpg)  
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134878ab3a1970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134878ab3a1970c-pi.jpg)  
 
  
 Le moteur de calcul d'itinéraire de [Géovélo](http://geovelo.fr/) s'appuyant intégralement sur des données libres, gratuites et constitués par tout ceux qui souhaite les améliorer, vous pouvez participer à améliorer ce service. Vous n'avez pas besoin de grands choses, juste une connexion internet et une bonne connaissance de votre trajet. Il vous suffit alors d'améliorer la description des données présentes dans [OpenStreetMap](http://www.openstreetmap.org/) pour que [Géovélo](http://geovelo.fr/) et [le service de parcours en vélo de la ville de Paris](http://vgps.paris.fr/) en soit améliorer, une communauté dynamique, celle d'[OpenStreetMap en france](http://openstreetmap.fr/) sera vous aider. 
@@ -49,11 +50,7 @@ Ci dessous quelques exemples qui montrent la puissance de ces outils, pour **[ch
  
  
 
-<<<<<<< HEAD
 "2010-09-21 09:54:34https://transportsdufutur.ademe.fr/2010/09/geovelo-aide-au-developpement-du-velo.htmlassistant de mobilité|citoyen|connectivité|données réelles|internet|iphone|multimodes|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgeovelo-aide-au-developpement-du-velo2015-07-21 16:37:38margin-right: auto"" title=""Comute"" /> 
-=======
-"2010-09-21 09:54:34/2010/09/21/geovelo-aide-au-developpement-du-velo/assistant de mobilité|citoyen|connectivité|données réelles|internet|iphone|multimodes|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgeovelo-aide-au-developpement-du-velo2015-07-21 16:37:38margin-right: auto"" title=""Comute"" /> 
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  
  
 

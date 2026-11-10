@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Coyote + Autoroute Paris Rhin Rhônes, Soft + Hard, Vivant + Minéral"
-date: 2012-03-07 10:33:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'connectivité', 'donnée data', 'Infrastructure', 'innovation', 'intelligence collective', 'internet', 'monnaie complémentaire', 'plate-forme', 'transition générationnelle']
-=======
-tags: ["citoyen", "connectivit\u00e9", "donn\u00e9e data", "Infrastructure", "innovation", "intelligence collective", "internet", "monnaie compl\u00e9mentaire", "plate-forme", "transition g\u00e9n\u00e9rationnelle"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-03-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/03/coyote-autoroute-paris-rhin-rhones-soft-hard-vivant-mineral.html"
+tags: ["citoyen", "connectivité", "donnée data", "Infrastructure", "innovation", "intelligence collective", "internet", "monnaie complémentaire", "plate-forme", "transition générationnelle"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2012/03/07/coyote-autoroute-paris-rhin-rhones-soft-hard-vivant-mineral/
 ---
 
 [**Coyote et APRR décident, ce jour (février 2012), de partager leur connaissance de l’autoroute pour la rendre encore plus sûre en permettant, notamment grâce aux technologies communautaires en temps réel, à leurs clients de bénéficier d’informations toujours plus pertinentes.**]()"

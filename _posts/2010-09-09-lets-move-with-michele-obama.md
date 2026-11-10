@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Let's move with Michele OBAMA"
-date: 2010-09-09 15:23:42 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['marche', 'mode doux', 'obésité']
-=======
-tags: ["marche", "mode doux", "ob\u00e9sit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "margin-right: auto\"\" title=\"\"Obesite\"\" /></a> </p> <div id=\"\"__ss_5163806\"\" style=\"\"width: 477px\"\"><strong style=\"\"margin: 12px 0 4px\"\"><a href=\"\"http://www.slideshare.net/transportsdufutur/fat-health-executivesummary\"\" title=\"\"Fat health executivesummary\"\">Fat health executivesummary</a></strong>        <div style=\"\"padding: 5px 0 12px\"\">View more <a href=\"\"http://www.slideshare.net/\"\">documents</a> from <a href=\"\"http://www.slideshare.net/transportsdufutur\"\">transportsdufutur</a>.</div> </div>\""
+tags: ["marche", "mode doux", "obésité"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/09/09/lets-move-with-michele-obama/
 ---
 
 Le dernier état de l'obésité aux USA confirme les tendances du passé : en croissance, 2/3 des états ont des adultes obèses à plus de 25%. De nouvelles données revisitent le lien mode de mobilité / obésité (voir graphique ci dessous).
@@ -40,10 +41,6 @@ The report also includes obesity rates among youths ages 10-17, and the results 
 
 [![]()]() 
 
-<<<<<<< HEAD
  [Fat health executivesummary]() View more [documents]() from [transportsdufutur](). "2010-09-09 15:23:42https://transportsdufutur.ademe.fr/2010/09/lets-move-with-michele-obama.htmlmarche|mode doux|obésitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlets-move-with-michele-obama2015-07-21 16:37:39margin-right: auto"" title=""Obesite"" /> 
-=======
- [Fat health executivesummary]() View more [documents]() from [transportsdufutur](). "2010-09-09 15:23:42/2010/09/09/lets-move-with-michele-obama/marche|mode doux|obésitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatlets-move-with-michele-obama2015-07-21 16:37:39margin-right: auto"" title=""Obesite"" /> 
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  [Fat health executivesummary]() View more [documents]() from [transportsdufutur](). "

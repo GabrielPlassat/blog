@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Intelligence into Urban Mobility"
-date: 2010-02-19 20:54:40 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'Ertico', 'Infrastructure', 'TIC', 'VE', 'Véhicule']
-=======
-tags: ["assistant de mobilit\u00e9", "Ertico", "Infrastructure", "TIC", "VE", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/intelligence-into-urban-mobility.html"
+tags: ["assistant de mobilité", "Ertico", "Infrastructure", "TIC", "VE", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/19/intelligence-into-urban-mobility/
 ---
 
 ERTICO organisait Le 4/02 un workshop sur la **[mobilité urbaine et l'apport des TIC](http://www.ertico.com/en/events/past_events/intelligence_into_urban_mobility_breakfast_workshop.htm)**. 

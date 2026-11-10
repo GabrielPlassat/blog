@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Difficile de quantifier l'amélioration de la qualité de l'air à Londres après la mise en place de la Congestion Charge - rapport du HEI"
-date: 2011-04-27 13:39:59 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'collectivité', 'congestion', 'management de la mobilité', "qualité de l'air"]
-=======
-tags: ["cit\u00e9", "collectivit\u00e9", "congestion", "management de la mobilit\u00e9", "qualit\u00e9 de l'air"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-04-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/difficile-de-quantifier-lamelioration-de-la-qualite-de-lair-a-londres-apres-la-mise-en-place-de-la-c.html"
+tags: ["cité", "collectivité", "congestion", "management de la mobilité", "qualité de l'air"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/04/27/difficile-de-quantifier-lamelioration-de-la-qualite-de-lair-a-londres-apres-la-mise-en-place-de-la-c/
 ---
 
 The study, **[HEI ](http://www.healtheffects.org/index.html)**(Health Effect Institut) Research Report 155, ***[The Impact of the Congestion Charging Scheme on Air Quality in London](http://pubs.healtheffects.org/view.php?id=358)****, *was led by Professor Frank Kelly of King’s College London as part of HEI’s research program to measure the possible health outcomes associated with actions taken to improve air quality.
@@ -18,9 +19,9 @@ Although the London CCS was designed to improve traffic and not necessarily air 
 
  a variety of emissions and exposure modeling techniques, analysis of air monitoring data, and a newly developed assay for the oxidative potential of particulate matter collected on filters at urban background and roadside monitors. Despite their high-quality and comprehensive efforts, the investigators did not find consistent evidence of improved air quality resulting from the CCS. In part it is difficult to identify significant air quality improvements from a specific program – especially one targeted at a small area within a large city -- against the backdrop of broader regional pollutant and weather changes. Also, some behavioral adjustments among the population, e.g. increased diesel-powered taxi and bus trips to transport people into the zone, may have offset any benefits. Finally, other changes occurring at the same time (e.g. the introduction of more filter-equipped diesel buses in response to a separate rule) likely also affected air quality and obscured effects of the CCS. 
 
-[![](/assets/images/old/6a0120a66d2ad4970b014e881ac8fa970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b014e881ac8fa970d-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e881ac8fa970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e881ac8fa970d-800wi.jpg) 
  
-[![](/assets/images/old/6a0120a66d2ad4970b01538e2729c4970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01538e2729c4970b-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01538e2729c4970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01538e2729c4970b-800wi.jpg) 
  
 
  

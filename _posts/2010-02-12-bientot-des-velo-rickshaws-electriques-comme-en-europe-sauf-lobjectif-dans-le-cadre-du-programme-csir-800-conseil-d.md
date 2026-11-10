@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Et le e-Rickshaw !"
-date: 2010-02-12 15:31:04 +0100
-categories: []
+date: 2010-02-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/bientot-des-velo-rickshaws-electriques-comme-en-europe-sauf-lobjectif-dans-le-cadre-du-programme-csir-800-conseil-d.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/12/bientot-des-velo-rickshaws-electriques-comme-en-europe-sauf-lobjectif-dans-le-cadre-du-programme-csir-800-conseil-d/
 ---
 
 Bientôt des [**vélo-rickshaws électriques**](http://www.dst.gov.in/whats_new/press-release08/solekshwa-launched.htm)... comme en Europe, sauf l'objectif : Dans le cadre du programme CSIR-800 (Conseil de la Rechcerche Scientifique et Industrielle) visant à améliorer la qualité de vie de 800 millions d'indiens vivant sous le seuil de pauvreté, l'étude et la réalisation d'un véhicule à propulsion humaine n'ayant aucune émission ont été engagées. Il s'agit donc de (re)donner plus **d'autonomie** à ces personnes.
@@ -14,7 +19,7 @@ Born out of the recent CSIR vision, appropriately titled, CSIR-800 aimed at empo
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b01287794d4fb970c-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01287794d4fb970c-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287794d4fb970c-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287794d4fb970c-pi.jpg) 
 **Technical Features :**
 
  **Power source** **Solar and human** Drive Motor-assisted pedal-driven 
@@ -26,9 +31,9 @@ The advanced versions of Soleckshaw Mark II and Mark III with better aesthetics,
 
  
 
-Fiche détaillée : **[ici](/assets/images/2010/02/Soleckshaw-jan09.pdf)**. Il est également étudié des versions livraison de marchandises... Quelques similitudes avec les expériences françaises ... Et si finalement nous convergions vers les mêmes objets (voir **[ici](/2010/02/earth-seems-to-be-running-out-of-options.html)** et **[là](/2010/02/le-sud-apporte-au-nord-la-suite-.html)**)... 
+Fiche détaillée : **[ici]({{ site.baseurl }}/assets/images/2010/02/Soleckshaw-jan09.pdf)**. Il est également étudié des versions livraison de marchandises... Quelques similitudes avec les expériences françaises ... Et si finalement nous convergions vers les mêmes objets (voir **[ici]({{ site.baseurl }}/2010/02/earth-seems-to-be-running-out-of-options/)** et **[là]({{ site.baseurl }}/2010/02/le-sud-apporte-au-nord-la-suite/)**)... 
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01287794da47970c-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01287794da47970c-pi.jpg) 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a8924b48970b-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a8924b48970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287794da47970c-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01287794da47970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a8924b48970b-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a8924b48970b-pi.jpg)

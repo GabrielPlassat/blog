@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Participez à l'Opération France Direct : une innovation pour changer la vie"
-date: 2014-07-25 14:39:38 +0100
-categories: []
+date: 2014-07-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/07/operation-france-direct-une-technologie-pour-changer-la-vie.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/07/25/operation-france-direct-une-technologie-pour-changer-la-vie/
 ---
 
 *Cet article a été rédigé par Vincent Bendetti. *
@@ -30,7 +35,7 @@ Le 21 mai, l'entreprise a lancé l’[**Opération France Direct**](http://www.o
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a73def7580970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a73def7580970d-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73def7580970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73def7580970d-pi.jpg)
 
  
 

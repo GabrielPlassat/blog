@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <p class="post-src"><span class="src src-{{ page.source }}">{{ page.source_name }}</span>
+      {% if page.theme %}<a class="theme" href="{{ site.baseurl }}/themes/#{{ page.theme | slugify }}">{{ page.theme }}</a>{% endif %}</p>
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+      {% if page.original_url %} · <a href="{{ page.original_url }}">publication d'origine</a>{% endif %}
+      {% if page.aussi_sur %} · aussi publié sur {{ page.aussi_sur }}{% endif %}</p>
+  </header>
+  <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
+  {% if page.tags.size > 0 %}<p class="post-tags">{% for t in page.tags %}<a class="tag" href="{{ site.baseurl }}/terre/#{{ t | uri_escape }}">{{ t }}</a> {% endfor %}</p>{% endif %}
+  <aside class="constellation">
+    <h2>Dans la constellation</h2>
+    <div id="voisins"><p class="note">Chargement des articles voisins…</p></div>
+    <p class="post-nav">{% if page.previous %}<a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% endif %}
+      {% if page.next %}<a class="next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}</p>
+  </aside>
+</article>
+{% include carte-js.html %}
+<script>voisins('#voisins', "{{ page.url }}");</script>

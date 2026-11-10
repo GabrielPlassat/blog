@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Less is More (3) application au VE"
-date: 2010-04-08 11:29:32 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['léger', 'VE', 'véhicule propre']
-=======
-tags: ["l\u00e9ger", "VE", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/less-is-more-3-application-au-ve.html"
+tags: ["léger", "VE", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/04/08/less-is-more-3-application-au-ve/
 ---
 
 Pour un véhicule électrique, plus le véhicule est léger, moins il y a besoin de batterie pour des performances équivalentes (autonomie notamment), donc plus le véhicule est léger (cercle vertueux), et moins il est cher, donc pourra se développer plus largement.
@@ -26,7 +27,7 @@ The Teijin Group unveiled on March 30 a super-lightweight electric concept car m
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133ec8a7fa3970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133ec8a7fa3970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ec8a7fa3970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ec8a7fa3970b-pi.jpg) 
  
 
  

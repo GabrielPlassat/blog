@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le Compagnon\" de la SNCF, futur Assistant Personnel de Mobilité\""
-date: 2010-04-05 21:45:25 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'internet', 'internet des objets', 'multimodes', 'sncf']
-=======
-tags: ["assistant de mobilit\u00e9", "internet", "internet des objets", "multimodes", "sncf"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/le-compagnon-de-la-sncf-futur-assistant-personnel-de-mobilite.html"
+tags: ["assistant de mobilité", "internet", "internet des objets", "multimodes", "sncf"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/04/05/le-compagnon-de-la-sncf-futur-assistant-personnel-de-mobilite/
 ---
 
 Cette application permet à l’ensemble des utilisateurs ayant réservé un billet de disposer d'informations et de services utiles durant les différentes phases de leur voyage : informations essentielles sur les billets, heures de départ et d'arrivée, numéro du train et de la place.... 
@@ -23,7 +24,7 @@ A bord, l'itinéraire permet de suivre les villes traversées en temps réel. A 
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01347faa5dac970c-120pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01347faa5dac970c-pi.jpg) [![](/assets/images/old/6a0120a66d2ad4970b0133ec7a6a84970b-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133ec7a6a84970b-pi.jpg)[![](/assets/images/old/6a0120a66d2ad4970b0133ec7a6d18970b-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133ec7a6d18970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01347faa5dac970c-120pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01347faa5dac970c-pi.jpg) [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ec7a6a84970b-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ec7a6a84970b-pi.jpg)[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ec7a6d18970b-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ec7a6d18970b-pi.jpg) 
   
  Cette application a d'abord été développée pour la plateforme Android et sera disponible sur iPhone au mois d'avril 2010.
 

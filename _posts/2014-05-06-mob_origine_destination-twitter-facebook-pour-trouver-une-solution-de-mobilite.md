@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "#Mob_origine_destination (Twitter, Facebook) pour trouver une solution de mobilité"
-date: 2014-05-06 08:30:29 +0100
-categories: []
+date: 2014-05-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/05/mob_origine_destination-twitter-facebook-pour-trouver-une-solution-de-mobilite.html"
 tags: []
+theme: "Stratégies numériques"
+redirect_from:
+  - /2014/05/06/mob_origine_destination-twitter-facebook-pour-trouver-une-solution-de-mobilite/
 ---
 
 Après [**Amazon Dash**](http://www.01net.com/editorial/617672/amazon-dash-la-telecommande-d-amazon-pour-faire-ses-courses/) (télécommande pour faire ses courses), Amazon vient de proposer **[#AmazonCart](http://www.01net.com/editorial/619262/avec-amazoncart-remplissez-votre-panier-amazon-directement-sur-twitter/).** Il est essentiel d'utiliser les plateformes dominantes plutôt que d'essayer de faire venir les utilisateurs sur une nouvelle. AmazonCard permet de rajouter dans votre panier (pas d'acheter) un produit vu sur Twitter en ajoutant simplement au tweet #AmazonCart. 

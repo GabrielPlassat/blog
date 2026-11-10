@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Merci M.Brown !"
-date: 2009-12-10 10:47:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'partage de données']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-12-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/merci-mbrown.html"
+tags: ["données réelles", "partage de données"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2009/12/10/merci-mbrown/
 ---
 
 **[Gordon Brown a déclaré](http://3liz.com/blog/rldhont/index.php/?q=ven)** : « Je pense que nous sommes à l'aube d'une révolution qui peut transformer les services publics et le secteur public. Je parle plus précisément de la manière dont le gouvernement peut changer afin de répondre aux besoins de son époque. Nous sommes déterminés à être, je pense, le premier gouvernement au monde à libérer l'information publique de manière à la rendre beaucoup plus accessible au grand public. »

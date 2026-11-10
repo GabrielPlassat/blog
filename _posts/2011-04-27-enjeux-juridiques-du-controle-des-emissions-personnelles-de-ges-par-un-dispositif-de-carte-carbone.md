@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Enjeux juridiques du contrôle des émissions personnelles de GES par un dispositif de carte carbone"
-date: 2011-04-27 14:13:52 +0100
-categories: []
+date: 2011-04-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/enjeux-juridiques-du-controle-des-emissions-personnelles-de-ges-par-un-dispositif-de-carte-carbone.html"
 tags: []
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2011/04/27/enjeux-juridiques-du-controle-des-emissions-personnelles-de-ges-par-un-dispositif-de-carte-carbone/
 ---
 
-Un article complet et intéressant sur « les enjeux juridiques du contrôle des émissions personnelles de gaz à effet de serre par un dispositif de carte carbone » est paru dans la revue *Développement durable et territoires *[**[En ligne](http://developpementdurable.revues.org/8732)**]. De nombreux extraits sont réalisés (*en italique*) et des liens apparaissent avec les récents articles sur **[DHL ](/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c.html)**et **[l’Assistant Personnel de Consommation (APC)](/2011/04/dhl-bis-un-exemple-concret-dassistant-personnel-de-consommation.html)** pour le transport de marchandises et sur **[l’Assistant Personnel de Mobilité (APM)](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)** pour les personnes.
+Un article complet et intéressant sur « les enjeux juridiques du contrôle des émissions personnelles de gaz à effet de serre par un dispositif de carte carbone » est paru dans la revue *Développement durable et territoires *[**[En ligne](http://developpementdurable.revues.org/8732)**]. De nombreux extraits sont réalisés (*en italique*) et des liens apparaissent avec les récents articles sur **[DHL ]({{ site.baseurl }}/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/)**et **[l’Assistant Personnel de Consommation (APC)]({{ site.baseurl }}/2011/04/dhl-bis-un-exemple-concret-dassistant-personnel-de-consommation/)** pour le transport de marchandises et sur **[l’Assistant Personnel de Mobilité (APM)]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)** pour les personnes.
 
  
 
@@ -46,11 +51,7 @@ Les systèmes de taxe et de quotas sont détaillés et analysés tant au niveau 
 
  
 
-<<<<<<< HEAD
 *Le système de quotas personnels est un instrument de régulation des émissions de CO2 par les quantités. La notion de rationnement ne semble cependant pas appropriée car elle renvoie à l’idée d’une limitation fixe des émissions. Les termes de limite ou de plafond flexible sont plus opportuns. Le budget carbone individu
-=======
-*Le système de quotas personnels est un instrument de régulation des émissions de CO2 par les quantités. La notion de rationnement ne semble cependant pas appropriée car elle renvoie à l’idée d’une limitation fixe des émissions. Les termes de limite ou de plafond flexible sont plus opportuns. Le budget carbone individu_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 el serait en effet modulable, puisqu’il serait assorti d’un mécanisme de récompense et de pénalité en fonction de son respect ou de son dépassement. **Le dispositif de quotas personnels de carbone devrait constituer une option sérieuse lorsque les politiques existantes seront considérées comme n’étant pas en mesure de réduire suffisamment les émissions des particuliers.***
 
  

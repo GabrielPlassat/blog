@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Confiance(s) et solutions de mobilité partagées"
-date: 2010-12-15 18:13:45 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assurance', 'cité', 'citoyen', 'collectivité', 'confiance', 'sousveillance']
-=======
-tags: ["assurance", "cit\u00e9", "citoyen", "collectivit\u00e9", "confiance", "sousveillance"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-12-15
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/12/confiances-et-solutions-de-mobilite-partagees.html"
+tags: ["assurance", "cité", "citoyen", "collectivité", "confiance", "sousveillance"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2010/12/15/confiances-et-solutions-de-mobilite-partagees/
 ---
 
-Maximiser ces intérêts individuels conduit jusqu’à présent à des solutions de mobilité individuelle obtenues par des objets (véhicule individuel) possédés. La théorie des jeux comme le dilemme du prisonnier (voir **[ici](/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports.html)**) nous indique que la recherche de cette maximisation individuelle de nos intérêts ne conduit pas à l’optimisation du système, et pour les transports, à la réduction des paramètres énergétique, pollution, congestion.
+Maximiser ces intérêts individuels conduit jusqu’à présent à des solutions de mobilité individuelle obtenues par des objets (véhicule individuel) possédés. La théorie des jeux comme le dilemme du prisonnier (voir **[ici]({{ site.baseurl }}/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports/)**) nous indique que la recherche de cette maximisation individuelle de nos intérêts ne conduit pas à l’optimisation du système, et pour les transports, à la réduction des paramètres énergétique, pollution, congestion.
 
  
 
-La transition, possible, souhaitable sous certaines conditions (voir **[ici](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**), vers des mobilités individuelles et collectives obtenues par des objets partagés supposent « par définition » le partage d’un objet et/ou d’un espace commun pendant un voyage.
+La transition, possible, souhaitable sous certaines conditions (voir **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**), vers des mobilités individuelles et collectives obtenues par des objets partagés supposent « par définition » le partage d’un objet et/ou d’un espace commun pendant un voyage.
 
  
 

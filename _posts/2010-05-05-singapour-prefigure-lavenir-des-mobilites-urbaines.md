@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Singapour préfigure l'avenir des mobilités urbaines"
-date: 2010-05-05 12:00:24 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autorité des transports', 'données réelles', 'internet', 'iphone', 'multimodes', 'partage de données', 'partage de la voirie', 'Pay as You Move']
-=======
-tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "donn\u00e9es r\u00e9elles", "internet", "iphone", "multimodes", "partage de donn\u00e9es", "partage de la voirie", "Pay as You Move"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-05-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/05/singapour-prefigure-lavenir-des-mobilites-urbaines.html"
+tags: ["assistant de mobilité", "autorité des transports", "données réelles", "internet", "iphone", "multimodes", "partage de données", "partage de la voirie", "Pay as You Move"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/05/05/singapour-prefigure-lavenir-des-mobilites-urbaines/
 ---
 
-**[Autorité](/2009/11/autorite-des-transports-vers-une-revolution.html)** unique pour tous les transports terrestres, gestion des parking, des routes, des tarifs des péages, Singapour propose une vision des mobilités possibles en milieu urbain dense. La **[dernière application](http://www.onemotoring.com.sg/publish/onemotoring/en/on_the_roads.html)** sur smart phone centralise les principales informations temps réel, reste à rajouter du covoiturage dynamique, l'accès aux modes actifs ...
+**[Autorité]({{ site.baseurl }}/2009/11/autorite-des-transports-vers-une-revolution/)** unique pour tous les transports terrestres, gestion des parking, des routes, des tarifs des péages, Singapour propose une vision des mobilités possibles en milieu urbain dense. La **[dernière application](http://www.onemotoring.com.sg/publish/onemotoring/en/on_the_roads.html)** sur smart phone centralise les principales informations temps réel, reste à rajouter du covoiturage dynamique, l'accès aux modes actifs ...
 
  
 
@@ -22,4 +23,4 @@ Rappelons que Singapour est également équipé d'un péage avec un tarif dynami
 
  
 
-Les technologies sont disponibles, leurs utilisations dans nos villes nécessitent des innovations pour permettre la mise en oeuvre d'une **[autorité unique](/2009/11/autorite-des-transports-vers-une-revolution.html)**. Mais les bénéfices seront à la hauteur ... **[Un colloque](http://www.droit.univ-nantes.fr/labos/dcs/upload/pdf/Programme_15.pdf)** sur ce sujet à Nantes.
+Les technologies sont disponibles, leurs utilisations dans nos villes nécessitent des innovations pour permettre la mise en oeuvre d'une **[autorité unique]({{ site.baseurl }}/2009/11/autorite-des-transports-vers-une-revolution/)**. Mais les bénéfices seront à la hauteur ... **[Un colloque](http://www.droit.univ-nantes.fr/labos/dcs/upload/pdf/Programme_15.pdf)** sur ce sujet à Nantes.

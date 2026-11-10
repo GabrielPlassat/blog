@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Les « smart cities » arrivent. Risques et opportunités pour les différents acteurs ?"
-date: 2011-10-12 14:54:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'citoyen', 'collectivité', 'confiance', 'connectivité', 'données réelles', 'économie fonctionnalité', 'Efficacité énergétique', 'gouvernance', 'Infrastructure', 'internet des objets', 'management de la mobilité', 'robustesse']
-=======
-tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "gouvernance", "Infrastructure", "internet des objets", "management de la mobilit\u00e9", "robustesse"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-10-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/10/les-smart-cities-arrivent-risques-et-opportunites-pour-les-differents-acteurs.html"
+tags: ["autorité des transports", "citoyen", "collectivité", "confiance", "connectivité", "données réelles", "économie fonctionnalité", "Efficacité énergétique", "gouvernance", "Infrastructure", "internet des objets", "management de la mobilité", "robustesse"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2011/10/12/les-smart-cities-arrivent-risques-et-opportunites-pour-les-differents-acteurs/
 ---
 
 L’utilisation massive des données remontant de la ville et de ses activités, intelligence communautaire pour mieux gérer en temps réel, mieux planifier et anticiper le court terme, faire participer les citoyens aux processus de la ville… toutes ces actions arrivent (certaines sont déjà là). Qui gagnera à ces développements ? comment assurez des bénéfices collectifs ambitieux et partagés ? Le cabinet d’études [**ABI Research**](http://www.abiresearch.com/press/3715-Smart+City+Technologies+Will+Grow+Fivefold+to+Exceed+$39+Billion+in+2016) indique que pour les 5 prochaines années, ce sont 116 milliards de dollars qui seront investis dans ces programmes : e-gouvernement, systèmes de transports intelligents, gestion intégrée des déchets et du recyclage…
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b014e8c33127e970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b014e8c33127e970d-800wi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8c33127e970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8c33127e970d-800wi.jpg)
 
  
 
@@ -29,7 +30,7 @@ source IBM, Intelligent Transport (voir en bas d'article)
  
  
 
-Cette approche intégrée a été également développée dans plusieurs articles de ce blog (voir les MétaNote TdF 7 : **[la donnée,](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html)** TdF 9 :** [les risques des mobilités 2.0, ](/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous.html)**et TdF 11 : **[Transports & Mobilités, Introduction à la pensée complexe)](/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe.html)**. Nous avons essayé d’identifier, pour les transports, les opportunités apportées par cette intégration en matière de bénéfices environnementaux, de diversification énergétiques et de réponses aux besoins réels des utilisateurs.
+Cette approche intégrée a été également développée dans plusieurs articles de ce blog (voir les MétaNote TdF 7 : **[la donnée,]({{ site.baseurl }}/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives/)** TdF 9 :** [les risques des mobilités 2.0, ]({{ site.baseurl }}/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous/)**et TdF 11 : **[Transports & Mobilités, Introduction à la pensée complexe)]({{ site.baseurl }}/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe/)**. Nous avons essayé d’identifier, pour les transports, les opportunités apportées par cette intégration en matière de bénéfices environnementaux, de diversification énergétiques et de réponses aux besoins réels des utilisateurs.
 
  
 
@@ -62,7 +63,7 @@ Cette vision optimiste de prochaines années est tout à fait possible, mais des
 - L’utilisation massive des données, remontant des objets, des infrastructures mais également des utilisateurs est le point de départ permettant l’élaboration d’un système que l’on tente ensuite d’optimiser sous contraintes. L’accès à ces données, la production de certaines poseront question en matière d’atteinte à la vie privée, de transparence sur leurs utilisations, conduisant par la suite à des mécanismes de régulation et de contrôle. Cette surveillance pose problème. Ce risque majeur est directement lié au point suivant. 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b014e8c33151c970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b014e8c33151c970d-800wi.jpg)IBM installed a particulate-matter sensor at the exhibit site to augment information the city already has about air quality. When combined with traffic data, the air quality maps can be used to determine the areas of the city most affected by pollution (*see lower right inset*). [**Source**](http://www.scientificamerican.com/slideshow.cfm?id=ibm-think-city-research-exhibit).
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8c33151c970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e8c33151c970d-800wi.jpg)IBM installed a particulate-matter sensor at the exhibit site to augment information the city already has about air quality. When combined with traffic data, the air quality maps can be used to determine the areas of the city most affected by pollution (*see lower right inset*). [**Source**](http://www.scientificamerican.com/slideshow.cfm?id=ibm-think-city-research-exhibit).
 
  
  

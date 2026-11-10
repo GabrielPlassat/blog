@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Smart Move"
-date: 2010-03-17 08:57:14 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['BHNS', 'Efficacité énergétique']
-=======
-tags: ["BHNS", "Efficacit\u00e9 \u00e9nerg\u00e9tique"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/smart-move.html"
+tags: ["BHNS", "Efficacité énergétique"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/03/17/smart-move/
 ---
 
 Lancée début Mars 2010, cette campagne vise à doubler l'utilisation des bus et cars en Europe !
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01310fadf3cf970c-500pi.gif)](http://www.busandcoach.travel/fr/bougez_malin_avec_les_autobus_et_les_autocars_.htm) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01310fadf3cf970c-500pi.gif)](http://www.busandcoach.travel/fr/bougez_malin_avec_les_autobus_et_les_autocars_.htm) 
 
  
 

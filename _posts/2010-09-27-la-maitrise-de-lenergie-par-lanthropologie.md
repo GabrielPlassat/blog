@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "La maîtrise de l'énergie par l'anthropologie"
-date: 2010-09-27 14:32:29 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['anthropologie', 'citoyen', 'collectivité']
-=======
-tags: ["anthropologie", "citoyen", "collectivit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/la-maitrise-de-lenergie-par-lanthropologie.html"
+tags: ["anthropologie", "citoyen", "collectivité"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2010/09/27/la-maitrise-de-lenergie-par-lanthropologie/
 ---
 
 **[Dominique DESJEUX](http://www.argonautes.fr/)**, dans son article « **[La maîtrise de l'énergie pour les entreprises, une démarche sous contrainte](http://www.argonautes.fr/sections.php?op=viewarticle&artid=711)**» analyse les déclencheurs d’une démarche d’économie d’énergie au sens anthropologique. L’anthropologie cherche ici à identifier des mécanismes humains, essaye d’être au plus proche du vécu des acteurs, des solutions pratiques qu’ils mettent en place, et à comprendre pourquoi certains acteurs ont intérêt à la maîtrise de l’énergie et d’autres non.

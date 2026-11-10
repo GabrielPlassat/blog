@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Approches et enjeux de la mobilité dans la précarité énergétique - Atelier 22/03 à Paris"
-date: 2013-02-25 15:30:40 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'fiscalité', 'gouvernance', 'Précarité', 'robustesse']
-=======
-tags: ["citoyen", "fiscalit\u00e9", "gouvernance", "Pr\u00e9carit\u00e9", "robustesse"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-02-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/02/approches-et-enjeux-de-la-mobilite-dans-la-precarite-energetique-atelier-2203-a-paris.html"
+tags: ["citoyen", "fiscalité", "gouvernance", "Précarité", "robustesse"]
+theme: "Veille & documents"
+redirect_from:
+  - /2013/02/25/approches-et-enjeux-de-la-mobilite-dans-la-precarite-energetique-atelier-2203-a-paris/
 ---
 
 Les Ateliers de **[l’Observatoire National sur la Précarité Energétique](http://www.developpement-durable.gouv.fr/Un-Observatoire-national-de-la.html)** ont pour but d’aborder une question spécifique en rapport avec la précarité énergétique. 

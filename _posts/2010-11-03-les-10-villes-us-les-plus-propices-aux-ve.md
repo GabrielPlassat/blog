@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les 10 villes US les plus propices\" aux VE\""
-date: 2010-11-03 08:32:08 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'collectivité', 'commuter', 'données réelles', 'VE']
-=======
-tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "donn\u00e9es r\u00e9elles", "VE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/les-10-villes-us-les-plus-propices-aux-ve.html"
+tags: ["cité", "citoyen", "collectivité", "commuter", "données réelles", "VE"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/11/03/les-10-villes-us-les-plus-propices-aux-ve/
 ---
 
 Plenty of research — from sources like GE and Deloitte, to name a few — has shown that “range anxiety,” or the fear of running out of battery charge in the middle of the road, is one of the biggest factors scaring consumers away from electric vehicles (EVs). Plenty of research — from sources like GE and Deloitte, to name a few — has shown that “range anxiety,” or the fear of running out of battery charge in the middle of the road, is one of the biggest factors scaring consumers away from electric vehicles (EVs).Plenty of research — from sources like GE and Deloitte, to name a few — has shown that “range anxiety,” or the fear of running out of battery charge in the middle of the road, is one of the biggest factors scaring consumers away from electric vehicles (EVs).
@@ -38,4 +39,4 @@ For the rest of the Top Ten, check out the infographic below:
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f58bc11d970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f58bc11d970b-800wi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f58bc11d970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f58bc11d970b-800wi.jpg)

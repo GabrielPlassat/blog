@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Quel sera le prochain Cygne Noir ?"
-date: 2009-11-30 16:41:28 +0100
-categories: []
+date: 2009-11-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/quel-sera-le-prochain-cygne-noir.html"
 tags: []
+theme: "Stratégies numériques"
+redirect_from:
+  - /2009/11/30/quel-sera-le-prochain-cygne-noir/
 ---
 
 *Un cygne noir est un événement hautement improbable doté de 3 caractéristiques principales : Il est imprévisible, engendre des conséquences majeures et une explication a posteriori est toujours donnée afin de rendre celui-ci plus rationnel, lui conférant ainsi une apparente et sécurisante prévisibilité. *Le succès phénoménal de la start-up Google a été un cygne noir de même que le furent les attentats du 11 septembre 2001, la bataille de Waterloo.
@@ -14,7 +19,7 @@ tags: []
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b012875f15486970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b012875f15486970c-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012875f15486970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012875f15486970c-pi.jpg)
 
  
 
@@ -48,11 +53,7 @@ Ce qu’il y a d’intéressant dans la réflexion de Nassim Nicholas Taleb c’
 
  
 
-<<<<<<< HEAD
 En partant de ces constatations, Taleb propose un prolongement intéressant du concept de « cygne noir ». **Pour lui, nous ignorons le monde tel qu’il est parce que nous pensons que, grosso modo, nous partageons tous le même quotidien. Or, la réalité, c’est que notre monde est de plus en plus régi par des éléments qui échappent à la courbe de Gauss **et que le philosophe qualifie « *d’Extremistan* » ce qui, en employant une expression triviale, pourrait se résumer par « *un monde de toujours plus et d’encore plus* ». Les exemples sont légions. Les milliardaires dont le nombre ne cesse d’augmenter quand celui des pauvres est loin de diminuer. La réflexion de Taleb vaut aussi pour les livres. Dans la masse impressionnante d’ouvrages qui sont publiés chaque année, la plus grosse part des ventes va à des best-sellers « qui sont de moins en moins nombreux mais qui se vendent encore mieux ». En littérature comme en finance, il semb
-=======
-En partant de ces constatations, Taleb propose un prolongement intéressant du concept de « cygne noir ». **Pour lui, nous ignorons le monde tel qu’il est parce que nous pensons que, grosso modo, nous partageons tous le même quotidien. Or, la réalité, c’est que notre monde est de plus en plus régi par des éléments qui échappent à la courbe de Gauss **et que le philosophe qualifie « *d’Extremistan* » ce qui, en employant une expression triviale, pourrait se résumer par « *un monde de toujours plus et d’encore plus* ». Les exemples sont légions. Les milliardaires dont le nombre ne cesse d’augmenter quand celui des pauvres est loin de diminuer. La réflexion de Taleb vaut aussi pour les livres. Dans la masse impressionnante d’ouvrages qui sont publiés chaque année, la plus grosse part des ventes va à des best-sellers « qui sont de moins en moins nombreux mais qui se vendent encore mieux ». En littérature comme en finance, il semb_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 le bien que c’est la loi de l’Extremistan qui règne désormais.
 
  
@@ -61,7 +62,7 @@ En matière de transports, la crise actuelle, prévisible et de grandes ampleurs
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a6ef31c7970b-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a6ef31c7970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a6ef31c7970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a6ef31c7970b-pi.jpg)
 
  
 
@@ -71,4 +72,4 @@ Ce dernier rapport du CAS sur la crise économique souligne les difficultés du
 
  
 
-**[Pour accroître la robustesse de nos systèmes de mobilités à ces crises à venir](/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir.html)**, il faudra élargir le jeux d’acteurs pour construire cette pensée probabiliste complexe : territoire, infrastructure, réseaux d’énergies, urbanisme, véhicules, informations, citoyens/consommateurs, autorité de transports… Et dans certains cas, développer des services adaptés à des communautés.
+**[Pour accroître la robustesse de nos systèmes de mobilités à ces crises à venir]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**, il faudra élargir le jeux d’acteurs pour construire cette pensée probabiliste complexe : territoire, infrastructure, réseaux d’énergies, urbanisme, véhicules, informations, citoyens/consommateurs, autorité de transports… Et dans certains cas, développer des services adaptés à des communautés.

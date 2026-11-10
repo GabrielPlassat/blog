@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Co-créer une automobile, pour l'instant cela ne sert à rien mais demain ..."
-date: 2012-01-16 16:47:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'connectivité', 'holoptisme', 'innovation', 'intelligence collective', 'internet', 'open innovation', 'open source']
-=======
-tags: ["citoyen", "connectivit\u00e9", "holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "open source"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-01-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: ">\"<em>Lorsque l'ère de l'énergie bon marché se terminera. Nous arriverons  alors à relocaliser la production avec du capital redistribué ( »<a href=\"\"http://fr.wikipedia.org/wiki/Crowdsourcing\"\" target=\"\"_blank\"\">crowdsourcing</a> », etc.), les outils de production seront plus miniaturisés (<a href=\"\"http://en.wikipedia.org/wiki/Multimachine\"\" target=\"\"_blank\"\">multimachine</a>, <a href=\"\"http://fr.wikipedia.org/wiki/Fab_lab\"\" target=\"\"_blank\"\">FabLabs</a>, imprimante 3D) et le tout sera basé sur des « communs d'innovation partagée ».</em></p> <p style=\"\"text-align: justify"
+tags: ["citoyen", "connectivité", "holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "open source"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2012/01/16/co-creer-une-automobile-pour-linstant-cela-ne-sert-a-rien-mais-demain/
 ---
 
-Dans la suite de l'article sur le [**peer-to-peer**](/2012/01/le-nouveau-monde-2012-nm2012-arrive-il-va-en-surprendre-plus-dun.html), un [**exemple d'outils, de réseau, d'écosystème permettant de co-concevoir un véhicule complet**](http://forge.local-motors.com/pages/home.php#hash_projects). Le projet [**c'mm'n**](http://www.cmmn.org/en/what-is-cmmn/cmmn-car-20.html) (pour common) vient également de cette voie. Le véhicule est alors produit dans des micro-usines (localement), réparable, modifiable, adaptable. Ainsi, par exemple, le DARPA a reçu plus de 30000 contributions pour un véhicule dont le cahier des charges était ouvert à tout le monde (voir [**ici**](http://www.autoblog.com/2011/06/27/local-motors-builds-xc2v-flypmode-prototype-for-darpa/)). Le principe général est détaillé dans cette vidéo : 
+Dans la suite de l'article sur le [**peer-to-peer**]({{ site.baseurl }}/2012/01/le-nouveau-monde-2012-nm2012-arrive-il-va-en-surprendre-plus-dun/), un [**exemple d'outils, de réseau, d'écosystème permettant de co-concevoir un véhicule complet**](http://forge.local-motors.com/pages/home.php#hash_projects). Le projet [**c'mm'n**](http://www.cmmn.org/en/what-is-cmmn/cmmn-car-20.html) (pour common) vient également de cette voie. Le véhicule est alors produit dans des micro-usines (localement), réparable, modifiable, adaptable. Ainsi, par exemple, le DARPA a reçu plus de 30000 contributions pour un véhicule dont le cahier des charges était ouvert à tout le monde (voir [**ici**](http://www.autoblog.com/2011/06/27/local-motors-builds-xc2v-flypmode-prototype-for-darpa/)). Le principe général est détaillé dans cette vidéo : 
 
  
 
@@ -38,11 +39,7 @@ Comme l'indique [**Michel Bauwens**](), un des théoriciens du peer-to-peer dans
 
 Ces nouveaux moyens, outils et réseaux pourraient s'appliquer également à la couche supérieure, celles des services de mobilité qui pourraient naître en exploitant différemment nos véhicules, et en concevant d''autres types de véhicules. Cette transition en cours aura des conséquences dans tous les domaines: l'éducation, la formation, la notion même de travail, et l'entreprise.
 
-<<<<<<< HEAD
 "2012-01-16 16:47:04https://transportsdufutur.ademe.fr/2012/01/co-creer-une-automobile-pour-linstant-cela-ne-sert-a-rien-mais-demain.htmlcitoyen|connectivité|holoptisme|innovation|intelligence collective|internet|open innovation|open sourcepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatco-creer-une-automobile-pour-linstant-cela-ne-sert-a-rien-mais-demain2015-07-21 16:36:38>"*Lorsque l'ère de l'énergie bon marché se terminera. Nous arriverons alors à relocaliser la production avec du capital redistribué ( »[crowdsourcing]() », etc.), les outils de production seront plus miniaturisés ([multimachine](), [FabLabs](), imprimante 3D) et le tout sera basé sur des « communs d'innovation partagée ».*
-=======
-"2012-01-16 16:47:04/2012/01/16/co-creer-une-automobile-pour-linstant-cela-ne-sert-a-rien-mais-demain/citoyen|connectivité|holoptisme|innovation|intelligence collective|internet|open innovation|open sourcepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatco-creer-une-automobile-pour-linstant-cela-ne-sert-a-rien-mais-demain2015-07-21 16:36:38>"*Lorsque l'ère de l'énergie bon marché se terminera. Nous arriverons alors à relocaliser la production avec du capital redistribué ( »[crowdsourcing]() », etc.), les outils de production seront plus miniaturisés ([multimachine](), [FabLabs](), imprimante 3D) et le tout sera basé sur des « communs d'innovation partagée ».*
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

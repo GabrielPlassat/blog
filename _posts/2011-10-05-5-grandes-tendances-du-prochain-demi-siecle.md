@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "5 grandes tendances du prochain demi-siècle"
-date: 2011-10-05 12:28:22 +0100
-categories: []
+date: 2011-10-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/10/5-grandes-tendances-du-prochain-demi-siecle.html"
 tags: []
+theme: "Stratégies numériques"
+redirect_from:
+  - /2011/10/05/5-grandes-tendances-du-prochain-demi-siecle/
 ---
 
 [[**source Influencia**](http://www.influencia.net/fr/actualites1/5-tendances-50-prochaines-annees,41,1986.html)] Quelle sera la génération la plus choyée dans les années à venir? L’Europe et les USA continueront-elles à imposer les règles du jeu? A quel degrés l’humain sera t-il connecté? D’ailleurs sera t-il connecté en tant qu’humain, ou en tant que robot? Et notre environnement, nous laissera t-il le temps de changer et de grandir intelligemment?
@@ -23,4 +28,4 @@ Autant de questions qui trouveront peut-être des réponses lors de l’évènem
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01539214d3ac970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01539214d3ac970b-800wi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01539214d3ac970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01539214d3ac970b-800wi.jpg)

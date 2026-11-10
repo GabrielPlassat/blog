@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Des équations contre les embouteillages ?"
-date: 2010-09-07 09:34:09 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'données réelles', 'internet', 'Pay as You Move', 'PAYD', 'surveillance', 'TIC']
-=======
-tags: ["autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "Pay as You Move", "PAYD", "surveillance", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/des-equations-contre-les-embouteillages.html"
+tags: ["autorité des transports", "citoyen", "collectivité", "commuter", "connectivité", "données réelles", "internet", "Pay as You Move", "PAYD", "surveillance", "TIC"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/09/07/des-equations-contre-les-embouteillages/
 ---
 
 **L’usage croissant des véhicules pourrait conduire à une congestion généralisée dont certaines villes (Sao Paolo, Mexico , Johannesburg, New Delhi, Moscou, Londres, New York, Los Angeles et Tokyo )donnent déjà un exemple. Les recherches des mathématiciens et des informaticiens essaient de mieux comprendre, pour les prévenir, les phénomènes qui conduisent à la formation de bouchons.**
 
  
 
-Plusieurs précédents articles de ce blog (voir **[ici ](/2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement.html)**par exemple), montrent que des expérimentations ont lieu, que des industries s'emparent de ce sujet. Dans quelques années, nous serons sans doute capable dans la plupart des mégalopoles mondiales de connaître les mobilités quotidiennes (choix modaux, horaires, trajets ...) en fonction de plusieurs paramètres extérieurs (météo, jour de la semaine, incidents, grève ...), pour ensuite les prévoir heure par heure, et ensuite les adosser à des tarifications dynamiques (voir **[ici](/2010/05/vous-commencez-a-travailler-a-8h30-cela-vous-coutera-plus-cher.html)**). D'après la théorie des jeux, tout ceci concourt à trouver un équilibre optimal entre les différents joueurs, et se rapprocher de **[l'équilibre de Nash](http://fr.wikipedia.org/wiki/%C3%89quilibre_de_Nash)**.
+Plusieurs précédents articles de ce blog (voir **[ici ]({{ site.baseurl }}/2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement/)**par exemple), montrent que des expérimentations ont lieu, que des industries s'emparent de ce sujet. Dans quelques années, nous serons sans doute capable dans la plupart des mégalopoles mondiales de connaître les mobilités quotidiennes (choix modaux, horaires, trajets ...) en fonction de plusieurs paramètres extérieurs (météo, jour de la semaine, incidents, grève ...), pour ensuite les prévoir heure par heure, et ensuite les adosser à des tarifications dynamiques (voir **[ici]({{ site.baseurl }}/2010/05/vous-commencez-a-travailler-a-8h30-cela-vous-coutera-plus-cher/)**). D'après la théorie des jeux, tout ceci concourt à trouver un équilibre optimal entre les différents joueurs, et se rapprocher de **[l'équilibre de Nash](http://fr.wikipedia.org/wiki/%C3%89quilibre_de_Nash)**.
 
  
 

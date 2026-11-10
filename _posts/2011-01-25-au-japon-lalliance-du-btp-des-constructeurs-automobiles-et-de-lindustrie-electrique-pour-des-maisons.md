@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Au Japon, l’alliance du BTP, des constructeurs automobiles et de l’industrie électrique pour des maisons zéro émission"
-date: 2011-01-25 16:27:44 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['batterie', 'VE']
-=======
+date: 2011-01-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/01/au-japon-lalliance-du-btp-des-constructeurs-automobiles-et-de-lindustrie-electrique-pour-des-maisons.html"
 tags: ["batterie", "VE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2011/01/25/au-japon-lalliance-du-btp-des-constructeurs-automobiles-et-de-lindustrie-electrique-pour-des-maisons/
 ---
 
 L’entreprise japonaise [Sumitomo Forestry Co.](http://sfc.jp/english/,), qui, entre autres, [construit des maisons en bois ](http://sfc.jp/english/information/jigyou/sintiku/) a annoncé le 15 septembre 2010 qu’elle allait construire des maisons candidates au nouveau  label Life Cycle Carbon Minus [(LCCM)](http://www.globalwood.org/market/timber_prices_2009/aaw20100702c.htm).

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Libérer les données et voilà le travail ..."
-date: 2010-03-30 16:10:09 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'internet', 'iphone', 'partage de données', 'téléphone', 'vélo']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "internet", "iphone", "partage de donn\u00e9es", "t\u00e9l\u00e9phone", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/liberer-les-donnees-et-voila-le-travail.html"
+tags: ["données réelles", "internet", "iphone", "partage de données", "téléphone", "vélo"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/03/30/liberer-les-donnees-et-voila-le-travail/
 ---
 
 #### Ou comment une décision immédiate permet de démultiplier la capacité d'innovation sans coût pour la société. 5 applications concrètes ont été développées en 21 jours à Rennes pour les vélos en libre service Keolis.
@@ -53,11 +54,7 @@ Elle fonctionne comme une application Web Mobile sur votre Iphone. Elle propose 
 
  
 
-<<<<<<< HEAD
 En plus d'être une reine des fées selon la légende arthurienne, Caelia est la première application pour le vélo STAR à fonctionner
-=======
-En plus d'être une reine des fées selon la légende arthurienne, Caelia est la première application pour le vélo STAR à fonctionner_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
  sur Nokia N900. Elle permet de visualiser les stations et informe des disponibilités place et vélo. Elle positionne également les stations sur une carte.
 
  

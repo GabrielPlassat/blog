@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Pendant ce temps là, à New Delhi, un salon automobile…"
-date: 2010-01-07 11:08:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'Delhi', 'low cost', 'robustesse', 'simplicité', 'Véhicule']
-=======
-tags: ["ADEME", "Delhi", "low cost", "robustesse", "simplicit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/pendant-ce-temps-la-a-new-delhi-un-salon-automobile.html"
+tags: ["ADEME", "Delhi", "low cost", "robustesse", "simplicité", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/01/07/pendant-ce-temps-la-a-new-delhi-un-salon-automobile/
 ---
 
 Tient place, avec comme ambition d’être le premier au Monde, avec plus de 2 millions de visiteurs attendus, pour **[plusieurs raisons](http://www.bsmotoring.com/news/new-delhi-auto-expo-2010-expected-to-be-largest-inworld/1496/1)**.

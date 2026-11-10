@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Transport: EU push for better travel planning solutions"
-date: 2014-06-16 16:30:32 +0100
-categories: []
+date: 2014-06-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "><strong>Multimodal journey planners in Europe</strong></p> <p style=\"\"text-align: justify"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2014/06/16/transport-eu-push-for-better-travel-planning-solutions/
 ---
 
 The European Commission is renewing efforts to develop Europe-wide all-in-one journey planners, making it easier to plan and book journeys that involve several means of transport with a single online tool, even across borders. Coinciding with the [10th European ITS Congress in Helsinki](http://www.itsineurope.com/its10/) — one of Europe's largest events in Intelligent Transport Systems and Services (or ITS") — the Commission has [published its analysis]() of the current situation of multimodal travel planners and its plans for the way forward. In particular, the Commission is tackling issues such as restricted access to the necessary data and insufficient cooperation between everyone involved.
@@ -86,11 +91,7 @@ As part of the opening ceremony, Commission Vice-President Siim Kallas will awar
 
 More information : [http://ec.europa.eu/transport/themes/its/index_en.htm]()
 
-<<<<<<< HEAD
 "2014-06-16 16:30:32https://transportsdufutur.ademe.fr/2014/06/transport-eu-push-for-better-travel-planning-solutions.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattransport-eu-push-for-better-travel-planning-solutions2015-07-21 16:35:32>**Multimodal journey planners in Europe**
-=======
-"2014-06-16 16:30:32/2014/06/16/transport-eu-push-for-better-travel-planning-solutions/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattransport-eu-push-for-better-travel-planning-solutions2015-07-21 16:35:32>**Multimodal journey planners in Europe**
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

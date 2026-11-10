@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Un impressionnant agrégateur de données des Mobilités et un livre"
-date: 2010-04-22 09:41:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'internet', 'mode doux', 'multimodes', 'partage de données', "Plateforme d'idées", 'Service de mobilité']
-=======
-tags: ["citoyen", "collectivit\u00e9", "internet", "mode doux", "multimodes", "partage de donn\u00e9es", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/un-impressionnant-agregateur-de-donnees-des-mobilites-et-un-livre.html"
+tags: ["citoyen", "collectivité", "internet", "mode doux", "multimodes", "partage de données", "Plateforme d'idées", "Service de mobilité"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2010/04/22/un-impressionnant-agregateur-de-donnees-des-mobilites-et-un-livre/
 ---
 
 réalisé dans le cadre de la parution de leur livre Les Transports, la planète et le citoyen" par Ludovic Bu, président de **[Voiture&Co]()**, **[bloggeur]()**, Olivier Razemon, **[journaliste au Monde]()**, et Marc Fontanès, président de **[Mobility+.]()**

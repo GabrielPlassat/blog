@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Les Micro Cars ont un musée, et 60 ans d'histoire"
-date: 2010-07-19 11:46:33 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Efficacité énergétique', 'véhicule propre']
-=======
-tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-07-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/les-micro-cars-ont-un-musee-et-60-ans-dhistoire.html"
+tags: ["Efficacité énergétique", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/07/19/les-micro-cars-ont-un-musee-et-60-ans-dhistoire/
 ---
 
 Simplicité, Efficacité énergétique, Réparabilité, économie ne sont pas nouveaux. Les microcars ont un **[musée](http://microcarmuseum.com/tourindex.html)** montrant qu’une autre voie de véhicule léger est possible ... depuis plus de 60 ans.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013485888b21970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b013485888b21970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013485888b21970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013485888b21970c-pi.jpg) 
  **Extrait du [site](http://microcarmuseum.com/info.html) :**
 
  

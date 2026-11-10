@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Par le troc de données, et si on inventait aujourd'hui de nouveaux contrats ?"
-date: 2015-01-06 11:24:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autopartage', 'autorité des transports', 'citoyen', 'collectivité', 'confiance', 'connectivité', 'covoiturage', 'donnée data', 'données réelles', 'gouvernance', 'intelligence collective', 'internet', 'management de la mobilité', 'marketing individualisé', 'partage de données', 'pensée complexe', 'Service de mobilité', 'surveillance', 'Uber']
-=======
-tags: ["autopartage", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "confiance", "connectivit\u00e9", "covoiturage", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "gouvernance", "intelligence collective", "internet", "management de la mobilit\u00e9", "marketing individualis\u00e9", "partage de donn\u00e9es", "pens\u00e9e complexe", "Service de mobilit\u00e9", "surveillance", "Uber"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2015-01-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2015/01/par-le-troc-de-donnees-et-si-on-inventait-aujourdhui-de-nouveaux-contrats.html"
+tags: ["autopartage", "autorité des transports", "citoyen", "collectivité", "confiance", "connectivité", "covoiturage", "donnée data", "données réelles", "gouvernance", "intelligence collective", "internet", "management de la mobilité", "marketing individualisé", "partage de données", "pensée complexe", "Service de mobilité", "surveillance", "Uber"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2015/01/06/par-le-troc-de-donnees-et-si-on-inventait-aujourdhui-de-nouveaux-contrats/
 ---
 
 En modifiant le couple support/message, [**Michel Serres**](http://www.academie-francaise.fr/actualites/communication-de-m-michel-serres) nous décrit comment le numérique, comme les précédents, bouleverse le droit établi.
 
  
 
-Quand le numérique outille les dynamiques sociales issues de l’économie collaborative, émergent de nouveaux flux de richesses (lire [**Dans vos projets et organisations, quelles sont les vraies richesses ?**](/2013/05/quelles-sont-vos-vraies-richesses-.html)). Plusieurs exemples existent maintenant. Ce ne sont plus des signaux faibles. Hier des start-ups proposaient des services, des informations aux citoyens pour résoudre un problème : Waze pour mieux circuler en voiture grâce à l’information temps réel des « autres » dont l’utilisateur fait partie, Moov’it pour mieux circuler dans les transports en communs, Strava pour être visible dans la communauté des cyclistes et rendre visible cette communauté, Uber pour trouver un véhicule avec chauffeur, etc … Aujourd’hui ces start-ups ne le sont plus.
+Quand le numérique outille les dynamiques sociales issues de l’économie collaborative, émergent de nouveaux flux de richesses (lire [**Dans vos projets et organisations, quelles sont les vraies richesses ?**]({{ site.baseurl }}/2013/05/quelles-sont-vos-vraies-richesses/)). Plusieurs exemples existent maintenant. Ce ne sont plus des signaux faibles. Hier des start-ups proposaient des services, des informations aux citoyens pour résoudre un problème : Waze pour mieux circuler en voiture grâce à l’information temps réel des « autres » dont l’utilisateur fait partie, Moov’it pour mieux circuler dans les transports en communs, Strava pour être visible dans la communauté des cyclistes et rendre visible cette communauté, Uber pour trouver un véhicule avec chauffeur, etc … Aujourd’hui ces start-ups ne le sont plus.
 
  
 
@@ -30,7 +31,7 @@ Elles sont en passe de trouver un ou plusieurs modèles d’affaires, s’appuya
 
  
 
-Plusieurs niveaux s’empilent, comme l’article réalisé il y a presque 4 années l’imaginait déjà (lire l’article [**L’apport des TIC vers le citoyen mais également l’autorité**](/2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite.html)) : des **données** fonctionnelles de base, naissent de nouvelles **connaissances** mises en forme par la puissance du design pour alimenter de nouveaux **outils** aux interfaces riches. Data/connaissance/outil, ces trois couches mettent en œuvre des échanges entre de plus en plus d’acteurs hétérogènes : ils alignent leurs intérêts individuels. Ces mises en œuvre ne se réalisent que dans des territoires (réels) pour qu’émergent de nouveaux flux. Ainsi la ville de Rio (lire l’article **Si tu vas à Rio …**) procède du troc entre trois acteurs (Waze , Moov’it et Strava) avec leurs données issues de l’activité d’humains utilisant les applications et les informations de la ville (accidents, travaux, …). Cet enrichissement mutuel est nouveau ; il est itératif, à valorisation croisée (tout le monde y gagne), à rendement croissant (les gains vont augmenter). Déjà d’autres villes procèdent au même deal, Waze (donc Google) en fait une démarche de croissance avec [**Waze Connected Citizens**](http://blog-fr.waze.com/2014/10/le-programme-waze-connected-citizen-est.html). Initiée par le pair à pair (P2P), puis capitalisée avec le pair à privé à pair, la dynamique se complexifie avec le pair à privé à public à pair.
+Plusieurs niveaux s’empilent, comme l’article réalisé il y a presque 4 années l’imaginait déjà (lire l’article [**L’apport des TIC vers le citoyen mais également l’autorité**]({{ site.baseurl }}/2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite/)) : des **données** fonctionnelles de base, naissent de nouvelles **connaissances** mises en forme par la puissance du design pour alimenter de nouveaux **outils** aux interfaces riches. Data/connaissance/outil, ces trois couches mettent en œuvre des échanges entre de plus en plus d’acteurs hétérogènes : ils alignent leurs intérêts individuels. Ces mises en œuvre ne se réalisent que dans des territoires (réels) pour qu’émergent de nouveaux flux. Ainsi la ville de Rio (lire l’article **Si tu vas à Rio …**) procède du troc entre trois acteurs (Waze , Moov’it et Strava) avec leurs données issues de l’activité d’humains utilisant les applications et les informations de la ville (accidents, travaux, …). Cet enrichissement mutuel est nouveau ; il est itératif, à valorisation croisée (tout le monde y gagne), à rendement croissant (les gains vont augmenter). Déjà d’autres villes procèdent au même deal, Waze (donc Google) en fait une démarche de croissance avec [**Waze Connected Citizens**](http://blog-fr.waze.com/2014/10/le-programme-waze-connected-citizen-est.html). Initiée par le pair à pair (P2P), puis capitalisée avec le pair à privé à pair, la dynamique se complexifie avec le pair à privé à public à pair.
 
  
 
@@ -68,4 +69,4 @@ Et si demain certaines compagnies étaient capables de négocier avec les collec
 
  
 
-Ces domaines se trouvent aux frontières de l’innovation. Les phasages historiques et linéaires (recherche, étude, industrialisation, marketing, commercialisation) ne s’appliquent plus, pire ils nous font échouer. Pour explorer ces frontières, il devient nécessaire de se former aux approches fractales (lire [**Chaos mode d’emploi**](http://brunomarion.com/fr/chaos-mode-demploi-le-nouveau-livre/) de Bruno Marion) et pour cela d’accéder à des espaces/temps « protégés » où nous pouvons échouer ou réussir ensemble, travailler ensemble. Pour les travailler, il devient nécessaire d’inventer en même temps : les limites (le droit), les techniques, mais également les descriptions et les concepts pour en parler ensemble. De ces dynamiques, émergeront de nouveaux métiers, de nouveaux domaines, de nouvelles filières industrielles et plus important encore une nouvelle [**culture**](/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques.html).
+Ces domaines se trouvent aux frontières de l’innovation. Les phasages historiques et linéaires (recherche, étude, industrialisation, marketing, commercialisation) ne s’appliquent plus, pire ils nous font échouer. Pour explorer ces frontières, il devient nécessaire de se former aux approches fractales (lire [**Chaos mode d’emploi**](http://brunomarion.com/fr/chaos-mode-demploi-le-nouveau-livre/) de Bruno Marion) et pour cela d’accéder à des espaces/temps « protégés » où nous pouvons échouer ou réussir ensemble, travailler ensemble. Pour les travailler, il devient nécessaire d’inventer en même temps : les limites (le droit), les techniques, mais également les descriptions et les concepts pour en parler ensemble. De ces dynamiques, émergeront de nouveaux métiers, de nouveaux domaines, de nouvelles filières industrielles et plus important encore une nouvelle [**culture**]({{ site.baseurl }}/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques/).

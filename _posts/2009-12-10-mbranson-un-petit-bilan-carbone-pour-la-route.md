@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "M.Branson, un petit bilan carbone ? pour la route …"
-date: 2009-12-10 10:31:51 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'espace']
-=======
+date: 2009-12-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/mbranson-un-petit-bilan-carbone-pour-la-route.html"
 tags: ["Energie", "espace"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/12/10/mbranson-un-petit-bilan-carbone-pour-la-route/
 ---
 
 **[VIRGIN Galactic a présenté récemment SpaceShip 2](http://www.aeroweb-fr.net/actualites/2009/12/virgin-galactic-devoilement-officiel-du-spaceshiptwo)**, son vaisseau spatial. Ce dernier a fait son apparition sur la piste de l’aéroport de Mojave (Californie-USA). Relié à un avion porteur, SpaceShip 2 (SS2) ammènera à son bord un équipage de touristes spatiaux à 20 km d’altitude. Le SS2 sera attaché à son transporteur le WhiteKhightTwo (WK2), qui a été dévoilé l’année dernière et qui a été baptisé EVE. Le WK2 transportera le SS2 au-delà de 16000 mètres et larguera ensuite l’appareil qui grimpera en vol suborbital à partir de cette altitude. Sir Richard Branson, fondateur de Virgin Galactic, a dit qu’il s’agit *« du futur du transport humain. Nous voulons que ce programme marqueun début dans l’ère commerciale des voyages spatiaux ». *Le gouverneur de Californie, le champagne, tout était là …
@@ -16,7 +17,7 @@ tags: ["Energie", "espace"]
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0128763fa05a970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0128763fa05a970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128763fa05a970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128763fa05a970c-pi.jpg) 
 
  
 

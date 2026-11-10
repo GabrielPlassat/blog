@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "L'accès aux matières premières, stratégie de l'UE"
-date: 2010-06-17 13:20:08 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['carburant', 'chine', 'economie circulaire', 'terre rare']
-=======
+date: 2010-06-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/06/les-matieres-premieres-sont-des-composantes-essentielles-des-produits-de-haute-technologie-et-des-produits-de-consommatio.html"
 tags: ["carburant", "chine", "economie circulaire", "terre rare"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/06/17/les-matieres-premieres-sont-des-composantes-essentielles-des-produits-de-haute-technologie-et-des-produits-de-consommatio-2/
 ---
 
 [ ](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2008:0699:FIN:FR:PDF) 
@@ -20,7 +21,7 @@ Antonio Tajani, vice-président de la Commission européenne chargé de l’indu
 
  
 
-D’après le groupe d’experts, **14 matières premières minérales** sont d’une importance critique pour l’Union européenne: l’antimoine, le béryllium, le cobalt, le spath fluor, le gallium, le germanium, le graphite, l’indium, le magnésium, le niobium, les métaux du groupe du platine, les terres rares, le tantale et le tungstène. Les prévisions indiquent que, pour certaines matières premières critiques, le niveau de la demande en 2030 pourrait être plus de trois fois supérieur à celui de 2006. Ce sujet déjà abordé dans ce blog (**[ici](/2010/02/les-terres-rares-seront-elles-en-plus-volatiles-.html)** et **[là](/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses.html)**) renforce : sobriété, recyclage, optimisation de l'existant et **[recherche de robustesse](/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir.html)**.
+D’après le groupe d’experts, **14 matières premières minérales** sont d’une importance critique pour l’Union européenne: l’antimoine, le béryllium, le cobalt, le spath fluor, le gallium, le germanium, le graphite, l’indium, le magnésium, le niobium, les métaux du groupe du platine, les terres rares, le tantale et le tungstène. Les prévisions indiquent que, pour certaines matières premières critiques, le niveau de la demande en 2030 pourrait être plus de trois fois supérieur à celui de 2006. Ce sujet déjà abordé dans ce blog (**[ici]({{ site.baseurl }}/2010/02/les-terres-rares-seront-elles-en-plus-volatiles/)** et **[là]({{ site.baseurl }}/2010/06/matieres-premieres-grands-changements-et-nouvelles-faiblesses/)**) renforce : sobriété, recyclage, optimisation de l'existant et **[recherche de robustesse]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**.
 
  
 
@@ -44,7 +45,7 @@ Les **technologies émergentes qui sont les principaux moteurs **de la demande d
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013484853e77970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b013484853e77970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013484853e77970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013484853e77970c-pi.jpg) 
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Quand des sociologues étudient le développement d’un Système d’Information Multimodale couplé au covoiturage dynamique"
-date: 2011-01-04 10:13:56 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'covoiturage', 'données réelles', 'gouvernance', 'internet', 'iphone', 'multimodes', 'partage de données', "Plateforme d'idées"]
-=======
-tags: ["ADEME", "assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "gouvernance", "internet", "iphone", "multimodes", "partage de donn\u00e9es", "Plateforme d'id\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-01-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/01/quand-des-sociologues-etudient-le-developpement-dun-systeme-dinformation-multimodale-couple-au-covoi.html"
+tags: ["ADEME", "assistant de mobilité", "autorité des transports", "citoyen", "collectivité", "commuter", "connectivité", "covoiturage", "données réelles", "gouvernance", "internet", "iphone", "multimodes", "partage de données", "Plateforme d'idées"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2011/01/04/quand-des-sociologues-etudient-le-developpement-dun-systeme-dinformation-multimodale-couple-au-covoi/
 ---
 
 Vous trouverez ci-dessous une étude exploratoire, ainsi que les principales conclusions indiquées *en italique*.

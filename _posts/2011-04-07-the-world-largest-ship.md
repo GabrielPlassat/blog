@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "the World largest ship"
-date: 2011-04-07 10:58:06 +0100
-categories: []
+date: 2011-04-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/the-world-largest-ship.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/04/07/the-world-largest-ship/
 ---
 
 The construction of ten [**Triple-E vessels**](http://worldslargestship.com/), each capable of carrying 18,000 twenty foot containers, will put Maersk Line at the helm of change. The size and capacity of these vessels, at 400 metres long and 59 metres wide, will help reduce energy consumption and lower CO2 emissions.

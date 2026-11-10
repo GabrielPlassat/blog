@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "OPEN World FORUM - 30/09, 01/10 à Paris"
-date: 2010-07-07 16:03:44 +0100
-categories: []
+date: 2010-07-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/open-world-forum-3009-0110-a-paris.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/07/07/open-world-forum-3009-0110-a-paris/
 ---
 
 ### The [Open World Forum](http://www.openworldforum.org/discover/about) is the world's leading summit meeting bringing together decision-makers and communities to cross-fertilize open technological, economic and social initiatives to build the digital future. 
@@ -19,4 +24,4 @@ Having made a key contribution to the Internet revolution, the Free/Open Source 
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f21e2156970b-800wi.gif)](/assets/images/old/6a0120a66d2ad4970b0133f21e2156970b-pi.gif) [![](/assets/images/old/6a0120a66d2ad4970b0133f21e2294970b-800wi.gif)](/assets/images/old/6a0120a66d2ad4970b0133f21e2294970b-pi.gif)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f21e2156970b-800wi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f21e2156970b-pi.gif) [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f21e2294970b-800wi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f21e2294970b-pi.gif)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Quelques propositions pour une politique de transport par véhicules autonomes"
-date: 2014-07-08 11:56:29 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'collectivité', 'commuter', 'connectivité', 'covoiturage', 'données réelles', 'Efficacité énergétique', 'google', 'gouvernance', 'internet des objets', 'ITS', 'Service de mobilité', 'véhicule mono-usage']
-=======
-tags: ["autorit\u00e9 des transports", "collectivit\u00e9", "commuter", "connectivit\u00e9", "covoiturage", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "gouvernance", "internet des objets", "ITS", "Service de mobilit\u00e9", "v\u00e9hicule mono-usage"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-07-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/07/quelques-propositions-pour-une-politique-de-mobilite-par-vehicules-autonomes.html"
+tags: ["autorité des transports", "collectivité", "commuter", "connectivité", "covoiturage", "données réelles", "Efficacité énergétique", "google", "gouvernance", "internet des objets", "ITS", "Service de mobilité", "véhicule mono-usage"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2014/07/08/quelques-propositions-pour-une-politique-de-mobilite-par-vehicules-autonomes/
 ---
 
 *Cet article est rédigé par **[Bertrand Duflos](https://www.linkedin.com/profile/view?id=41818271&authType=NAME_SEARCH&authToken=NRcu&locale=fr_FR&srchid=397705101404812484727&srchindex=1&srchtotal=2&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A397705101404812484727%2CVSRPtargetId%3A41818271%2CVSRPcmpt%3Aprimary).**
@@ -15,11 +16,11 @@ tags: ["autorit\u00e9 des transports", "collectivit\u00e9", "commuter", "connect
 
  
 
-La présentation par Google, en mai, de ses prototypes de voitures totalement autonomes (sans conducteur) a confirmé les progrès de Google qui se prépare manifestement à lancer *prochainement* une offre de transport par véhicules autonomes (lire également [**la MétaNote N°20, La Chimère**](/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere.html)).
+La présentation par Google, en mai, de ses prototypes de voitures totalement autonomes (sans conducteur) a confirmé les progrès de Google qui se prépare manifestement à lancer *prochainement* une offre de transport par véhicules autonomes (lire également [**la MétaNote N°20, La Chimère**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/)).
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a73de86e1b970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a73de86e1b970d-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73de86e1b970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73de86e1b970d-pi.jpg)
 
  
 
@@ -56,7 +57,7 @@ Le cas de la société [**Induct**](http://induct-technology.com/) montre les co
 
  
 
-Le texte le plus bloquant quant au développement de véhicules autonomes est la *convention de Vienne* qui, en imposant la présence et la responsabilité du conducteur dans les véhicules, interdit de facto une pleine automatisation de la conduite (lire un autre article sur ce sujet : [**Innovation, Seniors, Pollution et le cybercar**](/2014/07/innovations-seniors-pollution-et-cybercars.html)).
+Le texte le plus bloquant quant au développement de véhicules autonomes est la *convention de Vienne* qui, en imposant la présence et la responsabilité du conducteur dans les véhicules, interdit de facto une pleine automatisation de la conduite (lire un autre article sur ce sujet : [**Innovation, Seniors, Pollution et le cybercar**]({{ site.baseurl }}/2014/07/innovations-seniors-pollution-et-cybercars/)).
 
  
 
@@ -81,11 +82,7 @@ En matière de transport par véhicule autonome, nous avons des atouts essentiel
 
  
 
-<<<<<<< HEAD
 Les acteurs inversement qui connaissent cette problématique, ce sont les opérateurs de transport public de voy
-=======
-Les acteurs inversement qui connaissent cette problématique, ce sont les opérateurs de transport public de voy_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ageurs. Et nous avons aujourd'hui en France de magnifiques sociétés dans ce domaine: Keolis, Transdev, la SNCF, la RATP, et un outsider Bolloré.
 
  

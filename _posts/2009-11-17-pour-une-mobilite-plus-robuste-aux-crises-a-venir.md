@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "MétaNote TdF 1 - Pour une mobilité plus robuste aux crises à venir ..."
-date: 2009-11-17 12:28:02 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['crise', 'Energie', 'Précarité', 'robustesse', 'Service de mobilité', 'TIC', 'Véhicule']
-=======
-tags: ["crise", "Energie", "Pr\u00e9carit\u00e9", "robustesse", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-11-17
+source: tdf
+source_name: "Transports du Futur"
+tags: ["crise", "Energie", "Précarité", "robustesse", "Service de mobilité", "TIC", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/11/17/pour-une-mobilite-plus-robuste-aux-crises-a-venir/
 ---
 
 Dans son dernier [livre](http://www.chapitre.com/CHAPITRE/fr/BOOK/attali-jacques/survivre-aux-crises-1020,23600257.aspx#), Jacques Attali propose quelques pistes pour survivre" aux crises (vivre de façon "supérieure" et également réussir à continuer à vivre). **Sept principes sont indiqués**. 

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Le boitier Xee par Norauto est commercialisé"
-date: 2014-04-24 15:53:08 +0100
-categories: []
+date: 2014-04-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/04/le-boitier-xee-par-norauto-est-commercialise.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/04/24/le-boitier-xee-par-norauto-est-commercialise/
 ---
 
 Ce boitier télématique se connecte à la prise diagnostic du véhicule, accède à plusieurs données et renferme des capteurs spécifiques dont accéléromètre et GPS. Couplé au téléphone, [**Xee**](http://www.xee.com/boitier/) héberge déjà plusieurs [**applications**](http://www.xee.com/application/application-n1/), et d'autres pourraient bientôt arriver ... 
@@ -16,7 +21,7 @@ Ce boitier télématique se connecte à la prise diagnostic du véhicule, accèd
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a511a796e4970c-320wi.png)](/assets/images/old/6a0120a66d2ad4970b01a511a796e4970c-pi.png)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511a796e4970c-320wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511a796e4970c-pi.png)
 
  
 

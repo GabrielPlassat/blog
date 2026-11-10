@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Collaborative Vehicle Infrastructure System (CVIS) Project"
-date: 2010-03-18 12:06:39 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['connectivité', 'données réelles', 'Ertico', 'Infrastructure', 'internet', 'internet des objets', 'iphone', 'multimodes', 'open source', 'partage de données', 'partage de la voirie', 'péage urbain', 'roadpricing', 'Service de mobilité']
-=======
-tags: ["connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Ertico", "Infrastructure", "internet", "internet des objets", "iphone", "multimodes", "open source", "partage de donn\u00e9es", "partage de la voirie", "p\u00e9age urbain", "roadpricing", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-18
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/collaborative-vehicle-infrastructure-system-cvis-project.html"
+tags: ["connectivité", "données réelles", "Ertico", "Infrastructure", "internet", "internet des objets", "iphone", "multimodes", "open source", "partage de données", "partage de la voirie", "péage urbain", "roadpricing", "Service de mobilité"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/03/18/collaborative-vehicle-infrastructure-system-cvis-project/
 ---
 
 This document has been written as part of the **[Cooperative Vehicle-Infrastructure Systems (CVIS) project](http://www.cvisproject.org/)** to raise awareness of the potential of cooperative systems to help tackle urban transport challenges among local authorities and urban planners. 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Open source & mobilités, quels avantages, quelles conséquences ?"
-date: 2009-11-16 16:01:01 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['open source', 'partage de données', 'Service de mobilité', 'TIC', 'Véhicule', 'web2.0']
-=======
-tags: ["open source", "partage de donn\u00e9es", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule", "web2.0"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-11-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/open-source-mobilites-quels-avantages-quelles-consequences.html"
+tags: ["open source", "partage de données", "Service de mobilité", "TIC", "Véhicule", "web2.0"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/11/16/open-source-mobilites-quels-avantages-quelles-consequences/
 ---
 
 **Définition open-source / logiciel libre (source : wiki, www.apitux.org)**
@@ -18,7 +19,7 @@ Un logiciel libre est un logiciel dont la licence dite *[libre](http://fr.wikipe
 
  
 
-Depuis la fin des années 1990, le succès des logiciels libres, notamment de GNU/Linux, suscite un vif intérêt dans l'industrie informatique et les médias. [![](/assets/images/old/6a0120a66d2ad4970b0120a6a5fe98970b-800wi.png)](/assets/images/old/6a0120a66d2ad4970b0120a6a5fe98970b-pi.png)De même, les libertés définies par un logiciel libre sont bien plus étendues que le simple accès au code-source, ce qu'on appelle souvent logiciel « à source ouverte » ou *Open Source*. Le logo copyleft (« gauche d'auteurs » ou « laisser copier », les 2 traductions sont possibles) symbolise l'obligation de conserver le droit de copier. Toutefois, la notion formelle de logiciel [Open Source](http://fr.wikipedia.org/wiki/Open_Source) telle qu'elle est définie par l'*[Open Source Initiative](http://fr.wikipedia.org/wiki/Open_Source_Initiative)* est reconnue comme techniquement comparable au logiciel libre.
+Depuis la fin des années 1990, le succès des logiciels libres, notamment de GNU/Linux, suscite un vif intérêt dans l'industrie informatique et les médias. [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a6a5fe98970b-800wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a6a5fe98970b-pi.png)De même, les libertés définies par un logiciel libre sont bien plus étendues que le simple accès au code-source, ce qu'on appelle souvent logiciel « à source ouverte » ou *Open Source*. Le logo copyleft (« gauche d'auteurs » ou « laisser copier », les 2 traductions sont possibles) symbolise l'obligation de conserver le droit de copier. Toutefois, la notion formelle de logiciel [Open Source](http://fr.wikipedia.org/wiki/Open_Source) telle qu'elle est définie par l'*[Open Source Initiative](http://fr.wikipedia.org/wiki/Open_Source_Initiative)* est reconnue comme techniquement comparable au logiciel libre.
    
 
  Il ne faut pas confondre logiciel libre et logiciel gratuit. Le logiciel libre se définit à partir de [quatre libertés fondamentales](http://www.apitux.org/index.php?2005/06/01/46-les-quatres-libertes-fondamentales-du-logiciel-libre). [Les enjeux du logiciel libre](http://www.apitux.org/index.php?2005/06/03/50-les-enjeux-du-logiciel-libre) sont importants, notamment par rapport à la problématique des formats de fichiers. Il s'agit avant tout d'un problème politique comme l'explique très bien le député péruvien Villanueva Nunez dans [sa lettre à Microsoft](http://www.apitux.org/index.php?2005/05/09/7-la-reponse-du-depute-peruvien-villanueva-nunez-a-microsoft). Les libertés du logiciel libre sont protégées par des licences. On voit se développer une [économie du logiciel libre](http://www.apitux.org/index.php?2005/06/02/48-l-economie-du-logiciel-libre). 

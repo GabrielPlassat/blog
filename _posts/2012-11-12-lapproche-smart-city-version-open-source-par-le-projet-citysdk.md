@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "L'approche Smart City version Open Source par le projet CitySDK"
-date: 2012-11-12 12:21:32 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'collectivité', 'commuter', 'connectivité', 'donnée data', 'Europe', 'FP7', 'gouvernance', 'intelligence collective', 'internet', 'open source', 'partage de données']
-=======
-tags: ["cit\u00e9", "collectivit\u00e9", "commuter", "connectivit\u00e9", "donn\u00e9e data", "Europe", "FP7", "gouvernance", "intelligence collective", "internet", "open source", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-11-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/11/lapproche-smart-city-version-open-source-par-le-projet-citysdk.html"
+tags: ["cité", "collectivité", "commuter", "connectivité", "donnée data", "Europe", "FP7", "gouvernance", "intelligence collective", "internet", "open source", "partage de données"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2012/11/12/lapproche-smart-city-version-open-source-par-le-projet-citysdk/
 ---
 
 Le projet européen [**CitySDK** ](http://www.citysdk.eu/)(2012-2014) vise à développer un kit Open Source permettant à d'autres villes de mettre en oeuvre des produits/services numériques innovants dans les domaines des **[transports](http://www.citysdk.eu/mobility/)** et du tourisme.
 
  
 
-La boîte à outils comprendra des interfaces ouvertes et interopérables de services numériques ainsi que des procédés, des lignes directrices et des normes d'utilisabilité. CitySDK permet une utlisation plus efficace de l'expertise et du savoir-faire des communautés de développeurs pour être appliqués dans le développement des services de la ville. Il est notamment envisagé le développement d'un Assistant Personnel de Mobilité (**[APM](/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html)**).
+La boîte à outils comprendra des interfaces ouvertes et interopérables de services numériques ainsi que des procédés, des lignes directrices et des normes d'utilisabilité. CitySDK permet une utlisation plus efficace de l'expertise et du savoir-faire des communautés de développeurs pour être appliqués dans le développement des services de la ville. Il est notamment envisagé le développement d'un Assistant Personnel de Mobilité (**[APM]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)**).
 
 Le projet dispose de 8 villes à travers l'Europe en tant que partenaires: Helsinki, Barcelone, Amsterdam, Manchester, Lamia, Istanbul, Lisbonne et Rome.
 

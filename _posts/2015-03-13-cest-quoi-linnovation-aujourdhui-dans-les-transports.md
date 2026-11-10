@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Le Fordisme, le Lean, et après ?"
-date: 2015-03-13 18:04:12 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Acteur historique des Mobilités et Logistiques', 'Acteur numérique des Mobilités et des Logistiques', 'citoyen', "économie de l'expérience", 'Fabrique des mobilités', 'holoptisme', 'innovation', 'intelligence collective', 'open innovation']
-=======
-tags: ["Acteur historique des Mobilit\u00e9s et Logistiques", "Acteur num\u00e9rique des Mobilit\u00e9s et des Logistiques", "citoyen", "\u00e9conomie de l'exp\u00e9rience", "Fabrique des mobilit\u00e9s", "holoptisme", "innovation", "intelligence collective", "open innovation"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2015-03-13
+source: tdf
+source_name: "Transports du Futur"
+original_url: "13/03/2015 18:04"
+tags: ["Acteur historique des Mobilités et Logistiques", "Acteur numérique des Mobilités et des Logistiques", "citoyen", "économie de l'expérience", "Fabrique des mobilités", "holoptisme", "innovation", "intelligence collective", "open innovation"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2015/03/13/cest-quoi-linnovation-aujourdhui-dans-les-transports/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b01b7c761cc64970b-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01b7c761cc64970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b7c761cc64970b-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b7c761cc64970b-pi.jpg)
 
  
 
@@ -22,7 +23,7 @@ Ford a inventé le Fordisme, qui s'est ensuite répandu dans tous les secteurs i
 
  
 
-Les industriels de l'automobile, les équipementiers, les opérateurs de transports, les énergéticiens, tous les acteurs de cette ex-filière, comme [**Ford**](http://gas2.org/2015/02/26/ford-plans-for-sharing-economy-future/), cherchent le nouveau Fordisme - Lean - ... Le concept même de filière est questionné puisqu'il ne s'agit plus d'être en ligne, à la suite d'un autre, mais en nuage, connecté et relié. **Nous parlerons d'écosystème en mutation**. Quand au contexte, il ne fait plus de doute : [**le chaos**](https://plassat.wordpress.com/2014/06/10/lordre-puis-le-chaos/) en est la principale caractéristique. Imprivisibilité, forts effets des réseaux et des connexions, grande importance d'un petit évènement, une personne (Président Directeur) ne peut pas prévoir et guider, une personne (CEO) peut tout changer.
+Les industriels de l'automobile, les équipementiers, les opérateurs de transports, les énergéticiens, tous les acteurs de cette ex-filière, comme [**Ford**](http://gas2.org/2015/02/26/ford-plans-for-sharing-economy-future/), cherchent le nouveau Fordisme - Lean - ... Le concept même de filière est questionné puisqu'il ne s'agit plus d'être en ligne, à la suite d'un autre, mais en nuage, connecté et relié. **Nous parlerons d'écosystème en mutation**. Quand au contexte, il ne fait plus de doute : [**le chaos**]({{ site.baseurl }}/2014/06/l-ordre-puis-le-chaos/) en est la principale caractéristique. Imprivisibilité, forts effets des réseaux et des connexions, grande importance d'un petit évènement, une personne (Président Directeur) ne peut pas prévoir et guider, une personne (CEO) peut tout changer.
 
  
 

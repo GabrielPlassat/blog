@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "La mobilité et les territoires"
-date: 2010-04-09 16:11:38 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'centre commercial', 'collectivité']
-=======
-tags: ["autorit\u00e9 des transports", "centre commercial", "collectivit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/la-mobilite-et-les-territoires.html"
+tags: ["autorité des transports", "centre commercial", "collectivité"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/04/09/la-mobilite-et-les-territoires/
 ---
 
 Nos modes de déplacements actuels et futurs sont extrêmement dépendants des territoires : topographie, densité, zone industrielle ou d'habitation, relief, monuments, infrastructures routières ou ferroviaires, zone touristique ... Les acteurs territoriaux jouent un rôle majeur en matière de planification de nos mobilités, de conseils, de promotion des meilleures pratiques. Plusieurs outils sont présentés ci dessous :

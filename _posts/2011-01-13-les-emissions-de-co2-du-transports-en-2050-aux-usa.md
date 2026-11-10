@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les émissions de CO2 du transports en 2050 aux USA"
-date: 2011-01-13 12:14:39 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['biocarburant', 'camion', 'carburant', 'données réelles', 'emission', 'externalité', 'gouvernance', 'Infrastructure', 'innovation', 'logistique', 'marchandises', 'multimodes', 'PAYD', 'péage urbain', 'prix carburant', 'stationnement', 'véhicule propre']
-=======
-tags: ["biocarburant", "camion", "carburant", "donn\u00e9es r\u00e9elles", "emission", "externalit\u00e9", "gouvernance", "Infrastructure", "innovation", "logistique", "marchandises", "multimodes", "PAYD", "p\u00e9age urbain", "prix carburant", "stationnement", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-01-13
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/01/les-emissions-de-co2-du-transports-en-2050-aux-usa.html"
+tags: ["biocarburant", "camion", "carburant", "données réelles", "emission", "externalité", "gouvernance", "Infrastructure", "innovation", "logistique", "marchandises", "multimodes", "PAYD", "péage urbain", "prix carburant", "stationnement", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/01/13/les-emissions-de-co2-du-transports-en-2050-aux-usa/
 ---
 
 Une **[nouvelle étude ](http://www.pewclimate.org/press-center/press-releases/new-report-examines-paths-cleaner-more-secure-us-transportation-solutions)**vient d’être publiée par le PEW Center on Global Climate Change et réalisée par Oak ridge et Argonne National labs. Elle vise à estimer le potentiel de réduction des émissions de CO2 / consommation d’énergies du secteur des transports aux USA à l’horizon 2050.
@@ -31,11 +32,11 @@ Dans le domaine des transports, la question n’est plus de trouver des solution
 
  
 
-Rien, par exemple, sur la mutation actuelle de l’industrie automobile, qui n’est abordée ici que par l’angle technologique (le véhicule électrique devient probable, cette filière offre de bénéfice unitaire en matière de CO2, elle est donc intégrée aux scénarios), alors que le VE offre une opportunité de repenser la mobilité, certains, comme General Electric, l’ont déjà compris (voir **[ici](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html)**). Dans ce cas, les scénarios « VE » devraient s’étudier avec le développement des smartgrids, des smartphones, des comportements de la génération Y, de l’intermodalité et donc du développement des transports en commun publics.
+Rien, par exemple, sur la mutation actuelle de l’industrie automobile, qui n’est abordée ici que par l’angle technologique (le véhicule électrique devient probable, cette filière offre de bénéfice unitaire en matière de CO2, elle est donc intégrée aux scénarios), alors que le VE offre une opportunité de repenser la mobilité, certains, comme General Electric, l’ont déjà compris (voir **[ici]({{ site.baseurl }}/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique/)**). Dans ce cas, les scénarios « VE » devraient s’étudier avec le développement des smartgrids, des smartphones, des comportements de la génération Y, de l’intermodalité et donc du développement des transports en commun publics.
 
  
 
-Rien sur l'accès à la donnée de la consommation réelle, donc des émissions de CO2 qui pourrait arriver d'ici quelques années et qui changerait alors la réglementation, la fiscalité, les taxes (voir **[ici ](/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html)**et **[là](/2010/12/quand-la-chaine-logistique-devient-transparente.html)**).
+Rien sur l'accès à la donnée de la consommation réelle, donc des émissions de CO2 qui pourrait arriver d'ici quelques années et qui changerait alors la réglementation, la fiscalité, les taxes (voir **[ici ]({{ site.baseurl }}/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives/)**et **[là]({{ site.baseurl }}/2010/12/quand-la-chaine-logistique-devient-transparente/)**).
 
  
 
@@ -47,7 +48,7 @@ L’étude propose alors de lancer une stratégie globale incluant tous les nive
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0148c791f2a7970c-320wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0148c791f2a7970c-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0148c791f2a7970c-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0148c791f2a7970c-800wi.jpg) 
  
 *“Achieving the full potential to reduce transportation’s GHG emissions will require a comprehensive strategy comprised of many policies. But these three major policies will not be enough. An array of other policies and measures, some based on technology, others on price signals, still others on changing institutional or individual behavior, need to be implemented in innovative ways at various levels of government and with the participation of individuals and organizations. Many of these policies will not be justifiable on the basis of their GHG mitigation benefits alone; they will depend on other benefits such as reducing traffic congestion, improving system efficiencies, reducing petroleum dependence or enhancing safety. Finally, based on the analysis in this report, it makes sense to begin what will ultimately become a full-scale transition from a carbon-intensive transportation system to one based on sustainable low-carbon energy, requiring policies that account for the potential long-term social benefits of the transition.”*
 

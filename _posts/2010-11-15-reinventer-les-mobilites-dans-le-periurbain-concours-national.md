@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Réinventer les mobilités dans le périurbain - concours national"
-date: 2010-11-15 15:57:53 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'commuter', 'connectivité', 'innovation', 'internet', 'Service de mobilité']
-=======
-tags: ["citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "innovation", "internet", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-11-15
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/reinventer-les-mobilites-dans-le-periurbain-concours-national.html"
+tags: ["citoyen", "collectivité", "commuter", "connectivité", "innovation", "internet", "Service de mobilité"]
+theme: "Veille & documents"
+redirect_from:
+  - /2010/11/15/reinventer-les-mobilites-dans-le-periurbain-concours-national/
 ---
 
 L’Agence d’urbanisme de l’agglomération rennaise (**[Audiar](http://www.audiar.org)**) et ses partenaires proposent aux étudiants de participer à un concours national d’idées sur les mobilités dans le périurbain. Les étudiants sont sollicités pour proposer des idées dans cinq domaines : la communication, la pédagogie, le marketing, l’information, l’aménagement urbain et le design.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f5df21a8970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f5df21a8970b-800wi.jpg)  
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5df21a8970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f5df21a8970b-800wi.jpg)  
 
  
 

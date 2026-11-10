@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Traffic 2.0, ré-inventer l'arrêt de bus pour faire mieux avec ce que l'on a"
-date: 2010-05-20 22:20:57 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['BHNS', 'connectivité', 'données réelles', 'Infrastructure', 'internet', 'internet des objets', 'partage de données']
-=======
-tags: ["BHNS", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "internet des objets", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-05-20
+source: tdf
+source_name: "Transports du Futur"
+original_url: " the decision was made to bring that convenience to the system through the card itself. Powered by RFID, the display lasts indefinitely and brings an extra level of value and functionality to the device. Touching it to the Metroplan migrates your planned itinerary to the card providing a convenient reference for route stops and transfers throughout your trip.</p> <p><img alt=\"\"\"\" border=\"\"0\"\" class=\"\"float-center \"\" src=\"\"/wp-content/uploads/sites/6/2010/05/traffic20rinventerlarrtdebuspourfairemieuxaveccequelona-2.jpg\"\" /></p> <p><strong>WHEN: Metropoint</strong><br />But what about the wait? Responding to rider complaints over time wasted waiting for connections and arrivals, Metropoint tackles the problem of waiting right at its source, the bus stop itself. Available as a freestanding element as well as an add-on to existing light and utility poles, Metropoint provides riders information about bus arrivals within a 15-minute window. Readable from up to 150 feet, Metropoint gives control back to riders, freeing them from the tyranny of the stop and empowering them with the means to decide how best to use their time. Why 15 minutes? In most urban settings, 15 minutes is sufficient to allow passengers to bypass the stand and support one last errand, or, at the very least, make an informed decision to \"wait it out.\" A quick glance tells riders which routes are en route and which aren't. If the route number is illuminated, but the top portion is not, the bus is more than 15 minutes from arriving at the stop. As the bus draws closer, the top portion of the unit illuminates: One band means the bus is 15 minutes out. Two bands, 10 minutes out. When the bus is less than five minutes away--bingo!--the full \"hourglass\" and route number flash, informing passengers that arrival is imminent.</p> <p><strong>Orchestration Over Re-Creation</strong><br />Sometimes a bus stop is just a bus stop. At the heart of Traffic 2.0 is a design solution we believe is a harbinger of things to come: a design solution that seeks to improve upon its surroundings rather than dominate them. Design long ago mastered the art of coming up with \"the new\""
+tags: ["BHNS", "connectivité", "données réelles", "Infrastructure", "internet", "internet des objets", "partage de données"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/05/20/traffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a/
 ---
 
 **Introducing Traffic 2.0 (from** **[Fastcompany](http://www.fastcompany.com/1648672/redesigning-the-bus-stop-teagues-traffic-20-makes-transit-more-friendly))**
@@ -66,11 +67,7 @@ Sometimes a bus stop is just a bus stop. At the heart of Traffic 2.0 is a design
 
 *Tad Toulis is the creative director of Teague's Seattle-based design studio. Prior to joining Teague, he worked at Lunar Design, Motorola's Advanced Concepts Group and Samsung's LA LAB. Tad is a regular presenter and lecturer, speaking to the topics of design and business at events, universities and conferences across the globe. His contribution to design has been honored with numerous awards including the Red Dot, IDEA, Good Design and iF awards. Tad was also founding member of designRAW, a San Francisco-based design collective*
 
-<<<<<<< HEAD
 "2010-05-20 22:20:57https://transportsdufutur.ademe.fr/2010/05/traffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a.htmlBHNS|connectivité|données réelles|Infrastructure|internet|internet des objets|partage de donnéespublish18gabriel plassattraffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a2010-05-20 22:20:57the decision was made to bring that convenience to the system through the card itself. Powered by RFID, the display lasts indefinitely and brings an extra level of value and functionality to the device. Touching it to the Metroplan migrates your planned itinerary to the card providing a convenient reference for route stops and transfers throughout your trip.
-=======
-"2010-05-20 22:20:57/2010/05/20/traffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a/BHNS|connectivité|données réelles|Infrastructure|internet|internet des objets|partage de donnéespublish18gabriel plassattraffic-20-reinventer-larret-de-bus-pour-faire-mieux-avec-ce-que-lon-a2010-05-20 22:20:57the decision was made to bring that convenience to the system through the card itself. Powered by RFID, the display lasts indefinitely and brings an extra level of value and functionality to the device. Touching it to the Metroplan migrates your planned itinerary to the card providing a convenient reference for route stops and transfers throughout your trip.
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

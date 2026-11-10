@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si l'objectif de sustainable\" n'était finalement jamais atteint ?\""
-date: 2010-02-12 17:33:06 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'Véhicule']
-=======
-tags: ["Energie", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-12
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/et-si-lobjectif-de-sustainable-netait-finalement-jamais-atteint.html"
+tags: ["Energie", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/02/12/et-si-lobjectif-de-sustainable-netait-finalement-jamais-atteint/
 ---
 
 Ne devrait-on pas définir la sustainability" en regardant en arrière ? Quel est le prix d'un baril de pétrole acceptable par le marché (comme le propose J.M.Chevalier dans un **[rapport]()** remis à C.Lagarde sur le prix du pétrole, début février 2010) ? Quelle valeur donnera-t-on à ce bien précieux dans seulement 20 ans ? Une voiture dite "propre" aujourd'hui le sera-t-elle dans 5 ou 10 ans ?

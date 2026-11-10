@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si le bus était le transport public le plus résilient ? leçons du dernier rapport Modernizing Public Transportation"
-date: 2010-10-18 17:26:38 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['BHNS', 'collectivité']
-=======
-tags: ["BHNS", "collectivit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-10-18
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/et-si-le-bus-etait-le-transport-public-le-plus-resilient-lecons-du-dernier-rapport-modernizing-publi.html"
+tags: ["BHNS", "collectivité"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/10/18/et-si-le-bus-etait-le-transport-public-le-plus-resilient-lecons-du-dernier-rapport-modernizing-publi/
 ---
 
 A new report, “[Modernizing Public Transportation](http://www.embarq.org/en/modernizing-public-transportation),” presents the first comprehensive review of major bus improvements in 13 Latin America and Asia cities.

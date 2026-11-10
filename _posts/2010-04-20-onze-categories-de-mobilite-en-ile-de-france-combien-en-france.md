@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Onze catégories de mobilité en Ile de France, combien en France ?"
-date: 2010-04-20 17:06:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autorité des transports', 'citoyen', 'collectivité', 'données réelles', 'internet', 'iphone', 'partage de données', 'téléphone']
-=======
-tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "internet", "iphone", "partage de donn\u00e9es", "t\u00e9l\u00e9phone"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-20
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/onze-categories-de-mobilite-en-ile-de-france-combien-en-france.html"
+tags: ["assistant de mobilité", "autorité des transports", "citoyen", "collectivité", "données réelles", "internet", "iphone", "partage de données", "téléphone"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/04/20/onze-categories-de-mobilite-en-ile-de-france-combien-en-france/
 ---
 
 L’IAURIF vient de publier une étude sur [**la mobilité des franciliens actifs en fonction de leur emploi du temps et de leurs moyens de transport**](http://www.iau-idf.fr/nos-etudes/detail-dune-etude/etude/lemploi-du-temps-des-actifs-franciliens-et-leurs-moyen.html). L’exploitation des données est particulièrement intéressante et montre le chemin à suivre.
@@ -26,7 +27,7 @@ L’IAURIF vient de publier une étude sur [**la mobilité des franciliens actif
 
  
 
-*[![](/assets/images/old/6a0120a66d2ad4970b01348000ce45970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01348000ce45970c-pi.jpg)  *
+*[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348000ce45970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348000ce45970c-pi.jpg)  *
 
  
 ***Une attention toute particulière mériterait d’être portée à deux de ces catégories**. La première regroupe les actifs de banlieue dont le foyer comporte des enfants d’âge scolaire et pour lesquels l’activité d’accompagnement contribue fortement à accroître l’intensité et la pénibilité de leurs programmes quotidiens. Des aides à l’accompagnement « collectif » bien adaptées pourraient contribuer à réduire le volume de ces déplacements devenus, dans bien des cas, passablement contraignants. La seconde est formée des actifs de banlieue travaillant en horaires décalés, dans des endroits souvent mal desservis par les transports collectifs, qui devraient se voir proposer une alternative à la voiture particulière, surtout si les effectifs de cette catégorie venaient à se renforcer.* 
@@ -127,7 +128,7 @@ Ainsi il nous faut considérer une explosion des configurations, qui seront éga
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b01348000d00b970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01348000d00b970c-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348000d00b970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348000d00b970c-pi.jpg) 
   *Le **premier axe **explique, à lui seul, 10,3% de l’inertie. Au vu des variables explicatives les plus proches de l’axe, il peut être interprété comme reflétant l’opposition entre les programmes limités au seul travail et les programmes très « intenses » comportant un nombre élevé d’activités. Cette intensité du programme n’est d’ailleurs pas synonyme de diversité puisque le nombre d’activités répétées croît à mesure que le programme augmente en intensité : ainsi, plus le programme compte d’activités, plus l’individu est enclin à répéter certains types d’activités.*
 
  
@@ -136,7 +137,7 @@ Ainsi il nous faut considérer une explosion des configurations, qui seront éga
 
  
 
-Cette analyse ouvre des possibilités en matière d’anticipation des mobilités. **[La connaissance « temps réel » des mobilités](/2010/03/metanote-tdf-2-le-marche-des-mobilites-20.html)** est accessible en utilisant nos objets nomades, et en **[protégeant correctement](/2010/03/apres-la-surveillance-la-sousveillance.html)** une partie des données. Certains citoyens pourraient en complément indiquer sur la base du volontariat le ou les modes qu’ils utilisent en temps réel. Couplés à toutes les données disponibles des transports en commun, véhicules partagés, météo et d’autres, nous sommes dès à présent capables d’établir des analyses encore plus globales en tenant compte des territoires.
+Cette analyse ouvre des possibilités en matière d’anticipation des mobilités. **[La connaissance « temps réel » des mobilités]({{ site.baseurl }}/2010/03/metanote-tdf-2-le-marche-des-mobilites-20/)** est accessible en utilisant nos objets nomades, et en **[protégeant correctement]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)** une partie des données. Certains citoyens pourraient en complément indiquer sur la base du volontariat le ou les modes qu’ils utilisent en temps réel. Couplés à toutes les données disponibles des transports en commun, véhicules partagés, météo et d’autres, nous sommes dès à présent capables d’établir des analyses encore plus globales en tenant compte des territoires.
 
  
 
@@ -144,7 +145,7 @@ Cette analyse ouvre des possibilités en matière d’anticipation des mobilité
 
  
 
-Les objectifs sont multiples. Il s’agit dans un premier temps de comprendre, puis de prévoir, d’anticiper les futures demandes de transport, des différents modes en fonction des temporalités, de la météo, de la demande (prise en compte des effets rétroactifs). Il s’agit également d’identifier les plus **[vulnérables](/2009/12/precarite-et-mobilite-quelques-elements-de-contexte.html)**, les plus dépendants de l’automobile sans autre solution.
+Les objectifs sont multiples. Il s’agit dans un premier temps de comprendre, puis de prévoir, d’anticiper les futures demandes de transport, des différents modes en fonction des temporalités, de la météo, de la demande (prise en compte des effets rétroactifs). Il s’agit également d’identifier les plus **[vulnérables]({{ site.baseurl }}/2009/12/precarite-et-mobilite-quelques-elements-de-contexte/)**, les plus dépendants de l’automobile sans autre solution.
 
  
 
@@ -152,7 +153,7 @@ Les objectifs sont multiples. Il s’agit dans un premier temps de comprendre, p
 
  
 
-Les utilisations possibles sont immenses. Gestions anticipées des différents modes, organisation de certains transports collectifs uniquement en fonction de la demande, mise en œuvre de solution alternative automatique lors de la venue d’un **[cygne noir](/2010/04/doiton-attendre-le-prochain-cygne-noir-pour-ameliorer-nos-transports.html)** (grève, incidents, accidents, volcan …), mais également urbanisme, densification (voir **[exemple](http://www.good.is/post/not-in-your-back-yard-canada-fights-about-coach-houses/)** au Canada de réutilisation de garage et **[ici](http://www.good.is/post/look-lanefab-microhousing/)**)…
+Les utilisations possibles sont immenses. Gestions anticipées des différents modes, organisation de certains transports collectifs uniquement en fonction de la demande, mise en œuvre de solution alternative automatique lors de la venue d’un **[cygne noir]({{ site.baseurl }}/2010/04/doiton-attendre-le-prochain-cygne-noir-pour-ameliorer-nos-transports/)** (grève, incidents, accidents, volcan …), mais également urbanisme, densification (voir **[exemple](http://www.good.is/post/not-in-your-back-yard-canada-fights-about-coach-houses/)** au Canada de réutilisation de garage et **[ici](http://www.good.is/post/look-lanefab-microhousing/)**)…
 
  
 

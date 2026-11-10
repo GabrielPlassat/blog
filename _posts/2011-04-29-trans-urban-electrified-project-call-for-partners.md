@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Trans Urban Electrified Project - Call for Partners"
-date: 2011-04-29 14:22:15 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Europe', 'multimodes']
-=======
+date: 2011-04-29
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/trans-urban-electrified-project-call-for-partners.html"
 tags: ["Europe", "multimodes"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/04/29/trans-urban-electrified-project-call-for-partners/
 ---
 
 The Trans Urban Electrified Project is looking for partners being public or private organisations, setting up a local/regional pilot site.

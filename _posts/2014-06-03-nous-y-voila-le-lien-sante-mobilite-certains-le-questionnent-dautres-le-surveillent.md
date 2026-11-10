@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Lien santé / mobilité active, vers l'autosurveillance généralisée ?"
-date: 2014-06-03 12:57:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['anthropologie', 'assistant de mobilité', 'assurance', 'citoyen', 'commuter', 'confiance', 'connectivité', 'données réelles', 'innovation', "lloyd's", 'marche', 'monnaie complémentaire', 'partage de données', 'pensée complexe', 'sousveillance', 'surveillance', 'transparence', 'vélo']
-=======
-tags: ["anthropologie", "assistant de mobilit\u00e9", "assurance", "citoyen", "commuter", "confiance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "innovation", "lloyd's", "marche", "monnaie compl\u00e9mentaire", "partage de donn\u00e9es", "pens\u00e9e complexe", "sousveillance", "surveillance", "transparence", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-06-03
+source: tdf
+source_name: "Transports du Futur"
+tags: ["anthropologie", "assistant de mobilité", "assurance", "citoyen", "commuter", "confiance", "connectivité", "données réelles", "innovation", "lloyd's", "marche", "monnaie complémentaire", "partage de données", "pensée complexe", "sousveillance", "surveillance", "transparence", "vélo"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2014/06/03/nous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent/
 ---
 
-Plusieurs notes ont été rédigées sur le sujet de la surveillance ([**Métanote N°3**](/2010/03/apres-la-surveillance-la-sousveillance.html) et [**Reloaded**](/2013/03/metanote-tdf-3-la-surveillance-reloaded.html)) . Le numérique, technique dominante, permet de relier des domaines autrefois non connectés, de surveiller profondément les comportements, de tracer les actes quotidiens et également d'apporter des informations contextualisées à hautes valeurs ajoutées. Par effet miroir, la sousveillance se déploie également.
+Plusieurs notes ont été rédigées sur le sujet de la surveillance ([**Métanote N°3**]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/) et [**Reloaded**]({{ site.baseurl }}/2013/03/metanote-tdf-3-la-surveillance-reloaded/)) . Le numérique, technique dominante, permet de relier des domaines autrefois non connectés, de surveiller profondément les comportements, de tracer les actes quotidiens et également d'apporter des informations contextualisées à hautes valeurs ajoutées. Par effet miroir, la sousveillance se déploie également.
 
  
 
-Plusieurs notes ont été rédigées sur le rôle majeur des assureurs (lire l'article [**Du café des Lloyd's**](/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages.html)), structures centrées sur la connaissance des risques, donc des usages et des pratiques. En 1688, Edward Lloyd ouvre un café en plein cœur du quartier des affaires de la City, et s’efforce d’attirer la clientèle des marchands en leur fournissant **des informations** sur les déplacements des bateaux de sa majesté, Elisabeth I. **Les assureurs ont toujours, par l’accès à l’information et la compréhension des risques, permis le développement de nouvelles activités, engendrant de nouveaux comportements**.
+Plusieurs notes ont été rédigées sur le rôle majeur des assureurs (lire l'article [**Du café des Lloyd's**]({{ site.baseurl }}/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages/)), structures centrées sur la connaissance des risques, donc des usages et des pratiques. En 1688, Edward Lloyd ouvre un café en plein cœur du quartier des affaires de la City, et s’efforce d’attirer la clientèle des marchands en leur fournissant **des informations** sur les déplacements des bateaux de sa majesté, Elisabeth I. **Les assureurs ont toujours, par l’accès à l’information et la compréhension des risques, permis le développement de nouvelles activités, engendrant de nouveaux comportements**.
 
  
 
@@ -26,7 +26,7 @@ Plusieurs notes ont été rédigées sur le rôle majeur des assureurs (lire l'a
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a73dd0eba4970d-500wi.png)](/assets/images/old/6a0120a66d2ad4970b01a73dd0eba4970d-pi.png)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73dd0eba4970d-500wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73dd0eba4970d-pi.png)
 
  
 
@@ -38,7 +38,7 @@ Plusieurs notes ont été rédigées sur le rôle majeur des assureurs (lire l'a
 
  
 
-Plus vous marchez, plus votre capteur numérique l'enregistre, plus [**votre santé s'améliore**](/2010/01/plan-national-de-prevention-par-lactivite-physique-ou-sportive.html) plus cela vous rapporte" et plus AXA y gagne en réduisant statistiquement vos dépenses de santé et probablement également vos dépenses de transports (assurance voiture). Et si, par ce biais, AXA n'était pas le meilleur promoteur des pratiques de vélo et marche pour aller au travail ? Est ce complémentaire, concurrent ou différent d'une approche de soutien au vélo basée sur une indemnité à l'usage (lire cet article sur le blog de l'ADEME concernant [**l'expérimentation de l'indemnité vélo**]()) ?
+Plus vous marchez, plus votre capteur numérique l'enregistre, plus [**votre santé s'améliore**]({{ site.baseurl }}/2010/01/plan-national-de-prevention-par-lactivite-physique-ou-sportive/) plus cela vous rapporte" et plus AXA y gagne en réduisant statistiquement vos dépenses de santé et probablement également vos dépenses de transports (assurance voiture). Et si, par ce biais, AXA n'était pas le meilleur promoteur des pratiques de vélo et marche pour aller au travail ? Est ce complémentaire, concurrent ou différent d'une approche de soutien au vélo basée sur une indemnité à l'usage (lire cet article sur le blog de l'ADEME concernant [**l'expérimentation de l'indemnité vélo**]()) ?
 
  
 
@@ -80,8 +80,4 @@ Cet [**article**]() de Valérie Peugeot (Orange Labs, VECAM) concernant les donn
 
  
 
-<<<<<<< HEAD
 "2014-06-03 12:57:34https://transportsdufutur.ademe.fr/2014/06/nous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent.htmlanthropologie|assistant de mobilité|assurance|citoyen|commuter|confiance|connectivité|données réelles|innovation|lloyd's|marche|monnaie complémentaire|partage de données|pensée complexe|sousveillance|surveillance|transparence|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent2015-07-21 16:35:32
-=======
-"2014-06-03 12:57:34/2014/06/03/nous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent/anthropologie|assistant de mobilité|assurance|citoyen|commuter|confiance|connectivité|données réelles|innovation|lloyd's|marche|monnaie complémentaire|partage de données|pensée complexe|sousveillance|surveillance|transparence|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-y-voila-le-lien-sante-mobilite-certains-le-questionnent-dautres-le-surveillent2015-07-21 16:35:32
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4

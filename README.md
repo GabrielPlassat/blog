@@ -1,12 +1,14 @@
 # 🚀 Transports du Futur - Blog Jekyll
 
-Blog personnel explorant 15 ans de mobilités, innovation et transports (2009-2024).
+Blog personnel réunissant vingt ans d'écrits sur les mobilités, les communs et les véhicules intermédiaires (2009-2026) : Transports du Futur, la Fabrique des Mobilités, Bricologie & Sérendipité, le blog de l'eXtrême Défi et LinkedIn.
+
+Cinq entrées : **Thèmes**, **Derniers articles**, **le ciel** (constellation des articles), **la terre** (rhizome des tags), **le temps** (chronologie). Les scripts de la refonte sont décrits dans `scripts/README.md`.
 
 ## 📊 Statistiques
 
-- **998 articles** publiés
+- **1 121 articles** publiés (978 Transports du Futur, 92 FabMob, 24 XD, 21 Bricologie, 6 LinkedIn)
 - **261 tags** thématiques
-- **Période** : 2009-2024
+- **Période** : 2009-2026
 - **Auteur** : Gabriel Plassat
 
 ## ✨ Fonctionnalités

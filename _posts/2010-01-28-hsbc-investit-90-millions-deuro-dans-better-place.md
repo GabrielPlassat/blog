@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "HSBC investit 90 millions d'euro dans Better Place"
-date: 2010-01-28 15:55:43 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['banque', 'better place', 'Energie', 'Service de mobilité', 'TIC', 'VE', 'Véhicule']
-=======
-tags: ["banque", "better place", "Energie", "Service de mobilit\u00e9", "TIC", "VE", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/hsbc-investit-90-millions-deuro-dans-better-place.html"
+tags: ["banque", "better place", "Energie", "Service de mobilité", "TIC", "VE", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/01/28/hsbc-investit-90-millions-deuro-dans-better-place/
 ---
 
 La banque va prendre 10% du capital de **[Better Place](http://www.betterplace.com/company/press-release-detail/better-place-secures-350-)**, et placer Kevin Adeson, responsable des opérations financières mondiales, au sein du comité de direction de Better Place.
@@ -18,7 +19,7 @@ La banque va prendre 10% du capital de **[Better Place](http://www.betterplace.c
 
  
 
-Comme il a déjà été annoncé il y a plus d'un an, les acteurs de la mobilité vont se diversifier. De nouveaux puissants arrivent parmi lesquels le secteur de la bancassurance (voir note précédente **[ici](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**). 
+Comme il a déjà été annoncé il y a plus d'un an, les acteurs de la mobilité vont se diversifier. De nouveaux puissants arrivent parmi lesquels le secteur de la bancassurance (voir note précédente **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**). 
 
  
 

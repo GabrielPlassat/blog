@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Hackers Steal Millions In Emissions Certificates"
-date: 2010-02-06 22:01:01 +0100
-categories: []
+date: 2010-02-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/hackers-steal-millions-in-emissions-certificates.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/06/hackers-steal-millions-in-emissions-certificates/
 ---
 
 [Phishing For Carbon: Hackers Steal Millions In Emissions Certificates](http://www.gizmodo.com.au/2010/02/phishing-for-carbon-hackers-steal-millions-in-emissions-certificates/).

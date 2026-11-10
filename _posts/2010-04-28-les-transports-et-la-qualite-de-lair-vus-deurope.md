@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les transports et la qualité de l'air vus d'Europe"
-date: 2010-04-28 15:00:19 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'Efficacité énergétique', 'emission', "qualité de l'air", 'Véhicule', 'véhicule propre']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "emission", "qualit\u00e9 de l'air", "V\u00e9hicule", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/les-transports-et-la-qualite-de-lair-vus-deurope.html"
+tags: ["données réelles", "Efficacité énergétique", "emission", "qualité de l'air", "Véhicule", "véhicule propre"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/04/28/les-transports-et-la-qualite-de-lair-vus-deurope/
 ---
 
 L'Agence Européenne de l'Environnement vient de publier un **[rapport](http://www.eea.europa.eu/publications/towards-a-resource-efficient-transport-system)** détaillant les principaux indicateurs de performances des transports.
@@ -25,7 +26,7 @@ Ce non respect des valeurs limites peut se traduire par des actions individuelle
 Les progrès indéniables apportés par les normes **[Euro](http://fr.wikipedia.org/wiki/Norme_europeenne_d)**, ne parviennent pas à compenser : 
  
 - l'augmentation du trafic dans les zones déjà denses, 
-- les différences entre les émissions mesurées selon des cycles homologuées (norme Euro) et les émissions réelles (voir **[ici](/2010/03/en-usage-reel-euro-v-pas-vraiment-mieux-queuro-iii-nox.html)**), 
+- les différences entre les émissions mesurées selon des cycles homologuées (norme Euro) et les émissions réelles (voir **[ici]({{ site.baseurl }}/2010/03/en-usage-reel-euro-v-pas-vraiment-mieux-queuro-iii-nox/)**), 
 - la dieselisation du parc (voir **[ici](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=52819&p2=14232&ref=14232)**), 
  
 

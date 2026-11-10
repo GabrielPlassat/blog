@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Le k.di lib' ou le caddie errant ..."
-date: 2012-12-14 12:28:27 +0100
-categories: []
+date: 2012-12-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/12/le-kdi-lib-ou-le-caddie-errant.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2012/12/14/le-kdi-lib-ou-le-caddie-errant-2/
 ---
 
 **Il s'agit d'un projet porté par [Michael Schnell](http://www.issuu.com/michaelschnell), designer.**

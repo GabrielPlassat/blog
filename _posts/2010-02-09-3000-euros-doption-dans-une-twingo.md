@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "3000 euros d’option dans une twingo ?"
-date: 2010-02-09 11:29:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['keicar', 'marketing', 'philanthropie', 'Service de mobilité', 'Véhicule']
-=======
-tags: ["keicar", "marketing", "philanthropie", "Service de mobilit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/3000-euros-doption-dans-une-twingo.html"
+tags: ["keicar", "marketing", "philanthropie", "Service de mobilité", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/02/09/3000-euros-doption-dans-une-twingo/
 ---
 
-Cela ne risque pas d’arriver à court terme. Par contre, c’est le **[montant moyen dépensé](http://www.lesechos.fr/info/metiers/020343181554-la-mini-se-multiplie-pour-rester-dans-la-course.html)** par chaque client de Mini, véhicule qui possède environ la même taille qu’une twingo pour un prix double. Pourquoi ? La personnalisation voyons ! Tous les **[marketeurs professionnels](/2010/02/les-automobilistes-vont-configurer-leurs-voitures-en-fonction-de-leurs-besoins.html)** vous le diront, les clients veulent de plus en plus des produits uniques, « customisés », avec par exemple, un compteur central **[en 3D ou un générateur de bruit](/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel.html)** … Ce type d’automobile devient progressivement comme l’industrie du vêtement, en renouvellement permanent, et d’ailleurs des Mini ont été griffés par des grands couturiers.
+Cela ne risque pas d’arriver à court terme. Par contre, c’est le **[montant moyen dépensé](http://www.lesechos.fr/info/metiers/020343181554-la-mini-se-multiplie-pour-rester-dans-la-course.html)** par chaque client de Mini, véhicule qui possède environ la même taille qu’une twingo pour un prix double. Pourquoi ? La personnalisation voyons ! Tous les **[marketeurs professionnels]({{ site.baseurl }}/2010/02/les-automobilistes-vont-configurer-leurs-voitures-en-fonction-de-leurs-besoins/)** vous le diront, les clients veulent de plus en plus des produits uniques, « customisés », avec par exemple, un compteur central **[en 3D ou un générateur de bruit]({{ site.baseurl }}/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel/)** … Ce type d’automobile devient progressivement comme l’industrie du vêtement, en renouvellement permanent, et d’ailleurs des Mini ont été griffés par des grands couturiers.
 
  
 
@@ -42,7 +43,7 @@ Et après ?
 
  
 
-« Besoin » de renouvellement accéléré du produit, « **[drivers could swap when they get bored, like teenagers sticking new plastic covers on their mobile phones](http://www.ft.com/cms/s/0/04a8bb04-11e7-11df-b6e3-00144feab49a,dwp_uuid=56ee71d8-0fb7-11df-bc45-00144feabdc0.html)** », l’arrivée de rupture en matière d’architecture véhicule pourrait apporter le complément à cette évolution du comportement d’achat. Les développements de plate forme standardisée intégrant éventuellement les batteries, de **[GMP mondiaux](/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix-.html)** ou de **[moteurs-roues](http://www.ft.com/cms/s/0/04a8bb04-11e7-11df-b6e3-00144feab49a,dwp_uuid=56ee71d8-0fb7-11df-bc45-00144feabdc0.html)** formeront les briques élémentaires de ces prochains véhicules, l’électrification de la propulsion ouvrant des innovations inédites en matière de design. Sous de nombreuses contraintes urbaines (environnementale, énergétiques, espace), de nouvelles catégories de petits véhicules, préfigurées par les Keicars Japonais, se développeront, réduisant les contraintes sur la cahier des charges des véhicules (sécurité, vitesse notamment), ouvrant simultanément de nouvelles possibilités pour les designers, de nouveaux modèles économiques, de nouveaux usages des véhicules, de nouvelles mobilités.
+« Besoin » de renouvellement accéléré du produit, « **[drivers could swap when they get bored, like teenagers sticking new plastic covers on their mobile phones](http://www.ft.com/cms/s/0/04a8bb04-11e7-11df-b6e3-00144feab49a,dwp_uuid=56ee71d8-0fb7-11df-bc45-00144feabdc0.html)** », l’arrivée de rupture en matière d’architecture véhicule pourrait apporter le complément à cette évolution du comportement d’achat. Les développements de plate forme standardisée intégrant éventuellement les batteries, de **[GMP mondiaux]({{ site.baseurl }}/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix/)** ou de **[moteurs-roues](http://www.ft.com/cms/s/0/04a8bb04-11e7-11df-b6e3-00144feab49a,dwp_uuid=56ee71d8-0fb7-11df-bc45-00144feabdc0.html)** formeront les briques élémentaires de ces prochains véhicules, l’électrification de la propulsion ouvrant des innovations inédites en matière de design. Sous de nombreuses contraintes urbaines (environnementale, énergétiques, espace), de nouvelles catégories de petits véhicules, préfigurées par les Keicars Japonais, se développeront, réduisant les contraintes sur la cahier des charges des véhicules (sécurité, vitesse notamment), ouvrant simultanément de nouvelles possibilités pour les designers, de nouveaux modèles économiques, de nouveaux usages des véhicules, de nouvelles mobilités.
 
  
 
@@ -62,4 +63,4 @@ Ce sera le cœur de cible pour de nouveaux entrants : utilisation des briques p
 
  
 
-Les constructeurs nationaux pourraient/devraient s’en inspirer et faire ainsi évoluer leurs modèles économiques, et nouer des partenariats, des synergies. Mais de nouveaux comme Nike, **[Sony-Gran Turismo](/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel.html)**, Apple ou Google, pourraient eux aussi les utiliser pour, au final, vendre de la mobilité, avec éventuellement des véhicules.** Le commerce d’objet dépendra de plus en plus, de la capacité à vendre un Univers désirable, l’objet pouvant être à l’extrême un détail. Quand des innovations technologiques permettent de revisiter la conception de l’objet, la concurrence sur le secteur d’activité entier s’accroît.**
+Les constructeurs nationaux pourraient/devraient s’en inspirer et faire ainsi évoluer leurs modèles économiques, et nouer des partenariats, des synergies. Mais de nouveaux comme Nike, **[Sony-Gran Turismo]({{ site.baseurl }}/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel/)**, Apple ou Google, pourraient eux aussi les utiliser pour, au final, vendre de la mobilité, avec éventuellement des véhicules.** Le commerce d’objet dépendra de plus en plus, de la capacité à vendre un Univers désirable, l’objet pouvant être à l’extrême un détail. Quand des innovations technologiques permettent de revisiter la conception de l’objet, la concurrence sur le secteur d’activité entier s’accroît.**

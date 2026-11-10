@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "13 méthodes participatives détaillées : jury citoyens, consensus, panel expert, focus group, Delphi, scénarios, World Café ..."
-date: 2013-02-25 12:15:14 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'gouvernance', 'holoptisme', 'intelligence collective', 'lien social', 'marketing', 'marketing individualisé', 'pensée complexe', "Plateforme d'idées", 'transparence']
-=======
-tags: ["citoyen", "collectivit\u00e9", "gouvernance", "holoptisme", "intelligence collective", "lien social", "marketing", "marketing individualis\u00e9", "pens\u00e9e complexe", "Plateforme d'id\u00e9es", "transparence"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-02-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/02/13-methodes-participatives-detaillees-jury-citoyens-consensus-panel-expert-focus-group-delphi-scenar.html"
+tags: ["citoyen", "collectivité", "gouvernance", "holoptisme", "intelligence collective", "lien social", "marketing", "marketing individualisé", "pensée complexe", "Plateforme d'idées", "transparence"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2013/02/25/13-methodes-participatives-detaillees-jury-citoyens-consensus-panel-expert-focus-group-delphi-scenar/
 ---
 
 **Comment mettre en oeuvre une approche participative?**
@@ -31,7 +32,7 @@ Les techniques analytiques sont celles qui facilitent une analyse du problème o
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b017d4144aa68970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017d4144aa68970c-pi.jpg)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017d4144aa68970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017d4144aa68970c-pi.jpg)
  
 
  

@@ -1,32 +1,33 @@
 ---
 layout: post
 title: "Quatres études du SETRA sur les Mobilités à grande distance\"\""
-date: 2010-12-02 12:12:57 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'commuter', 'donnée data', 'robustesse', 'temporalité', 'transition générationnelle', 'Véhicule']
-=======
-tags: ["citoyen", "collectivit\u00e9", "commuter", "donn\u00e9e data", "robustesse", "temporalit\u00e9", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-12-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/12/etudes-mobilites-a-grande-distance.html"
+tags: ["citoyen", "collectivité", "commuter", "donnée data", "robustesse", "temporalité", "transition générationnelle", "Véhicule"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/12/02/etudes-mobilites-a-grande-distance/
 ---
 
 **Cette collection de fiches réalisée par le [SETRA](http://www.setra.developpement-durable.gouv.fr/Fiches-Mobilites.html) **s'intéresse plus particulièrement aux déplacements des résidents de France métropolitaine à **plus de 80 km de leur domicile **exposant les résultats d’exploitations de l’Enquête Nationale Transports et Déplacements réalisée de mai 2007 à avril 2008. Elle **fait le point** de l’évolution des pratiques de déplacements à longue distance depuis la précédente enquête, réalisée en 1994, et **s’efforce** d’en comprendre les déterminants.
 
  
 
-**Fiche n°1 :** [Présentation de l’Enquête Nationale Transports et Déplacements](/assets/images/2010/12/Fiche_Mobilite_no1.pdf). 
+**Fiche n°1 :** [Présentation de l’Enquête Nationale Transports et Déplacements]({{ site.baseurl }}/assets/images/2010/12/Fiche_Mobilite_no1.pdf). 
 
  
 
-**Fiche n°2 :** [Evolution des volumes et des caractéristiques des voyages à longue distance](/assets/images/2010/12/Fiche_Mobilite_no2.pdf). 
+**Fiche n°2 :** [Evolution des volumes et des caractéristiques des voyages à longue distance]({{ site.baseurl }}/assets/images/2010/12/Fiche_Mobilite_no2.pdf). 
 
  
 
-**Fiche n°3 :** [Des mobilités au pluriel, des dynamiques divergentes](/assets/images/2010/12/Fiche_MOBILITE_03.pdf) 
+**Fiche n°3 :** [Des mobilités au pluriel, des dynamiques divergentes]({{ site.baseurl }}/assets/images/2010/12/Fiche_MOBILITE_03.pdf) 
 
  
 
-**Fiche n°4 :** [Motorisation et mobilité : des comportements plus rationnels ?](/assets/images/2010/12/1022w_Fiche_MOBILITE_no04.pdf)
+**Fiche n°4 :** [Motorisation et mobilité : des comportements plus rationnels ?]({{ site.baseurl }}/assets/images/2010/12/1022w_Fiche_MOBILITE_no04.pdf)
 
  
 
@@ -34,7 +35,7 @@ tags: ["citoyen", "collectivit\u00e9", "commuter", "donn\u00e9e data", "robustes
 
  
 
-**Fiche n°1 :** [Présentation de l’Enquête Nationale Transports et Déplacements](/assets/images/2010/12/Fiche_Mobilite_no1.pdf). 
+**Fiche n°1 :** [Présentation de l’Enquête Nationale Transports et Déplacements]({{ site.baseurl }}/assets/images/2010/12/Fiche_Mobilite_no1.pdf). 
 
  
 
@@ -58,7 +59,7 @@ L’ENTD a été conçue pour permettre d’étudier l’ensemble des pratiques 
 
  
 
-**Fiche n°2 :** [Evolution des volumes et des caractéristiques des voyages à longue distance](/assets/images/2010/12/Fiche_Mobilite_no2.pdf). 
+**Fiche n°2 :** [Evolution des volumes et des caractéristiques des voyages à longue distance]({{ site.baseurl }}/assets/images/2010/12/Fiche_Mobilite_no2.pdf). 
 
  
 
@@ -70,16 +71,12 @@ La mobilité individuelle à longue distance a considérablement ralenti sa prog
 
  
 
-<<<<<<< HEAD
 modes collectifs, qui conduisent à une évolution du partage modal sur le segment de la longue distance, principalement au profit du train. Enfin, le train tend de plus en plus à devenir le mode dédié aux déplacements professionnels, tandis que l’avion est réservé aux motifs de loisirs et d’agrément, en particulier pour les vacances, la voiture étant utilisée pour l’ensemble des motifs personnels. Une interprétation centrale que nous développerons au f
-=======
-modes collectifs, qui conduisent à une évolution du partage modal sur le segment de la longue distance, principalement au profit du train. Enfin, le train tend de plus en plus à devenir le mode dédié aux déplacements professionnels, tandis que l’avion est réservé aux motifs de loisirs et d’agrément, en particulier pour les vacances, la voiture étant utilisée pour l’ensemble des motifs personnels. Une interprétation centrale que nous développerons au f_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 il des notes à venir, est que la mobilité à longue distance, en tant que mobilité non contrainte, est beaucoup plus sensible aux paramètres socioéconomiques que la mobilité locale, et en particulier aux ressources financières résiduelles des ménages disponibles pour les dépenses non contraintes.
 
  
 
-**Fiche n°3 :** [Des mobilités au pluriel, des dynamiques divergentes](/assets/images/2010/12/Fiche_MOBILITE_03.pdf) 
+**Fiche n°3 :** [Des mobilités au pluriel, des dynamiques divergentes]({{ site.baseurl }}/assets/images/2010/12/Fiche_MOBILITE_03.pdf) 
 
  
 
@@ -111,7 +108,7 @@ Au final, les parts modales évoluent de façon peu différenciée en fonction d
 
  
 
-**Fiche n°4 :** [Motorisation et mobilité : des comportements plus rationnels ?](/assets/images/2010/12/1022w_Fiche_MOBILITE_no04.pdf)
+**Fiche n°4 :** [Motorisation et mobilité : des comportements plus rationnels ?]({{ site.baseurl }}/assets/images/2010/12/1022w_Fiche_MOBILITE_no04.pdf)
 
  
 
@@ -131,11 +128,7 @@ Entre 1994 et 2008, l’équipement automobile a augmenté, quel que soit le nom
 
  
 
-<<<<<<< HEAD
 L’utilisation de la voiture pour les déplacements personnels à longue distance progresse bien de manière dynamique, parallèlement à l’équipement automobile, chez les retraités. On observe en revanche chez les actifs, et en particulier parmi les ouvriers, les employés et les professions intermédiaires, une déconnexion entre une mobilité personnelle à longue distance en net ralentissemen
-=======
-L’utilisation de la voiture pour les déplacements personnels à longue distance progresse bien de manière dynamique, parallèlement à l’équipement automobile, chez les retraités. On observe en revanche chez les actifs, et en particulier parmi les ouvriers, les employés et les professions intermédiaires, une déconnexion entre une mobilité personnelle à longue distance en net ralentissemen_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 t et la poursuite d’une croissance dynamique de l’équipement automobile. Chez les cadres et professions intellectuelles supérieures, le niveau de motorisation se stabilise, et même diminue chez les jeunes cadres. […]la motivation des décisions de motorisation est de plus en plus « rationnelle », et directement reliée aux besoins de déplacements pour la vie quotidienne.
 
  

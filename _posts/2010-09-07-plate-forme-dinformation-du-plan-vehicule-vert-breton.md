@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Plate Forme d'information du plan Véhicule Vert Breton"
-date: 2010-09-07 10:08:37 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['partage de données', "Plateforme d'idées"]
-=======
-tags: ["partage de donn\u00e9es", "Plateforme d'id\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/plate-forme-dinformation-du-plan-vehicule-vert-breton.html"
+tags: ["partage de données", "Plateforme d'idées"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/09/07/plate-forme-dinformation-du-plan-vehicule-vert-breton/
 ---
 
 Faisant suite à un précédent article détaillant la journée **La Bretagne, précurseur d’un nouveau standard de mobilité !" (voir [ici]()), **[une plate forme ]()est proposée pour accéder à toutes les informations relatives à ce projet régional qui a vocation à diffuser largement l'approche, les méthodes et les outils.

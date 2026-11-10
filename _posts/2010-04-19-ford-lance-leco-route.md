@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Ford lance l'Eco Route"
-date: 2010-04-19 15:53:35 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'Efficacité énergétique', 'internet', 'internet des objets', 'partage de données', 'Véhicule']
-=======
-tags: ["assistant de mobilit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "internet", "internet des objets", "partage de donn\u00e9es", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/ford-lance-leco-route.html"
+tags: ["assistant de mobilité", "Efficacité énergétique", "internet", "internet des objets", "partage de données", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/04/19/ford-lance-leco-route/
 ---
 
 (source **[TreeHugger)](http://www.treehugger.com/files/2010/04/myford-touch-eco-route-navigation-fuel-economy-save-gas-mpg.php)** We've known for a long time that one of the things that makes hybrid cars more fuel-efficient is the feedback that you get when driving them. Having a screen that shows you your instant-MPG and a historical graph is a great teaching tool, letting you know what kinds of driving and routes give the best (and worst) fuel economy. Ford wants to push this a bit further with the MyFord Touch onboard computer and the Eco-Route nav feature (kind of an extension of the [SmartGauge in the Fusion hybrid](http://www.treehugger.com/files/2008/10/new-ford-hybrid-instruments-fusion-milan-cars.php)). **These systems will be available in non-hybrid models starting in 2011**.
@@ -18,7 +19,7 @@ tags: ["assistant de mobilit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "i
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01347ff9c6c9970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b01347ff9c6c9970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01347ff9c6c9970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01347ff9c6c9970c-pi.jpg) 
  Photo: Ford
 
  

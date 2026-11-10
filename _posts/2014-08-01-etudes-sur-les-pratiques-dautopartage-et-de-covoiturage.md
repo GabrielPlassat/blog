@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Etudes sur les pratiques d'autopartage et de covoiturage"
-date: 2014-08-01 15:28:09 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'autopartage', 'citoyen', 'commuter', 'covoiturage']
-=======
+date: 2014-08-01
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/08/etudes-sur-les-pratiques-dautopartage-et-de-covoiturage.html"
 tags: ["ADEME", "autopartage", "citoyen", "commuter", "covoiturage"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/08/01/etudes-sur-les-pratiques-dautopartage-et-de-covoiturage/
 ---
 
 *Cet article a été rédigé par Mathieu Chassignet, Ingénieur à l'ADEME.*
@@ -58,8 +59,8 @@ Les études soutenues par l’ADEME :
 
  
  
-- L’enquête nationale sur l’autopartage (2013) : 2 090 utilisateurs interrogés, en grande majorité de **services en boucle et en province**. Une **[synthèse](http://www.ademe.fr/?name=E96309592FC447BA3FA2C87575F6D360_tomcatlocal1363793025743.pdf)** est disponible ainsi que le **[rapport complet](/assets/images/2014/08/ENA_RF_130321.pdf)**. 
-- L’autopartage en trace directe : quelle alternative à la voiture particulière ? (2014). 644 utilisateurs d’Autolib’ (**en trace directe et en Ile-de-France**) et 525 utilisateurs de Mobizen (**en boucle et en Ile-de-France**) interrogés. Une **[synthèse](/assets/images/2014/08/AD_6pages_140512.pdf)** présentant les principaux résultats est disponible. Le rapport complet sera disponible prochainement. 
+- L’enquête nationale sur l’autopartage (2013) : 2 090 utilisateurs interrogés, en grande majorité de **services en boucle et en province**. Une **[synthèse](http://www.ademe.fr/?name=E96309592FC447BA3FA2C87575F6D360_tomcatlocal1363793025743.pdf)** est disponible ainsi que le **[rapport complet]({{ site.baseurl }}/assets/images/2014/08/ENA_RF_130321.pdf)**. 
+- L’autopartage en trace directe : quelle alternative à la voiture particulière ? (2014). 644 utilisateurs d’Autolib’ (**en trace directe et en Ile-de-France**) et 525 utilisateurs de Mobizen (**en boucle et en Ile-de-France**) interrogés. Une **[synthèse]({{ site.baseurl }}/assets/images/2014/08/AD_6pages_140512.pdf)** présentant les principaux résultats est disponible. Le rapport complet sera disponible prochainement. 
 - Une troisième étude sera lancée en septembre 2014, concernant les services **d’autopartage entre particuliers**. Résultats attendus pour mi 2015. 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "En supprimant le conducteur la voiture autonome change profondément le secteur des mobilités"
-date: 2012-06-06 15:25:50 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autopartage', 'autorité des transports', 'cité', 'collectivité', 'commuter', 'confiance', 'congestion', 'connectivité', 'donnée data', 'économie du quaternaire', 'Efficacité énergétique', 'Infrastructure', 'innovation', 'intelligence collective', 'internet', 'internet des objets', 'management de la mobilité', 'partage de la voirie', "qualité de l'air", 'Service de mobilité', 'TIC', 'yield management']
-=======
-tags: ["autopartage", "autorit\u00e9 des transports", "cit\u00e9", "collectivit\u00e9", "commuter", "confiance", "congestion", "connectivit\u00e9", "donn\u00e9e data", "\u00e9conomie du quaternaire", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure", "innovation", "intelligence collective", "internet", "internet des objets", "management de la mobilit\u00e9", "partage de la voirie", "qualit\u00e9 de l'air", "Service de mobilit\u00e9", "TIC", "yield management"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-06-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/06/en-supprimant-le-conducteur-la-voiture-autonome-change-profondement-le-secteur-des-mobilites.html"
+tags: ["autopartage", "autorité des transports", "cité", "collectivité", "commuter", "confiance", "congestion", "connectivité", "donnée data", "économie du quaternaire", "Efficacité énergétique", "Infrastructure", "innovation", "intelligence collective", "internet", "internet des objets", "management de la mobilité", "partage de la voirie", "qualité de l'air", "Service de mobilité", "TIC", "yield management"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/06/06/en-supprimant-le-conducteur-la-voiture-autonome-change-profondement-le-secteur-des-mobilites/
 ---
 
 Sans conducteur, ce n'est plus une voiture. En supprimant la relation physique à l'objet, c'est tout le secteur des transports qui pourrait être impacté, même les transports publics.

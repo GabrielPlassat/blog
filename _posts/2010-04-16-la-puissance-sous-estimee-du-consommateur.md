@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "La puissance, sous-estimée, du consommateur"
-date: 2010-04-16 17:52:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'fiabilité', "guide d'achat", 'internet', 'open source', 'partage de données', 'transition générationnelle', 'twitter']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "fiabilit\u00e9", "guide d'achat", "internet", "open source", "partage de donn\u00e9es", "transition g\u00e9n\u00e9rationnelle", "twitter"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/la-puissance-sous-estimee-du-consommateur.html"
+tags: ["données réelles", "fiabilité", "guide d'achat", "internet", "open source", "partage de données", "transition générationnelle", "twitter"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/04/16/la-puissance-sous-estimee-du-consommateur/
 ---
 
 La récente affaire de la Lexus accusée de défaut de tenue de route par l’association [**Consumer Reports**](http://blogs.consumerreports.org/cars/2010/04/consumer-reports-2010-lexus-gx-dont-buy-safety-risk.html), montre que les consommateurs peuvent avoir une influence rapide, massive sur des industries multinationales. Le contexte des incidents Toyota (voir ici) a, vraisemblablement « aidé » cette association, et les actes de Lexus/Toyota ont été immédiats : la vente du modèle a été arrétée. 
@@ -34,7 +35,7 @@ Les technologies de l’information et les applications portables permettront ce
 
  
 
-·		 Accès à de nouvelles données (déjà abordé **[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)** et **[là](/2010/01/le-telephone-te-guidera.html)**) : performances en usage réel, bilan environnemental : voir le classement Suisse multicritères des véhicules [**Ecomobiliste**](http://download.macrofocus.com/infoscope/InfoScope.cgi?fileURL=ATE%20EcoMobiListe%20PW%20Fev%202010%20Web.mis) (ou [**ici**](http://www.ate.ch/fr/politique-campagnes/guides-pratiques/ecomobiliste/ecomobiliste-interactive.html)), ou encore [**EcoDrive **](http://www.fiat.com/ecodrive/fr/default.htm)de Fiat qui permet à plus de 18000 inscrits de comparer leurs consommations, le site Allemand [**Spritmonitor** ](http://www.spritmonitor.de/en/)qui rassemble les relevés de consommations réels des véhicules de plus de 180 000 utilisateurs, ou [**Fuelly**](http://www.fuelly.com/), [**Greenhybrid** ](http://www.greenhybrid.com/compare/mileage/)(plus focalisé sur les hybrides).
+·		 Accès à de nouvelles données (déjà abordé **[ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)** et **[là]({{ site.baseurl }}/2010/01/le-telephone-te-guidera/)**) : performances en usage réel, bilan environnemental : voir le classement Suisse multicritères des véhicules [**Ecomobiliste**](http://download.macrofocus.com/infoscope/InfoScope.cgi?fileURL=ATE%20EcoMobiListe%20PW%20Fev%202010%20Web.mis) (ou [**ici**](http://www.ate.ch/fr/politique-campagnes/guides-pratiques/ecomobiliste/ecomobiliste-interactive.html)), ou encore [**EcoDrive **](http://www.fiat.com/ecodrive/fr/default.htm)de Fiat qui permet à plus de 18000 inscrits de comparer leurs consommations, le site Allemand [**Spritmonitor** ](http://www.spritmonitor.de/en/)qui rassemble les relevés de consommations réels des véhicules de plus de 180 000 utilisateurs, ou [**Fuelly**](http://www.fuelly.com/), [**Greenhybrid** ](http://www.greenhybrid.com/compare/mileage/)(plus focalisé sur les hybrides).
 
  
 
@@ -70,4 +71,4 @@ A court terme, les multinationales devront donc apporter un soin particulier à 
 
  
 
-La philanthropie 2.0 (déjà abordée **[ici](/2010/03/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides-.html)** et **[là](/2010/02/is-it-business-or-philanthropy-.html)**) sera intimement liée au business (voir Les Echos Enjeux mars 2010). Une surveillance particulière devra être apportée pour contrôler, séparer, avec de nouveaux labels, de nouveaux arbitres (voir [**mecenova** ](http://www.mecenova.org/)et [**youphil**](http://www.youphil.com/fr/theme/10?ypcli=ano)) pour éviter après le « green washing », le  « social washing ».
+La philanthropie 2.0 (déjà abordée **[ici]({{ site.baseurl }}/2010/03/il-parait-que-pepsi-pourrait-financer-des-motos-hybrides/)** et **[là]({{ site.baseurl }}/2010/02/is-it-business-or-philanthropy/)**) sera intimement liée au business (voir Les Echos Enjeux mars 2010). Une surveillance particulière devra être apportée pour contrôler, séparer, avec de nouveaux labels, de nouveaux arbitres (voir [**mecenova** ](http://www.mecenova.org/)et [**youphil**](http://www.youphil.com/fr/theme/10?ypcli=ano)) pour éviter après le « green washing », le  « social washing ».

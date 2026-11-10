@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "EPA, agence américaine de l’Environnement, peut s’attaquer au CO2"
-date: 2009-12-11 10:56:12 +0100
-categories: []
+date: 2009-12-11
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/epa-agence-americaine-de-lenvironnement-peut-sattaquer-au-co2.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2009/12/11/epa-agence-americaine-de-lenvironnement-peut-sattaquer-au-co2/
 ---
 
 L'Agence fédérale pour la protection de l'environnement (EPA), jusqu'à présent limitée" à des actions sur les polluants, a annoncé qu'en accord avec une décision de la Cour suprême datant de 2007, elle considérerait désormais les émissions de gaz carbonique comme dangereuses pour la santé publique. «La loi de 2007 nous donne, non seulement le droit, mais l'obligation de légiférer pour écarter ce danger», a expliqué la directrice de l'EPA, Lisa Jackson. Une obligation d'action qui pourrait s'exercer au risque de circonvenir le Congrès, si celui-ci tarde à se prononcer sur la loi climat. «Le message au Congrès est clair comme du cristal, bougez», a commenté le sénateur démocrate John Kerry.

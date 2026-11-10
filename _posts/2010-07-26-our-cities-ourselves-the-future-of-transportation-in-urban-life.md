@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Our Cities Ourselves : The Future of Transportation in Urban Life"
-date: 2010-07-26 10:43:13 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'collectivité', 'open source', 'partage de données', 'philanthropie', "Plateforme d'idées"]
-=======
-tags: ["cit\u00e9", "citoyen", "collectivit\u00e9", "open source", "partage de donn\u00e9es", "philanthropie", "Plateforme d'id\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-07-26
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/our-cities-ourselves-the-future-of-transportation-in-urban-life.html"
+tags: ["cité", "citoyen", "collectivité", "open source", "partage de données", "philanthropie", "Plateforme d'idées"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/07/26/our-cities-ourselves-the-future-of-transportation-in-urban-life/
 ---
 
 In honor of the Institute for Transportation and Development Policy’s 25th anniversary, ***[Our Cities Ourselves](http://cfa.aiany.org/index.php?section=exhibitions&expid=119)*** envisions sustainable urban futures for ten major global cities: Ahmedabad, Budapest, Buenos Aires, Dar es Salaam, Guangzhou, Jakarta, Johannesburg, Mexico City, New York City and Rio de Janeiro. In each city, ITDP field offices and international architects propose ideal transportation futures grounded in current conditions. The proposals present safe, vibrant streets that promote social and economic equality, privilege mass transit, bicyclists and pedestrians, and drastically reduce greenhouse gas emissions.
@@ -86,11 +87,7 @@ What are the ten principles of sustainable transport?
 
  
 
-<<<<<<< HEAD
 4. Cruis
-=======
-4. Cruis_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 e control: Provide access for clean passenger vehicles at safe speeds and in significantly reduced numbers
 
  

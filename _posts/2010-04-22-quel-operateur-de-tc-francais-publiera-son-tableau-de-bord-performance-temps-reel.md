@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Quel opérateur de TC français publiera son tableau de bord performance temps réel\" ?\""
-date: 2010-04-22 17:58:20 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'citoyen', 'confiance', 'données réelles', 'enquete', 'internet', 'partage de données', 'web2.0']
-=======
-tags: ["autorit\u00e9 des transports", "citoyen", "confiance", "donn\u00e9es r\u00e9elles", "enquete", "internet", "partage de donn\u00e9es", "web2.0"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/quel-operateur-de-tc-francais-publiera-son-tableau-de-bord-performance-temps-reel.html"
+tags: ["autorité des transports", "citoyen", "confiance", "données réelles", "enquete", "internet", "partage de données", "web2.0"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/04/22/quel-operateur-de-tc-francais-publiera-son-tableau-de-bord-performance-temps-reel/
 ---
 
 Un opérateur de transport US publie en ligne son tableau de bord permettant de suivre différents critères de performance en temps réel, incluant les avis des usagers. Qui sera le premier en France ?
@@ -22,12 +23,12 @@ Below Global Dashboard :
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134800e6d44970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134800e6d44970c-pi.jpg)  
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134800e6d44970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134800e6d44970c-pi.jpg)  
 
  
  Focus on Citizen Survey : 
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133ecde9117970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133ecde9117970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ecde9117970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133ecde9117970b-pi.jpg)
 
  
 

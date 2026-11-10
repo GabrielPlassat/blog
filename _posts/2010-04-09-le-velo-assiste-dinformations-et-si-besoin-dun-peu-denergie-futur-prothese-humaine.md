@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Le vélo assisté d'informations et si besoin d'un peu d'énergie, futur prothèse humaine ?"
-date: 2010-04-09 11:33:35 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Santé', 'transition générationnelle', 'véhicule propre', 'vélo']
-=======
-tags: ["Sant\u00e9", "transition g\u00e9n\u00e9rationnelle", "v\u00e9hicule propre", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-04-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/le-velo-assiste-dinformations-et-si-besoin-dun-peu-denergie-futur-prothese-humaine.html"
+tags: ["Santé", "transition générationnelle", "véhicule propre", "vélo"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/04/09/le-velo-assiste-dinformations-et-si-besoin-dun-peu-denergie-futur-prothese-humaine/
 ---
 
 En 2009, dans un contexte de crise économique, les ventes de cycles, d'équipements et d'accessoires pour cycles se sont beaucoup mieux comportées que celles constatées dans la majorité des autres secteurs économiques. Elles se sont élevées à 1,3 milliard d'euros, en retrait de 4,5%.
@@ -16,7 +17,7 @@ Avec **3.132.300 vélos vendus**, **la France est le 4ème pays consommateur de 
 
  
 
-Le vélo (déjà abordé **[ici](/2010/01/yike-bike.html)**) évolue lentement mais surement. Un peu d'énergie supplémentaire (si besoin), un peu d'informations dédiées (parcours voir exemple de **[Google](http://maps.google.com/maps?hq=http://maps.google.com/help/maps/directions/biking/mapplet.kml&ie=UTF8&ll=37.687624,-122.319717&spn=0.346132,0.727158&z=11&lci=bike&dirflg=b&f=d&utm_campaign=en&utm_medium=van&utm_source=en-van-na-us-gns-bd)** ou **[Décathlon](http://velofun.fr/2010/01/01/logiciel-iphone-btwin-maps/)**) pour faciliter le déplacement, est ce que cet objet n'est pas le meilleur compromis ? L'utilisation de telle ou telle prothèse" mécanique pour nous déplacer révèle nos capacités à choisir avec discernement, à ne pas se laisser influencer, à utiliser ses savoirs et expériences, à conserver et augmenter au maximum son autonomie. 
+Le vélo (déjà abordé **[ici]({{ site.baseurl }}/2010/01/yike-bike/)**) évolue lentement mais surement. Un peu d'énergie supplémentaire (si besoin), un peu d'informations dédiées (parcours voir exemple de **[Google](http://maps.google.com/maps?hq=http://maps.google.com/help/maps/directions/biking/mapplet.kml&ie=UTF8&ll=37.687624,-122.319717&spn=0.346132,0.727158&z=11&lci=bike&dirflg=b&f=d&utm_campaign=en&utm_medium=van&utm_source=en-van-na-us-gns-bd)** ou **[Décathlon](http://velofun.fr/2010/01/01/logiciel-iphone-btwin-maps/)**) pour faciliter le déplacement, est ce que cet objet n'est pas le meilleur compromis ? L'utilisation de telle ou telle prothèse" mécanique pour nous déplacer révèle nos capacités à choisir avec discernement, à ne pas se laisser influencer, à utiliser ses savoirs et expériences, à conserver et augmenter au maximum son autonomie. 
 
  
 

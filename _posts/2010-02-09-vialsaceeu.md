@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "vialsace.eu"
-date: 2010-02-09 18:02:26 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['multimodes', 'simplicité']
-=======
-tags: ["multimodes", "simplicit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/vialsaceeu.html"
+tags: ["multimodes", "simplicité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/02/09/vialsaceeu/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a87c1c7e970b-pi.gif)](/assets/images/old/6a0120a66d2ad4970b0120a87c1c7e970b-pi.gif) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a87c1c7e970b-pi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a87c1c7e970b-pi.gif) 
 Le site **[www.vialsace.eu](http://www.vialsace.eu)** permet aux usagers de prévoir leurs déplacements sur l’ensemble de l’Alsace – et même au-delà de la frontière – en combinant l’ensemble de l’offre de transports en commun de la région (TER, tram, bus, car interurbain…). Vialsace intègrera également les possibilités de déplacement doux comme la marche à pied et, dès le deuxième semestre 2010, le vélo.
 
  

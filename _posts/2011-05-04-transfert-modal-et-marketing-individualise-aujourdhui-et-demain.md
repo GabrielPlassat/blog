@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Transfert modal et marketing individualisé, aujourd'hui et demain"
-date: 2011-05-04 14:56:38 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['CERTU', 'citoyen', 'management de la mobilité', 'marketing individualisé']
-=======
-tags: ["CERTU", "citoyen", "management de la mobilit\u00e9", "marketing individualis\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-05-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/05/transfert-modal-et-marketing-individualise-aujourdhui-et-demain.html"
+tags: ["CERTU", "citoyen", "management de la mobilité", "marketing individualisé"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2011/05/04/transfert-modal-et-marketing-individualise-aujourdhui-et-demain/
 ---
 
 Le rapport du CERTU réalisé par **[Socialdata ](http://www.socialdata.de/home.php?lang=en)**montre l'intérêt du marketing individualisé pour obtenir un transfert modal pérenne de la voiture particulière vers les autres modes de déplacement.
@@ -47,7 +48,7 @@ Le rapport du CERTU réalisé par **[Socialdata ](http://www.socialdata.de/home.
 
  
 
-*[![Socialdata1](/assets/images/old/6a0120a66d2ad4970b014e883cf9e6970d-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b014e883cf9e6970d-800wi.jpg) 
+*[![Socialdata1]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e883cf9e6970d-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b014e883cf9e6970d-800wi.jpg) 
 
 **Cette application a montré que la marche peut recueillir la moitié de ce transfert modal, soit autant que le transport public, le vélo et le covoiturage réunis. L’évaluation a montré que le motif « achat » présente le plus fort potentiel de report modal vers la marche.*
 
@@ -73,7 +74,7 @@ En parallèle, les progrès en matière de marketing individualisé sont très i
 
  
 
-[![Calmsea](/assets/images/old/6a0120a66d2ad4970b01538e4981a6970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01538e4981a6970b-800wi.jpg) 
+[![Calmsea]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01538e4981a6970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01538e4981a6970b-800wi.jpg) 
 source : Calmsea
 
  

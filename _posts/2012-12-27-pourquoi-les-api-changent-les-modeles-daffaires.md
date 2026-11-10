@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Pourquoi les API changent les modèles d'affaires"
-date: 2012-12-27 16:39:54 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'cité', 'citoyen', 'gouvernance', 'innovation', 'internet', 'multimodes']
-=======
-tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "gouvernance", "innovation", "internet", "multimodes"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-12-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/12/pourquoi-les-api-changent-les-modeles-daffaires.html"
+tags: ["autorité des transports", "cité", "citoyen", "gouvernance", "innovation", "internet", "multimodes"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/12/27/pourquoi-les-api-changent-les-modeles-daffaires/
 ---
 
 La présentation de Faber Novel, ci-dessous, fournit les bases essentielles pour comprendre les API. Dans le domaine des transports et des mobilités, le projet Catalyseur présenté également ci dessous propose d'utiliser le potentiel des API pour développer la multimodalité et l'interopérabilité tout en réduisant les dépenses publiques.

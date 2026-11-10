@@ -10,9 +10,9 @@ permalink: /about/
 
 **Transports du Futur** est un blog d'exploration et d'analyse des mutations des mobilités, porté depuis 2009 par Gabriel Plassat, ingénieur à l'ADEME.
 
-### 📚 15 ans d'archives
+### 📚 Vingt ans d'archives
 
-Ce blog rassemble **998 articles** publiés entre **2009 et 2024**, couvrant :
+Ce blog rassemble **1 121 articles** publiés entre **2009 et 2026** dans cinq blogs : Transports du Futur (978), la Fabrique des Mobilités (92), le blog de l'eXtrême Défi (24), Bricologie & Sérendipité (21) et LinkedIn (6). Ils couvrent :
 
 - 🌍 **Mobilités durables** et transitions énergétiques
 - 🤖 **Innovation technologique** dans les transports
@@ -75,4 +75,4 @@ Le code source de ce blog est disponible sur GitHub. Les contributions et sugges
 
 ---
 
-*Dernière mise à jour : Février 2024*
+*Dernière mise à jour : novembre 2026 (réunion des cinq blogs)*

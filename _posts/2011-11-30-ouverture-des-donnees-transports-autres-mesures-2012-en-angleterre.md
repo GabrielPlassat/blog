@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Ouverture des données - Transports & autres - Mesures 2012 en Angleterre"
-date: 2011-11-30 08:22:09 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'management de la mobilité', 'marchandises', 'open innovation', 'open source', 'partage de données']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "management de la mobilit\u00e9", "marchandises", "open innovation", "open source", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-11-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/11/ouverture-des-donnees-transports-autres-mesures-2012-en-angleterre.html"
+tags: ["données réelles", "management de la mobilité", "marchandises", "open innovation", "open source", "partage de données"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2011/11/30/ouverture-des-donnees-transports-autres-mesures-2012-en-angleterre/
 ---
 
 Le Cabinet britanique propose les mesures suivantes pour 2012 pour le secteur des transports :
@@ -20,4 +21,4 @@ Le Cabinet britanique propose les mesures suivantes pour 2012 pour le secteur de
 - Highways and traffic data - The Government will release from March 2012 a range of highways and traffic data, including on road works, to help reduce congestion and enable business to make more predictable travel and logistics decisions. 
  
 
-[Further detail on Open Data measures announced in the Autumn Statement 2011 (pdf, 374kb)](/assets/images/2011/11/Further_detail_on_Open_Data_measures_in_the_Autumn_Statement_2011.pdf)[Further detail on Open Data measures announced in the Autumn Statement 2011 (word)](/assets/images/2011/11/Further_detail_on_Open_Data_measures_in_the_Autumn_Statement_2011.doc)
+[Further detail on Open Data measures announced in the Autumn Statement 2011 (pdf, 374kb)]({{ site.baseurl }}/assets/images/2011/11/Further_detail_on_Open_Data_measures_in_the_Autumn_Statement_2011.pdf)[Further detail on Open Data measures announced in the Autumn Statement 2011 (word)]({{ site.baseurl }}/assets/images/2011/11/Further_detail_on_Open_Data_measures_in_the_Autumn_Statement_2011.doc)

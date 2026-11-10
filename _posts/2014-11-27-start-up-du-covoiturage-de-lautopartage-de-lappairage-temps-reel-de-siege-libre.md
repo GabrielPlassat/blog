@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "La' Zooz, et si c'était la Killer App du covoiturage quotidien ?"
-date: 2014-11-27 08:02:00 +0100
-categories: []
+date: 2014-11-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "><em>Merci à <a href=\"\"http://about.me/mtirel\"\" target=\"\"_blank\"\">Marc Tirel</a> po</em>ur son alerte !</p>\""
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/11/27/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre/
 ---
 
 Start-up du covoiturage quotidien, courte distance, temps réel, dynamique ...
 
  
 
-Intéressez vous à l'équilibre de [**Nash**](/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports.html), intéressez vous à la cryptographie, intéressez vous aux [**incitatifs**](/?s=incitatif), intéressez vous au [**Bitcoin**](https://bitcoin.org/fr/), intéressez vous aux solutions entièrement décentralisées, Intéressez vous à [**La Zooz**](http://lazooz.org/) !
+Intéressez vous à l'équilibre de [**Nash**]({{ site.baseurl }}/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports/), intéressez vous à la cryptographie, intéressez vous aux [**incitatifs**](/?s=incitatif), intéressez vous au [**Bitcoin**](https://bitcoin.org/fr/), intéressez vous aux solutions entièrement décentralisées, Intéressez vous à [**La Zooz**](http://lazooz.org/) !
 
  
 
@@ -22,7 +27,7 @@ Ce dispositif technique basé sur les principes de cryptage totalement décentra
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01b8d09a5c8a970c-800wi.png)](/assets/images/old/6a0120a66d2ad4970b01b8d09a5c8a970c-pi.png)   [![](/assets/images/old/6a0120a66d2ad4970b01bb07b5b004970d-800wi.png)](/assets/images/old/6a0120a66d2ad4970b01bb07b5b004970d-pi.png)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d09a5c8a970c-800wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01b8d09a5c8a970c-pi.png)   [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01bb07b5b004970d-800wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01bb07b5b004970d-pi.png)
 
  
 
@@ -43,10 +48,6 @@ Les briques techniques mises en oeuvre dans le Bitcoin peuvent être utilisées 
 
 *Merci à [Marc Tirel]() po*ur son alerte !
 
-<<<<<<< HEAD
 "2014-11-27 08:02:00https://transportsdufutur.ademe.fr/2014/11/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatstart-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre2015-07-21 16:35:27>*Merci à [Marc Tirel]() po*ur son alerte !
-=======
-"2014-11-27 08:02:00/2014/11/27/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatstart-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre2015-07-21 16:35:27>*Merci à [Marc Tirel]() po*ur son alerte !
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 "

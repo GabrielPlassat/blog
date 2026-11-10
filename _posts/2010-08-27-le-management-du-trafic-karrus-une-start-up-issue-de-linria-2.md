@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Le management du trafic, Karrus une start-up issue de l'INRIA"
-date: 2010-08-27 16:05:05 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['connectivité', 'données réelles', 'Infrastructure', 'internet des objets', 'partage de la voirie', 'surveillance']
-=======
-tags: ["connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet des objets", "partage de la voirie", "surveillance"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/le-management-du-trafic-karrus-une-start-up-issue-de-linria.html"
+tags: ["connectivité", "données réelles", "Infrastructure", "internet des objets", "partage de la voirie", "surveillance"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/08/27/le-management-du-trafic-karrus-une-start-up-issue-de-linria-2/
 ---
 
 **Créée en février 2010, la jeune société [Karrus ](http://www.karrus.fr/)propose une technologie permettant la surveillance et la gestion automatiques du trafic automobile**.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01348680621a970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01348680621a970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348680621a970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348680621a970c-pi.jpg) 
 Les données fournies par des capteurs placés à des endroits stratégiques des infrastructures routières sont traitées en temps réel et alimentent des modèles mathématiques d’écoulement du trafic. Elles permettent d’optimiser le flux de véhicules en calculant la vitesse à fixer sur les panneaux variables ou la durée des feux rouges placés sur les rampes d’accès. « Suite à mon travail de thèse, nous avons identifié une voie de valorisation qui a été confirmée par une étude de marché », raconte [Denis Jacquet](http://www.linkedin.com/ppl/webprofile?vmi=&id=729744&pvs=pp&authToken=pjlL&authType=name&locale=en_US&trk=ppro_viewmore&lnk=vw_pprofile), président de Karrus. « Nous nous sommes heurtés au problème des capteurs qui sont un des éléments du système. Les appareils utilisés par les exploitants sont peu fiables, chers à la maintenance et incapables de fournir des données en temps réel. C’est pourquoi nous offrons aujourd’hui une solution complète incluant des capteurs sans fil. »
 
  

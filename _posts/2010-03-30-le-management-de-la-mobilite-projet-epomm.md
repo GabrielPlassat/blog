@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Le Management de la Mobilité (projet EPOMM)"
-date: 2010-03-30 18:13:25 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'cité', 'citoyen', 'collectivité', 'multimodes', "Plateforme d'idées"]
-=======
-tags: ["autorit\u00e9 des transports", "cit\u00e9", "citoyen", "collectivit\u00e9", "multimodes", "Plateforme d'id\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-30
+source: tdf
+source_name: "Transports du Futur"
+tags: ["autorité des transports", "cité", "citoyen", "collectivité", "multimodes", "Plateforme d'idées"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/03/30/le-management-de-la-mobilite-projet-epomm/
 ---
 
-**Ce projet européen sur le management de la mobilité, développe des outils, des méthodes pour aborder la mobilité dans son ensemble, pour apporter une vision systémique, pour gérer l'offre et la demande.[![](/assets/images/old/6a0120a66d2ad4970b01310ffbb757970c-500pi.gif)](/assets/images/old/6a0120a66d2ad4970b01310ffbb757970c-pi.gif) 
+**Ce projet européen sur le management de la mobilité, développe des outils, des méthodes pour aborder la mobilité dans son ensemble, pour apporter une vision systémique, pour gérer l'offre et la demande.[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01310ffbb757970c-500pi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01310ffbb757970c-pi.gif) 
  EPOMM** is the European Platform on Mobility Management (click [here](http://www.epomm.org/index.phtml?Main_ID=816)), a network of governments in European countries that are engaged in Mobility Management (MM). They are represented by the Ministries that are responsible for MM in their countries. EPOMM is organised as an international non profit organisation with seat in Brussels. The main aims of EPOMM are:  to promote and further develop Mobility Management in Europe, and to support active information exchange and learning on Mobility Management between European countries.
 
  

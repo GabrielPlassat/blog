@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Ouverture des données publiques en France"
-date: 2010-08-24 14:32:58 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', 'open source', 'partage de données']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "open source", "partage de donn\u00e9es"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/ouverture-des-donnees-publiques-en-france.html"
+tags: ["données réelles", "open source", "partage de données"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/08/24/ouverture-des-donnees-publiques-en-france/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134866dff0b970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134866dff0b970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134866dff0b970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134866dff0b970c-pi.jpg) 
  
 La suite **[ICI ](http://libertic.wordpress.com/2010/08/22/villesdefranceopendata/)**.... et bien sûr **[la page de la FING ](http://www.reseaufing.org/pg/groups/1854/rutilisation-des-donnes-publiques/)**sur ce sujet
 

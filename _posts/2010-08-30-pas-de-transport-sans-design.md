@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Pas de transport sans design"
-date: 2010-08-30 09:25:26 +0100
-categories: []
+date: 2010-08-30
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/pas-de-transport-sans-design.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/08/30/pas-de-transport-sans-design/
 ---
 
 Consciente de l’impact du design sur la qualité de nos transports et de notre environnement quotidien, de ses enjeux économiques majeurs, et de son potentiel pour stimuler la recherche et en valoriser les résultats, la *D**irection de la recherche et de l’innovation (DRI)* du *Ministère des transports* a lancé en 2003 l’initiative ***« Design Transport Mobilité »*** dont elle a confié l’animation à l’*Agence pour la promotion de la création industrielle (APCI)*.

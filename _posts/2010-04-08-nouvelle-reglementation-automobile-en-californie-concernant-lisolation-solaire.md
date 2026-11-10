@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Nouvelle réglementation automobile en Californie concernant l'isolation solaire"
-date: 2010-04-08 17:19:02 +0100
-categories: []
+date: 2010-04-08
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/nouvelle-reglementation-automobile-en-californie-concernant-lisolation-solaire.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/04/08/nouvelle-reglementation-automobile-en-californie-concernant-lisolation-solaire/
 ---
 
 Après avoir été le premier à intégrer la climatisation dans la réglementation CO2 et polluants, la californie poursuit dans l'isolation vis à vis du flux solaire. L'Europe, quant à elle, n'a toujours pas intégré la climatisation dans les cycles réglementaires, ce qui conduit à des écarts entre les consommations réelles et réglementaires. Est ce que l'isolation et l'optimisation énergétique des accessoires, comme pour le batiment, ne deviendront pas indispensables dans les années à venir, notamment pour les véhicules électriques ?

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Qu’est ce qu’un véhicule propre ? réponse et outil de la commission européenne …"
-date: 2010-12-07 09:52:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Europe', 'véhicule propre']
-=======
-tags: ["Europe", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-12-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/12/quest-ce-quun-vehicule-propre-reponse-et-outil-de-la-commission-europeenne.html"
+tags: ["Europe", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/12/07/quest-ce-quun-vehicule-propre-reponse-et-outil-de-la-commission-europeenne/
 ---
 
-La CE vient de lancer son site **[www.cleanvehicle.eu](http://www.cleanvehicle.eu/)** faisant suite à la Directive du même nom, Véhicule propre et économe. Cette directive (disponible **[ici](http://europa.eu/legislation_summaries/energy/energy_efficiency/en0011_fr.htm)**, déjà évoquée **[là](/2010/04/european-strategy-for-clean-and-efficient-vehicles.html)**) oblige toutes les commandes publiques européennes de véhicules lourds et légers d’abonner le seul critère du moins disant économique, et d’intégrer les externalités, c'est-à-dire les coûts globaux d’utilisation du véhicule sur son cycle de vie : les coûts liées aux émissions de CO2, de polluants (CO, HC, NOx, Particules), et les coûts liées à la consommation d’énergie. Un site complet est également proposé : **[clean vehicle Directive](http://ec.europa.eu/transport/urban/vehicles/directive/directive_en.htm)**.
+La CE vient de lancer son site **[www.cleanvehicle.eu](http://www.cleanvehicle.eu/)** faisant suite à la Directive du même nom, Véhicule propre et économe. Cette directive (disponible **[ici](http://europa.eu/legislation_summaries/energy/energy_efficiency/en0011_fr.htm)**, déjà évoquée **[là]({{ site.baseurl }}/2010/04/european-strategy-for-clean-and-efficient-vehicles/)**) oblige toutes les commandes publiques européennes de véhicules lourds et légers d’abonner le seul critère du moins disant économique, et d’intégrer les externalités, c'est-à-dire les coûts globaux d’utilisation du véhicule sur son cycle de vie : les coûts liées aux émissions de CO2, de polluants (CO, HC, NOx, Particules), et les coûts liées à la consommation d’énergie. Un site complet est également proposé : **[clean vehicle Directive](http://ec.europa.eu/transport/urban/vehicles/directive/directive_en.htm)**.
 
  
 
@@ -18,7 +19,7 @@ Un véhicule plus cher à l’achat peut être choisi si ces émissions et conso
 
  
 
-Ce site intègre une immense base de données sur tous les véhicules lourds et légers qui permet de guider le choix. Les facteurs d'émissions des véhicules légers viennent des mesures réalisées lors de l'homologation, pour les véhicules lourds, en attendant des outils permettant d'accéder aux émissions (voir **[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)**), la commission propose à l'utilisateur d'entrer ses valeurs de consommation basée sur son expérience. 
+Ce site intègre une immense base de données sur tous les véhicules lourds et légers qui permet de guider le choix. Les facteurs d'émissions des véhicules légers viennent des mesures réalisées lors de l'homologation, pour les véhicules lourds, en attendant des outils permettant d'accéder aux émissions (voir **[ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)**), la commission propose à l'utilisateur d'entrer ses valeurs de consommation basée sur son expérience. 
 
  
 

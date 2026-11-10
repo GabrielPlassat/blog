@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Numériser l'automobile est essentiel mais probablement insuffisant"
-date: 2014-07-23 11:11:48 +0100
-categories: []
+date: 2014-07-23
+source: tdf
+source_name: "Transports du Futur"
+original_url: "></p>  <!--more-->  <p style=\"\"text-align: justify"
 tags: []
+theme: "Stratégies numériques"
+redirect_from:
+  - /2014/07/23/numeriser-lautomobile-est-essentiel-mais-largement-insuffisant/
 ---
 
 Après le capot transparent" de [**Land Rover**](), [**Jaguar**]() vient d'annoncer un pare-brise contenant des éléments ludiques de l'Univers du jeu vidéo avec trajectoire idéale, classement, cônes sur la route. Cette fusion d'éléments virtuels avec des pièces, composants, fonctions réels n'est pas une option elle a lieu dans tous nos objets, tous les domaines. Le numérique se caractérise par cette capacité à se tisser avec les précédentes générations d'objets. Que devient alors le mot "*virtuel*" ?
@@ -66,11 +71,7 @@ La matière calculée, dont les traces numériques pour les transports ou la log
 
 **La parebrise ludique de Jaguar utilise ainsi la ludogénéité, la nouménalité (nouvelle interface), l'interactivité, et en partie la réticularité. Ingress et le cybercar utiliseront toutes les fonctionnalités du numérique.**
 
-<<<<<<< HEAD
 "2014-07-23 11:11:48https://transportsdufutur.ademe.fr/2014/07/numeriser-lautomobile-est-essentiel-mais-largement-insuffisant.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnumeriser-lautomobile-est-essentiel-mais-largement-insuffisant2015-07-21 16:35:30>
-=======
-"2014-07-23 11:11:48/2014/07/23/numeriser-lautomobile-est-essentiel-mais-largement-insuffisant/art de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnumeriser-lautomobile-est-essentiel-mais-largement-insuffisant2015-07-21 16:35:30>
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

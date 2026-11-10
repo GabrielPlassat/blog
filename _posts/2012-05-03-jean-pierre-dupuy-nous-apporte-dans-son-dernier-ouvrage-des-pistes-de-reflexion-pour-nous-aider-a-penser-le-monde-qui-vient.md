@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Vers un avenir souhaitable et crédible - aide philosophique de J-P.Dupuy"
-date: 2012-05-03 09:22:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['catastrophe', 'citoyen', 'collectivité', 'crise', 'donnée data', 'Energie', 'holoptisme', 'intelligence collective', 'internet', 'pensée complexe', 'théorie des jeux']
-=======
-tags: ["catastrophe", "citoyen", "collectivit\u00e9", "crise", "donn\u00e9e data", "Energie", "holoptisme", "intelligence collective", "internet", "pens\u00e9e complexe", "th\u00e9orie des jeux"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-05-03
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/05/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient.html"
+tags: ["catastrophe", "citoyen", "collectivité", "crise", "donnée data", "Energie", "holoptisme", "intelligence collective", "internet", "pensée complexe", "théorie des jeux"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2012/05/03/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient/
 ---
 
 ﻿Jean-Pierre DUPUY nous apporte dans son dernier ouvrage, [***l’avenir de l’économie***](http://www.amazon.fr/LAvenir-leconomie-lecomystification-Jean-Pierre-Dupuy/dp/toc/2081253453), des pistes de réflexion pour nous aider à penser le monde qui vient. Il poursuit ici les concepts développés dans ses précédents livres sur la place du Sacré, sur nos moyens de concevoir l'avenir, et les enseignements philosophiques que l’on peut apprendre des catastrophes. Hélas pour les futurs lecteurs, les thèses proposées ne sont pas *simples*, elles reflètent la complexité de nos choix liés à de nombreux bouclages que nous aborderons. Décidemment, il n’y a pas de solutions simples pour résoudre nos problèmes …
@@ -78,15 +79,15 @@ Soit les murs liés à notre inaction se hisseront et nous nous replierons encor
 
  
 
-Ces concepts largement développés par J-P.Dupuy dans plusieurs ouvrages dont *la Marque du Sacré, Petite métaphysique des tsunamis*, semblent rejoindre également ceux liés à l’intelligence collective (voir un précédent [**article** ](/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples.html)sur ce sujet). En effet, les évolutions de ce domaine sont nombreuses, portées notamment par de nouveaux outils numériques inédits dans l’histoire de l’humanité, facilitant la construction de réseaux, de collectifs vivants, voire d’une forme de conscience.
+Ces concepts largement développés par J-P.Dupuy dans plusieurs ouvrages dont *la Marque du Sacré, Petite métaphysique des tsunamis*, semblent rejoindre également ceux liés à l’intelligence collective (voir un précédent [**article** ]({{ site.baseurl }}/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples/)sur ce sujet). En effet, les évolutions de ce domaine sont nombreuses, portées notamment par de nouveaux outils numériques inédits dans l’histoire de l’humanité, facilitant la construction de réseaux, de collectifs vivants, voire d’une forme de conscience.
 
  
 
-En effet, ces outils numériques peuvent nous permettre à nous rapprochant de nos pratiques quotidiennes, de nos choix individuels instantanés, de prévoir l’avenir en apprenant les boucles rétroactives. Le temps réel nourrit des outils prédictifs multifacteurs qui alimentent à leur tour nos choix à l’instant présent. Cette boucle, qui va chercher dans le futur, pour mieux nous guider dans l’instant se retrouve dans les schémas décrits par J-P.Dupuy. Ainsi, les outils numériques peuvent, si nous le décidons, nous permettre de réaliser collectivement cette auto transcendance vitale en matérialisant le futur, en donnant corps à une forme de conscience collective. Les mécanismes cognitifs seront mieux intégrés au processus et nos actions conduiront vers cet avenir souhaitable et crédible. Mais bien entendu, ces mêmes outils numériques peuvent également être utilisés pour nous maintenir dans notre situation actuelle si nous les laissons dans les mains de quelques uns (lire pour cela l’[**article**](/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html) sur la puissance des outils numériques). Pour être rigoureux, il faut leur faire subir le même sort et les inscrire dès à présent dans une description de l’avenir souhaitable qui intègre ces outils numériques pour que naturellement nos actions à venir nous conduisent à les utiliser en masse, à se les approprier en apprenant dès les départs le fonctionnement des machines avant que ces dernières ne nous commandent (lire sur ce sujet ***[les 10 commandements à l’ère du numérique](http://www.amazon.fr/Les-10-commandements-l%C3%A8re-numerique/dp/2916571655/ref=sr_1_1?s=books&ie=UTF8&qid=1335982830&sr=1-1)***).
+En effet, ces outils numériques peuvent nous permettre à nous rapprochant de nos pratiques quotidiennes, de nos choix individuels instantanés, de prévoir l’avenir en apprenant les boucles rétroactives. Le temps réel nourrit des outils prédictifs multifacteurs qui alimentent à leur tour nos choix à l’instant présent. Cette boucle, qui va chercher dans le futur, pour mieux nous guider dans l’instant se retrouve dans les schémas décrits par J-P.Dupuy. Ainsi, les outils numériques peuvent, si nous le décidons, nous permettre de réaliser collectivement cette auto transcendance vitale en matérialisant le futur, en donnant corps à une forme de conscience collective. Les mécanismes cognitifs seront mieux intégrés au processus et nos actions conduiront vers cet avenir souhaitable et crédible. Mais bien entendu, ces mêmes outils numériques peuvent également être utilisés pour nous maintenir dans notre situation actuelle si nous les laissons dans les mains de quelques uns (lire pour cela l’[**article**]({{ site.baseurl }}/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer/) sur la puissance des outils numériques). Pour être rigoureux, il faut leur faire subir le même sort et les inscrire dès à présent dans une description de l’avenir souhaitable qui intègre ces outils numériques pour que naturellement nos actions à venir nous conduisent à les utiliser en masse, à se les approprier en apprenant dès les départs le fonctionnement des machines avant que ces dernières ne nous commandent (lire sur ce sujet ***[les 10 commandements à l’ère du numérique](http://www.amazon.fr/Les-10-commandements-l%C3%A8re-numerique/dp/2916571655/ref=sr_1_1?s=books&ie=UTF8&qid=1335982830&sr=1-1)***).
 
  
 
-Il devient ainsi possible à un collectif de grande taille de se constituer, de passer à l’action et de se donner une image de lui-même. Cette capacité, qui s’apparente à l’autotranscendance, et qui permet à un collectif d’avoir une vision du « tout » porte également le nom d’*holoptisme* (déjà abordé dans ce blog, voir cet [**article** ](/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples.html)précédent).
+Il devient ainsi possible à un collectif de grande taille de se constituer, de passer à l’action et de se donner une image de lui-même. Cette capacité, qui s’apparente à l’autotranscendance, et qui permet à un collectif d’avoir une vision du « tout » porte également le nom d’*holoptisme* (déjà abordé dans ce blog, voir cet [**article** ]({{ site.baseurl }}/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples/)précédent).
 
  
 

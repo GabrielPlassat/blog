@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Un milliard de dollars pour produire de la fibre de carbone dans l'automobile"
-date: 2012-01-04 10:52:44 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['allégement', 'chimie', 'Efficacité énergétique', 'innovation', 'léger', 'véhicule propre']
-=======
-tags: ["all\u00e9gement", "chimie", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "l\u00e9ger", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-01-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/01/un-milliard-de-dollars-pour-produire-de-la-fibre-de-carbone-dans-lautomobile.html"
+tags: ["allégement", "chimie", "Efficacité énergétique", "innovation", "léger", "véhicule propre"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2012/01/04/un-milliard-de-dollars-pour-produire-de-la-fibre-de-carbone-dans-lautomobile/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0162fefdd02a970d-120wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0162fefdd02a970d-800wi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0162fefdd02a970d-120wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0162fefdd02a970d-800wi.jpg)
 
  
 
@@ -18,7 +19,7 @@ C'est le montant que va investir une nouvelle alliance entre un chimiste améric
 
  
 
-Le coup d'envoi a été donné par le [**Groupe BMW**](/2010/09/nouveau-materiau-nouveau-design-nouveau-design-nouveau-usage.html) (photos [**ICI**](http://www.flickr.com/photos/motoringfile/sets/72157624281069117/show/)) en 2009. Il est devenu l'actionnaire de l'allemand SGL Carbon, avec qui il a créé une co-entreprise pour maîtriser toutes les étapes de l'industrialisation de la fibre de carbone. Il l'utilisera massivement dans sa prochaine génération de voitures électrique et hybride i3 et i8, qui seront lancées à partir de 2013.
+Le coup d'envoi a été donné par le [**Groupe BMW**]({{ site.baseurl }}/2010/09/nouveau-materiau-nouveau-design-nouveau-design-nouveau-usage/) (photos [**ICI**](http://www.flickr.com/photos/motoringfile/sets/72157624281069117/show/)) en 2009. Il est devenu l'actionnaire de l'allemand SGL Carbon, avec qui il a créé une co-entreprise pour maîtriser toutes les étapes de l'industrialisation de la fibre de carbone. Il l'utilisera massivement dans sa prochaine génération de voitures électrique et hybride i3 et i8, qui seront lancées à partir de 2013.
  
  Pressés par leurs obligations en terme de réduction des émissions de leurs véhicules, les constructeurs allemands ont tous depuis jeté leur dévolu sur ce matériau, 50% plus léger que l'acier et 30% que l'aluminium. L'enjeu aujourd'hui est de réduire les coûts liés à sa transformation. Et tous s'engagent à lui offrir des débouchés.
  

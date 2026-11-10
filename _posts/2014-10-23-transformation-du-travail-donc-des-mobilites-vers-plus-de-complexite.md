@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Transformation du Travail donc des mobilités, vers plus de complexité"
-date: 2014-10-23 11:18:53 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'citoyen', 'commuter', 'innovation', 'intelligence collective', 'plate-forme']
-=======
-tags: ["cit\u00e9", "citoyen", "commuter", "innovation", "intelligence collective", "plate-forme"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-10-23
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/10/transformation-du-travail-donc-des-mobilites-vers-plus-de-complexite.html"
+tags: ["cité", "citoyen", "commuter", "innovation", "intelligence collective", "plate-forme"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2014/10/23/transformation-du-travail-donc-des-mobilites-vers-plus-de-complexite/
 ---
 
 **[inspiré par l'excellente conférence du [LIFT with FING](http://liftconference.com/lift-france-14/program_fr)]**
@@ -48,7 +49,7 @@ Décloisonner, faire circuler toutes les informations, donner le droit de faire
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01bb079dfac8970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01bb079dfac8970d-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01bb079dfac8970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01bb079dfac8970d-pi.jpg)
 
  
 

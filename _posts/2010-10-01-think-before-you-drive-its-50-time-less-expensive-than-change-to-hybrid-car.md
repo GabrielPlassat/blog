@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Think before you drive ! it's 50 time less expensive than change to hybrid car !!"
-date: 2010-10-01 15:24:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['allemagne', 'citoyen', 'collectivité', 'marche', 'mode doux', 'vélo']
-=======
-tags: ["allemagne", "citoyen", "collectivit\u00e9", "marche", "mode doux", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-10-01
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/think-before-you-drive-its-50-time-less-expensive-than-change-to-hybrid-car.html"
+tags: ["allemagne", "citoyen", "collectivité", "marche", "mode doux", "vélo"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/10/01/think-before-you-drive-its-50-time-less-expensive-than-change-to-hybrid-car/
 ---
 
 The Federal Environment Ministry of Germany (**[BMU](http://www.kopf-an.de/)**) is running a public information campaign called “Head on: engine off”, which aims to change travel behaviour on short trips and achieve an overall reduction in CO2 emissions. The key message is that not using the car for short journeys will protect the environment and improve health.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f4c50e4d970b-500wi.gif)](/assets/images/old/6a0120a66d2ad4970b0133f4c50e4d970b-800wi.gif) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f4c50e4d970b-500wi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f4c50e4d970b-800wi.gif) 
  
 The Ministry is promoting the campaign in four cities across Germany and aims to convince drivers to walk or cycle short trips instead of using the car. Statistics suggest that a modal shift to walking and cycling could cut total journey lengths by 3.8bn car-km nationwide every year. Furthermore, this modal shift, which requires no technological developments or long lead times, could save approximately 350m litres of fuel a year, reducing carbons emissions by nearly 1m tonnes. The positive effects on health, noise and air pollution should help increase the trend away from the car and to walking and cycling. 
  

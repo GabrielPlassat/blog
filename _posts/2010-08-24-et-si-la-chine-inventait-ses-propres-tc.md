@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si la Chine inventait ses propres TC ?"
-date: 2010-08-24 16:14:21 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['BHNS', 'TC']
-=======
+date: 2010-08-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/et-si-la-chine-inventait-ses-propres-tc.html"
 tags: ["BHNS", "TC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/08/24/et-si-la-chine-inventait-ses-propres-tc/
 ---
 
 [youtube http://www.youtube.com/watch?v=iQxP_un15iQ&fs=1&hl=fr_FR] 
@@ -16,7 +17,7 @@ A big concern on top of urban transportation planner’s mind is how to speed up
 
  
 
-![子11](/assets/images/2010/08/11.jpg)
+![子11]({{ site.baseurl }}/assets/images/2010/08/11.jpg)
 
  
 

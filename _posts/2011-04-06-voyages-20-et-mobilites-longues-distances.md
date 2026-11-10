@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Voyages 2.0 et mobilités longues distances"
-date: 2011-04-06 16:48:09 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'confiance', 'connectivité', 'donnée data', 'économie fonctionnalité', 'internet', 'iphone', 'partage de données', 'Service de mobilité', 'voyage']
-=======
-tags: ["citoyen", "confiance", "connectivit\u00e9", "donn\u00e9e data", "\u00e9conomie fonctionnalit\u00e9", "internet", "iphone", "partage de donn\u00e9es", "Service de mobilit\u00e9", "voyage"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-04-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/04/voyages-20-et-mobilites-longues-distances.html"
+tags: ["citoyen", "confiance", "connectivité", "donnée data", "économie fonctionnalité", "internet", "iphone", "partage de données", "Service de mobilité", "voyage"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2011/04/06/voyages-20-et-mobilites-longues-distances/
 ---
 
-Les **[études du SETRA](/2010/12/etudes-mobilites-a-grande-distance.html)** sur ce sujet montrent à quel point les comportements changent. Sous contraintes économiques, chaque individu cherche à maximiser l’usage de son temps en utilisant au mieux les différents modes de transports. Ces évolutions tendancielles observées sur plusieurs années s’accélèrent sous plusieurs facteurs : le vieillissement de la population qui conduit les baby boomers à voyager plus que leurs parents, tandis que la génération Y a parfaitement intégré les atouts du yield management, aidée par une grande maîtrise des TIC. Le secteur du voyage (dont le poids économique est loin d'être négligeable, voir **[ici](http://www.tourisme.gouv.fr/cnt/publications/poids-economique-social.php)**) anciennement très « intermédié » va connaître une révolution sans précédent. Le développement accéléré du peer to peer (mise en relation de particulier à particulier) couplé à de nouveaux outils apporté par le web va supprimer massivement tous les intermédiaires à faible valeur ajoutée et introduire de nouveaux acteurs. Quelles conséquences auront ces changements sur la mobilité longue distance ? que deviendra le voyage 2.0 ? 
+Les **[études du SETRA]({{ site.baseurl }}/2010/12/etudes-mobilites-a-grande-distance/)** sur ce sujet montrent à quel point les comportements changent. Sous contraintes économiques, chaque individu cherche à maximiser l’usage de son temps en utilisant au mieux les différents modes de transports. Ces évolutions tendancielles observées sur plusieurs années s’accélèrent sous plusieurs facteurs : le vieillissement de la population qui conduit les baby boomers à voyager plus que leurs parents, tandis que la génération Y a parfaitement intégré les atouts du yield management, aidée par une grande maîtrise des TIC. Le secteur du voyage (dont le poids économique est loin d'être négligeable, voir **[ici](http://www.tourisme.gouv.fr/cnt/publications/poids-economique-social.php)**) anciennement très « intermédié » va connaître une révolution sans précédent. Le développement accéléré du peer to peer (mise en relation de particulier à particulier) couplé à de nouveaux outils apporté par le web va supprimer massivement tous les intermédiaires à faible valeur ajoutée et introduire de nouveaux acteurs. Quelles conséquences auront ces changements sur la mobilité longue distance ? que deviendra le voyage 2.0 ? 
 
  
 

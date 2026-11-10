@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Biomarqueurs, suivi sanitaire et mode doux"
-date: 2010-02-25 12:23:18 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assurance', 'mode doux', 'obésité', 'Santé', 'vélo']
-=======
-tags: ["assurance", "mode doux", "ob\u00e9sit\u00e9", "Sant\u00e9", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/biomarqueurs-suivi-sanitaire-et-mode-doux.html"
+tags: ["assurance", "mode doux", "obésité", "Santé", "vélo"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/02/25/biomarqueurs-suivi-sanitaire-et-mode-doux/
 ---
 
-Le sujet de la santé et son lien avec les transports a déjà abordé plusieurs fois (**[santé 2.0](/2010/02/vers-la-sante-20.html)**, **[obésité](/2009/11/mobilite-obesite-sante-innovons-vite.html)** ou **[sécurité](/2009/11/effet-de-serre-obesite-et-securite.html)**). Le PIPAME (pôle interministériel de prospective et d'anticipation des mutations économiques) vient de publier un rapport de prospective sur les **[biomarqueurs](http://fr.wikipedia.org/wiki/Biomarqueur)** (téléchargeable **[ici](http://www.industrie.gouv.fr/p3e/etudes/bio/etudes11.php)**). 
+Le sujet de la santé et son lien avec les transports a déjà abordé plusieurs fois (**[santé 2.0]({{ site.baseurl }}/2010/02/vers-la-sante-20/)**, **[obésité](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/2009/11/mobilite-obesite-sante-innovons-vite.html)** ou **[sécurité]({{ site.baseurl }}/2009/11/effet-de-serre-obesite-et-securite/)**). Le PIPAME (pôle interministériel de prospective et d'anticipation des mutations économiques) vient de publier un rapport de prospective sur les **[biomarqueurs](http://fr.wikipedia.org/wiki/Biomarqueur)** (téléchargeable **[ici](http://www.industrie.gouv.fr/p3e/etudes/bio/etudes11.php)**). 
 
 Les progrès de la recherche dans le domaine de la santé amènent la découverte d’un nombre considérable de biomarqueurs. Ces biomarqueurs présentent un intérêt majeur pour le développement d'une médecine personnalisée. Ils constituent un enjeu stratégique pour les industries de la santé en devenant l’une des principales forces de la recherche biopharmaceutique dans la mise au point de médicaments innovants. Au plan économique, leur développement n'est pas sans conséquences sur la restructuration de la filière des industries de santé, et peut impacter l'équilibre financier de notre système de protection sociale. De la recherche au patient, les étapes du développement des biomarqueurs ont été analysées. Pour ce faire, des interviews d'acteurs clés du domaine des biomarqueurs et une réflexion en groupe de travail partenarial ont été conduites.
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Lier choix de lieux d'habitations et de transports"
-date: 2010-08-24 16:23:32 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'cité', 'commuter', 'données réelles', "guide d'achat", 'multimodes']
-=======
-tags: ["assistant de mobilit\u00e9", "cit\u00e9", "commuter", "donn\u00e9es r\u00e9elles", "guide d'achat", "multimodes"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-08-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/08/lier-choix-de-lieux-dhabitations-et-de-transports.html"
+tags: ["assistant de mobilité", "cité", "commuter", "données réelles", "guide d'achat", "multimodes"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/08/24/lier-choix-de-lieux-dhabitations-et-de-transports/
 ---
 
 Venant des USA (encore !!), cet outil permet de calculer son indice de walkability" en fonction du lieu d'habitation, pour trouver un "walkable place to live".

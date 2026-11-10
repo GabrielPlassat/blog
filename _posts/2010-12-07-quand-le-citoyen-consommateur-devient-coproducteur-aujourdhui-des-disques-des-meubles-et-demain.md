@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Quand le citoyen consommateur devient coproducteur, aujourd’hui des disques, des meubles, et demain ?"
-date: 2010-12-07 14:47:37 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'collectivité', 'confiance', 'economie circulaire', 'économie fonctionnalité', 'Efficacité énergétique', 'innovation', 'internet']
-=======
-tags: ["citoyen", "collectivit\u00e9", "confiance", "economie circulaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "innovation", "internet"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-12-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/12/quand-le-citoyen-consommateur-devient-coproducteur-aujourdhui-des-disques-des-meubles-et-demain.html"
+tags: ["citoyen", "collectivité", "confiance", "economie circulaire", "économie fonctionnalité", "Efficacité énergétique", "innovation", "internet"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/12/07/quand-le-citoyen-consommateur-devient-coproducteur-aujourdhui-des-disques-des-meubles-et-demain/
 ---
 
-Dans le lignée des living labs (voir **[ici](/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html)**) ou des fab labs (voir **[là](http://fr.wikipedia.org/wiki/Fab_lab)**), des initiatives montrent qu’après le « **[crowdsourcing ](http://fr.wikipedia.org/wiki/Crowdsourcing)**», le « **[crowdfunding ](http://en.wikipedia.org/wiki/Crowd_funding)**» se développe même pour des objets « industriels ».
+Dans le lignée des living labs (voir **[ici]({{ site.baseurl }}/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab/)**) ou des fab labs (voir **[là](http://fr.wikipedia.org/wiki/Fab_lab)**), des initiatives montrent qu’après le « **[crowdsourcing ](http://fr.wikipedia.org/wiki/Crowdsourcing)**», le « **[crowdfunding ](http://en.wikipedia.org/wiki/Crowd_funding)**» se développe même pour des objets « industriels ».
 
  
 
@@ -26,14 +27,14 @@ Les secteurs touchés sont nombreux : la mode, la musique ou le livre (mymajorc
 
  
 
-Cette tendance de fond de la société liée à la volonté (besoin ?) d’implication du citoyen (voir également **[ici ](/2010/01/la-puissance-des-reseaux-seratelle-suffisante.html)**sur le thème *la puissance des réseaux sera-t-elle suffisante ?*), à de nouveaux modes de marketing viral, recrée à l’échelle du globe la relation « Peer to Peer » de l’artisanat, permettant de proposer des séries d’objets personnalisés.
+Cette tendance de fond de la société liée à la volonté (besoin ?) d’implication du citoyen (voir également **[ici ]({{ site.baseurl }}/2010/01/la-puissance-des-reseaux-seratelle-suffisante/)**sur le thème *la puissance des réseaux sera-t-elle suffisante ?*), à de nouveaux modes de marketing viral, recrée à l’échelle du globe la relation « Peer to Peer » de l’artisanat, permettant de proposer des séries d’objets personnalisés.
 
  
 
-Est-ce que cette initiative pourrait s’appliquer au secteur lourd de l’industrie automobile ? quelques initiatives montrent que les consommateurs ont des choses à proposer, que certains constructeurs sont déjà attentifs. Le VE change la donne en rendant plus « simple » la coconception. Le précédent article (voir **[ici](/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire.html)**) étudiait déjà les liens entre VE, économie de la fonctionalité (passage à des services) et économie circulaire. L'irruption du citoyen est donc maintenant visible, possible, souhaitable à plusieurs niveaux :
+Est-ce que cette initiative pourrait s’appliquer au secteur lourd de l’industrie automobile ? quelques initiatives montrent que les consommateurs ont des choses à proposer, que certains constructeurs sont déjà attentifs. Le VE change la donne en rendant plus « simple » la coconception. Le précédent article (voir **[ici]({{ site.baseurl }}/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire/)**) étudiait déjà les liens entre VE, économie de la fonctionalité (passage à des services) et économie circulaire. L'irruption du citoyen est donc maintenant visible, possible, souhaitable à plusieurs niveaux :
 
  
  
-- **Des commentaires **sur le produit existant en se fédérant, en se groupant : le peer to peer permet(tra) aux consommateurs d'être bien plus puissants sur les retours aux producteurs (voir **[ici ](/2010/04/la-puissance-sous-estimee-du-consommateur.html)**précédent article), des systèmes de veille seront développés pour suivre ces groupements. 
-- **Des propositions **à faire dans la conception des produits, hier sur des détails, demain sur les fonctionnalités principales. Certains véhicules (vraissemblablement de plus en plus) ne seront plus achetés par les utilisateurs finaux. En conséquence, les acheteurs des objets souhaiteront puis imposeront que des utilisateurs participent à la spécification (rédaction du cahier des charges) des voitures. Les acheteurs (opérateurs de transport, énergéticiens, voir **[exemple ](/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html)**de General Electric ...) commanderont alors de grandes séries de véhicules dédiés à des besoins locaux venant des usagers eux-mêmes. 
-- Pour certains véhicules, sans doute les plus légers et simples, de nouveaux constructeurs bénéficieront comme pour les meubles aujourd'hui de **financements **directs des utilisateurs. Le futur **[rickshaw ](/2010/03/sudnord-le-croisement.html )**moderne à la croisée de l'Inde et de l'Europe qui commence à se dessiner, en sera le premier bénéficiaire : Haute efficacité énergétique (un vélo couché carréné possède une efficacité équivalente au TGV), éventuellement électrifié, bi-place, ...
+- **Des commentaires **sur le produit existant en se fédérant, en se groupant : le peer to peer permet(tra) aux consommateurs d'être bien plus puissants sur les retours aux producteurs (voir **[ici ]({{ site.baseurl }}/2010/04/la-puissance-sous-estimee-du-consommateur/)**précédent article), des systèmes de veille seront développés pour suivre ces groupements. 
+- **Des propositions **à faire dans la conception des produits, hier sur des détails, demain sur les fonctionnalités principales. Certains véhicules (vraissemblablement de plus en plus) ne seront plus achetés par les utilisateurs finaux. En conséquence, les acheteurs des objets souhaiteront puis imposeront que des utilisateurs participent à la spécification (rédaction du cahier des charges) des voitures. Les acheteurs (opérateurs de transport, énergéticiens, voir **[exemple ]({{ site.baseurl }}/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique/)**de General Electric ...) commanderont alors de grandes séries de véhicules dédiés à des besoins locaux venant des usagers eux-mêmes. 
+- Pour certains véhicules, sans doute les plus légers et simples, de nouveaux constructeurs bénéficieront comme pour les meubles aujourd'hui de **financements **directs des utilisateurs. Le futur **[rickshaw ]({{ site.baseurl }}/2010/03/sudnord-le-croisement/ )**moderne à la croisée de l'Inde et de l'Europe qui commence à se dessiner, en sera le premier bénéficiaire : Haute efficacité énergétique (un vélo couché carréné possède une efficacité équivalente au TGV), éventuellement électrifié, bi-place, ...

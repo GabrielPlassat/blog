@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Opendata Garage - Marseille 6 juillet"
-date: 2011-06-21 10:56:00 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['donnée data', 'gouvernance', 'open innovation']
-=======
-tags: ["donn\u00e9e data", "gouvernance", "open innovation"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2011-06-21
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2011/06/opendata-garage-marseille-6-juillet.html"
+tags: ["donnée data", "gouvernance", "open innovation"]
+theme: "Communs, écosystèmes & open source"
+redirect_from:
+  - /2011/06/21/opendata-garage-marseille-6-juillet/
 ---
 
 Les Informations produites par le secteur public (ISP) ont émergé comme l'une des problématiques les plus intéressantes pour les prochaines années afin de développer de nouveaux services utilisant les technologies Internet. D'après une étude de MEPSIR “la taille du marché global pour les ISP de l'Union européenne varie de 10 à 48 milliards d’euros, avec une valeur moyenne autour de 27 milliards d'euros”.

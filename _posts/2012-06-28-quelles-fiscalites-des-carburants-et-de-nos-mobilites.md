@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Quelle(s) fiscalité(s) des carburants et de nos mobilités ?"
-date: 2012-06-28 14:45:17 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'carburant', 'citoyen', 'collectivité', 'données réelles', 'externalité', 'fiscalité', 'gouvernance', 'partage de données', 'Pay as You Move', 'surveillance']
-=======
-tags: ["autorit\u00e9 des transports", "carburant", "citoyen", "collectivit\u00e9", "donn\u00e9es r\u00e9elles", "externalit\u00e9", "fiscalit\u00e9", "gouvernance", "partage de donn\u00e9es", "Pay as You Move", "surveillance"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-06-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/06/quelles-fiscalites-des-carburants-et-de-nos-mobilites.html"
+tags: ["autorité des transports", "carburant", "citoyen", "collectivité", "données réelles", "externalité", "fiscalité", "gouvernance", "partage de données", "Pay as You Move", "surveillance"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2012/06/28/quelles-fiscalites-des-carburants-et-de-nos-mobilites/
 ---
 
 Ce sujet d'actualité doit être traité par une approche multidomaine : bien sûr économique, mais également environnementale par les externalités ([**le guide européen**](http://ec.europa.eu/transport/sustainable/doc/2008_costs_handbook.pdf)), sociale et technologiques. Un [**article** ](http://www.lemonde.fr/idees/article/2012/06/27/trois-propositions-pour-reformer-la-fiscalite-des-carburants_1724588_3232.html)du Monde rédigé par trois professeurs de l'ESG-MS indique 3 propositions : modifier les écarts de fiscalités essence/gazole, avoir une fiscalité progressive en fonction du véhicule et de son usage, et enfin transférer des taxes vers les producteurs.
 
  
 
-Plusieurs articles ont traités de ce sujet sur ce blog, notamment [**la notion de limite acceptable socialement du prix du carburant à la pompe**](/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite.html). Il devient techniquement possible de transférer des taxes portés par le liquide vers la mobilité réalisée, et d'inclure de nombreuses possibilités pour moduler les taxes en fonction de nouveaux" paramètres. Cette piste, la seconde de l'article du Monde, mérite une attention particulière, de nombreux travaux d'expérimentation sur ce sujet ont lieu notamment aux USA, et au niveau Recherche en France, notamment à l'[**IFSTTAR**](). 
+Plusieurs articles ont traités de ce sujet sur ce blog, notamment [**la notion de limite acceptable socialement du prix du carburant à la pompe**]({{ site.baseurl }}/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite/). Il devient techniquement possible de transférer des taxes portés par le liquide vers la mobilité réalisée, et d'inclure de nombreuses possibilités pour moduler les taxes en fonction de nouveaux" paramètres. Cette piste, la seconde de l'article du Monde, mérite une attention particulière, de nombreux travaux d'expérimentation sur ce sujet ont lieu notamment aux USA, et au niveau Recherche en France, notamment à l'[**IFSTTAR**](). 
 
  
 

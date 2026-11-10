@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Et si l'autopartage était réalisé avec des voitures à des prix ultracompétitifs\" ?\""
-date: 2010-05-06 12:44:55 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autopartage', 'low cost', 'Véhicule']
-=======
-tags: ["autopartage", "low cost", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-05-06
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/05/et-si-lautopartage-etait-realise-avec-des-voitures-a-des-prix-ultracompetitifs.html"
+tags: ["autopartage", "low cost", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/05/06/et-si-lautopartage-etait-realise-avec-des-voitures-a-des-prix-ultracompetitifs/
 ---
 
 En croisant deux informations, imaginons que les futures systèmes de véhicules partagés, en libre service utilisent massivement des véhicules à très bas prix pour plusieurs raisons :

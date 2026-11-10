@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "La normalisation Européenne au service des VE à Sophia Antipolis"
-date: 2010-07-27 10:54:10 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['normalisation', 'VE']
-=======
+date: 2010-07-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/la-normalisation-europeenne-au-service-des-ve-a-sophia-antipolis.html"
 tags: ["normalisation", "VE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/07/27/la-normalisation-europeenne-au-service-des-ve-a-sophia-antipolis/
 ---
 
 [***L'ETSI à Sophia Antipolis et les organismes européens de normalisation CEN et CENELEC élaboreront un système de chargement commun pour les véhicules électriques***](http://www.investincotedazur.com/fr/newsletter/article.php?txt=act9434&rsu=121996&dim=363248fr121996&i=363)

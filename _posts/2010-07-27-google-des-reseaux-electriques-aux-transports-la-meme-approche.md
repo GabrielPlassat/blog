@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Google des réseaux électriques aux transports, la même approche"
-date: 2010-07-27 10:17:43 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assurance', 'connectivité', 'données réelles', 'google', 'internet', 'internet des objets', 'mode doux', 'partage de données', 'Philips', 'Santé']
-=======
-tags: ["assurance", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "google", "internet", "internet des objets", "mode doux", "partage de donn\u00e9es", "Philips", "Sant\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-07-27
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/google-des-reseaux-electriques-aux-transports-la-meme-approche.html"
+tags: ["assurance", "connectivité", "données réelles", "google", "internet", "internet des objets", "mode doux", "partage de données", "Philips", "Santé"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/07/27/google-des-reseaux-electriques-aux-transports-la-meme-approche/
 ---
 
 Depuis plusieurs années, Google travaille et propose **[des outils d'aide à la réduction de la consommation d'énergie électrique](http://www.google.com/powermeter/about/)**. L'approche est simple, on ne peut réduire que ce que l'on connaît. Google propose des outils pour connaître, en accédant à de l'information, puis des pistes pour réduire.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0133f28fec88970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0133f28fec88970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f28fec88970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f28fec88970b-pi.jpg) 
 
  
 

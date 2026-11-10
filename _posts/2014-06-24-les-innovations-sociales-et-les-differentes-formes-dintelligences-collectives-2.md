@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les innovations sociales et les différentes formes d'intelligences collectives"
-date: 2014-06-24 08:55:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'innovation', 'intelligence collective']
-=======
+date: 2014-06-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/06/les-innovations-sociales-et-les-differentes-formes-dintelligences-collectives.html"
 tags: ["ADEME", "innovation", "intelligence collective"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2014/06/24/les-innovations-sociales-et-les-differentes-formes-dintelligences-collectives-2/
 ---
 
 L'ADEME lance un appel d'offres sur ce sujet. Tous les renseignements sont accessibles par ce [**lien**](http://www.boamp.fr/avis/detail/14-93763/officiel).
@@ -22,7 +23,7 @@ La notion d’innovation sociale connaît un essor important depuis quelques ann
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a73ddf10d2970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b01a73ddf10d2970d-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73ddf10d2970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a73ddf10d2970d-pi.jpg)
 
  
 
@@ -113,7 +114,7 @@ Pour une agence comme l’ADEME, au-delà de l’enjeu de montée en échelle et
  
  
 
-[[1]](//ademe.intra/angers$/PROJETS/GTI_CITOYENS_DU_FUTUR/02-Appel%20Offre/Dossier%20de%20consultation%20Innovations%20sociales%20intell%20collective%20vfinal.docx#_ftnref1) [/assets/images/2014/06/intelligence-collective-la-revolution-invisible.pdf](/wp-content/uploads/sites/6/2014/06/intelligence-collective-la-revolution-invisible.pdf)
+[[1]](//ademe.intra/angers$/PROJETS/GTI_CITOYENS_DU_FUTUR/02-Appel%20Offre/Dossier%20de%20consultation%20Innovations%20sociales%20intell%20collective%20vfinal.docx#_ftnref1) [/assets/images/2014/06/intelligence-collective-la-revolution-invisible.pdf](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2014/06/intelligence-collective-la-revolution-invisible.pdf)
 
  
 

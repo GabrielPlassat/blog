@@ -1,18 +1,19 @@
 ---
 layout: post
 title: "Les camions, NYMBY ?"
-date: 2010-03-17 10:41:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Infrastructure', 'partage de la voirie']
-=======
+date: 2010-03-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/les-camions-nymby.html"
 tags: ["Infrastructure", "partage de la voirie"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/03/17/les-camions-nymby/
 ---
 
 ## Un article de Transports & logistiques ([ici](http://www.wk-transport-logistique.fr/actualites/actualites_detail.php?action=detail&val=24744&label_donnee=Circulation+des+poids+lourds+:+deux+departements+mettent+en+%25C5%2593uvre+des+interdictions)) détaille les récentes actions visant à interdire les poids lourds sur une partie des réseaux routiers dans deux départements : la Saône-et-loire et l’Allier. L’insécurité et les nuisances lors de la traversée de bourg sur la RN73 pour l’un, endommagements et saturation de 30% des routes départementales pour l’autre. Quelques extraits pour ensuite évoquer quelques conséquences : Et si cela s’étendait à tous les départements ? Comment sont pris en compte les reports vers les routes nationales, les autoroutes ?
  
-## [![](/assets/images/old/6a0120a66d2ad4970b0120a9475f34970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a9475f34970b-pi.jpg)
+## [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a9475f34970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a9475f34970b-pi.jpg)
  
 
  

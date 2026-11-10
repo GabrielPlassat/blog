@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Les effets d'un prix de baril élevé et volatil"
-date: 2010-09-14 16:00:39 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'pétrole']
-=======
-tags: ["Energie", "p\u00e9trole"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/les-effets-dun-prix-de-baril-eleve-et-volatil.html"
+tags: ["Energie", "pétrole"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/09/14/les-effets-dun-prix-de-baril-eleve-et-volatil/
 ---
 
 Publié le jour anniversaire des cinquante ans de l'OPEP, ce rapport fait le point sur le rôle du pétrole dans l'économie française.
@@ -28,11 +29,11 @@ Dans leur réponse à cette question, les auteurs de ce rapport délivrent quatr
 - la politique économique doit encourager et accompagner les ajustements et redéploiements nécessaires du côté de l'offre. Une politique indifférenciée de soutien à la demande serait inefficace. Les auteurs développent un certain nombre de préconisations qui vont dans ce sens. 
  
 
-[**Télécharger le rapport**](/assets/images/2010/09/093.pdf)
+[**Télécharger le rapport**]({{ site.baseurl }}/assets/images/2010/09/093.pdf)
 
  
 
-[**Télécharger le résumé**](/assets/images/2010/09/CAE93_Resume_FR.pdf)
+[**Télécharger le résumé**]({{ site.baseurl }}/assets/images/2010/09/CAE93_Resume_FR.pdf)
 
  
 
@@ -44,4 +45,4 @@ Du coté de la production des carburants (i.e. raffinage), ces fluctuations sur 
 
  [Raffinage-2010](http://www.slideshare.net/transportsdufutur/raffinage2010) View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 
-D'autres rapports (armées **[allemande ](http://www.lemonde.fr/planete/article/2010/09/11/l-armee-allemande-predit-le-pire-une-fois-le-pic-petrolier-atteint_1409882_3244.html)**ou **[USA](/2010/04/du-cote-du-petrole-et-du-gaz.html)**) proposent également des visions plus pessimistes des prochaines années ...
+D'autres rapports (armées **[allemande ](http://www.lemonde.fr/planete/article/2010/09/11/l-armee-allemande-predit-le-pire-une-fois-le-pic-petrolier-atteint_1409882_3244.html)**ou **[USA]({{ site.baseurl }}/2010/04/du-cote-du-petrole-et-du-gaz/)**) proposent également des visions plus pessimistes des prochaines années ...

@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Partenariat Renault - Bolloré incarne la mutation décrite en 2009, MétaNote N°0"
-date: 2013-09-16 11:44:39 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['allégement', 'Amazon', 'Apple', 'commuter', 'connectivité', "économie de l'expérience", 'économie du quaternaire', 'économie fonctionnalité', 'Efficacité énergétique', 'google', 'intelligence collective', 'internet des objets', 'marketing individualisé', 'multimodes', 'Service de mobilité']
-=======
-tags: ["all\u00e9gement", "Amazon", "Apple", "commuter", "connectivit\u00e9", "\u00e9conomie de l'exp\u00e9rience", "\u00e9conomie du quaternaire", "\u00e9conomie fonctionnalit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "google", "intelligence collective", "internet des objets", "marketing individualis\u00e9", "multimodes", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-09-16
+source: tdf
+source_name: "Transports du Futur"
+tags: ["allégement", "Amazon", "Apple", "commuter", "connectivité", "économie de l'expérience", "économie du quaternaire", "économie fonctionnalité", "Efficacité énergétique", "google", "intelligence collective", "internet des objets", "marketing individualisé", "multimodes", "Service de mobilité"]
+theme: "Stratégies numériques"
+redirect_from:
+  - /2013/09/16/partenariat-renault-bollore-incarne-la-mutation/
 ---
 
-Le dernier **[Communiqué de Presse du Groupe Renault](http://www.media.renault.com/global/fr-fr/renaultgroup/Media/PressRelease.aspx?mediaid=50699)** est repris, il décrit les trois principaux points qui seront travaillés avec Bolloré. Nous retrouvons les principaux points proposés dans la **[première MétaNote N°0](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)** rédigée en 2009 (4 ans déjà). En résumé, mutation de la valeur vers l'économie de la fonctionnalité incarnée dans des services de mobilité, d'abord urbain (point 1). Puis viennent les développements de véhicules conçus pour être exploiter dans des services (point 3), ces véhicules ne seront pas vendus aux conducteurs, ils seront exploités par un opérateur. Etant exploités, le cahier des charges peut être totalement revu (3 places, très léger). Un article au titre évocateur rédigé en 2010 illustre cela :**[ Qui sera capable de faire un GMP de 20 k au meilleur prix](/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix-.html)** ? Déjà 20 kW ...
+Le dernier **[Communiqué de Presse du Groupe Renault](http://www.media.renault.com/global/fr-fr/renaultgroup/Media/PressRelease.aspx?mediaid=50699)** est repris, il décrit les trois principaux points qui seront travaillés avec Bolloré. Nous retrouvons les principaux points proposés dans la **[première MétaNote N°0]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** rédigée en 2009 (4 ans déjà). En résumé, mutation de la valeur vers l'économie de la fonctionnalité incarnée dans des services de mobilité, d'abord urbain (point 1). Puis viennent les développements de véhicules conçus pour être exploiter dans des services (point 3), ces véhicules ne seront pas vendus aux conducteurs, ils seront exploités par un opérateur. Etant exploités, le cahier des charges peut être totalement revu (3 places, très léger). Un article au titre évocateur rédigé en 2010 illustre cela :**[ Qui sera capable de faire un GMP de 20 k au meilleur prix]({{ site.baseurl }}/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix/)** ? Déjà 20 kW ...
 
  
 
-Le véhicule autonome (niveau 4, lire l'article **[Robotisation, automatisation des véhicules en 2020](/2013/09/nissan-et-daimler-sengagent-a-commercialiser-des-voitures-autonomes-en-2020-risques-et-opportunites.html)**) fixe un objectif possible. La robotisation ne fait que commencer pour améliorer la rentabilité des services. 
+Le véhicule autonome (niveau 4, lire l'article **[Robotisation, automatisation des véhicules en 2020]({{ site.baseurl }}/2013/09/nissan-et-daimler-sengagent-a-commercialiser-des-voitures-autonomes-en-2020-risques-et-opportunites/)**) fixe un objectif possible. La robotisation ne fait que commencer pour améliorer la rentabilité des services. 
 
  
 
@@ -50,7 +50,7 @@ Cette mutation s'observe tous les jours (voir toutes les **[MétaNotes](/les-met
 
  
 
-Ces premières phases sont donc lancées, et déjà le coup d'après est prévisible (lire la MétaNote N°14 **[l'avenir de l'automobile](/2012/07/lavenir-de-lautomobile.html)**). Se numérisant, véhicules et services de mobilités, entrent dans les évolutions des industries du numérique. L'Histoire récente de cette industrie montre qu'à la fin, face aux constructeurs de matériel, de hard", c'est **toujours** le logiciel qui gagne (lire **[les logiciels dévorent le monde]()**). Certains vont même jusqu'à concevoir les objets pour mieux diffuser leurs logiciels [scénario Google ou Amazon]. Dans les transports, **[INDUCT]()** incarne celà : éditeur de logiciel pour cybercar, leurs réalisations matérielles ne sont là que pour rendre visible les lignes de code, pour permettre l'expérience des services. 
+Ces premières phases sont donc lancées, et déjà le coup d'après est prévisible (lire la MétaNote N°14 **[l'avenir de l'automobile]({{ site.baseurl }}/2012/07/lavenir-de-lautomobile/)**). Se numérisant, véhicules et services de mobilités, entrent dans les évolutions des industries du numérique. L'Histoire récente de cette industrie montre qu'à la fin, face aux constructeurs de matériel, de hard", c'est **toujours** le logiciel qui gagne (lire **[les logiciels dévorent le monde]()**). Certains vont même jusqu'à concevoir les objets pour mieux diffuser leurs logiciels [scénario Google ou Amazon]. Dans les transports, **[INDUCT]()** incarne celà : éditeur de logiciel pour cybercar, leurs réalisations matérielles ne sont là que pour rendre visible les lignes de code, pour permettre l'expérience des services. 
 
  
 

@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Le téléphone te guidera ..."
-date: 2010-01-28 14:51:37 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', "guide d'achat", 'téléphone', 'TIC']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "guide d'achat", "t\u00e9l\u00e9phone", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/le-telephone-te-guidera.html"
+tags: ["données réelles", "guide d'achat", "téléphone", "TIC"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/01/28/le-telephone-te-guidera/
 ---
 
-Fournir l'information (la bonne) au bon moment ... L'idée a déjà été détaillée dans plusieurs notes (**[ici](/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles.html)** et **[là](/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse.html)**). Un exemple d'application qui existe !
+Fournir l'information (la bonne) au bon moment ... L'idée a déjà été détaillée dans plusieurs notes (**[ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)** et **[là]({{ site.baseurl }}/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse/)**). Un exemple d'application qui existe !
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0128771fb1a2970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0128771fb1a2970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128771fb1a2970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128771fb1a2970c-pi.jpg) 
 C’est en cherchant quel écran solaire utiliser pour sa fille que Dara O’Rourke,  professeur en environnement et société à l’Université de Berkeley (Californie) a réalisé il y a quelques années qu’il n’avait, en tant que consommateur, aucune information sur les composants potentiellement toxiques ou polluants contenus dans la plupart des produits quotidiens. Pourtant,  l’information était possible à trouver en entamant une recherche ad’hoc un peu fouillée sur le Net… et c’est ce qui lui donna l’idée de créer un projet de recherche universitaire sur la façon dont on pourrait rassembler cette information (qui existe dans les rapports d’ONG, les guides pointus publiés sur un sujet donné, etc.) pour la rendre accessible aux consommateurs. 
 
  

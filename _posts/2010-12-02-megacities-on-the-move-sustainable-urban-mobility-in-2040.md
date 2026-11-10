@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Megacities on the move, sustainable urban mobility in 2040"
-date: 2010-12-02 14:25:46 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autarcie', 'autopartage', 'autorité des transports', 'better place', 'biocarburant', 'carburant', 'cité', 'citoyen', 'collectivité', 'commuter', 'connectivité', 'covoiturage', 'cybercar', 'données réelles', 'Efficacité énergétique', 'Energie', 'gouvernance', 'Infrastructure', 'innovation', 'internet', 'internet des objets', 'keicar', 'living lab', 'logistique', 'management de la mobilité', 'marchandises', 'marche', 'megacity', 'mode doux', 'multimodes', 'open innovation', 'partage de la voirie', 'Pay as You Move', 'PAYD', 'péage urbain', 'pétrole', 'prix carburant', "qualité de l'air", 'rickshaw', 'roadpricing', 'Santé', 'Service de mobilité', 'smartgrid']
-=======
-tags: ["assistant de mobilit\u00e9", "autarcie", "autopartage", "autorit\u00e9 des transports", "better place", "biocarburant", "carburant", "cit\u00e9", "citoyen", "collectivit\u00e9", "commuter", "connectivit\u00e9", "covoiturage", "cybercar", "donn\u00e9es r\u00e9elles", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Energie", "gouvernance", "Infrastructure", "innovation", "internet", "internet des objets", "keicar", "living lab", "logistique", "management de la mobilit\u00e9", "marchandises", "marche", "megacity", "mode doux", "multimodes", "open innovation", "partage de la voirie", "Pay as You Move", "PAYD", "p\u00e9age urbain", "p\u00e9trole", "prix carburant", "qualit\u00e9 de l'air", "rickshaw", "roadpricing", "Sant\u00e9", "Service de mobilit\u00e9", "smartgrid"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-12-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/12/megacities-on-the-move-sustainable-urban-mobility-in-2040.html"
+tags: ["assistant de mobilité", "autarcie", "autopartage", "autorité des transports", "better place", "biocarburant", "carburant", "cité", "citoyen", "collectivité", "commuter", "connectivité", "covoiturage", "cybercar", "données réelles", "Efficacité énergétique", "Energie", "gouvernance", "Infrastructure", "innovation", "internet", "internet des objets", "keicar", "living lab", "logistique", "management de la mobilité", "marchandises", "marche", "megacity", "mode doux", "multimodes", "open innovation", "partage de la voirie", "Pay as You Move", "PAYD", "péage urbain", "pétrole", "prix carburant", "qualité de l'air", "rickshaw", "roadpricing", "Santé", "Service de mobilité", "smartgrid"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/12/02/megacities-on-the-move-sustainable-urban-mobility-in-2040/
 ---
 
 Stackable electric cars which you can hire all over big cities, a website where you can rent out your vehicle when you’re not using it, lifelike ‘telepresence’ screens which let you talk to people in different countries and feel you’re in the same room – these are just some of today’s innovations which hint at what life may be like in 2040, according to a new report from Forum for the Future.
@@ -34,7 +35,7 @@ It sets out six solutions for sustainable mobility that they can follow now to h
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013489ad13df970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b013489ad13df970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013489ad13df970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013489ad13df970c-pi.jpg) 
  
 
  
@@ -77,12 +78,12 @@ It sets out six solutions for sustainable mobility that they can follow now to h
 
  
 
-[](/assets/images/old/6a0120a66d2ad4970b0147e050bf04970b-800wi.jpg)  
+[]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0147e050bf04970b-800wi.jpg)  
 The report is based on interviews with more than 40 experts in different aspects of sustainable mobility from around the world, which identified key factors and trends that will shape the future of cities, including shortages of key resources, the strength of global institutions and whether alternative energy sources replace fossil fuels.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013489ad0302970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b013489ad0302970c-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013489ad0302970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013489ad0302970c-800wi.jpg) 
 
  
 

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Lancement de l'Appel à Projet de Recherche CoMon"
-date: 2014-07-16 11:28:01 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['ADEME', 'BHNS', 'camion', 'citoyen', 'collectivité', 'covoiturage', 'donnée data', 'innovation', 'logistique', 'management de la mobilité', 'marchandises', 'multimodes', 'partage de données', 'plate-forme', 'Service de mobilité', 'territoire', 'Véhicule']
-=======
-tags: ["ADEME", "BHNS", "camion", "citoyen", "collectivit\u00e9", "covoiturage", "donn\u00e9e data", "innovation", "logistique", "management de la mobilit\u00e9", "marchandises", "multimodes", "partage de donn\u00e9es", "plate-forme", "Service de mobilit\u00e9", "territoire", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-07-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/07/lancement-par-lademe-de-lappel-a-projet-de-recherche-comon.html"
+tags: ["ADEME", "BHNS", "camion", "citoyen", "collectivité", "covoiturage", "donnée data", "innovation", "logistique", "management de la mobilité", "marchandises", "multimodes", "partage de données", "plate-forme", "Service de mobilité", "territoire", "Véhicule"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2014/07/16/lancement-par-lademe-de-lappel-a-projet-de-recherche-comon-2/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b01a511e2a4aa970c-800wi.png)](/assets/images/old/6a0120a66d2ad4970b01a511e2a4aa970c-pi.png)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511e2a4aa970c-800wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01a511e2a4aa970c-pi.png)
 
  
 

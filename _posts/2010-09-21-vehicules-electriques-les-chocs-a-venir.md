@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Véhicules électriques : Le(s) choc(s) à venir"
-date: 2010-09-21 14:58:50 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['art de la guerre', 'batterie', 'BYD', 'économie fonctionnalité', 'VE', 'Véhicule']
-=======
-tags: ["art de la guerre", "batterie", "BYD", "\u00e9conomie fonctionnalit\u00e9", "VE", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-21
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/vehicules-electriques-les-chocs-a-venir.html"
+tags: ["art de la guerre", "batterie", "BYD", "économie fonctionnalité", "VE", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/09/21/vehicules-electriques-les-chocs-a-venir/
 ---
 
-Le marché automobile de l'OCDE est globalement saturé, sous de fortes contraintes environnementales, sociales, et subissant de fortes congestions. Des transitions générationnelles opèrent dans plusieurs milieux sociaux, la possession d'un véhicule individuel n'est plus nécessaire pour devenir adulte (voir **[ici](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**). Les constructeurs mondiaux de ces pays (re)naissent dans les zones à forte croissance : Amérique du sud, Inde, Chine et Russie, tout en conservant des attaches d’origine qui représente(ro)nt environ 50% de leurs ventes (voir **[ici](http://www.lemonde.fr/depeches/2010/09/20/renault-pourrait-realiser-50-des-ventes-hors-d-europe-en-2013_3234_439_43427747.html)**). Après avoir regardé du coté de l'économie du véhicule électrique, en considérant le système global de la mobilité (voir **[ici](/2010/08/valeurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform.html)**), quel rôle majeur pourrait jouer la Chine ?
+Le marché automobile de l'OCDE est globalement saturé, sous de fortes contraintes environnementales, sociales, et subissant de fortes congestions. Des transitions générationnelles opèrent dans plusieurs milieux sociaux, la possession d'un véhicule individuel n'est plus nécessaire pour devenir adulte (voir **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**). Les constructeurs mondiaux de ces pays (re)naissent dans les zones à forte croissance : Amérique du sud, Inde, Chine et Russie, tout en conservant des attaches d’origine qui représente(ro)nt environ 50% de leurs ventes (voir **[ici](http://www.lemonde.fr/depeches/2010/09/20/renault-pourrait-realiser-50-des-ventes-hors-d-europe-en-2013_3234_439_43427747.html)**). Après avoir regardé du coté de l'économie du véhicule électrique, en considérant le système global de la mobilité (voir **[ici]({{ site.baseurl }}/2010/08/valeurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform/)**), quel rôle majeur pourrait jouer la Chine ?
 
  
 
@@ -34,7 +35,7 @@ Comme développé par **[B.Jullien du GERPISA](http://leblog.gerpisa.org/node/10
 
  
 
-![](/assets/images/old/6a0120a66d2ad4970b0133f46c6cea970b-500wi.gif)
+![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f46c6cea970b-500wi.gif)
 
  
 

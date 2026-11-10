@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Open Air Government"
-date: 2010-01-25 09:43:36 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['open source', 'partage de données', "Plateforme d'idées", 'Service de mobilité', 'TIC', 'web2.0']
-=======
-tags: ["open source", "partage de donn\u00e9es", "Plateforme d'id\u00e9es", "Service de mobilit\u00e9", "TIC", "web2.0"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/open-air-government.html"
+tags: ["open source", "partage de données", "Plateforme d'idées", "Service de mobilité", "TIC", "web2.0"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/01/25/open-air-government/
 ---
 
 Il y a un an, la ville de San Francisco partageait ses données au grand public, encourgeait le développement d'applications, de sites pour une large utilisation. Depuis, il y a plus d'une douzaine d'outils facilitant le vie des citoyens, dont de nombreuses applications dédiées à la mobilité, aux transports en communs, aux commuters.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0128770ca199970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0128770ca199970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128770ca199970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0128770ca199970c-pi.jpg) 
 Le site est **[là](http://govfresh.com/)**. La mise en oeuvre de **[Gov 2.0 Heroes](http://govfresh.com/category/gov-20-heroes/)** est également intéressante ...
 
  
@@ -29,7 +30,7 @@ Here’s a review:
 
  
 
-[![](/assets/images/2010/01/EveryBlock.png)](http://everyblock.com/)
+[![]({{ site.baseurl }}/assets/images/2010/01/EveryBlock.png)](http://everyblock.com/)
 
  
 
@@ -45,7 +46,7 @@ EveryBlock features what calls to the city have been made recently, including 91
 
  
 
-[![](/assets/images/2010/01/CleanScores.png)](http://www.cleanscores.com/)[](http://www.cleanscores.com/)
+[![]({{ site.baseurl }}/assets/images/2010/01/CleanScores.png)](http://www.cleanscores.com/)[](http://www.cleanscores.com/)
 
  
 
@@ -61,7 +62,7 @@ But seriously, if you ever want to eat again, you may want to pass on reading so
 
  
 
-[![](/assets/images/2010/01/MomMaps.png)](http://www.mommaps.com/)
+[![]({{ site.baseurl }}/assets/images/2010/01/MomMaps.png)](http://www.mommaps.com/)
 
  
 
@@ -85,7 +86,7 @@ There’s a number of apps that make your public transit experience a bit better
 
  
 
-[![](/assets/images/2010/01/AccessibleParkingSF.png)](http://bit.ly/6JIueo)
+[![]({{ site.baseurl }}/assets/images/2010/01/AccessibleParkingSF.png)](http://bit.ly/6JIueo)
 
  
 
@@ -101,7 +102,7 @@ Commuting made easy. Well, easIER.
 
  
 
-[![](/assets/images/2010/01/Dadnab.png)](http://www.dadnab.com/)
+[![]({{ site.baseurl }}/assets/images/2010/01/Dadnab.png)](http://www.dadnab.com/)
 
  
 
@@ -109,7 +110,7 @@ Commuting made easy. Well, easIER.
 
  
 
-[![](/assets/images/2010/01/MuniApp.jpg)](http://bit.ly/8Dv4Ex)
+[![]({{ site.baseurl }}/assets/images/2010/01/MuniApp.jpg)](http://bit.ly/8Dv4Ex)
 
  
 
@@ -117,7 +118,7 @@ Commuting made easy. Well, easIER.
 
  
 
-[![](/assets/images/2010/01/iCommuteSF.jpg)](http://bit.ly/8NVDyB)
+[![]({{ site.baseurl }}/assets/images/2010/01/iCommuteSF.jpg)](http://bit.ly/8NVDyB)
 
  
 
@@ -125,7 +126,7 @@ Commuting made easy. Well, easIER.
 
  
 
-[![](/assets/images/2010/01/TransiCast.jpg)](http://www.transicast.com/)
+[![]({{ site.baseurl }}/assets/images/2010/01/TransiCast.jpg)](http://www.transicast.com/)
 
  
 
@@ -137,7 +138,7 @@ I’m grateful I live in a city that has relatively decent public transportation
 
  
 
-[![](/assets/images/2010/01/BARTArrivals.png)](http://eco.netvibes.com/widgets/302570/bart-arrivals)
+[![]({{ site.baseurl }}/assets/images/2010/01/BARTArrivals.png)](http://eco.netvibes.com/widgets/302570/bart-arrivals)
 
  
 
@@ -149,7 +150,7 @@ I’m grateful I live in a city that has relatively decent public transportation
 
  
 
-[![](/assets/images/2010/01/TransitBay.png)](http://www.moiclog.com/)
+[![]({{ site.baseurl }}/assets/images/2010/01/TransitBay.png)](http://www.moiclog.com/)
 
  
 

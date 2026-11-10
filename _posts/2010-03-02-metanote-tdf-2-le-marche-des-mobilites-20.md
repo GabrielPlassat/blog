@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "MétaNote TdF 2, le marché des mobilités 2.0"
-date: 2010-03-02 16:02:19 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assistant de mobilité', 'autorité des transports', 'connectivité', 'données réelles', 'Infrastructure', 'internet', 'iphone', 'multimodes', 'partage de données', 'Service de mobilité', 'Véhicule']
-=======
-tags: ["assistant de mobilit\u00e9", "autorit\u00e9 des transports", "connectivit\u00e9", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "iphone", "multimodes", "partage de donn\u00e9es", "Service de mobilit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/metanote-tdf-2-le-marche-des-mobilites-20.html"
+tags: ["assistant de mobilité", "autorité des transports", "connectivité", "données réelles", "Infrastructure", "internet", "iphone", "multimodes", "partage de données", "Service de mobilité", "Véhicule"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/03/02/metanote-tdf-2-le-marche-des-mobilites-20/
 ---
 
-Après avoir détaillé les origines des mobilités 2.0, les acteurs et les technologies utilisées (**[MétaNote TdF 0](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**), puis les objectifs à atteindre (**[MétaNote TdF 1](/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir.html)**), cette MétaNote propose de plonger dans les futurs marchés des mobilités 2.0.
+Après avoir détaillé les origines des mobilités 2.0, les acteurs et les technologies utilisées (**[MétaNote TdF 0]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**), puis les objectifs à atteindre (**[MétaNote TdF 1]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**), cette MétaNote propose de plonger dans les futurs marchés des mobilités 2.0.
 
  
 
@@ -76,7 +77,7 @@ o     Une commission de régulation (**[CRE](http://fr.wikipedia.org/wiki/Com
 
  
 
-Comme le particulier sera incapable de gérer cette complexité temps réel, deux nouveaux rouages seront nécessaire : des opérateurs de mobilité, et des **[assistants personnels de mobilité](/2010/02/personnal-travel-assistant-cisco.html)** qui feront le lien , place de marché => opérateur => particulier.
+Comme le particulier sera incapable de gérer cette complexité temps réel, deux nouveaux rouages seront nécessaire : des opérateurs de mobilité, et des **[assistants personnels de mobilité]({{ site.baseurl }}/2010/02/personnal-travel-assistant-cisco/)** qui feront le lien , place de marché => opérateur => particulier.
 
  
 

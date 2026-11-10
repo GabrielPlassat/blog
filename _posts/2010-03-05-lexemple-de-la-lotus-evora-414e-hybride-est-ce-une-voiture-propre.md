@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "L'exemple de la Lotus Evora 414E Hybride, est ce une voiture propre ?"
-date: 2010-03-05 17:46:10 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['données réelles', "guide d'achat", 'PAYD', 'véhicule propre']
-=======
-tags: ["donn\u00e9es r\u00e9elles", "guide d'achat", "PAYD", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/lexemple-de-la-lotus-evora-414e-hybride-est-ce-une-voiture-propre.html"
+tags: ["données réelles", "guide d'achat", "PAYD", "véhicule propre"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/03/05/lexemple-de-la-lotus-evora-414e-hybride-est-ce-une-voiture-propre/
 ---
 
 Quel constructeur n'a pas aujourd'hui son ou ses modèles de salon sportifs propres" ? Permettez moi de mettre le terme entre parenthèses car l'adjectif mérite quelques précisions. Aujourd'hui, la notion de véhicule propre reste associé à des technologies à priori propres : électrique propre, Diesel pas propre. 

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "50 ans après, toute ressemblance avec la situation actuelle ne serait que pure fiction ..."
-date: 2012-02-16 10:02:55 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Efficacité énergétique', 'véhicule mono-usage']
-=======
-tags: ["Efficacit\u00e9 \u00e9nerg\u00e9tique", "v\u00e9hicule mono-usage"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-02-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/02/50-ans-apres-toute-ressemblance-avec-la-situation-actuelle-ne-serait-que-pure-fiction.html"
+tags: ["Efficacité énergétique", "véhicule mono-usage"]
+theme: "Véhicule sobre & fonctionnalité"
+redirect_from:
+  - /2012/02/16/50-ans-apres-toute-ressemblance-avec-la-situation-actuelle-ne-serait-que-pure-fiction/
 ---
 
-[![](/assets/images/old/6a0120a66d2ad4970b0168e770df75970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0168e770df75970c-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e770df75970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e770df75970c-pi.jpg)
 
  
 

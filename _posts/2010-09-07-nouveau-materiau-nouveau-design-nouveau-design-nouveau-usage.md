@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Nouveau matériau, nouveau design - nouveau design, nouveau usage"
-date: 2010-09-07 15:15:23 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['allemagne', 'léger', 'VE']
-=======
-tags: ["allemagne", "l\u00e9ger", "VE"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-09-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/nouveau-materiau-nouveau-design-nouveau-design-nouveau-usage.html"
+tags: ["allemagne", "léger", "VE"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2010/09/07/nouveau-materiau-nouveau-design-nouveau-design-nouveau-usage/
 ---
 
 Apple a breveté, au départ pour le [Macbook](http://www.maccro.net/20100303105/le-design-unibody-appartient-definitivement-a-apple.html), le design apporté notamment par le procédé de fabrication de la coque arrière de l'ordinateur. Ce design permet une reconnaissance immédiate du produit, et lui donne une finesse inédite.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134870dd0e3970c-320wi.png)](/assets/images/old/6a0120a66d2ad4970b0134870dd0e3970c-800wi.png) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134870dd0e3970c-320wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134870dd0e3970c-800wi.png) 
 Plus récemment, de nouveaux brevets ont été accordés à Apple pour [l'Iphone ](http://www.consomac.fr/news-836.html)sur un sujet analogue. Le design de ces produits est essentiel pour lui permettre de créer de nouveaux usages.
 
  
@@ -23,7 +24,7 @@ Plus récemment, de nouveaux brevets ont été accordés à Apple pour [l'Iphone
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134870dd396970c-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b0134870dd396970c-800wi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134870dd396970c-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134870dd396970c-800wi.jpg) 
 Dans le secteur automobile, nous pouvons citer le PRFC. **Le plastique à renfort fibre de carbone (PRFC)** ne peut être comparé aux matériaux conventionnels. Ce matériau composite unique possède de nombreuses particularités intéressantes en association singulière. Le **PRFC** se compose d’une fibre de carbone scellée dans une matrice de plastique (résine). Il s’agit donc d’un matériau extrêmement stable et en même temps très léger qui, à fonction au moins égale, est moitié plus léger que l’acier. Par ailleurs, il ne craint pas la corrosion, les acides ou les solvants organiques, ce qui en fait un matériau à la longévité nettement plus importante que le métal.
 
  
@@ -41,8 +42,8 @@ BMW Group réfléchit au-delà du cycle du produit et a élaboré, grâce à sa 
 
  
 
-Ce nouveau matériau permettra de nouveau design, comme le montre la Mégacity, couplant PRFC et aluminium, futur [véhicule électrique de BMW](http://www.bimmerfile.com/2010/07/02/bmw-releases-first-details-of-megacity-project/). Plus légère, cette architecture nécessitera moins de batterie pour les mêmes performances, le surcoût du matériau étant compensé par le gain apporté par les batteries. Ce cercle vertueux n'en est qu'à son début ... Less is more (voir **[ici ](/2010/02/less-is-more.html)**et **[là](/2010/04/less-is-more-3-application-au-ve.html)**).
+Ce nouveau matériau permettra de nouveau design, comme le montre la Mégacity, couplant PRFC et aluminium, futur [véhicule électrique de BMW](http://www.bimmerfile.com/2010/07/02/bmw-releases-first-details-of-megacity-project/). Plus légère, cette architecture nécessitera moins de batterie pour les mêmes performances, le surcoût du matériau étant compensé par le gain apporté par les batteries. Ce cercle vertueux n'en est qu'à son début ... Less is more (voir **[ici ]({{ site.baseurl }}/2010/02/less-is-more/)**et **[là]({{ site.baseurl }}/2010/04/less-is-more-3-application-au-ve/)**).
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0134870dfe33970c-500wi.jpg)](http://www.flickr.com/photos/motoringfile/sets/72157624281069117/show/) (d'autres photos en cliquant sur l'image)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0134870dfe33970c-500wi.jpg)](http://www.flickr.com/photos/motoringfile/sets/72157624281069117/show/) (d'autres photos en cliquant sur l'image)

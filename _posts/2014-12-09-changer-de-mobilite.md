@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Changer. Enfin."
-date: 2014-12-09 14:57:07 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['citoyen', 'confiance', 'Fabrique des mobilités', 'holoptisme', 'innovation', 'intelligence collective', 'management de la mobilité', 'marketing individualisé', 'temporalité', 'territoire']
-=======
-tags: ["citoyen", "confiance", "Fabrique des mobilit\u00e9s", "holoptisme", "innovation", "intelligence collective", "management de la mobilit\u00e9", "marketing individualis\u00e9", "temporalit\u00e9", "territoire"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-12-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2014/12/changer-de-mobilite.html"
+tags: ["citoyen", "confiance", "Fabrique des mobilités", "holoptisme", "innovation", "intelligence collective", "management de la mobilité", "marketing individualisé", "temporalité", "territoire"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2014/12/09/changer-de-mobilite/
 ---
 
 Partout il est question d'accompagner le changement, de le conduire, d'amener les citoyens à changer de moyens de transport. Par de l'information, par des exemples à suivre, par des guides, par des incitatifs ou des contraintes. Ce changement n'est plus une option tant le développement de l'offre de transport est limité. Pour autant, plus la volonté de changer est grande, plus, dans les faits, les pratiques ne changent pas ou très lentement. 
@@ -22,7 +23,7 @@ Partout il est question d'accompagner le changement, de le conduire, d'amener le
 
  
 
-* [![Le-changement2](/assets/images/old/6a0120a66d2ad4970b01bb07c01e62970d-500wi.png)](/assets/images/old/6a0120a66d2ad4970b01bb07c01e62970d-pi.png)
+* [![Le-changement2]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01bb07c01e62970d-500wi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01bb07c01e62970d-pi.png)
 *
 
  
@@ -31,7 +32,7 @@ Dan Pink dans la vidéo TED ci dessous nous décrit que cette approche est *scie
 
  
 
-**Changer de mode de transport est donc un bouleversement intégral et personnel (**lire l'article**[ Le premier jour où j'ai décidé de me déplacer autrement](/2014/01/le-premier-jour-ou-jai-arrete.html)). Vouloir le faire nécessite une préparation et un accompagnement. 
+**Changer de mode de transport est donc un bouleversement intégral et personnel (**lire l'article**[ Le premier jour où j'ai décidé de me déplacer autrement]({{ site.baseurl }}/2014/01/le-premier-jour-ou-jai-arrete/)). Vouloir le faire nécessite une préparation et un accompagnement. 
 **
 
  
@@ -46,7 +47,7 @@ Dan Pink dans la vidéo TED ci dessous nous décrit que cette approche est *scie
 
  
 
-Plusieurs projets travaillent ce sujet : comme [**Mobilise.**](/2014/03/du-changement-de-comportement-a-lengagement-citoyen.html) Mais le projet BMA ([**Bretagne Mobilité Augmentée**](http://www.themavision.fr/jcms/rw_314962/bma)) l'explore, et l'itère dans près de 20 démonstrateurs et plus de 50 solutions co-conçues de nouvelle mobilité / nouvelle activité. La présentation ci dessous, réalisée par [**Fanny Dufour**](https://fr.linkedin.com/pub/fanny-dufour/30/157/330) dans le cadre de BMA, résume les processus et conditions pour réussir le changement :
+Plusieurs projets travaillent ce sujet : comme [**Mobilise.**](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/2014/03/du-changement-de-comportement-a-lengagement-citoyen.html) Mais le projet BMA ([**Bretagne Mobilité Augmentée**](http://www.themavision.fr/jcms/rw_314962/bma)) l'explore, et l'itère dans près de 20 démonstrateurs et plus de 50 solutions co-conçues de nouvelle mobilité / nouvelle activité. La présentation ci dessous, réalisée par [**Fanny Dufour**](https://fr.linkedin.com/pub/fanny-dufour/30/157/330) dans le cadre de BMA, résume les processus et conditions pour réussir le changement :
 
  
 

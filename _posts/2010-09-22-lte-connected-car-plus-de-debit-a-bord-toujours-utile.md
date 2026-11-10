@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "LTE Connected car, plus de débit à bord, toujours utile ?"
-date: 2010-09-22 17:14:24 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cybercar', 'internet']
-=======
+date: 2010-09-22
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/09/lte-connected-car-plus-de-debit-a-bord-toujours-utile.html"
 tags: ["cybercar", "internet"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/09/22/lte-connected-car-plus-de-debit-a-bord-toujours-utile/
 ---
 
 **Soon the must-have option for new cars won't be a sunroof or leather seats—it will be ultra high-speed, high-bandwidth connectivity that revolutionizes the in-vehicle experience for drivers and passengers.  Within the [LTE Connected Car](http://ngconnect.org/ecosystem/connected-car.htm), consumers will be able to access network- and cloud-based applications that put on-demand entertainment, infotainment, diagnostics, navigation and much more at their fingertips.**
@@ -22,7 +23,7 @@ And consumers are very interested! A recent Market Advantage study of American a
 
  
 
-Le véhicule sera donc connecté en permanence avec un débit équivalent à celui de son domicile, permettant de développer des jeux (voir **[ici]( /2010/08/et-si-les-mobilites-de-demain-etaient-pensees-a-travers-le-jeu.html)**), mais également des diagnostics et de la navigation. Le consommateur est prêt à payer d'après des études réalisées aux USA et en Europe, mais leur a-t-on proposé d'autres modèles de mobilité utilisant les mêmes briques technologiques ? 
+Le véhicule sera donc connecté en permanence avec un débit équivalent à celui de son domicile, permettant de développer des jeux (voir **[ici]( {{ site.baseurl }}/2010/08/et-si-les-mobilites-de-demain-etaient-pensees-a-travers-le-jeu/)**), mais également des diagnostics et de la navigation. Le consommateur est prêt à payer d'après des études réalisées aux USA et en Europe, mais leur a-t-on proposé d'autres modèles de mobilité utilisant les mêmes briques technologiques ? 
 
  
 

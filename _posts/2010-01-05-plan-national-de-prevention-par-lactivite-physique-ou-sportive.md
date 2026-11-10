@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Plan National de prévention par l’Activité Physique ou Sportive"
-date: 2010-01-05 10:02:31 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', "qualité de l'air", 'Santé', 'Service de mobilité']
-=======
-tags: ["Energie", "qualit\u00e9 de l'air", "Sant\u00e9", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-01-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/01/plan-national-de-prevention-par-lactivite-physique-ou-sportive.html"
+tags: ["Energie", "qualité de l'air", "Santé", "Service de mobilité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/01/05/plan-national-de-prevention-par-lactivite-physique-ou-sportive/
 ---
 
 La commission nationale a porté son analyse sur l’ensemble du contexte scientifique étudié notamment dans l’importante expertise collective de l’Inserm, publiée en mars 2008. Elle a organisé son travail d’avril à octobre 2008 autour de 10 réunions plénières et de cent vingt cinq réunions de travail et d’auditions spécifiques. Le rapport complet est accessible **[ici](http://www.sante-sports.gouv.fr/plan-national-de-prevention-par-l-activite-physique-ou-sportive-pnaps.html)**.
@@ -94,4 +95,4 @@ Cherchant à favoriser la pratique des activités physiques ou sportives en tout
 
  
 
-Plusieurs propositions recoupent celles annoncées dans différents articles (**[partenariat avec des assureurs et aide à la mobilité active](/2009/11/mobilite-obesite-sante-innovons-vite.html), [besoin d’un « compteur d’activité](/2009/12/philips-directlife-le-lien-activite-physique-sante.html) »**).
+Plusieurs propositions recoupent celles annoncées dans différents articles (**[partenariat avec des assureurs et aide à la mobilité active](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/2009/11/mobilite-obesite-sante-innovons-vite.html), [besoin d’un « compteur d’activité]({{ site.baseurl }}/2009/12/philips-directlife-le-lien-activite-physique-sante/) »**).

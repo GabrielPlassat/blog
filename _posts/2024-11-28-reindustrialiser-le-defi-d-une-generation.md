@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Réindustrialiser, le défi d'une génération"
+date: 2024-11-28
+source: xd
+source_name: "Blog XD (ADEME)"
+original_url: "https://xd.ademe.fr/blog/reindustrialiser-le-defi-d-une-generation"
+tags: ["réindustrialisation", "usine distribuée"]
+theme: "Énergie, émissions & consommateurs"
+---
+
+*Application pour le cas des véhicules intermédiaires*
+
+La Banque des Territoires publie sur son [article](https://www.banquedesterritoires.fr/olivier-lluansi-devoile-les-grandes-lignes-de-son-parcours-fleche-pour-la-reindustrialisation) de Mars 2024 : "*La remontada va être longue, il faut environ deux décennies.*" Devant le salon Global Industrie qui se tient jusqu'à vendredi à Villepinte (Seine-Saint-Denis), l'ancien délégué interministériel aux Territoires d'industrie Olivier Lluansi a prévenu, mercredi 27 mars, que la marche de la réindustrialisation est encore haute. "*Même en se mobilisant fortement", en 2035, on n'aura fait "que la moitié du chemin*", a ajouté celui qui a été chargé par Bercy d'une mission sur la réindustrialisation à l'horizon 2035. Alors qu'il doit remettre ses conclusions à la fin du mois d'avril, il a dévoilé les grandes lignes de son "parcours fléché" de la réindustrialisation. […] Ancien responsable des Territoires d'industrie invite à ne pas se focaliser uniquement sur les innovations de rupture, comme le fait le programme France 2030, ni sur les ETI ou les grands groupes. "*Il faudrait soutenir l'ensemble de nos projets de réindustrialisation. Soutenir l'innovation de rupture, c'est bien, c'est indispensable, mais cela ne suffira pas*", souligne-t-il, indiquant que les hautes technologies ne représentent que 20 à 30% du potentiel de réindustrialisation.
+
+Dans son dernier livre, [Réindustrialiser, le Défi d’une génération](https://www.banquedesterritoires.fr/olivier-lluansi-devoile-les-grandes-lignes-de-son-parcours-fleche-pour-la-reindustrialisation), Olivier Lluansi rassemble en annexe une cinquantaine de notes et présente ses propositions pour renouer avec l’industrie.  De nombreuses propositions et idées rejoignent des actions en cours dans l’[eXtrême Défi Mobilité](https://xd.ademe.fr) pour concevoir et réaliser non seulement des [nouveaux véhicules](https://wikixd.fabmob.io/wiki/Sp%C3%A9cial:WfExplore?title=Sp%C3%A9cial%3AWfExplore&page=1&wf-expl-Category-Vehicule=on&wf-expl-Page_creator-fulltext=&wf-expl-Tags=) plus légers, plus efficients, plus économiques, plus durables et réparables, intégrant plus de biomasse et de déchets, mais également un **nouveau système productif, plus robuste aux crises à venir**. Il s’agit de se doter d’une production que l’auteur qualifie « *d’essentielle* » pour sa souveraineté, pour maintenir nos activités dans toutes les circonstances (p123).
+
+De tels véhicules et leurs industries associées nous permettent de ne plus avoir à choisir entre économique, souverain et durable !
+
+L’auteur souhaite également lancer un forum pour éclairer les contradictions entre souveraineté et environnement (p102). Nous proposons de nous appuyer sur la [communauté de l’eXtrême Défi Mobilité](https://wikixd.fabmob.io/wiki/XD:Accueil) pour échanger sur les véhicules que nous souhaitons avoir dans un monde fini, incertain, complexe et ambigu. Ce forum « transport » serait à mener de façon globale au niveau national et européen mais également au niveau territorial.
+
+Olivier Lluansi souligne également l’importance d’utiliser le bilan carbone pour créer des bonus/malus (p123) à la fois pour réduire notre dépendance, réduire nos émissions (p115) et servir l’intérêt des consommateurs pour des produits efficients, réparables, conçus pour avoir plusieurs vies. Il propose dans ce domaine d’introduire à minima 80% de produits recyclés. Un [score environnemental](https://wikixd.fabmob.io/wiki/GT_Label,_ACV_et_score_environnemental) est en construction pour les véhicules intermédiaires. Ces véhicules seront un modèle pour introduire un maximum de métaux recyclés mais de plastiques recyclés sur lesquels nous travaillons avec [Precious Plastic](https://wikixd.fabmob.io/wiki/Precious_Plastic) et le [réseau Français des FabLabs](https://wikixd.fabmob.io/wiki/R%C3%A9seau_Fran%C3%A7ais_des_FabLabs) par exemple, mais aussi un maximum de produits issus de la biomasse comme la fibre de bambou utilisée dans certains véhicules.
+
+L’auteur souligne également l’importance cruciale de créer de nouvelles coopérations avec des écosystèmes productifs et favoriser la coopétition (p111). L’XD Mobilité a fait de la coopétition le cœur de la méthode pour combiner vitesse, inclusivité des nouveaux acteurs et économie d’échelle [pour mutualiser des composants et des machines](https://wikixd.fabmob.io/wiki/Mutualisation_des_composants_et_sous-ensembles_XD). Ce pragmatisme nécessite d’accompagner les industriels pour identifier des zones de coopérations pertinentes.
+
+M.Lluansi développe également l’importance de l’éducation, la formation pour redonner le goût de l’usine, de la production. Il propose de repenser la notion d’usine (p96) auprès des jeunes et des personnes à former pour faire revenir l’usine dans les écoles. [Plusieurs écoles](https://wikixd.fabmob.io/wiki/GT_Ecoles_et_Universit%C3%A9s) sont impliquées dans l'XD Mobilité pour faire connaitre ces véhicules aux étudiants, pour les intégrer dans les cursus et les utiliser comme supports pédagogiques.
+
+En complément l’XD Mobilité a choisi dès le départ de questionner les gigafactory pour fabriquer des véhicules dont nous souhaitons qu’ils soient à durée de vie très longue. Pour cela, nous explorons et travaillons les concepts de micro usines et [usine distribuée](https://wikixd.fabmob.io/wiki/Usine_%C3%A0_v%C3%A9hicule_distribu%C3%A9e) (p97) pour renforcer les compétences dans les phases de maintenance, de reconditionnement. Un réseau distribué d’usine va offrir de nouveaux services aux consommateurs, mais également permettre aux constructeurs de réduire les besoins d’investissement.
+
+Convaincu de l’importance des territoires dans l’industrialisation « contextualisée », l'auteur soutient l’idée de créer des fonds régionaux (p75). Pour les véhicules intermédiaires, ceci pourrait conduire à inviter une ou 2 régions à créer une première filière de véhicules à hautes performances environnementales, réparables, sources d’emplois non délocalisables, capables de produire des véhicules directement utilisables par les services publics des territoires, structures publiques (p66-67). Cette industrialisation d’une nouvelle offre viendra en cohérence avec un aménagement du territoire permettant de créer les conditions favorables à leur circulation.
+
+La méthode développée et utilisée dans l’XD Mobilité pourrait se répliquer dans d’autres domaines en s’appuyant sur de nombreuses propositions contenues dans cet ouvrage.
+
+Retrouvez également un échange avec l’auteur dans ce [podcast](https://open.spotify.com/episode/0b3TN3xjEdUmYUky0zzY5H?si=e5d13c62e7484889).

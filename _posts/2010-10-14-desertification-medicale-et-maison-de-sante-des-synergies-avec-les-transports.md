@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Désertification médicale et maison de santé, des synergies avec les transports ?"
-date: 2010-10-14 11:35:31 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['maison de la mobilité', 'Santé', 'Service de mobilité']
-=======
-tags: ["maison de la mobilit\u00e9", "Sant\u00e9", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-10-14
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/10/desertification-medicale-et-maison-de-sante-des-synergies-avec-les-transports.html"
+tags: ["maison de la mobilité", "Santé", "Service de mobilité"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/10/14/desertification-medicale-et-maison-de-sante-des-synergies-avec-les-transports/
 ---
 
 Aujourd'hui, une dizaine de régions françaises se caractérisent par une faible densité médicale. La situation devrait s'aggraver car, d'une part, de nombreux généralistes vont partir en retraite dans les prochaines années et, d'autre part, seul un étudiant en médecine sur dix compte ouvrir un cabinet.
@@ -18,7 +19,7 @@ Il est intéressant de noter certaines analogies aux secteurs des mobilités dan
 
  
 
-La gazette des communes aborde dans son **[numéro d’août 2010](http://www.lagazettedescommunes.com/sommaire/2041.pdf)** ce sujet. Désertification médicale, les maisons de santé sont appelées à la rescousse.  Attachés à répondre aux enjeux futurs qui se posent à notre système de santé, **les Ministres chargé de la santé, des secrétariats d’Etat à la politique de la ville ainsi qu’à l’aménagement du territoire ont mis en place une mission portant sur « le développement des maisons et pôles de santé »**. Réaffirmant leur volonté de développer de nouvelles structures de regroupement pluri professionnel, ils demandent d’en identifier les obstacles ainsi que les facteurs de réussite et sont en attente de propositions de nature à soutenir leur déploiement. **[Le rapport récent « le bilan des maisons et des pôles de santé et les propositions pour leur déploiement »](/assets/images/2010/10/0000.pdf) **présente les conclusions et recommandations. 
+La gazette des communes aborde dans son **[numéro d’août 2010](http://www.lagazettedescommunes.com/sommaire/2041.pdf)** ce sujet. Désertification médicale, les maisons de santé sont appelées à la rescousse.  Attachés à répondre aux enjeux futurs qui se posent à notre système de santé, **les Ministres chargé de la santé, des secrétariats d’Etat à la politique de la ville ainsi qu’à l’aménagement du territoire ont mis en place une mission portant sur « le développement des maisons et pôles de santé »**. Réaffirmant leur volonté de développer de nouvelles structures de regroupement pluri professionnel, ils demandent d’en identifier les obstacles ainsi que les facteurs de réussite et sont en attente de propositions de nature à soutenir leur déploiement. **[Le rapport récent « le bilan des maisons et des pôles de santé et les propositions pour leur déploiement »]({{ site.baseurl }}/assets/images/2010/10/0000.pdf) **présente les conclusions et recommandations. 
 
  
 
@@ -74,9 +75,5 @@ Si les formes d’exercice pluri professionnel ne peuvent être à elles seules 
 
  
 
-<<<<<<< HEAD
 La mission souhaite conclure son rapport ***en alertant les pouvoirs publics et l’université sur l’importance à donner à la formation et à la recherche. ***Les enjeux actuels qui se posent concernant l’évolution du dispositif de premier recours ne pourront être atteints que si les professionnels de santé, qu’ils soient médecins ou paramédicaux, connaissent ces exercices coopératifs, et ont pu, au cours de leur cursus, se confronter à leurs pratique
-=======
-La mission souhaite conclure son rapport ***en alertant les pouvoirs publics et l’université sur l’importance à donner à la formation et à la recherche. ***Les enjeux actuels qui se posent concernant l’évolution du dispositif de premier recours ne pourront être atteints que si les professionnels de santé, qu’ils soient médecins ou paramédicaux, connaissent ces exercices coopératifs, et ont pu, au cours de leur cursus, se confronter à leurs pratique_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 s.

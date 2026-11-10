@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Revoir l'ADN de l'automobile par GM et SAIC"
-date: 2010-03-25 09:28:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['batterie', 'chine', 'cité', 'connectivité', 'Efficacité énergétique', 'Infrastructure', 'internet', 'partage de données', 'Service de mobilité']
-=======
-tags: ["batterie", "chine", "cit\u00e9", "connectivit\u00e9", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure", "internet", "partage de donn\u00e9es", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/revoir-ladn-de-lautomobile-par-gm-et-saic.html"
+tags: ["batterie", "chine", "cité", "connectivité", "Efficacité énergétique", "Infrastructure", "internet", "partage de données", "Service de mobilité"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/03/25/revoir-ladn-de-lautomobile-par-gm-et-saic/
 ---
 
 GM vient d'annoncer ([**ici**](http://media.gm.com/content/media/us/en/news/news_detail.globalnews.html/content/Pages/news/global/en/2010/0324_env)) la présentation avec SAIC (Shangai Automotive Industry Corp. qui a racheté Rover et qui envisage de racheter Volvo Car) d'un concept de véhicule 2 places électriques communicants, intégrés dans des services, autonomes ou conduits. Un constructeur américain habitué aux 4x4 avec un constructeur chinois propose de revoir l'ADN de l'automobile ... au delà de ce concept qui sera capable de faire vraiment ce grand bond ?
@@ -54,7 +55,7 @@ General Motors and its strategic partner, Shanghai Automotive Industry Corp. Gro
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a9744b06970b-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a9744b06970b-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a9744b06970b-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a9744b06970b-pi.jpg) 
  
 
  
@@ -187,11 +188,7 @@ EN-V has been designed for the speed and range of today’s urban drivers.  It 
 
  
 
-<<<<<<< HEAD
 While EN-V leads the way in terms of efficiency and technology, it also sets a new benchmark for vehicle design.  For its debut, GM had design teams around the world provide their vision of what future mobility will look like.  Xiao (Laugh
-=======
-While EN-V leads the way in terms of efficiency and technology, it also sets a new benchmark for vehicle design.  For its debut, GM had design teams around the world provide their vision of what future mobility will look like.  Xiao (Laugh_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 ) was designed by GM Holden’s design team in Australia, while the look of Jiao (Pride) was penned by designers at GM Europe and Miao (Magic) was designed at the General Motors Advanced Design Studio in the U.S. state of California.  
 
  

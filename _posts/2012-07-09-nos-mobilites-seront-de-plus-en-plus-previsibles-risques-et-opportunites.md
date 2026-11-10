@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Nos mobilités seront de plus en plus prévisibles, risques et opportunités"
-date: 2012-07-09 17:54:56 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['autorité des transports', 'donnée data', 'données réelles', 'Energie', 'gouvernance', 'Infrastructure', 'innovation']
-=======
-tags: ["autorit\u00e9 des transports", "donn\u00e9e data", "donn\u00e9es r\u00e9elles", "Energie", "gouvernance", "Infrastructure", "innovation"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-07-09
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/07/nos-mobilites-seront-de-plus-en-plus-previsibles-risques-et-opportunites.html"
+tags: ["autorité des transports", "donnée data", "données réelles", "Energie", "gouvernance", "Infrastructure", "innovation"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2012/07/09/nos-mobilites-seront-de-plus-en-plus-previsibles-risques-et-opportunites/
 ---
 
 En fait, elles sont déjà prévisibles mais nous ne sommes pas capables de le matérialiser et de l'utiliser. C'est à la fois un avantage, une sécurité notamment pour des utilisations marchandes non voulues, mais c'est aussi un frein à l'optimisation de nos systèmes de transports, de nos infrastructures. [**Des chercheurs anglais**](http://www.technologyreview.com/news/428441/a-phone-that-knows-where-youre-going/) aidés par Nokia ont montré que nos mobilités sont prévisibles, d'autant  plus quand nous intégrons les mobilités de notre réseau social. 
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b016768520532970b-500wi.jpg)](/assets/images/old/6a0120a66d2ad4970b016768520532970b-pi.jpg)
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b016768520532970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b016768520532970b-pi.jpg)
 
  
 

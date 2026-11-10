@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Téléphériques en France. Montagne 1143 / Ville 0."
-date: 2013-11-07 12:05:46 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['cité', 'collectivité', 'commuter', 'congestion', 'Efficacité énergétique', 'Infrastructure']
-=======
-tags: ["cit\u00e9", "collectivit\u00e9", "commuter", "congestion", "Efficacit\u00e9 \u00e9nerg\u00e9tique", "Infrastructure"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-11-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/11/telepheriques-en-france-montagne-1143-ville-0.html"
+tags: ["cité", "collectivité", "commuter", "congestion", "Efficacité énergétique", "Infrastructure"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2013/11/07/telepheriques-en-france-montagne-1143-ville-0/
 ---
 
 [Il s'agit d'un billet invité, bienvenue à Charlotte Boffetti, **[Creative Urban Projects](http://gondolaproject.com/gondola-project-team/)**]
@@ -30,7 +31,7 @@ Algérie, Brésil, Colombie, Etats Unis et bien d’autres pays bénéficient d�
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b019b00c39f98970c-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b019b00c39f98970c-pi.jpg)
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b00c39f98970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b00c39f98970c-pi.jpg)
 *Medellin – Metrocable - Ligne J, ** **Image : [Gondola Project](http://gondolaproject.com/)*
 
  
@@ -43,7 +44,7 @@ Medellin est peut être l’exemple le plus connu, mais d’autres villes telles
 
  
 
-* [![](/assets/images/old/6a0120a66d2ad4970b019b00c4084d970d-800wi.jpg)](/assets/images/old/6a0120a66d2ad4970b019b00c4084d970d-pi.jpg)
+* [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b00c4084d970d-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b00c4084d970d-pi.jpg)
 *
 
  

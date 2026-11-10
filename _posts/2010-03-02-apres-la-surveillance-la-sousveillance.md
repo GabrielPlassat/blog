@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "MétaNote TdF 3, La surveillance"
-date: 2010-03-02 15:44:19 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['assurance', 'citoyen', 'données réelles', 'internet', 'partage de données', 'PAYD', "qualité de l'air"]
-=======
-tags: ["assurance", "citoyen", "donn\u00e9es r\u00e9elles", "internet", "partage de donn\u00e9es", "PAYD", "qualit\u00e9 de l'air"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: " MARGIN: 0pt\"\"><span style=\"\"FONT-FAMILY: Calibri\"\"><font size=\"\"3\"\">Cet équilibre surveillance/sousveillance pourrait permettre de maîtriser les dérives, d’instaurer un miroir, et donner une position forte à l’organisme de contrôle comme la CNIL, en espérant que la sousveillance ne soit pas, à son tour, gérée par des sociétés privées.<o:p></o:p></font></span></p>\""
+tags: ["assurance", "citoyen", "données réelles", "internet", "partage de données", "PAYD", "qualité de l'air"]
+theme: "Données & services numériques"
+redirect_from:
+  - /2010/03/02/apres-la-surveillance-la-sousveillance/
 ---
 
 En matière de transport, la surveillance s'exprime aujourd'hui essentiellement par le biais des contrôles de vitesse qui, par l'automatisation, ont pu se développer rapidement ces dernières années. Ainsi depuis 2003, la France a mis en place un système de contrôle automatisé de la vitesse sur les routes qui jalonnent son territoire, principalement dans le but de renforcer la sécurité routière et de réduire ainsi le coût, à la fois humain et économique, des accidents de la route. Il est évident que cette mesure a largement participé à la baisse considérable du nombre de morts sur les routes françaises (inférieur à 5 000 en 2007 alors qu'il dépassait 10 000 à la fin des années 1980).
@@ -64,7 +65,7 @@ Cette sur-veillance par les pouvoirs publics de la mobilité pourrait donc se d�
 
  
 
-Les compagnies privées, essentiellement des assurances, proposent déjà aujourd’hui par le biais de système « **[Pay as You Drive](http://www.payd.fr/)** », d’équiper votre véhicule d’un boitier de surveillance. L’idée est simple, si vous respectez les « règles » (ie limitations de vitesse), si vous réduisez le kilométrage parcouru, si vous ne conduisez pas la nuit, si … alors vous paierez moins cher d’assurance. Ce sujet, déjà détaillé **[ici](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**, est essentiel, car les compagnies d’assurance vont prendre de plus en plus le relais des pouvoirs publics dans de nombreux domaines dont la santé et les transports. L’accès à la connaissance **des usages réels** permettra à ces sociétés de mieux quantifier les risques mais également de nous conduire à respecter des règles imposées. **Voir le film sur ce sujet de Conversation d’Avenirs**.
+Les compagnies privées, essentiellement des assurances, proposent déjà aujourd’hui par le biais de système « **[Pay as You Drive](http://www.payd.fr/)** », d’équiper votre véhicule d’un boitier de surveillance. L’idée est simple, si vous respectez les « règles » (ie limitations de vitesse), si vous réduisez le kilométrage parcouru, si vous ne conduisez pas la nuit, si … alors vous paierez moins cher d’assurance. Ce sujet, déjà détaillé **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**, est essentiel, car les compagnies d’assurance vont prendre de plus en plus le relais des pouvoirs publics dans de nombreux domaines dont la santé et les transports. L’accès à la connaissance **des usages réels** permettra à ces sociétés de mieux quantifier les risques mais également de nous conduire à respecter des règles imposées. **Voir le film sur ce sujet de Conversation d’Avenirs**.
 
  
 
@@ -96,7 +97,7 @@ Certains observateurs, comme Steve Mann, un ancien du Media Lab du MIT, ou l’a
 
  
 
-Dans le domaine des transports, nous devons imaginer cette deuxième phase de sousveillance et d’équiveillance. Certains constructeurs proposent des éthylotests anti-démarrage (voir **[ici](/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html)**), c’est déjà un mécanisme d’équiveillance puisque je m’autocontrôle. Le système « Pay As You Drive » est également d’une certaine façon, une autosurveillance par l'intermédiaire d'une société privée qui me récompense pour bonne conduite". Il faut rappeler que le gouvernement Hollandais essaye de mettre en oeuvre un tel système à tous les véhicules du pays pour gérer notamment la congestion (**[Roadpricing]()**).
+Dans le domaine des transports, nous devons imaginer cette deuxième phase de sousveillance et d’équiveillance. Certains constructeurs proposent des éthylotests anti-démarrage (voir **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**), c’est déjà un mécanisme d’équiveillance puisque je m’autocontrôle. Le système « Pay As You Drive » est également d’une certaine façon, une autosurveillance par l'intermédiaire d'une société privée qui me récompense pour bonne conduite". Il faut rappeler que le gouvernement Hollandais essaye de mettre en oeuvre un tel système à tous les véhicules du pays pour gérer notamment la congestion (**[Roadpricing]()**).
 
  
 
@@ -108,10 +109,6 @@ La sousveillance pourrait voir le jour grâce aux communautés sur internet qui 
 
 Cet équilibre surveillance/sousveillance pourrait permettre de maîtriser les dérives, d’instaurer un miroir, et donner une position forte à l’organisme de contrôle comme la CNIL, en espérant que la sousveillance ne soit pas, à son tour, gérée par des sociétés privées.
 
-<<<<<<< HEAD
 "2010-03-02 15:44:19https://transportsdufutur.ademe.fr/2010/03/apres-la-surveillance-la-sousveillance.htmlMétaNotesassurance|citoyen|données réelles|internet|partage de données|PAYD|qualité de l'airpublish18gabriel plassatapres-la-surveillance-la-sousveillance2017-11-02 16:38:34MARGIN: 0pt"">Cet équilibre surveillance/sousveillance pourrait permettre de maîtriser les dérives, d’instaurer un miroir, et donner une position forte à l’organisme de contrôle comme la CNIL, en espérant que la sousveillance ne soit pas, à son tour, gérée par des sociétés privées.
-=======
-"2010-03-02 15:44:19/2010/03/02/apres-la-surveillance-la-sousveillance/MétaNotesassurance|citoyen|données réelles|internet|partage de données|PAYD|qualité de l'airpublish18gabriel plassatapres-la-surveillance-la-sousveillance2017-11-02 16:38:34MARGIN: 0pt"">Cet équilibre surveillance/sousveillance pourrait permettre de maîtriser les dérives, d’instaurer un miroir, et donner une position forte à l’organisme de contrôle comme la CNIL, en espérant que la sousveillance ne soit pas, à son tour, gérée par des sociétés privées.
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
 "

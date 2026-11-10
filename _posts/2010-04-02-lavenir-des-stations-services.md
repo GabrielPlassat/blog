@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "L'avenir des stations services"
-date: 2010-04-02 11:16:17 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'Infrastructure']
-=======
+date: 2010-04-02
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/lavenir-des-stations-services.html"
 tags: ["Energie", "Infrastructure"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/04/02/lavenir-des-stations-services/
 ---
 
 Il est intéressant de connaître les évolutions prévues pour les stations services de carburants fossiles quand de nouvelles énergies souhaitent se développer. Opportunités de changement ? Est ce que la station service ne doit pas devenir un lieu multimodal, multiénergies, un lieu de commerce où les marchandises commandées sur internet rencontreront les personnes, mobile en fonction de la demande ?

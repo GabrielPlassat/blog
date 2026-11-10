@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Une spatule, une poêle et des clés de voiture"
-date: 2009-11-25 11:42:13 +0100
-categories: []
-<<<<<<< HEAD
-tags: ["Plateforme d'idées", 'Précarité', 'Véhicule']
-=======
-tags: ["Plateforme d'id\u00e9es", "Pr\u00e9carit\u00e9", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-11-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/11/une-spatule-une-poele-et-des-cles-de-voiture.html"
+tags: ["Plateforme d'idées", "Précarité", "Véhicule"]
+theme: "Énergie, émissions & consommateurs"
+redirect_from:
+  - /2009/11/25/une-spatule-une-poele-et-des-cles-de-voiture/
 ---
 
 Sur une publicité d’une **[compagnie de prévoyance](http://www.hcrprevoyance.fr/)**, des clés de voiture sont placées à coté d’ustensiles de cuisine. Cette société spécialisée dans les métiers de l'hotellerie propose un [**soutien financier pour passer le permis**](http://www.hcrprevoyance.fr/contenu/documents/modalites_pratiques/fORMULAIRE%20AUTO%20ECOLE%20030209.pdf), ce qui est particulièrement intéressant quand on commence à travailler . La mobilité automobile apparaît ici comme une indispensable pour accéder à un métier, au même titre qu’une formation professionnelle, dans ce cas de cuisinier, apprenti ou saisonnier de la branche Hôtel-Café-Restaurant. 
@@ -18,7 +19,7 @@ Sur une publicité d’une **[compagnie de prévoyance](http://www.hcrprevoyance
 
  
 
-Cette catégorie professionnelles, aux horaires décalés et aux faibles salaires, est particulièrement dépendante de l’automobile. A la fois **[drogue et remède](/2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites.html)**, elle donne accès au travail, et une fois salarié, vous contraint à l’utiliser, à en faire une de vos priorités budgétaires.
+Cette catégorie professionnelles, aux horaires décalés et aux faibles salaires, est particulièrement dépendante de l’automobile. A la fois **[drogue et remède]({{ site.baseurl }}/2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites/)**, elle donne accès au travail, et une fois salarié, vous contraint à l’utiliser, à en faire une de vos priorités budgétaires.
 
  
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Appel à projet européen FP7 2013 (draft) Transports & Mobilités"
-date: 2012-07-04 18:09:23 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['FP7', 'innovation', 'multimodes', 'open source', 'Service de mobilité']
-=======
-tags: ["FP7", "innovation", "multimodes", "open source", "Service de mobilit\u00e9"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2012-07-04
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2012/07/appel-a-projet-europeen-fp7-2013-draft-transports-mobilites.html"
+tags: ["FP7", "innovation", "multimodes", "open source", "Service de mobilité"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2012/07/04/appel-a-projet-europeen-fp7-2013-draft-transports-mobilites/
 ---
 
 Une version provisoire est disponible de cet Appel à projet portant sur les Transports et toutes les thématiques de la mobilité.

@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Votre réputation (numérique) sera votre monnaie, et la base de votre implication altruiste"
-date: 2013-04-17 10:42:00 +0100
-categories: []
+date: 2013-04-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "padding-left: 30px\"\"><em>Suite au rapport français Colin&Collin paru en 2013, une fronde s’étend en Europe. La réutilisation des données personnelles, symbolisée par les « Big Data », fait l’objet de luttes sociales et politiques importantes. Les entreprises pratiquant l’analyse et la réutilisation des données personnelles se voient contraintes, à partir de 2014, de"
 tags: []
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2013/04/17/votre-reputation-numerique-sera-votre-monnaie-et-la-base-de-votre-implication-altruiste/
 ---
 
-L’automobile n’a pas été inventée en faisant des innovations sur la calèche. Alors qu’il existait une industrie du foin, il n’existait pas d’industrie du carburant liquide, ou d’industrie du pneumatique. Cet écosystème complexe (au sens du **[complexus](/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe.html)**, tissé ensemble) s’est auto-alimenté autour d’un futur crédible et souhaitable, **[reprenant JP Dupuy](/2012/05/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient.html)**, d’une création, l’automobile, objet de liberté et de productivité.
+L’automobile n’a pas été inventée en faisant des innovations sur la calèche. Alors qu’il existait une industrie du foin, il n’existait pas d’industrie du carburant liquide, ou d’industrie du pneumatique. Cet écosystème complexe (au sens du **[complexus]({{ site.baseurl }}/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe/)**, tissé ensemble) s’est auto-alimenté autour d’un futur crédible et souhaitable, **[reprenant JP Dupuy]({{ site.baseurl }}/2012/05/jean-pierre-dupuy-nous-apporte-dans-son-dernier-ouvrage-des-pistes-de-reflexion-pour-nous-aider-a-penser-le-monde-qui-vient/)**, d’une création, l’automobile, objet de liberté et de productivité.
 
  
 
@@ -14,7 +19,7 @@ Nos systèmes de transports du futur, résilients, économes, efficients, multic
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b017eea3e0b68970d-320wi.jpg)](/assets/images/old/6a0120a66d2ad4970b017eea3e0b68970d-pi.jpg) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017eea3e0b68970d-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b017eea3e0b68970d-pi.jpg) 
 
  
 Pour réaliser cette projection, nous (citoyens) devons accéder à un niveau de connaissance « supérieur » à la fois de nos pratiques quotidiennes essentiellement portées par l’automobile et les 1er services de mobilité. Il nous faut également progresser sur nos représentations de ces mobilités, et sur des processus de conception de solutions de mobilité/immobilité adaptées à nos futurs modes de vie et de collaboration, nos futures entreprises, nos futures cités. Il s’agit bien de pure création d’un nouvel écosystème crédible et souhaitable. **Et si la principale innovation n'était pas une solution de mobilité, mais des outils de représentations de nos pratiques, pour mieux intégrer ces feedbacks dans le design des systèmes de transport ?** 

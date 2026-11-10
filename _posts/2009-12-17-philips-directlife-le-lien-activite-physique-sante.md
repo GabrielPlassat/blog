@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Philips DirectLife, le lien activité physique – santé"
-date: 2009-12-17 17:37:47 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Philips', "Plateforme d'idées", 'Santé', 'TIC']
-=======
-tags: ["Philips", "Plateforme d'id\u00e9es", "Sant\u00e9", "TIC"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2009-12-17
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2009/12/philips-directlife-le-lien-activite-physique-sante.html"
+tags: ["Philips", "Plateforme d'idées", "Santé", "TIC"]
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2009/12/17/philips-directlife-le-lien-activite-physique-sante/
 ---
 
-L’article «**[ Mobilité, Obésité, Santé, Innovons…vite ! ](/2009/11/mobilite-obesite-sante-innovons-vite.html)**» détaillait le lien activité physique, santé et mobilité. **[Philips propose un objet](http://www.directlife.philips.com/companies/health_benefit/)** portable permettant de réaliser ce lien, et également des services associés pour les entreprises dans le but de favoriser l’activité physique, source de bien être pour les salariés, d’absentéisme réduit, et de productivité améliorée. Il faut rappeler que **[Virgin Health Miles](http://virginhealthmiles.com/)** propose également un système similaire aux USA, mais l’arrivée d’un géant comme Philips montre l’intérêt de ce type de produit.
+L’article «**[ Mobilité, Obésité, Santé, Innovons…vite ! ](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/2009/11/mobilite-obesite-sante-innovons-vite.html)**» détaillait le lien activité physique, santé et mobilité. **[Philips propose un objet](http://www.directlife.philips.com/companies/health_benefit/)** portable permettant de réaliser ce lien, et également des services associés pour les entreprises dans le but de favoriser l’activité physique, source de bien être pour les salariés, d’absentéisme réduit, et de productivité améliorée. Il faut rappeler que **[Virgin Health Miles](http://virginhealthmiles.com/)** propose également un système similaire aux USA, mais l’arrivée d’un géant comme Philips montre l’intérêt de ce type de produit.
 
  
 
@@ -20,11 +21,11 @@ L’article «**[ Mobilité, Obésité, Santé, Innovons…vite ! ](/2009/11/
 
  
 
-![](/assets/images/old/6a0120a66d2ad4970b0120a75d7059970b-500pi.jpg)Cet objet trace vos activités physiques, estime la consommation énergétique et connaissant votre âge, taille et masse, vous conseille pour améliorer votre état de santé : graphiques, analyses des données…
+![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a75d7059970b-500pi.jpg)Cet objet trace vos activités physiques, estime la consommation énergétique et connaissant votre âge, taille et masse, vous conseille pour améliorer votre état de santé : graphiques, analyses des données…
 
  
 
-[](/assets/images/old/6a0120a66d2ad4970b0120a75d7059970b-pi.jpg)
+[]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a75d7059970b-pi.jpg)
 
  
 

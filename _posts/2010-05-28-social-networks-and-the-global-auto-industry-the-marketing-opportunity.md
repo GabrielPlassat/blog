@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Social networks and the global auto industry: the marketing opportunity"
-date: 2010-05-28 12:05:01 +0100
-categories: []
+date: 2010-05-28
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/05/social-networks-and-the-global-auto-industry-the-marketing-opportunity.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/05/28/social-networks-and-the-global-auto-industry-the-marketing-opportunity/
 ---
 
 As Web 2.0 matures and permeates deeper into everyday life, vehicle manufacturers and marketing agencies are starting to appreciate that powerful new opportunities are opening up, offering new ways of communicating with customers. Creating groups, networks and profiles via social networking websites such as Twitter and Facebook brings new interactions, but also challenges; not least, how is effectiveness measured? 

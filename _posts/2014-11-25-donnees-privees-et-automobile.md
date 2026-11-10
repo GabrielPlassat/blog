@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Données privées et Automobile"
-date: 2014-11-25 12:33:39 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Apple', 'art de la guerre', 'citoyen', 'collectivité', 'commuter', 'congestion', 'données réelles', 'emission', 'google', 'gouvernance', 'internet', 'marketing', 'marketing individualisé', 'partage de données', 'propaganda', 'richesse', 'surveillance', 'transparence', 'véhicule propre']
-=======
-tags: ["Apple", "art de la guerre", "citoyen", "collectivit\u00e9", "commuter", "congestion", "donn\u00e9es r\u00e9elles", "emission", "google", "gouvernance", "internet", "marketing", "marketing individualis\u00e9", "partage de donn\u00e9es", "propaganda", "richesse", "surveillance", "transparence", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2014-11-25
+source: tdf
+source_name: "Transports du Futur"
+original_url: "><a class=\"\"asset-img-link\"\" href=\"\"/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b01b7c70f726f970b-pi.jpg\"\" style=\"\"display: inline"
+tags: ["Apple", "art de la guerre", "citoyen", "collectivité", "commuter", "congestion", "données réelles", "emission", "google", "gouvernance", "internet", "marketing", "marketing individualisé", "partage de données", "propaganda", "richesse", "surveillance", "transparence", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2014/11/25/donnees-privees-et-automobile/
 ---
 
 Le numérique ne fait pas que résoudre d'anciens problèmes, il en crée de nouveaux. Plus complexes, plus transversaux. Une fois numérique, l'automobile produit des données, beaucoup de données. D'abord utilisées uniquement à bord", en boucle fermée, les données ont été produites et utilisées par des actionneurs, pour des questions de sécurité (ABS et autre), de pilotage du moteur et des systèmes de post-traitement, de confort. Jusqu'à présent, l'automobile et son conducteur auto-produisent des données qui sont directement utilisées par l'automobile pour fonctionner. Demain, le duo "auto-conducteur" vont produire des données géolocalisées qui vont "sortir" de l'automobile. **Le duo auto-conducteur devient un geyser de données multiples, hétérogènes, contextualisées, extrêmement riches.**
@@ -87,11 +88,7 @@ Cette approche de la donnée révèle avant tout une posture, celle d'une filiè
 
  
 
-<<<<<<< HEAD
  ** [Consumer privacy Automotive]() ** from **[Les transports du futur]()**"2014-11-25 12:33:39https://transportsdufutur.ademe.fr/2014/11/donnees-privees-et-automobile.htmlApple|art de la guerre|citoyen|collectivité|commuter|congestion|données réelles|emission|google|gouvernance|internet|marketing|marketing individualisé|partage de données|propaganda|richesse|surveillance|transparence|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdonnees-privees-et-automobile2015-07-21 16:35:27>[![]()]()
-=======
- ** [Consumer privacy Automotive]() ** from **[Les transports du futur]()**"2014-11-25 12:33:39/2014/11/25/donnees-privees-et-automobile/Apple|art de la guerre|citoyen|collectivité|commuter|congestion|données réelles|emission|google|gouvernance|internet|marketing|marketing individualisé|partage de données|propaganda|richesse|surveillance|transparence|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdonnees-privees-et-automobile2015-07-21 16:35:27>[![]()]()
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 
  
 

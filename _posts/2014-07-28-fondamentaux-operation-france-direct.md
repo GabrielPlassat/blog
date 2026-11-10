@@ -1,29 +1,29 @@
 ---
 layout: post
 title: "Les fondamentaux de l'Opération France Direct"
-date: 2014-07-28 16:09:40 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['art de la guerre']
-=======
+date: 2014-07-28
+source: tdf
+source_name: "Transports du Futur"
 tags: ["art de la guerre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2014/07/28/fondamentaux-operation-france-direct/
 ---
 
 *Cet article a été rédigé par Vincent Bendetti*.
 
  
 
-Pour mieux comprendre les fondamentaux de l'[**Opération France Direct**](/2014/07/operation-france-direct-une-technologie-pour-changer-la-vie.html), deux documents en diffusion libre sont consultables :
+Pour mieux comprendre les fondamentaux de l'[**Opération France Direct**]({{ site.baseurl }}/2014/07/operation-france-direct-une-technologie-pour-changer-la-vie/), deux documents en diffusion libre sont consultables :
 
 **Théorie de la mobilité appliquée aux services publics**
 
-[chapitre 1](/assets/images/2014/07/theorie-de-la-mobilite-chapitre-1.pdf) : - d'où nous vient la mobilité?
+[chapitre 1]({{ site.baseurl }}/assets/images/2014/07/theorie-de-la-mobilite-chapitre-1.pdf) : - d'où nous vient la mobilité?
                 - loi de mobilité maximale et loi de Zahavi 
                   (constance du temps consacré à la mobilité)
                 - la relation fondamentale entre perception et mobilité
 
-[chapitre 2](/assets/images/2014/07/theorie-de-la-mobilite-chapitre-2.pdf) : - l'évolution vers la mobilité mécanisée
+[chapitre 2]({{ site.baseurl }}/assets/images/2014/07/theorie-de-la-mobilite-chapitre-2.pdf) : - l'évolution vers la mobilité mécanisée
                 - les maladies de la mobilité passive
                 - un mauvais usage du numérique : la mobilité distraite
                 - la mobilité vers les services publics

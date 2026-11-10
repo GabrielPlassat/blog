@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "$600 millions d'aide pour des projets liés aux Transports aux USA"
-date: 2010-11-24 21:50:15 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Infrastructure', 'innovation']
-=======
+date: 2010-11-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/11/600-millions-daide-pour-des-projets-lies-aux-transports-aux-usa.html"
 tags: ["Infrastructure", "innovation"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/11/24/600-millions-daide-pour-des-projets-lies-aux-transports-aux-usa/
 ---
 
 Earlier this week, the **[U.S. Department of Transportation ](http://t4america.org/blog/2010/10/22/tiger-map-launch/)**gave out $600 million in grants for innovative transportation projects across the country that address economic, environmental and travel issues at once.

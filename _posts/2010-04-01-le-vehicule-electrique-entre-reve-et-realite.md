@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "le Véhicule Electrique entre rêve et réalité"
-date: 2010-04-01 08:27:14 +0100
-categories: []
+date: 2010-04-01
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/04/le-vehicule-electrique-entre-reve-et-realite.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/04/01/le-vehicule-electrique-entre-reve-et-realite/
 ---
 
 C'est aujourd'hui que Mitsubishi débute les ventes de sa voiture électrique i-MiEV pour les particuliers au Japon. Pour rappel, la voiture était déjà disponible pour les professionnels au Japon depuis le mois de juillet 2009.

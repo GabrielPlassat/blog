@@ -1,21 +1,22 @@
 ---
 layout: post
 title: "Les nouveaux dispositifs d'innovations collectifs"
-date: 2013-10-29 08:51:10 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['holoptisme', 'innovation', 'intelligence collective', 'internet', 'open innovation', 'pensée complexe', 'philosophie', 'TED']
-=======
-tags: ["holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "pens\u00e9e complexe", "philosophie", "TED"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2013-10-29
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2013/10/les-nouveaux-dispositifs-dinnovations-collectifs.html"
+tags: ["holoptisme", "innovation", "intelligence collective", "internet", "open innovation", "pensée complexe", "philosophie", "TED"]
+theme: "Intelligence collective & innovation"
+redirect_from:
+  - /2013/10/29/les-nouveaux-dispositifs-dinnovations-collectifs/
 ---
 
-Rassembler un écosystème étendu, hétérogène, pluriel, avec de nombreuses contraintes industrielles et économiques, des histoires et des modes de pensées. Lui donner les conditions de se rencontrer, de se sentir en tant que groupe. Sans modifier les spécificités individuelles, lui permettre de faire émerger une conscience collective, une émanation du tout, à la fois supérieur à la somme des parties et inférieur. Accéder à une sensation **[d'holoptisme](/2011/09/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements.html)**.
+Rassembler un écosystème étendu, hétérogène, pluriel, avec de nombreuses contraintes industrielles et économiques, des histoires et des modes de pensées. Lui donner les conditions de se rencontrer, de se sentir en tant que groupe. Sans modifier les spécificités individuelles, lui permettre de faire émerger une conscience collective, une émanation du tout, à la fois supérieur à la somme des parties et inférieur. Accéder à une sensation **[d'holoptisme]({{ site.baseurl }}/2011/09/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements/)**.
 
  
 
- [![](/assets/images/old/6a0120a66d2ad4970b019b006b7c2d970d-500wi.jpg)](http://aviary.blob.core.windows.net/k-mr6i2hifk4wxt1dp-13102907/20c557e5-fdac-4fe1-9d05-5b822071912a.jpg)
-**Individuation**, chacun reste expert d'un domaine et joue son rôle, et **Reliance**, capable d'écouter et ressentir le collectif pour ajuster son action individuelle pour maximiser le bien commun. Accompagner le collectif en l'inspirant, en l'alimentant de concepts, d'idées, de récits, d'histoires racontés par des passionnés dont le seul objectif est de transmettre le goût de l'action, les valeurs du beau-bon-vrai, et la reconnaissance des multiples **[richesses](/2013/05/quelles-sont-vos-vraies-richesses-.html)** des projets et des personnes. Permettre à tous de s'engager. Intégralement.
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019b006b7c2d970d-500wi.jpg)](http://aviary.blob.core.windows.net/k-mr6i2hifk4wxt1dp-13102907/20c557e5-fdac-4fe1-9d05-5b822071912a.jpg)
+**Individuation**, chacun reste expert d'un domaine et joue son rôle, et **Reliance**, capable d'écouter et ressentir le collectif pour ajuster son action individuelle pour maximiser le bien commun. Accompagner le collectif en l'inspirant, en l'alimentant de concepts, d'idées, de récits, d'histoires racontés par des passionnés dont le seul objectif est de transmettre le goût de l'action, les valeurs du beau-bon-vrai, et la reconnaissance des multiples **[richesses]({{ site.baseurl }}/2013/05/quelles-sont-vos-vraies-richesses/)** des projets et des personnes. Permettre à tous de s'engager. Intégralement.
 
  
 

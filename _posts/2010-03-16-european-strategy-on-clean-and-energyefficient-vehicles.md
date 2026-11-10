@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "European Strategy on Clean and Energy-efficient vehicles"
-date: 2010-03-16 16:29:34 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Europe', 'véhicule propre']
-=======
-tags: ["Europe", "v\u00e9hicule propre"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-03-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/03/european-strategy-on-clean-and-energyefficient-vehicles.html"
+tags: ["Europe", "véhicule propre"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/03/16/european-strategy-on-clean-and-energyefficient-vehicles/
 ---
 
 On 11 March 2010, the Commission organized a public hearing on the European strategy on clean and energy efficient vehicles. By means of this public hearing, the Commission seeked to engage the stakeholders in a stock-taking with respect to clean and energy efficient vehicles and an assessment of future scenarios in terms of technology and market development including the role of the Commission with respect to these developments.
@@ -86,11 +87,7 @@ The two pillar structure clearly reflects the medium- and long-term vision prese
 
  
 
-<<<<<<< HEAD
 Much has been achieved within the **Commu
-=======
-Much has been achieved within the **Commu_x000D_
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
 nity strategy to reduce CO2 emissions from light duty vehicles**4. Yet, possible improvements in the efficiency of the conventional engine and all other relevant vehicle aspects remain the main target for reduced CO2 emissions in the 2020 perspective. With that timeline, the internal combustion engine (ICE) will remain the predominant propulsion technology and with its improved efficiency, it will make a major contribution to transport decarbonisation.
 
  

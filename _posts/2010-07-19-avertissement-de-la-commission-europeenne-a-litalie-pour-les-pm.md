@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Avertissement de la Commission européenne à l'Italie pour les PM"
-date: 2010-07-19 12:22:41 +0100
-categories: []
+date: 2010-07-19
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/avertissement-de-la-commission-europeenne-a-litalie-pour-les-pm.html"
 tags: []
+theme: "Déplacements, vélo & santé"
+redirect_from:
+  - /2010/07/19/avertissement-de-la-commission-europeenne-a-litalie-pour-les-pm/
 ---
 
 La Commission européenne a engagé une procédure contre l'Italie pour non‑respect des normes de l'UE en matière de qualité de l'air pour les particules dangereuses en suspension connues sous le nom de PM10. Il a été établi que ces particules, principalement émises par l'industrie, les véhicules et le chauffage domestique, peuvent provoquer de l'asthme, des problèmes cardiovasculaires, le cancer du poumon et entraîner une mort prématurée. Un deuxième et dernier avertissement écrit a donc été adressé à l'Italie pour dépassement des valeurs limites fixées pour les PM10 dans de nombreuses zones ou agglomérations de tout le pays. 

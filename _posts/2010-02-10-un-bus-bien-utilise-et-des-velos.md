@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Un bus bien utilisé\" et des vélos...\""
-date: 2010-02-10 15:03:50 +0100
-categories: []
+date: 2010-02-10
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/un-bus-bien-utilise-et-des-velos.html"
 tags: []
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/10/un-bus-bien-utilise-et-des-velos/
 ---
 
 Le Bus Rapid Transit (BRT) ou BHNS (Bus à Haut Niveau de Service) en France, c'est simplement la réalisation d'un système de mobilité incluant un bus dans lequel on a augmenté les limites du périmètre de l'étude, en prenant donc en compte l'infrastructure, le paiement, l'information, l'accès, le temps total (incluant donc l'attente)... Bref, c'est un bus bien utilisé. Quand on ajoute la possibilité d'embarquer son vélo (autre objet révolutionnaire qui permet de faire quelques kilomètres en quelques minutes, qui ne nécessite pas d'infrastructure lourde, qui ne coûte pas grand chose...) on obtient un nouveau système de mobilité qui combine la souplesse d'un mode actif à un mode lourd, et qui offre une rentabilité coût/efficacité quasi imbattable. Ci dessous un exemple aux USA ... qui nous vient historiquement de Bogota (*le Sud apporte au Nord, exemple N°1*).

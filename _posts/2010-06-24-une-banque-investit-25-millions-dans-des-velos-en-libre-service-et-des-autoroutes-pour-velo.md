@@ -1,25 +1,26 @@
 ---
 layout: post
 title: "Une banque investit 25 millions dans des Vélos en Libre Service et des autoroutes pour vélo"
-date: 2010-06-24 10:55:52 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['banque', 'données réelles', 'Infrastructure', 'internet', 'vélo']
-=======
-tags: ["banque", "donn\u00e9es r\u00e9elles", "Infrastructure", "internet", "v\u00e9lo"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-06-24
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/06/une-banque-investit-25-millions-dans-des-velos-en-libre-service-et-des-autoroutes-pour-velo.html"
+tags: ["banque", "données réelles", "Infrastructure", "internet", "vélo"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/06/24/une-banque-investit-25-millions-dans-des-velos-en-libre-service-et-des-autoroutes-pour-velo/
 ---
 
-[](/assets/images/old/6a0120a66d2ad4970b0133f1b84f1c970b-pi.gif) 
- [![](/assets/images/old/6a0120a66d2ad4970b0133f1b84f73970b-120pi.png)](/assets/images/old/6a0120a66d2ad4970b0133f1b84f73970b-pi.png) Barclays va financer une partie du système de Vélos en Libre Service (VLS) à Londres, ainsi que les infrastructures avec de véritables autoroutes (décrites **[ici](http://www.tfl.gov.uk/roadusers/cycling/11901.aspx)**) reliant la périphérie au centre, comme à **[Copenhague](/2010/04/des-autoroutes-a-velo.html)**.
+[]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f1b84f1c970b-pi.gif) 
+ [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f1b84f73970b-120pi.png)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0133f1b84f73970b-pi.png) Barclays va financer une partie du système de Vélos en Libre Service (VLS) à Londres, ainsi que les infrastructures avec de véritables autoroutes (décrites **[ici](http://www.tfl.gov.uk/roadusers/cycling/11901.aspx)**) reliant la périphérie au centre, comme à **[Copenhague]({{ site.baseurl }}/2010/04/des-autoroutes-a-velo/)**.
 
  
 
-Comme **[HSBC](/2010/01/hsbc-investit-90-millions-deuro-dans-better-place.html)** pour Better Place, Barclays finance des infrastructures et des solutions de mobilité innovantes.
+Comme **[HSBC]({{ site.baseurl }}/2010/01/hsbc-investit-90-millions-deuro-dans-better-place/)** pour Better Place, Barclays finance des infrastructures et des solutions de mobilité innovantes.
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013484df4693970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b013484df4693970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013484df4693970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013484df4693970c-pi.jpg) 
  
 
  
@@ -28,7 +29,7 @@ Comme **[HSBC](/2010/01/hsbc-investit-90-millions-deuro-dans-better-place.html)*
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b013484df490c970c-500pi.jpg)](/assets/images/old/6a0120a66d2ad4970b013484df490c970c-pi.jpg) 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013484df490c970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b013484df490c970c-pi.jpg) 
  
 
  

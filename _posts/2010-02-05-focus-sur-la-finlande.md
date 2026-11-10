@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Focus sur la Finlande"
-date: 2010-02-05 09:27:28 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['Energie', 'finlande', 'Infrastructure', 'nexbtl', 'Service de mobilité', 'TIC', 'Véhicule']
-=======
-tags: ["Energie", "finlande", "Infrastructure", "nexbtl", "Service de mobilit\u00e9", "TIC", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-05
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/focus-sur-la-finlande.html"
+tags: ["Energie", "finlande", "Infrastructure", "nexbtl", "Service de mobilité", "TIC", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/05/focus-sur-la-finlande/
 ---
 
 Comment un pays semi désertique, soumis à un climat rigoureux, habité par seulement 5.3 millions de personnes, se place en tête des classements internationaux (**[IDH](http://fr.wikipedia.org/wiki/Classement_IDH_des_pays)**, **[legatum prosperity](http://prosperity.com/country.aspx?id=FI)**), ainsi qu'en matière de recherche dans le domaine des transports.

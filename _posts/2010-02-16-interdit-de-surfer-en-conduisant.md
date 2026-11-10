@@ -1,25 +1,26 @@
 ---
 layout: post
 title: "Interdit de surfer en conduisant !"
-date: 2010-02-16 16:35:04 +0100
-categories: []
-<<<<<<< HEAD
-tags: ['connectivité', 'TIC', 'transition générationnelle', 'Véhicule']
-=======
-tags: ["connectivit\u00e9", "TIC", "transition g\u00e9n\u00e9rationnelle", "V\u00e9hicule"]
->>>>>>> 367d931c0bdecc6fccfc1ac0c8b8052776369bc4
+date: 2010-02-16
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/02/interdit-de-surfer-en-conduisant.html"
+tags: ["connectivité", "TIC", "transition générationnelle", "Véhicule"]
+theme: "Regards en anglais"
+redirect_from:
+  - /2010/02/16/interdit-de-surfer-en-conduisant/
 ---
 
-Le problème avec une voiture, c'est que le conducteur ne peut pas être connecter sur internet et surfer. A l'inverse, le bus de demain ne pourra pas faire l'économie d'un connectivité totale, gratuite et fiable (voir également **[précédente note](/2009/12/vers-des-bus-sans-chauffeur-mais-avec-plus-dechanges.html)**).
+Le problème avec une voiture, c'est que le conducteur ne peut pas être connecter sur internet et surfer. A l'inverse, le bus de demain ne pourra pas faire l'économie d'un connectivité totale, gratuite et fiable (voir également **[précédente note]({{ site.baseurl }}/2009/12/vers-des-bus-sans-chauffeur-mais-avec-plus-dechanges/)**).
 
  
 
-Quand 93% des moins de 29 ans se connectent au moins une fois par jour (étude **[Portrait of Generation Next](http://pewresearch.org/millennials/)**), pas uniquement avec des ordinateurs, quand le partage d'information et de contenu augmente avec les jeunes générations, il y aura de plus en plus de différence entre les modes de transport qui offrent une connectivité et les autres ...[![](/assets/images/old/6a0120a66d2ad4970b012877a92841970c-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b012877a92841970c-pi.jpg)  
+Quand 93% des moins de 29 ans se connectent au moins une fois par jour (étude **[Portrait of Generation Next](http://pewresearch.org/millennials/)**), pas uniquement avec des ordinateurs, quand le partage d'information et de contenu augmente avec les jeunes générations, il y aura de plus en plus de différence entre les modes de transport qui offrent une connectivité et les autres ...[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012877a92841970c-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b012877a92841970c-pi.jpg)  
 
  
 
-[![](/assets/images/old/6a0120a66d2ad4970b0120a8a69991970b-320pi.jpg)](/assets/images/old/6a0120a66d2ad4970b0120a8a69991970b-pi.jpg) 
-Cisco (encore ! voir dernière note sur le Personal Travel Assistant **[ici](/2010/02/personnal-travel-assistant-cisco.html)**) et la ville de San Francisco mènent un **[projet pilote](http://www.cisco.com/web/about/ac79/ps/cud/tcb.html)**. 
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a8a69991970b-320pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0120a8a69991970b-pi.jpg) 
+Cisco (encore ! voir dernière note sur le Personal Travel Assistant **[ici]({{ site.baseurl }}/2010/02/personnal-travel-assistant-cisco/)**) et la ville de San Francisco mènent un **[projet pilote](http://www.cisco.com/web/about/ac79/ps/cud/tcb.html)**. 
 
  
 
@@ -54,10 +55,10 @@ The Connected Bus supports SFMTA's Transit Effectiveness Project, which was deve
 
  
 
-![](http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [The Connected Bus Pilot](http://www.typepad.com/web/about/ac79/docs/cud/The_Connected_Bus_Pilot.pdf) 
-![](http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [The Connected Bus Fact Sheet](http://www.typepad.com/web/about/ac79/docs/wp/cud/CUD_Connected_Bus_Fact_Sheet.Final.pdf)
-![](http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [The Connected Bus Project Plan](http://www.typepad.com/web/about/ac79/docs/wp/cud/CUD_ConnectedBusPP_021508final.pdf)
-![](http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [SFMTA Transit Effectiveness Project](http://www.sftep.com/)
+![](https://web.archive.org/web/2018/http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [The Connected Bus Pilot](https://web.archive.org/web/2018/http://www.typepad.com/web/about/ac79/docs/cud/The_Connected_Bus_Pilot.pdf) 
+![](https://web.archive.org/web/2018/http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [The Connected Bus Fact Sheet](https://web.archive.org/web/2018/http://www.typepad.com/web/about/ac79/docs/wp/cud/CUD_Connected_Bus_Fact_Sheet.Final.pdf)
+![](https://web.archive.org/web/2018/http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [The Connected Bus Project Plan](https://web.archive.org/web/2018/http://www.typepad.com/web/about/ac79/docs/wp/cud/CUD_ConnectedBusPP_021508final.pdf)
+![](https://web.archive.org/web/2018/http://www.typepad.com/web/about/ac79/images/cud/cb/arrow.gif) [SFMTA Transit Effectiveness Project](http://www.sftep.com/)
 
  
 

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Chiffres clés du transport 2010 en France"
-date: 2010-07-07 14:39:07 +0100
-categories: []
+date: 2010-07-07
+source: tdf
+source_name: "Transports du Futur"
+original_url: "https://transportsdufutur.ademe.fr/2010/07/chiffres-cles-du-transport-2010-en-france.html"
 tags: []
+theme: "Veille & documents"
+redirect_from:
+  - /2010/07/07/chiffres-cles-du-transport-2010-en-france/
 ---
 
 Co-édité en mars 2010 par la DGITM et le CGDD (collection Repères), ce document présente pour les différents modes de transports (terrestres, aériens, maritimes...) des données relatives :
