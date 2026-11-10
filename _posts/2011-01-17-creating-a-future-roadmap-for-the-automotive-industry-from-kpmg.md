@@ -15,7 +15,7 @@ redirect_from:
 
  
 
-[![]()]()  
+  
 
  
  
@@ -23,4 +23,4 @@ Une étude intéressante qui analyse que le monde change, que l'automobile doit 
 
 Les conclusions portent elles les principaux points : solutions de mobilité intégrées, véhicules optimisés par usage et applications...
 
- [Kpmg automotive survey-2011]() View more [documents]() from [transportsdufutur](). "2011-01-17 15:44:07https://transportsdufutur.ademe.fr/2011/01/creating-a-future-roadmap-for-the-automotive-industry-from-kpmg.htmlcarburant|Efficacité énergétique|Energie|innovation|Service de mobilité|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatcreating-a-future-roadmap-for-the-automotive-industry-from-kpmg2015-07-21 16:37:29
+ [Kpmg automotive survey-2011](http://www.kpmg.fr/) View more documents from transportsdufutur.

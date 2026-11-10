@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2012/07/lavenir-de-lautomobile.html"
 tags: ["arzens", "assistant de mobilité", "autopartage", "carburant", "citoyen", "collectivité", "commuter", "connectivité", "données réelles", "economie circulaire", "Efficacité énergétique", "externalité", "General Motor", "google", "innovation", "intelligence collective", "internet", "ITS", "pensée complexe", "VE", "véhicule mono-usage", "véhicule propre", "vélo"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Intelligence collective & innovation"
 aussi_sur: "LinkedIn"
 redirect_from:
   - /2012/07/24/lavenir-de-lautomobile/

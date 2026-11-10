@@ -33,6 +33,6 @@ Nous aurons donc besoin de véhicule à haute efficacité énergétique à ba
 
  
 
-A cette occasion, le **[séminaire organisé par l'ADEME et la plate forme collaborative ont été annoncé, ainsi que l'ouverture d'un Appel à Manifestation d'Intérêt sur la mobilité en 2010]()**.
+A cette occasion, le **[séminaire organisé par l'ADEME et la plate forme collaborative ont été annoncé, ainsi que l'ouverture d'un Appel à Manifestation d'Intérêt sur la mobilité en 2010](http://www.innovationlejournal.fr/spip.php?page=article_videoj&id_article=4896)**.
 
 "

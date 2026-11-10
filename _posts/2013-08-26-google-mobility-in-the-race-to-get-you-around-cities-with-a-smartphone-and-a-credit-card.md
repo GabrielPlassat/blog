@@ -39,11 +39,11 @@ En un mois, Google a acheté **Waze** (lire **[Une innovation majeure dans le do
 
  
 
-Après avoir indexé le web pour permettre une recherche et le développement d'outils comme la traduction ou la publicité, Alexis Madrigal nous explique dans cet [**article** ](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)que Google indexe le monde physique. En utilisant les véhicules Street view et les images qui sont générées, Google [**extrait**](http://www.dailymail.co.uk/sciencetech/article-2195722/Indexing-world-Google-receives-software-means-intelligently-identify-object-planet.html) les panneaux de signalisation, les informations pour les ré-intégrer dans les cartes". Le monde physique va être "interpénétré" par l'information (Ajouter à cela les [**Google glass**]() ...). La complexité du monde est donc stocké, répertorié pour être géré par une prochaine génération de robot. La place centrale occupée par les cartes est actuellement révélée par les combats que se livrent les géants numériques : Apple, Google et Amazon.
+Après avoir indexé le web pour permettre une recherche et le développement d'outils comme la traduction ou la publicité, Alexis Madrigal nous explique dans cet [**article** ](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)que Google indexe le monde physique. En utilisant les véhicules Street view et les images qui sont générées, Google [**extrait**](http://www.dailymail.co.uk/sciencetech/article-2195722/Indexing-world-Google-receives-software-means-intelligently-identify-object-planet.html) les panneaux de signalisation, les informations pour les ré-intégrer dans les cartes". Le monde physique va être "interpénétré" par l'information (Ajouter à cela les [**Google glass**]({{ site.baseurl }}/2013/04/en-supprimant-quasiment-la-matiere-pour-ne-garder-que-les-flux-et-les-renverser-les-glass-avaient-to-1/) ...). La complexité du monde est donc stocké, répertorié pour être géré par une prochaine génération de robot. La place centrale occupée par les cartes est actuellement révélée par les combats que se livrent les géants numériques : Apple, Google et Amazon.
 
  
 
-En parallèle, Google accède également aux usages réels des objets (ce qu'aucun constructeur n'est capable de faire à grande échelle aujourd'hui). Utilisant les millions de smartphone équipé de système Android, et Waze, les flux sont appris, [les trafics deviennent prédictifs](), comme le montre aussi cet [**exemple** ]()pour des vélos.
+En parallèle, Google accède également aux usages réels des objets (ce qu'aucun constructeur n'est capable de faire à grande échelle aujourd'hui). Utilisant les millions de smartphone équipé de système Android, et Waze, les flux sont appris, [les trafics deviennent prédictifs](http://www.technologyreview.com/news/428732/androids-rise-helps-google-grow-its-traffic/), comme le montre aussi cet [**exemple** ]({{ site.baseurl }}/assets/images/2013/08/Hudson_11-35-69.pdf)pour des vélos.
 
  
 
@@ -51,7 +51,7 @@ En parallèle, Google accède également aux usages réels des objets (ce qu'auc
 
  
  
-- Connaissance du contexte, de l'environnement, des [**territoires** ](): Google map, Street view, Google glass, Waze 
+- Connaissance du contexte, de l'environnement, des [**territoires** ](http://www.govtech.com/technology/Autonomous-Vehicles-May-Soon-Drive-California-Roads.html): Google map, Street view, Google glass, Waze 
 - Connaissance des usages réels, des clients : Google trafic, Google glass 
 - Mise en forme des besoins pour développer des robots : Google car 
  

@@ -38,7 +38,7 @@ Le principe est de créer des incitatifs, les Zooz Token, pour amener sur la pla
 
  
 
-C'est donc très simple, [**télécharger l'App**]() et dès que vous roulez à plus de 20km/h, vous gagnez (minez en language Bitcoin) des Zooz token (voir le [**wiki** ]()pour plus de renseignement). Si vous amenez d'autres personnes à l'utiliser idem. Cette application hybride entre des monnaies cryptées et le covoiturage diffère par son absence d'entité porteuse et une totale décentralisation. Elle dispose du potentiel pour satisfaire la majorité des points clés : incitatifs (disponible et basé sur l'euro), masse critique, viralité, aucune barrière à l'entrée, scalabilité, décentralisé.
+C'est donc très simple, **télécharger l'App** et dès que vous roulez à plus de 20km/h, vous gagnez (minez en language Bitcoin) des Zooz token (voir le **wiki** pour plus de renseignement). Si vous amenez d'autres personnes à l'utiliser idem. Cette application hybride entre des monnaies cryptées et le covoiturage diffère par son absence d'entité porteuse et une totale décentralisation. Elle dispose du potentiel pour satisfaire la majorité des points clés : incitatifs (disponible et basé sur l'euro), masse critique, viralité, aucune barrière à l'entrée, scalabilité, décentralisé.
 
  
 
@@ -46,8 +46,4 @@ Les briques techniques mises en oeuvre dans le Bitcoin peuvent être utilisées 
 
  
 
-*Merci à [Marc Tirel]() po*ur son alerte !
-
-"2014-11-27 08:02:00https://transportsdufutur.ademe.fr/2014/11/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatstart-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre2015-07-21 16:35:27>*Merci à [Marc Tirel]() po*ur son alerte !
-
-"
+*Merci à Marc Tirel po*ur son alerte !

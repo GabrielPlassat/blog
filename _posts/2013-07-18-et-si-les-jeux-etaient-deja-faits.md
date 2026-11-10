@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: " width=\"\"479\"\"> </iframe> <div style=\"\"margin-bottom: 5px"
 tags: ["citoyen", "collectivité", "confiance", "connectivité", "donnée data", "économie de l'expérience", "économie fonctionnalité", "Efficacité énergétique", "Fablab", "FORD", "holoptisme", "innovation", "intelligence collective", "internet", "living lab", "marketing individualisé", "monnaie complémentaire", "PAYD", "plate-forme", "roadpricing", "Service de mobilité", "simplicité", "UX"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/07/18/et-si-les-jeux-etaient-deja-faits/
 ---
@@ -32,54 +32,12 @@ Et la **[puissance de la multitude]({{ site.baseurl }}/2013/02/les-transports-a-
 
  
 
-Cette philosophie d'approche est celle du projet **[Bretagne Mobilité Augmentée](http://www.bma-mobilite.com)** : partir des activités des ménages, des entreprises, des territoires, des collectivités. Pour les comprendre, les analyser en profondeur. Non pas pour leur proposer les bonnes" solutions de mobilités "existantes", mais pour les équiper d'un "**dispositif**" pour que les organisations trouvent elles-mêmes les ressources pour se reconfigurer, pour changer et pour co-concevoir "au plus près" du besoin : **des offres de mobilité ou d'immobilité parfaitement adaptées à la "nouvelle demande" qu'ils auront eux mêmes mise en oeuvre**. Partir "d'en bas", des usagers, des territoires, commencer petit, créer la confiance dans le changement, se regarder changer et capitaliser chaque progrès. Tout le contraire des démarches industrielles basées sur de grands volumes et des plateformes mondiales. Ces **[vidéos des différents démonstrateurs]() **reflètent cette multitude.
+Cette philosophie d'approche est celle du projet **[Bretagne Mobilité Augmentée](http://www.bma-mobilite.com)** : partir des activités des ménages, des entreprises, des territoires, des collectivités. Pour les comprendre, les analyser en profondeur. Non pas pour leur proposer les bonnes" solutions de mobilités "existantes", mais pour les équiper d'un "**dispositif**" pour que les organisations trouvent elles-mêmes les ressources pour se reconfigurer, pour changer et pour co-concevoir "au plus près" du besoin : **des offres de mobilité ou d'immobilité parfaitement adaptées à la "nouvelle demande" qu'ils auront eux mêmes mise en oeuvre**. Partir "d'en bas", des usagers, des territoires, commencer petit, créer la confiance dans le changement, se regarder changer et capitaliser chaque progrès. Tout le contraire des démarches industrielles basées sur de grands volumes et des plateformes mondiales. Ces **[vidéos des différents démonstrateurs](http://www.youtube.com/channel/UCYfwf1wNJ4yBIn8xgbkwjow) **reflètent cette multitude.
 
- ** [Article bma juillet 2013 vdéf]() ** from **[Les transports du futur]()** 
+ ** Article bma juillet 2013 vdéf ** from **Les transports du futur** 
 
-D'autant plus qu'arrivent de nouvelles formes de production locales, pour adapter le standard au spécifique, pour faire le "sur mesure". Le Fablab, **[mentionné par Ford]()**, va progressivement permettre cette fusion du hard et du soft pour chaque démonstrateur, chaque living lab, chaque territoire, chaque communauté. 
-
- 
-
-**L'iMaaS, im-Mobilité as a Software, se sera imposé.**
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"2013-07-18 16:37:35https://transportsdufutur.ademe.fr/2013/07/et-si-les-jeux-etaient-deja-faits.htmlcitoyen|collectivité|confiance|connectivité|donnée data|économie de l'expérience|économie fonctionnalité|Efficacité énergétique|Fablab|FORD|holoptisme|innovation|intelligence collective|internet|living lab|marketing individualisé|monnaie complémentaire|PAYD|plate-forme|roadpricing|Service de mobilité|simplicité|UXpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-les-jeux-etaient-deja-faits2015-07-21 16:35:40width=""479""> ** [Article bma juillet 2013 vdéf]() ** from **[Les transports du futur]()** 
-
-D'autant plus qu'arrivent de nouvelles formes de production locales, pour adapter le standard au spécifique, pour faire le "sur mesure". Le Fablab, **[mentionné par Ford]()**, va progressivement permettre cette fusion du hard et du soft pour chaque démonstrateur, chaque living lab, chaque territoire, chaque communauté. 
+D'autant plus qu'arrivent de nouvelles formes de production locales, pour adapter le standard au spécifique, pour faire le "sur mesure". Le Fablab, **mentionné par Ford**, va progressivement permettre cette fusion du hard et du soft pour chaque démonstrateur, chaque living lab, chaque territoire, chaque communauté. 
 
  
 
 **L'iMaaS, im-Mobilité as a Software, se sera imposé.**
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"

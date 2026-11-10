@@ -15,7 +15,7 @@ Quel constructeur n'a pas aujourd'hui son ou ses modèles de salon sportifs prop
 
  
 
-Aucune notion de performance réelle n'est utilisée. Plusieurs fausses bonnes raisons à cela, mais ceci va changer dans peu de temps (voir **[ici]()**).
+Aucune notion de performance réelle n'est utilisée. Plusieurs fausses bonnes raisons à cela, mais ceci va changer dans peu de temps (voir **[ici]({{ site.baseurl }}/2010/01/quand-viendra-lheure-de-la-connaissance-des-emissions-reelles/)**).
 
  
 
@@ -23,6 +23,6 @@ L'exemple de la LOTUS Evora 414E hybride est à ce titre intéressant (voir ci d
 
  
 
-Quelles seront donc les performances environnementales réelles de ce type de véhicule ? Sera-t-il malgré tout classé "propre", avec les avantages associés ... Il devient urgent de se baser sur les performances réelles des véhicules du puits à la roue (voir **[ici]()**).
+Quelles seront donc les performances environnementales réelles de ce type de véhicule ? Sera-t-il malgré tout classé "propre", avec les avantages associés ... Il devient urgent de se baser sur les performances réelles des véhicules du puits à la roue (voir **[ici](http://ec.europa.eu/transport/urban/vehicles/directive/directive_en.htm)**).
 
- **[Lotus Evora411 E]()** View more [documents]() from [transportsdufutur]()."
+ **[Lotus Evora411 E](http://www.slideshare.net/transportsdufutur/lotus-evora411-e-3344949)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur)."

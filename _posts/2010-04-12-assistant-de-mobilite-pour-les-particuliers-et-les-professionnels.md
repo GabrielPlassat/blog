@@ -15,12 +15,12 @@ Accès à des indicateurs nouveaux, consommation, CO2, pour tous les modes de tr
 
  
 
-Ce premier niveau" d'assistant de mobilité complète les différentes actions dans le domaine (voir **[ici](), [ici](), [là]()). **
+Ce premier niveau" d'assistant de mobilité complète les différentes actions dans le domaine (voir **[ici]({{ site.baseurl }}/2010/04/le-compagnon-de-la-sncf-futur-assistant-personnel-de-mobilite/), [ici]({{ site.baseurl }}/2010/03/aujourdhui-le-tarif-du-stationnement-temps-reel-demain-les-mobilites/), [là]({{ site.baseurl }}/2010/02/personnal-travel-assistant-cisco/)). **
 
  
 
-[![]()]() 
- [GreenRoad]() — a driving system that can improve fuel efficiency and reduce crashes. This morning GreenRoad announced that it has [raised another $10 million]() from the Generation IM Climate Solutions Fund, which was [created by investor David Blood]() and former U.S. Vice President Al Gore. The so-called Blood and Gore duo join a long list of investors including Richard Branson’s Virgin Green Fund, and the VCs at Benchmark Capital.
+ 
+ [GreenRoad](http://www.greenroad.com/) — a driving system that can improve fuel efficiency and reduce crashes. This morning GreenRoad announced that it has [raised another $10 million](http://www.prweb.com/releases/2010/02/prweb3632994.htm) from the Generation IM Climate Solutions Fund, which was [created by investor David Blood](http://earth2tech.com/2009/12/07/david-blood-a-strong-cop15-treaty-will-unleash-innovation-green-economy/) and former U.S. Vice President Al Gore. The so-called Blood and Gore duo join a long list of investors including Richard Branson’s Virgin Green Fund, and the VCs at Benchmark Capital.
 
  
 
@@ -32,7 +32,7 @@ GreenRoad’s system uses sensors, an accelerometor, GPS and customized algorith
 
  
 
-“The brains are in the vehicle,” GreenRoad marketing chief Eric Weiss told us earlier this month, so even in areas without cellular coverage, drivers “always get real-time feedback.” Earlier this month [Earth2Tech’s Josie explained the service as]() “think of it as a friendly backseat driver with a remarkable mind for calculating risk and a keen ability to cut your fuel use and emissions.”
+“The brains are in the vehicle,” GreenRoad marketing chief Eric Weiss told us earlier this month, so even in areas without cellular coverage, drivers “always get real-time feedback.” Earlier this month [Earth2Tech’s Josie explained the service as](http://earth2tech.com/2010/02/05/greenroad-maxing-out-mpg-with-real-time-feedback/) “think of it as a friendly backseat driver with a remarkable mind for calculating risk and a keen ability to cut your fuel use and emissions.”
 
  
 
@@ -40,11 +40,11 @@ The crucial part of GreenRoad’s tool is the real-time service. It’s only thr
 
  
 
-Companies that are building tools for the power grid, like home energy management dashboards, are also starting to embrace real-time data. [The California Public Utilities Commission has said]() that it wants the the big investor-owned utilities to provide customers and approved third parties with “near real time” data from smart meters. Check out [this piece I wrote last year]() about how important real-time data is for changing home energy consumption and also for delivering innovation.
+Companies that are building tools for the power grid, like home energy management dashboards, are also starting to embrace real-time data. [The California Public Utilities Commission has said](http://earth2tech.com/2010/02/19/cali-utilities-get-ready-to-give-your-customers-smart-meter-data/) that it wants the the big investor-owned utilities to provide customers and approved third parties with “near real time” data from smart meters. Check out [this piece I wrote last year](http://earth2tech.com/2009/06/05/why-the-smart-grid-wont-have-the-innovations-of-the-internet-any-time-soon/) about how important real-time data is for changing home energy consumption and also for delivering innovation.
 
  
 
-GreenRoad isn’t the only one looking to provide real-time driving feedback to make transportation more efficient. A lot of the big car companies are starting to investigate this space. [Ford has developed an instrument cluster]() that provides basic information. Honda developed a video game-like system called “Eco Assist” for its new Insight that’s meant to not only provide fuel-efficiency feedback, but also “actually help drivers to learn a better way of driving through instruments and electronic indications,” as chief engineer Yasunari Seki [told us last year](). And last year Volvo unveiled a prototype of its CO2 “pedometer” software, which lets mobile-phone users track their daily travels and carbon footprint. (For more about some of these services [check out GigaOM Pro](), subscription required.)
+GreenRoad isn’t the only one looking to provide real-time driving feedback to make transportation more efficient. A lot of the big car companies are starting to investigate this space. [Ford has developed an instrument cluster](http://earth2tech.com/2010/02/05/greenroad-maxing-out-mpg-with-real-time-feedback/) that provides basic information. Honda developed a video game-like system called “Eco Assist” for its new Insight that’s meant to not only provide fuel-efficiency feedback, but also “actually help drivers to learn a better way of driving through instruments and electronic indications,” as chief engineer Yasunari Seki [told us last year](http://earth2tech.com/2009/05/29/greenroad-fuels-up-with-more-vc-cash/). And last year Volvo unveiled a prototype of its CO2 “pedometer” software, which lets mobile-phone users track their daily travels and carbon footprint. (For more about some of these services [check out GigaOM Pro](http://pro.gigaom.com/2009/04/long-view-location-based-services-beyond-navigation/), subscription required.)
 
  
 

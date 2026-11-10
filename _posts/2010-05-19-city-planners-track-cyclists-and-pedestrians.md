@@ -15,7 +15,7 @@ Recent **[paper from USA today](http://www.usatoday.com/news/nation/2010-05-10-b
 
  
 
-Information is always essential to decide, to justify choice, to optimise. We can imagine in near future our **[Personnal Travel Assistant]()** will propose best transport solution but also will track our mobility while protecting our personnal information. We will be able to learn links between our mobility and external factors such as day of the week, weather, congestion, accident ... and then we will be able to forecast main mobility choice, optimise road repartition, adapt massive transportation solutions.
+Information is always essential to decide, to justify choice, to optimise. We can imagine in near future our **[Personnal Travel Assistant](/assistant-de-mobilite/)** will propose best transport solution but also will track our mobility while protecting our personnal information. We will be able to learn links between our mobility and external factors such as day of the week, weather, congestion, accident ... and then we will be able to forecast main mobility choice, optimise road repartition, adapt massive transportation solutions.
 
  
 
@@ -35,7 +35,7 @@ Mindful of that growth, transportation planners in states and municipalities acr
 
  
 
- **MAP: **[Participation in 2010 Census]() **FULL COVERAGE: **[Census 2010]() **VIDEO: **[10 strange facts about the Census]() 
+ **MAP: **[Participation in 2010 Census](http://www.usatoday.com/news/nation/census/2010-04-12-Census-participation--graphic_N.htm) **FULL COVERAGE: **[Census 2010](http://www.usatoday.com/news/nation/census/default.htm) **VIDEO: **[10 strange facts about the Census](http://www.usatoday.com/news/nation/census/10-strange-facts-video.htm) 
 
  
 
@@ -47,11 +47,11 @@ Some of the new counters, which can cost $500-$8,000, are triggered by the weigh
 
  
 
-"You build a [Walmart]() and we can tell you how many car trips it will generate, on which roads, and at which times of day," Norvell says. "We know next to nothing about how and where people bike and walk in this country." 
+"You build a [Walmart](http://content.usatoday.com/topics/topic/Organizations/Companies/Retail/Wal-Mart) and we can tell you how many car trips it will generate, on which roads, and at which times of day," Norvell says. "We know next to nothing about how and where people bike and walk in this country." 
 
  
 
-Transportation Alternatives recently estimated that 201,000 people bike daily in [New York City](). City-conducted sample counts showed a 26% increase in bike ridership from 2008 to 2009, Norvell says. He says other large cities are seeing — and counting — similar increases.
+Transportation Alternatives recently estimated that 201,000 people bike daily in [New York City](http://content.usatoday.com/topics/topic/Places,+Geography/States,+Territories,+Provinces,+Islands/U.S.+States/New+York). City-conducted sample counts showed a 26% increase in bike ridership from 2008 to 2009, Norvell says. He says other large cities are seeing — and counting — similar increases.
 
  
 

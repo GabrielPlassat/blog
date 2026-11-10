@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2014/07/quelques-propositions-pour-une-politique-de-mobilite-par-vehicules-autonomes.html"
 tags: ["autorité des transports", "collectivité", "commuter", "connectivité", "covoiturage", "données réelles", "Efficacité énergétique", "google", "gouvernance", "internet des objets", "ITS", "Service de mobilité", "véhicule mono-usage"]
-theme: "Stratégies numériques"
+theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2014/07/08/quelques-propositions-pour-une-politique-de-mobilite-par-vehicules-autonomes/
 ---

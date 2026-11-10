@@ -27,8 +27,8 @@ Aujourd'hui ces fictions sont simplement rédigées", il faudrait qu'elles soien
 
  
 
-[**[fiction N°2]**]() L’avenir de l’énergie dans les transports, vu par Amazon. Amazon Energies Services domine la distribution de carburant ... [
-]()
+[**[fiction N°2]**]() L’avenir de l’énergie dans les transports, vu par Amazon. Amazon Energies Services domine la distribution de carburant ... 
+
 
  
 

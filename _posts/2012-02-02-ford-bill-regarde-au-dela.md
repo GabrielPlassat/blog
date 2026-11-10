@@ -27,7 +27,7 @@ Instead of focusing on building more roads and rails, we should work on putting 
 
  
 
-Mais aux USA, [**certains pensent**]() à améliorer le système, et cela passe bien sûr par expérimenter la dépossession, à passer à des mobilités multimodales :
+Mais aux USA, **certains pensent** à améliorer le système, et cela passe bien sûr par expérimenter la dépossession, à passer à des mobilités multimodales :
 
  
 
@@ -35,22 +35,5 @@ Mais aux USA, [**certains pensent**]() à améliorer le système, et cela passe 
 
  
 
-**Et si nous avions en France, toutes les compétences, toutes les industries, tout l'écosystème, toute la dynamique pour créer et industrialiser à grande échelle ces nouvelles mobilités ? et créer ainsi des leaders mondiaux...Tous les renseignements pour l'AMI (Appel à Manifestations d'Intérêt) sur les mobilités et les chaînes logistiques : [ICI]().
+**Et si nous avions en France, toutes les compétences, toutes les industries, tout l'écosystème, toute la dynamique pour créer et industrialiser à grande échelle ces nouvelles mobilités ? et créer ainsi des leaders mondiaux...Tous les renseignements pour l'AMI (Appel à Manifestations d'Intérêt) sur les mobilités et les chaînes logistiques : ICI.
 **
-
- 
-
- 
-
-"2012-02-02 09:31:00https://transportsdufutur.ademe.fr/2012/02/ford-bill-regarde-au-dela.htmlcitoyen|collectivité|commuter|connectivité|donnée data|FORD|Infrastructure|innovation|internet|ITS|Service de mobilité|téléphone|TIC|Véhiculepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatford-bill-regarde-au-dela2015-07-21 16:36:37padding-left: 30px"">"Now we're seeing the beginning of what's called intelligent multimodal transportation. Smart phones allow us to instantly rent a bike, carpool with someone just a mile up the road, find a bus, and even "ping a ride" with a car service or cab to get where we are going. Car-sharing services like Zipcar are viable businesses today in our thickest cities, because users can easily reach a shared car on foot after pulling up its location on their phone. In thick cities, technology is rapidly making it even more convenient to live without owning a car."
-
- 
-
-**Et si nous avions en France, toutes les compétences, toutes les industries, tout l'écosystème, toute la dynamique pour créer et industrialiser à grande échelle ces nouvelles mobilités ? et créer ainsi des leaders mondiaux...Tous les renseignements pour l'AMI (Appel à Manifestations d'Intérêt) sur les mobilités et les chaînes logistiques : [ICI]().
-**
-
- 
-
- 
-
-"

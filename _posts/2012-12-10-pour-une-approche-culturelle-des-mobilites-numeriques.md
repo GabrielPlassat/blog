@@ -11,7 +11,7 @@ redirect_from:
   - /2012/12/10/pour-une-approche-culturelle-des-mobilites-numeriques/
 ---
 
-Le numérique change nos vies. Il influence, notamment, nos façons de nous déplacer, d'appréhender les territoires. Le monde virtuel limité, il y a peu, à la connaissance, s'étend dans tous les domaines. Il arrive dans les objets en leur reliant entre eux avec le tout. Le tissage", déjà abordé dans plusieurs articles précédents (**[l'exemple d'Ingress]()**, **[le logiciel]()**), entre l'objet et le logiciel, se poursuit construisant un monde nouveau avec de nouvelles règles, de nouveaux modèles d'affaires. Déjà, plusieurs entreprises ont investi ces territoires vierges, elles y inventent -seules- leur loi, leur vision du monde. 
+Le numérique change nos vies. Il influence, notamment, nos façons de nous déplacer, d'appréhender les territoires. Le monde virtuel limité, il y a peu, à la connaissance, s'étend dans tous les domaines. Il arrive dans les objets en leur reliant entre eux avec le tout. Le tissage", déjà abordé dans plusieurs articles précédents (**[l'exemple d'Ingress]({{ site.baseurl }}/2012/11/ibm-dans-son-dernier-executive-report-tranforming-retail-engaging-customers-through-information-influencers-and-interacti/)**, **[le logiciel]({{ site.baseurl }}/2012/11/le-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets/)**), entre l'objet et le logiciel, se poursuit construisant un monde nouveau avec de nouvelles règles, de nouveaux modèles d'affaires. Déjà, plusieurs entreprises ont investi ces territoires vierges, elles y inventent -seules- leur loi, leur vision du monde. 
 
  
 
@@ -27,28 +27,12 @@ Michel Serres, dans cette émission de France Culture, nous aide en apportant un
 
  
 
-La philosophie est alors cruciale. Stéphane Vial dans sa thèse "***[La structure de la révolution numérique : philosophie de la technologie]()***" nous indique qu'il s'agit bien d'une révolution **ontophanique**, c’est-à-dire **un ébranlement des structures de la perception et du processus par lequel l’être nous apparaît**. Il devient alors urgent que toutes les structures, dont les entreprises issues de *Prométhée* (aujourd'hui dépassé par *Hermès* nous dirait M.Serres) comme celles de l'automobile, s'engagent totalement dans ces territoires pour y percevoir de nouvelles formes de liens sociaux. Elles n'ont pas d'autres choix que de le vivre, elles ne pourront pas l'étudier de "l'extérieur". Des [**chercheurs** ]()créent alors des disciplines comme l'Intelligence Collective dans le Cyberespace.
+La philosophie est alors cruciale. Stéphane Vial dans sa thèse "***La structure de la révolution numérique : philosophie de la technologie***" nous indique qu'il s'agit bien d'une révolution **ontophanique**, c’est-à-dire **un ébranlement des structures de la perception et du processus par lequel l’être nous apparaît**. Il devient alors urgent que toutes les structures, dont les entreprises issues de *Prométhée* (aujourd'hui dépassé par *Hermès* nous dirait M.Serres) comme celles de l'automobile, s'engagent totalement dans ces territoires pour y percevoir de nouvelles formes de liens sociaux. Elles n'ont pas d'autres choix que de le vivre, elles ne pourront pas l'étudier de "l'extérieur". Des **chercheurs** créent alors des disciplines comme l'Intelligence Collective dans le Cyberespace.
 
  
 
-S.Vial nous propose onze caractéristiques fondamentales pour décrire l'ontophanie numérique : la nouménalité (que l'on peut percevoir sans être capable de le décrire ni de l'expérimenter totalement), l’idéalité, l’interactivité, la virtualité, la versatilité, la [**réticularité** ]()(capacité à fonctionner en réseau), la reproductibilité instantanée, la réversibilité, la destructibilité, la fluidité et la ludogénéité (capacité à être expérimenter par le jeu). Et il indique que "*le rôle du design, comme activité phénoménotechnique qui façonne le monde, est défini comme essentiel dans la constitution créative de l’ontophanie numérique*".
-
- 
-
-Nous utilisons toujours la communication orale, l'écrit ne l'a pas supprimée. **Le numérique ne va pas supprimer l'écrit et l'oral. De même, le numérique -Hermès- ne va pas supprimer les industries de la transformation -Prométhée, il va par contre les modifier et sans doute les dominer.**
-
-"2012-12-10 11:15:25https://transportsdufutur.ademe.fr/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques.htmlgoogle|holoptisme|innovation|intelligence collective|internet|internet des objets|pensée complexe|philosophiepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatpour-une-approche-culturelle-des-mobilites-numeriques2015-07-21 16:35:46> 
-
- 
-
-La philosophie est alors cruciale. Stéphane Vial dans sa thèse "***[La structure de la révolution numérique : philosophie de la technologie]()***" nous indique qu'il s'agit bien d'une révolution **ontophanique**, c’est-à-dire **un ébranlement des structures de la perception et du processus par lequel l’être nous apparaît**. Il devient alors urgent que toutes les structures, dont les entreprises issues de *Prométhée* (aujourd'hui dépassé par *Hermès* nous dirait M.Serres) comme celles de l'automobile, s'engagent totalement dans ces territoires pour y percevoir de nouvelles formes de liens sociaux. Elles n'ont pas d'autres choix que de le vivre, elles ne pourront pas l'étudier de "l'extérieur". Des [**chercheurs** ]()créent alors des disciplines comme l'Intelligence Collective dans le Cyberespace.
-
- 
-
-S.Vial nous propose onze caractéristiques fondamentales pour décrire l'ontophanie numérique : la nouménalité (que l'on peut percevoir sans être capable de le décrire ni de l'expérimenter totalement), l’idéalité, l’interactivité, la virtualité, la versatilité, la [**réticularité** ]()(capacité à fonctionner en réseau), la reproductibilité instantanée, la réversibilité, la destructibilité, la fluidité et la ludogénéité (capacité à être expérimenter par le jeu). Et il indique que "*le rôle du design, comme activité phénoménotechnique qui façonne le monde, est défini comme essentiel dans la constitution créative de l’ontophanie numérique*".
+S.Vial nous propose onze caractéristiques fondamentales pour décrire l'ontophanie numérique : la nouménalité (que l'on peut percevoir sans être capable de le décrire ni de l'expérimenter totalement), l’idéalité, l’interactivité, la virtualité, la versatilité, la **réticularité** (capacité à fonctionner en réseau), la reproductibilité instantanée, la réversibilité, la destructibilité, la fluidité et la ludogénéité (capacité à être expérimenter par le jeu). Et il indique que "*le rôle du design, comme activité phénoménotechnique qui façonne le monde, est défini comme essentiel dans la constitution créative de l’ontophanie numérique*".
 
  
 
 Nous utilisons toujours la communication orale, l'écrit ne l'a pas supprimée. **Le numérique ne va pas supprimer l'écrit et l'oral. De même, le numérique -Hermès- ne va pas supprimer les industries de la transformation -Prométhée, il va par contre les modifier et sans doute les dominer.**
-
-"

@@ -5,7 +5,7 @@
 - lien vers un ancien site fermé (Typepad, transportsdufutur.ademe.fr, lafabriquedesmobilites.fr)
   sans article correspondant -> copie web.archive.org
 - tout le reste est laissé tel quel.
-Écrit scripts/rapport-liens.csv (une ligne par lien modifié ou signalé).
+Écrit scripts/rapport-liens.csv (une ligne par lien modifié ; le fichier est remplacé à chaque passage).
 Relançable : un lien déjà réécrit n'est plus touché.
 """
 import csv, glob, os, re, unicodedata, html

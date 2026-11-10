@@ -25,13 +25,13 @@ La question n'est plus comment vendre des VE" ? Mais plutôt comment **faire uti
 
  
  
-- des usines de production de batterie en maîtrisant la chaîne depuis l'origine des matériaux ([**Usines de Batterie LMP**]() et [**GigaFactory**]()), 
-- le circuit intégral des batteries : d'abord dans des véhicules ([**Bluecar**]() et [**Tesla Motor**]()) , puis des utilisations stationnaires ([**Bluezone**]() et **[SolarCity]()**), (puis plus tard la réutilisation et le recyclage), 
+- des usines de production de batterie en maîtrisant la chaîne depuis l'origine des matériaux ([**Usines de Batterie LMP**](http://www.usinenouvelle.com/article/bollore-le-secret-est-dans-la-batterie.N205128) et [**GigaFactory**](http://www.santacruzsentinel.com/business/20141214/tesla-gigafactory-elon-musks-vision-may-be-game-changer-for-utilities)), 
+- le circuit intégral des batteries : d'abord dans des véhicules ([**Bluecar**](http://www.bluecar.fr/) et [**Tesla Motor**](http://www.teslamotors.com/fr_FR/)) , puis des utilisations stationnaires ([**Bluezone**](http://www.lefigaro.fr/societes/2014/12/13/20005-20141213ARTFIG00007-bollore-commence-l-essaimage-des-bluezones-en-afrique.php) et **[SolarCity](http://www.solarcity.com/)**), (puis plus tard la réutilisation et le recyclage), 
 - des offres de véhicules électriques ou de mobilité intégrant des véhicules et des bus électriques, 
 - des stations de recharges des véhicules. 
  
 
-[![]()]()
+
 
  
 
@@ -39,11 +39,11 @@ Dans ces systèmes, le véhicule (hors batterie) est-il un produit ou un co-prod
 
  
 
-[![]()]()
+
 
  
 
-Musk va plus loin en mettant en oeuvre quasiment dès le départ des "Giga Volumes" pour baisser les coûts. Les 2 approches de mobilité sont opposées : le premium et le serviciel, mais elles se rejoignent sur les moyens, les processus et la philosophie utilisés, et se complètent sur les usages. L'approche servicielle rejoint les [**projections 2030-2050 de l'ADEME**]() car elle porte en elle de grands potentiels d'efficacité énergétique. C'était les 2 voies identifiées en 2008 et rédigé en 2009 dans la première [**MétaNote N°0 - l'origine**]() : le véhicule vêtement de luxe et la 3ème voie entre le VP et le TC.
+Musk va plus loin en mettant en oeuvre quasiment dès le départ des "Giga Volumes" pour baisser les coûts. Les 2 approches de mobilité sont opposées : le premium et le serviciel, mais elles se rejoignent sur les moyens, les processus et la philosophie utilisés, et se complètent sur les usages. L'approche servicielle rejoint les **projections 2030-2050 de l'ADEME** car elle porte en elle de grands potentiels d'efficacité énergétique. C'était les 2 voies identifiées en 2008 et rédigé en 2009 dans la première **MétaNote N°0 - l'origine** : le véhicule vêtement de luxe et la 3ème voie entre le VP et le TC.
 
  
 
@@ -51,7 +51,7 @@ Musk va plus loin en mettant en oeuvre quasiment dès le départ des "Giga Volum
 
  
 
-[![]()]()Musk et Bolloré concoivent, dans l'action et par itérations avec les marchés, leurs industries. D'autres comme [**Honda**]() abordent ce sujet sous l'angle de la recherche et de l'expérimentation. Or ces projets sont trop complexes, trop étemargin-right: auto"" title=""Tesla-solarcity"" />Musk et Bolloré concoivent, dans l'action et par itérations avec les marchés, leurs industries. D'autres comme [**Honda**]() abordent ce sujet sous l'angle de la recherche et de l'expérimentation. Or ces projets sont trop complexes, trop étendus, impliquent trop de métiers et de compétences pour être d'abord expérimentés puis répliqués. Les synergies et les valeurs se retrouvent dans les interfaces entre les domaines, dans la gestion des flux de matière à travers ces domaines en étant en lien avec les **clients**. Les produits, services et modèles d'affaires qui sont produits, ne peuvent l'être que dans l'action à grande échelleCes décisions sont donc celles des CEO.
+Musk et Bolloré concoivent, dans l'action et par itérations avec les marchés, leurs industries. D'autres comme **Honda** abordent ce sujet sous l'angle de la recherche et de l'expérimentation. Or ces projets sont trop complexes, trop étemargin-right: auto"" title=""Tesla-solarcity"" />Musk et Bolloré concoivent, dans l'action et par itérations avec les marchés, leurs industries. D'autres comme **Honda** abordent ce sujet sous l'angle de la recherche et de l'expérimentation. Or ces projets sont trop complexes, trop étendus, impliquent trop de métiers et de compétences pour être d'abord expérimentés puis répliqués. Les synergies et les valeurs se retrouvent dans les interfaces entre les domaines, dans la gestion des flux de matière à travers ces domaines en étant en lien avec les **clients**. Les produits, services et modèles d'affaires qui sont produits, ne peuvent l'être que dans l'action à grande échelleCes décisions sont donc celles des CEO.
 
  
 

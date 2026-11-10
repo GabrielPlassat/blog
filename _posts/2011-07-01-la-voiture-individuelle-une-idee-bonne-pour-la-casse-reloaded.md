@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2011/07/la-voiture-individuelle-une-idee-bonne-pour-la-casse-reloaded.html"
 tags: ["citoyen", "collectivité", "innovation", "pensée complexe"]
-theme: "Déplacements, vélo & santé"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2011/07/01/la-voiture-individuelle-une-idee-bonne-pour-la-casse-reloaded/
 ---
@@ -15,7 +15,7 @@ Reprenant ci dessous les conclusions du très complet **[article](http://owni.fr
 
  
 
-Les 8 points listés par B.Marzloff sont justes, le constat est précis, même si de nombreux ménages et entreprises connaissent leur budget mobilité. Néanmoins, la situation actuelle peut se poursuivre si le prix au litre reste sous la barre des 2€ (voir **[ici]()**). Si cette barre est franchie par effet conjoint du prix du baril et d'ajustement des taxes (**[venu de l'Europe]()**), nous pourrons observer plusieurs ajustements :
+Les 8 points listés par B.Marzloff sont justes, le constat est précis, même si de nombreux ménages et entreprises connaissent leur budget mobilité. Néanmoins, la situation actuelle peut se poursuivre si le prix au litre reste sous la barre des 2€ (voir **[ici]({{ site.baseurl }}/2011/05/un-carburant-a-plus-de-2-euros-quelles-consequences-quelles-urgences/)**). Si cette barre est franchie par effet conjoint du prix du baril et d'ajustement des taxes (**[venu de l'Europe](http://www.fne.asso.fr/com/dossierpresse/dp-taxefuel-110411-vf_ok.docx)**), nous pourrons observer plusieurs ajustements :
 
  
  
@@ -32,7 +32,7 @@ Par exemple, la mise en oeuvre d'une solution de mobilité/immobilité comme les
 
  
 
-Seule l'expérimentation permettra à l'entreprise (et aux ménages) de **SIMULTANEMENT **repenser ses activités, brancher des solutions de mobilité/immobilité et trouver des alliés dans ce changement. Ce processus d'essais et d'erreurs est le fondement même de toute innovation de rupture. Facebook n'avait aucun modèle d'affaire au départ. Imprévue au départ, sa **[monnaie]()** lui apporte une part importante de ses revenus. Demain, elle changera le rapport à l'argent, et donc les échanges.
+Seule l'expérimentation permettra à l'entreprise (et aux ménages) de **SIMULTANEMENT **repenser ses activités, brancher des solutions de mobilité/immobilité et trouver des alliés dans ce changement. Ce processus d'essais et d'erreurs est le fondement même de toute innovation de rupture. Facebook n'avait aucun modèle d'affaire au départ. Imprévue au départ, sa **[monnaie](http://fr.readwriteweb.com/2010/07/23/a-la-une/les-crdits-facebook-premire-monnaie-mondiale/)** lui apporte une part importante de ses revenus. Demain, elle changera le rapport à l'argent, et donc les échanges.
 
  
 
@@ -44,7 +44,7 @@ Mais ces expérimentations risquent de prendre un peu de temps, et il serait plu
 - d'organiser, de mutualiser ces expérimentations via une plate-forme collaborative pour accélérer les apprentissages, réduire les itérations, capitaliser les erreurs et les succès, créer des normes et des standards, 
 - d'inclure au maximum l'intelligence collective en faisant participer tout ou partie des utilisateurs, 
 - de créer des outils d'aide aux changements pour les ménages, les entreprises, les collectivités, l'état, 
-- de créer des équipes de recherche, des savoirs sur ces systèmes complexes (sans découper les liens et retroliens, voir **[ici]()**), 
+- de créer des équipes de recherche, des savoirs sur ces systèmes complexes (sans découper les liens et retroliens, voir **[ici]({{ site.baseurl }}/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe/)**), 
 - d'identifier les ménages, entreprises, territoires les plus fragiles et faire de la résilience un objectif majeur. 
  
 

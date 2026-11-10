@@ -23,8 +23,8 @@ Cette première journée d’étude nationale est à destination des collectivit
 
  
 
-Le programme PROVISOIRE est accessible ci dessous, et le bon d’inscription (participation de 50 €) sera disponible début juillet sur les sites : **[CNFPT]()**, **[ADEME]()**, **[CERTU]()**, **[GART]().**
+Le programme PROVISOIRE est accessible ci dessous, et le bon d’inscription (participation de 50 €) sera disponible début juillet sur les sites : **[CNFPT](http://www.cnfpt.fr/)**, **[ADEME](http://www.ademe.fr/)**, **[CERTU](http://www.certu.fr/)**, **[GART](http://www.gart.org/).**
 
  
 
- **[Program nsm v3_02_07]()** View more [documents]() from [transportsdufutur]()."
+ **[Program nsm v3_02_07](http://www.slideshare.net/transportsdufutur/program-nsm-v30207)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur)."

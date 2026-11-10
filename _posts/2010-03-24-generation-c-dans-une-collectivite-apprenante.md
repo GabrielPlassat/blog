@@ -19,8 +19,8 @@ Deux récents ouvrages de [**CEFRIO**](http://www.cefrio.qc.ca/) sont présent�
 
 Le premier concerne la génération C , saurez vous répondre aux attentes de la première génération de québécois qui ont grandi avec internet ?", leurs modes de consommation, leurs implications dans l'entreprise ...
 
- **[Generationcfinal]()** View more [documents]() from [transportsdufutur](). 
+ **[Generationcfinal](http://www.slideshare.net/transportsdufutur/generationcfinal-3470299)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 
 Le second concerne la collectivité apprenante, visant un développement local par les citoyens, pour les citoyens. "Une  collectivité  apprenante  est  une  entité  territoriale  où  le  cadre relationnel entre les membres de la communauté est enrichi et supporté par les technologies  de  l'information,  où  la  population  nourrit  un  état  de  veille permanente et où  les citoyens échangent et expérimentent les façons de faire les  plus  porteuses  en  matière  de  développement  contribuant  ainsi  à l'accroissement des savoirs collectifs » .
 
- **[Guideimplantation]()** View more [documents]() from [transportsdufutur]()."
+ **[Guideimplantation](http://www.slideshare.net/transportsdufutur/guideimplantation-3470321)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur)."

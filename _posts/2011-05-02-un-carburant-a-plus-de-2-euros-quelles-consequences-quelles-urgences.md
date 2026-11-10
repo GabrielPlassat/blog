@@ -41,7 +41,7 @@ Ainsi le signal prix fourni par la taxe sera extrêmement dépendant de la mobil
 
  
 
-Cette théorie est maintenant accessible grâce aux technologies de l'information. Certains pays, comme la Hollande, ont déjà étudié une possibilité équivalente - le **[roadpricing]()**, sans réussir à obtenir une adhésion politique et sociale. La dématérialisation de la taxe sur un support non physique engendre des besoins énormes de données pour connaître la mobilité réelle, tout à fait gérable pour le numérique. Mais cela implique également des risques et/ou des craintes d'atteinte à la vie privée.
+Cette théorie est maintenant accessible grâce aux technologies de l'information. Certains pays, comme la Hollande, ont déjà étudié une possibilité équivalente - le **[roadpricing](http://english.verkeerenwaterstaat.nl/english/topics/mobility_and_accessibility/road_pricing/what_is_already_happening_/)**, sans réussir à obtenir une adhésion politique et sociale. La dématérialisation de la taxe sur un support non physique engendre des besoins énormes de données pour connaître la mobilité réelle, tout à fait gérable pour le numérique. Mais cela implique également des risques et/ou des craintes d'atteinte à la vie privée.
 
  
 

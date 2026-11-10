@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2013/11/de-la-pfa-a-la-plate-forme-des-nouvelles-immobilites.html"
 tags: ["collectivité", "commuter", "économie de l'expérience", "économie fonctionnalité", "innovation", "intelligence collective", "living lab", "management de la mobilité", "multimodes", "pensée complexe", "plate-forme", "Service de mobilité", "Véhicule"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/11/15/de-la-pfa-a-la-plate-forme-des-nouvelles-immobilites/
 ---

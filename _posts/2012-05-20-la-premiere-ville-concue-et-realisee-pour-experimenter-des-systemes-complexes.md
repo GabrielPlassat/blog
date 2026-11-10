@@ -25,10 +25,4 @@ Ce moyen d'essais présente de nombreux avantages pour les acteurs économiques 
 
  
 
-Cette ville à la fois réelle et virtuelle présente un réel intérêt mais l'intégration du vivant dans ces infrastructures reste à préciser. Ce dispositif représente une version possible du living lab, une autre pourrait être la mise en situation d'un territoire pour devenir le parfait "contenant" pour expérimenter des systèmes innovants (voir [**ici**]()).
-
- 
-
- 
-
-"2012-05-20 17:37:44https://transportsdufutur.ademe.fr/2012/05/la-premiere-ville-concue-et-realisee-pour-experimenter-des-systemes-complexes.htmlcité|cybercar|donnée data|Energie|Infrastructure|innovation|ITS|living lab|territoirepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-premiere-ville-concue-et-realisee-pour-experimenter-des-systemes-complexes2015-07-21 16:36:32
+Cette ville à la fois réelle et virtuelle présente un réel intérêt mais l'intégration du vivant dans ces infrastructures reste à préciser. Ce dispositif représente une version possible du living lab, une autre pourrait être la mise en situation d'un territoire pour devenir le parfait "contenant" pour expérimenter des systèmes innovants (voir **ici**).

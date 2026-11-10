@@ -42,11 +42,11 @@ L’enjeu décrit par [Nicolas Colin](http://colin-verdier.com/l-industrie-du-t
 
  
 
-Cela doit devenir une obsession : comment innover à la frontière, se relier à la multitude et se centrer sur « ses expériences de mobilité ». Cela impose de revisiter les processus de soutien à l’innovation, la notion même de filière industrielle, les modes de collaboration entre les acteurs, les capacités d’expérimentation au plus près de la multitude. Pour [William Janeway](), « *l'innovation à la frontière dépend de sources de financement qui ne sont pas directement préoccupées pour la valeur économique c'est pourquoi elle ne peut pas être réduite à l'allocation optimale des ressources. La fonction de production conventionnelle de l'économie néoclassique propose un prisme dangereusement trompeur pour interpréter les processus d'innovation à la frontière*».
+Cela doit devenir une obsession : comment innover à la frontière, se relier à la multitude et se centrer sur « ses expériences de mobilité ». Cela impose de revisiter les processus de soutien à l’innovation, la notion même de filière industrielle, les modes de collaboration entre les acteurs, les capacités d’expérimentation au plus près de la multitude. Pour [William Janeway](http://www.project-syndicate.org/commentary/china-and-the-frontiers-of-innovation-by-william-janeway/french#xRx0iyiT3UFRfBte.99), « *l'innovation à la frontière dépend de sources de financement qui ne sont pas directement préoccupées pour la valeur économique c'est pourquoi elle ne peut pas être réduite à l'allocation optimale des ressources. La fonction de production conventionnelle de l'économie néoclassique propose un prisme dangereusement trompeur pour interpréter les processus d'innovation à la frontière*».
 
  
 
-La notion de filière des transports doit être questionnée. Toutes nos organisations de soutien sont conçues autour d'une histoire industrielle : chaînes de fournisseurs, de sous-traitants, pôles de compétitivité, découpages dans les ministères et les agences, formation des cadres et ingénieurs. Le numérique, devenant dominant, traverse ces domaines, s’en nourrit, relie des sujets autrefois séparés, et plus que tout, place l’utilisateur au centre. La [**MétaNoté N°6**]()**, **Quelle plateforme pour concevoir un système de mobilité basé sur le numérique, décrit les principales caractéristiques de ces évolutions.
+La notion de filière des transports doit être questionnée. Toutes nos organisations de soutien sont conçues autour d'une histoire industrielle : chaînes de fournisseurs, de sous-traitants, pôles de compétitivité, découpages dans les ministères et les agences, formation des cadres et ingénieurs. Le numérique, devenant dominant, traverse ces domaines, s’en nourrit, relie des sujets autrefois séparés, et plus que tout, place l’utilisateur au centre. La **MétaNoté N°6****, **Quelle plateforme pour concevoir un système de mobilité basé sur le numérique, décrit les principales caractéristiques de ces évolutions.
 
  
 
@@ -54,7 +54,7 @@ La notion de filière des transports doit être questionnée. Toutes nos organis
 
  
 
-Tentons d’identifier les actions incontournables des principaux acteurs pour favoriser au mieux l’émergence d’innovations à la frontière. Il s’agit véritablement d’explorer des continents inconnus sans pour autant se focaliser sur la R&D, les principales technologies sont là, disponibles, mais les liens avec la multitude, les expériences et les modèles d’affaires sont à inventer. Rappelons également que les principaux gisements d’innovations se situent aux interstices des filières historiques, des métiers, qu’il s’agit de trouver de nouveaux points d’équilibre entre une offre de transport à inventer et des demandes de mobilité elles-aussi en mutation (lire également la [**MétaNote N°18 dédiée à comprendre la "demande"**]()).
+Tentons d’identifier les actions incontournables des principaux acteurs pour favoriser au mieux l’émergence d’innovations à la frontière. Il s’agit véritablement d’explorer des continents inconnus sans pour autant se focaliser sur la R&D, les principales technologies sont là, disponibles, mais les liens avec la multitude, les expériences et les modèles d’affaires sont à inventer. Rappelons également que les principaux gisements d’innovations se situent aux interstices des filières historiques, des métiers, qu’il s’agit de trouver de nouveaux points d’équilibre entre une offre de transport à inventer et des demandes de mobilité elles-aussi en mutation (lire également la **MétaNote N°18 dédiée à comprendre la "demande"**).
 
  
 

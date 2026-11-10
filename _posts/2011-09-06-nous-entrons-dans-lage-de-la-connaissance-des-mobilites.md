@@ -30,10 +30,10 @@ Cet exemple d’exploitation des données montre clairement que nous pouvons rep
 
  
 
-Place de la Toile sur France Culture lui a consacré la **[dernière émission]()** : la société de l’anticipation. « *L’anticipation, la capacité qu’ont les ordinateurs, grâce au traitement d’immenses masses données, à se transformer en outils de prédictions, c’est une question que l’on a traité de manière éparpillée dans **Place de la toile**. [**La société de l'anticipation***]() a le grand mérite de rassembler tout cela et d'en proposer une interprétation globalisante, d’observer la « rupture anthropologique » qu’on est en droit d’attendre de cet usage. »  
+Place de la Toile sur France Culture lui a consacré la **dernière émission** : la société de l’anticipation. « *L’anticipation, la capacité qu’ont les ordinateurs, grâce au traitement d’immenses masses données, à se transformer en outils de prédictions, c’est une question que l’on a traité de manière éparpillée dans **Place de la toile**. **La société de l'anticipation*** a le grand mérite de rassembler tout cela et d'en proposer une interprétation globalisante, d’observer la « rupture anthropologique » qu’on est en droit d’attendre de cet usage. »  
 
  
 
 Un des risques évoqués dans l’émission vient du contrôle des modèles et outils prédictifs uniquement par des sociétés marchandes dans le but de mieux/plus vendre des produits/services. Sur le sujet des transports, il apparaît essentiel que les entités publiques prennent un rôle dans la mise en œuvre, dans la gestion des énormes bases de données, et dans l’utilisation sociale de ces outils.
 
- [Mobility pattern]() View more [documents]() from [Les transports du futur](). "2011-09-06 14:05:01https://transportsdufutur.ademe.fr/2011/09/nous-entrons-dans-lage-de-la-connaissance-des-mobilites.htmlassistant de mobilité|autorité des transports|citoyen|collectivité|données réelles|gouvernance|innovation|internet|management de la mobilité|marketing individualisé|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatnous-entrons-dans-lage-de-la-connaissance-des-mobilites2015-07-21 16:36:43
+ Mobility pattern View more documents from Les transports du futur.

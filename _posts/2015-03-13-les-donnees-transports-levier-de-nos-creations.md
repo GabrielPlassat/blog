@@ -31,51 +31,17 @@ En décembre 2009, l'ADEME organisait un séminaire et lançait en même temps c
 
  
 
- ** [Les transports du futur mobilite des personnes le programmev2]() ** from **[Les transports du futur]()** 
+ ** Les transports du futur mobilite des personnes le programmev2 ** from **Les transports du futur** 
 
-Waze, également [**déniché par ce blog**]() en 2010, se lançait Personne n'imaginait la suite, le rachat par Google, l'intégration dans Android ([**annoncée récemment**]()), l'alliance avec des villes comme [**Rio sous la forme de troc**](), ... et après ? Déjà un milliard d'objet fonctionnant sous Android en circulation aujourd'hui, vous pensez protéger des données. Interrogez une communauté d'usagers concernant la privacy des données de géolocalisation, ce n'est plus un sujet dans les faits.
-
- 
-
-Blablacar s'appelait Covoiturage.fr (ci dessous en 2005 avec 28 trajets proposés) et la confiance était questionnée (*Atelier 3 : les changements culturels*). Personne n'imaginait la rapidité du développement. Nos pratiques peuvent changer, vite (lire l'[**article Changer. Enfin**]()).
+Waze, également **déniché par ce blog** en 2010, se lançait Personne n'imaginait la suite, le rachat par Google, l'intégration dans Android (**annoncée récemment**), l'alliance avec des villes comme **Rio sous la forme de troc**, ... et après ? Déjà un milliard d'objet fonctionnant sous Android en circulation aujourd'hui, vous pensez protéger des données. Interrogez une communauté d'usagers concernant la privacy des données de géolocalisation, ce n'est plus un sujet dans les faits.
 
  
 
-[![]()]()
+Blablacar s'appelait Covoiturage.fr (ci dessous en 2005 avec 28 trajets proposés) et la confiance était questionnée (*Atelier 3 : les changements culturels*). Personne n'imaginait la rapidité du développement. Nos pratiques peuvent changer, vite (lire l'**article Changer. Enfin**).
 
  
 
- 
 
- 
-
-**Bien souvent, les échanges autour des données sont révélateurs de la posture : réaction ou action, pure création ou réponse à une attaque réelle ou supposée. Ne nous trompons pas de combat, devant les défis à relever, les solutions ne naîtront pas de nos réactions, mais de nos créations. **
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"2015-03-13 10:37:24https://transportsdufutur.ademe.fr/2015/03/les-donnees-transports-levier-de-nos-creations.htmlActeur numérique des Mobilités et des Logistiques|ADEME|art de la guerre|assistant de mobilité|citoyen|donnée data|données réelles|Fabrique des mobilités|google|innovation|internet|plate-forme|Que sait-on de nos mobilités ?|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-donnees-transports-levier-de-nos-creations2017-05-05 15:37:52width=""477""> 
-
- ** [Les transports du futur mobilite des personnes le programmev2]() ** from **[Les transports du futur]()** 
-
-Waze, également [**déniché par ce blog**]() en 2010, se lançaitPersonne n'imaginait la suite, le rachat par Google, l'intégration dans Android ([**annoncée récemment**]()), l'alliance avec des villes comme [**Rio sous la forme de troc**](), ... et après ? Déjà un milliard d'objet fonctionnant sous Android en circulation aujourd'hui, vous pensez protéger des données. Interrogez une communauté d'usagers concernant la privacy des données de géolocalisation, ce n'est plus un sujet dans les faits.
-
- 
-
-Blablacar s'appelait Covoiturage.fr (ci dessous en 2005 avec 28 trajets proposés) et la confiance était questionnée (*Atelier 3 : les changements culturels*). Personne n'imaginait la rapidité du développement. Nos pratiques peuvent changer, vite (lire l'[**article Changer. Enfin**]()).
-
- 
-
-[![]()]()
 
  
 
@@ -84,17 +50,3 @@ Blablacar s'appelait Covoiturage.fr (ci dessous en 2005 avec 28 trajets proposé
  
 
 **Bien souvent, les échanges autour des données sont révélateurs de la posture : réaction ou action, pure création ou réponse à une attaque réelle ou supposée. Ne nous trompons pas de combat, devant les défis à relever, les solutions ne naîtront pas de nos réactions, mais de nos créations. **
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"

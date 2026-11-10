@@ -19,7 +19,7 @@ Le projet OS Vehicle est simple : vous pouvez commander un kit TABBY en choisiss
 
  
 
-Plusieurs acteurs en France s'investissent également sur ce sujet à travers des évènements comme le [**FabJam**]().
+Plusieurs acteurs en France s'investissent également sur ce sujet à travers des évènements comme le **FabJam**.
 
  
 
@@ -29,32 +29,12 @@ Plusieurs acteurs en France s'investissent également sur ce sujet à travers de
 
  
 
-D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : "A*ll the plans and blueprints for TABBY can be downloaded in the website’s **[download]()** section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV **[forum]()**.*" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre [**à moins de 3000 euros**](). [**Urban Tabby**]() est le véhicule urbain par excellence.
+D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : "A*ll the plans and blueprints for TABBY can be downloaded in the website’s **download** section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV **forum**.*" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre **à moins de 3000 euros**. **Urban Tabby** est le véhicule urbain par excellence.
 
  
 
-Rajouter à cela un hébergement chez AmazonSupply des composants avec les outils ad-hoc **et/ou** la livraison comme vos pneus chez un garagiste ou un centre de montage homologué OSVehicle **et/ou** l'émergence de micro-usine locale (voir le concept de micro factory [**ici** ]()ou [**là**]()) ou **[fablab]() , et vous bouleversez la distribution de véhicule de mobilité quotidienne.**
+Rajouter à cela un hébergement chez AmazonSupply des composants avec les outils ad-hoc **et/ou** la livraison comme vos pneus chez un garagiste ou un centre de montage homologué OSVehicle **et/ou** l'émergence de micro-usine locale (voir le concept de micro factory **ici** ou **là**) ou **fablab , et vous bouleversez la distribution de véhicule de mobilité quotidienne.**
 
  
 
-Et si [**Bolloré**]() ou [**Transdev**]() designaient des [**services de mobilités**](), en "bricolant" autour de ces nouveaux véhicules serviciels, simples, low cost, efficients, en profitant de la multitude pour améliorer sans cesse le produit pour se concentrer sur le design des expériences ? Au passage Amazon, par sa puissance et la qualité de ses services, pourrait bouleverser le secteur de la gestion et livraison B2B.
-
- 
-
- 
-
-"2014-05-12 18:39:36https://transportsdufutur.ademe.fr/2014/05/amazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatamazon-supply-et-os-vehicle-prefigurent-le-futur-de-la-mobilite-quotidienne2015-07-21 16:35:33>D'un autre coté, tous les plans, tous les éléments sont conçus en open-source : "A*ll the plans and blueprints for TABBY can be downloaded in the website’s **[download]()** section. You are welcome and encouraged to improve the designs, work on them, and upload them to share your ideas with the community through the OSV **[forum]()**.*" Tout le monde peut améliorer, diversifier vers un véhicule spécifique, capitaliser, renforçant la résilience du dispositif. Notons également que le véhicule complet se chiffre [**à moins de 3000 euros**](). [**Urban Tabby**]() est le véhicule urbain par excellence.
-
- 
-
-Rajouter à cela un hébergement chez AmazonSupply des composants avec les outils ad-hoc **et/ou** la livraison comme vos pneus chez un garagiste ou un centre de montage homologué OSVehicle **et/ou** l'émergence de micro-usine locale (voir le concept de micro factory [**ici** ]()ou [**là**]()) ou **[fablab]() , et vous bouleversez la distribution de véhicule de mobilité quotidienne.**
-
- 
-
-Et si [**Bolloré**]() ou [**Transdev**]() designaient des [**services de mobilités**](), en "bricolant" autour de ces nouveaux véhicules serviciels, simples, low cost, efficients, en profitant de la multitude pour améliorer sans cesse le produit pour se concentrer sur le design des expériences ? Au passage Amazon, par sa puissance et la qualité de ses services, pourrait bouleverser le secteur de la gestion et livraison B2B.
-
- 
-
- 
-
-"
+Et si **Bolloré** ou **Transdev** designaient des **services de mobilités**, en "bricolant" autour de ces nouveaux véhicules serviciels, simples, low cost, efficients, en profitant de la multitude pour améliorer sans cesse le produit pour se concentrer sur le design des expériences ? Au passage Amazon, par sa puissance et la qualité de ses services, pourrait bouleverser le secteur de la gestion et livraison B2B.

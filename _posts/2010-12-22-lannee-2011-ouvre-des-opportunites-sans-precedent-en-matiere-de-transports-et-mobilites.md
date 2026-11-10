@@ -23,14 +23,14 @@ La question n'est plus aujourd'hui de savoir quel rôle vont jouer les TIC, quel
 
  
 
-**Si les opportunités sont grandes, les risques le sont tout autant !** Les solutions d'autopartage courte durée comme Autolib pourraient s'avérer chers par des coûts d'assurances élevés, les véhicules électriques pourraient voir les bilans technico-économiques remis en question après les premiers retours d'expériences sur les coûts d'usages réels, les services de mobilité proposés pourraient être inadaptés aux besoins des citoyens et permettre finalement aux constructeurs de faire du **[service washing]()**" pour mieux rester sur leur métier de base, les systèmes d'informations multimodales pourraient se développer lentement liés aux faibles partages des données, les autorités organisatrices pourraient continuer à ne gérer que certains modes de transports, sans penser le tout. Finalement, de nombreuses raisons peuvent conduire les acteurs à rester sur leur position, à innover "à la marge", à ne pas prendre de risque... au risque de tout perdre.
+**Si les opportunités sont grandes, les risques le sont tout autant !** Les solutions d'autopartage courte durée comme Autolib pourraient s'avérer chers par des coûts d'assurances élevés, les véhicules électriques pourraient voir les bilans technico-économiques remis en question après les premiers retours d'expériences sur les coûts d'usages réels, les services de mobilité proposés pourraient être inadaptés aux besoins des citoyens et permettre finalement aux constructeurs de faire du **[service washing](http://leblog.gerpisa.org/node/1148)**" pour mieux rester sur leur métier de base, les systèmes d'informations multimodales pourraient se développer lentement liés aux faibles partages des données, les autorités organisatrices pourraient continuer à ne gérer que certains modes de transports, sans penser le tout. Finalement, de nombreuses raisons peuvent conduire les acteurs à rester sur leur position, à innover "à la marge", à ne pas prendre de risque... au risque de tout perdre.
 
  
 
-**[L'ADEME]()**, dans le cadre des Investissements d'Avenir, vient de signer une convention avec l'Etat dans le domaine des transports portant sur le programme "**[Véhicule du Futur]()**" pour un budget total de 1 milliard d'euros. Des appels à manifestations d'intérêt vont s'ouvrir en 2011 sur tous ces sujets.
+**[L'ADEME](http://www2.ademe.fr/servlet/KBaseShow?sort=-1&cid=96&m=3&catid=24305)**, dans le cadre des Investissements d'Avenir, vient de signer une convention avec l'Etat dans le domaine des transports portant sur le programme "**[Véhicule du Futur](http://www.ademe.fr/?name=6F53636309F2D3726AC3E276128A56F31292244530643.pdf)**" pour un budget total de 1 milliard d'euros. Des appels à manifestations d'intérêt vont s'ouvrir en 2011 sur tous ces sujets.
 
  
 
-**Préparons nous à faire de cette mutation sans précédent [une chance pour les citoyens, les industries et l'environnement ]()!**
+**Préparons nous à faire de cette mutation sans précédent [une chance pour les citoyens, les industries et l'environnement ]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)!**
 
- [Rdi strategie convention_vehiculesdufutur]() View more [documents]() from [transportsdufutur](). "
+ [Rdi strategie convention_vehiculesdufutur](http://www.slideshare.net/transportsdufutur/rdi-strategie-conventionvehiculesdufutur) View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). "

@@ -18,16 +18,14 @@ En conséquence, la Chine pourrait être la base de test et de lancement de ces 
 
  
 
-[![]()]() 
+ 
 
  
- [![]()]()
+ 
 Si cela se met en oeuvre, le pire est à craindre pour les acteurs européens. Ces objets roulant efficaces à bas coût s'intégreront parfaitement dans une multitude de services de mobilité. Ils seront conçus pour la multitude de configuration, de contexte auxquels ils devront répondre. Progressivement, l'ensemble des acteurs (industrie, état et collectivité) cherchera à mettre en oeuvre ces services pour leur capacité à maximiser l'usage des investissements privés et publics, à réduire la congestion, tout en soutenant l'innovation et l'emploi. 
 
-Intégrant tous les acteurs, les mégalopoles asiatiques pourraient dès lors devenir les meilleurs [**laboratoires numériques**]() permettant d'expérimenter donc de mettre au point des services de mobilités, mais surtout des outils pour comprendre l'acceptabilité, l'acceptation puis l'intégration dans les pratiques de ces services. La synergie se développera: les acteurs locaux auront un avantage compétitif majeur à la fois pour l'industrialisation des objets, pour le développement des outils/systèmes d'intelligence numérique permettant de coordonner plusieurs modes de transport, et pour la capacité à expérimenter dans des environnements complexes, contraints et communiquants.
+Intégrant tous les acteurs, les mégalopoles asiatiques pourraient dès lors devenir les meilleurs **laboratoires numériques** permettant d'expérimenter donc de mettre au point des services de mobilités, mais surtout des outils pour comprendre l'acceptabilité, l'acceptation puis l'intégration dans les pratiques de ces services. La synergie se développera: les acteurs locaux auront un avantage compétitif majeur à la fois pour l'industrialisation des objets, pour le développement des outils/systèmes d'intelligence numérique permettant de coordonner plusieurs modes de transport, et pour la capacité à expérimenter dans des environnements complexes, contraints et communiquants.
 
  
 
-Il est encore temps, mais le [**point de basculement**]() se rapproche.
-
-"2012-03-21 15:14:40https://transportsdufutur.ademe.fr/2012/03/solutions-de-mobilites-pour-les-deplacements-domicile-travail-et-si-la-chine.htmlassistant de mobilité|chine|citoyen|collectivité|commuter|économie fonctionnalité|Efficacité énergétique|Europe|intelligence collective|partage de la voirie|rickshawpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsolutions-de-mobilites-pour-les-deplacements-domicile-travail-et-si-la-chine2015-07-21 16:36:33
+Il est encore temps, mais le **point de basculement** se rapproche.

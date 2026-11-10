@@ -19,10 +19,10 @@ Cette directive et le guide associé permettent ainsi de se baser sur des critè
 
  
 
-Des progrès sont à attendre au niveau de la connaissance des émissions de tous les types de véhicules pour permettre d'appliquer au mieux cette directive. Ainsi, par exemple, [**ce type de technologie**]() pourrait permettre d'approcher au plus près les émissions réelles, donc les coûts externes réels, donc d'améliorer la sélection des meilleurs véhicules propres.
+Des progrès sont à attendre au niveau de la connaissance des émissions de tous les types de véhicules pour permettre d'appliquer au mieux cette directive. Ainsi, par exemple, [**ce type de technologie**]({{ site.baseurl }}/2011/11/connaitre-les-emissions-reelles-polluants-et-co2-dun-vehicule-vers-la-transparence-totale/) pourrait permettre d'approcher au plus près les émissions réelles, donc les coûts externes réels, donc d'améliorer la sélection des meilleurs véhicules propres.
 
  
 
-Le projet européen Starbus avait également développé plusieurs livrables permettant d'approcher ces données. Ce projet piloté par l'ADEME apparaît dans [**la boite à outils de la directive**](). L'accès aux données stratégiques (consommation et émissions réelles) permet de modifier les critères de sélection, de mieux choisir.
+Le projet européen Starbus avait également développé plusieurs livrables permettant d'approcher ces données. Ce projet piloté par l'ADEME apparaît dans [**la boite à outils de la directive**](http://ec.europa.eu/transport/urban/vehicles/directive/toolbox_en.htm). L'accès aux données stratégiques (consommation et émissions réelles) permet de modifier les critères de sélection, de mieux choisir.
 
- [Ref -commande_publique_de_vehicules]() View more [documents]() from [Les transports du futur](). "
+ [Ref -commande_publique_de_vehicules](http://www.slideshare.net/transportsdufutur/ref-commandepubliquedevehicules) View more [documents](http://www.slideshare.net/) from [Les transports du futur](http://www.slideshare.net/transportsdufutur). "

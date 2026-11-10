@@ -23,7 +23,7 @@ Tout ceci avait été abordé dans un article écrit il y a 2 ans ([**le voici**
 
  
 
-En mettant en oeuvre ce type d'outil, et en les maîtrisant, le consommateur fera mentir [**E.Berney** ]({{ site.baseurl }}/2011/10/le-consommateur-du-futur-revolution/)(auteur de Propaganda), réduira l'asymétrie d'informations avec les vendeurs/producteurs, et augmentera ses connaissances, ses savoirs, et donc son autorité (augere", savoir augmenté). Le consommateur peut donc "[**reprendre la main**]()".
+En mettant en oeuvre ce type d'outil, et en les maîtrisant, le consommateur fera mentir [**E.Berney** ]({{ site.baseurl }}/2011/10/le-consommateur-du-futur-revolution/)(auteur de Propaganda), réduira l'asymétrie d'informations avec les vendeurs/producteurs, et augmentera ses connaissances, ses savoirs, et donc son autorité (augere", savoir augmenté). Le consommateur peut donc "[**reprendre la main**]({{ site.baseurl }}/2011/08/le-reverse-marketing-utilisant-le-tsunami-des-donnees-le-consommateur-reprend-la-main-quelles-conseq/)".
 
  
 

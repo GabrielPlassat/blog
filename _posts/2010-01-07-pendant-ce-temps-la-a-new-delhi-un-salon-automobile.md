@@ -69,7 +69,7 @@ India is developing as a **small-car hub**," senior director at the Society of I
 
  
 
-En France, en 2009, les ventes se sont elles aussi concentrées sur les véhicules simples, économes pour des raisons évidentes de pouvoir d’achat (voir **[ici]()**). En 2008, 50% des ventes concernaient les segments « économique inférieur », 57% en 2009. 
+En France, en 2009, les ventes se sont elles aussi concentrées sur les véhicules simples, économes pour des raisons évidentes de pouvoir d’achat (voir **[ici]({{ site.baseurl }}/2010/01/vers-des-voitures-a-tres-bas-prix/)**). En 2008, 50% des ventes concernaient les segments « économique inférieur », 57% en 2009. 
 
  
 

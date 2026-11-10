@@ -23,7 +23,7 @@ Plus intéressant encore, ces décisions ont des conséquences "indirectes" qui 
 
  
 
-[![]()]()
+
 
  
 
@@ -31,28 +31,8 @@ Puis une troisième cercle de conséquences émerge pour les personnes qui y pr�
 
  
 
-Ces changements renforcent la décision initiale sur de multiples plans (mobilité bien sûr, mais également santé, lien social, développement personnel), les bénéfices se transforment en évidence, et d'autres champs peuvent évoluer : alimentation, respiration, consommation, engagement social... L'analyse des conséquences d'un changement de pratique, de comportement montre également que nos outils, basés essentiellement sur des bilans comptables utilisant l'euro comme aggrégateur de richesse, sont insuffisants et inadaptés. Vouloir parler de nos comportements oblige à mieux savoir décrire nos[** multiples richesses**]().
+Ces changements renforcent la décision initiale sur de multiples plans (mobilité bien sûr, mais également santé, lien social, développement personnel), les bénéfices se transforment en évidence, et d'autres champs peuvent évoluer : alimentation, respiration, consommation, engagement social... L'analyse des conséquences d'un changement de pratique, de comportement montre également que nos outils, basés essentiellement sur des bilans comptables utilisant l'euro comme aggrégateur de richesse, sont insuffisants et inadaptés. Vouloir parler de nos comportements oblige à mieux savoir décrire nos** multiples richesses**.
 
  
 
 Nous ne ferons pas du vélo pour réduire la pollution, nous ne "perdrons" pas 5 minutes pour faire un détour et prendre un collègue de travail. Bien sûr, ces changements auront ces conséquences environnementales mais ce ne sont "que" des co-produits de bénéfices plus fondamentaux pour notre humanité. Et pour vous ?
-
- 
-
-"2014-01-11 10:01:16https://transportsdufutur.ademe.fr/2014/01/le-premier-jour-ou-jai-arrete.htmlautopartage|economie circulaire|Efficacité énergétique|externalité|innovation|intelligence collective|marche|mode doux|multimodes|philosophie|Santé|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-premier-jour-ou-jai-arrete2015-07-21 16:35:36title=""Eagle-bike-helmet1"" />
-
- 
-
-Puis une troisième cercle de conséquences émerge pour les personnes qui y prêtent attention : développement de la conscience, de l'empathie, cohérence entre le faire, l'être et les paroles. Ce niveau ne touche que des richesses exprimables non quantifiables, non échangeables, les plus fondamentales. Nous sommes loin de la richesse conventionnelle, la monnaie, l'euro. Plus étonnant encore, ces richesses se renforcent mutuellement : le corps et l'esprit sont plus vifs, permettant de mieux rentrer en contact avec l'autre, de saisir plusieurs dimensions d'un échange, de mieux ressentir et apprécier les évolutions sur sa santé.
-
- 
-
-Ces changements renforcent la décision initiale sur de multiples plans (mobilité bien sûr, mais également santé, lien social, développement personnel), les bénéfices se transforment en évidence, et d'autres champs peuvent évoluer : alimentation, respiration, consommation, engagement social... L'analyse des conséquences d'un changement de pratique, de comportement montre également que nos outils, basés essentiellement sur des bilans comptables utilisant l'euro comme aggrégateur de richesse, sont insuffisants et inadaptés. Vouloir parler de nos comportements oblige à mieux savoir décrire nos[** multiples richesses**]().
-
- 
-
-Nous ne ferons pas du vélo pour réduire la pollution, nous ne "perdrons" pas 5 minutes pour faire un détour et prendre un collègue de travail. Bien sûr, ces changements auront ces conséquences environnementales mais ce ne sont "que" des co-produits de bénéfices plus fondamentaux pour notre humanité. Et pour vous ?
-
- 
-
-"

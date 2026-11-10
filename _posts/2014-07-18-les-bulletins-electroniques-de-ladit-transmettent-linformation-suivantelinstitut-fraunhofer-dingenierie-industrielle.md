@@ -15,7 +15,7 @@ redirect_from:
 
  
 
-*Les *[*bulletins électroniques*](http://www.bulletins-electroniques.com/)* de l’ADIT transmettent l’information suivante** : *L'Institut Fraunhofer d'ingénierie industrielle ([IAO](http://www.iao.fraunhofer.de/lang-en/)) de Stuttgart et le [SENSEable City Lab](http://senseable.mit.edu/) du MIT de Boston (déjà abordé plusieurs fois dans ce blog, voir les différents articles sur [**le vélo, les mutations ou encore les données**](/?s=MIT)) ont débuté une collaboration sur le thème de la mobilité du futur. Un laboratoire commun, baptisé [Ambient Mobility Lab]()", a été inauguré les 9 et 10 juillet 2014 à Stuttgart.
+*Les *[*bulletins électroniques*](http://www.bulletins-electroniques.com/)* de l’ADIT transmettent l’information suivante** : *L'Institut Fraunhofer d'ingénierie industrielle ([IAO](http://www.iao.fraunhofer.de/lang-en/)) de Stuttgart et le [SENSEable City Lab](http://senseable.mit.edu/) du MIT de Boston (déjà abordé plusieurs fois dans ce blog, voir les différents articles sur [**le vélo, les mutations ou encore les données**](/?s=MIT)) ont débuté une collaboration sur le thème de la mobilité du futur. Un laboratoire commun, baptisé [Ambient Mobility Lab](http://www.ambientmobility.org/)", a été inauguré les 9 et 10 juillet 2014 à Stuttgart.
 
  
 
@@ -23,7 +23,7 @@ L'objectif est de développer conjointement des concepts de mobilité durable, d
 
  
 
-[![]()]()
+
 
  La combinaison de la recherche fondamentale du MIT et de la recherche appliquée du Fraunhofer IAO sera d'importance pour un transfert technologique efficace. "Nous intégrerons tôt les entreprises industrielles et de service au laboratoire. Nous souhaitons déjà planifier des projets de recherche appliquée, tester des solutions et des technologies, afin d'assurer notre place sur certains marchés", explique Jochen Verhasselt, responsable d'"Ambient Mobility Lab" au Fraunhofer IAO. 
 
@@ -41,5 +41,3 @@ Cette coopération est financée à hauteur de 2,65 millions d'euros par le Land
  
 
 *Un coopération qui a du sens car le Fraunhofer et le MIT sont des poids lourds de la recherche. Une surprise toutefois : côté allemand, ce n’est pas **l'IVI  (Transport et infrastructures) de Dresde qui est mobilisé bien que sa devise soit "Research for a mobile future" En revanche l'IAO semble plus branché interfaces homme technique. **Signe des temps ?*
-
-"2014-07-18 15:35:49https://transportsdufutur.ademe.fr/2014/07/les-bulletins-electroniques-de-ladit-transmettent-linformation-suivantelinstitut-fraunhofer-dingenierie-industrielle.htmlArticles invitésinnovation|intelligence collective|internet|internet des objets|MIT|mode doux|taxi|véhicule mono-usage|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatles-bulletins-electroniques-de-ladit-transmettent-linformation-suivantelinstitut-fraunhofer-dingenierie-industrielle2017-11-02 16:42:03

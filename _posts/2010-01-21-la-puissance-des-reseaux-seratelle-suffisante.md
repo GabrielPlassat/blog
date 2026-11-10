@@ -62,7 +62,7 @@ Pourtant, est-ce que ces communautés sont assez solides pour inspirer la confia
 
  
 
-Pour Zygmun Bauman sur **[ndlr]()**, notre société individualisée va de pair avec une extrême précarisation des liens. La tendance à substituer la notion de « réseau » à celle de « structure » dans les descriptions des interactions humaines contemporaines traduit parfaitement ce nouvel air du temps. Contrairement aux «structures » de naguère, dont la raison d'être était d'attacher par des noeuds difficiles à dénouer, les réseaux servent autant à déconnecter qu'à connecter... 
+Pour Zygmun Bauman sur **[ndlr](http://n-d-l-r.blogspot.com/search?updated-max=2009-09-10T02%3A08%3A00-07%3A00&max-results=10)**, notre société individualisée va de pair avec une extrême précarisation des liens. La tendance à substituer la notion de « réseau » à celle de « structure » dans les descriptions des interactions humaines contemporaines traduit parfaitement ce nouvel air du temps. Contrairement aux «structures » de naguère, dont la raison d'être était d'attacher par des noeuds difficiles à dénouer, les réseaux servent autant à déconnecter qu'à connecter... 
 
  
 
@@ -70,7 +70,7 @@ Il est donc possible que certaines communautés, de part leur structure, les cat
 
  
 
-Si le réseau n'est pas suffisant pour inspirer la confiance, une autre tendance pourrait se développer, conformément à la proposition n°4 de J.Attali auteur de Survivre aux crises (voir **[précédente note]()**), la résilience: ne compter que sur soi-même, rechercher l'autonomie voire l'autarcie, n'acheter que des véhicules d'occasion et développer des compétences pour réparer, maintenir en état (voir le développement des [**self-garages**]()), et si besoin, pour des raisons économiques, troquer ses places libres dans sa voiture (voir **[ici]()**), ou vendre la place libre dans son coffre (voir **[ici]()**)...
+Si le réseau n'est pas suffisant pour inspirer la confiance, une autre tendance pourrait se développer, conformément à la proposition n°4 de J.Attali auteur de Survivre aux crises (voir **[précédente note]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**), la résilience: ne compter que sur soi-même, rechercher l'autonomie voire l'autarcie, n'acheter que des véhicules d'occasion et développer des compétences pour réparer, maintenir en état (voir le développement des [**self-garages**](http://www.selfgarage.org/)), et si besoin, pour des raisons économiques, troquer ses places libres dans sa voiture (voir **[ici](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page)**), ou vendre la place libre dans son coffre (voir **[ici](http://www.covoiturage.fr/blog/prix-du-covoiturage)**)...
 
  
 

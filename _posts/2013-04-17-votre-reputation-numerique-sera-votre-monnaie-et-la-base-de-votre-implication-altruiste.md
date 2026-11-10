@@ -53,7 +53,7 @@ notamment parce qu'elles coûtent de moins en moins cher à produire et que la m
 
  
 
-Dans [un scenario de prospective réalisé par la FING](), les données jouent un nouveau rôle, celui de devenir source de revenu pour ceux qui les génèrent : **Les big data à la base du revenu universel d’existence - “Pas d’usages du numérique, pas de revenu !”**
+Dans un scenario de prospective réalisé par la FING, les données jouent un nouveau rôle, celui de devenir source de revenu pour ceux qui les génèrent : **Les big data à la base du revenu universel d’existence - “Pas d’usages du numérique, pas de revenu !”**
 
  
 
@@ -69,11 +69,11 @@ Actuellement, les producteurs de données, les usagers, se rendent compte des «
 
  
 
-Dans [The Nature Of The Future: Dispatches From The Socialstructed World](), *Marina Gorbis soutient que nous nous éloignons du monde dépersonnalisé de la production institutionnelle vers une nouvelle économie fondée sur des liens sociaux et des récompenses - un processus qu'elle appelle « socialstructing ». Ainsi cet altruisme numérique pourrait être facilité par de nouvelles monnaies. Ces traces numériques enrichies par croisements avec d’autres données*
+Dans The Nature Of The Future: Dispatches From The Socialstructed World, *Marina Gorbis soutient que nous nous éloignons du monde dépersonnalisé de la production institutionnelle vers une nouvelle économie fondée sur des liens sociaux et des récompenses - un processus qu'elle appelle « socialstructing ». Ainsi cet altruisme numérique pourrait être facilité par de nouvelles monnaies. Ces traces numériques enrichies par croisements avec d’autres données*
 
  
 
-[Votre réputation une monnaie]()
+Votre réputation une monnaie
 
  
 

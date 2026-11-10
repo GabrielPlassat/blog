@@ -31,21 +31,11 @@ En ce qui concerne les effets potentiels des tendances de la mobilité sur l'ind
 
  
 
-Dans une autre [**étude plus large sur l'industrie en France**](), Oliver Wyman souligne que "des services de mobilité sont en train de se mettre en place, mobilisant des acteurs jusqu’ici éloignés du secteur automobile. Leur intégration dans une offre visant la continuité des solutions sera décisive pour la maîtrise de ce marché. Dans ce modèle, l’intégrateur, celui qui a la capacité d’assembler la solution complexe globale, pourrait se trouver demain en position de force."
+Dans une autre **étude plus large sur l'industrie en France**, Oliver Wyman souligne que "des services de mobilité sont en train de se mettre en place, mobilisant des acteurs jusqu’ici éloignés du secteur automobile. Leur intégration dans une offre visant la continuité des solutions sera décisive pour la maîtrise de ce marché. Dans ce modèle, l’intégrateur, celui qui a la capacité d’assembler la solution complexe globale, pourrait se trouver demain en position de force."
 
  
 
- [![]()]()
-
  
-
-Un autre cabinet de conseil Frost & Sullivan confirme cette tendance avec son dernier rapport Mega Trend sur la Mobilité : intégration verticale pour construire des sservices de mobilité multimodaux, re-conception des véhicules pour mieux les intégrer dans ces services, déploiements dans toutes les configurations urbaines à travers le monde. Cette tendance là est bien mondiale, les principes et mécanismes sont transposables avec des spécificités technologiques des produits en fonction des pays et des contextes.
-
- 
-
- 
-
- ** [New Mega Trends and the Future of Mobility]() ** from **[Frost & Sullivan ]()** "2012-08-23 15:05:27https://transportsdufutur.ademe.fr/2012/08/le-role-de-lautomobile-doit-etre-reinvente-etude-oliver-wyman-pour-construire-des-services-multimoda.htmlassistant de mobilité|autopartage|BAJAJ|collectivité|commuter|connectivité|Efficacité énergétique|Frost & Sullivan|innovation|internet|Oliver Wyman|Service de mobilité|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-role-de-lautomobile-doit-etre-reinvente-etude-oliver-wyman-pour-construire-des-services-multimoda2015-07-21 16:36:29>![]()
 
  
 
@@ -55,4 +45,4 @@ Un autre cabinet de conseil Frost & Sullivan confirme cette tendance avec son de
 
  
 
- ** [New Mega Trends and the Future of Mobility]() ** from **[Frost & Sullivan ]()** "
+ ** New Mega Trends and the Future of Mobility ** from **Frost & Sullivan **

@@ -15,27 +15,16 @@ redirect_from:
 
  
 
-Cette re-conception aura des conséquences sur les véhicules standards", sur les modèles d'affaires de tous les véhicules, sur le partage de la voirie en obligeant à re-considérer les contraintes / récompenses (temps et/ou argent) associées aux différents modes. Des acteurs à la croisée de l'automobile, du 2 roues se préparent ... Ne regardez pas ces objets comme vous regardez une automobile, voyez plutôt des services et pour les meilleurs des "fournisseurs d'expériences". Il y a fort à parier que ces objets réels soient associés avec [**ça** ]()...
+Cette re-conception aura des conséquences sur les véhicules standards", sur les modèles d'affaires de tous les véhicules, sur le partage de la voirie en obligeant à re-considérer les contraintes / récompenses (temps et/ou argent) associées aux différents modes. Des acteurs à la croisée de l'automobile, du 2 roues se préparent ... Ne regardez pas ces objets comme vous regardez une automobile, voyez plutôt des services et pour les meilleurs des "fournisseurs d'expériences". Il y a fort à parier que ces objets réels soient associés avec [**ça** ](http://www.i-way-world.com/)...
 
  
 
-[![]()]() [![]()]()
- [![]()]() 
+ 
+  
 
  
 
- [![]()]() [![]()]() [![]() ]()[![]()]() [![]()]() [![]()]()
- [![]()]() [![]()]() [![]()]()
-
- [![]()]()
-
-"2012-10-24 15:40:57https://transportsdufutur.ademe.fr/2012/10/exemples-de-vehicule-mono-usage-a-tendance-servicielle.htmlchine|citoyen|commuter|Frost & Sullivan|General Motor|jeu vidéo|Service de mobilité|véhicule mono-usagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatexemples-de-vehicule-mono-usage-a-tendance-servicielle2015-07-21 16:35:49margin-right: auto"" title=""Rainbow_system_600x300"" /> 
+      
+   
 
  
-
- [![]()]() [![]()]() [![]() ]()[![]()]() [![]()]() [![]()]()
- [![]()]() [![]()]() [![]()]()
-
- [![]()]()
-
-"

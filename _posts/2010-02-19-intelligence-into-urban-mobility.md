@@ -33,5 +33,5 @@ Retrouver ci dessous les présentations concernant les véhicules, l'infrastruct
  
 - Christian Rousseau, Renault - Electrification of vehicles and ITS 
 - Hans-Joachim Schade, Siemens - Intersection safety for cities  
-- Jan van der Wel, Technolution - Multimodal urban mobility services: the connected traveller, here and now! [Technolution]() View more [presentations]() from [transportsdufutur](). [Siemens]() View more [presentations]() from [transportsdufutur]().
- [Renault]() View more [presentations]() from [transportsdufutur]()."
+- Jan van der Wel, Technolution - Multimodal urban mobility services: the connected traveller, here and now! [Technolution](http://www.slideshare.net/transportsdufutur/technolution) View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). [Siemens](http://www.slideshare.net/transportsdufutur/siemens-3227726) View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur).
+ [Renault](http://www.slideshare.net/transportsdufutur/renault) View more [presentations](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur)."

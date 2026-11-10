@@ -15,7 +15,7 @@ Patagonia expérimente le futur de l'automobile (lire les MétaNotes N°14 **[L'
  
 
  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b019aff475d5c970d-320wi.png)](http://featherfiles.aviary.com/2013-09-09/f77694d11/e1c41ee001054b14b1a259cdcaadbac3_hires.png)
-Pur marketing pour certains, tout simplement une question de survie pour d'autres. Ayant compris que rapidement, l'entreprise devra s'organiser pour proposer des produits **[beaux]()**, **[bons]()** et **[vrais]()**" (lire **[l'origine du concept]()**), Patagonia préfigure sans doute l'avenir du commerce de biens industriels. avec l'arrivée promise de nouveaux types de véhicules autonomes, les chaînes de valeur des mobilités vont être bouleversées ouvrant d'immenses opportunités et de grands risques. 
+Pur marketing pour certains, tout simplement une question de survie pour d'autres. Ayant compris que rapidement, l'entreprise devra s'organiser pour proposer des produits **[beaux](http://www.patagonia.com/eu/frFR/ambassadors)**, **[bons](http://www.patagonia.com/eu/frFR/footprint?LAC=frFR&assetid=23429&ln=451)** et **[vrais](http://instagram.com/wornwear)**" (lire **[l'origine du concept](http://noubel.fr/questions-parfumees/)**), Patagonia préfigure sans doute l'avenir du commerce de biens industriels. avec l'arrivée promise de nouveaux types de véhicules autonomes, les chaînes de valeur des mobilités vont être bouleversées ouvrant d'immenses opportunités et de grands risques. 
 
  
 
@@ -27,7 +27,7 @@ D'un coté, il est, déjà aujourd'hui, possible d'imaginer des mobilités multi
 
  
 
-De l'autre coté, des promesses de plus en plus nombreuses sont faites par les constructeurs automobiles. Après **[Nissan]()**, **[Daimler]()** a annoncé commercialiser des véhicules autonomes en 2020 (lire également **[La classe S et si c'était déjà un cybercar]()**). **[Valéo vient de s'associer à Safran]()** pour développer des produits/services dans ce domaine. Et cet été, **[Google poursuit ses développements avec des partenariats comme Continental]()**. La chimère du cybercar va devenir réalité avec un point de bascule clairement positionné : la robotisation ou l'automatisation. la [**NHTSA** ]()(National Highway Traffic Safety Administration, USA) vient de proposer 4 niveaux pour décrire le niveau de décisions/actions des cybercars, et propose également des actions pour expérimenter, progresser dans le domaine.
+De l'autre coté, des promesses de plus en plus nombreuses sont faites par les constructeurs automobiles. Après **[Nissan](http://www.bloomberg.com/news/2013-08-27/nissan-sets-goal-of-bringing-first-self-driving-cars-by-2020.html)**, **[Daimler](http://www.timeslive.co.za/thetimes/2013/09/09/daimler-to-wheel-out-self-drive-car-by-2020)** a annoncé commercialiser des véhicules autonomes en 2020 (lire également **[La classe S et si c'était déjà un cybercar]({{ site.baseurl }}/2013/07/prochaine-mercedes-classe-s-et-si-cetait-deja-un-cybercar/)**). **[Valéo vient de s'associer à Safran](http://www.safran-group.com/site-safran/presse-et-medias/communiques-de-presse/2013/article/valeo-et-safran-signent-un-accord?13181)** pour développer des produits/services dans ce domaine. Et cet été, **[Google poursuit ses développements avec des partenariats comme Continental](http://www.reuters.com/article/2013/08/21/us-germany-selfdrive-idUSBRE97K0RM20130821)**. La chimère du cybercar va devenir réalité avec un point de bascule clairement positionné : la robotisation ou l'automatisation. la [**NHTSA** ](http://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development)(National Highway Traffic Safety Administration, USA) vient de proposer 4 niveaux pour décrire le niveau de décisions/actions des cybercars, et propose également des actions pour expérimenter, progresser dans le domaine.
 
  
 
@@ -35,7 +35,7 @@ La robotisation (niveau 0 à 3) consiste à rendre automatique de plus en plus d
 
  
 
-L'automatisation (niveau 4) consiste à rendre le véhicule totalement autonome. Elle permet, je cite la NHTSA "This includes both occupied and unoccupied vehicles", de faire circuler des véhicules sans conducteur. *Il s'agit là du point de bascule*. **Sans conducteur, il n'y a plus unicité entre l'acheteur et le conducteur, et si l'acheteur change et le modèle d'affaire aussi**. Tous les acteurs industriels engagés aujourd'hui dans ces objectifs "véhicules autonomes en 2020" n'ont pas les mêmes atouts, compétences, intérêts. Ce point de bascule sera donc une zone de combat compte tenu des enjeux et des marchés. Plusieurs articles tentent de décrire ces jeux d'acteurs (lire  **[Nos systèmes de transport et la révolution numérique]()**,**[ le choc à venir]()**, **[Tout va plus vite que prévu]()**).
+L'automatisation (niveau 4) consiste à rendre le véhicule totalement autonome. Elle permet, je cite la NHTSA "This includes both occupied and unoccupied vehicles", de faire circuler des véhicules sans conducteur. *Il s'agit là du point de bascule*. **Sans conducteur, il n'y a plus unicité entre l'acheteur et le conducteur, et si l'acheteur change et le modèle d'affaire aussi**. Tous les acteurs industriels engagés aujourd'hui dans ces objectifs "véhicules autonomes en 2020" n'ont pas les mêmes atouts, compétences, intérêts. Ce point de bascule sera donc une zone de combat compte tenu des enjeux et des marchés. Plusieurs articles tentent de décrire ces jeux d'acteurs (lire  **[Nos systèmes de transport et la révolution numérique]({{ site.baseurl }}/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer/)**,**[ le choc à venir]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/)**, **[Tout va plus vite que prévu]({{ site.baseurl }}/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc/)**).
 
  
 
@@ -43,7 +43,7 @@ L'automatisation (niveau 4) consiste à rendre le véhicule totalement autonome.
 
  
 
-Nous l'avons vu (lire la MétaNote N°17 : **[la révolution numérique et la fin de l'automobile]()**), "*La technique se présente bien comme une matrice ontophanique, c'est à dire un moule phénoménologique, produit par la culture et l'histoire, dans lequel se coule notre expérience du monde possible*". Ainsi à chaque système technique correspond une matrice ontophanique du réel. 
+Nous l'avons vu (lire la MétaNote N°17 : **[la révolution numérique et la fin de l'automobile]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/)**), "*La technique se présente bien comme une matrice ontophanique, c'est à dire un moule phénoménologique, produit par la culture et l'histoire, dans lequel se coule notre expérience du monde possible*". Ainsi à chaque système technique correspond une matrice ontophanique du réel. 
 
  
 
@@ -64,7 +64,7 @@ Esquissons ces qualités dans le domaine des véhicules et des services de mobil
 - Le vrai : Les objets, dont les véhicules, mais également les services, comme l’autopartage par exemple, sont totalement caractérisés en matière de performances environnementales, économiques et sociales. Les coûts et les bénéfices sont établis, partagés en toute transparence à tous les acteurs, permettant d'améliorer fortement la réplicabilité. Les émissions polluantes et la consommation, par exemple, sont totalement connues en usage réelces informations sont disponibles, utilisables pour sélectionner les meilleurs objets en fonction des contextes. Les usagers participent largement à la qualification de ces indicateurs. 
  
 
-Pour se préparer à ce futur possible, à faible probabilité diront certains, mais à très fort impact si il advient, ne faudrait-il pas dès aujourd'hui se mettre en situation de dire à ses clients : "N'acheter pas cette automobile". Et pour cela, former des équipages pour explorer ce futur (lire **[Quel équipage explore aujourd'hui votre avenir ?]()**), et devenir au plus vite le Patagonia de l'automobile (lire **[Light Footprint Strategy]()**) à la croisée des économies de l'expérience, de la fonctionnalité et collaborative (lire l**[a mutation du secteur des transports à la croisée des 3 économies]()**).
+Pour se préparer à ce futur possible, à faible probabilité diront certains, mais à très fort impact si il advient, ne faudrait-il pas dès aujourd'hui se mettre en situation de dire à ses clients : "N'acheter pas cette automobile". Et pour cela, former des équipages pour explorer ce futur (lire **Quel équipage explore aujourd'hui votre avenir ?**), et devenir au plus vite le Patagonia de l'automobile (lire **Light Footprint Strategy**) à la croisée des économies de l'expérience, de la fonctionnalité et collaborative (lire l**a mutation du secteur des transports à la croisée des 3 économies**).
 
  
 

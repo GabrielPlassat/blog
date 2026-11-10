@@ -34,10 +34,10 @@ C’est dans ce contexte que commencent à fleurir dans les grandes agglomérati
  
 
 Enfin, l’association « [
-Voiture & co](http://www.voitureandco.com/) » propose du covoiturage pour améliorer la mobilité des personnes en parcours d’insertion (jeunes des missions locales, bénéficiaires du RMI, stagiaires…) afin de favoriser leur accès à l’emploi. Cette association met en place des Plateformes Bougez vers l'emploi", qui, à partir d'un diagnostic personnalisé pour chaque bénéficiaire, permettent de lui proposer des services adaptés à ses besoins. Cela va de formations jusqu'à la location à tarif social de voitures, en passant par du transport micro-collectif, du covoiturage, de l'aide à l'usage des transports en commun, etc. Tous les détails sont **[ici]().**
+Voiture & co](http://www.voitureandco.com/) » propose du covoiturage pour améliorer la mobilité des personnes en parcours d’insertion (jeunes des missions locales, bénéficiaires du RMI, stagiaires…) afin de favoriser leur accès à l’emploi. Cette association met en place des Plateformes Bougez vers l'emploi", qui, à partir d'un diagnostic personnalisé pour chaque bénéficiaire, permettent de lui proposer des services adaptés à ses besoins. Cela va de formations jusqu'à la location à tarif social de voitures, en passant par du transport micro-collectif, du covoiturage, de l'aide à l'usage des transports en commun, etc. Tous les détails sont **[ici](http://www.voitureandco.com/UPLOAD/rubrique/pages/59/59_rubrique.php).**
 
  
-### Du 9 au 30 septembre prochain, [Monster.fr et Connect by Hertz]() facilitent votre mobilité !
+### Du 9 au 30 septembre prochain, [Monster.fr et Connect by Hertz](http://debutants.monster.fr/18648_fr_pf.asp) facilitent votre mobilité !
  
 
 Vous résidez en Ile de France et êtes à la recherche de nouvelles opportunités professionnelles ? Du 9 au 30 septembre 2010, publiez et activez votre CV sur Monster.fr (ou mettrez-le à jour, s'il est déjà actif), et bénéficiez automatiquement d'une location de véhicule gratuite !

@@ -23,7 +23,7 @@ S'organiser pour faire émerger une nouvelle filière industrielle, de nouvelles
 
  
 
-Puis mettre en oeuvre des processus et des techniques virales pour que se propage la dynamique, les concepts, les narrations de futurs crédibles et souhaitables, aux institutions historiques, aux acteurs à la périphérie et à l'extérieur des groupes. Entraîner vers le centre en donnant envie de créer des produits et services [**beaux, bons et vrais**]().
+Puis mettre en oeuvre des processus et des techniques virales pour que se propage la dynamique, les concepts, les narrations de futurs crédibles et souhaitables, aux institutions historiques, aux acteurs à la périphérie et à l'extérieur des groupes. Entraîner vers le centre en donnant envie de créer des produits et services [**beaux, bons et vrais**](http://www.youtube.com/watch?v=a8yGJauaHJQ).
 
  
 
@@ -31,7 +31,7 @@ Puis mettre en oeuvre des processus et des techniques virales pour que se propag
 
  
 
-"*Récemment, c’est-à-dire il y a quelque trente millions d’années…, des mammifères supérieurs, les primates, se sont mis à pulluler. En l’absence de membres spécialisés, il leur a fallu, pour se procurer des outils, développer leur cerveau : c’est le début de la Noosphère, sphère de l’intelligence. C’était faire le bon choix : l’intelligence leur a procuré une supériorité intellectuelle pour toutes les activités possibles. Les plus astucieux, les hommes, qui n’ont que deux millions d’années, sont en passe de dominer leur petite planète : ils ont en effet franchi, grâce à la complexité de leur cerveau, un seuil extraordinaire qu’aucun autre animal n’a pu franchir et n’a même eu besoin de franchir. Ils ont le bonheur (ou est-ce le malheur ?) de réfléchir…*". [**Teilhard de Chardin**](), 1950.
+"*Récemment, c’est-à-dire il y a quelque trente millions d’années…, des mammifères supérieurs, les primates, se sont mis à pulluler. En l’absence de membres spécialisés, il leur a fallu, pour se procurer des outils, développer leur cerveau : c’est le début de la Noosphère, sphère de l’intelligence. C’était faire le bon choix : l’intelligence leur a procuré une supériorité intellectuelle pour toutes les activités possibles. Les plus astucieux, les hommes, qui n’ont que deux millions d’années, sont en passe de dominer leur petite planète : ils ont en effet franchi, grâce à la complexité de leur cerveau, un seuil extraordinaire qu’aucun autre animal n’a pu franchir et n’a même eu besoin de franchir. Ils ont le bonheur (ou est-ce le malheur ?) de réfléchir…*". [**Teilhard de Chardin**](https://kindle.amazon.com/profile/PLASSAT-Gabriel/3472684), 1950.
 
  
 
@@ -40,9 +40,3 @@ Puis mettre en oeuvre des processus et des techniques virales pour que se propag
  
 
 *"Rien dans l'univers ne saurait résister à un nombre suffisamment grand d'intelligences groupées et organisées". *Teilhard de Chardin.
-
- 
-
- 
-
-"2013-12-04 23:01:05https://transportsdufutur.ademe.fr/2013/12/rien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-1.htmlADEME|innovation|intelligence collective|open innovation|plate-forme|Plateforme d'idéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-12015-07-21 16:35:37

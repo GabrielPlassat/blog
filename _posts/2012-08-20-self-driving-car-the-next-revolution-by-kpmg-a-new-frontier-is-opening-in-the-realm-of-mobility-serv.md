@@ -23,7 +23,7 @@ Ce rapport de **KPMG** et **CAR** (Center for Automotive Research) confirme les 
 
  
 
-Il devient urgent de penser **l'automobile du futur** en replaçant l'objet à sa place dans un système global. Il devient urgent de penser **le futur de l'automobile** dans le monde qui vient. Mais pour voir le monde qui vient, il faut retrouver [** les compétences des explorateurs**]() et accepter de se former à de nouvelles [**formes d'intelligences collectives**](). 
+Il devient urgent de penser **l'automobile du futur** en replaçant l'objet à sa place dans un système global. Il devient urgent de penser **le futur de l'automobile** dans le monde qui vient. Mais pour voir le monde qui vient, il faut retrouver ** les compétences des explorateurs** et accepter de se former à de nouvelles **formes d'intelligences collectives**. 
 
  
 
@@ -43,30 +43,3 @@ It’s all about the data and how to use these data to customize the consumer va
 "**The Mobility On Demand Model**
 Zipcar was the pioneer in the shared-vehicle field, but other players are breaking into the market. Whereas current mobility on demand providers must make vehicles easily accessible for customers in urban areas, their vehicle maintenance and parking fees are high. With self-driving vehicles, proximity to end-users would no longer be necessary. Vehicles could be dispatched by taxi and car service companies.
 Giant retailers with a core competence in managing complex distribution channels or fleet providers with the capability to manage the complexity of renting and allocation of fleets could enter the fray and accrue significant value in the new ecosystem. New entrants in the market might compete at either end of the spectrum—with generic, low-cost utilitarian transportation on demand at one end (the low-cost airline model) and super-luxury mobile executive suites and sleeping pods at the other (the first class or private jet experience). Success will be determined by efficiency, reliability, flexibility, vehicle maintenance, customer service, ease of human-vehicle interface, and integration with existing consumer devices—and all the other psychographic factors that determine consumer behaviors and brand preferences."
-
- 
-
- 
-
- 
-
-"2012-08-20 18:05:04https://transportsdufutur.ademe.fr/2012/08/self-driving-car-the-next-revolution-by-kpmg-a-new-frontier-is-opening-in-the-realm-of-mobility-serv.htmlcitoyen|commuter|connectivité|covoiturage|donnée data|Efficacité énergétique|Energie|innovation|internet|ITS|KPMG|pensée complexe|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatself-driving-car-the-next-revolution-by-kpmg-a-new-frontier-is-opening-in-the-realm-of-mobility-serv2015-07-21 16:36:29>"Who will play the leading role in this ecosystem when self-driving becomes a reality? Who will create value, and who will claim it in the self-driving ecosystem?"
-
- 
-
-"**The Open System Model**
-It’s all about the data and how to use these data to customize the consumer value proposition. The market for big data is growing exponentially. Market intelligence provider IDC predicts that by 2015 the “Big Data” market will be $16.9 billion, up from $3.2 billion in 2010.35 A major player in the data market might not want to manufacture vehicles, but could well design a vehicle operating system. With more than a billion cars serving up trillions of data points about consumer behavior, traffic patterns, and topography, an operating system (OS) developer could afford to give away the OS but accrue significant value from the data they could aggregate. Who would manufacture the vehicle? The OS provider could partner with any of the world’s vehicle manufacturers—and not just the traditional automotive manufacturers. Partnerships could be established with one or more new players who might compete in the branded technology arena."
-
- 
-
-"**The Mobility On Demand Model**
-Zipcar was the pioneer in the shared-vehicle field, but other players are breaking into the market. Whereas current mobility on demand providers must make vehicles easily accessible for customers in urban areas, their vehicle maintenance and parking fees are high. With self-driving vehicles, proximity to end-users would no longer be necessary. Vehicles could be dispatched by taxi and car service companies.
-Giant retailers with a core competence in managing complex distribution channels or fleet providers with the capability to manage the complexity of renting and allocation of fleets could enter the fray and accrue significant value in the new ecosystem. New entrants in the market might compete at either end of the spectrum—with generic, low-cost utilitarian transportation on demand at one end (the low-cost airline model) and super-luxury mobile executive suites and sleeping pods at the other (the first class or private jet experience). Success will be determined by efficiency, reliability, flexibility, vehicle maintenance, customer service, ease of human-vehicle interface, and integration with existing consumer devices—and all the other psychographic factors that determine consumer behaviors and brand preferences."
-
- 
-
- 
-
- 
-
-"

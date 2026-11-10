@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2018/07/lhistoire-de-ma-transformation-numerique-3-3.html"
 tags: []
-theme: "Communs, écosystèmes & open source"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2018/07/27/lhistoire-de-ma-transformation-numerique-3-3/
 ---

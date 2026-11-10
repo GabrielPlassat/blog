@@ -15,7 +15,7 @@ Le *Groupe Chronos*, déjà à l'origine du projet Villes 2.0 avec la FING, pren
 
 Le [programme](http://www.groupechronos.org/index.php/fre/content/download/12512/154301/file/programme_voitureservicielle_19112009.pdf) de cette journée permettra l'échange d’expériences et de points de vue nationaux et internationaux, pour identifier les pistes stratégiques d’un secteur en devenir, dans lequel de nouveaux entrants connectent la voiture et l’intègrent dans des réseaux aussi bien matériels qu’immatériels, pour **inventer la voiture servicielle de demain**. L'ADEME sera présente sur la table ronde comment passer de la voiture à vivre à la voiture vivable ?".
 
-Dans *le Monde* du 18 Novembre de nombreux [**articles** ]()et les premiers résultats d'un sondage TNS-Sofres  intéressants :
+Dans *le Monde* du 18 Novembre de nombreux [**articles** ](http://www.lemonde.fr/aujourd-hui/article/2009/11/17/voiture-la-revolution-des-usages_1268300_3238.html)et les premiers résultats d'un sondage TNS-Sofres  intéressants :
 
 - à coût équivalent à la voiture, 65% des personnes sondées (800 personnes représentatives de la population française) pensent que le service de mobilité est intéressant, 
 - L'autopartage serait plus légitimement développé par les loueurs (40%), les collectivités locales (39%), alors que le covoiturage plutôt par les collectivités (47%) et les opérateurs de TC (20%), 

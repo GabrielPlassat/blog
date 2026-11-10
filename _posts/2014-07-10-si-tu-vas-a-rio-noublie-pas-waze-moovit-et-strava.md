@@ -27,11 +27,11 @@ Et probablement bientôt un nouveau contrat social.
 
  
 
-Le projet [**Mobi-lise**]() actuellement en cours, initié et soutenu par l’ADEME, développe un prototype fonctionnel à échelle 1 en Champagne Ardenne, selon une philosophie assez proche.
+Le projet [**Mobi-lise**](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/2014/03/du-changement-de-comportement-a-lengagement-citoyen.html) actuellement en cours, initié et soutenu par l’ADEME, développe un prototype fonctionnel à échelle 1 en Champagne Ardenne, selon une philosophie assez proche.
 
  
 
-Individuellement, ces applications sont déjà particulièrement efficaces et utilisées. Des partenariats existent comme à Bordeaux entre [**Keolis et Moov’it**](). Mais à Rio, nous sommes à l’étape suivante : le process est « industriel », multi-directionnel et orienté vers le quotidien des citoyens pour améliorer leur mobilité :
+Individuellement, ces applications sont déjà particulièrement efficaces et utilisées. Des partenariats existent comme à Bordeaux entre [**Keolis et Moov’it**](http://www.moovitapp.com/fr/). Mais à Rio, nous sommes à l’étape suivante : le process est « industriel », multi-directionnel et orienté vers le quotidien des citoyens pour améliorer leur mobilité :
 
  
  
@@ -39,11 +39,11 @@ Individuellement, ces applications sont déjà particulièrement efficaces et ut
 - Mais Waze reçoit aussi en « échange » des données fournies, les informations temps réel des capteurs, des caméras fournies par la collectivité pour à son tour mieux informer les utilisateurs de Waze. 
  
 
-La donnée, en tant que telle, devient la monnaie d’échanges de ce partenariat inédit au monde. La Floride vient également de nouer un partenariat avec Waze (lien vers l'[**article**]()).
+La donnée, en tant que telle, devient la monnaie d’échanges de ce partenariat inédit au monde. La Floride vient également de nouer un partenariat avec Waze (lien vers l'[**article**](http://www.forbes.com/sites/parmyolson/2014/07/07/why-google-waze-helps-local-governments-track-its-users/)).
 
  
 
-" *On an average day in June, Rio’s transport planners could get an aggregated view of 110,000 drivers (half a million over the course of the month), and see nearly 60,000 incidents being reported each day – everything from built-up traffic, to hazards on the road, Waze says [...] Waze has been sharing user data with Rio [since summer 2013]() and it just signed up the State of Florida. It says more departments of transport are in the pipeline [...] But none of these partnerships are making Waze any money. The app’s currency of choice is data. “It’s a two-way street,” says Mossler. “Literally*.”
+" *On an average day in June, Rio’s transport planners could get an aggregated view of 110,000 drivers (half a million over the course of the month), and see nearly 60,000 incidents being reported each day – everything from built-up traffic, to hazards on the road, Waze says [...] Waze has been sharing user data with Rio [since summer 2013](http://oglobo.globo.com/sociedade/tecnologia/prefeitura-comeca-usar-waze-no-centro-de-operacoes-rio-9152370) and it just signed up the State of Florida. It says more departments of transport are in the pipeline [...] But none of these partnerships are making Waze any money. The app’s currency of choice is data. “It’s a two-way street,” says Mossler. “Literally*.”
 
  
 
@@ -55,11 +55,11 @@ Pour les cyclistes, les collectivités payent Strava 80 cents par cycliste trac�
 
  
 
-Ainsi tous les modes sont couverts avec une finesse et profondeur et des connaissances inédites sont créées. Des nouvelles interfaces pour mieux observer et comprendre seront mises en œuvre, les données temps réel seront « historisées » pour construire des modèles prédictifs (beaucoup) plus précis car hypercontextualisés. L'autorité créant ces nouvelles connaissances pourra améliorer sa gestion dynamique et prédictive des flux urbains, comme cela était esquissé dans cet article rédigé en 2011 : [**l'apport du numérique pour l'autorité**]().
+Ainsi tous les modes sont couverts avec une finesse et profondeur et des connaissances inédites sont créées. Des nouvelles interfaces pour mieux observer et comprendre seront mises en œuvre, les données temps réel seront « historisées » pour construire des modèles prédictifs (beaucoup) plus précis car hypercontextualisés. L'autorité créant ces nouvelles connaissances pourra améliorer sa gestion dynamique et prédictive des flux urbains, comme cela était esquissé dans cet article rédigé en 2011 : [**l'apport du numérique pour l'autorité**]({{ site.baseurl }}/2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite/).
 
  
 
-[![]()]()
+
 
  
 

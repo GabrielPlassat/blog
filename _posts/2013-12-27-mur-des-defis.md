@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2013/12/mur-des-defis.html"
 tags: ["ADEME", "innovation", "intelligence collective", "Séminaire"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/12/27/mur-des-defis/
 ---

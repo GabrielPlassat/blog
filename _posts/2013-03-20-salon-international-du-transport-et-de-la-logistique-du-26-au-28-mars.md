@@ -27,16 +27,12 @@ L'ADEME intervient dans plusieurs conférences et tables rondes :
 
  
 
- 2) Marc Cottignies - Mercredi 27 Mars 2013, de 09:00 à 10:15 : ["Point sur l'information CO2 des prestations de transport"]()
+ 2) Marc Cottignies - Mercredi 27 Mars 2013, de 09:00 à 10:15 : "Point sur l'information CO2 des prestations de transport"
 
  
 
- 3) Marc Cottignies - Mercredi 27 Mars 2013, de 14:00 à 15:00 : ["Conférence plénière TLF en association avec le CLECAT > Une mesure obligatoire C02 dans le Transport en France, une approche volontaire « Gaz à Effet de Serre » au plan européen : risques ou opportunités pour les entreprises françaises face à la compétition européenne dans un contexte de mondialisation ?"]()
+ 3) Marc Cottignies - Mercredi 27 Mars 2013, de 14:00 à 15:00 : "Conférence plénière TLF en association avec le CLECAT > Une mesure obligatoire C02 dans le Transport en France, une approche volontaire « Gaz à Effet de Serre » au plan européen : risques ou opportunités pour les entreprises françaises face à la compétition européenne dans un contexte de mondialisation ?"
 
  
 
-4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
-
-"2013-03-20 09:25:40https://transportsdufutur.ademe.fr/2013/03/salon-international-du-transport-et-de-la-logistique-du-26-au-28-mars.htmlart de la guerrepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsalon-international-du-transport-et-de-la-logistique-du-26-au-28-mars2015-07-21 16:35:44font-size: 11pt"">4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : ["Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"]()
-
-"
+4) Cyrielle Borde - Mercredi 27 Mars 2013, de 16:45 à 17:45 : "Les certificats d’économie d’énergie dans le transport et la logistique : comment valoriser ses actions environnementales ?"

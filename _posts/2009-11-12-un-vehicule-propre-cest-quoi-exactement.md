@@ -27,7 +27,7 @@ L'identification des critères, perfectible, est cependant relativement aisée. 
 
  
 
-C'est sur ce point que la communauté scientifique doit travailler au niveau européen pour définir cette performance, seule condition pour asseoir une fiscalité source de progrès, des programmes de R&D avec des objectifs clairs ... La Commission Européenne travaille ce sujet et a réalisé une [Directive "Véhicule propre et économe"](). Elle utilise une méthode qui consiste à internaliser les coûts externes, pendant toute la durée de vie du véhicule faisant l'objet du marché. Les critères d'attribution utilisés sont, outre le prix d'investissement du véhicule, les coûts liés à son énergie, aux émissions de GES et de polluants. Cette méthode couplant économie et environnement présente de nombreux avantages :
+C'est sur ce point que la communauté scientifique doit travailler au niveau européen pour définir cette performance, seule condition pour asseoir une fiscalité source de progrès, des programmes de R&D avec des objectifs clairs ... La Commission Européenne travaille ce sujet et a réalisé une [Directive "Véhicule propre et économe"](http://ec.europa.eu/transport/urban/vehicles/directive/toolbox_en.htm). Elle utilise une méthode qui consiste à internaliser les coûts externes, pendant toute la durée de vie du véhicule faisant l'objet du marché. Les critères d'attribution utilisés sont, outre le prix d'investissement du véhicule, les coûts liés à son énergie, aux émissions de GES et de polluants. Cette méthode couplant économie et environnement présente de nombreux avantages :
 
  
  
@@ -38,11 +38,11 @@ C'est sur ce point que la communauté scientifique doit travailler au niveau eur
 
  
 
-Il faut également signaler que l'ADEME, via le [projet STARBUS](), participe au développement d'outil méthodologique pour appliquer cette directive. L'outil STARBUS permet de quantifier simplement les émissions réelles des véhicules en utilisation mais également des nouveaux véhicules envisagés à partir d'une puissante base de données d'émissions polluantes. Des représentations spatiales sont également possibles de ces émissions, par exemple ci dessous, des émissions de NOx d'un bus Diesel : 
+Il faut également signaler que l'ADEME, via le [projet STARBUS](http://www.starbus-project.eu), participe au développement d'outil méthodologique pour appliquer cette directive. L'outil STARBUS permet de quantifier simplement les émissions réelles des véhicules en utilisation mais également des nouveaux véhicules envisagés à partir d'une puissante base de données d'émissions polluantes. Des représentations spatiales sont également possibles de ces émissions, par exemple ci dessous, des émissions de NOx d'un bus Diesel : 
 
  
 
-[]() 
+ 
 
  
 
@@ -52,15 +52,7 @@ Il faut également signaler que l'ADEME, via le [projet STARBUS](), participe au
 
  
 
-[![]()]()
 
- 
-
- 
-
- 
-
- 
 
  
 
@@ -112,11 +104,19 @@ Il faut également signaler que l'ADEME, via le [projet STARBUS](), participe au
 
  
 
-Ainsi, sur cette base, certains véhicules sans rupture technologique de type pile à combustible ou hybridation apparaîtront, comme étant "propre". La société [Loremo]() présente ainsi un véhicule à moteur Diesel consommant 1,5 litre/100 km en travaillant le poste principal de gain : la masse ! Comment ? en révolutionnant la conception du véhicule tout en conservant la sécurité : accès au véhicule sans porte latérale, bandeau d'acier pour assurer la rigidité, ... résultat 450 kg, donc besoin de 20 litres de carburant, moteur bicylindre Diesel classique. 
+ 
 
  
 
-![]()
+ 
+
+ 
+
+Ainsi, sur cette base, certains véhicules sans rupture technologique de type pile à combustible ou hybridation apparaîtront, comme étant "propre". La société [Loremo](http://www.loremo.com) présente ainsi un véhicule à moteur Diesel consommant 1,5 litre/100 km en travaillant le poste principal de gain : la masse ! Comment ? en révolutionnant la conception du véhicule tout en conservant la sécurité : accès au véhicule sans porte latérale, bandeau d'acier pour assurer la rigidité, ... résultat 450 kg, donc besoin de 20 litres de carburant, moteur bicylindre Diesel classique. 
+
+ 
+
+
 
  
 

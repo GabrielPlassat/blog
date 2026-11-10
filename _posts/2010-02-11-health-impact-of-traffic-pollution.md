@@ -17,7 +17,7 @@ Based on a systematic review and analysis of over 700 worldwide studies, the re
 
  
 
-Résumé et rapport complet : **[ici]()** !
+Résumé et rapport complet : **[ici](http://pubs.healtheffects.org/view.php?id=334)** !
 
  
 

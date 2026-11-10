@@ -31,7 +31,7 @@ Beyond the Edge: While Matt McInerney's Park and Charge may be a less ambitious 
 
  
 
-[![]()]()  
+  
 
  
 
@@ -43,7 +43,7 @@ Beyond the Edge: "Dave Pinter's E-Transportation Center is perhaps the most real
 
  
 
-[![]()]() 
+ 
 
 **And, our grand prize winner of $1,000, Alex Dumler:**
 
@@ -53,6 +53,6 @@ Beyond the Edge: "Alex Dumler's e-Capsule best captures the goal of totally re-i
 
  
 
-[]()[![]()]() 
+ 
 
 "

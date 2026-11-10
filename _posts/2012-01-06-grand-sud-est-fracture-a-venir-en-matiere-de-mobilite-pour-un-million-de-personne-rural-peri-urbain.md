@@ -18,9 +18,9 @@ La plupart des habitants du Grand Sud-Est, concentrés dans les zones urbaines
 
  
 
-[![]()]() 
+ 
 
- Cette dépendance à "l'automobile fossile" est étudiée de façon statistique au niveau national par de nombreux acteurs, comme les [**loueurs**](). **Yves Bardon**, Directeur de la prospective chez IPSOS, constate ainsi une double fracture, géographique et générationnelle : 
+ Cette dépendance à "l'automobile fossile" est étudiée de façon statistique au niveau national par de nombreux acteurs, comme les **loueurs**. **Yves Bardon**, Directeur de la prospective chez IPSOS, constate ainsi une double fracture, géographique et générationnelle : 
  
 - **Une fracture géographique** : si la voiture demeure souvent une nécessité dans les milieux ruraux, on observe une baisse de l’équipement dans les villes. Les citadins utilisent d’avantage les transports en commun et n’hésitent pas à adopter **de nouveaux modes de mobilité comme le covoiturage ou l’autopartage**. 
  
@@ -32,18 +32,12 @@ La plupart des habitants du Grand Sud-Est, concentrés dans les zones urbaines
 
  
 
-Mais cette étude de l'INSEE révèle également notre faible connaissance et diffusion de données sur les territoires, les ménages, les entreprises les plus vulnérables. L'utilisation croisée de nombreuses données pourrait être réalisée en s'appuyant notamment sur l'open data et la structure Etalab. Certains exemples américains, comme [**Housing+Transportation**](), sont extrêmement intéressants à analyser.
+Mais cette étude de l'INSEE révèle également notre faible connaissance et diffusion de données sur les territoires, les ménages, les entreprises les plus vulnérables. L'utilisation croisée de nombreuses données pourrait être réalisée en s'appuyant notamment sur l'open data et la structure Etalab. Certains exemples américains, comme **Housing+Transportation**, sont extrêmement intéressants à analyser.
 
  
 
-Le périurbain/rural devrait devenir le sujet principal des réflexions en matière de mobilité, et de prospective, notamment pour son [**lien à l'emploi**](). Quelques exemples, comme cette étude de la DATAR ([**fictions périurbaines**]()) et ce concours étudiant spécifique à la mobilité dans le périurbain : [**ça bouge dans le périurbain, 42 idées pour faciliter les mobilités !**]() Le CAS (Centre d'Analyse Stratégique) devrait également publier un rapport dédié qui fait suite au rapport "[**Nouvelles Mobilités, nouveaux usages de l'automobile**]()".
+Le périurbain/rural devrait devenir le sujet principal des réflexions en matière de mobilité, et de prospective, notamment pour son **lien à l'emploi**. Quelques exemples, comme cette étude de la DATAR (**fictions périurbaines**) et ce concours étudiant spécifique à la mobilité dans le périurbain : **ça bouge dans le périurbain, 42 idées pour faciliter les mobilités !** Le CAS (Centre d'Analyse Stratégique) devrait également publier un rapport dédié qui fait suite au rapport "**Nouvelles Mobilités, nouveaux usages de l'automobile**".
 
  
 
-**L'Appel à Manifestation d'Intérêt (AMI) portant sur [les mobilités occasionnelles et les chaînes logistiques intégrées]() présente un cadre adapté pour expérimenter à grande échelle dans tous les territoires motivés de nouvelles solutions de mobilité co-construites au plus près du besoin des utlisateurs. Cet AMI est ouvert jusqu'à 22 Mai 2012.**
-
- 
-
- 
-
-"2012-01-06 15:33:26https://transportsdufutur.ademe.fr/2012/01/grand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain.htmlcitoyen|donnée data|périurbain|pétrole|territoirepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgrand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain2015-07-21 16:36:38
+**L'Appel à Manifestation d'Intérêt (AMI) portant sur les mobilités occasionnelles et les chaînes logistiques intégrées présente un cadre adapté pour expérimenter à grande échelle dans tous les territoires motivés de nouvelles solutions de mobilité co-construites au plus près du besoin des utlisateurs. Cet AMI est ouvert jusqu'à 22 Mai 2012.**

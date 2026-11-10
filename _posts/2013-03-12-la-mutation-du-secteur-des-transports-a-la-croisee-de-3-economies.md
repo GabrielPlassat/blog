@@ -18,7 +18,7 @@ Les modifications observables peuvent se résumer dans des termes comme : servic
 
  
 
- [![]()]()
+ 
  
 
  
@@ -37,7 +37,7 @@ Ceux qui y accéderont auront développer des compétences dans la conduite du c
 - Expériences utilisateurs innovantes 
  
 
-En reprenant l'article publié sur **[Without model]()**, M.Midler interprète les ruptures en cours : 
+En reprenant l'article publié sur **Without model**, M.Midler interprète les ruptures en cours : 
 
  
 
@@ -81,11 +81,11 @@ En reprenant l'article publié sur **[Without model]()**, M.Midler interprète l
 
  
 
-Ces propos confortent et appuient le besoin de penser la multitude de configuration, de besoin, donc avant tout de la connaître (**[article]()** précédent sur les futurs enquêtes ménages déplacement). Nous ne pourrons pas accéder à ces systèmes de transports avec les outils de compréhension du passé. Or simultanément, d'autres acteurs ont déjà industrialisé des processus permettant de comprendre la multitude, de la faire travailler (gratuitement pour le moment), de capter son innovation, de l'utiliser pour co-concevoir. Ces acteurs du numérique ont pris des positions inédites dans de nouvelles chaînes de valeurs qu'ils ont eux-mêmes modifiées.
+Ces propos confortent et appuient le besoin de penser la multitude de configuration, de besoin, donc avant tout de la connaître (**article** précédent sur les futurs enquêtes ménages déplacement). Nous ne pourrons pas accéder à ces systèmes de transports avec les outils de compréhension du passé. Or simultanément, d'autres acteurs ont déjà industrialisé des processus permettant de comprendre la multitude, de la faire travailler (gratuitement pour le moment), de capter son innovation, de l'utiliser pour co-concevoir. Ces acteurs du numérique ont pris des positions inédites dans de nouvelles chaînes de valeurs qu'ils ont eux-mêmes modifiées.
 
  
 
-Le livre l'âge de la multitude (**[article]()** sur la mobilité à l'âge de la multitude) est essentiel pour bien comprendre les changements d'approche, de modèles d'affaires et de processus d'innovations.
+Le livre l'âge de la multitude (**article** sur la mobilité à l'âge de la multitude) est essentiel pour bien comprendre les changements d'approche, de modèles d'affaires et de processus d'innovations.
 
  
 
@@ -93,6 +93,6 @@ Le livre l'âge de la multitude (**[article]()** sur la mobilité à l'âge de l
 
  
 
-D'autres extraits sont accessibles dans **[Kindle/Amazon]()**. La mise en oeuvre d'une plateforme des mobilités apparaît comme la voie principale à considérer ([**article** ]()sur l'étude du PIPAME l'économie des plateformes, [**article** ]()sur une proposition de plateforme des mobilités)
+D'autres extraits sont accessibles dans **Kindle/Amazon**. La mise en oeuvre d'une plateforme des mobilités apparaît comme la voie principale à considérer (**article** sur l'étude du PIPAME l'économie des plateformes, **article** sur une proposition de plateforme des mobilités)
 
 "

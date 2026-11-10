@@ -26,14 +26,8 @@ La vitesse, quotien de la distance et du temps, nous permet en théorie de gagne
 
  
 
-La vitesse n'est donc pas une fin en soi, mais c'est malgré tout une mesure essentielle de la performance des transports. Pour combien de temps ? parlerons nous encore de la vitesse maximale d'une voiture dans 30 ans ? Quelle perception de vitesse retenons-nous d'un déplacement : la vitesse maximale (120 km/h sur l'autoroute, qui oblige à instaurer une surveillance, voir **[ici]()**) oubliant les 10 minutes de bouchon à 5 km/h, la vitesse moyenne à 35 km/h intégrant le temps pour se garer ? en aucun cas, la vitesse généralisée quin intègre le temps passé à acheter le véhicule et les coûts du transport motorisé (voir **[ici]()**, Ivan Illich). A l'inverse, les transports en commun (train, bus à haut niveau de service, tramway mais également avion) permettent et permettront de plus en plus de pratiquer de hautes vitesses instantanées, et devront progresser aux interstices (importances des transferts modals, donc des infrastructures et des informations) pour proposer les meilleurs temps porte à porte.
+La vitesse n'est donc pas une fin en soi, mais c'est malgré tout une mesure essentielle de la performance des transports. Pour combien de temps ? parlerons nous encore de la vitesse maximale d'une voiture dans 30 ans ? Quelle perception de vitesse retenons-nous d'un déplacement : la vitesse maximale (120 km/h sur l'autoroute, qui oblige à instaurer une surveillance, voir **ici**) oubliant les 10 minutes de bouchon à 5 km/h, la vitesse moyenne à 35 km/h intégrant le temps pour se garer ? en aucun cas, la vitesse généralisée quin intègre le temps passé à acheter le véhicule et les coûts du transport motorisé (voir **ici**, Ivan Illich). A l'inverse, les transports en commun (train, bus à haut niveau de service, tramway mais également avion) permettent et permettront de plus en plus de pratiquer de hautes vitesses instantanées, et devront progresser aux interstices (importances des transferts modals, donc des infrastructures et des informations) pour proposer les meilleurs temps porte à porte.
 
  
 
 Dans la palette des critères de performance des transports du futur, la vitesse sera remplacée par la connaissance précise de l'horaire d'arrivée (+ ou - X minutes) et la certitude de l'atteindre, couplée à la connectivité lors du transport, la capacité à rencontrer son réseau, à commander/recevoir des marchandises, son confort, **à créer du temps libre à haute valeur ajoutée**, notamment dans les transferts et changement de mode, et son prix intégrant les externalités environnementales.
-
- 
-
- 
-
-"2010-04-06 09:32:48https://transportsdufutur.ademe.fr/2010/04/a-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand.htmlmode doux|multimodes|temporalitépublish18gabriel plassata-qui-appartiendra-le-temps-seratil-gratuit-ou-marchand2010-04-06 09:32:48

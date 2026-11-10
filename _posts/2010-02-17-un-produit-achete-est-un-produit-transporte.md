@@ -40,6 +40,4 @@ L’offre de publicité mobile géolocalisée est disponible sur Paris et Ile-de
 
  
 
-Parce que la façon dont nous consommerons, influencera les modes de transport que nous choisirons, parce qu'un produit qui n'est pas acheté, ne sera plus transporté. google_protectAndRun(render_ads.js::google_render_ad", google_handleError, google_render_ad) 
-
-"2010-02-17 09:49:23https://transportsdufutur.ademe.fr/2010/02/un-produit-achete-est-un-produit-transporte.htmldonnées réelles|logistique|marketing|open source|partage de données|TICpublish18gabriel plassatun-produit-achete-est-un-produit-transporte2010-02-17 09:49:23
+Parce que la façon dont nous consommerons, influencera les modes de transport que nous choisirons, parce qu'un produit qui n'est pas acheté, ne sera plus transporté. google_protectAndRun(render_ads.js::google_render_ad", google_handleError, google_render_ad)

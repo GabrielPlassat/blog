@@ -19,20 +19,6 @@ Utilisant l'open source, les outils de collaboration étendus, l'intelligence co
 
  
 
-[]()[]()[![]()]()
- 
-[![]()]() 
+
  
 
- 
-
- 
-
-"2011-05-02 10:18:36https://transportsdufutur.ademe.fr/2011/05/ultra-low-cost-open-source-la-voie.htmlautarcie|citoyen|collectivité|economie circulaire|Efficacité énergétique|innovation|low cost|Plateforme d'idées|TEDpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatultra-low-cost-open-source-la-voie2015-07-21 16:37:20margin-right: auto"" title=""Transitcity2"" /> 
- 
-
- 
-
- 
-
-"

@@ -46,4 +46,4 @@ Ce site vise à :
 - Susciter la réflexion en regroupant tous les acteurs concernés par les Smart grids et en organisant des mini-forums bimensuels sur des thèmes qui intéressent un large public 
 - Partager l’expertise en suscitant des échanges entre les parties prenantes. En présentant les diverses expérimentations et les projets menés de Smart grids dans le monde, ce site a vocation à être prospectif 
 - Mieux informer sur l’état de la réflexion et d’avancement des projets en matière de Smart  grids proposant des dossiers thématiques sur lesquels les contributeurs sont invités à participer. 
- [Dossier de presse_smart_grids[1]]() View more [documents]() from [transportsdufutur](). "2010-11-09 15:47:13https://transportsdufutur.ademe.fr/2010/11/la-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids.htmlInfrastructure|smartgrid|VEpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids2015-07-21 16:37:34
+ [Dossier de presse_smart_grids[1]]() View more documents from transportsdufutur.

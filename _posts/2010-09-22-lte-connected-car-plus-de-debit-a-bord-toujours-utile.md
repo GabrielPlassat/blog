@@ -27,7 +27,7 @@ Le véhicule sera donc connecté en permanence avec un débit équivalent à cel
 
  
 
-Ces cybercars (version 1) se développent (**[déjà ](http://www.google.com/hostednews/afp/article/ALeqM5idgpO77rNSEfXIzgpX18xAYg3WpQ)**et se développeront), selon le modèle historique des constructeurs, conduisant à augmenter simultanément la masse marchande" tout en incluant de **[nouveaux acteurs]()**. L'internet des Objets (voir **[ici]()**) démultipliera les possibles, mais devrait également obliger de (re)considérer le système complet. **L'optimum de ce futur système de mobilité connecté, accessible à tous les citoyens ne passe pas forcément par le cybercar**. 
+Ces cybercars (version 1) se développent (**[déjà ](http://www.google.com/hostednews/afp/article/ALeqM5idgpO77rNSEfXIzgpX18xAYg3WpQ)**et se développeront), selon le modèle historique des constructeurs, conduisant à augmenter simultanément la masse marchande" tout en incluant de **[nouveaux acteurs](http://www.alcatel-lucent.com/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3dnTUL8h2VAQAvhWwcA!!?LMSG_CABINET=Solution_Product_Catalog&LMSG_CONTENT_FILE=Solutions/Solution2_Detail_000119.xml&lu_lang_code=fr)**. L'internet des Objets (voir **[ici]( {{ site.baseurl }}/2010/08/et-si-les-mobilites-de-demain-etaient-pensees-a-travers-le-jeu/)**) démultipliera les possibles, mais devrait également obliger de (re)considérer le système complet. **L'optimum de ce futur système de mobilité connecté, accessible à tous les citoyens ne passe pas forcément par le cybercar**. 
 
  
 

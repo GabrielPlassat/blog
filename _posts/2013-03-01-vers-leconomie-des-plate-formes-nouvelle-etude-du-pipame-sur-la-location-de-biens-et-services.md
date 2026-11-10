@@ -15,11 +15,11 @@ Après une étude essentielle sur les [**mutations du secteur automobile** ]({{ 
 
  
 
-L'économie des plate-formes rendue possible par le numérique est presentée, soulignant cette transition majeure en cours. Ceci rejoint le précédent article **[VW XL1 n'est pas une innovation. Il manque la plateforme (numérique) qui va avec]()** ainsi que celui portant sur la **[multitude]()**.
+L'économie des plate-formes rendue possible par le numérique est presentée, soulignant cette transition majeure en cours. Ceci rejoint le précédent article **[VW XL1 n'est pas une innovation. Il manque la plateforme (numérique) qui va avec]({{ site.baseurl }}/2013/02/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees/)** ainsi que celui portant sur la **[multitude]({{ site.baseurl }}/2013/02/les-transports-a-lage-de-la-multitude/)**.
 
  
 
-Le **[rapport complet]()** et le résumé : 
+Le **[rapport complet](http://www.dgcis.redressement-productif.gouv.fr/files/directions_services/etudes-et-statistiques/prospective/Rapport-PIPAME-location-de-biens-et-services.pdf?goback=%2Egsm_2695799_1_*2_*2_*2_lna_PENDING_*2)** et le résumé : 
 
  
 

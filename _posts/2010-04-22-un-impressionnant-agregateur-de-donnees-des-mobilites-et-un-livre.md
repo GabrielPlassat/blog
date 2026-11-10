@@ -11,7 +11,7 @@ redirect_from:
   - /2010/04/22/un-impressionnant-agregateur-de-donnees-des-mobilites-et-un-livre/
 ---
 
-réalisé dans le cadre de la parution de leur livre Les Transports, la planète et le citoyen" par Ludovic Bu, président de **[Voiture&Co]()**, **[bloggeur]()**, Olivier Razemon, **[journaliste au Monde]()**, et Marc Fontanès, président de **[Mobility+.]()**
+réalisé dans le cadre de la parution de leur livre Les Transports, la planète et le citoyen" par Ludovic Bu, président de **[Voiture&Co](http://www.voitureandco.com/)**, **[bloggeur](http://ludovicbu.typepad.com/ludovicbu/)**, Olivier Razemon, **[journaliste au Monde](http://www.lemonde.fr/web/recherche_resultats/1,13-0,1-0,0.html?dans=dansarticle&num_page=1&booleen=et&ordre=pertinence&periode=30&sur=LEMONDE&query=Olivier+Razemon&x=0&y=0)**, et Marc Fontanès, président de **[Mobility+.](http://www.deplacements.net/)**
 
  
 
@@ -19,6 +19,6 @@ Extrait du livre : "La question des transports fait toujours l'objet de vifs dé
 
  
 
-L'agrégateur de flux rassemble les solutions existantes, opérationnelles dans nos régions (vélo libre service, covoiturage, autopartage ... et centrale de mobilité, blog de voyageurs : **[ICI]()**.
+L'agrégateur de flux rassemble les solutions existantes, opérationnelles dans nos régions (vélo libre service, covoiturage, autopartage ... et centrale de mobilité, blog de voyageurs : **[ICI](http://www.netvibes.com/les_transports_la_planete_et_le_citoyen#Le_livre_%22Les_transports%2C_la_planete_et_le_citoye)**.
 
 "

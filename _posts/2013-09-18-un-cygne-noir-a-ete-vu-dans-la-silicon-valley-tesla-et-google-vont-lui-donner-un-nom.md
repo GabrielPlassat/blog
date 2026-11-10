@@ -15,15 +15,15 @@ Elon Musk **[annonce](http://www.reuters.com/article/2013/09/18/us-tesla-selfdri
 
  
 
-Théorisé par Nassim Nicholas Taleb (**[auteur du livre – le Cygne Noir](http://www.amazon.fr/cygne-noir-puissance-limprevisible/dp/2251443487)**), le cygne noir se caractérise par : aucun signe prévisible de son arrivée, fort impact pour les acteurs du domaine, très facile à expliquer mais après" pour permettre à tous de faire comme avant. Plusieurs articles ont été écrits sur les voitures autonomes et les conséquences pour les acteurs historiques et surtout pour les citoyens, les entreprises (lire un **[extrait des articles]()**). Déjà Tesla est présent dans le **[projet 100]()** pour concevoir des services de mobilité à haute expérience. 
+Théorisé par Nassim Nicholas Taleb (**[auteur du livre – le Cygne Noir](http://www.amazon.fr/cygne-noir-puissance-limprevisible/dp/2251443487)**), le cygne noir se caractérise par : aucun signe prévisible de son arrivée, fort impact pour les acteurs du domaine, très facile à expliquer mais après" pour permettre à tous de faire comme avant. Plusieurs articles ont été écrits sur les voitures autonomes et les conséquences pour les acteurs historiques et surtout pour les citoyens, les entreprises (lire un **[extrait des articles](/?s=cybercar)**). Déjà Tesla est présent dans le **[projet 100](http://techcrunch.com/2013/04/02/downtown-project-buys-100-tesla-model-ss-to-launch-project-100-a-car-sharing-service-in-las-vegas/)** pour concevoir des services de mobilité à haute expérience. 
 
  
 
-En Europe, combien d'ingénieur dans l'industrie automobile connait **[Elon Musk]()** ? ou **[Peter Thiel]()** avec qui le co-fonde PayPal ? Est ce que Daimler ou Nissan, qui ont affiché les mêmes ambitions concernant la voiture autonome, disposent d'équipes dotées des mêmes capacités d'innovations, capables de s'extraire de leur quotidien ? 
+En Europe, combien d'ingénieur dans l'industrie automobile connait **Elon Musk** ? ou **Peter Thiel** avec qui le co-fonde PayPal ? Est ce que Daimler ou Nissan, qui ont affiché les mêmes ambitions concernant la voiture autonome, disposent d'équipes dotées des mêmes capacités d'innovations, capables de s'extraire de leur quotidien ? 
 
  
 
-Quels que soient vos produits ou services actuels, ils devront évoluer, s'adapter jusqu'à se transformer totalement. De nouvelles organisations ignorent les chaînes de valeur existantes, industrialisent de nouvelles expériences, au plus près de l'intimité des consommateurs, leurs donnent envie de travailler, de produire, de créer sur leur plateforme pour en capter une partie de la valeur. Ils y parviennent puisqu'ils ressentent parfaitement le monde qui vient, basé notamment sur la co-création de la valeur avec les utilisateurs. Reprenant [**l'âge de la multitude**](), ce sont des entreprises **sensitives** : "L’entreprise sensitive peut percevoir les aspirations diffuses, se couler dans les conversations, personnaliser son offre, accompagner l’intimité de ses clients". 
+Quels que soient vos produits ou services actuels, ils devront évoluer, s'adapter jusqu'à se transformer totalement. De nouvelles organisations ignorent les chaînes de valeur existantes, industrialisent de nouvelles expériences, au plus près de l'intimité des consommateurs, leurs donnent envie de travailler, de produire, de créer sur leur plateforme pour en capter une partie de la valeur. Ils y parviennent puisqu'ils ressentent parfaitement le monde qui vient, basé notamment sur la co-création de la valeur avec les utilisateurs. Reprenant **l'âge de la multitude**, ce sont des entreprises **sensitives** : "L’entreprise sensitive peut percevoir les aspirations diffuses, se couler dans les conversations, personnaliser son offre, accompagner l’intimité de ses clients". 
 
  
 
@@ -36,63 +36,3 @@ Ces entreprises sensitives sont structurellement organisées pour créer dans le
  
 
 **Il ne s'agit pas ici de prévoir le futur, ni de combattre les cygnes noirs, mais de devenir soi-même un cygne noir, devenir totalement "sensitifs" au monde, développer une véritable empathie, et s'inscrire dans une vision crédible et souhaitable des prochaines décennies.**
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"2013-09-18 11:46:57https://transportsdufutur.ademe.fr/2013/09/un-cygne-noir-a-ete-vu-dans-la-silicon-valley-tesla-et-google-vont-lui-donner-un-nom.htmlbatterie|citoyen|connectivité|E.Musk|google|Infrastructure|innovation|Teslapublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatun-cygne-noir-a-ete-vu-dans-la-silicon-valley-tesla-et-google-vont-lui-donner-un-nom2015-07-21 16:35:39>**L'entreprise sensitive**
-
- 
-
-Ces entreprises sensitives sont structurellement organisées pour créer dans le mouvement, rien n'y est figé. La fluidité se retrouve dans les organisations, les méthodes de création et d'industrialisation. Le futur s'y prépare de la même façon: en réseau, en co-création. Ces industries numériques façonnent dès aujourd'hui un complexus de virtuel et de réel, tissant des expériences totalement inédites. Comment dès lors utiliser les outils marketing "historiques" ? ils ne s'appliquent absolument pas, puisqu'il s'agit d'innovation absolue: pas de référence, juste de la pure création. 
-
- 
-
-**Il ne s'agit pas ici de prévoir le futur, ni de combattre les cygnes noirs, mais de devenir soi-même un cygne noir, devenir totalement "sensitifs" au monde, développer une véritable empathie, et s'inscrire dans une vision crédible et souhaitable des prochaines décennies.**
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-"

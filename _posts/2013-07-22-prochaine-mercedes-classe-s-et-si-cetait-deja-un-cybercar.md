@@ -29,32 +29,20 @@ Comme cela a été détaillé dans plusieurs précédentes notes (lire plusieurs
 - optimisation territoriale : les territoires peu denses bénéficient d'une offre adaptée, les transports publics traditionnels sont profondément modifiés pour ne conserver que les lignes à haut remplissage. 
  
 
- Qui décrira les règles ? qui feront les codes ? Qui écrira notre parcours collectif pour amener à faire circuler des robots ? [**Bienvenue en 2033, l'Alliance domine**.]()
+ Qui décrira les règles ? qui feront les codes ? Qui écrira notre parcours collectif pour amener à faire circuler des robots ? **Bienvenue en 2033, l'Alliance domine**.
 
  
 
-[]()
+
 
  
 
-En même temps, en 2013, **[IBM et SPRINT]()** viennent d'annoncer leur collaboration pour proposer une offre industrielle basée sur l'utilisation du cloud. **[ACCENTURE et MICHELIN]()** lancent également EFIFFUEL à partir du Cloud d'Accenture.
+En même temps, en 2013, **IBM et SPRINT** viennent d'annoncer leur collaboration pour proposer une offre industrielle basée sur l'utilisation du cloud. **ACCENTURE et MICHELIN** lancent également EFIFFUEL à partir du Cloud d'Accenture.
 
  
 
-*"IBM announced today that Sprint is using [IBM MobileFirst]() solutions to deliver a more personalized, responsive connected car experience. **[Sprint Velocity](), an end-to-end mobile integration solution developed specifically for auto manufacturers, is a pioneering capability that enables automakers around the world to develop and market connected services for cars and passenger trucks. As part of this collaboration, Sprint becomes the first mobile carrier to use [IBM MessageSight](), an appliance designed to enable organizations to manage and communicate with the billions of mobile devices and sensors found in systems such as automobiles, traffic management systems, smart buildings and household appliances. **Based on IBM MessageSight, the [Sprint Velocity Service Bus]() is a new communications architecture that lets smartphones, tablets and other devices communicate through the cloud."*
+*"IBM announced today that Sprint is using IBM MobileFirst solutions to deliver a more personalized, responsive connected car experience. **Sprint Velocity, an end-to-end mobile integration solution developed specifically for auto manufacturers, is a pioneering capability that enables automakers around the world to develop and market connected services for cars and passenger trucks. As part of this collaboration, Sprint becomes the first mobile carrier to use IBM MessageSight, an appliance designed to enable organizations to manage and communicate with the billions of mobile devices and sensors found in systems such as automobiles, traffic management systems, smart buildings and household appliances. **Based on IBM MessageSight, the Sprint Velocity Service Bus is a new communications architecture that lets smartphones, tablets and other devices communicate through the cloud."*
 
  
 
-*"La vocation de Michelin solutions est de concevoir, développer et commercialiser une nouvelle génération de solutions de mobilité pour ses clients professionnels : flottes de Véhicules Légers, Poids Lourds et Génie Civil. Ces solutions gèrent des domaines aussi variés que la réduction de la consommation de carburant, l'externalisation du poste pneumatique et l'augmentation de la productivité des véhicules. En juillet, l'entreprise a lancé la première de ses solutions novatrices : EFFIFUEL™. **Grâce à sa plate-forme Cloud [Accenture Cloud Platform for hosting and monitoring](), Accenture peut rapidement fournir l'infrastructure visant à automatiser les processus nécessaires à l'exécution des contrats clients des offres MICHELIN® solutions actuelles et à venir. Cela comprend, la création du contrat, la collecte et le traitement des données liés à un service, un prix, à la comptabilité et à la facturation."*
-
-"2013-07-22 15:42:54https://transportsdufutur.ademe.fr/2013/07/prochaine-mercedes-classe-s-et-si-cetait-deja-un-cybercar.htmlcitoyen|connectivité|cybercar|donnée data|économie fonctionnalité|innovation|internet|internet des objets|plate-formepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatprochaine-mercedes-classe-s-et-si-cetait-deja-un-cybercar2015-07-21 16:35:40>En même temps, en 2013, **[IBM et SPRINT]()** viennent d'annoncer leur collaboration pour proposer une offre industrielle basée sur l'utilisation du cloud. **[ACCENTURE et MICHELIN]()** lancent également EFIFFUEL à partir du Cloud d'Accenture.
-
- 
-
-*"IBM announced today that Sprint is using [IBM MobileFirst]() solutions to deliver a more personalized, responsive connected car experience. **[Sprint Velocity](), an end-to-end mobile integration solution developed specifically for auto manufacturers, is a pioneering capability that enables automakers around the world to develop and market connected services for cars and passenger trucks. As part of this collaboration, Sprint becomes the first mobile carrier to use [IBM MessageSight](), an appliance designed to enable organizations to manage and communicate with the billions of mobile devices and sensors found in systems such as automobiles, traffic management systems, smart buildings and household appliances. **Based on IBM MessageSight, the [Sprint Velocity Service Bus]() is a new communications architecture that lets smartphones, tablets and other devices communicate through the cloud."*
-
- 
-
-*"La vocation de Michelin solutions est de concevoir, développer et commercialiser une nouvelle génération de solutions de mobilité pour ses clients professionnels : flottes de Véhicules Légers, Poids Lourds et Génie Civil. Ces solutions gèrent des domaines aussi variés que la réduction de la consommation de carburant, l'externalisation du poste pneumatique et l'augmentation de la productivité des véhicules. En juillet, l'entreprise a lancé la première de ses solutions novatrices : EFFIFUEL™. **Grâce à sa plate-forme Cloud [Accenture Cloud Platform for hosting and monitoring](), Accenture peut rapidement fournir l'infrastructure visant à automatiser les processus nécessaires à l'exécution des contrats clients des offres MICHELIN® solutions actuelles et à venir. Cela comprend, la création du contrat, la collecte et le traitement des données liés à un service, un prix, à la comptabilité et à la facturation."*
-
-"
+*"La vocation de Michelin solutions est de concevoir, développer et commercialiser une nouvelle génération de solutions de mobilité pour ses clients professionnels : flottes de Véhicules Légers, Poids Lourds et Génie Civil. Ces solutions gèrent des domaines aussi variés que la réduction de la consommation de carburant, l'externalisation du poste pneumatique et l'augmentation de la productivité des véhicules. En juillet, l'entreprise a lancé la première de ses solutions novatrices : EFFIFUEL™. **Grâce à sa plate-forme Cloud Accenture Cloud Platform for hosting and monitoring, Accenture peut rapidement fournir l'infrastructure visant à automatiser les processus nécessaires à l'exécution des contrats clients des offres MICHELIN® solutions actuelles et à venir. Cela comprend, la création du contrat, la collecte et le traitement des données liés à un service, un prix, à la comptabilité et à la facturation."*

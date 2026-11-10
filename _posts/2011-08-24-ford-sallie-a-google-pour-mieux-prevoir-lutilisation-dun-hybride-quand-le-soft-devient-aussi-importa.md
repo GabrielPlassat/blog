@@ -18,17 +18,17 @@ L'idée est simple, comme toujours... Avec un hybride rechargeable, la batterie 
 [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b015390f534b9970b-500wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b015390f534b9970b-800wi.jpg) 
 
  
- Cela rejoint les [**outils experts**]()" déjà évoqués dans ce blog. Nos mobilités sont globalement [**prévisibles**](), mais nous ne le faisons pas, alors que les bénéfices pourraient être très importants. Des risques sont également réels, comme une certaine intrusion possible dans vos données privées, il faudra les comprendre pour les maîtriser. 
+ Cela rejoint les [**outils experts**]({{ site.baseurl }}/2011/08/le-reverse-marketing-utilisant-le-tsunami-des-donnees-le-consommateur-reprend-la-main-quelles-conseq/)" déjà évoqués dans ce blog. Nos mobilités sont globalement [**prévisibles**]({{ site.baseurl }}/2010/03/notre-mobilite-estelle-previsible-ou-modelisable/ ), mais nous ne le faisons pas, alors que les bénéfices pourraient être très importants. Des risques sont également réels, comme une certaine intrusion possible dans vos données privées, il faudra les comprendre pour les maîtriser. 
 
-Ainsi la Ford Google Car connaîtra parfaitement vos habitudes, vos parcours, vos horaires, maximisera l'utilisation de l'énergie électrique en utilisant l'énergie électrique au bon moment, en vous proposant la meilleure route, en se basant sur des modèles prédictifs constamment revus et corrigés. Ford utilise pour cela certains **[API de prédiction de Google]()**. Mais d'un autre coté, Google accède ici à de nouvelles données jugées stratégiques par le constructeur. Pour un véhicule électrique très dépendant de l'usage réel, de la route choisir, ces données et ces outils prédictifs seront encore plus indispensables.
-
- 
-
-Ces données sont intéressantes pour le conducteur mais également à d'autres échelles (villes, pays), pour [**d'autres acteurs**]() (collectivité, gestionnaire de parking, de route, opérateur de transport public, mais également assurances...). Elles auront donc une valeur à la fois pour le conducteur, pour le constructeur (qui pour la 1ère fois pourra connaître l'utilisation réelle de ses véhicules), et seront à moyen terme disponibles, certaines pouvant même être *publiques *(après anonymisation) pour mieux optimiser l'usage des infrastructures *publiques*. Dans un second temps, ces outils seront ré-intégrés dans notre [**assistant personnel**]() (smartphone) car nous souhaiterons avoir cette aide partout, dans tous les véhicules.
+Ainsi la Ford Google Car connaîtra parfaitement vos habitudes, vos parcours, vos horaires, maximisera l'utilisation de l'énergie électrique en utilisant l'énergie électrique au bon moment, en vous proposant la meilleure route, en se basant sur des modèles prédictifs constamment revus et corrigés. Ford utilise pour cela certains **[API de prédiction de Google](http://www.wired.com/autopia/2011/08/making-cars-predict-where-were-going/)**. Mais d'un autre coté, Google accède ici à de nouvelles données jugées stratégiques par le constructeur. Pour un véhicule électrique très dépendant de l'usage réel, de la route choisir, ces données et ces outils prédictifs seront encore plus indispensables.
 
  
 
-Dans cette nouvelle chaîne de valeur, qui possède les produits stratégiques ? le véhicule électrique/hybride ou **le moteur de connaissance** prédictif permettant de maximiser l'utilisation de l'énergie, l'utilisation des infrastructures, **finalement de maximiser l'usage des ressources finies** ? Et si les [**Google Mobility Service**]() et [**Amazon Energy Service**]() étaient les mieux placés ?
+Ces données sont intéressantes pour le conducteur mais également à d'autres échelles (villes, pays), pour [**d'autres acteurs**]({{ site.baseurl }}/2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite/) (collectivité, gestionnaire de parking, de route, opérateur de transport public, mais également assurances...). Elles auront donc une valeur à la fois pour le conducteur, pour le constructeur (qui pour la 1ère fois pourra connaître l'utilisation réelle de ses véhicules), et seront à moyen terme disponibles, certaines pouvant même être *publiques *(après anonymisation) pour mieux optimiser l'usage des infrastructures *publiques*. Dans un second temps, ces outils seront ré-intégrés dans notre [**assistant personnel**]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/) (smartphone) car nous souhaiterons avoir cette aide partout, dans tous les véhicules.
+
+ 
+
+Dans cette nouvelle chaîne de valeur, qui possède les produits stratégiques ? le véhicule électrique/hybride ou **le moteur de connaissance** prédictif permettant de maximiser l'utilisation de l'énergie, l'utilisation des infrastructures, **finalement de maximiser l'usage des ressources finies** ? Et si les [**Google Mobility Service**]({{ site.baseurl }}/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre/) et [**Amazon Energy Service**]({{ site.baseurl }}/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service/) étaient les mieux placés ?
 
  
 
@@ -36,8 +36,8 @@ Rien n'est encore fait, les alliances commencent ...
 
  
 
-[
-]() 
+
+ 
  
 
 "

@@ -36,6 +36,4 @@ S'agissant des données, les chercheurs ont puisé à deux sources : d'abord les
 
  
 
-L'accès à des données fiables, représentatives de la réalité, en temps réel, libres et gratuites, couplé au développement d'un indicateur traduisant le risque sont, là encore, les meilleurs moyens pour mettre en oeuvre une assurance performante. En matière de mobilité, de la même façon, **[l'accès aux données]()**, **[la création d'un indice multicritère]()** (pollution, GES, sécurité...), permettront de mieux estimer les risques ouvrant de nouvelles possibilités pour l’assureur et son client, sous réserve de maîtriser les dérives possibles et de rétribuer la majorité des bénéfices au client.
-
-"2010-02-02 17:43:41https://transportsdufutur.ademe.fr/2010/02/du-cafe-des-lloyds-aux-eleveurs-des-regions-arides-du-kenya.htmlassurance|données réelles|lloyd's|partage de données|TICpublish18gabriel plassatdu-cafe-des-lloyds-aux-eleveurs-des-regions-arides-du-kenya2010-02-02 17:43:41
+L'accès à des données fiables, représentatives de la réalité, en temps réel, libres et gratuites, couplé au développement d'un indicateur traduisant le risque sont, là encore, les meilleurs moyens pour mettre en oeuvre une assurance performante. En matière de mobilité, de la même façon, **l'accès aux données**, **la création d'un indice multicritère** (pollution, GES, sécurité...), permettront de mieux estimer les risques ouvrant de nouvelles possibilités pour l’assureur et son client, sous réserve de maîtriser les dérives possibles et de rétribuer la majorité des bénéfices au client.

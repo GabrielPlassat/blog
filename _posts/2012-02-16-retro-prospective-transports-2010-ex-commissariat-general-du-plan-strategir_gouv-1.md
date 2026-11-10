@@ -42,6 +42,6 @@ Sur le fond, les principales pistes de progrès ont déjà été identifiées: p
 
  
 
-**Second constat:** Les pistes de progrès sont connues depuis longtemps. Nous ne sommes pas capables de les mettre en oeuvre à grande échelle, sur tout le territoire. Pour cela, de nombreuses innovations sont nécessaires : voir [**ICI**]().
+**Second constat:** Les pistes de progrès sont connues depuis longtemps. Nous ne sommes pas capables de les mettre en oeuvre à grande échelle, sur tout le territoire. Pour cela, de nombreuses innovations sont nécessaires : voir [**ICI**]({{ site.baseurl }}/2012/02/rapport-sur-les-mobilites-rurales-et-periurbaines-par-le-centre-danalyse-strategique-strategie_gouv/).
 
- [Retro prospective 2010]() View more [documents]() from [Les transports du futur](). "2012-02-16 15:24:30https://transportsdufutur.ademe.fr/2012/02/retro-prospective-transports-2010-ex-commissariat-general-du-plan-strategir_gouv-1.htmlADEME|citoyen|collectivité|donnée data|Infrastructure|innovation|intelligence collective|internet|multimodes|péage urbainpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatretro-prospective-transports-2010-ex-commissariat-general-du-plan-strategir_gouv-12015-07-21 16:36:35
+ Retro prospective 2010 View more documents from Les transports du futur.

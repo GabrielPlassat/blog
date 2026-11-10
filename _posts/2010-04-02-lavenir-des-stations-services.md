@@ -15,8 +15,8 @@ Il est intéressant de connaître les évolutions prévues pour les stations ser
 
  
 
-Comme l'indique le blog **[Transit City](http://transit-city.blogspot.com/2010/03/gas-station-of-future.html)**, il y a des pistes de réflexions avec ces quelques propositions présentées dans le cadre du concours [Design the gas station of the future]()" organisé par le magazine [Good](). La bonne nouvelle est que la station service du futur ressemblerait à tout sauf à celle d'aujourd'hui, et pourrait même complètement disparaître. Ca serait la fin d'un lieu apparu il y a à peine 100 ans. Mais, dans une société nomade, est-ce crédible ? 
-[![]()]() 
+Comme l'indique le blog **[Transit City](http://transit-city.blogspot.com/2010/03/gas-station-of-future.html)**, il y a des pistes de réflexions avec ces quelques propositions présentées dans le cadre du concours [Design the gas station of the future](http://www.good.is/post/design-the-gas-station-of-the-future-submissions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+good%2Flbvp+%28GOOD+Main+RSS+Feed%29&utm_content=Twitter)" organisé par le magazine [Good](http://www.good.is/). La bonne nouvelle est que la station service du futur ressemblerait à tout sauf à celle d'aujourd'hui, et pourrait même complètement disparaître. Ca serait la fin d'un lieu apparu il y a à peine 100 ans. Mais, dans une société nomade, est-ce crédible ? 
+ 
  
 
  
@@ -37,7 +37,7 @@ A plus ou moins court terme, donc, le nombre de stations-service parisiennes est
 
  
 
-Il est également possible de réinventer l'intérêt premier de cette infrastructure : lieu de livraison de marchandises, hotel, lieu de culture, lieu multimodal en complément d'un chargement **rapide** d'énergie fossile. L'achat de carburant électricité va, là aussi, bouleverser ce lieu, le chargement étant plus **lent, **Better Place lance d'ailleurs un **[concours de design]()** sur le sujet. 
+Il est également possible de réinventer l'intérêt premier de cette infrastructure : lieu de livraison de marchandises, hotel, lieu de culture, lieu multimodal en complément d'un chargement **rapide** d'énergie fossile. L'achat de carburant électricité va, là aussi, bouleverser ce lieu, le chargement étant plus **lent, **Better Place lance d'ailleurs un **[concours de design](http://www.latribuneauto.com/reportages-68-2554-la-nissan-v2g-remporte-le-concours-de-design-du-salon-de-l-auto-de-los-angeles.html)** sur le sujet. 
 
  
 

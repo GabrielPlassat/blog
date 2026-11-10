@@ -31,7 +31,7 @@ Les systèmes de transport intelligents font appel à des technologies de l'info
 
  
 
-La directive approuvée aujourd'hui soutiendra le Plan d'action sur les systèmes de transport intelligents[1]() par la mise en place d'un cadre en vue d'accélérer et de coordonner le déploiement et l'utilisation de ces systèmes pour le transport par route, y compris les interfaces avec d'autres modes de transport. Priorité sera donnée avant tout aux informations relatives au trafic et au voyage, au système d'appel d'urgence «eCall» et aux parkings intelligents pour poids lourds.
+La directive approuvée aujourd'hui soutiendra le Plan d'action sur les systèmes de transport intelligents[1](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/891&format=HTML&aged=0&language=FR&guiLanguage=fr#footnote-1#footnote-1) par la mise en place d'un cadre en vue d'accélérer et de coordonner le déploiement et l'utilisation de ces systèmes pour le transport par route, y compris les interfaces avec d'autres modes de transport. Priorité sera donnée avant tout aux informations relatives au trafic et au voyage, au système d'appel d'urgence «eCall» et aux parkings intelligents pour poids lourds.
 
  
 
@@ -48,6 +48,6 @@ Prochaines étapes :
 - 2011 : la Commission adoptera un programme de travail et les États membres publieront un premier rapport sur leurs activités nationales. 
  
 
-Pour plus d'informations, veuillez consulter le site à l'adresse suivante: [http://ec.europa.eu/transport/its/]()
+Pour plus d'informations, veuillez consulter le site à l'adresse suivante: [http://ec.europa.eu/transport/its/](http://ec.europa.eu/transport/its/)
 
- [Its dir]() View more [documents]() from [transportsdufutur](). "
+ [Its dir](http://www.slideshare.net/transportsdufutur/its-dir) View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). "

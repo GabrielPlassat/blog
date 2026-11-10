@@ -11,7 +11,7 @@ redirect_from:
   - /2010/12/13/social-media-listening-command-center/
 ---
 
-Quand DELL annonce ***[Average daily mentions of Dell on Twitter alone have a greater reach than the combined circulation of the top 12 daily newspapers in the United States]()***", cela sous-entend plusieurs changements majeurs : dans les médias (mais cela n'est pas vraiment nouveau), mais surtout dans la position du citoyen consommateur et dans le besoin de l'intégrer au plus **près**, au plus **haut **de la stratégie de l'entreprise. Il faut désormais être à l'écoute permanente, continue de ces clients pour répondre à leurs besoins, pour leurs proposer des réponses, et finalement pour ne pas perdre le contact avec eux. DELL vient de créer (voir vidéo ci dessous) un centre de commande pour suivre en temps réel les médias sociaux. 
+Quand DELL annonce ***[Average daily mentions of Dell on Twitter alone have a greater reach than the combined circulation of the top 12 daily newspapers in the United States](http://en.community.dell.com/dell-blogs/Direct2Dell/b/direct2dell/archive/2010/12/08/dell-s-next-step-the-social-media-listening-command-center.aspx)***", cela sous-entend plusieurs changements majeurs : dans les médias (mais cela n'est pas vraiment nouveau), mais surtout dans la position du citoyen consommateur et dans le besoin de l'intégrer au plus **près**, au plus **haut **de la stratégie de l'entreprise. Il faut désormais être à l'écoute permanente, continue de ces clients pour répondre à leurs besoins, pour leurs proposer des réponses, et finalement pour ne pas perdre le contact avec eux. DELL vient de créer (voir vidéo ci dessous) un centre de commande pour suivre en temps réel les médias sociaux. 
 
  
 
@@ -31,10 +31,10 @@ Que risque DELL à ne pas créer une structure d'analyse en temps réel des prob
 
  
 
-Anticiper les besoins, devenir facilitateur de la vie quotidienne, de nouveaux intermédiaires vont apparaître. Dans le domaine de la mobilité, General Electric pourrait ce chef d'orchestre de votre mobilité électrique (voir **[ici]()**), acheter en masse des véhicules qu'il aura lui-même spécifier pour les intégrer dans un système dont il gérera seul les interfaces vers les clients.
+Anticiper les besoins, devenir facilitateur de la vie quotidienne, de nouveaux intermédiaires vont apparaître. Dans le domaine de la mobilité, General Electric pourrait ce chef d'orchestre de votre mobilité électrique (voir **ici**), acheter en masse des véhicules qu'il aura lui-même spécifier pour les intégrer dans un système dont il gérera seul les interfaces vers les clients.
 
  
 
 Suivre comme jamais auparavant les besoins réels de ses clients, les pannes et les solutions "en temps réel", proposer une maintenance préventive adaptée à l'usage réel du véhicule pour chaque client, lui proposer des pistes pour mieux (moins cher, plus vite, connecté, sécurité...) se déplacer au quotidien en fonction de ses contraintes, ... si les acteurs en place ne le font pas, d'autres s'en chargeront si ils sont capables d'instaurer la confiance.
 
- [084 092 portnoff - dalloz]() View more [documents]() from [transportsdufutur](). "2010-12-13 17:29:45https://transportsdufutur.ademe.fr/2010/12/social-media-listening-command-center.htmlcitoyen|confiance|connectivité|innovation|internet|internet des objets|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatsocial-media-listening-command-center2015-07-21 16:37:31
+ 084 092 portnoff - dalloz View more documents from transportsdufutur.

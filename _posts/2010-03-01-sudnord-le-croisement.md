@@ -23,11 +23,11 @@ Le fonds d'investissement SNCF "Écomobilité Partenaires" entre au capital d'Ur
 
  
 
-[![]()]()  
+  
 
  
 
-Déjà posté sur ce blog, des notes décrivant les mobilités existantes à Delhi ou à Beijing, et celles à venir : le e-rickshaw (**[ici]()**) dont le but n'est pas uniquement d'assurer des livraisons dans une zone urbaine dense, mais de réduire la pauvreté, atteindre 23% de part modale pour le vélo (**[ici]()**)... **Plus que des échanges de technologies, nous aurions besoin d'échanger sur des visions systémiques. **Nous sommes donc à un croisement, le Nord cherchant à réduire la masse des véhicules, à spécialiser leurs usages, le Sud, partant d'une multitude (voir le film **[ici]()**) de véhicules, souhaitant, à priori, passer à l'objet unique automobile.
+Déjà posté sur ce blog, des notes décrivant les mobilités existantes à Delhi ou à Beijing, et celles à venir : le e-rickshaw (**[ici]({{ site.baseurl }}/2010/02/bientot-des-velo-rickshaws-electriques-comme-en-europe-sauf-lobjectif-dans-le-cadre-du-programme-csir-800-conseil-d/)**) dont le but n'est pas uniquement d'assurer des livraisons dans une zone urbaine dense, mais de réduire la pauvreté, atteindre 23% de part modale pour le vélo (**[ici]({{ site.baseurl }}/2010/02/le-sud-apporte-au-nord-la-suite/)**)... **Plus que des échanges de technologies, nous aurions besoin d'échanger sur des visions systémiques. **Nous sommes donc à un croisement, le Nord cherchant à réduire la masse des véhicules, à spécialiser leurs usages, le Sud, partant d'une multitude (voir le film **[ici]({{ site.baseurl }}/2010/02/no-comment/)**) de véhicules, souhaitant, à priori, passer à l'objet unique automobile.
 
  
 
@@ -35,7 +35,7 @@ Urban-Cab (que l'on pourrait traduire par taxi urbain) a déployé son activité
 
  
 
-Pour Pierre Blayau, directeur général de la Branche SNCF Geodis, "l'investissement dans [Urban-Cab]() conforte la volonté du groupe SNCF de promouvoir des solutions innovantes et respectueuses de l'environnement en réponse aux défis posés par la logistique urbaine, notamment à Paris".
+Pour Pierre Blayau, directeur général de la Branche SNCF Geodis, "l'investissement dans [Urban-Cab](http://www.urban-cab.com/Livraison/livraison.html#1) conforte la volonté du groupe SNCF de promouvoir des solutions innovantes et respectueuses de l'environnement en réponse aux défis posés par la logistique urbaine, notamment à Paris".
 
  
 

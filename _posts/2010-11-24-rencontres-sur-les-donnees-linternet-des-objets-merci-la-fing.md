@@ -21,7 +21,7 @@ Parce que bien sûr toutes ces innovations touche(ro)nt le monde des transports 
 
    
 
-  [![]()]() 
+   
 *29 novembre, 9h30-17h30
 Rennes, Hôtel de Rennes Métropole, 4 avenue Henri Fréville
 *1e rencontre de l'European Public-Service Information (ePSI) Forum en France?
@@ -37,7 +37,7 @@ Un événement co-organisé par la Fing, l’ePSIplateform, la Métropole de Ren
 
  
 
-[+] [Programme et inscription]()
+[+] [Programme et inscription](http://www.epsiplus.net/news/events/opendata_and_re_use)
 
  
 
@@ -49,7 +49,7 @@ Un événement co-organisé par la Fing, l’ePSIplateform, la Métropole de Ren
 
    
 
-  []() [![]()]() 
+    
 
 *1er décembre, 10h-18h30
 Paris, Maison des métallos - 94 Rue Jean-Pierre Timbaud - 75011
@@ -72,7 +72,7 @@ Un événement co-organisé par la Fing, Epita, MCD et nod-A, avec le soutien de
 
  
 
-[+] [Programme et inscription]()
+[+] [Programme et inscription](http://fing.org/?page=evenement&id=247)
 
  
 
@@ -84,7 +84,7 @@ Un événement co-organisé par la Fing, Epita, MCD et nod-A, avec le soutien de
 
  
 
-![]()6 décembre, 14h-18h30 (suivi du Carrefour des Possibles)
+6 décembre, 14h-18h30 (suivi du Carrefour des Possibles)
 Conseil régional d'Aquitaine, 14 rue François de Sourdis, Bordeaux
 
  
@@ -93,6 +93,4 @@ Les données publiques s’annoncent comme une nouvelle ressource pour l’innov
 
  
 
-[+] [Programme et inscription]()
-
-"2010-11-24 14:26:55https://transportsdufutur.ademe.fr/2010/11/rencontres-sur-les-donnees-linternet-des-objets-merci-la-fing.htmlassistant de mobilité|donnée data|données réelles|internet|internet des objets|management de la mobilité|open innovation|open source|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatrencontres-sur-les-donnees-linternet-des-objets-merci-la-fing2015-07-21 16:37:33
+[+] Programme et inscription

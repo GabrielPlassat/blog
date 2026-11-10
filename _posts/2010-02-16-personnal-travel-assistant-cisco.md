@@ -16,14 +16,14 @@ Resident now able to reduce Personal Carbon Footprint, Transit costs and Travel 
  
  
 
-[Personal Travel Assistant - Connected Urban Development]() from [MIT Mobile Experience Lab]() on [Vimeo]().
+[Personal Travel Assistant - Connected Urban Development](http://vimeo.com/4212887) from [MIT Mobile Experience Lab](http://vimeo.com/mitmxl) on [Vimeo](http://vimeo.com/).
 
  
 
  
 
  
-- PTA will empower the people of Seoul to improve their transit experience and reduce their personal carbon footprint by providing them with access to real-time transportation information from any location, on any Web-enabled device or communications channel, including smart phones, PDAs, websites, transit stations, vehicles and personal computers. As part of the [Connected Urban Development (CUD) program](), the PTA pilot is a collaborative effort among the city of Seoul, the city of Amsterdam and the [Cisco® Internet Business Solutions Group (IBSG)](), the company's strategic global consulting arm. 
+- PTA will empower the people of Seoul to improve their transit experience and reduce their personal carbon footprint by providing them with access to real-time transportation information from any location, on any Web-enabled device or communications channel, including smart phones, PDAs, websites, transit stations, vehicles and personal computers. As part of the [Connected Urban Development (CUD) program](http://www.connectedurbandevelopment.org/), the PTA pilot is a collaborative effort among the city of Seoul, the city of Amsterdam and the [Cisco® Internet Business Solutions Group (IBSG)](http://www.cisco.com/web/about/ac79/index.html), the company's strategic global consulting arm. 
 
  
 
@@ -78,7 +78,7 @@ Resident now able to reduce Personal Carbon Footprint, Transit costs and Travel 
  
 
  
-- The PTA pilot is one of a number of landmark projects that have resulted from Cisco's participation in the [Clinton Global Initiative]() and its pledge to reduce carbon emissions. Launched in 2006, CUD is a public-private partnership aimed at addressing the unique environmental problems facing urban areas, and at developing ICT solutions for cities around the world.  Additional projects include:  the pilots with the City of San Francisco Smart Work Center development with the City of Amsterdam the Smart UrbanEnergy in Schools platform with Lisbon, Portugal and an UrbanEnergy Management pilot with Madrid, Spain. 
+- The PTA pilot is one of a number of landmark projects that have resulted from Cisco's participation in the Clinton Global Initiative and its pledge to reduce carbon emissions. Launched in 2006, CUD is a public-private partnership aimed at addressing the unique environmental problems facing urban areas, and at developing ICT solutions for cities around the world.  Additional projects include:  the pilots with the City of San Francisco Smart Work Center development with the City of Amsterdam the Smart UrbanEnergy in Schools platform with Lisbon, Portugal and an UrbanEnergy Management pilot with Madrid, Spain. 
 
  
 
@@ -126,25 +126,25 @@ Resident now able to reduce Personal Carbon Footprint, Transit costs and Travel 
 
  
 - Seoul PTA
-[http://TOPIS.seoul.go.kr/pta/]() 
+http://TOPIS.seoul.go.kr/pta/ 
 
  
 
  
 - Personal Travel Assistant fact sheet 
-[http://www.cisco.com/web/about/ac79/docs/cud/PTA_Fact_Sheet_051109_FINAL3.pdf]() 
+http://www.cisco.com/web/about/ac79/docs/cud/PTA_Fact_Sheet_051109_FINAL3.pdf 
 
  
 
  
 - For more information on CUD 
-[www.connectedurbandevelopment.org]() 
+www.connectedurbandevelopment.org 
 
  
 
  
 - Video blog by Nicola Villa, Connected Urban Development, global director, Cisco IBSG 
-[http://www.cisco.com/web/about/ac79/media/green/villa_pop.html]() 
+http://www.cisco.com/web/about/ac79/media/green/villa_pop.html 
 - 
 
  

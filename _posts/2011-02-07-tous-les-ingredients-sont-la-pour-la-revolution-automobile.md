@@ -40,7 +40,7 @@ Tous les ingrédients existent **aujourd’hui** pour permettre cette véritable
 
  
 
-Il s’agit d’une opportunité unique pour les acteurs économiques, les citoyens et l’environnement. De nombreux risques existent également pour ce gisement ne soit pas équitablement réparti sur tous les territoires, pour tous les citoyens (voir **[ICI]()**). Des verrous restent encore à lever pour que des services de mobilité multimodale fluides temps réel puissent être opérés. LA révolution automobile viendra alors de l’extérieur du système … Le rapport d'IBM indiquant " *the real challenge in bringing the seamless travel vision to life is finding a business model or public motive that includes participants to define standards, share data and deisgn system to facilitate a more integrated journey  across travel modes*."
+Il s’agit d’une opportunité unique pour les acteurs économiques, les citoyens et l’environnement. De nombreux risques existent également pour ce gisement ne soit pas équitablement réparti sur tous les territoires, pour tous les citoyens (voir **[ICI]({{ site.baseurl }}/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique/)**). Des verrous restent encore à lever pour que des services de mobilité multimodale fluides temps réel puissent être opérés. LA révolution automobile viendra alors de l’extérieur du système … Le rapport d'IBM indiquant " *the real challenge in bringing the seamless travel vision to life is finding a business model or public motive that includes participants to define standards, share data and deisgn system to facilitate a more integrated journey  across travel modes*."
 
  
 
@@ -48,6 +48,6 @@ En reprenant le schéma précédent, les principaux champs d’innovations conce
 
  
 
- [![]()]()
+ 
 
- [Ibm smart transport]() View more [documents]() from [transportsdufutur](). "2011-02-07 12:28:29https://transportsdufutur.ademe.fr/2011/02/tous-les-ingredients-sont-la-pour-la-revolution-automobile.htmlassistant de mobilité|autopartage|autorité des transports|citoyen|collectivité|connectivité|covoiturage|economie circulaire|Efficacité énergétique|Energie|Infrastructure|innovation|internet|open innovation|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassattous-les-ingredients-sont-la-pour-la-revolution-automobile2015-07-21 16:37:27
+ Ibm smart transport View more documents from transportsdufutur.

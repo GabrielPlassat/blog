@@ -95,7 +95,7 @@ Le vice-président Tajani vient juste de revenir de la **réunion entre la Commi
 
  
 
-[**[1]**](#_ftnref1) Communication sur l'«initiative matières premières" — répondre à nos besoins fondamentaux pour assurer la croissance et créer des emplois en Europe» - [COM(2008) 699 final]()
+[**[1]**](#_ftnref1) Communication sur l'«initiative matières premières" — répondre à nos besoins fondamentaux pour assurer la croissance et créer des emplois en Europe» - [COM(2008) 699 final](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2008:0699:FIN:FR:PDF)
 
  
 

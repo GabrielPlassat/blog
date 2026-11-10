@@ -14,11 +14,11 @@ Ingénieurs, concepteurs, technologues, vous maîtrisez les sciences et les tech
 
  
 
-[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01676443928d970b-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01676443928d970b-800wi.jpg)Le livre de Jean-michel CORNU [**de l'innovation monétaire aux monnaies de l'innovation**]()" vous apporte les principales clés pour comprendre la puissance des monnaies complémentaires qui vont, d'ici quelques années, se développer. Nous n'imaginions pas que l'information s'étende en quelques années de quelques journaux à tous les citoyens qui désormais la produisent et consomment il en sera de même pour les monnaies, entièrement dématérialisées, que tout le monde pourra créer.
+[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01676443928d970b-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01676443928d970b-800wi.jpg)Le livre de Jean-michel CORNU [**de l'innovation monétaire aux monnaies de l'innovation**](http://www.cornu.eu.org/news/de-l-innovation-monetaire-aux-monnaies-de-l-innovation)" vous apporte les principales clés pour comprendre la puissance des monnaies complémentaires qui vont, d'ici quelques années, se développer. Nous n'imaginions pas que l'information s'étende en quelques années de quelques journaux à tous les citoyens qui désormais la produisent et consomment il en sera de même pour les monnaies, entièrement dématérialisées, que tout le monde pourra créer.
 
  
 
-Les avantages sont multiples pour les consommateurs, les industries, les états, les collectivités. Les monnaies complémentaires se développent déjà actuellement dans le [**monde entier**]() elles complèteront les monnaies traditionnelles.
+Les avantages sont multiples pour les consommateurs, les industries, les états, les collectivités. Les monnaies complémentaires se développent déjà actuellement dans le **monde entier** elles complèteront les monnaies traditionnelles.
 
  
 
@@ -46,9 +46,3 @@ Aujourd’hui, ces nouvelles monnaies se multiplient (plus de 5 000 dans le mond
  
 
 Ce livre s’adresse à tous les acteurs qui veulent concevoir et mettre en oeuvre de nouveaux types de monnaies pour favoriser l’innovation sociale : économistes, responsables de collectivités territoriales, gouvernements, créateurs de nouveaux services et de l’internet, banques, et aussi tous les citoyens qui ont l’intention de participer à ce nouveau courant d’innovation.
-
- 
-
- 
-
-"2012-03-27 10:14:00https://transportsdufutur.ademe.fr/2012/03/innovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples.htmlcitoyen|collectivité|confiance|gouvernance|holoptisme|innovation|intelligence collective|monnaie complémentaire|open innovationpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatinnovations-monnaies-les-problemes-complexes-ne-seront-jamais-resolues-par-des-solutions-simples2015-07-21 16:36:33

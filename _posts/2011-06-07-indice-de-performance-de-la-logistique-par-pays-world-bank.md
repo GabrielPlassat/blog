@@ -34,4 +34,4 @@ Pour un territoire, l'amélioration de la chaîne logistique nécessite à la fo
 
 D'une façon plus générale, les biens les plus précieux à optimiser sont, à priori, les infrastructures et l'énergie. Comment choisirons nous en matière de priorité entre un train de fret et un TER à 8h00 ? A qui réservera-t-on le gazole (VP ou camion) ? Comment justifiera-t-on ces choix ?
 
- [Lpi2010]() View more [documents]() from [transportsdufutur](). "
+ [Lpi2010](http://www.slideshare.net/transportsdufutur/lpi2010) View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). "

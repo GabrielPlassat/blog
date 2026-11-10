@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2012/08/la-logistique-du-futur.html"
 tags: ["Assistant Personnel de Consommation", "citoyen", "collectivité", "confiance", "connectivité", "données réelles", "economie circulaire", "économie fonctionnalité", "Efficacité énergétique", "Fablab", "gouvernance", "innovation", "intelligence collective", "internet des objets", "logistique", "marchandises", "normalisation", "propaganda", "roadpricing"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2012/08/06/la-logistique-du-futur/
 ---

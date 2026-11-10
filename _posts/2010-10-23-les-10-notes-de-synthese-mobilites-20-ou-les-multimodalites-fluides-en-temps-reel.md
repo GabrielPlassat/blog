@@ -19,16 +19,16 @@ En quelques années, internet a rendu possible la mise en réseaux de compétenc
 
  
  
-- MétaNote TdF 0 : **[l'origine]()** 
-- MétaNote TdF 1 : **[les objectifs]()** 
-- MétaNote TdF 2 : **[le marché]()** 
-- MétaNote TdF 3 : **[la surveillance]() ** 
-- MétaNote TdF 4 :** [les énergies]()** 
-- MétaNote TdF 5 : [**les entreprises**]() 
-- MétaNote TdF 6 : **[la plate forme pour réaliser un système de mobilité]()** 
-- MétaNote TdF 7 : **[la donnée]()** 
-- MétaNote TdF 8 :** [les ports, le fret et le transport des marchandises]()** 
-- MétaNote TdF 9 :** [les risques des mobilités 2.0]()** 
+- MétaNote TdF 0 : **[l'origine]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** 
+- MétaNote TdF 1 : **[les objectifs]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)** 
+- MétaNote TdF 2 : **[le marché]({{ site.baseurl }}/2010/03/metanote-tdf-2-le-marche-des-mobilites-20/)** 
+- MétaNote TdF 3 : **[la surveillance]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/) ** 
+- MétaNote TdF 4 :** [les énergies]({{ site.baseurl }}/2010/03/les-energies/)** 
+- MétaNote TdF 5 : [**les entreprises**]({{ site.baseurl }}/2010/04/metanote-tdf-5-les-entreprises/) 
+- MétaNote TdF 6 : **[la plate forme pour réaliser un système de mobilité]({{ site.baseurl }}/2010/06/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20/)** 
+- MétaNote TdF 7 : **[la donnée]({{ site.baseurl }}/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives/)** 
+- MétaNote TdF 8 :** [les ports, le fret et le transport des marchandises]({{ site.baseurl }}/2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises/)** 
+- MétaNote TdF 9 :** [les risques des mobilités 2.0]({{ site.baseurl }}/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous/)** 
  
 
 **Tous vos commentaires seront intéressants et importants pour compléter, revoir ou corriger ces notes. Pour construire ensemble de nouvelles mobilités dans ce monde fini de connaissances infinies.**

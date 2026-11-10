@@ -28,14 +28,14 @@ Les crises immobilières, bancaires et boursières ont limité les revenus et so
 
  
 
-Tout à fait ! mais d'autres sont en train d'apprendre ce métier, de se spécialiser sur les véhicules "bas de gamme", petits, urbains (voir **[ici]()**, **[ici]()**). L'avance indéniable des constructeurs nationaux en la matière pourrait être de courte durée, quelques années à peine. 
+Tout à fait ! mais d'autres sont en train d'apprendre ce métier, de se spécialiser sur les véhicules "bas de gamme", petits, urbains (voir **[ici]({{ site.baseurl }}/2010/01/pendant-ce-temps-la-a-new-delhi-un-salon-automobile/)**, **[ici]({{ site.baseurl }}/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix/)**). L'avance indéniable des constructeurs nationaux en la matière pourrait être de courte durée, quelques années à peine. 
 
  
 
-Que se passera-t-il si des constructeurs indiens ou chinois proposent en Europe des véhicules efficaces, simples, à bas prix, dans un contexte économique toujours difficile, un baril élevé, des ménages en tension (voir **[ici]()**) ? Le passage à des services de mobilité, en complément des ventes "directes" de véhicule, pourrait permettre à nos industries nationales (constructeurs, équipementiers) de mieux résister, de complexifier le système des mobilités avec de nombreux partenaires (telecom, infrastructures, territoires, énergies), de l'ancrer dans nos territoires, et ainsi de mieux nous protéger. Cette transition d'un secteur industriel vers des services prendra du temps, ne faut-il pas l'engager dès maintenant ?
+Que se passera-t-il si des constructeurs indiens ou chinois proposent en Europe des véhicules efficaces, simples, à bas prix, dans un contexte économique toujours difficile, un baril élevé, des ménages en tension (voir **[ici]({{ site.baseurl }}/2010/01/vers-des-voitures-a-tres-bas-prix/)**) ? Le passage à des services de mobilité, en complément des ventes "directes" de véhicule, pourrait permettre à nos industries nationales (constructeurs, équipementiers) de mieux résister, de complexifier le système des mobilités avec de nombreux partenaires (telecom, infrastructures, territoires, énergies), de l'ancrer dans nos territoires, et ainsi de mieux nous protéger. Cette transition d'un secteur industriel vers des services prendra du temps, ne faut-il pas l'engager dès maintenant ?
 
  
 
-La seule et unique question devient : quels risques avons-nous à développer massivement des services de mobilités porte à porte (voir **[ici]()**) ? à revoir nos modèles d'autorité des transports (voir **[ici]()**) ? 
+La seule et unique question devient : quels risques avons-nous à développer massivement des services de mobilités porte à porte (voir **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**) ? à revoir nos modèles d'autorité des transports (voir **[ici]({{ site.baseurl }}/2009/11/autorite-des-transports-vers-une-revolution/)**) ? 
 
 "

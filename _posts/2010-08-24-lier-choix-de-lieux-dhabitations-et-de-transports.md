@@ -19,7 +19,7 @@ When deciding where to live and work, not only do you want to know what amenitie
 
  
 
-Last year, with the support of [The Rockefeller Foundation,]() we set out to address these questions. And building on the initial integration of public transit information into Walk Score and the launch of [City-Go-Round](), today we are pleased to take another step forward in promoting transparency around transportation choices.
+Last year, with the support of [The Rockefeller Foundation,](http://www.rockefellerfoundation.org/) we set out to address these questions. And building on the initial integration of public transit information into Walk Score and the launch of [City-Go-Round](http://www.citygoround.org/), today we are pleased to take another step forward in promoting transparency around transportation choices.
 
  
 
@@ -31,23 +31,23 @@ Our new Transit Score and custom Commute Reports empower anyone to quickly under
 
  
 
-[Read the official press release]().
+[Read the official press release]({{ site.baseurl }}/assets/images/2010/08/Walk_Score_Launches_Transit_Score_16Aug10.pdf).
 
  
 ## What’s your Transit Score?
- [![]()]() Transit Score of Boston 
+  Transit Score of Boston 
 
-Similar to Walk Score, Transit Score provides a 0-100 rating indicating how well an address is served by public transportation. Ratings range from “Rider’s Paradises” that have world-class bus and rail service to areas with limited or no nearby public transportation. Transit Score is currently available in over [40 cities]() where public transit information is available. These cities include Boston, Chicago, Los Angeles, New York, San Francisco, Seattle and Washington D.C.
+Similar to Walk Score, Transit Score provides a 0-100 rating indicating how well an address is served by public transportation. Ratings range from “Rider’s Paradises” that have world-class bus and rail service to areas with limited or no nearby public transportation. Transit Score is currently available in over [40 cities](https://spreadsheets.google.com/ccc?key=0Ah1ezjXRnFf3dENSTFppNTQwaTJMNVZrNk5Ib0h1ZEE&hl=en#gid=0) where public transit information is available. These cities include Boston, Chicago, Los Angeles, New York, San Francisco, Seattle and Washington D.C.
 
  
 ## What will your commute be like?
- [![]()]() Commute Report in Seattle 
+  Commute Report in Seattle 
 
 After you’ve looked up an address on Walk Score, you can now get a summary of commuting options, including the time it would take to get to your work, school or other location by car, bike and foot and to see nearby public transit stops and routes. The customized commute report also includes a visual representation of the hills between your home and work to better understand how bikable or walkable the route may be.
 
  
 ## Can you really afford this home?
- [![]()]() Housing and Transportation Costs 
+  Housing and Transportation Costs 
 
 For most families, transportation is the second largest household expense. Walk Score’s new home and transportation costs calculator makes it easier for people to understand the true costs of owning or renting in a particular location. Based on a few simple pieces of information, the calculator generates an estimated monthly amount that includes housing and transportation costs.
 

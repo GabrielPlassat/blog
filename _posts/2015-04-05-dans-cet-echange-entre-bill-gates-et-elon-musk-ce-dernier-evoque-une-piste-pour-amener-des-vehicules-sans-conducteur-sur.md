@@ -11,11 +11,11 @@ redirect_from:
   - /2015/04/05/dans-cet-echange-entre-bill-gates-et-elon-musk-ce-dernier-evoque-une-piste-pour-amener-des-vehicules-sans-conducteur-sur/
 ---
 
-La voiture autonome, la Chimère (lire [**la MétaNote N°20**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/)), incarne la finalité de la transition numérique dans le domaine automobile. En supprimant le lien entre l'homme et la machine, la chimère n'est plus une voiture, sauf pour quelques constructeurs Premium, mais à la fois, un taxi, un bus, une voiture partagée. Le mot voiture" devant autonome [**verrouille nos imaginaires**](). Pour les acteurs de la filière, la chimère ne sera pas là avant plusieurs dizaines d'années et de nombreux verrous réglementaires existent (lire [**cet article**]()). Nous en sommes à la phase 2 sur 5 [**des phases du déni**]() récemment décrits par Nicolas Colin :
+La voiture autonome, la Chimère (lire [**la MétaNote N°20**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/)), incarne la finalité de la transition numérique dans le domaine automobile. En supprimant le lien entre l'homme et la machine, la chimère n'est plus une voiture, sauf pour quelques constructeurs Premium, mais à la fois, un taxi, un bus, une voiture partagée. Le mot voiture" devant autonome [**verrouille nos imaginaires**](http://rue89.nouvelobs.com/2015/03/15/voiture-demain-fera-envie-sera-content-sen-servir-258181). Pour les acteurs de la filière, la chimère ne sera pas là avant plusieurs dizaines d'années et de nombreux verrous réglementaires existent (lire [**cet article**]({{ site.baseurl }}/2014/07/innovations-seniors-pollution-et-cybercars/)). Nous en sommes à la phase 2 sur 5 [**des phases du déni**](https://medium.com/welcome-to-thefamily/les-cinq-etapes-du-deni-a7a06072c9fc) récemment décrits par Nicolas Colin :
 
  
 
-[![]()]()
+
 
  
 
@@ -43,7 +43,7 @@ Un logiciel relié aux capteurs et données du véhicule va en permanence compar
 
  
 
-Plusieurs constructeurs m'ont déjà soufflé à l'oreille que Tesla était en avance sur le sujet de la maintenance prédictive en analysant les données d'usage des composants à distance. Tesla a été également le premier constructeur à mettre en œuvre, comme pour une application, [**la mise à jour à distance des logiciels embarqués**](). Supposons que Tesla mette en oeuvre sur ces prochains modèles les capteurs et logiciels nécessaires pour créer cette intelligence artificielle et ainsi auto-simuler la chimère. Les mises à jour des logiciels étant également possibles, Tesla crée les conditions d'émergence de la voiture autonome.
+Plusieurs constructeurs m'ont déjà soufflé à l'oreille que Tesla était en avance sur le sujet de la maintenance prédictive en analysant les données d'usage des composants à distance. Tesla a été également le premier constructeur à mettre en œuvre, comme pour une application, **la mise à jour à distance des logiciels embarqués**. Supposons que Tesla mette en oeuvre sur ces prochains modèles les capteurs et logiciels nécessaires pour créer cette intelligence artificielle et ainsi auto-simuler la chimère. Les mises à jour des logiciels étant également possibles, Tesla crée les conditions d'émergence de la voiture autonome.
 
  
 
@@ -60,7 +60,7 @@ Et si Waze, présent bientôt dans tous les objets Android, ou encore l'Open Aut
 
  
 
-Ces concepts sont largement développés par l'auteur dans plusieurs ouvrages dont *[l'avenir de l'économie](), la Marque du Sacré, Petite métaphysique des tsunamis*. Le présent permettant maintenant de simuler le futur, **l'auto-transcendance peut s'activer et déclencher les actions qui engendreront sa propre réalisation**. 
+Ces concepts sont largement développés par l'auteur dans plusieurs ouvrages dont *l'avenir de l'économie, la Marque du Sacré, Petite métaphysique des tsunamis*. Le présent permettant maintenant de simuler le futur, **l'auto-transcendance peut s'activer et déclencher les actions qui engendreront sa propre réalisation**. 
 
  
 

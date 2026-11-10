@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2018/04/uber-a-un-ptit-velo-dans-la-tete.html"
 tags: []
-theme: "Stratégies numériques"
+theme: "Communs, écosystèmes & open source"
 redirect_from:
   - /2018/04/13/uber-a-un-ptit-velo-dans-la-tete/
 ---

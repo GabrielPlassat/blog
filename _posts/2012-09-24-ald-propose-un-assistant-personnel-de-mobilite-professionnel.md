@@ -22,9 +22,9 @@ Le passage induit par cet APM est majeur : proposer des services de mobilité au
 Les bénéfices décrits dans la [**MétaNote N°10**]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/) dédiée au sujet de l'Assistant Personnel de Mobilité se confirment. Nous externalisons des fonctions cognitives dans cet objet qui, sans doute, va disparaître dans nos lunettes et nos montres. Il continue d'aspirer" les fonctions, les éléments de valeur qui étaient dispersés autour de nous.
 
  
-[[FR] Un assistant de mobilité personnel et...]() *par [
+[[FR] Un assistant de mobilité personnel et...]() *par 
  
 
  
 
- ]()*"2012-09-24 16:20:45https://transportsdufutur.ademe.fr/2012/09/ald-propose-un-assistant-personnel-de-mobilite-professionnel.htmlassistant de mobilité|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatald-propose-un-assistant-personnel-de-mobilite-professionnel2015-07-21 16:36:26
+ *

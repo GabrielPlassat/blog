@@ -55,6 +55,6 @@ Renault's Silicon Valley work will focus on research and advanced engineering, i
 
  
 
-**Renault-Nissan Alliance** is a strategic partnership between Paris-based Renault and Yokohama, Japan-based Nissan. The companies have 350,000 employees and account for one in 10 new cars sold annually around the world. The Alliance is committed to developing a wide range of cars and trucks for consumers in every major price and size segment -- including low-cost cars, urban commuter cars, commercial vans, premium vehicles and SUVs. The Alliance is the global auto industry leader in sustainable transportation and the only car group mass-producing zero-emission vehicles. For more details, visit [http://blog.alliance-renault-nissan.com/]().
+**Renault-Nissan Alliance** is a strategic partnership between Paris-based Renault and Yokohama, Japan-based Nissan. The companies have 350,000 employees and account for one in 10 new cars sold annually around the world. The Alliance is committed to developing a wide range of cars and trucks for consumers in every major price and size segment -- including low-cost cars, urban commuter cars, commercial vans, premium vehicles and SUVs. The Alliance is the global auto industry leader in sustainable transportation and the only car group mass-producing zero-emission vehicles. For more details, visit [http://blog.alliance-renault-nissan.com/](http://blog.alliance-renault-nissan.com/).
 
 "

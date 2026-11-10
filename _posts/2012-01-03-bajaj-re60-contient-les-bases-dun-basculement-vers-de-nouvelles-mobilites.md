@@ -28,7 +28,7 @@ Caractéristiques principales :
 
  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01675fe5d551970b-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01675fe5d551970b-800wi.jpg)
 
-Nous avons donc un objet permettant de transporter plusieurs personnes en milieu urbain. Associer à cet objet industriel standard, devenant ici une commodité" (bien de consommation industriel ou individuel (une matière première) disponible en grande quantité et pouvant provenir de nombreux fournisseurs différents), un système de partage immatériel de type Vélib ou [**Moebius/VUlog**](), vous obtenez un service de mobilité à bas prix, avec des performances environnementales correctes (que l'on pourra sans problème améliorer, avec la possibilité d'électrifier ces véhicules). Puis attendez quelques années pour que s'amplifient trois tendances de fond :
+Nous avons donc un objet permettant de transporter plusieurs personnes en milieu urbain. Associer à cet objet industriel standard, devenant ici une commodité" (bien de consommation industriel ou individuel (une matière première) disponible en grande quantité et pouvant provenir de nombreux fournisseurs différents), un système de partage immatériel de type Vélib ou [**Moebius/VUlog**](http://www.imoebius.com/), vous obtenez un service de mobilité à bas prix, avec des performances environnementales correctes (que l'on pourra sans problème améliorer, avec la possibilité d'électrifier ces véhicules). Puis attendez quelques années pour que s'amplifient trois tendances de fond :
 
  
  
@@ -41,7 +41,7 @@ Nous avons donc un objet permettant de transporter plusieurs personnes en milieu
 - les contraintes économiques, environnementales, et de circulation/congestion dans les principales villes des pays de l'OCDE et des BRIC. Ces contraintes imposeront aux décideurs de contraindre (argent et/ou temps) les conducteurs seuls dans leurs voitures, et de "récompenser" tous les autres (transport public, vélo, marche, ...). De nouveaux outils de contraintes/récompenses permettront à des solutions de véhicules partagés de se développer, elles deviendront la règle. 
  
 
-[![]()]()
+
 
  
 
@@ -53,20 +53,6 @@ Les comportements d'une quantité suffisante de personnes seront totalement comp
 
  
 
-De micro-solutions de niche déconnectées les unes des autres, elles seront agrégées par de nouveaux opérateurs (comme [**General Electric**]()) et fourniront les principaux moyens pour se déplacer dans nos villes. Ces véhicules seront achetés par des industriels et des fournisseurs de service pour être opérés, et jamais par des particuliers. Un nouveau marché de masse de niche connecté les unes aux autres sera créé et ouvert à toutes les innovations. Bien sûr de nombreux risques sont associés à ces changements (dépendance aux TIC, données privées, opacité des forfaits de mobilité, ...) mais il est vraissemblable que ce soit la seule voie ... Un diaporama (vu plus de 3500 fois) est disponible pour partager cette vision :
+De micro-solutions de niche déconnectées les unes des autres, elles seront agrégées par de nouveaux opérateurs (comme **General Electric**) et fourniront les principaux moyens pour se déplacer dans nos villes. Ces véhicules seront achetés par des industriels et des fournisseurs de service pour être opérés, et jamais par des particuliers. Un nouveau marché de masse de niche connecté les unes aux autres sera créé et ouvert à toutes les innovations. Bien sûr de nombreux risques sont associés à ces changements (dépendance aux TIC, données privées, opacité des forfaits de mobilité, ...) mais il est vraissemblable que ce soit la seule voie ... Un diaporama (vu plus de 3500 fois) est disponible pour partager cette vision :
 
- [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2012-01-03 14:55:40https://transportsdufutur.ademe.fr/2012/01/bajaj-re60-contient-les-bases-dun-basculement-vers-de-nouvelles-mobilites.htmlBAJAJ|cité|citoyen|Efficacité énergétique|General Electric|internet|Service de mobilité|simplicitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatbajaj-re60-contient-les-bases-dun-basculement-vers-de-nouvelles-mobilites2015-07-21 16:36:39title=""Zipcar"" />
-
- 
-
-**Sous l'effet combiné de ces quatre courants à priori disjoints (disponibilité de solutions de véhicule partagés à bas prix, volonté de plus en plus grande d'utiliser un service sans acheter un objet, disponibilité de technologies "facilitantes" permettant de modifier nos comportements et contraintes extérieures élevées), arrivera le point de basculement vers de nouvelles mobilités**. Ce basculement sera alors rapide, avec un développement viral dans de nombreux territoires.
-
- 
-
-Les comportements d'une quantité suffisante de personnes seront totalement compatibles d'une part avec des offres technologiques, des moyens de mobilité et des contraintes extérieures. L'acceptation, l'acceptabilité puis l'appropriation de ces nouveaux modes de transport seront alors enchaînées pour permettre un déploiement massif.
-
- 
-
-De micro-solutions de niche déconnectées les unes des autres, elles seront agrégées par de nouveaux opérateurs (comme [**General Electric**]()) et fourniront les principaux moyens pour se déplacer dans nos villes. Ces véhicules seront achetés par des industriels et des fournisseurs de service pour être opérés, et jamais par des particuliers. Un nouveau marché de masse de niche connecté les unes aux autres sera créé et ouvert à toutes les innovations. Bien sûr de nombreux risques sont associés à ces changements (dépendance aux TIC, données privées, opacité des forfaits de mobilité, ...) mais il est vraissemblable que ce soit la seule voie ... Un diaporama (vu plus de 3500 fois) est disponible pour partager cette vision :
-
- [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "
+ Td f 2011v1 View more presentations from Les transports du futur

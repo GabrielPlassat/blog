@@ -18,17 +18,17 @@ Google Mobility Service, article de Science Fiction, décrivait les services de 
 
  
 
-Il devient maintenant évident que la majorité des ruptures que l’on observe sont liées à ce basculement de la valeur vers les logiciels. Ceci est vrai dans tous les domaines : tourisme, transport, services urbains, banques, éducation, santé… **Concevoir et produire en masse des objets sans avoir pris soin de les « enrober » voire même de les « tisser » avec plusieurs couches de logiciels devient risqué voire inutile.** Le logiciel permettant d’offrir de nouveaux services et de nouvelles **[expériences]()**, il doit être lié à l’objet de façon complexe, au sens d’Edgar Morin - *complexus : ce qui est tissé ensemble, *nous y reviendrons. Les quatre raisons identifiées par Nicolas Colin sont particulièrement importantes : 
+Il devient maintenant évident que la majorité des ruptures que l’on observe sont liées à ce basculement de la valeur vers les logiciels. Ceci est vrai dans tous les domaines : tourisme, transport, services urbains, banques, éducation, santé… **Concevoir et produire en masse des objets sans avoir pris soin de les « enrober » voire même de les « tisser » avec plusieurs couches de logiciels devient risqué voire inutile.** Le logiciel permettant d’offrir de nouveaux services et de nouvelles **[expériences]({{ site.baseurl }}/2012/08/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au/)**, il doit être lié à l’objet de façon complexe, au sens d’Edgar Morin - *complexus : ce qui est tissé ensemble, *nous y reviendrons. Les quatre raisons identifiées par Nicolas Colin sont particulièrement importantes : 
 
  
  
 - Sa position « au dessus » des objets pour mieux les administrer, les utiliser, les exploiter, et de définir l’allocation des ressources dans la chaîne de valeur, 
-- Sa position « au contact » des clients lui confère un avantage supplémentaire : l’accès à des données inédites sur les usages, les besoins des clients dans un 1er temps, puis sa capacité à devenir l’unique interlocuteur dans un 2nd temps. **[Certains ont déjà compris que les données ne sont qu’un carburant pour mieux comprendre les changements ]()**… 
+- Sa position « au contact » des clients lui confère un avantage supplémentaire : l’accès à des données inédites sur les usages, les besoins des clients dans un 1er temps, puis sa capacité à devenir l’unique interlocuteur dans un 2nd temps. **[Certains ont déjà compris que les données ne sont qu’un carburant pour mieux comprendre les changements ]({{ site.baseurl }}/2012/08/certains-ont-compris-que-les-donnees-ne-sont-quun-carburant-pour-mieux-comprendre-les-changements-de/)**… 
 - Sa capacité à faire participer les usagers eux-mêmes au processus de production : le moteur de recommandation d’Amazon fondé sur vos historiques d’achat et les achats de clients « proches ». Le logiciel construit progressivement des bases de connaissances inédites sur les clients, sur les raisons de leurs choix. Ceci permet d’accéder à des rendements d’échelles considérables pour mieux vendre les produits/services totalement adaptés aux besoins exprimés, et de conduire à la 4ème raison, 
 - Sa capacité à mettre l’acteur du logiciel en position dominante pour lui permettre de capter de plus en plus de marge et de verrouiller sa position. Le mot « code » prends alors tout son sens… 
  
 
-Le hardware connecté sera dominé par l’acteur numérique qui sera le seul à comprendre l’acte d’achat, les usages, à identifier les paramètres infuents, les clients clés (les influenceurs), donc **le client et son environnement**. Le fabricant du matériel ne sera qu’un sous-traitant à faible valeur ajoutée, **[quel sera alors l’avenir de l’automobile ]()**? Il n’y aura pas de marche arrière, ceci sera irréversible.
+Le hardware connecté sera dominé par l’acteur numérique qui sera le seul à comprendre l’acte d’achat, les usages, à identifier les paramètres infuents, les clients clés (les influenceurs), donc **le client et son environnement**. Le fabricant du matériel ne sera qu’un sous-traitant à faible valeur ajoutée, **[quel sera alors l’avenir de l’automobile ]({{ site.baseurl }}/2012/07/lavenir-de-lautomobile/)**? Il n’y aura pas de marche arrière, ceci sera irréversible.
 
  
 
@@ -40,7 +40,7 @@ L’imbrication des designs des objets et des logiciels sera totale, fusionnelle
 
  
 
-La Google car représente cette fusion : **le véhicule n’est alors que le support matériel des logiciels**. Comme cela a été décrit dans des précédents **[articles]()**, le véhicule circulera avant tout pour capter des données et mettre en jour les cartes numériques. La maîtrise de la cartographie, au sens de Google Apple Amazon, permet de répondre à un problème posé par l’utilisateur en le guidant vers la solution : la géographie est nécessaire mais pas suffisante, la parfaite connaissance des **[aménités]()** du monde physique est nécessaire. En faisant rouler des cohortes de drones, Google pourra simultanément verrouiller sa position dominante sur les cartes en mettant à jour les aménités disponibles – et donc tous les services associés Map, Transit, Traffic, Now… - et également déplacer des personnes et des marchandises. 
+La Google car représente cette fusion : **le véhicule n’est alors que le support matériel des logiciels**. Comme cela a été décrit dans des précédents **[articles]({{ site.baseurl }}/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc/)**, le véhicule circulera avant tout pour capter des données et mettre en jour les cartes numériques. La maîtrise de la cartographie, au sens de Google Apple Amazon, permet de répondre à un problème posé par l’utilisateur en le guidant vers la solution : la géographie est nécessaire mais pas suffisante, la parfaite connaissance des **[aménités](http://fr.wikipedia.org/wiki/Amenite)** du monde physique est nécessaire. En faisant rouler des cohortes de drones, Google pourra simultanément verrouiller sa position dominante sur les cartes en mettant à jour les aménités disponibles – et donc tous les services associés Map, Transit, Traffic, Now… - et également déplacer des personnes et des marchandises. 
 
  
 
@@ -57,6 +57,4 @@ Mais de telles opérations, nécessaire à l’intelligibilité, risquent de ren
 
  
 
-Reprenant *E.Morin* (voir **[l’article]() **sur ce sujet), la somme des 2 sera à la fois supérieure et inférieure à la somme des parties. De ce paradoxe, il devient urgent de s’intéresser pour trouver notre **[voie d’intérêts communs]()**.
-
-"2012-11-07 09:46:36https://transportsdufutur.ademe.fr/2012/11/le-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets.htmlcité|citoyen|collectivité|commuter|confiance|connectivité|cybercar|donnée data|données réelles|économie de l'expérience|économie du quaternaire|économie fonctionnalité|google|innovation|intelligence collective|internet|internet des objets|ITS|partage de données|Service de mobilité|surveillance|TIC|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets2015-07-21 16:35:48
+Reprenant *E.Morin* (voir **l’article **sur ce sujet), la somme des 2 sera à la fois supérieure et inférieure à la somme des parties. De ce paradoxe, il devient urgent de s’intéresser pour trouver notre **voie d’intérêts communs**.

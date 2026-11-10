@@ -31,6 +31,6 @@ Building off [an earlier post,](http://brandavenue.typepad.com/brand_avenue/2010
 
  
 
-*People who live in walkable communities are more socially engaged and trusting than those who live in less walkable areas, says a new study from the [University of New Hampshire](http://www.unh.edu/)....**The researchers scored 700 residents of three communities in New Hampshire on measures of social capital" such as socializing with friends, civic engagement and trust in their community. They found those in neighborhoods with higher [Walk Score ratings]() reported being happier and healthier and more apt to volunteer, work on community projects or simply entertain friends at home.*
+*People who live in walkable communities are more socially engaged and trusting than those who live in less walkable areas, says a new study from the [University of New Hampshire](http://www.unh.edu/)....**The researchers scored 700 residents of three communities in New Hampshire on measures of social capital" such as socializing with friends, civic engagement and trust in their community. They found those in neighborhoods with higher [Walk Score ratings](http://www.walkscore.com/) reported being happier and healthier and more apt to volunteer, work on community projects or simply entertain friends at home.*
 
 "

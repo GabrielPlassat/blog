@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "margin-right: auto\"\" title=\"\"Comute\"\" /></a> <br /> <br /> <br /><br /></p>\""
 tags: ["assistant de mobilité", "citoyen", "connectivité", "données réelles", "internet", "iphone", "multimodes", "Service de mobilité", "vélo"]
-theme: "Données & services numériques"
+theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2010/09/21/geovelo-aide-au-developpement-du-velo/
 ---
@@ -44,14 +44,6 @@ Ci dessous quelques exemples qui montrent la puissance de ces outils, pour **[ch
 
  
 
-[![]()]() 
- [![]()]() 
-[![]()]() 
  
- 
+  
 
-"2010-09-21 09:54:34https://transportsdufutur.ademe.fr/2010/09/geovelo-aide-au-developpement-du-velo.htmlassistant de mobilité|citoyen|connectivité|données réelles|internet|iphone|multimodes|Service de mobilité|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatgeovelo-aide-au-developpement-du-velo2015-07-21 16:37:38margin-right: auto"" title=""Comute"" /> 
- 
- 
-
-"

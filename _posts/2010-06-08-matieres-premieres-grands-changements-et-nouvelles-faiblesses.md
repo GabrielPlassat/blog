@@ -42,7 +42,7 @@ Rune Rafalesen, directeur du Secrétariat de Barents, voit Kirkenes, seul port e
 
  
 
-Simultanément dans les plaines d'Ukraine, **[des compagnies privées s'installent]()** pour remettre à neuf les installations soviétiques et produire, sur l'un des derniers greniers à blé, des céréales à usage alimentaire et éventuellement énergétique. Tiré du site **[d'Agrogénération]()**, la **[FAO]()** (Food and Agricultural Organization) et l'OCDE s'accordent à dire que la production agricole devra augmenter de 70% d'ici 2050 pour subvenir aux besoins croissants de la population. Cette forte augmentation s'explique principalement par 3 facteurs :
+Simultanément dans les plaines d'Ukraine, **[des compagnies privées s'installent](http://www.ouest-france.fr/actu/actuDet_-Ces-Francais-qui-vont-faire-leur-ble-en-Ukraine-_3637-1393867_actu.Htm)** pour remettre à neuf les installations soviétiques et produire, sur l'un des derniers greniers à blé, des céréales à usage alimentaire et éventuellement énergétique. Tiré du site **[d'Agrogénération](http://www.agrogeneration.com/index.php?option=com_content&view=article&id=3&Itemid=3&lang=fr)**, la **[FAO](ftp://ftp.fao.org/docrep/fao/meeting/018/k6021f.pdf)** (Food and Agricultural Organization) et l'OCDE s'accordent à dire que la production agricole devra augmenter de 70% d'ici 2050 pour subvenir aux besoins croissants de la population. Cette forte augmentation s'explique principalement par 3 facteurs :
 
  
  
@@ -51,25 +51,25 @@ Simultanément dans les plaines d'Ukraine, **[des compagnies privées s'installe
 - Un développement important des débouchés non alimentaires des productions agricoles notamment les biocarburants. 
  
 
-L'exploitation de la biomasse est bien, de nouveau, un enjeu majeur et les marchés sont mondiaux en témoigne avec **[l'évolution du cour de la pâte à papier]()** qui flambe à près de 1000 $ la tonne.
+L'exploitation de la biomasse est bien, de nouveau, un enjeu majeur et les marchés sont mondiaux en témoigne avec **[l'évolution du cour de la pâte à papier](http://www.lesechos.fr/info/industrie/020575575892-audio-les-cours-de-la-pate-a-papier-retrouvent-les-records-de-1995-paul-antoine-lacour-.htm)** qui flambe à près de 1000 $ la tonne.
 
  
 
-[AUDIO « Les cours de la pâte à papier retrouvent les records de 1995 » (Paul-Antoine Lacour) - PAPIER]()
+[AUDIO « Les cours de la pâte à papier retrouvent les records de 1995 » (Paul-Antoine Lacour) - PAPIER](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/files/audio--les-cours-de-la-pete-a-papier-retrouvent-les-records-de-1995--paul-antoine-lacour---papier.mp3)
 
  
 
-Cet usage du bois va se marier dans des bioraffineries à des productions énergétiques, comme le montre l'exemple de **[Stora Enso et Neste Oil]()**. Où seront situées ces bioraffineries ? près de la ressource ? près des marchés ? La répartition des différents produits fabriqués sera-t-elle uniquement basée sur des critères économiques ?
+Cet usage du bois va se marier dans des bioraffineries à des productions énergétiques, comme le montre l'exemple de **[Stora Enso et Neste Oil]({{ site.baseurl }}/2010/02/focus-sur-la-finlande/)**. Où seront situées ces bioraffineries ? près de la ressource ? près des marchés ? La répartition des différents produits fabriqués sera-t-elle uniquement basée sur des critères économiques ?
 
  
 
-Cette diversification énergétique est nécessaire pour plusieurs raisons, mais elle comporte de nouveaux enjeux, de nouveaux acteurs, de  nouveaux risques comme la **[rouille]()**, champignon parasite découvert en Ouganda qui a conduit la FAO a mettre en oeuvre **[un suivi sur Google Map de la propagation]()** qui touche maintenant la Géorgie, l'Iran. 
+Cette diversification énergétique est nécessaire pour plusieurs raisons, mais elle comporte de nouveaux enjeux, de nouveaux acteurs, de  nouveaux risques comme la **[rouille](http://www.lefigaro.fr/sciences-technologies/2010/05/27/01030-20100527ARTFIG00728-un-champignon-attaque-le-ble-en-afrique-du-sud.php)**, champignon parasite découvert en Ouganda qui a conduit la FAO a mettre en oeuvre **un suivi sur Google Map de la propagation** qui touche maintenant la Géorgie, l'Iran. 
 
  
 
  
 
-[]() 
+ 
 
  
 

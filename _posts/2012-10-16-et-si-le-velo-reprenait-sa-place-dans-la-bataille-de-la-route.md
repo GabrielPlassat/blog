@@ -30,32 +30,16 @@ Rendue possible par des technologies embarquables à bord d'un vélo, la sousvei
 
  
 
-[source [**Radio Canada**]()] *De plus en plus de cyclistes s’équipent de petites caméras pour dénoncer le comportement de chauffards. C’est le cas d’Evan Wilder qui raconte sa mésaventure au New York Times. Grâce à la vidéo, l’auteur du crime a pu être retrouvé et accusé de délit de fuite.*
+[source **Radio Canada**] *De plus en plus de cyclistes s’équipent de petites caméras pour dénoncer le comportement de chauffards. C’est le cas d’Evan Wilder qui raconte sa mésaventure au New York Times. Grâce à la vidéo, l’auteur du crime a pu être retrouvé et accusé de délit de fuite.*
 
  
 
-Un autre [**équipement** ]()compléterait la caméra, un laser représentant l'espace vital du cycliste. Si vous entrez dans cet espace, vous êtes filmé et mon assurance est déjà informée ! **Des photos automatiques sont prises, partagées sur les réseaux sociaux, construisant une base de connaissance des voitures dangereuses.**
+Un autre **équipement** compléterait la caméra, un laser représentant l'espace vital du cycliste. Si vous entrez dans cet espace, vous êtes filmé et mon assurance est déjà informée ! **Des photos automatiques sont prises, partagées sur les réseaux sociaux, construisant une base de connaissance des voitures dangereuses.**
 
  
 
- [![]()]()![]()
-
- []() 
-
-Les sociétés d'assurance pourraient jouer un rôle grâce à la disponibilité des données prouvant l'infraction et grâce aux avantages en matière de santé générés par le vélo (voir la [**MétaNote N°12, l'avenir du vélo**]()). Aujourd'hui fragile, "lent" et isolé, le cycliste pourrait ré-équilibrer à son avantage les rapports de force et conduire à un partage équitable de la route.
-
  
 
- 
+  
 
-"2012-10-16 12:00:24https://transportsdufutur.ademe.fr/2012/10/et-si-le-velo-reprenait-sa-place-dans-la-bataille-de-la-route.html2 roues|assurance|citoyen|commuter|intelligence collective|internet|mode doux|vélopublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-le-velo-reprenait-sa-place-dans-la-bataille-de-la-route2015-07-21 16:36:25title=""Manavella-1_cqlEj_69"" />![]()
-
- []() 
-
-Les sociétés d'assurance pourraient jouer un rôle grâce à la disponibilité des données prouvant l'infraction et grâce aux avantages en matière de santé générés par le vélo (voir la [**MétaNote N°12, l'avenir du vélo**]()). Aujourd'hui fragile, "lent" et isolé, le cycliste pourrait ré-équilibrer à son avantage les rapports de force et conduire à un partage équitable de la route.
-
- 
-
- 
-
-"
+Les sociétés d'assurance pourraient jouer un rôle grâce à la disponibilité des données prouvant l'infraction et grâce aux avantages en matière de santé générés par le vélo (voir la **MétaNote N°12, l'avenir du vélo**). Aujourd'hui fragile, "lent" et isolé, le cycliste pourrait ré-équilibrer à son avantage les rapports de force et conduire à un partage équitable de la route.

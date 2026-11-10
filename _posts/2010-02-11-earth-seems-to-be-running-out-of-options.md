@@ -15,11 +15,11 @@ Une nouvelle fois, **[la cour suprême de Delhi suit la pétition d'une ONG Manu
 
  
 
-La cour suprême indique que les vélos rickshaws proposent un mode de déplacement éco-friendly" qui est nécessaire. "With issues like climate change looming large, I don’t think we can look at non-motorised vehicles (NMVs) like cycle rickshaws as elements which can be removed from Delhi’s integrated transport network. The police needs to support NMV lanes even along high-speed corridors". De plus, elle demande également de supprimer le quota limite qui était fixé à 99.000 vélo-rickshaws. Et comme on arrête pas le progrès, il est proposé d'utiliser des **[capteurs biométriques]()** pour pouvoir les identifier.
+La cour suprême indique que les vélos rickshaws proposent un mode de déplacement éco-friendly" qui est nécessaire. "With issues like climate change looming large, I don’t think we can look at non-motorised vehicles (NMVs) like cycle rickshaws as elements which can be removed from Delhi’s integrated transport network. The police needs to support NMV lanes even along high-speed corridors". De plus, elle demande également de supprimer le quota limite qui était fixé à 99.000 vélo-rickshaws. Et comme on arrête pas le progrès, il est proposé d'utiliser des **[capteurs biométriques](http://www.indiatalkies.com/2009/12/delhis-rickshaw-pullers-may-get-biometric-badges.html)** pour pouvoir les identifier.
 
  
 
-En même temps, cette même cour suprême demande (ou plutôt suggère d'imposer) une taxe pour rentrer dans Delhi à tous les véhicules privés. Avec **[quelques extraits]()** : 
+En même temps, cette même cour suprême demande (ou plutôt suggère d'imposer) une taxe pour rentrer dans Delhi à tous les véhicules privés. Avec **[quelques extraits](http://www.hindustantimes.com/rssfeed/newdelhi/Charge-congestion-fee-from-private-cars/Article1-507508.aspx)** : 
 
  
 
@@ -39,6 +39,6 @@ The court said if the movement of heavy vehicles like trucks can be restricted a
 
  
 
-Rappelons qu'il y a à Delhi plus de 3.8 millions de véhicule privé, 100 de plus tous les jours... Il est probable que, comme en **[Chine à Beijing]()**, on fasse la promotion du véhicule particulier pour en même temps le chasser de la ville.
+Rappelons qu'il y a à Delhi plus de 3.8 millions de véhicule privé, 100 de plus tous les jours... Il est probable que, comme en **[Chine à Beijing]({{ site.baseurl }}/2010/02/le-sud-apporte-au-nord-la-suite/)**, on fasse la promotion du véhicule particulier pour en même temps le chasser de la ville.
 
 "

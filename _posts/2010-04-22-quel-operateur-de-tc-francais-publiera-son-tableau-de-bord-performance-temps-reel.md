@@ -34,10 +34,10 @@ Below Global Dashboard :
 
 HRT has recently been criticized for cost overruns with The Tide project, which will cost $100 million more than initially estimated. Board members praised Shucet on Monday for bringing the Dashboard" approach to HRT.
 
-"I think that openness and accountability at HRT is exactly what needs to be done," said Del. [G. Glenn Oder](), R-[Newport News](), who sits on HRT's board. "I applaud Philip Shucet for bringing a very successful program at VDOT where the citizens were able to have access to real time information and apply that very successful project to HRT." 
+"I think that openness and accountability at HRT is exactly what needs to be done," said Del. [G. Glenn Oder](/topic/politics/g.-glenn-oder-PEPLT007430.topic), R-[Newport News](/topic/us/virginia/newport-news-city/newport-news-%28newport-news-virginia%29-PLGEO100101184030000.topic), who sits on HRT's board. "I applaud Philip Shucet for bringing a very successful program at VDOT where the citizens were able to have access to real time information and apply that very successful project to HRT." 
 
 HRT board chairman Jim Wood welcomed the change. "It's going to provide data that we should have been getting all along prior to Philip taking over," Wood said. 
 
-For more transportation news, follow Austin Bogues online at Twitter.com/Abogues. Or [Link to full story in the Daily Press]().
+For more transportation news, follow Austin Bogues online at Twitter.com/Abogues. Or [Link to full story in the Daily Press](http://www.dailypress.com/news/dp-local_hrt-dashboard_0420apr20,0,5506323.story).
 
 "

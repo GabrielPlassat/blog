@@ -5,7 +5,7 @@ date: 2010-07-02
 source: tdf
 source_name: "Transports du Futur"
 tags: ["allemagne", "assurance", "Energie", "pétrole"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2010/07/02/yasuni-un-cas-a-part-ou-lavenir-du-petrole-2/
 ---
@@ -32,9 +32,9 @@ La procédure consiste en l'émission de bons par l'Etat pour le pétrole qui re
 
  
 
-Quelle est la valeur de la biodiversité ? Quels sont les acteurs économiques qui ont intérêt à avoir une grande biodiversité ? est ce "uniquement" une préocuppation de pouvoirs publics et de citoyen ? [
-]()
-Le Centre d'Analyse Stratégique propose dans **[ce rapport]()** des ordres de grandeur économique et surtout des méthodes pour approcher des valeurs économiques à la biodiversité. 
+Quelle est la valeur de la biodiversité ? Quels sont les acteurs économiques qui ont intérêt à avoir une grande biodiversité ? est ce "uniquement" une préocuppation de pouvoirs publics et de citoyen ? 
+
+Le Centre d'Analyse Stratégique propose dans **[ce rapport](http://www.strategie.gouv.fr/IMG/pdf/Rapport_18_Biodiversite_web.pdf)** des ordres de grandeur économique et surtout des méthodes pour approcher des valeurs économiques à la biodiversité. 
 
  
 

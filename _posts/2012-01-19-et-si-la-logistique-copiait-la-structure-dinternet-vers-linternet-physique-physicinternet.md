@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "padding-left: 30px\"\">Fort de premiers résultats novateurs et significatifs, une simulation de déploiement sur des produits de la grande consommation et une expérimentation à échelle réduite OTC_KAYPAL(r)MR sont en cours.<br />Des projets sont également menés en Amérique et en Europe à travers l’Initiative de l’Internet Physique pour faire émerger des standards ouverts, sans oublier le lien avec l’Asie.\"</p> <p style=\"\"text-align: justify\"\">L'internet physique semble être finalement l'évolution naturelle du secteur de la logistique. Ces décloisonnements, ouvertures offriront de nouvelles souplesses, nouvelles optimisations, et bien sûr de nouvelles données, nouvelles connaissances. Bien sûr cela va changer les règles du jeux, les chaînes de valeurs, donc les jeux d'acteurs. N'oublions pas également que la structure et le contenu d'Internet évolue lui aussi... Voir le projet européen <a href=\"\"/2011/04/parce-que-les-mobilites-de-demain-passent-par-linternet-du-futur.html\"\" target=\"\"_blank\"\"><strong>Instant Mobility</strong></a>.</p> <div id=\"\"__ss_11152028\"\" style=\"\"width: 425px\"\"><strong style=\"\"margin: 12px 0 4px\"\"><a href=\"\"http://www.slideshare.net/transportsdufutur/com-suivi-10-janvier-2012\"\" title=\"\"Com suivi 10 janvier 2012\"\">Com suivi 10 janvier 2012</a></strong>         <div style=\"\"padding: 5px 0 12px\"\">View more <a href=\"\"http://www.slideshare.net/\"\">presentations</a> from <a href=\"\"http://www.slideshare.net/transportsdufutur\"\">Les transports du futur</a>.</div> </div> <p style=\"\"text-align: justify\"\">Web : <a href=\"\"http://physicalinternetinitiative.org/\"\" target=\"\"_blank\"\"><strong>http://physicalinternetinitiative.org/</strong></a> — Tweeter : @PhysicInternet</p> <p style=\"\"text-align: justify\"\">Lien vers une <a href=\"\"http://www.slideshare.net/transportsdufutur/rapport-open-fret-mr\"\" target=\"\"_blank\"\"><strong>étude du PREDITOPENFRET</strong></a></p>\""
 tags: ["donnée data", "Efficacité énergétique", "Infrastructure", "internet"]
-theme: "Veille & documents"
+theme: "Données & services numériques"
 redirect_from:
   - /2012/01/19/et-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet/
 ---
@@ -33,29 +33,12 @@ Des projets sont également menés en Amérique et en Europe à travers l’Init
 
  
 
-L'internet physique semble être finalement l'évolution naturelle du secteur de la logistique. Ces décloisonnements, ouvertures offriront de nouvelles souplesses, nouvelles optimisations, et bien sûr de nouvelles données, nouvelles connaissances. Bien sûr cela va changer les règles du jeux, les chaînes de valeurs, donc les jeux d'acteurs. N'oublions pas également que la structure et le contenu d'Internet évolue lui aussi... Voir le projet européen [**Instant Mobility**]().
+L'internet physique semble être finalement l'évolution naturelle du secteur de la logistique. Ces décloisonnements, ouvertures offriront de nouvelles souplesses, nouvelles optimisations, et bien sûr de nouvelles données, nouvelles connaissances. Bien sûr cela va changer les règles du jeux, les chaînes de valeurs, donc les jeux d'acteurs. N'oublions pas également que la structure et le contenu d'Internet évolue lui aussi... Voir le projet européen **Instant Mobility**.
 
- [Com suivi 10 janvier 2012]() View more [presentations]() from [Les transports du futur](). 
+ Com suivi 10 janvier 2012 View more presentations from Les transports du futur. 
 
-Web : [**http://physicalinternetinitiative.org/**]() — Tweeter : @PhysicInternet
-
- 
-
-Lien vers une [**étude du PREDITOPENFRET**]()
-
-"2012-01-19 11:25:12https://transportsdufutur.ademe.fr/2012/01/et-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet.htmldonnée data|Efficacité énergétique|Infrastructure|internetpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-la-logistique-copiait-la-structure-dinternet-vers-linternet-physique-physicinternet2015-07-21 16:36:38padding-left: 30px"">Fort de premiers résultats novateurs et significatifs, une simulation de déploiement sur des produits de la grande consommation et une expérimentation à échelle réduite OTC_KAYPAL(r)MR sont en cours.
-Des projets sont également menés en Amérique et en Europe à travers l’Initiative de l’Internet Physique pour faire émerger des standards ouverts, sans oublier le lien avec l’Asie."
+Web : **http://physicalinternetinitiative.org/** — Tweeter : @PhysicInternet
 
  
 
-L'internet physique semble être finalement l'évolution naturelle du secteur de la logistique. Ces décloisonnements, ouvertures offriront de nouvelles souplesses, nouvelles optimisations, et bien sûr de nouvelles données, nouvelles connaissances. Bien sûr cela va changer les règles du jeux, les chaînes de valeurs, donc les jeux d'acteurs. N'oublions pas également que la structure et le contenu d'Internet évolue lui aussi... Voir le projet européen [**Instant Mobility**]().
-
- [Com suivi 10 janvier 2012]() View more [presentations]() from [Les transports du futur](). 
-
-Web : [**http://physicalinternetinitiative.org/**]() — Tweeter : @PhysicInternet
-
- 
-
-Lien vers une [**étude du PREDITOPENFRET**]()
-
-"
+Lien vers une **étude du PREDITOPENFRET**

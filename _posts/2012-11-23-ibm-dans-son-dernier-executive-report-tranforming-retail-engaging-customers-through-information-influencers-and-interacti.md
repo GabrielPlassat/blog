@@ -15,7 +15,7 @@ IBM, dans son dernier **[Executive Report Transforming Retail / Engaging custome
 
  
 
-Détaillons, pour bien les comprendre, les 4 points qui devrait faire de la voiture, ce nouvel objet connecté moderne ... Puis nous nous appuyerons sur **[Ingress]()** pour voir que ces propositions sont déjà "dépassées", elles sont nécessaires mais non suffisantes. Le tissage des mondes physiques et numériques est déjà passé à l'étape suivante. Pour de plus en plus de personnes, les échanges sur les réseaux sociaux numériques sont bien réels, et, dans le domaine des transports, les sensations offertes par la réalité augmentée et les jeux sont souvent supérieures à celles vécues dans la circulation quotidienne. Des acteurs vont déjà proposés des expériences utilisateurs encore plus ... plus connectées, plus inédites, plus complexes, plus ... Mais pour atteindre ce niveau 2, il faut déjà maîtriser les fondamentaux.
+Détaillons, pour bien les comprendre, les 4 points qui devrait faire de la voiture, ce nouvel objet connecté moderne ... Puis nous nous appuyerons sur **[Ingress](https://play.google.com/store/apps/details?id=com.nianticproject.ingress)** pour voir que ces propositions sont déjà "dépassées", elles sont nécessaires mais non suffisantes. Le tissage des mondes physiques et numériques est déjà passé à l'étape suivante. Pour de plus en plus de personnes, les échanges sur les réseaux sociaux numériques sont bien réels, et, dans le domaine des transports, les sensations offertes par la réalité augmentée et les jeux sont souvent supérieures à celles vécues dans la circulation quotidienne. Des acteurs vont déjà proposés des expériences utilisateurs encore plus ... plus connectées, plus inédites, plus complexes, plus ... Mais pour atteindre ce niveau 2, il faut déjà maîtriser les fondamentaux.
 
  
 
@@ -27,12 +27,12 @@ Le rapport d'IBM souligne, à destination des constructeurs, le besoin d'être p
 
  
 
- [![]()]()
+ 
 **Différenciation de rupture :** Nous retrouvons là l'idée d'effectuer une transition pour sortir de la vente d'objet en proposant des services nouveaux permettant notamment de réduire ses coûts, son temps de trajet ou d'utiliser d'autres modes de transports. Ce "nouveau" cahier des charges devient pour de plus en plus d'industriels :
 
  
 
- [![]()]()
+ 
 **Capitaliser sur la personnalisation** : Personnalisation physique sur l'objet en augmentant les options, les interfaces spécifiques ou encore personnalisation numérique et électronique de l'environnement, des services, de l'expérience vécue. Cette différenciation porte une valeur économique qui n'est pas nouvelle, mais qui peut être revisitée.
 
  
@@ -41,20 +41,20 @@ Le rapport d'IBM souligne, à destination des constructeurs, le besoin d'être p
 
  
 
-  [![]()]()
+  
 **S'engager dans les réseaux sociaux** : Notamment pour, à minima, mieux suivre ses clients et les retours de leurs expériences vécues à travers l'automobile. Les constructeurs ont récemment compris qu'ils ne pouvaient pas ne pas y être. Certains y voient une opportunité d'apprendre à mieux connaître les besoins réels des utilisateurs en les mettant en position de co-créer (voir un précédent article), d'autres essayent par les réseaux sociaux d'identifier les influenceurs, pour tenter de les influencer.
 
  
 
-Devant ces opportunités qui sont autant de menaces potentielles, l'écosystème se complexifie et s'ouvre à d'autres acteurs. Les modèles d'affaires restent à inventer, et le numérique/virtuel rentre bien en compétition / complément du monde physique. Nous retrouvons bien cette dualité déjà abordé dans les articles sur le **[choc à venir entre ces 2 industries](), et [le pouvoir des logiciels]().**
+Devant ces opportunités qui sont autant de menaces potentielles, l'écosystème se complexifie et s'ouvre à d'autres acteurs. Les modèles d'affaires restent à inventer, et le numérique/virtuel rentre bien en compétition / complément du monde physique. Nous retrouvons bien cette dualité déjà abordé dans les articles sur le **[choc à venir entre ces 2 industries]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/), et [le pouvoir des logiciels]({{ site.baseurl }}/2012/11/le-logiciel-devore-le-monde-quand-les-codes-dominent-les-objets/).**
 
  
 
- [![]()]()
+ 
 
  
 
-Mais les acteurs du numérique ont déjà une longueur d'avance. Sans doute, la conception de logiciel permet de voir le monde différemment, d'être plus agile, plus innovant, de préférer les risques. Google vient de lancer **[Ingress]()**, un jeu utilisant la technologie de la réalité augmentée s'appuyant sur les cartes du monde réel. Le tissage du monde réel et du virtuel passe à un niveau supérieur alors que les industries automobiles n'ont pas franchi le premier. Et bien sûr les modèles d'affaires mis en oeuvre sont totalement inédits.
+Mais les acteurs du numérique ont déjà une longueur d'avance. Sans doute, la conception de logiciel permet de voir le monde différemment, d'être plus agile, plus innovant, de préférer les risques. Google vient de lancer **[Ingress](http://www.join-ingress.fr/)**, un jeu utilisant la technologie de la réalité augmentée s'appuyant sur les cartes du monde réel. Le tissage du monde réel et du virtuel passe à un niveau supérieur alors que les industries automobiles n'ont pas franchi le premier. Et bien sûr les modèles d'affaires mis en oeuvre sont totalement inédits.
 
  
 
@@ -62,7 +62,7 @@ Mais les acteurs du numérique ont déjà une longueur d'avance. Sans doute, la 
 
  
 
-[**[source GQ]()**] *Google a donc confié à John Blake, superviseur en chef de Google Earth et Google Maps, le projet Ingress, un jeu multi-joueurs qui réunit des individus du monde entier. Il fait cohabiter dans le monde réel deux factions en guerre partout dans votre ville, les Illuminés ou les Résistants. Le but de ce jeu tient du mystère créée par une nouvelle énergie (appelée XM) découverte sur terre. Pour la glaner, les joueurs doivent se rendre dans certains lieux du monde réel (des musées et des bibliothèques par exemple) qui abritent des unités d’énergie. Ces dernières sont des clés pour gagner des objets et protéger leur territoire.*
+[**[source GQ](http://www.gqmagazine.fr/culture-web/ca-buzze/articles/ingress-le-reality-game-de-google/16676)**] *Google a donc confié à John Blake, superviseur en chef de Google Earth et Google Maps, le projet Ingress, un jeu multi-joueurs qui réunit des individus du monde entier. Il fait cohabiter dans le monde réel deux factions en guerre partout dans votre ville, les Illuminés ou les Résistants. Le but de ce jeu tient du mystère créée par une nouvelle énergie (appelée XM) découverte sur terre. Pour la glaner, les joueurs doivent se rendre dans certains lieux du monde réel (des musées et des bibliothèques par exemple) qui abritent des unités d’énergie. Ces dernières sont des clés pour gagner des objets et protéger leur territoire.*
 
  
 
@@ -70,11 +70,11 @@ Mais les acteurs du numérique ont déjà une longueur d'avance. Sans doute, la 
 
  
 
- [![]()]()
+ 
 
  
 
-Après Field Trip (une appli Android de géolocalisation également développée par [Niantic Labs]()), Ingress est dès à présent [disponible gratuitement sur le Google Play](). Ingress préfigure les prochains jeux, les prochaines relations clients, les prochaines expériences utilisateurs. Tout y sera entremélé. Tout sera vu comme complexe et inaccessible pour ceux qui n'ont pas changé de point de vue. 
+Après Field Trip (une appli Android de géolocalisation également développée par [Niantic Labs](http://www.presse-citron.net/google-revele-lexistence-dun-mysterieux-projet-baptise-niantic-project)), Ingress est dès à présent [disponible gratuitement sur le Google Play](http://www.ingress.com/). Ingress préfigure les prochains jeux, les prochaines relations clients, les prochaines expériences utilisateurs. Tout y sera entremélé. Tout sera vu comme complexe et inaccessible pour ceux qui n'ont pas changé de point de vue. 
 
  
 

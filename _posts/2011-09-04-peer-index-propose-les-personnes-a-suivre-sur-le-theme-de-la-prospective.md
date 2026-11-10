@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2011/09/peer-index-propose-les-personnes-a-suivre-sur-le-theme-de-la-prospective.html"
 tags: ["internet", "réseaux"]
-theme: "Données & services numériques"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2011/09/04/peer-index-propose-les-personnes-a-suivre-sur-le-theme-de-la-prospective/
 ---

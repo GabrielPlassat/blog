@@ -39,7 +39,7 @@ Cette approche conforte une vision possible selon laquelle les principaux gains 
 - d'augmenter enfin l'utilisation des **modes collectifs** classiques, et des **modes actifs**. 
  
 
-Ce paquet" de gains est vertueux, il permet également de renforcer l'attractivité de cette 3ème voie. Les récentes données fournies par [**Covoiturage.fr**]() confirme également que l'offre de siège libre est en forte augmentation, ainsi que les flux réalisés par les voyageurs. Cette 3ème voie est à l'évidence souhaitable pour les citoyens, l'environnement et pour certaines industries.
+Ce paquet" de gains est vertueux, il permet également de renforcer l'attractivité de cette 3ème voie. Les récentes données fournies par [**Covoiturage.fr**]({{ site.baseurl }}/2012/06/dans-le-monde-de-la-rarete-le-partage-dun-vehicule-ne-sera-plus-une-option/) confirme également que l'offre de siège libre est en forte augmentation, ainsi que les flux réalisés par les voyageurs. Cette 3ème voie est à l'évidence souhaitable pour les citoyens, l'environnement et pour certaines industries.
 
  
 
@@ -51,43 +51,11 @@ Mais le changement d'échelle est une autre histoire car nous avons besoin d'acc
 
  
 
-Par exemple, la [**Volt se vends assez bien en Californie**]() d'une part grâce à l'aide à l'achat (comme en France), mais peut être aussi parce qu'un VE ou hybride plug-in peut utiliser les voies réservées au covoiturage ... Le temps principale richesse des pays développés ... Imaginons que l'on couple les innovations de Citroën Multicity d'un VE loué/partagé et l'accès à des voies réservées ou des charges électriques gratuites. Ce sera donc dans la combinaison des mesures multi-domaines, leurs cohérences, la facilité à les comprendre et à les déployer, que le changement d'échelle peut se produire. Aujourd'hui tout est possible, mais rien n'est garanti tant l'imbrication de l'automobile propriétaire dans la société est profond.
+Par exemple, la **Volt se vends assez bien en Californie** d'une part grâce à l'aide à l'achat (comme en France), mais peut être aussi parce qu'un VE ou hybride plug-in peut utiliser les voies réservées au covoiturage ... Le temps principale richesse des pays développés ... Imaginons que l'on couple les innovations de Citroën Multicity d'un VE loué/partagé et l'accès à des voies réservées ou des charges électriques gratuites. Ce sera donc dans la combinaison des mesures multi-domaines, leurs cohérences, la facilité à les comprendre et à les déployer, que le changement d'échelle peut se produire. Aujourd'hui tout est possible, mais rien n'est garanti tant l'imbrication de l'automobile propriétaire dans la société est profond.
 
  
 
-**Pour sortir de cette situation de lock-in, nous aurons besoin de lever plusieurs verrous, [d'innover dans de nombreux domaines](), de synchroniser un écosystème étendu**. Mais il faudra avant tout que le futur proposé soit crédible et souhaitable pour tous les acteurs, qu'il "donne envie d'y aller". Si nous réussissons cela, tout en accompagnant les évolutions, il génèrera par lui-même les actions nécessaire à sa réalisation. Cette capacité d'auto-réalisation est décrité par J.P Dupuy dans plusieurs ouvrages dont [**l'Avenir de l'Economie**](). Mais J.P Dupuy a également développé le concept de Catastrophisme éclairé qui nous aide à comprendre pourquoi des collectifs ne sont pas capables de s'organiser pour éviter une catastrophe. Dans notre domaine, il devient également nécessaire de construire une vision partagée de  l'avenir "tel qu'il vient", sans ce sursaut pour sortir de la situation de lock-in dans laquelle nous sommes enfermés.
-
- 
-
-**Etre sûr que la catastrophe arrive pour pouvoir l'éviter**
-
- 
-
-Cet avenir peu souhaitable est pourtant le plus probable :
-
- 
- 
-- pour les personnes, seules les contraintes financières piloteront les choix des citoyens, excluant progressivement des territoires, des groupes sociaux : éducation, santé, accès à l'emploi, 
-- pour les marchandises, malgré une faible évolution du PIB, les flux augmentent, et la route maintient sa domination, faute d'une amélioration des structures opérant le rail et les ports maritimes. 
-- en conséquence les émissions de GES et de polluants (notamment NOx et PM) ne sont pas maîtrisés conduisant d'une part à des pénalités financières de la CE, et à une pression médiatique sur les décideurs, 
-- exploitant les mêmes technologies numériques, les tentations pour instaurer des quotas, de nouvelles taxes sont grandes, d'autant que des acteurs économiques puissants proposent des outils "clé en main". 
- 
-
-**Selon la théorie du catastrophisme éclairé nous devons être convaincu que cet avenir peu souhaitable va arriver pour que, paradoxalement, nous réussissons à nous en extraire**. Il devient alors important de s'entendre sur cet avenir "business as usual", nous devons le décrire avec précision, pour mieux se convaincre de son arrivée.
-
- 
-
-**Pour cela, votre aide est précieuse, indiquez dans les commentaires votre vision de cet avenir peu souhaitable et pourtant probable.**
-
- 
-
- 
-
-"2012-06-22 14:29:59https://transportsdufutur.ademe.fr/2012/06/et-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f.htmlcitoyen|données réelles|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|intelligence collective|Service de mobilité|VE|véhicule mono-usage|véhicule proprepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatet-si-citroen-inventait-avec-la-nouvelle-version-de-multicity-une-brique-majeure-des-transports-du-f2015-07-21 16:36:31>Par exemple, la [**Volt se vends assez bien en Californie**]() d'une part grâce à l'aide à l'achat (comme en France), mais peut être aussi parce qu'un VE ou hybride plug-in peut utiliser les voies réservées au covoiturage ... Le temps principale richesse des pays développés ... Imaginons que l'on couple les innovations de Citroën Multicity d'un VE loué/partagé et l'accès à des voies réservées ou des charges électriques gratuites. Ce sera donc dans la combinaison des mesures multi-domaines, leurs cohérences, la facilité à les comprendre et à les déployer, que le changement d'échelle peut se produire. Aujourd'hui tout est possible, mais rien n'est garanti tant l'imbrication de l'automobile propriétaire dans la société est profond.
-
- 
-
-**Pour sortir de cette situation de lock-in, nous aurons besoin de lever plusieurs verrous, [d'innover dans de nombreux domaines](), de synchroniser un écosystème étendu**. Mais il faudra avant tout que le futur proposé soit crédible et souhaitable pour tous les acteurs, qu'il "donne envie d'y aller". Si nous réussissons cela, tout en accompagnant les évolutions, il génèrera par lui-même les actions nécessaire à sa réalisation. Cette capacité d'auto-réalisation est décrité par J.P Dupuy dans plusieurs ouvrages dont [**l'Avenir de l'Economie**](). Mais J.P Dupuy a également développé le concept de Catastrophisme éclairé qui nous aide à comprendre pourquoi des collectifs ne sont pas capables de s'organiser pour éviter une catastrophe. Dans notre domaine, il devient également nécessaire de construire une vision partagée de  l'avenir "tel qu'il vient", sans ce sursaut pour sortir de la situation de lock-in dans laquelle nous sommes enfermés.
+**Pour sortir de cette situation de lock-in, nous aurons besoin de lever plusieurs verrous, d'innover dans de nombreux domaines, de synchroniser un écosystème étendu**. Mais il faudra avant tout que le futur proposé soit crédible et souhaitable pour tous les acteurs, qu'il "donne envie d'y aller". Si nous réussissons cela, tout en accompagnant les évolutions, il génèrera par lui-même les actions nécessaire à sa réalisation. Cette capacité d'auto-réalisation est décrité par J.P Dupuy dans plusieurs ouvrages dont **l'Avenir de l'Economie**. Mais J.P Dupuy a également développé le concept de Catastrophisme éclairé qui nous aide à comprendre pourquoi des collectifs ne sont pas capables de s'organiser pour éviter une catastrophe. Dans notre domaine, il devient également nécessaire de construire une vision partagée de  l'avenir "tel qu'il vient", sans ce sursaut pour sortir de la situation de lock-in dans laquelle nous sommes enfermés.
 
  
 
@@ -110,9 +78,3 @@ Cet avenir peu souhaitable est pourtant le plus probable :
  
 
 **Pour cela, votre aide est précieuse, indiquez dans les commentaires votre vision de cet avenir peu souhaitable et pourtant probable.**
-
- 
-
- 
-
-"

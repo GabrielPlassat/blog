@@ -19,7 +19,7 @@ Depuis plusieurs années, Google travaille et propose **[des outils d'aide à la
 
  
 
-Depuis cette année, Google propose de suivre en temps réel **[une équipe du tour de France de vélo](http://www.google.com/intl/en/landing/mytrackstour/)** : vitesse, puissance, rythme cardiaque instantanés sont indiqués couplés à une carte. Sachant que le vélo est un des meilleurs transformateurs" d'énergie, ces données, une nouvelle fois révélées par Google, permettront de mieux connaître les besoins énergétiques réels pour se déplacer, pour ensuite mieux les réduire. Notons que ces données, certaines relatives à la santé, peuvent également être accessibles par des systèmes commercialisés et partagés (ou pas) (voir précédentes notes sur le sujet **[ici]()** et **[là]()**).
+Depuis cette année, Google propose de suivre en temps réel **[une équipe du tour de France de vélo](http://www.google.com/intl/en/landing/mytrackstour/)** : vitesse, puissance, rythme cardiaque instantanés sont indiqués couplés à une carte. Sachant que le vélo est un des meilleurs transformateurs" d'énergie, ces données, une nouvelle fois révélées par Google, permettront de mieux connaître les besoins énergétiques réels pour se déplacer, pour ensuite mieux les réduire. Notons que ces données, certaines relatives à la santé, peuvent également être accessibles par des systèmes commercialisés et partagés (ou pas) (voir précédentes notes sur le sujet **[ici]({{ site.baseurl }}/2009/12/philips-directlife-le-lien-activite-physique-sante/)** et **[là]({{ site.baseurl }}/2010/02/vers-la-sante-20/)**).
 
  
 

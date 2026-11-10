@@ -25,7 +25,7 @@ En résumé :
  
 
   
-**[La mobilité durable vue par Roland Ries]()**
-*envoyé par [innovcity](). - [L'info video en direct.]()*
+**[La mobilité durable vue par Roland Ries](http://www.dailymotion.com/video/xfb6s5_la-mobilite-durable-vue-par-roland_news)**
+*envoyé par [innovcity](http://www.dailymotion.com/innovcity). - [L'info video en direct.](http://www.dailymotion.com/fr/channel/news)*
 
 "

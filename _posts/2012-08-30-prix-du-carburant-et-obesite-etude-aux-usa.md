@@ -20,14 +20,4 @@ Une autre [**étude** ](https://netfiles.uiuc.edu/shj/www/2011TP.pdf)récente co
  
 
  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0177446a3bc7970d-500wi.gif)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0177446a3bc7970d-pi.gif)
-En prévoyant une augmentation du prix des carburant, il anticipe une baisse de l'obésité. Néanmoins, ceci suppose qu'un arbitrage est possible et réaliste vers des modes actifs pour réaliser une partie des déplacements. Ce blog a déjà abordé ce lien santé/mobilité (voir [**précédents articles**](/?s=obesite)), ainsi que la possible arrivée des assurances sur ce sujet compte tenu des difficultés financières des assurances santé. Ainsi, porté par des outils numériques, comme [**Nike Fuel**]({{ site.baseurl }}/2012/01/super-a-160-eurolitre-passer-a-nike-fuel/), il deviendra possible de récompenser" une mobilité active à la fois pour des raisons de réduction des coûts sanitaires et des bénéfices environnementaux du mode. Cette possibilité ouvre bien sûr de nombreux risques ... 
-
- 
-
- 
-
- 
-
- 
-
- "2012-08-30 09:57:08https://transportsdufutur.ademe.fr/2012/08/prix-du-carburant-et-obesite-etude-aux-usa.htmlassurance|carburant|citoyen|confiance|données réelles|internet|marche|mode doux|obésité|prix carburantpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatprix-du-carburant-et-obesite-etude-aux-usa2015-07-21 16:36:28
+En prévoyant une augmentation du prix des carburant, il anticipe une baisse de l'obésité. Néanmoins, ceci suppose qu'un arbitrage est possible et réaliste vers des modes actifs pour réaliser une partie des déplacements. Ce blog a déjà abordé ce lien santé/mobilité (voir [**précédents articles**](/?s=obesite)), ainsi que la possible arrivée des assurances sur ce sujet compte tenu des difficultés financières des assurances santé. Ainsi, porté par des outils numériques, comme [**Nike Fuel**]({{ site.baseurl }}/2012/01/super-a-160-eurolitre-passer-a-nike-fuel/), il deviendra possible de récompenser" une mobilité active à la fois pour des raisons de réduction des coûts sanitaires et des bénéfices environnementaux du mode. Cette possibilité ouvre bien sûr de nombreux risques ...

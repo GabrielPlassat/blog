@@ -23,11 +23,11 @@ Un commun est une ressource mise en partage et alimentée par une communauté qu
 
  
 
-[**CoMoN**](http://www.groupechronos.org/les-activites-de-chronos/innovation-multipartenariale-et-recherche-action/comon-la-plateforme-contributive-au-service-de-l-innovation-dans-les-mobilites) - Une plateforme numérique de partage de connaissances sur les services, expérimentations et initiatives en France autour de la mobilité des biens et des personnes, [**InnoSo&IC**](http://ademe.innovationsociale.org/fr/search/) - une seconde identifiant et cartographiant les différentes formes d'innovations sociales, [**Mobi-Lise**](http://www.groupechronos.org/les-activites-de-chronos/innovation-multipartenariale-et-recherche-action/mobi-lise-ameliorer-les-mobilites-par-les-contributions-communautaires) - un troisième projet collectant les traces de mobilités et permettant aux décideurs locaux de voir" différemment les flux, et [**FabMob**]() (La Fabrique des Mobilités) - un catalyseur inédit pour un écosystème en mutation, celui des acteurs de la mobilité.
+[**CoMoN**](http://www.groupechronos.org/les-activites-de-chronos/innovation-multipartenariale-et-recherche-action/comon-la-plateforme-contributive-au-service-de-l-innovation-dans-les-mobilites) - Une plateforme numérique de partage de connaissances sur les services, expérimentations et initiatives en France autour de la mobilité des biens et des personnes, [**InnoSo&IC**](http://ademe.innovationsociale.org/fr/search/) - une seconde identifiant et cartographiant les différentes formes d'innovations sociales, [**Mobi-Lise**](http://www.groupechronos.org/les-activites-de-chronos/innovation-multipartenariale-et-recherche-action/mobi-lise-ameliorer-les-mobilites-par-les-contributions-communautaires) - un troisième projet collectant les traces de mobilités et permettant aux décideurs locaux de voir" différemment les flux, et [**FabMob**](https://fabmob.io) (La Fabrique des Mobilités) - un catalyseur inédit pour un écosystème en mutation, celui des acteurs de la mobilité.
 
  
 
-[![]()]()
+
 
  
 
@@ -47,7 +47,7 @@ Cette année 2015, les livrables de ces quatre projets vont progressivement cré
 
  
 
-Le rôle des communs devient essentiel et la Fabrique des Mobilités, étant constituée à la fois d’entités publiques et privées, pourrait être la structure qui anime, facilite le travail de communauté(s) agissant pour construire, améliorer, conserver les communs essentiels à cet écosystème. Concrètement la Fabrique aura un rôle pour déployer l’utilisation des communs comme OpenStreetMap (OSM) ou Navitia de capitaliser, de susciter l’émergence et l’utilisation des communs. Une première liste est accessible par ce lien, **n'hésiter pas à nous indiquer des communs à rajouter** : [**http://fabmob.encommuns.org/#/usages**]()
+Le rôle des communs devient essentiel et la Fabrique des Mobilités, étant constituée à la fois d’entités publiques et privées, pourrait être la structure qui anime, facilite le travail de communauté(s) agissant pour construire, améliorer, conserver les communs essentiels à cet écosystème. Concrètement la Fabrique aura un rôle pour déployer l’utilisation des communs comme OpenStreetMap (OSM) ou Navitia de capitaliser, de susciter l’émergence et l’utilisation des communs. Une première liste est accessible par ce lien, **n'hésiter pas à nous indiquer des communs à rajouter** : [**http://fabmob.encommuns.org/#/usages**](http://fabmob.encommuns.org/#/usages)
 
  
 

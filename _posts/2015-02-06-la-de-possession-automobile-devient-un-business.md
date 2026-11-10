@@ -45,7 +45,7 @@ Ce rapport *Innovative Transportation Index* dresse un bilan dans 70 villes aux 
 
  
 
-“None of these options even existed a few years ago, and this trend is just beginning,” said Phineas Baxandall, transportation program director at [U.S. PIRG](), which produced the report with the [Frontier Group](). “Technology has given people new convenient ways to get around more freely without having to own a car.”
+“None of these options even existed a few years ago, and this trend is just beginning,” said Phineas Baxandall, transportation program director at U.S. PIRG, which produced the report with the Frontier Group. “Technology has given people new convenient ways to get around more freely without having to own a car.”
 
  
 
@@ -57,29 +57,11 @@ Austin (TX), San Francisco (CA), and Washington (DC) were at the top of the list
 
  
 
-Plusieurs indicateurs sont mis en oeuvre, à la fois du coté de l'offre, mais aussi sous forme de [**walkscore-transitscore-bikescore**]().
+Plusieurs indicateurs sont mis en oeuvre, à la fois du coté de l'offre, mais aussi sous forme de **walkscore-transitscore-bikescore**.
 
  
 
-[![]()]()
 
- 
-
-Le rapport est accessible directement :
-
- 
-
- 
-
- ** [Innovative transportation index_uspirg]() ** from **[Les transports du futur]()**"2015-02-06 11:46:44https://transportsdufutur.ademe.fr/2015/02/la-de-possession-automobile-devient-un-business.htmlActeur numérique des Mobilités et des Logistiques|assistant de mobilité|autopartage|autorité des transports|citoyen|collectivité|donnée data|google|gouvernance|innovation|multimodes|multitude|Service de mobilité|Uber|voyagepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatla-de-possession-automobile-devient-un-business2017-05-05 15:38:11>“I’m so proud that the car capital of the world is evolving into a tech-transportation capital,” said Los Angeles Mayor Eric Garcetti in a statement. “LA’s transportation options have grown at a break-neck speed, on pace with our tech industry, to the benefit of our environment and our economy.”
-
- 
-
-Plusieurs indicateurs sont mis en oeuvre, à la fois du coté de l'offre, mais aussi sous forme de [**walkscore-transitscore-bikescore**]().
-
- 
-
-[![]()]()
 
  
 
@@ -89,4 +71,4 @@ Le rapport est accessible directement :
 
  
 
- ** [Innovative transportation index_uspirg]() ** from **[Les transports du futur]()**"
+ ** Innovative transportation index_uspirg ** from **Les transports du futur**

@@ -46,4 +46,4 @@ La CE indique également que les barrières entre les modes doivent être identi
 
 "**To be more effective, technological research needs to be complemented with a systems’ approach, taking care of infrastructure and regulatory requirements, coordination of multiple actors and large demonstration projects to encourage market take-up**."
 
- [White paper the 28th march 2011]() View more [documents]() from [transportsdufutur](). "
+ [White paper the 28th march 2011](http://www.slideshare.net/transportsdufutur/white-paper-the-28th-march-2011) View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). "

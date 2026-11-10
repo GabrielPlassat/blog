@@ -23,4 +23,4 @@ Ainsi, Amazon pourra mettre à disposition de tiers cette brique technologique q
 
 Pour la Mobilité, c’est exactement le même défi : construire un compte mobilité central et neutre, créer les briques techniques ouvertes associées, identifier le meilleur porteur neutre et crédible et unifier les démarches européennes sur ce sujet pour produire le standard. Territoires, Acteurs de la Mobilités, développeurs en France et en Europe, rejoignez-nous sur [http://moncomptemobilite.fr](http://moncomptemobilite.fr)
 
-L’information est passée relativement inaperçue pourtant elle pourrait impacter lourdement le marché de l’habillement estimé à plus de 300 milliards de dollars en 20202021-01-26 17:57:31https://transportsdufutur.ademe.fr/2021/01/made-for-you.htmlMes postsAmazon|comptepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatmade-for-you2021-01-26 17:57:33
+L’information est passée relativement inaperçue pourtant elle pourrait impacter lourdement le marché de l’habillement estimé à plus de 300 milliards de dollars en 2020

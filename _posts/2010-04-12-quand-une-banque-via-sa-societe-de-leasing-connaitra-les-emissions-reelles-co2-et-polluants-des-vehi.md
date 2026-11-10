@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/04/quand-une-banque-via-sa-societe-de-leasing-connaitra-les-emissions-reelles-co2-et-polluants-des-vehi.html"
 tags: ["banque", "connectivité", "données réelles", "guide d'achat", "internet", "iphone", "partage de données", "Service de mobilité", "véhicule propre"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Données & services numériques"
 redirect_from:
   - /2010/04/12/quand-une-banque-via-sa-societe-de-leasing-connaitra-les-emissions-reelles-co2-et-polluants-des-vehi/
 ---

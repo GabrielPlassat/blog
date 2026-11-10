@@ -5,7 +5,7 @@ date: 2015-07-21
 source: tdf
 source_name: "Transports du Futur"
 tags: ["Amazon", "Apple", "assistant de mobilité", "Assistant Personnel de Consommation", "citoyen", "collectivité", "commuter", "confiance", "connectivité", "covoiturage", "donnée data", "données réelles", "economie circulaire", "économie de l'expérience", "économie du quaternaire", "économie fonctionnalité", "Efficacité énergétique", "google", "gouvernance", "holoptisme", "innovation", "intelligence collective", "internet", "living lab", "marchandises", "monnaie complémentaire", "multimodes", "partage de données", "Service de mobilité", "véhicule propre", "waze"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2015/07/21/balise-n1-les-transports-du-futur/
 ---
@@ -30,15 +30,15 @@ En résumé, [**une histoire et un chemin**]({{ site.baseurl }}/2012/11/contribu
 
  
 
-Il ne suffira pas de mettre du numérique dans la voiture pour la rendre connectée", de développer des applications multimodales ou de "nouveaux services de mobilités". Ce sera indispensable et largement insuffisant. Il ne s'agit pas de faire l'apologie de Google, de la [**cyberca**]()r et des géants du numérique, mais de souligner leur capacité à tisser des [**liens "riches" avec les citoyens**](), à les engager, à obtenir de leur part un travail sur leur plateforme pour que cette dernière s'enrichisse en permanence. **Il s'agit donc avant tout de comprendre leur processus de création de richesse, pour faire avant qu'ils ne le fassent. Que ferait [Google](), [Amazon](), Facebook ou Apple à ma place ?**
+Il ne suffira pas de mettre du numérique dans la voiture pour la rendre connectée", de développer des applications multimodales ou de "nouveaux services de mobilités". Ce sera indispensable et largement insuffisant. Il ne s'agit pas de faire l'apologie de Google, de la [**cyberca**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/)r et des géants du numérique, mais de souligner leur capacité à tisser des [**liens "riches" avec les citoyens**]({{ site.baseurl }}/2012/08/apres-lobjet-le-service-puis-lexperience-viendra-ensuite-la-transformation-de-soi-le-citoyen-sera-au/), à les engager, à obtenir de leur part un travail sur leur plateforme pour que cette dernière s'enrichisse en permanence. **Il s'agit donc avant tout de comprendre leur processus de création de richesse, pour faire avant qu'ils ne le fassent. Que ferait [Google]({{ site.baseurl }}/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre/), [Amazon]({{ site.baseurl }}/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service/), Facebook ou Apple à ma place ?**
 
  
 
-Pour un [**constructeur automobile**]() ou un [**opérateur de transport public**](), au bout de combien de temps perd-il la relation avec le client ? combien de message relatif à l'expérience vécue en mobilité reçoit-il de ces clients, par an, par jour ? que connaît-il vraiment de leur besoin, de leur pratique quotidienne ? Le numérique se caractérise par sa capacité à augmenter prodigieusement les [**connaissances**](), à gérer des flux bidirectionnels en grand nombre, à itérer en permanence au contact.
+Pour un [**constructeur automobile**]({{ site.baseurl }}/2012/07/lavenir-de-lautomobile/) ou un [**opérateur de transport public**]({{ site.baseurl }}/2013/05/metanote-n15-lavenir-des-operateurs-de-transports-publics/), au bout de combien de temps perd-il la relation avec le client ? combien de message relatif à l'expérience vécue en mobilité reçoit-il de ces clients, par an, par jour ? que connaît-il vraiment de leur besoin, de leur pratique quotidienne ? Le numérique se caractérise par sa capacité à augmenter prodigieusement les [**connaissances**]({{ site.baseurl }}/2011/09/nous-entrons-dans-lage-de-la-connaissance-des-mobilites/), à gérer des flux bidirectionnels en grand nombre, à itérer en permanence au contact.
 
  
 
-Les transports des biens et des personnes touchent à la fois le quotidien des citoyens, leurs activités mais également les flux d'un territoire et son attractivité. **Les [risques]() à perdre les paramètres clés permettant d'opérer et d'optimiser sont grands. Nous avions appelé des innovations de rupture, [elles arrivent par le numérique](). 
+Les transports des biens et des personnes touchent à la fois le quotidien des citoyens, leurs activités mais également les flux d'un territoire et son attractivité. **Les [risques]({{ site.baseurl }}/2012/06/organiser-des-crash-tests-energetiques-pour-les-territoires/) à perdre les paramètres clés permettant d'opérer et d'optimiser sont grands. Nous avions appelé des innovations de rupture, [elles arrivent par le numérique]({{ site.baseurl }}/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/). 
 **
 
  
@@ -51,11 +51,11 @@ Les transports des biens et des personnes touchent à la fois le quotidien des c
 
  
 
-Dans [**ce système complexe**](), de nombreux acteurs vont jouer individuellement et [**collectivement** ](): collectivités, industries, usagers/clients/citoyens, laboratoires, pouvoirs publics, start-up. Nous allons devoir innover dans les dispositifs collectifs à mettre en oeuvre. Les ruptures ne naîtront pas de processus planifiés mais d'entrepreneurs ayant réussis à mettre au point simultanément un produit/service, un modèle d'affaires et à nouer une relation avec des clients.
+Dans [**ce système complexe**]({{ site.baseurl }}/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe/), de nombreux acteurs vont jouer individuellement et [**collectivement** ]({{ site.baseurl }}/2010/06/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20/): collectivités, industries, usagers/clients/citoyens, laboratoires, pouvoirs publics, start-up. Nous allons devoir innover dans les dispositifs collectifs à mettre en oeuvre. Les ruptures ne naîtront pas de processus planifiés mais d'entrepreneurs ayant réussis à mettre au point simultanément un produit/service, un modèle d'affaires et à nouer une relation avec des clients.
 
  
 
-[**Synchronisation d'acteurs industriels hétérogènes**](), mise en oeuvre d'[**outils de reliance et de réflexivité**]() pour se voir et s'ajuster en tant que collectif, création d'une culture et de formation en commun, intégration du citoyen "équipé" au coeur du dispositif.
+[**Synchronisation d'acteurs industriels hétérogènes**]({{ site.baseurl }}/2013/11/de-la-pfa-a-la-plate-forme-des-nouvelles-immobilites/), mise en oeuvre d'[**outils de reliance et de réflexivité**]({{ site.baseurl }}/2014/03/devenir-reflexif/) pour se voir et s'ajuster en tant que collectif, création d'une culture et de formation en commun, intégration du citoyen "équipé" au coeur du dispositif.
 
  
 
@@ -64,7 +64,7 @@ En se centrant sur cet objectif, il convient de rassembler dans un kit opératio
  
  
 - accès à des modules de formation (alimentés par les start-up qui ont préalablement échouées ou réussies), 
-- accès à des **ressources territoriales** pour se relier vite et bien à la multitude : 5 **[territoires variés]()**, ouverts (open data) et éveillés, avec un interlocuteur unique, des béta-testeurs, des moyens d'essais, des capacités à expérimenter (un trottoir, une rue, une ligne de bus, une gare, ...) 
+- accès à des **ressources territoriales** pour se relier vite et bien à la multitude : 5 **[territoires variés]({{ site.baseurl }}/2011/03/et-si-certains-territoires-reussissaient-a-attirer-linnovation-a-devenir-le-parfait-laboratoire-viva/)**, ouverts (open data) et éveillés, avec un interlocuteur unique, des béta-testeurs, des moyens d'essais, des capacités à expérimenter (un trottoir, une rue, une ligne de bus, une gare, ...) 
 - accès à des ressources privés de grands groupes (calculs, essais, pistes, outils de production et de prototypage), 
 - accès à des capacités à déroger aux réglementations, procédures, ... dans un espace-temps maîtrisé. 
  
@@ -73,18 +73,18 @@ Ceci étantassocié à des obligations : de se former, de rendre compte des éch
 
  
  
-- l'Open data, la gestion des [**données**]() en régie ([**Datact**]()) 
+- l'Open data, la gestion des **données** en régie (**Datact**) 
 - les données personnelles et la privacy, 
-- la gouvernance multimodale et l'[**autorité**]() 
-- les différentes formes de [**précarité**]() énergétique dans la mobilité et la grande dépendance à l'automobile, 
+- la gouvernance multimodale et l'**autorité** 
+- les différentes formes de **précarité** énergétique dans la mobilité et la grande dépendance à l'automobile, 
 - la capacité à produire des contraintes / récompenses organisées, claires et compréhensibles pour accompagner les citoyens dans le changement 
-- les [**incitatifs aux changements et à l'engagement**]() notamment via des nouvelles monnaies, 
+- les **incitatifs aux changements et à l'engagement** notamment via des nouvelles monnaies, 
  
 
 Essentiel pour animer et structurer cet écosystème de façon dynamique, de nouveaux métiers vont apparaître des connecteurs, des disrupteurs, des facilitateurs, des archivistes, des critiques ... Ils apporteront de nouvelles façons de travailler, de nommer et structurer les richesses produites, de partager la valeur et surtout de se construire une identité et un avenir. En même temps, les attentes et les pratiques des citoyens éduqués par le numérique vont elles-aussi évoluer, d'où le besoin d'une reliance intégrale à la multitude.
 
  
 
-**Pour [survivre]() et industrialiser de nouvelles mobilités fluides, efficientes et transparentes, les acteurs de cet écosystème vont s'engager dans une aventure inédite, [explorer avec de nouveaux dispositifs]() les frontières de l'innovation en faisant une place centrale au [citoyen du futur]().**
+**Pour survivre et industrialiser de nouvelles mobilités fluides, efficientes et transparentes, les acteurs de cet écosystème vont s'engager dans une aventure inédite, explorer avec de nouveaux dispositifs les frontières de l'innovation en faisant une place centrale au citoyen du futur.**
 
 "

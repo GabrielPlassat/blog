@@ -28,13 +28,13 @@ Toutes les villes sont analysées en tenant compte des budgets des ménages, en 
 
  
 
-*[Find statistics on zero-vehicle households in your metropolitan area »]()*
+*[Find statistics on zero-vehicle households in your metropolitan area »](http://www.brookings.edu/papers/2011/0818_transportation_tomer_puentes/0818_transportation_profiles.aspx)*
 
  
 
-* [![]()]() 
-[![]()]() 
-**[Read the analysis on metropolitan transit accessibility to jobs »]()*
+*  
+ 
+**Read the analysis on metropolitan transit accessibility to jobs »*
 
  
 
@@ -42,14 +42,12 @@ Toutes les villes sont analysées en tenant compte des budgets des ménages, en 
 
  
 
- *[View our interactive map to learn more about transit access in your area »]()*
+ *View our interactive map to learn more about transit access in your area »*
 
  
 
- [![]()]()
+ 
 
  
 
-Globalement cette étude montre que nous manquons des données pour construire ce type d’outils d’aide à la décision pour les ménages (habitation, emploi, budgets), les entreprises (implantation, accessibilité des employés, résilience), les collectivités (attractivité du territoire, identification des plus fragiles, justification des investissements) et l’état (attractivité, aménagement, identification des plus faibles, justification des investissements). Ces outils sont en construction : **[ICI ]()**et **[LA]()**.
-
-"2011-08-19 16:24:48https://transportsdufutur.ademe.fr/2011/08/dans-plusieurs-endroits-des-etats-unis-comme-la-ville-de-new-york-le-transport-public-repond-a-de-nombreux-besoins-de-m.htmlautorité des transports|citoyen|collectivité|donnée data|données réelles|marketing individualisé|partage de donnéespublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatdans-plusieurs-endroits-des-etats-unis-comme-la-ville-de-new-york-le-transport-public-repond-a-de-nombreux-besoins-de-m2015-07-21 16:36:44
+Globalement cette étude montre que nous manquons des données pour construire ce type d’outils d’aide à la décision pour les ménages (habitation, emploi, budgets), les entreprises (implantation, accessibilité des employés, résilience), les collectivités (attractivité du territoire, identification des plus fragiles, justification des investissements) et l’état (attractivité, aménagement, identification des plus faibles, justification des investissements). Ces outils sont en construction : **ICI **et **LA**.

@@ -11,15 +11,15 @@ redirect_from:
   - /2010/04/29/des-autoroutes-a-velo/
 ---
 
-**[[Le Monde 28 avril 2010](http://bonnenouvelle.blog.lemonde.fr/2010/04/28/des-autoroutes-pour-velos/) et également [ici](http://www.copenhagenize.com/2009/08/bicycle-commuter-superhighways-in.html)] Ça se passe à Copenhague** et ça fait rêver les adeptes des trajets citadins à vélo (voir quelques stats **[ici](http://www.kk.dk/sitecore/content/Subsites/CityOfCopenhagen/SubsiteFrontpage/InformationAndServices/CityAndTraffic/CityOfCyclists.aspx)**). La capitale danoise s’est en effet lancée dans un vaste programmes d’ “autoroutes pour vélos” afin de relier ses banlieues au centre ville. L’investissement annoncé est de 35 millions d’euros. Pour information, Le coût moyen à la construction d'un kilomètre d'autoroute - pour voiture - est de six millions d'euros, à multiplier par deux ou trois en montagne, intervient Jean Mesqui, délégué général de **[l'Afsa]()**.
+**[[Le Monde 28 avril 2010](http://bonnenouvelle.blog.lemonde.fr/2010/04/28/des-autoroutes-pour-velos/) et également [ici](http://www.copenhagenize.com/2009/08/bicycle-commuter-superhighways-in.html)] Ça se passe à Copenhague** et ça fait rêver les adeptes des trajets citadins à vélo (voir quelques stats **[ici](http://www.kk.dk/sitecore/content/Subsites/CityOfCopenhagen/SubsiteFrontpage/InformationAndServices/CityAndTraffic/CityOfCyclists.aspx)**). La capitale danoise s’est en effet lancée dans un vaste programmes d’ “autoroutes pour vélos” afin de relier ses banlieues au centre ville. L’investissement annoncé est de 35 millions d’euros. Pour information, Le coût moyen à la construction d'un kilomètre d'autoroute - pour voiture - est de six millions d'euros, à multiplier par deux ou trois en montagne, intervient Jean Mesqui, délégué général de **[l'Afsa](http://www.autoroutes.fr/lasfa/les-societes-dautoroutes.html)**.
 
  
 
-[![]()]()  
+  
 
  Si 40% des trajets domicile-travail s’y effectuent à bicyclette, cela était moins vrai pour les banlieusards, souffrant d’infrastructures moins adaptées et… d’**embouteillages de vélos** (de quoi faire rêver les élus Verts parisiens) ! 
 
-![]()A terme, **12 autoroutes de ce type seront construites, d’une dizaine de kilomètres chacune.** Les cyclistes y ont une chaussée dédiée, éclairée la nuit, un revêtement adapté à la vitesse des vélos, **des stations-services avec pompes à vélo et rustines.**
+A terme, **12 autoroutes de ce type seront construites, d’une dizaine de kilomètres chacune.** Les cyclistes y ont une chaussée dédiée, éclairée la nuit, un revêtement adapté à la vitesse des vélos, **des stations-services avec pompes à vélo et rustines.**
 
  
 
@@ -31,6 +31,6 @@ D’autres villes du Danemark commencent à s’équiper des ces pistes cyclable
 
  
 
-[![]()]()A Copenhague, en 2015 il est visé 50% des déplacements en vélo pour se rendre à son travail ou son lieu d'études ...
+A Copenhague, en 2015 il est visé 50% des déplacements en vélo pour se rendre à son travail ou son lieu d'études ...
 
 "

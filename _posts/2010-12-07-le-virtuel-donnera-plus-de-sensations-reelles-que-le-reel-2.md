@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "07/12/2010 20:54"
 tags: ["citoyen", "collectivité", "connectivité", "donnée data", "données réelles", "internet", "internet des objets", "jeu vidéo", "living lab", "open innovation", "open source"]
-theme: "Données & services numériques"
+theme: "Stratégies numériques"
 redirect_from:
   - /2010/12/07/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2/
 ---
@@ -46,10 +46,8 @@ Si à ce stade, les propositions de Feng Zhu sont théoriques, **elles ont le m�
 
  
 
-*Cette synergie réel/virtuel est cohérente avec le besoin de proposer aux consommateurs non plus uniquement des objets mais bien des univers" dans lesquels des valeurs sont incarnées. Aujourd'hui des serious games sont déjà utilisés ou en cours de développement pour, par exemple, se former à la conduite de bus en milieu urbain (voir **[ici ]()**à la RATP). Mais demain, le couplage sera bien plus complexe : les images de ces simulateurs pourront venir des cameras réelles des voitures en circulation proposées par Feng Zhu, les données des moteurs directement des constructeurs (qui trouveront ici des conditions pour tester gratuitement des configurations grâce des outils de modélisations). Les performances de conduite des joueurs intéresseront alors de nombreuses entreprises et organismes publics pour mettre au point leur produit, pour les inclure dans des Univers virtuels, pour étudier les interactions des véhicules avec les interfaces, pour étudier et optimiser globalement les flux de circulation dans la ville (personne et marchandise), pour mettre au point des services de mobilité ... *
+*Cette synergie réel/virtuel est cohérente avec le besoin de proposer aux consommateurs non plus uniquement des objets mais bien des univers" dans lesquels des valeurs sont incarnées. Aujourd'hui des serious games sont déjà utilisés ou en cours de développement pour, par exemple, se former à la conduite de bus en milieu urbain (voir **[ici ]({{ site.baseurl }}/2010/01/quand-le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel/)**à la RATP). Mais demain, le couplage sera bien plus complexe : les images de ces simulateurs pourront venir des cameras réelles des voitures en circulation proposées par Feng Zhu, les données des moteurs directement des constructeurs (qui trouveront ici des conditions pour tester gratuitement des configurations grâce des outils de modélisations). Les performances de conduite des joueurs intéresseront alors de nombreuses entreprises et organismes publics pour mettre au point leur produit, pour les inclure dans des Univers virtuels, pour étudier les interactions des véhicules avec les interfaces, pour étudier et optimiser globalement les flux de circulation dans la ville (personne et marchandise), pour mettre au point des services de mobilité ... *
 
  
 
-*Vers des **[Sim Cities]()** couplés au réel ...*
-
-"2010-12-07 20:54:38https://transportsdufutur.ademe.fr/2010/12/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2.htmlcitoyen|collectivité|connectivité|donnée data|données réelles|internet|internet des objets|jeu vidéo|living lab|open innovation|open sourcepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-22015-07-21 16:37:31
+*Vers des **Sim Cities** couplés au réel ...*

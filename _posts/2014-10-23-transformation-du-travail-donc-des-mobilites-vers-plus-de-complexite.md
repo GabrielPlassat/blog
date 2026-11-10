@@ -57,7 +57,7 @@ Décloisonner, faire circuler toutes les informations, donner le droit de faire
 
  
 
-En poursuivant ainsi, les frontières de l’entreprise elle-même deviendront plus poreuses. Sollicitant ou fournissant à d’autres compagnies ces compétences hyper-spécialisées, les employés polliniseront ainsi à la fois d’autres collectifs  et l’entreprise mère" elle-même. Appelant de nouveaux contrats de travail, toutes les compétences seront reconnues et valorisées au maximum de leur potentiel. Pour Thierry Crouzet (lire [mes extraits]() du livre L’alternative Nomade), « *L’individuation s’accomplit non seulement quand nous différons des autres, mais quand nous avons donné sens à nos différences*».
+En poursuivant ainsi, les frontières de l’entreprise elle-même deviendront plus poreuses. Sollicitant ou fournissant à d’autres compagnies ces compétences hyper-spécialisées, les employés polliniseront ainsi à la fois d’autres collectifs  et l’entreprise mère" elle-même. Appelant de nouveaux contrats de travail, toutes les compétences seront reconnues et valorisées au maximum de leur potentiel. Pour Thierry Crouzet (lire [mes extraits](https://kindle.amazon.com/work/lalternative-nomade-consumerisme-critique-edition-ebook/B006QXNA02/B0057X9K88/posts) du livre L’alternative Nomade), « *L’individuation s’accomplit non seulement quand nous différons des autres, mais quand nous avons donné sens à nos différences*».
 
  
 
@@ -77,6 +77,6 @@ Thierry Crouzet dans l’alternative nomade : « *Plus l’interconnexion s’
 
  
 
-**Le [récent Appel d'offre]() de la SNCF pour mettre en oeuvre des tiers lieux dans les gares témoigne des dynamiques en cours au niveau des infrastructures. Mutations simultanées des solutions de mobilités, d'immobilité pour s'arrêter au "meilleur endroit", de l'organisation des activités, appuyées sur des nouvelles compétences individuelles et collectives. L'augmentation de la complexité des flux ne fait que commencer.**
+**Le [récent Appel d'offre](http://www.centraledesmarches.com/marches-publics/SNCF-Direction-du-Transilien-Creation-de-tiers-lieux-sur-les-gares-d-Ile-de-France/1009059) de la SNCF pour mettre en oeuvre des tiers lieux dans les gares témoigne des dynamiques en cours au niveau des infrastructures. Mutations simultanées des solutions de mobilités, d'immobilité pour s'arrêter au "meilleur endroit", de l'organisation des activités, appuyées sur des nouvelles compétences individuelles et collectives. L'augmentation de la complexité des flux ne fait que commencer.**
 
 "

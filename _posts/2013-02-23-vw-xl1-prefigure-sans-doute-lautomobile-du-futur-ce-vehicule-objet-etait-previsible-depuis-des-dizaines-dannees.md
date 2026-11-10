@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: " text-align: justify"
 tags: ["application", "citoyen", "covoiturage", "données réelles", "Efficacité énergétique", "externalité", "gratuit", "holoptisme", "innovation", "intelligence collective", "internet", "marketing individualisé", "monnaie complémentaire", "multimodes", "partage de données", "pensée complexe", "Service de mobilité", "UX", "véhicule mono-usage", "virtuel"]
-theme: "Stratégies numériques"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/02/23/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees/
 ---
@@ -122,7 +122,7 @@ Revenons alors à la monnaie Amazon Coin. Ceci peut sembler étrange, inutile ou
 
  
 
-**La plateforme des mobilités va arriver, elle sera forcément mondiale. Ayant germée autour d'un service, elle sera capable d'accueillir une multitude de services de mobilité (applications) et sans doute plusieurs [monnaies]() permettant d'échanger ces services mais également de créer des systèmes de notation des utilisateurs (de type eBay : ponctualité, sérieux,… qui sont eux aussi des monnaies). Les monnaies deviennent ainsi de formidables « objets liens » structurant et dynamisant ce collectif étendu, base d'une entreprise agile tournée vers la multitude. La plateforme tissera ainsi des [liens inédits entre le monde physique et le monde virtuel](), dont il est urgent de prendre conscience.** 
+**La plateforme des mobilités va arriver, elle sera forcément mondiale. Ayant germée autour d'un service, elle sera capable d'accueillir une multitude de services de mobilité (applications) et sans doute plusieurs monnaies permettant d'échanger ces services mais également de créer des systèmes de notation des utilisateurs (de type eBay : ponctualité, sérieux,… qui sont eux aussi des monnaies). Les monnaies deviennent ainsi de formidables « objets liens » structurant et dynamisant ce collectif étendu, base d'une entreprise agile tournée vers la multitude. La plateforme tissera ainsi des liens inédits entre le monde physique et le monde virtuel, dont il est urgent de prendre conscience.** 
 
  
 
@@ -130,12 +130,4 @@ Revenons alors à la monnaie Amazon Coin. Ceci peut sembler étrange, inutile ou
 
  
 
-**Il est encore temps de créer celle dédiée aux mobilités. ** 
-
-"2013-02-23 18:11:46https://transportsdufutur.ademe.fr/2013/02/vw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees.htmlapplication|citoyen|covoiturage|données réelles|Efficacité énergétique|externalité|gratuit|holoptisme|innovation|intelligence collective|internet|marketing individualisé|monnaie complémentaire|multimodes|partage de données|pensée complexe|Service de mobilité|UX|véhicule mono-usage|virtuelpublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvw-xl1-prefigure-sans-doute-lautomobile-du-futur-ce-vehicule-objet-etait-previsible-depuis-des-dizaines-dannees2015-07-21 16:35:44>**Il existe très peu de plateformes mondiales. ** 
-
- 
-
-**Il est encore temps de créer celle dédiée aux mobilités. ** 
-
-"
+**Il est encore temps de créer celle dédiée aux mobilités. **

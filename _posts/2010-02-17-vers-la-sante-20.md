@@ -14,7 +14,7 @@ Imaginons que l'on soit capable de quantifier les gains apportés par la pratiqu
 
  
 
-Cet article d' ***[Audrey Fournier]()*** fait le point sur le sujet de la Santé 2.0. L’évolution des usages des Nouvelles technologies de l’information et de la communication engendre de nouveaux comportements. On parle de web participatif, collaboratif, de coproduction. Ce phénomène se transpose dans le domaine de la santé. C’est pourquoi aujourd’hui, des communautés de patients en ligne s’expriment et font entendre une nouvelle voix influente. C’est ce que l’on appelle Santé 2.0.
+Cet article d' ***[Audrey Fournier](http://www.marketing-professionnel.fr/tribune-libre/sante-20-partage-echange.html)*** fait le point sur le sujet de la Santé 2.0. L’évolution des usages des Nouvelles technologies de l’information et de la communication engendre de nouveaux comportements. On parle de web participatif, collaboratif, de coproduction. Ce phénomène se transpose dans le domaine de la santé. C’est pourquoi aujourd’hui, des communautés de patients en ligne s’expriment et font entendre une nouvelle voix influente. C’est ce que l’on appelle Santé 2.0.
 
  
 
@@ -24,7 +24,7 @@ Cette évolution participe à la remise en question du sujet de la santé, des r
 
  **** 
 
-***L'article :*** Alors que le process est bien engagé aux Etats-Unis, précurseur en e-santé, la France peine davantage à entreprendre une remise en question des codes établis tant le sujet est sensible. Cependant, des colloques spécialisés, animés par des associations de professionnels, se tiennent annuellement afin de maintenir la dynamique d’évolution des mœurs au sein de la société française. La [Conférence Health 2.0 Europe]() se tiendra à Paris les 6 et 7 avril prochains à la Cité Internationale Universitaire de Paris.
+***L'article :*** Alors que le process est bien engagé aux Etats-Unis, précurseur en e-santé, la France peine davantage à entreprendre une remise en question des codes établis tant le sujet est sensible. Cependant, des colloques spécialisés, animés par des associations de professionnels, se tiennent annuellement afin de maintenir la dynamique d’évolution des mœurs au sein de la société française. La [Conférence Health 2.0 Europe](http://www.health2con.com/paris2010) se tiendra à Paris les 6 et 7 avril prochains à la Cité Internationale Universitaire de Paris.
 
  
 
@@ -46,7 +46,7 @@ En se constituant en communautés en ligne, ils deviennent plus influents et cr�
 
  
 
-*« L’on disait que ça ne pouvait pas se faire en Europe, que les médias sociaux et les outils en ligne ne prendraient pas parce que le contexte du système de soins était trop différent des États-Unis. L’on disait que les Européens n’ont pas de soucis quant à l’accès aux soins ou aux coûts, qu’ils ne cherchent pas d’information en ligne car ils ont dans leurs médecins une confiance pleine et entière, et que les médecins européens ne vont pas en ligne, sauf s’ils sont Scandinaves. » *Lire la suite “Interview de [Denise Silber](), (reproduite de Jaibobola)” »
+*« L’on disait que ça ne pouvait pas se faire en Europe, que les médias sociaux et les outils en ligne ne prendraient pas parce que le contexte du système de soins était trop différent des États-Unis. L’on disait que les Européens n’ont pas de soucis quant à l’accès aux soins ou aux coûts, qu’ils ne cherchent pas d’information en ligne car ils ont dans leurs médecins une confiance pleine et entière, et que les médecins européens ne vont pas en ligne, sauf s’ils sont Scandinaves. » *Lire la suite “Interview de [Denise Silber](http://www.denisesilber.com/silberblog/2009/12/interview-de-denise-silber-jaibobola-2.html#more), (reproduite de Jaibobola)” »
 
  **Des attentes symptomatiquement pragmatiques** 
 
@@ -80,10 +80,10 @@ Ce nouveau chapitre ne relève pas d’une dimension opérationnelle de l’outi
 
 **Sources **:
 
-[ 
+ 
  
 - www.health2con.com/paris2010 
- ]() 
-- [www.denisesilber.com]() 
-- [http://www.businessangelssante.com/health-2-0-avril-2010-paris/]() 
-- [http://biogeekblog.com/tag/health-20/]() "
+  
+- www.denisesilber.com 
+- http://www.businessangelssante.com/health-2-0-avril-2010-paris/ 
+- http://biogeekblog.com/tag/health-20/ "

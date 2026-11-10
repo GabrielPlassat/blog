@@ -6,7 +6,7 @@ source: fabmob
 source_name: "Fabrique des Mobilités"
 original_url: "https://fabmob.io/blog/lopen-source-force-menace"
 tags: ["open source"]
-theme: "Stratégies numériques"
+theme: "Communs, écosystèmes & open source"
 ---
 
 Pour rester dans la course à la voiture connectée et autonome, chaque semaine un constructeur annonce devenir partenaire de tel ou tel consortium. Derrière cette pratique ancienne visant à mutualiser les développements et les risques, se cache au moins deux approches radicalement différentes.

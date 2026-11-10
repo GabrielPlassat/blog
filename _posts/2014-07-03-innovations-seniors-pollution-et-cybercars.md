@@ -19,11 +19,11 @@ redirect_from:
 
  
 
-**Le premier** a déjà compris qu'en faisant rouler des cybercars, il allait maintenir son avance et aspirer" les entreprises les plus innovantes dans ce domaine. Se faisant, de nouvelles lois, de nouvelles techniques et de nouveaux métiers seront inventés là bas et pas ailleurs. La [**MétaNote N°20**]() décrit les principaux risques et opportunités de cette Chimère.
+**Le premier** a déjà compris qu'en faisant rouler des cybercars, il allait maintenir son avance et aspirer" les entreprises les plus innovantes dans ce domaine. Se faisant, de nouvelles lois, de nouvelles techniques et de nouveaux métiers seront inventés là bas et pas ailleurs. La [**MétaNote N°20**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/) décrit les principaux risques et opportunités de cette Chimère.
 
  
 
-[![]()]()
+
 
  
 
@@ -39,10 +39,8 @@ redirect_from:
 
  
 
-Ces trois pays sont **les seuls** à ne pas avoir signé [**la convention de Vienne**]() obligeant les véhicules à rouler avec un humain derrière le volant : "*Tout véhicule en mouvement ou tout ensemble de véhicules en mouvement doit avoir un conducteur.*". En conséquence, [**Les Etats-unis**](), la Chine et le Japon se positionnent dès maintenant à la fois comme les principaux terrains de jeux des multinationales, mais également comme les principaux acteurs de ces futurs systèmes de mobilités.
+Ces trois pays sont **les seuls** à ne pas avoir signé **la convention de Vienne** obligeant les véhicules à rouler avec un humain derrière le volant : "*Tout véhicule en mouvement ou tout ensemble de véhicules en mouvement doit avoir un conducteur.*". En conséquence, **Les Etats-unis**, la Chine et le Japon se positionnent dès maintenant à la fois comme les principaux terrains de jeux des multinationales, mais également comme les principaux acteurs de ces futurs systèmes de mobilités.
 
  
 
 **En s'engageant les premiers dans cette voie et en réduisant les barrières permettant de rapprocher les entrepreneurs des utilisateurs,  ces trois pays vont explorer et apprendre dans l'action. Même si plusieurs fabricants de véhicule autonome émergeront, il est probable qu'une seule plateforme mondiale ne domine la gestion des cohortes de robots, et n'offre une multitude de services de mobilités. A votre avis, sera-t-elle européenne ?**
-
-"2014-07-03 10:15:33https://transportsdufutur.ademe.fr/2014/07/innovations-seniors-pollution-et-cybercars.htmlart de la guerre|autorité des transports|citoyen|collectivité|google|Infrastructure|innovation|internet des objets|qualité de l'air|Santé|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatinnovations-seniors-pollution-et-cybercars2015-07-21 16:35:31

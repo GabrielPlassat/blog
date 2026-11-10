@@ -24,7 +24,7 @@ Les deux cotés, l'offre et la demande, pourraient donc se rencontrer en mouveme
 
  
 
-La rencontre aura non seulement lieu sur votre trace habituelle", mais l'accès (commande) et la sortie (paiement) seront intégrés dans l'expérience d'achat, de même que la fidélisation du client (voir par exemple les [**Facebook crédits**]()). Et bien sûr, plus votre trace sera connue, ouverte et partagée avec vos contacts, votre réseau, plus votre achat aura, en tant que tel, une valeur et conduiera à des réductions, points fidélités, couplage entre marque (voir par exemple [**La Redoute**](), [**FNAC**]()).Bien sûr cela posera des questions sur les données privées, sur la surveillance, et sur les libertés.
+La rencontre aura non seulement lieu sur votre trace habituelle", mais l'accès (commande) et la sortie (paiement) seront intégrés dans l'expérience d'achat, de même que la fidélisation du client (voir par exemple les [**Facebook crédits**](http://www.facebook.com/help/?page=132013533539778)). Et bien sûr, plus votre trace sera connue, ouverte et partagée avec vos contacts, votre réseau, plus votre achat aura, en tant que tel, une valeur et conduiera à des réductions, points fidélités, couplage entre marque (voir par exemple [**La Redoute**](http://www.astuceville.com/gagnez-20-credits-facebook-gratuitement-offerts-par-la-redoute), [**FNAC**](http://www.journaldunet.com/ebusiness/le-net/facebook-credits-en-vente-a-la-fnac-1211.shtml)).Bien sûr cela posera des questions sur les données privées, sur la surveillance, et sur les libertés.
 
  
 

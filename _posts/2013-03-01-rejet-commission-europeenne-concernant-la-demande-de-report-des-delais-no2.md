@@ -24,6 +24,6 @@ Les zones concernées sont : Avignon, Marseille Aix-en-Provence, Toulon, Paris, 
 
  
 
-Sur ce sujet, l'ADEME a lancé un appel à projets : **[CORTEA]()**.
+Sur ce sujet, l'ADEME a lancé un appel à projets : **[CORTEA]({{ site.baseurl }}/2010/10/appel-a-projet-ademe-connaissances-reduction-et-traitement-des-emissions-dans-lair/)**.
 
 "

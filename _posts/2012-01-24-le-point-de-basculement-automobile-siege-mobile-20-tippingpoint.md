@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "><a href=\"\"/2011/11/networked-multimodal-cities-for-2050-google-apple-or-dell-business-models-.html\"\">services de mobilité de plus en plus intégrés et connectés</a></strong>.</li> </ul> <p class=\"\"MsoNormal\"\" style=\"\"text-align: justify"
 tags: ["assistant de mobilité", "autorité des transports", "citoyen", "collectivité", "données réelles", "gouvernance", "holoptisme", "intelligence collective", "internet", "management de la mobilité", "marketing individualisé", "MIT", "monnaie complémentaire", "multimodes", "Service de mobilité"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Intelligence collective & innovation"
 redirect_from:
   - /2012/01/24/le-point-de-basculement-automobile-siege-mobile-20-tippingpoint/
 ---
@@ -33,30 +33,17 @@ Pour étudier ce point de basculement, identifions les tendances de fond qui for
  
 - Tendances économiques : prix des [matières premières](http://www.lesechos.fr/entreprises-secteurs/finance-marches/actu/0201857991087-le-poids-de-la-chine-sur-les-matieres-premieres-ne-cesse-de-s-accroitre-278903.php) et des énergies en augmentation, budgets privés et [publics en tension]({{ site.baseurl }}/2011/12/quel-financement-possible-pour-les-transports-publics/), difficultés à financer les investissements, 
 - Tendances sociales : capacité d’arbitrage de plus en plus [difficile pour les ménages les plus faibles]({{ site.baseurl }}/2012/01/grand-sud-est-fracture-a-venir-en-matiere-de-mobilite-pour-un-million-de-personne-rural-peri-urbain/), pratiques de plus en plus nombreuses de solutions de mobilité partagée portées par les TIC, appétence pour la [participation]({{ site.baseurl }}/2011/12/crowdsourcing-ou-comment-batir-de-nouvelles-relations-entre-citoyens-et-acteurs-economiques/) créative, l’usage et les services (économie de la fonctionnalité) en croissance chez les jeunes ([voir sondage Zipcar]({{ site.baseurl }}/2011/12/et-si-les-changements-de-comportement-etaient-plus-rapides/)), croissance du [peer to peer]({{ site.baseurl }}/2012/01/le-nouveau-monde-2012-nm2012-arrive-il-va-en-surprendre-plus-dun/), 
-- Tendances industrielles : ventes de véhicule neuf en réduction dans les pays saturés en automobile,  demande tirée vers les petits véhicules avec de faibles marges, innovations nombreuses et variées dans des véhicules spécifiques urbains à 2-3 ou 4 roues, innovations dans des [services de mobilité de plus en plus intégrés et connectés](). 
+- Tendances industrielles : ventes de véhicule neuf en réduction dans les pays saturés en automobile,  demande tirée vers les petits véhicules avec de faibles marges, innovations nombreuses et variées dans des véhicules spécifiques urbains à 2-3 ou 4 roues, innovations dans des services de mobilité de plus en plus intégrés et connectés. 
  
 
-Le basculement produirait une situation inédite pour plusieurs acteurs dont les constructeurs et notamment dans les marchés européens. Ces services de mobilité ne feront pas disparaître la production automobile mais conduiront à la réinventer. Des usines seront toujours nécessaire pour produire des objets de haute technologie mais leurs cahiers des charges et leurs [clients ]()auront [changés](), et une industrie des services sera née. Et si [RE60]() ou [Hiriko]() préfiguraient tout cela ?
-
- 
-
-Ce nouvel Univers de mobilité permettra également de concevoir autrement les contraintes (taxes TIPP notamment) en s’appuyant sur les [données de mobilités]() réelles, et de créer de nouvelles formes de récompenses (temps, €, [autre monnaie]() …). Ces nouveaux outils de contraintes/récompenses offriront plus de possibilités aux structures de gouvernance pour aider les citoyens, les entreprises à revoir leurs organisations, leurs implantations, et leurs modes de transports. De nombreuses innovations s’ouvrent - contraintes, récompenses, outils d’aide, expérimentation de système complexe dans des [**territoires **]()- dans plusieurs domaines – fiscalité, monnaies, science des usages par exemple.
+Le basculement produirait une situation inédite pour plusieurs acteurs dont les constructeurs et notamment dans les marchés européens. Ces services de mobilité ne feront pas disparaître la production automobile mais conduiront à la réinventer. Des usines seront toujours nécessaire pour produire des objets de haute technologie mais leurs cahiers des charges et leurs clients auront changés, et une industrie des services sera née. Et si RE60 ou Hiriko préfiguraient tout cela ?
 
  
 
-Voir page 16 dans la présentation suivante :
-
- [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "2012-01-24 11:36:51https://transportsdufutur.ademe.fr/2012/01/le-point-de-basculement-automobile-siege-mobile-20-tippingpoint.htmlassistant de mobilité|autorité des transports|citoyen|collectivité|données réelles|gouvernance|holoptisme|intelligence collective|internet|management de la mobilité|marketing individualisé|MIT|monnaie complémentaire|multimodes|Service de mobilitépublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatle-point-de-basculement-automobile-siege-mobile-20-tippingpoint2015-07-21 16:36:37>[services de mobilité de plus en plus intégrés et connectés](). 
- 
-
-Le basculement produirait une situation inédite pour plusieurs acteurs dont les constructeurs et notamment dans les marchés européens. Ces services de mobilité ne feront pas disparaître la production automobile mais conduiront à la réinventer. Des usines seront toujours nécessaire pour produire des objets de haute technologie mais leurs cahiers des charges et leurs [clients ]()auront [changés](), et une industrie des services sera née. Et si [RE60]() ou [Hiriko]() préfiguraient tout cela ?
-
- 
-
-Ce nouvel Univers de mobilité permettra également de concevoir autrement les contraintes (taxes TIPP notamment) en s’appuyant sur les [données de mobilités]() réelles, et de créer de nouvelles formes de récompenses (temps, €, [autre monnaie]() …). Ces nouveaux outils de contraintes/récompenses offriront plus de possibilités aux structures de gouvernance pour aider les citoyens, les entreprises à revoir leurs organisations, leurs implantations, et leurs modes de transports. De nombreuses innovations s’ouvrent - contraintes, récompenses, outils d’aide, expérimentation de système complexe dans des [**territoires **]()- dans plusieurs domaines – fiscalité, monnaies, science des usages par exemple.
+Ce nouvel Univers de mobilité permettra également de concevoir autrement les contraintes (taxes TIPP notamment) en s’appuyant sur les données de mobilités réelles, et de créer de nouvelles formes de récompenses (temps, €, autre monnaie …). Ces nouveaux outils de contraintes/récompenses offriront plus de possibilités aux structures de gouvernance pour aider les citoyens, les entreprises à revoir leurs organisations, leurs implantations, et leurs modes de transports. De nombreuses innovations s’ouvrent - contraintes, récompenses, outils d’aide, expérimentation de système complexe dans des **territoires **- dans plusieurs domaines – fiscalité, monnaies, science des usages par exemple.
 
  
 
 Voir page 16 dans la présentation suivante :
 
- [Td f 2011v1]() View more [presentations]() from [Les transports du futur]() "
+ Td f 2011v1 View more presentations from Les transports du futur

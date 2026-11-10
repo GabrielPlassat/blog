@@ -15,6 +15,6 @@ Alors que Google couple Google+ (réseau), [**Google Map**](http://transit-city.
 
  
 
-Bien sûr, il y aura ces deux voies ([**mobilité servicielle sans possession et véhicule haute couture possédé**]()), mais il pourrait ne plus rester grand chose au milieu ...
+Bien sûr, il y aura ces deux voies ([**mobilité servicielle sans possession et véhicule haute couture possédé**]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)), mais il pourrait ne plus rester grand chose au milieu ...
 
  "

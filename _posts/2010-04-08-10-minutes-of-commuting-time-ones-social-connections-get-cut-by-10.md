@@ -25,7 +25,7 @@ This is what economists call "**the commuting paradox**." Most people travel lon
 
  
 
-Egalement sur des blogs (**[ici]()**, **[là]()**)
+Egalement sur des blogs (**[ici](http://www.treehugger.com/files/2010/04/road-zombies-extreme-commuters-3-million-usa.php?campaign=th_rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+treehuggersite+%28Treehugger%29)**, **[là](http://www.good.is/post/understanding-the-commuting-paradox/)**)
 
  
 

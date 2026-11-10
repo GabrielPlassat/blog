@@ -23,7 +23,7 @@ La précision augmente fortement selon que l'on intègre ou pas les déplacement
 
  
 
-[Plusieurs articles]() ont été rédigés dans ce blog sur ce sujet de la prédiction en partant des temps réel, le tout étant porté par le développement croissant du web prédictif. Cette étude renforce cette idée, pour le meilleur ou pour le pire.
+[Plusieurs articles]({{ site.baseurl }}/2011/09/nous-entrons-dans-lage-de-la-connaissance-des-mobilites/) ont été rédigés dans ce blog sur ce sujet de la prédiction en partant des temps réel, le tout étant porté par le développement croissant du web prédictif. Cette étude renforce cette idée, pour le meilleur ou pour le pire.
 
  
 

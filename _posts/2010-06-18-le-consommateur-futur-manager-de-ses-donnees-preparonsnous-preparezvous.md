@@ -23,11 +23,11 @@ Le premier **[Forum Consumer Goods](http://www.ciesnet.com/)** préfigure une no
  
  
 
-CRTL SHIFT travaille également sur un outil, **[le PIMS]()**, permettant au citoyen de gérer plus simplement ses informations de consommateur pour devenir une interface avec les acteurs marchands pour protéger au mieux les intérêts du consommateur.
+CRTL SHIFT travaille également sur un outil, **[le PIMS](http://www.rightsideup.net/wp-content/uploads/2009/02/pims-the-interface.pdf)**, permettant au citoyen de gérer plus simplement ses informations de consommateur pour devenir une interface avec les acteurs marchands pour protéger au mieux les intérêts du consommateur.
 
  
  
-- Nouveaux rapports du Global Commerce Initiative, New ways to work together, Informations sharing et [**Value Chain in 2018**]()** **qui identifient les principaux challenges à venir : logistique (stockage, collaborative, inverse), changement rapide des demandes, traçabilité et efficience. Il est, par exemple, proposé de réfléchir aux questions suivantes : 
+- Nouveaux rapports du Global Commerce Initiative, New ways to work together, Informations sharing et [**Value Chain in 2018**](https://web.archive.org/web/2018/http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2010/06/GCI2018FutureValueChain.pdf)** **qui identifient les principaux challenges à venir : logistique (stockage, collaborative, inverse), changement rapide des demandes, traçabilité et efficience. Il est, par exemple, proposé de réfléchir aux questions suivantes : 
  
 
 **Shopper Dialogue:**
@@ -118,7 +118,7 @@ Do you have a clear incentive scheme that rewards collaborative behaviour among 
 
  
  
-- Le dernier article "**[Simply Connect the dots]()**" contient les deux précédents pour proposer un schéma global d'évolution du secteur de la logistique et de son management. L'objectif est simultanément de répondre au **besoin précis et réel du consommateur, d'exploiter les informations sur les consommateurs pour optimiser la chaîne logistique et de réduire pollution-consommation énergétique-coût**. En partant d'une situation centralisée, complexe, peu réactive et inflexible qui conditionne les modes de commercialisation des produits et les achats, il faut viser le bon produit pour la bonne personne au bon endroit au bon moment, "nous savons maintenant que c'est possible". L'optimisation du système complet nécessite alors de développer de nouveaux outils, nouveaux modes de management basés "on consumer pull". 
+- Le dernier article "**Simply Connect the dots**" contient les deux précédents pour proposer un schéma global d'évolution du secteur de la logistique et de son management. L'objectif est simultanément de répondre au **besoin précis et réel du consommateur, d'exploiter les informations sur les consommateurs pour optimiser la chaîne logistique et de réduire pollution-consommation énergétique-coût**. En partant d'une situation centralisée, complexe, peu réactive et inflexible qui conditionne les modes de commercialisation des produits et les achats, il faut viser le bon produit pour la bonne personne au bon endroit au bon moment, "nous savons maintenant que c'est possible". L'optimisation du système complet nécessite alors de développer de nouveaux outils, nouveaux modes de management basés "on consumer pull". 
  
 
 In *The Third Wave* (Bantam Books, 1980), Alvin Toffler said the Information Age would follow the Industrial Age. In his Afterword to *The Essential Drucker*, The Best of Sixty Years of Peter Drucker’s Essential Writings on Management (Harper Business, 2001), Peter Drucker wrote, “… the center of gravity, and the center of power, will be the customer. In the last thirty years, the center of power has shifted from the supplier, the manufacturer, to the distributor. In the next thirty years, it will certainly shift to the customer.

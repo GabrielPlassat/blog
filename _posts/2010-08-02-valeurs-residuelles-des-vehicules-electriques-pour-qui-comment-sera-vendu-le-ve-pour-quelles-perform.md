@@ -38,17 +38,17 @@ Pour tenter de répondre à ces questions, ou plutôt de donner quelques pistes,
 
  
 
-Le véhicule électrique devra se vendre massivement à des ménages jeunes, intégrant donc leurs besoins, leurs aspirations. Il faut donc imaginer conjointement la rencontre entre une évolution majeure en matière de véhicule et une évolution majeure de cibles et de moyen pour l'atteindre. Une récente étude réalisée aux USA "**[Is Digital Revolution Driving Decline in U.S. Car culture ]()**?", pays de l'automobile individuelle, montre les mutations majeures venant des moins de 30 ans, appelés Génération Y ou Millennial.
+Le véhicule électrique devra se vendre massivement à des ménages jeunes, intégrant donc leurs besoins, leurs aspirations. Il faut donc imaginer conjointement la rencontre entre une évolution majeure en matière de véhicule et une évolution majeure de cibles et de moyen pour l'atteindre. Une récente étude réalisée aux USA "**[Is Digital Revolution Driving Decline in U.S. Car culture ](http://adage.com/digital/article?article_id=144155)**?", pays de l'automobile individuelle, montre les mutations majeures venant des moins de 30 ans, appelés Génération Y ou Millennial.
 
  
 
-[![]()]()  source **[étude AMP Agency]()** 
+  source **[étude AMP Agency]({{ site.baseurl }}/assets/images/2010/08/Cause_AMPlified.pdf)** 
 
 Quelques extraits :
 
  
 
-*"theory is that almost everything about digital media and technology makes cars less desirable or useful and public transportation a lot more relevant. Texting while driving is dangerous and increasingly illegal, as is watching mobile TV or working on your laptop. All, at least under favorable wireless circumstances, work fine on the train. The internet and mobile devices also have made telecommuting increasingly common, displacing both cars and public transit. [...] Mr. Draves said. "Time becomes really valuable to them," he said. "You can work on a train. You can't work in a car. And the difference is two to three hours a day, or about 25% of one's productive time." Voir également **[cette note]()** sur le même thème.*
+*"theory is that almost everything about digital media and technology makes cars less desirable or useful and public transportation a lot more relevant. Texting while driving is dangerous and increasingly illegal, as is watching mobile TV or working on your laptop. All, at least under favorable wireless circumstances, work fine on the train. The internet and mobile devices also have made telecommuting increasingly common, displacing both cars and public transit. [...] Mr. Draves said. "Time becomes really valuable to them," he said. "You can work on a train. You can't work in a car. And the difference is two to three hours a day, or about 25% of one's productive time." Voir également **[cette note]({{ site.baseurl }}/2010/02/interdit-de-surfer-en-conduisant/)** sur le même thème.*
 
  
 
@@ -56,7 +56,7 @@ Quelques extraits :
 
  
 
-*Millennials "are an important customer to us," said Ford's Ms. Connelly. "But we also understand the context in which they use cars has changed. ... It has nothing to do with performance or getting you from point A to point B. It's just a change in what people expect to be delivered." Voir également **[cette MétaNote]()** sur ce sujet.*
+*Millennials "are an important customer to us," said Ford's Ms. Connelly. "But we also understand the context in which they use cars has changed. ... It has nothing to do with performance or getting you from point A to point B. It's just a change in what people expect to be delivered." Voir également **[cette MétaNote]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** sur ce sujet.*
 
  
 
@@ -64,11 +64,11 @@ Quelques extraits :
 
  
 
-En résumé, l'automobile et le permis de conduire ne sont plus les rites de passage à l'âge adulte, le nombre de permis par tranche d'âge diminue, de même que la distance annuelle parcourue, la possession d'un véhicule est peu compatible avec le budget de cette génération, la génération Y pense sa consommation matériel par le prisme d'internet avant de se déplacer, et de conclure qu'en 2020 la distance moyenne parcourue sera divisée par deux sous l'effet conjoint d'une réduction du nombre de baby boomer et d'une augmentation de Génération Y (voir également **[ici]()** un film de J.Attali sur Public Sénat sur la génération Y). Le véhicule électrique et toute la filière doivent être pensés pour séduire cette génération: connectivité, inclus dans des services de mobilité (voir également **[ici]()**, ce thème étant largement traité dans ce blog) et minimisant au maximum les coûts d'investissement et d'exploitation.
+En résumé, l'automobile et le permis de conduire ne sont plus les rites de passage à l'âge adulte, le nombre de permis par tranche d'âge diminue, de même que la distance annuelle parcourue, la possession d'un véhicule est peu compatible avec le budget de cette génération, la génération Y pense sa consommation matériel par le prisme d'internet avant de se déplacer, et de conclure qu'en 2020 la distance moyenne parcourue sera divisée par deux sous l'effet conjoint d'une réduction du nombre de baby boomer et d'une augmentation de Génération Y (voir également **[ici](http://www.publicsenat.fr/vod/conversation-d-avenirs/generation-y/56124)** un film de J.Attali sur Public Sénat sur la génération Y). Le véhicule électrique et toute la filière doivent être pensés pour séduire cette génération: connectivité, inclus dans des services de mobilité (voir également **[ici]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**, ce thème étant largement traité dans ce blog) et minimisant au maximum les coûts d'investissement et d'exploitation.
 
  
 
-[![]()]() [![]()]() [![]()]() 
+   
  
 **2.Comment concurrencer le low cost ?**
 
@@ -78,7 +78,7 @@ Pour baisser au maximum les budgets d'investissement des véhicules électriques
 
  
 
-L'économie de la fonctionnalité et l'économie circulaire (voir **[note]()** sur ces sujets) doivent être considérées pour concevoir et optimiser l'objet véhicule en tenant compte de son usage ou plus exactement de ses usages multiples. La citation de T.Grange, Directeur de **[l'Ecole de Management à Grenoble]()**, spécialiste du management de l'innovation et défenseur de la théorie des usages est à retenir : "*La valeur des usages est plus grande que la valeur d'usage des choses*". Il s'agit donc d'imaginer comment la génération Y utilisera les véhicules électriques (voir chapitre précédent) et que l'on optimise ces usages, puis l'on permette par la co-conception que la génération Y, elle-même, développe de nouveaux usages (c'est l'idée centrale des living labs, voir **[ici]()**). En résumé, l'optimisation économique du véhicule électrique passe par une optimisation de ses usages, un véhicule avec autant d'intelligence ne peut pas être aussi mal utilisé qu'aujourd'hui.
+L'économie de la fonctionnalité et l'économie circulaire (voir **[note]({{ site.baseurl }}/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire/)** sur ces sujets) doivent être considérées pour concevoir et optimiser l'objet véhicule en tenant compte de son usage ou plus exactement de ses usages multiples. La citation de T.Grange, Directeur de **[l'Ecole de Management à Grenoble](http://www.grenoble-em.com/)**, spécialiste du management de l'innovation et défenseur de la théorie des usages est à retenir : "*La valeur des usages est plus grande que la valeur d'usage des choses*". Il s'agit donc d'imaginer comment la génération Y utilisera les véhicules électriques (voir chapitre précédent) et que l'on optimise ces usages, puis l'on permette par la co-conception que la génération Y, elle-même, développe de nouveaux usages (c'est l'idée centrale des living labs, voir **[ici]({{ site.baseurl }}/2010/06/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20/)**). En résumé, l'optimisation économique du véhicule électrique passe par une optimisation de ses usages, un véhicule avec autant d'intelligence ne peut pas être aussi mal utilisé qu'aujourd'hui.
 
  
 
@@ -105,13 +105,13 @@ L'étude compare donc les deux filières électriques et thermiques sur la base 
 
 L'étude est présentée intégralement ci dessous. La comparaison énergétique est réalisée entièrement de façon numérique sans mesure. Les modèles utilisent des données d'entrées détaillées dans le rapport. 
 
- **[Note ifp ademe_vehicule_mono_usage]()** View more [documents]() from [transportsdufutur](). 
+ **[Note ifp ademe_vehicule_mono_usage](http://www.slideshare.net/transportsdufutur/note-ifp-ademevehiculemonousage-4888450)** View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 
  
 
  
 
-La puissance nécessaire pour déplacer ce type de véhicule avec les performances indiquées est de l'ordre de 20kW (voir **[note]()** sur le sujet, *Qui sera capable de faire un GMP de 20kW au meilleur prix ?*), et en conséquence d'avoir avec les technologies actuelles un véhicule thermique à moins de 60 gCO2/km. Les résultats sont particulièrement intéressants et permettent de quantifier les marges de progrès à la fois par l'allègement, rendu possible avant tout par la mise en oeuvre d'une économie de la fonctionnalité, et par l'électrification.
+La puissance nécessaire pour déplacer ce type de véhicule avec les performances indiquées est de l'ordre de 20kW (voir **[note]({{ site.baseurl }}/2010/01/qui-sera-capable-de-faire-un-gmp-de-20-kw-au-meilleur-prix/)** sur le sujet, *Qui sera capable de faire un GMP de 20kW au meilleur prix ?*), et en conséquence d'avoir avec les technologies actuelles un véhicule thermique à moins de 60 gCO2/km. Les résultats sont particulièrement intéressants et permettent de quantifier les marges de progrès à la fois par l'allègement, rendu possible avant tout par la mise en oeuvre d'une économie de la fonctionnalité, et par l'électrification.
 
  
 
@@ -134,13 +134,3 @@ L'économie du véhicule électrique se singularise à la fois :
  
 
 Jusqu'à présent l'industrie automobile avait inventé des modes de conception-réalisation étendus avec des fournisseurs de sous-systèmes, basés sur les réussites-échecs du passé elle doit maintenant accroître la complexité et les limites du système bien au-delà de l'objet, et demander aux utilisateurs de prendre une chaise autour de la table.
-
- 
-
- 
-
- 
-
- 
-
-"2010-08-02 15:25:16https://transportsdufutur.ademe.fr/2010/08/valeurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform.htmlADEME|citoyen|connectivité|economie circulaire|économie du quaternaire|économie fonctionnalité|Efficacité énergétique|living lab|low cost|marketing|Service de mobilité|transition générationnellepublish7gabrielplassat3948gabriel.plassat@ademe.frGabrielPlassatvaleurs-residuelles-des-vehicules-electriques-pour-qui-comment-sera-vendu-le-ve-pour-quelles-perform2015-07-21 16:37:43

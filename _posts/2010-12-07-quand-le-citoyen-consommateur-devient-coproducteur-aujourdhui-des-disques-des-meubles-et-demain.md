@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/12/quand-le-citoyen-consommateur-devient-coproducteur-aujourdhui-des-disques-des-meubles-et-demain.html"
 tags: ["citoyen", "collectivité", "confiance", "economie circulaire", "économie fonctionnalité", "Efficacité énergétique", "innovation", "internet"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Véhicule sobre & fonctionnalité"
 redirect_from:
   - /2010/12/07/quand-le-citoyen-consommateur-devient-coproducteur-aujourdhui-des-disques-des-meubles-et-demain/
 ---

@@ -5,7 +5,7 @@ date: 2014-05-16
 source: tdf
 source_name: "Transports du Futur"
 tags: ["ADEME", "autopartage", "autorité des transports", "citoyen", "collectivité", "données réelles", "economie circulaire", "Efficacité énergétique", "gouvernance", "Infrastructure", "innovation", "intelligence collective", "Service de mobilité", "véhicule propre"]
-theme: "Véhicule sobre & fonctionnalité"
+theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2014/05/16/parce-que-les-formes-dautopartage-actuelles-sont-encore-tres-jeunes-2/
 ---
