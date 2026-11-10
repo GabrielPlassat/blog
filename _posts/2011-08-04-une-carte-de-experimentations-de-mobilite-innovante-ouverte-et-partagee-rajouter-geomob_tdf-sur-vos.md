@@ -15,7 +15,7 @@ Plusieurs sites proposent de décrire ou de signaler des expérimentations de mo
 
  
 
-Il est proposé ici une solution simple. Lorsque vous twittez une expérimentation, une innovation en la géolocalisant, il suffit de rajouter dans le tweet **#geomob_tdf **pour que ce tweet soit reconnu, recupéré dans un flux RSS, passe par un outil automatique de géolocalisation (geoname) et finisse sur une carte qui regroupera donc toutes NOS informations. La carte est partagée, ouverte, récupérable ...
+Il est proposé ici une solution simple. Lorsque vous twittez une expérimentation, une innovation en la géolocalisant, il suffit de rajouter dans le tweet **#geomob_tdf** pour que ce tweet soit reconnu, recupéré dans un flux RSS, passe par un outil automatique de géolocalisation (geoname) et finisse sur une carte qui regroupera donc toutes NOS informations. La carte est partagée, ouverte, récupérable ...
 
  
 

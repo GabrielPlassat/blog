@@ -34,13 +34,13 @@ Pour franchir le pas en douceur, vous pouvez expérimenter des logiciels libres 
 
  
 
-L’économie de la connaissance se donne ainsi pour base une richesse ayant vocation d’être un bien commun, et les brevets et copyrights censés le privatiser n’y changent rien ; l’aire de la gratuité s’étend irrésistiblement. L’informatique et internet minent le règne de la marchandise à sa base. Tout ce qui est traduisible en langage numérique et reproductible, communicable sans frais tend irrésistiblement à devenir un bien commun, voire un bien commun universel quand il est accessible à tous et utilisable par tous. N’importe qui peut reproduire avec son ordinateur des contenus immatériels comme le design, les plans de construction ou de montage, les formules et équations chimiques ; inventer ses propres styles et formes ; imprimer des textes, graver des disques, reproduire des tableaux. Plus de 200 millions de références sont actuellement accessibles sous licence « créative commons ». Au Brésil, où l’industrie du disque commercialise 15 nouveaux CD par an, les jeunes des favelas en gravent 80 par semaine et les diffusent dans la rue. **L’autoproduction et le recyclage des ordinateurs par exemple, sont soutenus par le gouvernement : il s’agit de favoriser «** **l’appropriation des technologies par les usagers dans un but de transformation sociale **». Si bien que les trois quarts de tous les ordinateurs produits au Brésil en 2004/5 étaient autoproduits. Le gouvernement soutient les coopératives et groupements informels d’autoproduction pour l’auto approvisionnement.
+L’économie de la connaissance se donne ainsi pour base une richesse ayant vocation d’être un bien commun, et les brevets et copyrights censés le privatiser n’y changent rien ; l’aire de la gratuité s’étend irrésistiblement. L’informatique et internet minent le règne de la marchandise à sa base. Tout ce qui est traduisible en langage numérique et reproductible, communicable sans frais tend irrésistiblement à devenir un bien commun, voire un bien commun universel quand il est accessible à tous et utilisable par tous. N’importe qui peut reproduire avec son ordinateur des contenus immatériels comme le design, les plans de construction ou de montage, les formules et équations chimiques ; inventer ses propres styles et formes ; imprimer des textes, graver des disques, reproduire des tableaux. Plus de 200 millions de références sont actuellement accessibles sous licence « créative commons ». Au Brésil, où l’industrie du disque commercialise 15 nouveaux CD par an, les jeunes des favelas en gravent 80 par semaine et les diffusent dans la rue. **L’autoproduction et le recyclage des ordinateurs par exemple, sont soutenus par le gouvernement : il s’agit de favoriser «** **l’appropriation des technologies par les usagers dans un but de transformation sociale**». Si bien que les trois quarts de tous les ordinateurs produits au Brésil en 2004/5 étaient autoproduits. Le gouvernement soutient les coopératives et groupements informels d’autoproduction pour l’auto approvisionnement.
 
  
 
  
 
-**** 
+
 
  
 
@@ -86,7 +86,7 @@ L’économie de la connaissance se donne ainsi pour base une richesse ayant voc
 
  
 
-****
+
 
  
  

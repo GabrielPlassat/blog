@@ -17,7 +17,7 @@ Le numérique transforme tous les secteurs industriels dont celui des transports
 
 « Puisque les processus d’innovation changent, il devient essentiel de revoir les dispositifs publics et privés de soutien à l’innovation ».
 
-**Quelles industries s’inventent aujourd’hui ? Quelles sont celles qui vont mourir ? ****Comment réinventer son activité pour accompagner au mieux celles qui servent les objectifs environnementaux et de sobriété énergétique dans un monde numérique ? **
+**Quelles industries s’inventent aujourd’hui ? Quelles sont celles qui vont mourir ?****Comment réinventer son activité pour accompagner au mieux celles qui servent les objectifs environnementaux et de sobriété énergétique dans un monde numérique ?**
 Définitions pour bien se comprendre
 
  	
@@ -34,7 +34,7 @@ Un bon processus
 
 Kasparov n’en est pas resté là. Piqué au vif par la défaite, il s’est intéressé aux ordinateurs et a développé toute une nouvelle branche d’échecs, que l’on appelle les tournois hybrides. Dans ces tournois, plutôt que d’avoir des humains luttant contre des machines, ce qui n’a plus d’intérêt, ce sont des équipes d’hommes utilisant des ordinateurs qui luttent les unes contre les autres. Chacun est libre d’utiliser l’ordinateur comme bon lui semble. Là où cela devient intéressant, c’est quand on regarde ce que Kasparov a tiré comme leçon des tournois qu’il a organisés en regardant *qui gagne* ces tournois. Voici ce qu’il observe » :
 
-**Un humain moyen + une machine moyenne + un bon processus **est supérieur à **un super ordinateur**
+**Un humain moyen + une machine moyenne + un bon processus** est supérieur à **un super ordinateur**
 
 qui est lui-même supérieur à **un humain expert + une machine + un mauvais processus**
 

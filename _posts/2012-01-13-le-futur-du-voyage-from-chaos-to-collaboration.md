@@ -11,7 +11,7 @@ redirect_from:
   - /2012/01/13/le-futur-du-voyage-from-chaos-to-collaboration/
 ---
 
-[**Amadeus **](http://www.amadeus.com/blog/11/01/from-chaos-to-collaboration-insight-into-the-future-of-travel/)vient de publier une étude sur l'avenir du voyage. Cette mobilité occasionnelle pourrait être mieux connectée, plus souple, plus efficace. De nombreux champs sont couverts: l'intégration multimodale, une meilleure gestion des transits, des moyens de paiement simples, des solutions de partage d'expériences et de historique, et le tourisme professionnel.
+[**Amadeus** ](http://www.amadeus.com/blog/11/01/from-chaos-to-collaboration-insight-into-the-future-of-travel/)vient de publier une étude sur l'avenir du voyage. Cette mobilité occasionnelle pourrait être mieux connectée, plus souple, plus efficace. De nombreux champs sont couverts: l'intégration multimodale, une meilleure gestion des transits, des moyens de paiement simples, des solutions de partage d'expériences et de historique, et le tourisme professionnel.
 
  
 

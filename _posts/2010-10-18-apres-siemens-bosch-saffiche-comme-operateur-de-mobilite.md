@@ -31,7 +31,7 @@ The Bosch solution is based on Bosch’s [Visual Rules](http://www.visual-rules.
 
  
 
-The service platform was specifically designed to be open enough to allow competing companies—public utilities, for example—to participate as well, or other providers to integrate their charge spots. The approach deliberately encourages **unrestricted competition **for creative ideas relating to e-mobility. It is accessible and flexible, offering customers a broad range of services and a high level of information security at the same time.
+The service platform was specifically designed to be open enough to allow competing companies—public utilities, for example—to participate as well, or other providers to integrate their charge spots. The approach deliberately encourages **unrestricted competition** for creative ideas relating to e-mobility. It is accessible and flexible, offering customers a broad range of services and a high level of information security at the same time.
 
  
 

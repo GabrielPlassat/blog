@@ -39,11 +39,11 @@ Le 21 mai, l'entreprise a lancé l’[**Opération France Direct**](http://www.o
 
  
 
-Les citoyens auront accès aux mêmes services publics : ça sera la même eau transparente dans les piscines, les mêmes livres rangés dans les bibliothèques, les mêmes timbres vendus à la Poste, mais une chose aura changé radicalement : **la mobilité de l'usager. **
+Les citoyens auront accès aux mêmes services publics : ça sera la même eau transparente dans les piscines, les mêmes livres rangés dans les bibliothèques, les mêmes timbres vendus à la Poste, mais une chose aura changé radicalement : **la mobilité de l'usager.**
 
  
 
-**Sur le site de l'[Opération France Direct ](http://www.operationfrancedirect.com), participez symboliquement avec 5 euros en choisissant un établissement à équiper en priorité. **
+**Sur le site de l'[Opération France Direct ](http://www.operationfrancedirect.com), participez symboliquement avec 5 euros en choisissant un établissement à équiper en priorité.**
 
  
 

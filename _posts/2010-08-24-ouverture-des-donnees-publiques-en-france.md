@@ -21,12 +21,12 @@ Les informations reposent notamment sur les liens suivants :
 
  
  
-- [** **](http://www.flickr.com/photos/46243777@N07/4919735912/)**[Rennes](http://www.data.rennes-metropole.fr/)** 
+- [ ](http://www.flickr.com/photos/46243777@N07/4919735912/)**[Rennes](http://www.data.rennes-metropole.fr/)** 
 - **[Brest](http://www.a-brest.net/article5725.html)** 
 - [**Paris**](http://owni.fr/2010/06/08/paris-un-pas-vers-l%E2%80%99opendata/) 
 - [**Marseille**](http://www.reseaufing.org/pg/blog/slyan/read/25900/marseilleprovence-2013-sengage-dans-la-libration-des-donnes-publiques-en-tant-que-capitale-europenne-de-la-culture) 
 - **[Montpellier](http://www.reseaufing.org/pg/blog/jmbourgogne/read/27867/montpellieropendataorg)** 
-- **[Plouarzel](http://www.a-brest.net/article6002.html) ** 
+- **[Plouarzel](http://www.a-brest.net/article6002.html)** 
  
 
 Bientôt les solutions de mobilités, les données partagées sur une seule carte interactive ...

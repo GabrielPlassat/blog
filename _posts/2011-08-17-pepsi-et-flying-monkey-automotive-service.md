@@ -25,11 +25,11 @@ Certains ont déjà compris que l'intelligence doit être **[collectée ]({{ sit
 
  
 
-**1. Your Friends Are Your Capital **: Your social network friends and contacts can help you to raise capital.
+**1. Your Friends Are Your Capital**: Your social network friends and contacts can help you to raise capital.
 
  
 
-**2. Your Friends Make Your Dreams Come True **: Any of your contacts can make a contribution, no matter how small. Together they will help in achieving your every wish, project, and dream.
+**2. Your Friends Make Your Dreams Come True**: Any of your contacts can make a contribution, no matter how small. Together they will help in achieving your every wish, project, and dream.
 
  
 

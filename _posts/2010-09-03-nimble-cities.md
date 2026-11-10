@@ -11,7 +11,7 @@ redirect_from:
   - /2010/09/03/nimble-cities/
 ---
 
-Une nouvelle plateforme participative de ***[Slate.com](http://www.slate.com/) ***pour le développement de villes « habiles » ?* *
+Une nouvelle plateforme participative de ***[Slate.com](http://www.slate.com/)** *pour le développement de villes « habiles » ?* *
 
  
 

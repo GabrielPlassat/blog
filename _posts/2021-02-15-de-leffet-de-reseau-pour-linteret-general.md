@@ -41,6 +41,6 @@ Nous retrouvons là les 5 activités de la Fabrique des Mobilités. Ces activit�
 
 Enfin**, et c’est là le point clé pour produire des effets de réseaux**, permettre à tous les acteurs de la mobilité (logistique, énergie, santé, éducation) de pouvoir intégrer dans leur système d’information, site web, réseau interne, tout ou partie des ressources (défis, projets, communs, communautés, connaissances) indexées, gérées et mises en forme par une Fabrique. Cette dernière action, rendue possible par l’utilisation de Mediawiki, du web sémantique et des API, maximise l’effet des Fabriques. 
 
-Dès lors**, tous les acteurs d’un domaine **(Mobilité, Logistique, Energie, Santé, Education) **auront intérêt à ce que le wiki de chaque Fabrique soit à jour. Et plus le wiki est à jour et complet, plus les acteurs auront intérêt à l’inclure dans leur SI, blog, site.** 
+Dès lors**, tous les acteurs d’un domaine** (Mobilité, Logistique, Energie, Santé, Education) **auront intérêt à ce que le wiki de chaque Fabrique soit à jour. Et plus le wiki est à jour et complet, plus les acteurs auront intérêt à l’inclure dans leur SI, blog, site.** 
 
 En organisant cette information de façon neutre, interrogeable par des machines et en produisant des communs, les Fabriques utilisent les principes des plateformes numériques, créent des effets de réseaux grâce au système d’information neutre et organisé mais redonnent aux différents écosystèmes la totalité des externalités produites dans l’intérêt général.

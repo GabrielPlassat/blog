@@ -13,8 +13,8 @@ redirect_from:
 
 La présentation de Faber Novel, ci-dessous, fournit les bases essentielles pour comprendre les API. Dans le domaine des transports et des mobilités, le projet Catalyseur présenté également ci dessous propose d'utiliser le potentiel des API pour développer la multimodalité et l'interopérabilité tout en réduisant les dépenses publiques.
 
- ** [6 Reasons Why APIs Are Reshaping Your Business](http://fr.slideshare.net/faberNovel/6-reasons-why-apis-are-reshaping-your-business) ** from **[faberNovel](http://fr.slideshare.net/faberNovel)** Le projet Catalyseur : 
+ **[6 Reasons Why APIs Are Reshaping Your Business](http://fr.slideshare.net/faberNovel/6-reasons-why-apis-are-reshaping-your-business)** from **[faberNovel](http://fr.slideshare.net/faberNovel)** Le projet Catalyseur : 
 
  
 
- ** [Catalyseur2 mi atec-2012](http://fr.slideshare.net/transportsdufutur/catalyseur2-mi-atec2012) ** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)**
+ **[Catalyseur2 mi atec-2012](http://fr.slideshare.net/transportsdufutur/catalyseur2-mi-atec2012)** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)**

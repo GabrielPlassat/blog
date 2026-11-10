@@ -21,7 +21,7 @@ Jusqu'à présent, il s'agit d'erreurs de conception, de validation ou de montag
 
  
 
- ** Slides OSVehicle Tabby Maker Faire Rome 2013 ** from **osvehicle** 
+ **Slides OSVehicle Tabby Maker Faire Rome 2013** from **osvehicle** 
 
  
 

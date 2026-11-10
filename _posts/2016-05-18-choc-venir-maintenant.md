@@ -51,6 +51,6 @@ Basés sur la blockchain, ces deux projets ont en commun leur organisation. Il n
 
 Il n’y aura pas d’alliance entre ces deux mondes, ni de partenariat en espérant « garder le contact avec le client ». Il y aura ceux connectés avec la multitude et les autres. Chaque partenariat avec un acteur du numérique approche l’acteur industriel un peu plus près d’un fabricant de commodité. Il faudra toujours des voitures, comme des smartphones. Qui les fabrique et qui capte la valeur ? Vous pouvez questionner les données et leur gestion. C’est important, mais regarder d’abord les plateformes numériques qui se construisent. La blockchain ouvre des possibilités techniques intéressantes pour construire de nouvelles plateformes décentralisées et [**prendre des positions avant les autres**]({{ site.baseurl }}/2016/05/communs-source-guerre/). Mais restent entières les questions de l’attention et de la connexion avec la multitude.
 
-**Après tout, cela revient à connaître ses clients et à faire des produits beaux, bons et vrais. Comme tout commerçant. **
+**Après tout, cela revient à connaître ses clients et à faire des produits beaux, bons et vrais. Comme tout commerçant.**
 
 **Ni plus ni moins.**

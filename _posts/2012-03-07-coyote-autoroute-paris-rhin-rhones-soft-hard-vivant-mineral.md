@@ -39,7 +39,7 @@ APRR a sans doute choisi la meilleure façon de créer de l'information à haute
 
  
 
-**Ce couplage entre l'intelligence collective, le peer to peer et les structures et organisations plus rigides va bien sûr se reproduire tant il est évident et révélateur d'une évolution sociale majeure. Ces alliances vont dans un second temps modifier les organisations existantes pour leur apporter plus de souplesse, de capacité d'adaptation aux évènements. **
+**Ce couplage entre l'intelligence collective, le peer to peer et les structures et organisations plus rigides va bien sûr se reproduire tant il est évident et révélateur d'une évolution sociale majeure. Ces alliances vont dans un second temps modifier les organisations existantes pour leur apporter plus de souplesse, de capacité d'adaptation aux évènements.**
 
  
 

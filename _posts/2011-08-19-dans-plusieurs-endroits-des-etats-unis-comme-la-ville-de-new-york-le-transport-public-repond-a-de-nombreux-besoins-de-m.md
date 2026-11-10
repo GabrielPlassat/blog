@@ -50,4 +50,4 @@ Toutes les villes sont analysées en tenant compte des budgets des ménages, en 
 
  
 
-Globalement cette étude montre que nous manquons des données pour construire ce type d’outils d’aide à la décision pour les ménages (habitation, emploi, budgets), les entreprises (implantation, accessibilité des employés, résilience), les collectivités (attractivité du territoire, identification des plus fragiles, justification des investissements) et l’état (attractivité, aménagement, identification des plus faibles, justification des investissements). Ces outils sont en construction : **ICI **et **LA**.
+Globalement cette étude montre que nous manquons des données pour construire ce type d’outils d’aide à la décision pour les ménages (habitation, emploi, budgets), les entreprises (implantation, accessibilité des employés, résilience), les collectivités (attractivité du territoire, identification des plus fragiles, justification des investissements) et l’état (attractivité, aménagement, identification des plus faibles, justification des investissements). Ces outils sont en construction : **ICI** et **LA**.

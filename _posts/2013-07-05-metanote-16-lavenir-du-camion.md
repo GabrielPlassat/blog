@@ -77,4 +77,4 @@ Le consommateur a là un rôle majeur car notre façon de consommer appelle en *
 
 **Le constructeur de véhicule lourd, pour mettre en oeuvre ces transformations, aura su intégrer le numérique dans sa culture (lire l'article [pour une approche culturelle des mobilités numériques]({{ site.baseurl }}/2012/12/pour-une-approche-culturelle-des-mobilites-numeriques/)) et aura former des pionniers (lire l'article [quel équipage ...]({{ site.baseurl }}/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires/)) pour mieux explorer son futur.**
 
-** Intégré et simplifié dans notre Assistant Personnel de Consommation, nous ne pourrons plus dire que l’on ne savait pas …**
+**Intégré et simplifié dans notre Assistant Personnel de Consommation, nous ne pourrons plus dire que l’on ne savait pas …**

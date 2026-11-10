@@ -55,4 +55,4 @@ Présentation de Sonja Heikkila à la conférence de lancement de la Fabrique de
 
  
 
- ** Mobility as a service Helsinki ** from **Les transports du futur**
+ **Mobility as a service Helsinki** from **Les transports du futur**

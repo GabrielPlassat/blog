@@ -27,7 +27,7 @@ Pour réaliser ce projet, Google a fait appel a plusieurs ingénieurs de la DARP
 
  
 
-Google investit dans ce problématique. **Mais pourquoi ? peu de personne s'interroge sur le ou les objectifs de Google ? **
+Google investit dans ce problématique. **Mais pourquoi ? peu de personne s'interroge sur le ou les objectifs de Google ?**
 
  
 

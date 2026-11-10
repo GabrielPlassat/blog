@@ -68,7 +68,7 @@ It sets out six solutions for sustainable mobility that they can follow now to h
 
  
 
-**Scenario 4: **The world has turned to alternative energy, and transport is highly personalised with a huge variety of transport modes competing for road space.
+**Scenario 4:** The world has turned to alternative energy, and transport is highly personalised with a huge variety of transport modes competing for road space.
 
  
 

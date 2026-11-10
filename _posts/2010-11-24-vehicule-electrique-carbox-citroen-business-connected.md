@@ -11,13 +11,13 @@ redirect_from:
   - /2010/11/24/vehicule-electrique-carbox-citroen-business-connected/
 ---
 
-Après le business PASS (voir **[ici]({{ site.baseurl }}/2010/03/voiture-a-la-carte/)**), Développée par Citroën Business France en partenariat avec **[CARBOX](http://www.carboxservices.com/)**, elle permet aux entreprises et aux collectivités de disposer de Citroën C-ZERO en autopartage** **et ainsi d'intégrer des voitures électriques dans leur flotte.
+Après le business PASS (voir **[ici]({{ site.baseurl }}/2010/03/voiture-a-la-carte/)**), Développée par Citroën Business France en partenariat avec **[CARBOX](http://www.carboxservices.com/)**, elle permet aux entreprises et aux collectivités de disposer de Citroën C-ZERO en autopartage et ainsi d'intégrer des voitures électriques dans leur flotte.
 
  
 
 Le bilan économique du VE s'améliore" si le véhicule est utilisé au maximum. Il s'agit donc d'optimiser son usage. La possession est d'une certaine façon un frein à cet optimisation. Il est alors naturel de passer à un partage de l'objet nécessitant une gestion performante de sa disponibilité, de son état de charge et de sa maintenance. CARBOX devient l'interface utilisateurs / entreprises, constructeurs. D'autres, comme General Electric (voir **[ici]({{ site.baseurl }}/2010/03/voiture-a-la-carte/)**), sont en train de développer la totalité des outils permettant d'optimiser l'usage tout en maximisant les profits : gestion du parc, gestion de la maintenance, du financement, gestion de la charge et même gestion des réseaux électriques ... 
 
- Cette offre regroupe les services et outils propres à l'autopartage, soit la gestion **externalisée **du parc comprenant l'assurance, l'entretien et le nettoyage ainsi que l'interface de réservation, l'ouverture des voitures par badge, ainsi que les services spécifiques liés aux voitures électriques comme l’accompagnement dans la mise en place des infrastructures de recharge ou **le suivi à distance de la charge de la batterie**. Ce dernier est indispensable pour s'assurer que la voiture a bien été rechargée entre deux utilisations ou que le niveau de charge est suffisant pour la prochaine réservation. 
+ Cette offre regroupe les services et outils propres à l'autopartage, soit la gestion **externalisée** du parc comprenant l'assurance, l'entretien et le nettoyage ainsi que l'interface de réservation, l'ouverture des voitures par badge, ainsi que les services spécifiques liés aux voitures électriques comme l’accompagnement dans la mise en place des infrastructures de recharge ou **le suivi à distance de la charge de la batterie**. Ce dernier est indispensable pour s'assurer que la voiture a bien été rechargée entre deux utilisations ou que le niveau de charge est suffisant pour la prochaine réservation. 
 
 "*Cette nouvelle offre permet d'apporter une réponse sur mesure et clé en main, aux entreprises qui souhaitent réduire les émissions de CO2 de leur parc automobile tout en répondant aux besoins de mobilité de leurs collaborateurs*" précise Simon Rivier, Responsable Marketing de Citroën Business France. 
 
@@ -38,7 +38,7 @@ Cette offre originale et simple d'utilisation a déjà séduit de nombreux grand
 
  
 
-**Cette première version de service de véhicule électrique va se développer, nécessitant pour réduire les coûts d'augmenter le nombre de véhicule suivis et gérés. Cette gestion va naturellement s'étendre aux véhicules traditionnels thermiques, permettant d'optimiser les flottes. Puis les opérateurs demanderont aux constructeurs et aux fournisseurs d'énergies d'avoir accès à toutes les données permettant d'optimiser les gestions (des véhicules, des charges énergétiques...). Certains y auront accès naturellement (comme General Electric), d'autres créeront des partenariats, d'autres enfin accéderont aux données sans l'aide des constructeurs créant une brèche sans précédent, occasion unique de réduire l'asymétrie d'information entre les constructeurs et les consommateurs. **
+**Cette première version de service de véhicule électrique va se développer, nécessitant pour réduire les coûts d'augmenter le nombre de véhicule suivis et gérés. Cette gestion va naturellement s'étendre aux véhicules traditionnels thermiques, permettant d'optimiser les flottes. Puis les opérateurs demanderont aux constructeurs et aux fournisseurs d'énergies d'avoir accès à toutes les données permettant d'optimiser les gestions (des véhicules, des charges énergétiques...). Certains y auront accès naturellement (comme General Electric), d'autres créeront des partenariats, d'autres enfin accéderont aux données sans l'aide des constructeurs créant une brèche sans précédent, occasion unique de réduire l'asymétrie d'information entre les constructeurs et les consommateurs.**
 
  
 

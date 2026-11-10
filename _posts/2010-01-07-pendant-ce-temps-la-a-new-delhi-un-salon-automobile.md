@@ -43,11 +43,11 @@ Tous les constructeurs sont donc présents avec des annonces, des présentations
 
  
 
-**** 
+
 
  
 
-** [youtube http://www.youtube.com/watch?v=Oktyjz2D-ao&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_GB&feature=player_embedded&fs=1]**
+**[youtube http://www.youtube.com/watch?v=Oktyjz2D-ao&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_GB&feature=player_embedded&fs=1]**
 
  
 
@@ -83,7 +83,7 @@ En France, en 2009, les ventes se sont elles aussi concentrées sur les véhicul
 
  
 
-****
+
 
  
 

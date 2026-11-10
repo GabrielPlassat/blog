@@ -11,15 +11,15 @@ redirect_from:
   - /2011/11/22/connected-commuting-in-san-jose-once-again-innovations-arise-in-california/
 ---
 
-**Thanks to [Robin Chase]({{ site.baseurl }}/2011/10/3-videos-extraites-du-forum-des-innovations-ademe/) ... According to [PR Newswire](http://www.prnewswire.com/news-releases/new-cities-foundation-launches-task-force-on-connected-commuting-in-san-jose-california-134108348.html), **
+**Thanks to [Robin Chase]({{ site.baseurl }}/2011/10/3-videos-extraites-du-forum-des-innovations-ademe/) ... According to [PR Newswire](http://www.prnewswire.com/news-releases/new-cities-foundation-launches-task-force-on-connected-commuting-in-san-jose-california-134108348.html),**
 
  
 
-**This week, the **[**New Cities Foundation**](http://www.newcitiesfoundation.org/)** ****(****[http://www.newcitiesfoundation.org](http://www.newcitiesfoundation.org/))** **launched a Task Force on connected commuting at City Hall in** **San Jose****,** **California****.** The initiative will look at ways to improve the overall commuting experience by making it more efficient, engaging and fun, using social media platforms. The project is a collaborative effort between the City, several leading companies in this field and first rate academic partners. NCF believes transportation and mobility issues are among the most important challenges facing cities worldwide and this is an area where IT-based innovations can make a radical change.
+**This week, the** [**New Cities Foundation**](http://www.newcitiesfoundation.org/) **(****[http://www.newcitiesfoundation.org](http://www.newcitiesfoundation.org/))** **launched a Task Force on connected commuting at City Hall in** **San Jose****,** **California****.** The initiative will look at ways to improve the overall commuting experience by making it more efficient, engaging and fun, using social media platforms. The project is a collaborative effort between the City, several leading companies in this field and first rate academic partners. NCF believes transportation and mobility issues are among the most important challenges facing cities worldwide and this is an area where IT-based innovations can make a radical change.
 
  
 
-Task Force membersinclude NCF Founding Member Ericsson, San Jose's Department of Transportation, the University of Berkeley, MIT, Orange Telecom and two start-up mobile phone app companies, **Waze **and **Roadify**."
+Task Force membersinclude NCF Founding Member Ericsson, San Jose's Department of Transportation, the University of Berkeley, MIT, Orange Telecom and two start-up mobile phone app companies, **Waze** and **Roadify**."
 
  
 
@@ -35,7 +35,7 @@ According to Mathieu Lefevre, Executive Director of NCF, "We are excited to be h
 
  
 
-Gotoo (in France) Waze and Roadify use same ideas: **crowdsourcing**, **collective intelligence**, new **currencies **to reward cityzen to share a data. Here data and currencies are :
+Gotoo (in France) Waze and Roadify use same ideas: **crowdsourcing**, **collective intelligence**, new **currencies** to reward cityzen to share a data. Here data and currencies are :
 
  
  

@@ -46,8 +46,8 @@ Si les constructeurs ne s'y engagent pas, d'autres entrepreneurs le feront. Ils 
 
 Paradoxalement, alors que la pollution de l’air tue chaque jour, rien n’est communiqué sur le sujet pour les prochaines voitures connectées. La voiture connectée pourra, **[je cite](https://news.microsoft.com/fr-fr/2016/09/26/renault-nissan-microsoft-sallient-preparer-lavenir-de-conduite-connectee/#sm.0001m10qybrnqdzyue629li5swop3)** en reprenant le dernier CP Microsoft/Renault, *personnaliser vos réglages, améliorer sa productivité, être mise à jour, garder le contact, contrôler la voiture à distance, protéger du vol ou encore améliorer l’expérience*. Mais rien sur la production en temps réel des émissions de polluants et la consommation vers des associations de consommateurs, la collectivité, l’Etat. Pourtant tout est possible. Il suffit de le vouloir. La voiture connectée ne produira que certaines données sélectionnées par les acteurs influents.
 
-**Les villes monde sont devenues influentes. ****D’ici deux ans, les villes monde en réseau auront réussi à imposer aux industriels ce qu’aucun état n’avait réussi à faire et les voitures auto-produiront leur performance environnementale. **
+**Les villes monde sont devenues influentes.****D’ici deux ans, les villes monde en réseau auront réussi à imposer aux industriels ce qu’aucun état n’avait réussi à faire et les voitures auto-produiront leur performance environnementale.**
 
-**Il n’y aura plus besoin de norme. **
+**Il n’y aura plus besoin de norme.**
 
 **Il aura fallu 40 ans.**

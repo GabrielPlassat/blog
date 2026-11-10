@@ -35,7 +35,7 @@ Created in 1999, the Renault-Nissan Alliance is a unique partnership between two
 
  
 
-**$5.4 Billion Commitment to Sustainable Mobility **
+**$5.4 Billion Commitment to Sustainable Mobility**
 
  
 

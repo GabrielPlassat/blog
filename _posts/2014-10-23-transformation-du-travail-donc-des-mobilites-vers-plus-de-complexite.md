@@ -31,7 +31,7 @@ D’un autre côté, des personnes isolées travaillent pour le compte de robots
 
  
 
-**En même temps, de nouvelles pratiques collectives se déploient. Elles modifient simultanément l'intelligence collective, les connaissances, les processus et donc notre façon de travailler ensemble. Les mobilités quotidiennes en seront profondément bouleversées, moins prévisibles, potentiellement plus locales, forcément plus complexes. Qui est prêt à augmenter la complexité ? **
+**En même temps, de nouvelles pratiques collectives se déploient. Elles modifient simultanément l'intelligence collective, les connaissances, les processus et donc notre façon de travailler ensemble. Les mobilités quotidiennes en seront profondément bouleversées, moins prévisibles, potentiellement plus locales, forcément plus complexes. Qui est prêt à augmenter la complexité ?**
 
  
 

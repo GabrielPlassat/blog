@@ -25,7 +25,7 @@ Est-ce possible à court terme ? Qui proposera ces solutions ? Quelles seront 
 
  
 
-Les besoins du marché existent, ils impliquent des acteurs très importants, donc potentiellement des budgets à la hauteur. “*Tracking carbon emissions may only be the first step, though. In the more distant future, logistics service providers will need to document all types of emissions, such as noise and nitrogen oxide, in order to measure the full environmental impact of their activities over the long term*.” [**[Transportation & Logistic 2030](http://www.pwc.com/gx/en/forms/tl2030.jhtml)****, **PWC]. 
+Les besoins du marché existent, ils impliquent des acteurs très importants, donc potentiellement des budgets à la hauteur. “*Tracking carbon emissions may only be the first step, though. In the more distant future, logistics service providers will need to document all types of emissions, such as noise and nitrogen oxide, in order to measure the full environmental impact of their activities over the long term*.” [**[Transportation & Logistic 2030](http://www.pwc.com/gx/en/forms/tl2030.jhtml)****,** PWC]. 
 
  
 

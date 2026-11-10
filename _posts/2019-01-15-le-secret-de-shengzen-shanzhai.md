@@ -37,4 +37,4 @@ La version optimiste : il existe un autre modèle que la silicon valley pour pr
 
 **Avec la FabMob, nous sommes en contact avec David Li et nous envisageons d’aller à Shenzhen pour découvrir la méthode Shanzhai. [Qui est intéressé ?](mailto:transportsdufutur@gmail.com)**
 
-** **
+ 

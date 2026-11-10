@@ -124,7 +124,7 @@ Pour en savoir plus sur les études de cas ayant expérimenté des succès, des 
 
  D'autres exemples de mesures de tarification peuvent être trouvées sur le [site Internet de CIVITAS](http://www.civitas-initiative.eu/measure_fields.phtml?lan=en&id=3), comme les stratégies intégrées de tarification sont l'un des champs étudiés par CIVITAS-initiative. 
 
-**Les liens suivants fournissent de plus amples informations sur la tarification en général : **
+**Les liens suivants fournissent de plus amples informations sur la tarification en général :**
  
  
 - [*L'encyclopédie en ligne de l'institut VTPI sur le management de la demande en transport*](http://www.vtpi.org/tdm/) contient plusieurs chapitres sur les aides à l'utilisation des modes alternatifs et à la diminution de la conduite, incluant les mesures telles que les taxes et le prix de l'essence. Un article de 2010 intitulé [« Socially Optimal Transport Prices and Markets »]({{ site.baseurl }}/assets/images/2010/11/sotpm.pdf) réfléchit sur la quantité et le type de mobilité qui serait optimale pour l'ensemble de la société. Il identifie les distorsions actuelles du marché des transports et ses réformes, estime comment de telles réformes affecteraient la mobilité, et anticipe les effets économiques. 
@@ -139,7 +139,7 @@ Pour en savoir plus sur les études de cas ayant expérimenté des succès, des 
 - [*« Fixer le juste prix » *]({{ site.baseurl }}/assets/images/2010/11/20040617_110400_88575_pricing.pdf)(2001) présente les résultats du [programme de recherche sur les transports]({{ site.baseurl }}/assets/images/2010/11/20040616_111350_67889_mobil.pdf) du 4ème PCRD. 
  
 
-**Les liens suivants fournissent plus d'information sur la tarification des infrastructures et de congestion : ** 
+**Les liens suivants fournissent plus d'information sur la tarification des infrastructures et de congestion :** 
  
 - Le site [PORTAL](http://www.eu-portal.net/material/material2.phtml?sprache=en&kt=kt6) sur les savoirs de base de la tarification (multilingue) cible plus particulièrement la tarification liée à l'usage des infrastructures. 
 - Le projet européen [DIFFERENT](http://www.different-project.eu/) (achevé en 2008) s'intéresse à la différenciation des péages entre les types d'usagers, les types de véhicules, selon la période et le lieu... et fait état des réactions des usagers à une tarification différenciée. 

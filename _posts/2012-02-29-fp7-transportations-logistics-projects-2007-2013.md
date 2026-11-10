@@ -15,11 +15,11 @@ Tous les projets en cours dans le domaine des transports de personnes et de marc
 
  
 
-**Quatre projets par exemple : **
+**Quatre projets par exemple :**
 
  
 
-[**PICAV **](http://www.dimec.unige.it/PMAR/picav/objectives.shtml): Personnal Intelligent City Accessible Vehicle System.
+[**PICAV** ](http://www.dimec.unige.it/PMAR/picav/objectives.shtml): Personnal Intelligent City Accessible Vehicle System.
 
  
  
@@ -32,7 +32,7 @@ PICAV system usefully integrates the existing public transport system to make it
 
  
 
-[**VIAJEO **](http://www.viajeo.eu/): The Viajeo project will design, demonstrate and validate an open platform which will facilitate data sharing and exchange from different sources and provide data processing and management to support a variety of services. The project will integrate the open platform with local components and demonstrate its applications in four cities: Athens, São Paulo, Beijing and Shanghai.
+[**VIAJEO** ](http://www.viajeo.eu/): The Viajeo project will design, demonstrate and validate an open platform which will facilitate data sharing and exchange from different sources and provide data processing and management to support a variety of services. The project will integrate the open platform with local components and demonstrate its applications in four cities: Athens, São Paulo, Beijing and Shanghai.
 
  
 
@@ -40,10 +40,10 @@ The open platform will benefit travellers, transport planners and transport syst
 
  
 
-[**TURBLOG_WW :**](http://www.turblog.eu/) The project puts together past urban **logistics **experiences and good practices, analyses them, extracts lessons learned, and disseminates the information at national, European and intercontinental levels, which supports ongoing and future related urban logistics plans. TURBLOG_WW aims at improving awareness, enhance cooperation and exchange of experiences in city logistics best practices between European countries and countries worldwide but with a **focus on the transfer of experiences between the EU, ****Brazil and ****Peru**.
+[**TURBLOG_WW :**](http://www.turblog.eu/) The project puts together past urban **logistics** experiences and good practices, analyses them, extracts lessons learned, and disseminates the information at national, European and intercontinental levels, which supports ongoing and future related urban logistics plans. TURBLOG_WW aims at improving awareness, enhance cooperation and exchange of experiences in city logistics best practices between European countries and countries worldwide but with a **focus on the transfer of experiences between the EU,****Brazil and****Peru**.
 
  
 
-[**INTEGRITY **](http://www.integrity-supplychain.eu/): Kernel of the project is the development of the so-called Shared Intermodal Container Information System (SICIS) allowing authorised companies and authorities to access planning and status information of selected transports. Proactive planning following the Supply Chain Event Management (SCEM) approach allows to forecast problems well before they might occur. Matching logistics data with security information, e.g. from electronic seals, container security devices, and scanning equipment together with the integration of the AEO (authorised economic operator) approach allow to satisfy both the logistics industry and Customs Authorities fulfilling their duties thus creating win-win situations.
+[**INTEGRITY** ](http://www.integrity-supplychain.eu/): Kernel of the project is the development of the so-called Shared Intermodal Container Information System (SICIS) allowing authorised companies and authorities to access planning and status information of selected transports. Proactive planning following the Supply Chain Event Management (SCEM) approach allows to forecast problems well before they might occur. Matching logistics data with security information, e.g. from electronic seals, container security devices, and scanning equipment together with the integration of the AEO (authorised economic operator) approach allow to satisfy both the logistics industry and Customs Authorities fulfilling their duties thus creating win-win situations.
 
  [Fp7 projects transports](http://www.slideshare.net/transportsdufutur/fp7-projects-transports) View more [documents](http://www.slideshare.net/) from [Les transports du futur](http://www.slideshare.net/transportsdufutur).

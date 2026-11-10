@@ -23,7 +23,7 @@ But while current battery technology might not meet everyone’s needs, it may s
 
  
 
-Using data from the American Community Survey, a U.S. Census Bureau database, we looked at commuting habits for the 25 largest U.S. metro areas for the population within 50 miles of the city center, based on data collected in 2009. We ranked cities in equal parts by **how many commuters lived within a 50-mile radius of the city center and what percentage of commuters drive to work already — as those are the cities with infrastructure currently set up to handle car commuters. **
+Using data from the American Community Survey, a U.S. Census Bureau database, we looked at commuting habits for the 25 largest U.S. metro areas for the population within 50 miles of the city center, based on data collected in 2009. We ranked cities in equal parts by **how many commuters lived within a 50-mile radius of the city center and what percentage of commuters drive to work already — as those are the cities with infrastructure currently set up to handle car commuters.**
 
  
 

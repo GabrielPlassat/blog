@@ -19,7 +19,7 @@ Pourquoi le Brésil ? il faut retenir cette **[citation de A.Gorz](http://www.fr
 
  
 
-La conférence **LIFT **Marseille de cet été a hebergé une présentation réalisée par **Gabriel Borges** sur la Fiat Mio :
+La conférence **LIFT** Marseille de cet été a hebergé une présentation réalisée par **Gabriel Borges** sur la Fiat Mio :
 
  
 
@@ -37,11 +37,11 @@ Ce premier niveau d'ouverture est sans doute un préalable (même si il ne chang
 
  
 
-Pour le moment FIAT reste précurseur dans le domaine pour le cas des constructeurs "classiques", même si certains projets comme **c'mm'n **(pour Common) expérimente cette conception totalement ouverte et partagée. Mais  il sera très difficile pour les constructeurs de remettre en question et de laisser à d'autres (les utilisateurs) la capacité de dimensionner les principaux organes générateurs de plus-values financières, et également de permettre aux usagers de changer simplement ces mêmes organes comme on change un disque dur ou un clavier.
+Pour le moment FIAT reste précurseur dans le domaine pour le cas des constructeurs "classiques", même si certains projets comme **c'mm'n** (pour Common) expérimente cette conception totalement ouverte et partagée. Mais  il sera très difficile pour les constructeurs de remettre en question et de laisser à d'autres (les utilisateurs) la capacité de dimensionner les principaux organes générateurs de plus-values financières, et également de permettre aux usagers de changer simplement ces mêmes organes comme on change un disque dur ou un clavier.
 
  
 
-Et pourtant le web a inversé les rôles. En reprenant **Emakina **"*A l'ère du 2.0, le consommateur-acteur a pris le pouvoir et les messages émis par les marques ne contribuent qu'à 20% des interactions, des échanges, des blogs et autres conversations sur les réseaux sociaux qui gravitent autour d'elles. **Générateur et amplificateur d'un bouche-à-oreille planétaire, l'Internet n'est plus un espace à part.** Il est au centre de la vie réelle et il devient la première source d'information des consommateurs.*
+Et pourtant le web a inversé les rôles. En reprenant **Emakina** "*A l'ère du 2.0, le consommateur-acteur a pris le pouvoir et les messages émis par les marques ne contribuent qu'à 20% des interactions, des échanges, des blogs et autres conversations sur les réseaux sociaux qui gravitent autour d'elles. **Générateur et amplificateur d'un bouche-à-oreille planétaire, l'Internet n'est plus un espace à part.** Il est au centre de la vie réelle et il devient la première source d'information des consommateurs.*
 
  
 

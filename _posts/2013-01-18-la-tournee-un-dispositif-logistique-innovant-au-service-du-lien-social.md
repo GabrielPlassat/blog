@@ -17,7 +17,7 @@ S'inspirer des dabbawallah pour concevoir, expérimenter et industrialiser un se
 
 Il s'agit de collecter et livrer à pied en utilisant des chariots, quelques outils numériques, et une excellente organisation. Ce dispositif crée un nouveau lien social et affiche une résilience très élevée à tous les chocs à venir. Tôt ou tard vous y viendrez, autant commencer maintenant !
 
- ** [La Tournée](http://fr.slideshare.net/transportsdufutur/la-tourne) ** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)** ** ** ** ** V**idéo du dispositif (c'est quoi exactement ?) :** 
+ **[La Tournée](http://fr.slideshare.net/transportsdufutur/la-tourne)** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)**     V**idéo du dispositif (c'est quoi exactement ?) :** 
 
  
 

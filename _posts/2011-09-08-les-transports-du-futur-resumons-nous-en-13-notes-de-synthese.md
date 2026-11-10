@@ -18,16 +18,16 @@ Ces MétaNotes synthétisent les idées, propositions, tendances de plusieurs no
 - MétaNote TdF 0 : **[l'origine]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)** 
 - MétaNote TdF 1 : **[les objectifs]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)** 
 - MétaNote TdF 2 : **[le marché]({{ site.baseurl }}/2010/03/metanote-tdf-2-le-marche-des-mobilites-20/)** 
-- MétaNote TdF 3 : **[la surveillance]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/) ** 
-- MétaNote TdF 4 :** [les énergies]({{ site.baseurl }}/2010/03/les-energies/)** 
+- MétaNote TdF 3 : **[la surveillance]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)** 
+- MétaNote TdF 4 : **[les énergies]({{ site.baseurl }}/2010/03/les-energies/)** 
 - MétaNote TdF 5 : [**les entreprises**]({{ site.baseurl }}/2010/04/metanote-tdf-5-les-entreprises/) 
 - MétaNote TdF 6 : **[la plate forme pour réaliser un système de mobilité]({{ site.baseurl }}/2010/06/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20/)** 
 - MétaNote TdF 7 : **[la donnée]({{ site.baseurl }}/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives/)** 
-- MétaNote TdF 8 :** [les ports, le fret et le transport des marchandises]({{ site.baseurl }}/2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises/)** 
-- MétaNote TdF 9 :** [les risques des mobilités 2.0]({{ site.baseurl }}/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous/)** 
-- MétaNote TdF 10 :** [le téléphone ou assistant personnel de mobilité]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)** 
+- MétaNote TdF 8 : **[les ports, le fret et le transport des marchandises]({{ site.baseurl }}/2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises/)** 
+- MétaNote TdF 9 : **[les risques des mobilités 2.0]({{ site.baseurl }}/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous/)** 
+- MétaNote TdF 10 : **[le téléphone ou assistant personnel de mobilité]({{ site.baseurl }}/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite/)** 
 - MétaNote TdF 11 : **[Transports & Mobilités, Introduction à la pensée complexe]({{ site.baseurl }}/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe/)** 
-- MétaNote TdF 12 :** [L'avenir du vélo]({{ site.baseurl }}/2011/05/metanote-tdf-12-lavenir-du-velo/)** 
+- MétaNote TdF 12 : **[L'avenir du vélo]({{ site.baseurl }}/2011/05/metanote-tdf-12-lavenir-du-velo/)** 
  
 
 Les images ci dessous sont issues du site **[d'Edward Burtynsky - Oil](http://www.edwardburtynsky.com/)** : 

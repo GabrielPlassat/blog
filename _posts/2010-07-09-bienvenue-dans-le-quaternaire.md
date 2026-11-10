@@ -35,7 +35,7 @@ Le « roi du jetable » serait donc le parfait candidat à l’économie de fonc
 
  
 
-** **
+ 
 
  
 
@@ -66,7 +66,7 @@ Le modèle Cradle to Cradle (du berceau au berceau) adresse ces problématiques 
 
  
 
-**** 
+
 
  
 
@@ -122,7 +122,7 @@ La division Michelin Fleet Solutions commercialise des prestations de chaussage 
 
  
 
-**Bienvenue dans l’ère du quaternaire ! **
+**Bienvenue dans l’ère du quaternaire !**
 
  
 

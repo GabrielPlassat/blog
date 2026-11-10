@@ -15,7 +15,7 @@ Ce qui n'a de prix n'a pas de valeur, Si c'est gratuit ça ne coûte rien, ... C
 
  
 
-** **
+ 
 
  
 
@@ -67,7 +67,7 @@ Après l’analyse sociologique, une étude sur l’impact écologique devrait s
 
  
 
-** **
+ 
 
  
 

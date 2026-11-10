@@ -83,4 +83,4 @@ Les territoires sont donc devenus incontournables dans l’expérimentation de s
 
  
 
-**Pour aller plus loin, le rapport du Conseil d'Analyse Economique déjà identifié dans un précédent article (voir [ICI]({{ site.baseurl }}/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies/))  détaille de nombreux points sur le rôle clé des territoires. **
+**Pour aller plus loin, le rapport du Conseil d'Analyse Economique déjà identifié dans un précédent article (voir [ICI]({{ site.baseurl }}/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies/))  détaille de nombreux points sur le rôle clé des territoires.**

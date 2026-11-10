@@ -45,4 +45,4 @@ Un autre cabinet de conseil Frost & Sullivan confirme cette tendance avec son de
 
  
 
- ** New Mega Trends and the Future of Mobility ** from **Frost & Sullivan **
+ **New Mega Trends and the Future of Mobility** from **Frost & Sullivan**

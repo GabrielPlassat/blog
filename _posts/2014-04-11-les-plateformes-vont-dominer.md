@@ -27,4 +27,4 @@ La présentation ci-dessous illustre cette tendance et la complète :
 
  
 
- ** TEDxESADE - 2014 - Platforms are eating the world - Albert Cañigueral ** from **Consumo Colaborativo**   **Suivre @sanguit et http://platformed.info/**
+ **TEDxESADE - 2014 - Platforms are eating the world - Albert Cañigueral** from **Consumo Colaborativo**   **Suivre @sanguit et http://platformed.info/**

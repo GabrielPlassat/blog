@@ -27,8 +27,7 @@ Autrefois inconnues, non valorisées, quasiment inutiles pour le consommateur, l
 
  
 
-** 
-**
+ 
 
  
 
@@ -60,4 +59,4 @@ Et quand, sont déjà "entrés" dans l'automobile, les géants du numérique, co
 
  
 
-**La connaissance, la production et la diffusion des émissions réelles (polluants et CO2) ne sont plus des options. Si les constructeurs ne s'y engagent pas, d'autres entrepreneurs le feront. Ils posséderont alors les données stratégiques, déterminantes pour les consommateurs. D'ici moins de 5 ans, des véhicules produieront eux-mêmes leurs émissions en temps réel. Cette transparence, quelque soit la valeur des émissions, leur donnera également une priorité d'accès et des avantages. **
+**La connaissance, la production et la diffusion des émissions réelles (polluants et CO2) ne sont plus des options. Si les constructeurs ne s'y engagent pas, d'autres entrepreneurs le feront. Ils posséderont alors les données stratégiques, déterminantes pour les consommateurs. D'ici moins de 5 ans, des véhicules produieront eux-mêmes leurs émissions en temps réel. Cette transparence, quelque soit la valeur des émissions, leur donnera également une priorité d'accès et des avantages.**

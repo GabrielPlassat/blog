@@ -11,7 +11,7 @@ redirect_from:
   - /2010/07/20/delhi-traffic-police-sur-facebook-et-twitter/
 ---
 
-Depuis plusieurs mois, la **[police de Delhi](http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.delhitrafficpolice.nic.in%2F&h=6f929)** responsable du trafic est présente sur **[facebook](http://www.facebook.com/pages/New-Delhi-India/Delhi-Traffic-Police/117817371573308?v=info&ref=ts#!/pages/New-Delhi-India/Delhi-Traffic-Police/117817371573308?v=wall&ref=ts&__a=4&ajaxpipe=1)** (14 000 personnes) et sur [**twitter**](http://twitter.com/dtptraffic)** **(1200 abonnés). Annonçant : Managing traffic in Delhi during the Commonwealth Games will be a big challange as well as a great opportunity. Delhi Traffic Police cannot possibly succeed without the active cooperation, participation and support of all the citizens."
+Depuis plusieurs mois, la **[police de Delhi](http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.delhitrafficpolice.nic.in%2F&h=6f929)** responsable du trafic est présente sur **[facebook](http://www.facebook.com/pages/New-Delhi-India/Delhi-Traffic-Police/117817371573308?v=info&ref=ts#!/pages/New-Delhi-India/Delhi-Traffic-Police/117817371573308?v=wall&ref=ts&__a=4&ajaxpipe=1)** (14 000 personnes) et sur [**twitter**](http://twitter.com/dtptraffic) (1200 abonnés). Annonçant : Managing traffic in Delhi during the Commonwealth Games will be a big challange as well as a great opportunity. Delhi Traffic Police cannot possibly succeed without the active cooperation, participation and support of all the citizens."
 
  
 

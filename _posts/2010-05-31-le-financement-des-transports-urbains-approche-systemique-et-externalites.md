@@ -23,15 +23,15 @@ Deux valeurs de prix montrent le chemin à parcourir:
 
    **Il est donc souhaitable, pour le financement des transports, d'inclure également les acteurs des modes actifs, de la santé, et des assurances.** 
 
-**Six villes ont été étudiées plus précisément dans le cadre de l'étude sur le financement des transports urbains. **Chacune d’elles fonctionne selon un schéma de financement qui lui est propre et qui est lié à son histoire politique et institutionnelle et au jeu des acteurs. Cependant on constate que le schéma sous-jacent est commun mais avec des dosages spécifiques à chaque ville. Plus ou moins de financement public, de participation des usagers ou des bénéficiaires indirects. Mais finalement le système fonctionne avec un jeu d’acteurs qui va impliquer une sollicitation plus ou moins forte des ressources publiques en fonction de la mobilisation des autres contributeurs.
+**Six villes ont été étudiées plus précisément dans le cadre de l'étude sur le financement des transports urbains.** Chacune d’elles fonctionne selon un schéma de financement qui lui est propre et qui est lié à son histoire politique et institutionnelle et au jeu des acteurs. Cependant on constate que le schéma sous-jacent est commun mais avec des dosages spécifiques à chaque ville. Plus ou moins de financement public, de participation des usagers ou des bénéficiaires indirects. Mais finalement le système fonctionne avec un jeu d’acteurs qui va impliquer une sollicitation plus ou moins forte des ressources publiques en fonction de la mobilisation des autres contributeurs.
 
  
 
-**Chaque ville **a donc intérêt à regarder dans quelle mesure les différentes filières de financement peuvent être utilisées, celles qui sont mobilisables rapidement car elles relèvent de la seule réglementation, celles qui nécessitent des préalables juridiques ou politiques plus longs à mettre en oeuvre : obligation de recourir à la loi, nécessité de disposer d’une autorité organisatrice des transports, acceptabilité sociale...
+**Chaque ville** a donc intérêt à regarder dans quelle mesure les différentes filières de financement peuvent être utilisées, celles qui sont mobilisables rapidement car elles relèvent de la seule réglementation, celles qui nécessitent des préalables juridiques ou politiques plus longs à mettre en oeuvre : obligation de recourir à la loi, nécessité de disposer d’une autorité organisatrice des transports, acceptabilité sociale...
 
  
 
-**L’équilibre à trouver entre les différents acteurs **va dépendre de l’histoire institutionnelle, culturelle et sociale de chaque pays et de chaque ville mais cet équilibre n’est jamais stable et peut évoluer en fonction de circonstances extérieures à la ville même : décision gouvernementale de reverser les recettes des amendes de stationnement aux villes par exemple ou vote d’une loi permettant l’implantation de péages urbains. Dans ce dernier cas toutes les villes ne le mettront pas en place mais c’est une nouvelle opportunité de recettes qui leur est offerte.
+**L’équilibre à trouver entre les différents acteurs** va dépendre de l’histoire institutionnelle, culturelle et sociale de chaque pays et de chaque ville mais cet équilibre n’est jamais stable et peut évoluer en fonction de circonstances extérieures à la ville même : décision gouvernementale de reverser les recettes des amendes de stationnement aux villes par exemple ou vote d’une loi permettant l’implantation de péages urbains. Dans ce dernier cas toutes les villes ne le mettront pas en place mais c’est une nouvelle opportunité de recettes qui leur est offerte.
 
  
 
@@ -44,7 +44,7 @@ Deux valeurs de prix montrent le chemin à parcourir:
 
  
 
-**L’ensemble des filières potentielles **doit être envisagé sans a priori et dans une double approche à court et à moyen-long terme :
+**L’ensemble des filières potentielles** doit être envisagé sans a priori et dans une double approche à court et à moyen-long terme :
 
  
 
@@ -68,7 +68,7 @@ réduction des coûts et d’optimisation des recettes. La fiabilité et la pér
 
  
 
-**Mettre en oeuvre ces nouvelles filières de financement **va donc nécessiter des réformes institutionnelles parfois importantes :
+**Mettre en oeuvre ces nouvelles filières de financement** va donc nécessiter des réformes institutionnelles parfois importantes :
 
  
 

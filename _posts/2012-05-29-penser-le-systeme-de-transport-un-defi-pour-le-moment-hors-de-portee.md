@@ -27,7 +27,7 @@ Comment réduire d’un facteur 4 les émissions de GES d’un secteur concentr�
 
  
 
-Comment identifier, protéger les ménages, les entreprises et les territoires les plus dépendantes de ces modes routiers individuels pour les guider vers d’autres organisations, d’autres mobilités, leur permettant ainsi d’affronter au mieux les chocs à venir (voir cet [**exemple **]({{ site.baseurl }}/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les/)venu des USA) ?
+Comment identifier, protéger les ménages, les entreprises et les territoires les plus dépendantes de ces modes routiers individuels pour les guider vers d’autres organisations, d’autres mobilités, leur permettant ainsi d’affronter au mieux les chocs à venir (voir cet [**exemple** ]({{ site.baseurl }}/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les/)venu des USA) ?
 
  
 

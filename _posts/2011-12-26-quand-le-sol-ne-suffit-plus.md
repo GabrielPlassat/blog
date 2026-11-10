@@ -31,6 +31,6 @@ Un autre échappatoire technologique devient possible: rajouter un degré de lib
 
  
 
-Dans ces villes où, comme l'indique [**F.Bellanger**](http://transit-city.blogspot.com/2011/12/dacca-light-mobility.html), ni la voiture, ni les transports en commun ne pourront se développer, mais tous les modes hybrides bricolés sur la base du rickshaw et du "commun", quelles conditions faut-il rassembler pour que de cette opportunité technologique naisse un réel progrès pour tous les habitants ? Quels enseignements majeurs pouvont tirer pour nos territoires de l'utilisation massif des modes de transports efficaces de l'Inde et de la [**Chine **](http://transit-city.blogspot.com/2011/12/beijing-big-return-of-bike-2.html)?
+Dans ces villes où, comme l'indique [**F.Bellanger**](http://transit-city.blogspot.com/2011/12/dacca-light-mobility.html), ni la voiture, ni les transports en commun ne pourront se développer, mais tous les modes hybrides bricolés sur la base du rickshaw et du "commun", quelles conditions faut-il rassembler pour que de cette opportunité technologique naisse un réel progrès pour tous les habitants ? Quels enseignements majeurs pouvont tirer pour nos territoires de l'utilisation massif des modes de transports efficaces de l'Inde et de la [**Chine** ](http://transit-city.blogspot.com/2011/12/beijing-big-return-of-bike-2.html)?
 
 "

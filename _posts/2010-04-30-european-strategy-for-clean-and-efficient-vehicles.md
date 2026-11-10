@@ -93,12 +93,12 @@ on the methods for the collection of excess emissions premiums.
  
 - 
 
-Marketing of 'green additionality' of vehicles: **develop rules to avoid misleading environmental claims. **
+Marketing of 'green additionality' of vehicles: **develop rules to avoid misleading environmental claims.**
 
  
 - 
 
-Fuel consumption: A proposal will be presented by 2011 to **reduce fuel consumption impacts of mobile air conditioning systems. **
+Fuel consumption: A proposal will be presented by 2011 to **reduce fuel consumption impacts of mobile air conditioning systems.**
 
  
 - 

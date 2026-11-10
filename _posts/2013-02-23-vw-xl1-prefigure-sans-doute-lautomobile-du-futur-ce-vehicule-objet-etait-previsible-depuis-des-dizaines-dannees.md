@@ -79,7 +79,7 @@ Aujourd'hui, les constructeurs automobiles restent de développeurs d'applicatio
 
 Datact, initié par le Groupe Chronos, a identifié également quelques pistes pour intégrer les usagers, les « rémunérer », leur donner confiance. 
 
- ** [Datact2 pitch](http://www.slideshare.net/transportsdufutur/datact2-pitch) ** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)** 
+ **[Datact2 pitch](http://www.slideshare.net/transportsdufutur/datact2-pitch)** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)** 
  
 
 Dans l'âge de la multitude : « Dans ce monde-là, la seule stratégie qui vaille, c'est celle de l'ouverture. C'est reconnaître que la productivité sociale est parfois devenue plus puissante que la productivité organique interne aux entreprises. C'est mesurer vraiment si la circulation des savoirs n'est pas plus profitable à tous que leur sauvegarde sous forme de droits de propriété renforcés. C'est ne pas être naïf vis à vis des enjeux de marques, qui expriment souvent beaucoup moins une identité patrimoniale qu'une cristallisation de virtualités d'action et de puissance ».
@@ -98,7 +98,7 @@ Dans l'âge de la multitude : « Dans ce monde-là, la seule stratégie qui vai
 
  
 
-Un précédent article décrivait[** les contours d'un équipage formé pour explorer**]({{ site.baseurl }}/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires/) ces nouveaux modes de création, pour mieux se préparer au changement. Ceci n'est pas une option tant [**le gouffre entre les industries automobiles et numériques s’agrandit**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/). La plateforme sera probablement mise en œuvre par une start-up issu du numérique, se basant sur une première application (service de mobilité) puis agrégeant déjà plusieurs services de mobilité. Elle utilisera des développements agiles basés sur des individus et leurs interactions (et non sur des procédures), des logiciels opérationnels, des modes collaboratifs avec les clients, et l'itération continue. En construisant la plateforme des mobilités, elle se placera « au-dessus » des « véhicules objets » pour proposer des suites servicielles conçues au plus près des clients. Cette plateforme aspirera toutes les innovations : d'abord celles liées aux services de mobilité, à toutes les formes d'exploitations de « véhicules serviciels », puis celles liées aux « véhicules objets » pour mieux les intégrer dans des services. [**Google Mobility Service** ]({{ site.baseurl }}/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre/)pourrait également être cette plateforme.
+Un précédent article décrivait[ **les contours d'un équipage formé pour explorer**]({{ site.baseurl }}/2013/02/quel-equipage-explore-aujourdhui-votre-avenir-vos-prochains-modeles-daffaires/) ces nouveaux modes de création, pour mieux se préparer au changement. Ceci n'est pas une option tant [**le gouffre entre les industries automobiles et numériques s’agrandit**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/). La plateforme sera probablement mise en œuvre par une start-up issu du numérique, se basant sur une première application (service de mobilité) puis agrégeant déjà plusieurs services de mobilité. Elle utilisera des développements agiles basés sur des individus et leurs interactions (et non sur des procédures), des logiciels opérationnels, des modes collaboratifs avec les clients, et l'itération continue. En construisant la plateforme des mobilités, elle se placera « au-dessus » des « véhicules objets » pour proposer des suites servicielles conçues au plus près des clients. Cette plateforme aspirera toutes les innovations : d'abord celles liées aux services de mobilité, à toutes les formes d'exploitations de « véhicules serviciels », puis celles liées aux « véhicules objets » pour mieux les intégrer dans des services. [**Google Mobility Service** ]({{ site.baseurl }}/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre/)pourrait également être cette plateforme.
 
  
 
@@ -118,7 +118,7 @@ Revenons alors à la monnaie Amazon Coin. Ceci peut sembler étrange, inutile ou
 
  
 
-**Séduire encore plus les développeurs d'applications pour construire LA plateforme qui, à son tour, attirera les développeurs. La plateforme permet l'industrialisation d'une multitude d'applications, elle les héberge et les nourrit. Pour cela, elle doit être séduisante, donner envie de travailler dessus. Alors des applications seront créées sur-mesure", au plus près des utilisateurs, et pour certaines avec ou par les utilisateurs. Application et plateforme se renforceront mutuellement. ** 
+**Séduire encore plus les développeurs d'applications pour construire LA plateforme qui, à son tour, attirera les développeurs. La plateforme permet l'industrialisation d'une multitude d'applications, elle les héberge et les nourrit. Pour cela, elle doit être séduisante, donner envie de travailler dessus. Alors des applications seront créées sur-mesure", au plus près des utilisateurs, et pour certaines avec ou par les utilisateurs. Application et plateforme se renforceront mutuellement.** 
 
  
 
@@ -126,8 +126,8 @@ Revenons alors à la monnaie Amazon Coin. Ceci peut sembler étrange, inutile ou
 
  
 
-**Il existe très peu de plateformes mondiales. ** 
+**Il existe très peu de plateformes mondiales.** 
 
  
 
-**Il est encore temps de créer celle dédiée aux mobilités. **
+**Il est encore temps de créer celle dédiée aux mobilités.**

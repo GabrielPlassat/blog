@@ -11,4 +11,4 @@ redirect_from:
   - /2013/10/17/resilience-et-evenements-from-les-transports-du-futur/
 ---
 
-** [Résilience et evenements3](https://fr.slideshare.net/transportsdufutur/rsilience-et-evenements3) ** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**
+**[Résilience et evenements3](https://fr.slideshare.net/transportsdufutur/rsilience-et-evenements3)** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**

@@ -21,7 +21,7 @@ Suite à l[**'article présentant l'Opération France Direct**]({{ site.baseurl 
 
  
 
-**financement complet (200****€****) **
+**financement complet (200****€****)**
 financement apporté par les citoyens à hauteur de 100%
 
  
@@ -30,7 +30,7 @@ financement apporté par les citoyens à hauteur de 100%
 
  
 
-**financement complet (200****€****) **
+**financement complet (200****€****)**
 financement apporté par les citoyens à hauteur de 100%
 
  
@@ -39,7 +39,7 @@ financement apporté par les citoyens à hauteur de 100%
 
  
 
-**financement partiel (5****€****) **
+**financement partiel (5****€****)**
 financement apporté par les citoyens à hauteur de 100%
 
  

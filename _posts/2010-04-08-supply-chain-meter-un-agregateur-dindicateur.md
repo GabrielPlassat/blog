@@ -198,7 +198,7 @@ Les principes de **l'efficience industrielle et logistique** font appel aux éco
 
  
 
-On représente l’efficience logistique par un **bras de levier **démultipliant l’effort fourni pour l’obtention d’un **résultat optimal**.
+On représente l’efficience logistique par un **bras de levier** démultipliant l’effort fourni pour l’obtention d’un **résultat optimal**.
 
  
 
@@ -210,7 +210,7 @@ On représente l’efficience logistique par un **bras de levier **démultiplian
 
  
 
-Une entreprise réactive est dotée de moyens flexibles qui, s'ils sont assez légers, lui permettent d'être agile. La **réactivité **est la capacité d’adapter rapidement les volumes de production et la variété des produits aux **fluctuations de la demande**, ainsi que d‘accélérer la mise sur le marché d’un nouveau produit. 
+Une entreprise réactive est dotée de moyens flexibles qui, s'ils sont assez légers, lui permettent d'être agile. La **réactivité** est la capacité d’adapter rapidement les volumes de production et la variété des produits aux **fluctuations de la demande**, ainsi que d‘accélérer la mise sur le marché d’un nouveau produit. 
 
  
 

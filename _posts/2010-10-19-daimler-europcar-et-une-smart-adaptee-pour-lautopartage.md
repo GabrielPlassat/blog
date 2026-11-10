@@ -25,11 +25,11 @@ Following pilot launches of car2go in Ulm (Baden-Württemberg, Germany) and Aust
 
  
 
-**Les véhicules Smart ont été revus et adaptés pour un usage d'autopartage. Il s'agit d'une première version sachant que la prochaine génération pourrait être développée à partir de la feuille blanche (ou presque). Quelles seraient les caractéristiques strictement nécessaires à un véhicule en autopartage (performance et surtout TCO - total cost of ownership - minimal !!) ? **
+**Les véhicules Smart ont été revus et adaptés pour un usage d'autopartage. Il s'agit d'une première version sachant que la prochaine génération pourrait être développée à partir de la feuille blanche (ou presque). Quelles seraient les caractéristiques strictement nécessaires à un véhicule en autopartage (performance et surtout TCO - total cost of ownership - minimal !!) ?**
 
  
 
-**C'est bizarre mais dans un système (comme car2go) où le gestionnaire et le constructeur ont intérêt à réduire la consommation EN USAGE REEL (et non uniquement sur cycle homologué), on trouve des solutions ... **
+**C'est bizarre mais dans un système (comme car2go) où le gestionnaire et le constructeur ont intérêt à réduire la consommation EN USAGE REEL (et non uniquement sur cycle homologué), on trouve des solutions ...**
 
  
 

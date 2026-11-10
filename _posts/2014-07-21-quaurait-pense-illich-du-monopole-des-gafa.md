@@ -38,12 +38,11 @@ Illich voit dans le système de transport motorisé quel qu'il soit une forme de
 - Monopole futur global des flottes de cybercar : la description futuriste d'Illich peut se matérialiser dans les flottes de cybercar. A la fois solutions publiques et privées, individuelles et collectives, les cybercars opérés en flotte, en cohorte de robot, pourront délivrer des services de mobilités "optimisés", rendant inutiles et peu performantes toutes mobilités non robotisées, simples et autogérées. Lire sur ce sujet la [**MétaNote N°20, la Chimère**]({{ site.baseurl }}/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere/). 
  
 
-Faisant système, le numérique rassemble ces différentes formes de monopole dans un **nouveau monopole radical** **inédit** répondant parfaitement à la définition d'Illich : "*modifier, contrôler et à terme contraindre des populations à modifier radicalement leurs habitudes quotidiennes notamment en restreignant leurs choix et leurs libertés*". **Par contre, autrefois séparées et cloisonnées, les industries impliquées disposent maintenant d'une technologie permettant un monopole à la fois radical et global opérant sur le citoyen des contraintes et des habitudes dans tous les domaines, aux interstices et aux croisements entre les domaines. **
+Faisant système, le numérique rassemble ces différentes formes de monopole dans un **nouveau monopole radical** **inédit** répondant parfaitement à la définition d'Illich : "*modifier, contrôler et à terme contraindre des populations à modifier radicalement leurs habitudes quotidiennes notamment en restreignant leurs choix et leurs libertés*". **Par contre, autrefois séparées et cloisonnées, les industries impliquées disposent maintenant d'une technologie permettant un monopole à la fois radical et global opérant sur le citoyen des contraintes et des habitudes dans tous les domaines, aux interstices et aux croisements entre les domaines.**
 
  
 
-** 
-**
+ 
 
  
 

@@ -19,12 +19,11 @@ Autant de questions qui trouveront peut-être des réponses lors de l’évènem
 
  
 
-**Le péril vieux, ****La ruée vers l’Est, ****L’hyper connexion,Les Technologies GRIN (**Génétique, Robotique, Internet et Nanotechnologie), **Le développement forcément durable**
+**Le péril vieux,****La ruée vers l’Est,****L’hyper connexion,Les Technologies GRIN (**Génétique, Robotique, Internet et Nanotechnologie), **Le développement forcément durable**
 
  
 
-**
-**
+ 
 
  
 

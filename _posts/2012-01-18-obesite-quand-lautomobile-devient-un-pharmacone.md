@@ -15,7 +15,7 @@ Le choix du mode de transport, ou l'absence possible de choix, impacte notamment
 
  
 
-Ce sujet du lien santé/mobilité a déjà été abordé dans ce blog sous différents aspects (voir [**ici**](/obesite/)). Si les tendances se poursuivent, certains acteurs comme les [**assurances **]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)vont imposer via des systèmes bonus/malus de pratiquer des activités physiques, changer d'alimentation en utilisant massivement des technologies de contrôle pour accéder à certaines données.
+Ce sujet du lien santé/mobilité a déjà été abordé dans ce blog sous différents aspects (voir [**ici**](/obesite/)). Si les tendances se poursuivent, certains acteurs comme les [**assurances** ]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)vont imposer via des systèmes bonus/malus de pratiquer des activités physiques, changer d'alimentation en utilisant massivement des technologies de contrôle pour accéder à certaines données.
 
  
 

@@ -11,7 +11,7 @@ redirect_from:
   - /2012/01/24/le-point-de-basculement-automobile-siege-mobile-20-tippingpoint/
 ---
 
-[**Le point de basculement**](http://fr.wikipedia.org/wiki/Tipping_point) traduit le moment précis qui sépare deux situations distinctes ; le verre est sur la table – le verre est cassé, en morceaux sur le sol. Entre ces deux états très différents, un instant unique, un changement d’état **IRREVERSIBLE** causé pour une interaction de deux séries causales**** ; un ballon lancé par un enfant a rencontré le verre posé.
+[**Le point de basculement**](http://fr.wikipedia.org/wiki/Tipping_point) traduit le moment précis qui sépare deux situations distinctes ; le verre est sur la table – le verre est cassé, en morceaux sur le sol. Entre ces deux états très différents, un instant unique, un changement d’état **IRREVERSIBLE** causé pour une interaction de deux séries causales ; un ballon lancé par un enfant a rencontré le verre posé.
 
  
 
@@ -40,7 +40,7 @@ Le basculement produirait une situation inédite pour plusieurs acteurs dont les
 
  
 
-Ce nouvel Univers de mobilité permettra également de concevoir autrement les contraintes (taxes TIPP notamment) en s’appuyant sur les données de mobilités réelles, et de créer de nouvelles formes de récompenses (temps, €, autre monnaie …). Ces nouveaux outils de contraintes/récompenses offriront plus de possibilités aux structures de gouvernance pour aider les citoyens, les entreprises à revoir leurs organisations, leurs implantations, et leurs modes de transports. De nombreuses innovations s’ouvrent - contraintes, récompenses, outils d’aide, expérimentation de système complexe dans des **territoires **- dans plusieurs domaines – fiscalité, monnaies, science des usages par exemple.
+Ce nouvel Univers de mobilité permettra également de concevoir autrement les contraintes (taxes TIPP notamment) en s’appuyant sur les données de mobilités réelles, et de créer de nouvelles formes de récompenses (temps, €, autre monnaie …). Ces nouveaux outils de contraintes/récompenses offriront plus de possibilités aux structures de gouvernance pour aider les citoyens, les entreprises à revoir leurs organisations, leurs implantations, et leurs modes de transports. De nombreuses innovations s’ouvrent - contraintes, récompenses, outils d’aide, expérimentation de système complexe dans des **territoires** - dans plusieurs domaines – fiscalité, monnaies, science des usages par exemple.
 
  
 

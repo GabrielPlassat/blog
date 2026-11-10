@@ -11,7 +11,7 @@ redirect_from:
   - /2012/02/14/le-choc-des-cultures-2-articles-2-visions-du-monde-qui-vient/
 ---
 
-Alors que [**Paris Tech Review**](http://www.paristechreview.com/2012/02/13/avenir-industrie-automobile/) publie un échange avec M.Satinet, Ancien Directeur Général de Citroën, portant sur l'avenir de l'automobile, le [**Time **](http://www.time.com/time/specials/packages/article/0,28804,2094921_2094923_2106141,00.html?xid=tweetbut)s'interroge sur l'impact du peer to peer sur notre façon de nous déplacer. Deux visions du monde (qui n'engagent sans doute pas Citroën).
+Alors que [**Paris Tech Review**](http://www.paristechreview.com/2012/02/13/avenir-industrie-automobile/) publie un échange avec M.Satinet, Ancien Directeur Général de Citroën, portant sur l'avenir de l'automobile, le [**Time** ](http://www.time.com/time/specials/packages/article/0,28804,2094921_2094923_2106141,00.html?xid=tweetbut)s'interroge sur l'impact du peer to peer sur notre façon de nous déplacer. Deux visions du monde (qui n'engagent sans doute pas Citroën).
 
  
 
@@ -31,7 +31,7 @@ Le Times indique alors : "But the rise of collaborative consumption, in which pe
 
  
 
-"Michael Arrington, the TechCrunch blog founder turned investor, who is backing RelayRides' rival Getaround, says he expects peer-to-peer car-sharing to become a multibillion-dollar industry in the U.S as well. "There are lots of these business models that facilitate seemingly crazy transactions between strangers, like **Prosper **[where people lend money to strangers] and **Airbnb** [where people rent out rooms in their homes to strangers].".
+"Michael Arrington, the TechCrunch blog founder turned investor, who is backing RelayRides' rival Getaround, says he expects peer-to-peer car-sharing to become a multibillion-dollar industry in the U.S as well. "There are lots of these business models that facilitate seemingly crazy transactions between strangers, like **Prosper** [where people lend money to strangers] and **Airbnb** [where people rent out rooms in their homes to strangers].".
 
  
 

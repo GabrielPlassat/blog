@@ -43,7 +43,7 @@ Bien sûr, payer les participants pour qu’ils évitent des trajets a un coût 
 Aujourd’hui, le cadre juridique reste à examiner pour permettre à une collectivité de mettre en œuvre directement un péage inversé. En effet la constitution éphémère d’une base de données des automobilistes susceptibles d’être intéressés par le dispositif doit être documentée au regard de la loi informatique et libertés.
 Pour mettre en place son Ecobonus, la Métropole Européenne de Lille devra donc obtenir une autorisation de la CNIL ou un recours au droit d’expérimentation des collectivités territoriales. D’autres collectivités sont sur les rangs et seraient sans soute intéressées également par une telle autorisation.
 
-**Au moment où démarrent les Assises nationales de la mobilité, nul doute que les pouvoirs publics s’empareront de ce sujet et permettront au territoire lillois de constituer le premier démonstrateur national d’un péage positif à grande échelle. **
+**Au moment où démarrent les Assises nationales de la mobilité, nul doute que les pouvoirs publics s’empareront de ce sujet et permettront au territoire lillois de constituer le premier démonstrateur national d’un péage positif à grande échelle.**
 
 **[Venez en discuter sur le wiki de la Fabrique des Mobilités ](http://wiki.lafabriquedesmobilites.fr/wiki/Discussion:Le_projet_d%E2%80%99Ecobonus_mobilit%C3%A9_de_la_M%C3%A9tropole_Europ%C3%A9enne_de_Lille)!
 **

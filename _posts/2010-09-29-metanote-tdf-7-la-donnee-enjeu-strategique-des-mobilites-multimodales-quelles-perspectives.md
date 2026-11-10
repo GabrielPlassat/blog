@@ -20,9 +20,9 @@ Ces MétaNotes synthétisent les idées, propositions, tendances de plusieurs no
  	
 - MétaNote TdF 2 : **[le marché]({{ site.baseurl }}/2010/03/metanote-tdf-2-le-marche-des-mobilites-20/)**
  	
-- MétaNote TdF 3 : **[la surveillance]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/) **
+- MétaNote TdF 3 : **[la surveillance]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)**
  	
-- MétaNote TdF 4 :** [les énergies]({{ site.baseurl }}/2010/03/les-energies/)**
+- MétaNote TdF 4 : **[les énergies]({{ site.baseurl }}/2010/03/les-energies/)**
  	
 - MétaNote TdF 5 : [**les entreprises**]({{ site.baseurl }}/2010/04/metanote-tdf-5-les-entreprises/)
  	

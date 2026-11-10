@@ -15,7 +15,7 @@ L'Oregon expérimente peut être la fiscalité du futur. Après avoir inventé" 
 
  
 
-Un article rédigé sur ce blog en 2009 (**[Le prix du carburant a-t-il une limite]({{ site.baseurl }}/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite/)**) indiquait déjà le potentiel d'une taxe basée sur les usages. Ce changement de "support" ouvre vers de nombreuses innovations politiques, permettant de soutenir de nouvelles organisations, de nouvelles pratiques de mobilité. **Et si les innovations sur la fiscalité étaient un puissant levier pour changer les comportements, pour rendre plus cohérents des objectifs à atteindre et des mesures politiques, et également pour accompagner la naissance d'une nouvelle filière industrielle des systèmes de transports intelligents? **
+Un article rédigé sur ce blog en 2009 (**[Le prix du carburant a-t-il une limite]({{ site.baseurl }}/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite/)**) indiquait déjà le potentiel d'une taxe basée sur les usages. Ce changement de "support" ouvre vers de nombreuses innovations politiques, permettant de soutenir de nouvelles organisations, de nouvelles pratiques de mobilité. **Et si les innovations sur la fiscalité étaient un puissant levier pour changer les comportements, pour rendre plus cohérents des objectifs à atteindre et des mesures politiques, et également pour accompagner la naissance d'une nouvelle filière industrielle des systèmes de transports intelligents?**
 
  
 

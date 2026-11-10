@@ -19,7 +19,7 @@ En même temps, Dongfeng injecte [**800 Millions d'euro**](http://www.lemonde.fr
 
  
 
-Pourquoi investir 16 milliards dans un réseau de messagerie instantanée ? Est ce que ça les vaut" ? Pour tenter d'analyser cela, il faut penser comme les acteurs du numérique. Yann Moulier Boutang a théorisé ce mode de fonctionnement par[** l'économie de la pollinisation**](http://laviemanifeste.com/archives/351). La valeur de l'Abeille n'est pas uniquement dans le miel et la cire mais dans la pollinisation. Et c'est bien cela que Facebook a acheté : des abeilles.
+Pourquoi investir 16 milliards dans un réseau de messagerie instantanée ? Est ce que ça les vaut" ? Pour tenter d'analyser cela, il faut penser comme les acteurs du numérique. Yann Moulier Boutang a théorisé ce mode de fonctionnement par[ **l'économie de la pollinisation**](http://laviemanifeste.com/archives/351). La valeur de l'Abeille n'est pas uniquement dans le miel et la cire mais dans la pollinisation. Et c'est bien cela que Facebook a acheté : des abeilles.
 
  Ces utilisateurs de Whatsapp, qui utilisent cette application parce qu'elle est séduisante, fonctionnelle (pour attirer les abeilles), créent de la valeur par le contenu qu'ils publient. Ce sont les flux, la pollinisation, qui vont être captés par Facebook. 450 millions d'abeille exactement. Ces abeilles postent des messages régulièrement, très régulièrement, puisque 310 millions le font tous les jours (voir [**cet article**](http://www.technologyreview.com/view/524956/why-facebook-thinks-whatsapp-is-worth-16b/)). Certains vont déjà faire le calcul du prix de l'abeille ou des flux générés par les abeilles... Mais je pense que toutes les abeilles ne se valent pas. Ces utilisateurs participent, sans le savoir, à des améliorations permanentes de l'application (Whatsapp) et de la plateforme à laquelle elle est rattachée (Facebook). L'attractivité augmente, donc les flux, donc la pollinisation. Certains utilisateurs sont probablement plus actifs, plus sensibles, plus engagés. L'objectif de la plateforme est avant tout de les séduire pour les amener à collaborer, de les surprendre. Le combat des plateformes a commencé depuis à peine quelques années, et déjà les principales relient des centaines de millions d'abeilles (lire [**la plateformisation a déjà commencé**]({{ site.baseurl }}/2014/01/fiction-n7-cc/)). Le contrat, non explicité, est le suivant : plus vous utilisez cette appli, plus elle s'améliore, vous donnant des services (gratuits) des plus en plus performants et en échange, la plateforme (Facebook) valorise le pollen. Ce contrat est accepté, pour le moment. Gardons en tête ces mécanismes contributifs pour envisager de les appliquer sur une autre plateforme. 
 
@@ -51,7 +51,7 @@ Elle hébergera plusieurs monnaies (et les dispositifs pour les gérer), toutes 
 
  
 
-**Progressivement WikiMobilis révèlera les pratiques de mobilités, maximisera l'usage des ressources rares, fera monter en compétences les utilisateurs dans toutes les pratiques de mobilité, augmentera les liens "faibles" tellement riches, permettra à des territoires d'augmenter leur attractivité et leur résilience, réduira les externalités négatives, ... **
+**Progressivement WikiMobilis révèlera les pratiques de mobilités, maximisera l'usage des ressources rares, fera monter en compétences les utilisateurs dans toutes les pratiques de mobilité, augmentera les liens "faibles" tellement riches, permettra à des territoires d'augmenter leur attractivité et leur résilience, réduira les externalités négatives, ...**
 
  
 

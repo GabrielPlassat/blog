@@ -54,7 +54,7 @@ Chaque plateforme technique se compose de plusieurs communautés :
 
 \[caption id="attachment\_832" align="aligncenter" width="1024"\][![FabMob]({{ site.baseurl }}/assets/images/fabmob/2015/20151121_181514-1-e1448134544364-1024x647.jpg)](https://web.archive.org/web/2018/http://lafabriquedesmobilites.fr/wp-content/uploads/2015/11/20151121_181514-1.jpg) les 4 dynamiques\[/caption\]
 
-- ****accompagner des entrepreneurs dans la mise en oeuvre opérationnelle de leur projet. Il s’agit de la première proposition de valeur de la Fabrique permettant d’alimenter les suivantes,****
+- accompagner des entrepreneurs dans la mise en oeuvre opérationnelle de leur projet. Il s’agit de la première proposition de valeur de la Fabrique permettant d’alimenter les suivantes,
 - **accompagner les transitions numériques et environnementales des partenaires (industries, territoires, labo, …) en utilisant les dynamiques des projets portés par des entrepreneurs par la mise en oeuvre de ressources partagées,**
 - **grâce aux partenaires et aux projets, créer des communautés d’intérêt dans plusieurs domaines pour développer des plateformes techniques ouvertes,**
     

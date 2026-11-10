@@ -11,7 +11,7 @@ redirect_from:
   - /2011/09/08/la-transparence-logistique-et-lassistant-personnel-de-consommation-2/
 ---
 
-DHL annonce dans son [**rapport **]({{ site.baseurl }}/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/)sur les prochaines années de la logistique que la transparence va s'imposer à tous les acteurs, notamment sur le contenu carbone et polluants des produits. L'outil de [**Sourcemap.com**](http://www.sourcemap.com/) (voir également [**ici**]({{ site.baseurl }}/2010/12/quand-la-chaine-logistique-devient-transparente/)) semble parfaitement adapté :
+DHL annonce dans son [**rapport** ]({{ site.baseurl }}/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/)sur les prochaines années de la logistique que la transparence va s'imposer à tous les acteurs, notamment sur le contenu carbone et polluants des produits. L'outil de [**Sourcemap.com**](http://www.sourcemap.com/) (voir également [**ici**]({{ site.baseurl }}/2010/12/quand-la-chaine-logistique-devient-transparente/)) semble parfaitement adapté :
 
  
 

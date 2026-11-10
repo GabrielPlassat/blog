@@ -11,7 +11,7 @@ redirect_from:
   - /2011/11/14/psa-total-sncf-et-orange-sassocient-pour-soutenir-la-mobilite-durable-premieres-pieces-dun-puzzle-a/
 ---
 
-Cette [**annonce **](http://auto.nouvelobs.com/actu-auto/20111114.LQA1717/psa-total-sncf-et-orange-s-associent-pour-soutenir-la-mobilite-durable.html)récente est positive pour le secteur des transports et de la mobilité en France. Ainsi, Ecomobilité Ventures disposera d’un capital de 30 millions d’euros afin d’investir dans de jeunes entreprises innovantes.
+Cette [**annonce** ](http://auto.nouvelobs.com/actu-auto/20111114.LQA1717/psa-total-sncf-et-orange-s-associent-pour-soutenir-la-mobilite-durable.html)récente est positive pour le secteur des transports et de la mobilité en France. Ainsi, Ecomobilité Ventures disposera d’un capital de 30 millions d’euros afin d’investir dans de jeunes entreprises innovantes.
 
  
 
@@ -54,7 +54,7 @@ Les premières pièces du puzzle rassemblées par ces acteurs industriels doiven
  
  
 - les usagers aujourd'hui et **demain**, 
-- les **territoires **et les collectivités - **source d'innovation**, 
+- les **territoires** et les collectivités - **source d'innovation**, 
  
 
 Tout en développant et en utilisant **d'autres critères de jugement** d'un produit et d'un service, pour changer d'échelle et modifier massivement nos solutions de mobilité, trouver d'autres modèles économiques en revoyant complètement les chaînes de valeurs et les moyens de "récompenser" un changement.

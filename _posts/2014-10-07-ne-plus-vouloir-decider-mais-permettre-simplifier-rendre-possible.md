@@ -11,11 +11,11 @@ redirect_from:
   - /2014/10/07/ne-plus-vouloir-decider-mais-permettre-simplifier-rendre-possible/
 ---
 
-L'industrie automobile rassemble d'innombrables talents et compétences étendues, distribuées dans de vastes organisations hiérarchisées, ordonnées, verticalisées. Des constructeurs puis des équipementiers de rang 1 à N et des ressources intellectuelles dans des laboratoires et des cabinets mondiaux d'ingénierie composent cette filière. Quand le contexte est stable et prévisible, cette organisation conçoit et produit en même temps ***des composants, des véhicules ***et des ***processus ***permettant de faire plus vite, plus loin, plus distribué, moins cher". Ces processus se composent de méthodes de validation, conception, production mais également d'organisation. Ils représentent l'histoire en capitalisant les erreurs/réussites du passé pour ne pas les oublier.
+L'industrie automobile rassemble d'innombrables talents et compétences étendues, distribuées dans de vastes organisations hiérarchisées, ordonnées, verticalisées. Des constructeurs puis des équipementiers de rang 1 à N et des ressources intellectuelles dans des laboratoires et des cabinets mondiaux d'ingénierie composent cette filière. Quand le contexte est stable et prévisible, cette organisation conçoit et produit en même temps ***des composants, des véhicules** *et des ***processus** *permettant de faire plus vite, plus loin, plus distribué, moins cher". Ces processus se composent de méthodes de validation, conception, production mais également d'organisation. Ils représentent l'histoire en capitalisant les erreurs/réussites du passé pour ne pas les oublier.
 
  
 
-Dans des environnements instables et non prévisibles, dans des contextes où de nouveaux acteurs arrivent et produisent de nouvelles expériences de mobilités, ces ***processus ***figent au lieu de faciliter car ils portent en eux les modes de pensées du passé. Aujourd'hui et demain, qui possède les compétences pour faire émerger les besoins réels, non exprimés des citoyens, ceux qui obligeraient à modifier totalement les processus existants ? Qui possède les compétences pour rédiger le cahier des charges fonctionnel des services de mobilités, des véhicules serviciels permettant de réaliser ces services ?
+Dans des environnements instables et non prévisibles, dans des contextes où de nouveaux acteurs arrivent et produisent de nouvelles expériences de mobilités, ces ***processus** *figent au lieu de faciliter car ils portent en eux les modes de pensées du passé. Aujourd'hui et demain, qui possède les compétences pour faire émerger les besoins réels, non exprimés des citoyens, ceux qui obligeraient à modifier totalement les processus existants ? Qui possède les compétences pour rédiger le cahier des charges fonctionnel des services de mobilités, des véhicules serviciels permettant de réaliser ces services ?
 
  
 
@@ -33,7 +33,7 @@ Comment comprendre cette multitude de mobilités insatisfaites pour industriali
 
  
 
-Le véhicule **link&Go **couplé à la plateforme **3DS** offrent une plateforme de très haut niveau permettant à des acteurs industriels d’itérer sur une maquette numérique intégrant tous les composants. Et si cette maquette était totalement ouverte élargissant ainsi la base et démultipliant les capacités des explorateurs ? Et si des territoires se portaient volontaires pour expérimenter prototypes physiques et prototypes serviciels avec des citoyens ? Et si les moyens de production décentralisés offraient des capacités inédites d’ajustement à cette nouvelle « demande » ? Et si ce dispositif complet [plateforme 3DS ouverte + prototype link&Go + territoires pionniers + **micro usine**] était un nouveau moyen de se lier à la multitude en amenant de nouveaux entrepreneurs ?
+Le véhicule **link&Go** couplé à la plateforme **3DS** offrent une plateforme de très haut niveau permettant à des acteurs industriels d’itérer sur une maquette numérique intégrant tous les composants. Et si cette maquette était totalement ouverte élargissant ainsi la base et démultipliant les capacités des explorateurs ? Et si des territoires se portaient volontaires pour expérimenter prototypes physiques et prototypes serviciels avec des citoyens ? Et si les moyens de production décentralisés offraient des capacités inédites d’ajustement à cette nouvelle « demande » ? Et si ce dispositif complet [plateforme 3DS ouverte + prototype link&Go + territoires pionniers + **micro usine**] était un nouveau moyen de se lier à la multitude en amenant de nouveaux entrepreneurs ?
 
  
 
@@ -55,4 +55,4 @@ Seront-ils les seuls à **explorer les frontières de l’innovation** ? Le te
 
  
 
- ** Akka 3 ds ** from **Les transports du futur**
+ **Akka 3 ds** from **Les transports du futur**

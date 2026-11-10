@@ -36,7 +36,7 @@ Arcade City a commencé dans plusieurs états : Arizona, Arkansas, California, C
 	
 - un besoin d’un système d’incitation vers les solutions vertueuses pour chaque décision de mobilité ou d’immobilité : notion de récompenses pour chaque décision de mobilité simple, rapide.
 
-**Vu des autorités publiques : **
+**Vu des autorités publiques :**
 
 	
 - un besoin de connaissance des pratiques réelles de mobilités (anonymisées) pour les différents modes de transports. Ceci pour mieux décider des investissements, travaux à faire.
@@ -47,7 +47,7 @@ Arcade City a commencé dans plusieurs états : Arizona, Arkansas, California, C
 
  
 
-**Pour en savoir plus : **
+**Pour en savoir plus :**
 
 	
 - Tout savoir sur la zooz : le livre blanc [https://drive.google.com/file/d/0B8DXTngEHOSmN2ZzTDJBTHppc1E/view](https://drive.google.com/file/d/0B8DXTngEHOSmN2ZzTDJBTHppc1E/view)

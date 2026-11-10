@@ -32,7 +32,7 @@ Pourquoi écrire un article sur Wikipédia ? pas d'argent, uniquement le sentime
 
  
 
-**Du coté de l'offre, les entreprises. **Les possibilités sont également infinies, sous forme de marketing, de stratégie, de gestion du personnel. **[Starbuck](http://www.lesechos.fr/info/distri/020345228003---je-suis-decu-par-ce-qui-se-passe-aux-etats-unis--.htm)** fait du commerce équitable et de la couverture santé pour ses employés, une stratégie, un marketing, un acte altruiste ? Tout cela à fois, et cela fonctionne. Le pays qui a inventé la µfinance, fait émergé de nouvelles valeurs dans l'entreprise (article complet **[ici](http://coursenligne.sciences-po.fr/pierre_buhler/philanthropie.pdf)**), de nouvelles méthodes pour coupler profit et social :
+**Du coté de l'offre, les entreprises.** Les possibilités sont également infinies, sous forme de marketing, de stratégie, de gestion du personnel. **[Starbuck](http://www.lesechos.fr/info/distri/020345228003---je-suis-decu-par-ce-qui-se-passe-aux-etats-unis--.htm)** fait du commerce équitable et de la couverture santé pour ses employés, une stratégie, un marketing, un acte altruiste ? Tout cela à fois, et cela fonctionne. Le pays qui a inventé la µfinance, fait émergé de nouvelles valeurs dans l'entreprise (article complet **[ici](http://coursenligne.sciences-po.fr/pierre_buhler/philanthropie.pdf)**), de nouvelles méthodes pour coupler profit et social :
 
  
 

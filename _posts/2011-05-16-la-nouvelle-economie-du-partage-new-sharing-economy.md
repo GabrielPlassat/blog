@@ -23,7 +23,7 @@ Shareable propose un **[article ](http://www.shareable.net/blog/Is-Social-Media-
 
  
 
-Shareable Magazine and Latitude Research's ***The New Sharing Economy ***study* *released today indicates that online sharing does indeed seem to encourage people to share offline resources such as cars and bikes, largely because they are learning to trust each other online. And they're not just sharing to save money - an equal number of people say they share to make the world a better place.
+Shareable Magazine and Latitude Research's ***The New Sharing Economy** *study* *released today indicates that online sharing does indeed seem to encourage people to share offline resources such as cars and bikes, largely because they are learning to trust each other online. And they're not just sharing to save money - an equal number of people say they share to make the world a better place.
 
  
 
@@ -42,7 +42,7 @@ Latitude and Shareable's *The New Sharing Economy* is an early if not the first
 - **Sharing online content is a good predictor that someone is likely to share offline too**. 78% of participants felt that experiences they've had interacting with people online have made them more open to the idea of sharing with strangers. In fact, every study participant who shared content online also shared various things offline. Sharing entrepreneurs are already taking advantage of this by seeding their services in contextually relevant online communities. For instance, online kids clothing exchange thredUP build relationships with prominent mommy bloggers to speed their launch. 
  
  
-- **75% of participants predicted that their offline sharing will increase in the next 5 years. **While fast growing, this new sector has lots of unmet demand. More than half of all participants either shared vehicles casually or expressed interest in doing so. Similarly, 62% of participants either share household items casually or expressed interest in doing so. There's also high interest in sharing of physical spaces for travel, storage, and work - even with complete strangers. 
+- **75% of participants predicted that their offline sharing will increase in the next 5 years.** While fast growing, this new sector has lots of unmet demand. More than half of all participants either shared vehicles casually or expressed interest in doing so. Similarly, 62% of participants either share household items casually or expressed interest in doing so. There's also high interest in sharing of physical spaces for travel, storage, and work - even with complete strangers. 
  
  
 - **The most popular perceived benefits of sharing (67% each) were “saving money” and being “good for society,”** echoing the “me+we” mentality popular amongst Millennials and offering insight on how to brand sharing services. People increasingly expect that saving money needn’t come at the expense of doing good, so gravitate to solutions like sharing that enable them to do both. In addition, two thirds of participants said they were more likely to share their belongings if they could make money from it. Brands should align with this "doing well by doing good" world view. 

@@ -55,4 +55,4 @@ La singularité Technologique décrit le moment où les machines auront atteint 
 
  
 
-**Ray Kurweil vient d’être **[**embauché**](http://techcrunch.com/2012/12/14/ray-kurzweil-joins-google-as-engineering-director-focusing-on-machine-learning-and-language-tech/)** par Google il y a 2 mois pour devenir *Director of Machine Learning*. L’Intelligence Artificielle peut désormais passer de la science à la Technique et se diffuser. ****Décidemment M.ELLUL vous aviez prévu, dans le *système technicien*, les principaux rapports de force à venir.**
+**Ray Kurweil vient d’être** [**embauché**](http://techcrunch.com/2012/12/14/ray-kurzweil-joins-google-as-engineering-director-focusing-on-machine-learning-and-language-tech/) **par Google il y a 2 mois pour devenir *Director of Machine Learning*. L’Intelligence Artificielle peut désormais passer de la science à la Technique et se diffuser.****Décidemment M.ELLUL vous aviez prévu, dans le *système technicien*, les principaux rapports de force à venir.**

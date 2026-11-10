@@ -55,7 +55,7 @@ FEMA (Federation of European Motorcyclists Associations)](http://ec.europa.eu/en
 
  
 
-The orientation that the Commission wants to propose for the automotive industry will be a concrete proposal for anew industrial policy linked to clean technologies that will contribute to the strategic perspective of **EU2020 **that is currently being elaborated. President Barroso has already identified clean vehicle technologies as new sources of economic growth and cohesion for Europe.
+The orientation that the Commission wants to propose for the automotive industry will be a concrete proposal for anew industrial policy linked to clean technologies that will contribute to the strategic perspective of **EU2020** that is currently being elaborated. President Barroso has already identified clean vehicle technologies as new sources of economic growth and cohesion for Europe.
 
  
 
@@ -63,11 +63,11 @@ This European strategy for clean and energy-efficient vehicles will be composed 
 
  
 
-**I. PILLAR: **Promotion of technologically advanced, clean and fuel efficient vehicles based on the **internal combustion engine, **while ensuring that all available measures are taken to reduce emissions and fuel consumption. The role of bio-fuels and gaseous fuels is also considered here.
+**I. PILLAR:** Promotion of technologically advanced, clean and fuel efficient vehicles based on the **internal combustion engine,** while ensuring that all available measures are taken to reduce emissions and fuel consumption. The role of bio-fuels and gaseous fuels is also considered here.
 
  
 
-**II. PILLAR: **Promoting and facilitating the market uptake of **alternative vehicle propulsion technologies**, which is expected to lead to a step change in mobility. The main focus of this pillar will be on fully electric and plug-in hybrid vehicles, reflecting the building momentum behind this technology both in national support programmes and industrial plans.
+**II. PILLAR:** Promoting and facilitating the market uptake of **alternative vehicle propulsion technologies**, which is expected to lead to a step change in mobility. The main focus of this pillar will be on fully electric and plug-in hybrid vehicles, reflecting the building momentum behind this technology both in national support programmes and industrial plans.
 
  
 
@@ -92,8 +92,8 @@ nity strategy to reduce CO2 emissions from light duty vehicles**4. Yet, possible
 
  
 
-Whereas energy-efficient conventional engines will remain at the heart of European mobility, much of the recent academic, market and policy research concludes that **fully electric vehicles and plug-in hybrids **and, in longer term, also **hydrogen based technologies **(comprising both fuel cell and ICE hydrogen) are no longer at a pre-competitive stage of development and that they will play a big role in the mobility of tomorrow. Currently a visible momentum is building behind electro-mobility, with the EU's global partners (China, the US, Japan, Australia and Israel) and several EU Member States investing heavily in research, development of capacity and market stimulation.
+Whereas energy-efficient conventional engines will remain at the heart of European mobility, much of the recent academic, market and policy research concludes that **fully electric vehicles and plug-in hybrids** and, in longer term, also **hydrogen based technologies** (comprising both fuel cell and ICE hydrogen) are no longer at a pre-competitive stage of development and that they will play a big role in the mobility of tomorrow. Currently a visible momentum is building behind electro-mobility, with the EU's global partners (China, the US, Japan, Australia and Israel) and several EU Member States investing heavily in research, development of capacity and market stimulation.
 
  
 
-The European Union has already advanced in its work on electric (both fully electric and hybrids) vehicles’ type-approval requirements and standards. Taking into account the **current impetus **behind the electric cars and the growing market responsiveness and consumer awareness of the technological developments, the Commission now intends to develop a dedicated policy that will **remove the remaining obstacles to the internal market **for electric vehicles, **refocus the use of existing European instruments **and propose guidelines for national, demand-side measures to achieve greater market uptake. The Commission is keen to realise the benefits of new propulsion technologies in terms of environmental and energy policy goals, avoiding a situation where advances in new technologies would be neutralised by reduced improvements in conventional vehicles. This approach is by no means one of “picking a winner”, as the Commission is committed to **safeguarding the technology neutrality principle**. It is however, clearly the case that if we want alternative propulsion vehicles to quickly reach the market, more has to be done (e.g. in terms of infrastructure, consumer information, market incentives) than type-approval requirements. This special focus on alternative powertrains is thus warranted by the **necessity and urgency **for public authorities to act.
+The European Union has already advanced in its work on electric (both fully electric and hybrids) vehicles’ type-approval requirements and standards. Taking into account the **current impetus** behind the electric cars and the growing market responsiveness and consumer awareness of the technological developments, the Commission now intends to develop a dedicated policy that will **remove the remaining obstacles to the internal market** for electric vehicles, **refocus the use of existing European instruments** and propose guidelines for national, demand-side measures to achieve greater market uptake. The Commission is keen to realise the benefits of new propulsion technologies in terms of environmental and energy policy goals, avoiding a situation where advances in new technologies would be neutralised by reduced improvements in conventional vehicles. This approach is by no means one of “picking a winner”, as the Commission is committed to **safeguarding the technology neutrality principle**. It is however, clearly the case that if we want alternative propulsion vehicles to quickly reach the market, more has to be done (e.g. in terms of infrastructure, consumer information, market incentives) than type-approval requirements. This special focus on alternative powertrains is thus warranted by the **necessity and urgency** for public authorities to act.

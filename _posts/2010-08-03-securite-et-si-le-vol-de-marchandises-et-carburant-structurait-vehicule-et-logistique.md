@@ -34,7 +34,7 @@ Les acteurs s'organisent :
  
  
 - amélioration au niveau des véhicules (verrouillages, antidémarrage, alarmes...) au niveau des tracteurs, des remorques et des réservoirs de carburant. La prestation security" devient un argument de vente pour un constructeur et permet de réduction au niveau du coût de l'assurance. Les échanges de pratiques internationales permettent de capitaliser et d'améliorer jusqu'au cryptage des données pour centraliser la fermeture des portes. 
-- choix des itinéraires les plus sûrs et des parkings les mieux gardés. Des systèmes complets sont proposés comme le [**SecuriTpark**](http://www.securitpark.fr/localisation.html)**, **qui conduisent en partie à imposer le parcours. Pour répondre aux besoins des assureurs (voir ci dessous), de plus en plus de données à la fois des véhicules et des marchandises transportées doivent être échangées entre chargeurs et transporteurs pour que chacun connaisse les risques associés à chaque transport. 
+- choix des itinéraires les plus sûrs et des parkings les mieux gardés. Des systèmes complets sont proposés comme le [**SecuriTpark**](http://www.securitpark.fr/localisation.html)**,** qui conduisent en partie à imposer le parcours. Pour répondre aux besoins des assureurs (voir ci dessous), de plus en plus de données à la fois des véhicules et des marchandises transportées doivent être échangées entre chargeurs et transporteurs pour que chacun connaisse les risques associés à chaque transport. 
  
 
  

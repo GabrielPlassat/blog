@@ -29,4 +29,4 @@ Toutes les présentations :
 
  
 
- ** [Clement rossignol cub](http://fr.slideshare.net/transportsdufutur/clement-rossignol-cub) ** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)** ** [Patrick sucche inddigo](http://fr.slideshare.net/transportsdufutur/patrick-sucche-inddigo) ** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)**
+ **[Clement rossignol cub](http://fr.slideshare.net/transportsdufutur/clement-rossignol-cub)** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)** **[Patrick sucche inddigo](http://fr.slideshare.net/transportsdufutur/patrick-sucche-inddigo)** from **[Les transports du futur](http://fr.slideshare.net/transportsdufutur)**

@@ -22,4 +22,4 @@ The construction of ten [**Triple-E vessels**](http://worldslargestship.com/), e
 
  
 
-**All informations on Flickr Images** : [**HERE **](http://flic.kr/s/aHsjtDwiZB)!
+**All informations on Flickr Images** : [**HERE** ](http://flic.kr/s/aHsjtDwiZB)!

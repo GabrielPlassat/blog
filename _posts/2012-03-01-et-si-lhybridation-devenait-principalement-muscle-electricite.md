@@ -20,7 +20,7 @@ redirect_from:
 - la capacité d'adaptation du véhicule à différents contextes s'améliore quand on mélange modes de transports lourds, collectifs, légers, individuels (voir l'exemple [Hollandais]({{ site.baseurl }}/2012/01/trainvelovelotrain-individuelcollectif-publicprive/)) 
  
 
-**Pour amener les enfants à l'école : **[vélobus collectif à assistance électrique](http://www.yelomart.fr/voitures-transports/hollande-un-bus-scolaire-a-pedales/)
+**Pour amener les enfants à l'école :** [vélobus collectif à assistance électrique](http://www.yelomart.fr/voitures-transports/hollande-un-bus-scolaire-a-pedales/)
 
  
 
@@ -28,7 +28,7 @@ redirect_from:
 
  
 
-**Pour visiter des sites touristiques étendus **: vélobus collectif séparables à assistance électrique
+**Pour visiter des sites touristiques étendus**: vélobus collectif séparables à assistance électrique
 
  
 

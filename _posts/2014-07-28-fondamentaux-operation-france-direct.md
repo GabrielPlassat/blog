@@ -32,7 +32,7 @@ En avant-première pour le blog Transports du futur, les deux premiers volets du
 
  
 
-**Théorie de la mobilité appliquée aux services publics **
+**Théorie de la mobilité appliquée aux services publics**
 **chapitre 3: Vers une mobilité plus active et plus sereine** 
 
  
@@ -86,14 +86,14 @@ En ce qui concerne spécifiquement la pratique de la marche à pied, la France s
  
 
 **Mobilités passives / sédentarité**
-voiture / transports :   **  53 min **
-télévision :                  ** 230 min **
+voiture / transports :   **53 min**
+télévision :                  **230 min**
 
  
 
 **Mobilités actives**
-marche :                    ** 13 min**
-vélo :                        **  1 min**
+marche :                    **13 min**
+vélo :                        **1 min**
 
  
 

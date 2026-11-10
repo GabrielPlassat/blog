@@ -18,7 +18,7 @@ La thèse de Stéphane Vial rassemble des points essentiels à connaître concer
  
 L'aura numérique, proposée par Daniel Kaplan, des objets ne se questionne plus. Il se constate. Et ce n'est qu'un début. Tous les produits industriels issus de la 2ème technique dominante, celle de l'acier et du charbon, se numérisent. D'abord l'électronique est ajouté, puis des interfaces, puis des écrans, puis le numérique renverse le design et devient le point d'entrée. Les promesses du numérique sont nombreuses certaines n'ont pas eu lieu, d'autres, inattendues, nous bouleversent. La FING les étudie pour mieux s'en imprégner. 
 
- ** Questions Numériques 2013/ 2014 : les promesses du numérique ** from **La Fing** 
+ **Questions Numériques 2013/ 2014 : les promesses du numérique** from **La Fing** 
 
 **L'ontophanie numérique : la perception de l'être à l'ère du numérique**
 

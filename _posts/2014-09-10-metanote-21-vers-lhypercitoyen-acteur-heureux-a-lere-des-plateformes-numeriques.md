@@ -52,6 +52,6 @@ Il s'agit maintenant de donner la capacité à chacun de se positionner individu
 
 Pour de plus grands collectifs, tout est à inventer. S'appuyant sur les acteurs pionniers de la consommation collaborative, sur les outils numériques des réseaux, nous avons besoin d'identifier ces pionniers pour mettre en œuvre les prochaines étapes :
 
-**Quels sont, pour vous (mode commentaire, via twitter ou ...) à travers le monde, les acteurs, les dynamiques sociales, les plus proches pour expérimenter ces structures hybrides [marchand / association – ONG, ou autre] ? permettant d'utiliser différemment les métabases de données en impliquant les citoyens au centre, garantissant de placer chacun en situation d'holoptisme, ouvrant alors de formidables capacités d'innovations issues de la multitude devenue « outillée et réflexive ». **
+**Quels sont, pour vous (mode commentaire, via twitter ou ...) à travers le monde, les acteurs, les dynamiques sociales, les plus proches pour expérimenter ces structures hybrides [marchand / association – ONG, ou autre] ? permettant d'utiliser différemment les métabases de données en impliquant les citoyens au centre, garantissant de placer chacun en situation d'holoptisme, ouvrant alors de formidables capacités d'innovations issues de la multitude devenue « outillée et réflexive ».**
 
 **Pour que se révèlent dès demain les hypercitoyens.**

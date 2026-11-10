@@ -31,7 +31,7 @@ En décembre 2009, l'ADEME organisait un séminaire et lançait en même temps c
 
  
 
- ** Les transports du futur mobilite des personnes le programmev2 ** from **Les transports du futur** 
+ **Les transports du futur mobilite des personnes le programmev2** from **Les transports du futur** 
 
 Waze, également **déniché par ce blog** en 2010, se lançait Personne n'imaginait la suite, le rachat par Google, l'intégration dans Android (**annoncée récemment**), l'alliance avec des villes comme **Rio sous la forme de troc**, ... et après ? Déjà un milliard d'objet fonctionnant sous Android en circulation aujourd'hui, vous pensez protéger des données. Interrogez une communauté d'usagers concernant la privacy des données de géolocalisation, ce n'est plus un sujet dans les faits.
 
@@ -49,4 +49,4 @@ Blablacar s'appelait Covoiturage.fr (ci dessous en 2005 avec 28 trajets proposé
 
  
 
-**Bien souvent, les échanges autour des données sont révélateurs de la posture : réaction ou action, pure création ou réponse à une attaque réelle ou supposée. Ne nous trompons pas de combat, devant les défis à relever, les solutions ne naîtront pas de nos réactions, mais de nos créations. **
+**Bien souvent, les échanges autour des données sont révélateurs de la posture : réaction ou action, pure création ou réponse à une attaque réelle ou supposée. Ne nous trompons pas de combat, devant les défis à relever, les solutions ne naîtront pas de nos réactions, mais de nos créations.**

@@ -19,7 +19,7 @@ Internet depuis le début supprime les intermédiaires inutiles, ceux qui n’ap
 
  
 
-La même tendance s’applique également aux objets qui supportent internet : supprimer les intermédiaires inutiles, simplifier pour ne garder que l’essentiel : l’information. Google présente ainsi, dans le cadre de son laboratoire, des [**lunettes permettant de « supporter » l’information au plus près de notre œil**](http://ht.ly/8fs87). Ces technologies appelées Ordinateur « wearable » indiquent, dans la terminologie même, la voie. L’ordinateur, et également le smartphone vont disparaître et se fondre dans nos habits et nos objets millénaires : montre et lunette (voir une [**thèse **](http://www.media.mit.edu/wearables/mithril/memory-glasses.html)du MIT).
+La même tendance s’applique également aux objets qui supportent internet : supprimer les intermédiaires inutiles, simplifier pour ne garder que l’essentiel : l’information. Google présente ainsi, dans le cadre de son laboratoire, des [**lunettes permettant de « supporter » l’information au plus près de notre œil**](http://ht.ly/8fs87). Ces technologies appelées Ordinateur « wearable » indiquent, dans la terminologie même, la voie. L’ordinateur, et également le smartphone vont disparaître et se fondre dans nos habits et nos objets millénaires : montre et lunette (voir une [**thèse** ](http://www.media.mit.edu/wearables/mithril/memory-glasses.html)du MIT).
 
  
 
@@ -27,7 +27,7 @@ La même tendance s’applique également aux objets qui supportent internet : 
 
  
 
-** [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01675fd84e3c970b-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01675fd84e3c970b-800wi.jpg)
+**[![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01675fd84e3c970b-320wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01675fd84e3c970b-800wi.jpg)
 **Internet étant accessible « directement » tout le temps partout, nous n’allons plus sur Internet, nous sommes dorénavant DANS internet. Les conséquences dans le domaine des transports sont importantes d’autant que, jusqu’à présent, l’information faisait grandement défaut.
 
  

@@ -129,7 +129,7 @@ Ainsi il nous faut considérer une explosion des configurations, qui seront éga
  
 
  [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348000d00b970c-500pi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b01348000d00b970c-pi.jpg) 
-  *Le **premier axe **explique, à lui seul, 10,3% de l’inertie. Au vu des variables explicatives les plus proches de l’axe, il peut être interprété comme reflétant l’opposition entre les programmes limités au seul travail et les programmes très « intenses » comportant un nombre élevé d’activités. Cette intensité du programme n’est d’ailleurs pas synonyme de diversité puisque le nombre d’activités répétées croît à mesure que le programme augmente en intensité : ainsi, plus le programme compte d’activités, plus l’individu est enclin à répéter certains types d’activités.*
+  *Le **premier axe** explique, à lui seul, 10,3% de l’inertie. Au vu des variables explicatives les plus proches de l’axe, il peut être interprété comme reflétant l’opposition entre les programmes limités au seul travail et les programmes très « intenses » comportant un nombre élevé d’activités. Cette intensité du programme n’est d’ailleurs pas synonyme de diversité puisque le nombre d’activités répétées croît à mesure que le programme augmente en intensité : ainsi, plus le programme compte d’activités, plus l’individu est enclin à répéter certains types d’activités.*
 
  
 

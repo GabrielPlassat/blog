@@ -19,7 +19,7 @@ Il est intéressant de noter certaines analogies aux secteurs des mobilités dan
 
  
 
-La gazette des communes aborde dans son **[numéro d’août 2010](http://www.lagazettedescommunes.com/sommaire/2041.pdf)** ce sujet. Désertification médicale, les maisons de santé sont appelées à la rescousse.  Attachés à répondre aux enjeux futurs qui se posent à notre système de santé, **les Ministres chargé de la santé, des secrétariats d’Etat à la politique de la ville ainsi qu’à l’aménagement du territoire ont mis en place une mission portant sur « le développement des maisons et pôles de santé »**. Réaffirmant leur volonté de développer de nouvelles structures de regroupement pluri professionnel, ils demandent d’en identifier les obstacles ainsi que les facteurs de réussite et sont en attente de propositions de nature à soutenir leur déploiement. **[Le rapport récent « le bilan des maisons et des pôles de santé et les propositions pour leur déploiement »]({{ site.baseurl }}/assets/images/2010/10/0000.pdf) **présente les conclusions et recommandations. 
+La gazette des communes aborde dans son **[numéro d’août 2010](http://www.lagazettedescommunes.com/sommaire/2041.pdf)** ce sujet. Désertification médicale, les maisons de santé sont appelées à la rescousse.  Attachés à répondre aux enjeux futurs qui se posent à notre système de santé, **les Ministres chargé de la santé, des secrétariats d’Etat à la politique de la ville ainsi qu’à l’aménagement du territoire ont mis en place une mission portant sur « le développement des maisons et pôles de santé »**. Réaffirmant leur volonté de développer de nouvelles structures de regroupement pluri professionnel, ils demandent d’en identifier les obstacles ainsi que les facteurs de réussite et sont en attente de propositions de nature à soutenir leur déploiement. **[Le rapport récent « le bilan des maisons et des pôles de santé et les propositions pour leur déploiement »]({{ site.baseurl }}/assets/images/2010/10/0000.pdf)** présente les conclusions et recommandations. 
 
  
 
@@ -27,7 +27,7 @@ La gazette des communes aborde dans son **[numéro d’août 2010](http://www.la
 
  
 
-Afin de valoriser les efforts des professionnels s’engageant dans des modèles intégrés d’exercice en un lieu unique, la ***création d’une marque collective « maisons de santé » ***est préconisée. Cette marque ouverte aux centres de santé qui le désirent, est octroyée sous deux conditions : respect d’un cahier des charges national et projet de santé validé par l’ARS de la région concernée. ***Le cahier des charges national introduit des critères obligatoires ***qui reposent sur l’unité de lieu géographique et fonctionnelle et l’existence d’un projet de santé et d’un projet professionnel. La mission a estimé que ce cahier des charges ne devait pas s’appliquer, dans un premier temps, aux pôles de santé, afin de respecter la démarche par étapes qu’ils sous tendent.
+Afin de valoriser les efforts des professionnels s’engageant dans des modèles intégrés d’exercice en un lieu unique, la ***création d’une marque collective « maisons de santé »** *est préconisée. Cette marque ouverte aux centres de santé qui le désirent, est octroyée sous deux conditions : respect d’un cahier des charges national et projet de santé validé par l’ARS de la région concernée. ***Le cahier des charges national introduit des critères obligatoires** *qui reposent sur l’unité de lieu géographique et fonctionnelle et l’existence d’un projet de santé et d’un projet professionnel. La mission a estimé que ce cahier des charges ne devait pas s’appliquer, dans un premier temps, aux pôles de santé, afin de respecter la démarche par étapes qu’ils sous tendent.
 
  
 
@@ -35,7 +35,7 @@ Afin de valoriser les efforts des professionnels s’engageant dans des modèles
 
  
 
-Le développement de ces modèles exige leur sécurisation juridique et financière. Cette préconisation induit la création ***d’un statut juridique spécifique. ***Celui-ci devrait être positionné dans un cadre non lucratif, cohérent avec les missions de santé publique attendues, autorisant la perception de subventions et leur souple répartition entre professionnels et devrait permettre de conforter conjointement esprit d’initiative et leadership professionnel […]
+Le développement de ces modèles exige leur sécurisation juridique et financière. Cette préconisation induit la création ***d’un statut juridique spécifique.** *Celui-ci devrait être positionné dans un cadre non lucratif, cohérent avec les missions de santé publique attendues, autorisant la perception de subventions et leur souple répartition entre professionnels et devrait permettre de conforter conjointement esprit d’initiative et leadership professionnel […]
 
  
 
@@ -51,7 +51,7 @@ L’évolution des missions et des pratiques ne pourra avoir lieu que si elle s�
 
  
 
-[24] Les nouvelles formes d’exercice ont été portées jusque là par des professionnels de santé charismatiques dont il faut saluer la motivation et l’engagement. Il s’agit maintenant de passer à une nouvelle ère pour assurer soutien et accompagnement à l’ensemble des professionnels voulant s’engager dans cette voie. En ce sens, la mission préconise la création d’une ***mission d’appui au niveau national***, placée au niveau du conseil national des ARS. Elle remplit des missions de conseil stratégique et politique, ainsi que d’animation d’un réseau régional. Il convient en effet d’assurer également un soutien de proximité grâce à la mise en place d’un ***guichet et caisse unique au niveau régional***, facilitant l’émergence et l’accompagnement de projets ainsi que la coordination des  financements. Le ***déploiement de systèmes d’information partagée ***devient une priorité pour instaurer des modes d’exercice coopératif et assurer une coordination réelle des prises en charge. Pour assurer une standardisation du recueil de données, un cahier des charges devrait être élaboré nationalement en lien avec l’ASIP.
+[24] Les nouvelles formes d’exercice ont été portées jusque là par des professionnels de santé charismatiques dont il faut saluer la motivation et l’engagement. Il s’agit maintenant de passer à une nouvelle ère pour assurer soutien et accompagnement à l’ensemble des professionnels voulant s’engager dans cette voie. En ce sens, la mission préconise la création d’une ***mission d’appui au niveau national***, placée au niveau du conseil national des ARS. Elle remplit des missions de conseil stratégique et politique, ainsi que d’animation d’un réseau régional. Il convient en effet d’assurer également un soutien de proximité grâce à la mise en place d’un ***guichet et caisse unique au niveau régional***, facilitant l’émergence et l’accompagnement de projets ainsi que la coordination des  financements. Le ***déploiement de systèmes d’information partagée** *devient une priorité pour instaurer des modes d’exercice coopératif et assurer une coordination réelle des prises en charge. Pour assurer une standardisation du recueil de données, un cahier des charges devrait être élaboré nationalement en lien avec l’ASIP.
 
  
 
@@ -75,5 +75,5 @@ Si les formes d’exercice pluri professionnel ne peuvent être à elles seules 
 
  
 
-La mission souhaite conclure son rapport ***en alertant les pouvoirs publics et l’université sur l’importance à donner à la formation et à la recherche. ***Les enjeux actuels qui se posent concernant l’évolution du dispositif de premier recours ne pourront être atteints que si les professionnels de santé, qu’ils soient médecins ou paramédicaux, connaissent ces exercices coopératifs, et ont pu, au cours de leur cursus, se confronter à leurs pratique
+La mission souhaite conclure son rapport ***en alertant les pouvoirs publics et l’université sur l’importance à donner à la formation et à la recherche.** *Les enjeux actuels qui se posent concernant l’évolution du dispositif de premier recours ne pourront être atteints que si les professionnels de santé, qu’ils soient médecins ou paramédicaux, connaissent ces exercices coopératifs, et ont pu, au cours de leur cursus, se confronter à leurs pratique
 s.

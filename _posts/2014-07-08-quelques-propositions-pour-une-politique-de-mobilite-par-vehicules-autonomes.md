@@ -28,7 +28,7 @@ Que pouvons-nous faire de ce côté-ci de l'Atlantique ?
 
  
 
-**La différence entre les acteurs européens et Google : l'industrialisation **
+**La différence entre les acteurs européens et Google : l'industrialisation**
 Grâce aux sommes importantes consacrées, notamment en recherche publique, depuis plus d'une dizaine d'années sur l'automatisation de la conduite, il n'y a peut-être pas de retard technique de l'Europe sur ce que fait Google, ou peut-être pas un retard significatif. 
 Là où il y a du retard, c'est en termes d'industrialisation : Depuis plusieurs années, Google développe sa solution technique, en couvrant de manière de plus en plus complète les différents aspects de l'automatisation de la conduite. Google teste sa solution jour après jour sur route depuis 2012. 
 Certes une grande partie des centaines de milliers de km de test de voitures autonomes annoncés par Google ont été faits sur autoroute, mais... l'expérience concrète acquise par Google est indéniable.
@@ -48,7 +48,7 @@ Enfin, les développements effectués en Europe sont conduits de manière disper
 
  
 
-**La cause principale de cette différence est le cadre réglementaire **
+**La cause principale de cette différence est le cadre réglementaire**
 Alors que la recherche française et européenne a été depuis longtemps en pointe sur l'automatisation de la conduite, réaliser des tests a depuis toujours été extrêmement difficile. Le pire, c'est que cela reste encore aujourd'hui tout aussi ardu, le cadre réglementaire n'ayant pas évolué au rythme nécessaire. 
 
  
@@ -65,7 +65,7 @@ Cette convention est en cours d'aménagement, mais l'aménagement envisagé est 
 Naturellement, la modification de la convention de Vienne n'est pas le seul changement à apporter à la réglementation. Il faut également agir aussi sur les méthodes de certification. 
 L'approche retenue doit ouvrir le cadre réglementaire tout en permettant la suspension des autorisations en cas de problèmes, pour responsabiliser les acteurs industriels. Elle doit permettre à court terme une massification des tests, sans commune mesure avec ce qui est prévu par les projets pilotes actuels, comme par exemple [**CityMobil2**](http://www.citymobil2.eu/en/). 
 
-**La France doit soutenir ses grands acteurs du transport public de voyageurs pour lancer une offre de mobilité par véhicules autonomes **
+**La France doit soutenir ses grands acteurs du transport public de voyageurs pour lancer une offre de mobilité par véhicules autonomes**
 
  
 

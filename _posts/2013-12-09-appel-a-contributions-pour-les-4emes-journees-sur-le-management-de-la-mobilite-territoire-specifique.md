@@ -11,7 +11,7 @@ redirect_from:
   - /2013/12/09/appel-a-contributions-pour-les-4emes-journees-sur-le-management-de-la-mobilite-territoire-specifique/
 ---
 
-Les **[4èmes journées nationales d’études](http://www2.ademe.fr/servlet/getDoc?id=90305&ref=17205&p1=1&p2=), **organisées les **17 et 18 juin **à Chambéry par l’ADEME, le CERTU (MEDDE), le GART, le CNFPT, avec Chambéry métropole, sur le **management de la mobilité** s’inscrivent à la suite de trois précédents colloques consacrés aux nouveaux services à la mobilité (NSM).
+Les **[4èmes journées nationales d’études](http://www2.ademe.fr/servlet/getDoc?id=90305&ref=17205&p1=1&p2=),** organisées les **17 et 18 juin** à Chambéry par l’ADEME, le CERTU (MEDDE), le GART, le CNFPT, avec Chambéry métropole, sur le **management de la mobilité** s’inscrivent à la suite de trois précédents colloques consacrés aux nouveaux services à la mobilité (NSM).
 
  
 
@@ -30,10 +30,10 @@ spécifiques »** : (territoires potentiellement confrontés à des caractéris
 
  
 
- ** [Notice informative management_mobilite](https://fr.slideshare.net/transportsdufutur/notice-informative-managementmobilite) ** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)** 
+ **[Notice informative management_mobilite](https://fr.slideshare.net/transportsdufutur/notice-informative-managementmobilite)** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)** 
 
 Compléments : 
 
-**Public : **Collectivités locales et services techniques, autorités organisatrices de transport urbain, entreprises, bureaux d'études, organismes de recherche et du secteur associatif
-**Tarif : **50 euros
-**Organisateur(s) : **ADEME, Centre d'Etudes sur les Réseaux, les Transports, l'Urbanisme et les constructions publiques (CERTU- laboratoire du Ministère de l'Ecologie, du Développement Durable et de l'Energie), Groupement des Autorités Responsables de Transport (GART), Centre national de la fonction publique (CNFPT), avec Chambéry métropole
+**Public :** Collectivités locales et services techniques, autorités organisatrices de transport urbain, entreprises, bureaux d'études, organismes de recherche et du secteur associatif
+**Tarif :** 50 euros
+**Organisateur(s) :** ADEME, Centre d'Etudes sur les Réseaux, les Transports, l'Urbanisme et les constructions publiques (CERTU- laboratoire du Ministère de l'Ecologie, du Développement Durable et de l'Energie), Groupement des Autorités Responsables de Transport (GART), Centre national de la fonction publique (CNFPT), avec Chambéry métropole

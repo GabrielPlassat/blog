@@ -66,7 +66,7 @@ Mais les acteurs du numérique ont déjà une longueur d'avance. Sans doute, la 
 
  
 
-*Cette quête de pouvoir virtuelle à dimension internationale n’est pas seulement ludique, puisque Google a mis un dispositif subtil de partenariats commerciaux. En effet, les joueurs sont invités lors de leurs déplacements à se rendre dans les boutiques partenaires pour acquérir des objets réels. Le jeu sera prochainement téléchargeable gratuitement sous Androïd et bientôt su**r **iOS**,** la version bêta est d’ores et déjà disponible à l’essai. Ingress n'est certes pas le premier «real world game», mais cette application addictive très bien conçue est à ce jour le jeu le plus immersif en matière de réalité augmentée.*
+*Cette quête de pouvoir virtuelle à dimension internationale n’est pas seulement ludique, puisque Google a mis un dispositif subtil de partenariats commerciaux. En effet, les joueurs sont invités lors de leurs déplacements à se rendre dans les boutiques partenaires pour acquérir des objets réels. Le jeu sera prochainement téléchargeable gratuitement sous Androïd et bientôt su**r** iOS**,** la version bêta est d’ores et déjà disponible à l’essai. Ingress n'est certes pas le premier «real world game», mais cette application addictive très bien conçue est à ce jour le jeu le plus immersif en matière de réalité augmentée.*
 
  
 

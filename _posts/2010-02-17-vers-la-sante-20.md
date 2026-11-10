@@ -22,7 +22,7 @@ Cette évolution participe à la remise en question du sujet de la santé, des r
 
  
 
- **** 
+
 
 ***L'article :*** Alors que le process est bien engagé aux Etats-Unis, précurseur en e-santé, la France peine davantage à entreprendre une remise en question des codes établis tant le sujet est sensible. Cependant, des colloques spécialisés, animés par des associations de professionnels, se tiennent annuellement afin de maintenir la dynamique d’évolution des mœurs au sein de la société française. La [Conférence Health 2.0 Europe](http://www.health2con.com/paris2010) se tiendra à Paris les 6 et 7 avril prochains à la Cité Internationale Universitaire de Paris.
 
@@ -78,7 +78,7 @@ Ce nouveau chapitre ne relève pas d’une dimension opérationnelle de l’outi
 
  
 
-**Sources **:
+**Sources**:
 
  
  

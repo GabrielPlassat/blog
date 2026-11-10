@@ -31,7 +31,7 @@ La technologie électrique utilisant moteur – électronique – stockage élec
 
  
 
-** **
+ 
 
  
 
@@ -60,7 +60,7 @@ La technologie électrique utilisant moteur – électronique – stockage élec
  
 
 **Un second mouvement de balancier aura sans doute lieu** pour permettre à la fois une approche circulaire, pour découpler la possession et l’usage, pour maximiser l’utilisation des ressources en réduisant les externalités, et une conception, une gestion, voire une production des objets par les citoyens eux-mêmes dans des **[living labs]({{ site.baseurl }}/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab/)**. Pour le véhicule, plusieurs signaux faibles, déjà [**abordés** ]({{ site.baseurl }}/2009/11/open-source-mobilites-quels-avantages-quelles-consequences/)dans ce blog, sont déjà à
-l’œuvre comme [**C’mm’n**](http://www.cmmn.org/) et [**SIM**](http://www.usinenouvelle.com/article/la-luciole-premiere-voiture-electrique-open-source.N116133). Le [**projet Véhicule Vert Breton**](http://www.themavision.fr/jcms/c_124575/projet-vehicule-vert-breton) (et [**ici**](http://www.agence-eco-bretagne.com/Le-Vehicule-vert-en-Bretagne-une)) pourrait être la première réalisation d’envergure incluant les utilisateurs à la conception. La réalisation, en dehors des batteries, est imaginable dans un second temps dans des usines plus locales, dont les «[ **fab lab **](http://fr.wikipedia.org/wiki/Fab_lab)» et [**Arduino**](http://www.arduino.cc/) sont les prémices.
+l’œuvre comme [**C’mm’n**](http://www.cmmn.org/) et [**SIM**](http://www.usinenouvelle.com/article/la-luciole-premiere-voiture-electrique-open-source.N116133). Le [**projet Véhicule Vert Breton**](http://www.themavision.fr/jcms/c_124575/projet-vehicule-vert-breton) (et [**ici**](http://www.agence-eco-bretagne.com/Le-Vehicule-vert-en-Bretagne-une)) pourrait être la première réalisation d’envergure incluant les utilisateurs à la conception. La réalisation, en dehors des batteries, est imaginable dans un second temps dans des usines plus locales, dont les «[ **fab lab** ](http://fr.wikipedia.org/wiki/Fab_lab)» et [**Arduino**](http://www.arduino.cc/) sont les prémices.
 
  
 

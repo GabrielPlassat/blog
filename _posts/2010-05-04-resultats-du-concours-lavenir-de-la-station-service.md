@@ -35,7 +35,7 @@ Beyond the Edge: While Matt McInerney's Park and Charge may be a less ambitious 
 
  
 
-**Second place, and winner of $500, Dave Pinter: **
+**Second place, and winner of $500, Dave Pinter:**
 
  
 

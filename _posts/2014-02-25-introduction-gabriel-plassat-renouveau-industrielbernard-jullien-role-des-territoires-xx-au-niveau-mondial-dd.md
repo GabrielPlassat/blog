@@ -23,7 +23,7 @@ Le [**séminaire Véhicules & Mobilités servicielles**](http://www.invest-in-br
 
  
 
-*Gabriel Plassat ADEME, **[présentation](http://t.co/EVDMIhRMAg) **            **Bernard Jullien**, GERPISA*
+*Gabriel Plassat ADEME, **[présentation](http://t.co/EVDMIhRMAg)**            **Bernard Jullien**, GERPISA*
 
  
 

@@ -11,7 +11,7 @@ redirect_from:
   - /2011/01/10/prochaines-journees-detudes-bus-propres-les-9-et-10-fevrier-a-limoges/
 ---
 
-**L'ADEME **organise, avec le **GART **et l'**UTP**, les prochaines **Journées d'études Bus propres"** : les 9 et 10 février à Limoges. Il s'agit de la 7ème édition. Vous pouvez accéder aux livrables (OPTIBUS II) de la 6ème édition (2007) **[ICI](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=48657&p1=00&p2=12&ref=17597)**.
+**L'ADEME** organise, avec le **GART** et l'**UTP**, les prochaines **Journées d'études Bus propres"** : les 9 et 10 février à Limoges. Il s'agit de la 7ème édition. Vous pouvez accéder aux livrables (OPTIBUS II) de la 6ème édition (2007) **[ICI](http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=48657&p1=00&p2=12&ref=17597)**.
 
  
 

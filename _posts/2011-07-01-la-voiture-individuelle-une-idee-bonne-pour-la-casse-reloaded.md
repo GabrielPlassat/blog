@@ -28,11 +28,11 @@ Sous cette contrainte majeure, nous rechercherons des solutions d'adaptation min
 
  
 
-Par exemple, la mise en oeuvre d'une solution de mobilité/immobilité comme les téléactivités n'achoppe pas pour des raisons technologiques, mais avant tout pour des raisons d'organisation du travail et des activités de l'entreprise, de son management. Maintenir dans le temps, faire adhérer massivement les salariés à cette solution implique de repenser l'ensemble de l'activité de l'entreprise, toutes les relations de pouvoir et de hiérarchie, jusqu'aux syndicats. **Ainsi, le télétravail ne se "branche" pas (ou à la marge) sur l'entreprise "toute chose égale par ailleurs". **Enfin, développer le télétravail nécessite de trouver des alliés: qui a intérêt à ? les petites communes pour maintenir les actifs, starbuck ...
+Par exemple, la mise en oeuvre d'une solution de mobilité/immobilité comme les téléactivités n'achoppe pas pour des raisons technologiques, mais avant tout pour des raisons d'organisation du travail et des activités de l'entreprise, de son management. Maintenir dans le temps, faire adhérer massivement les salariés à cette solution implique de repenser l'ensemble de l'activité de l'entreprise, toutes les relations de pouvoir et de hiérarchie, jusqu'aux syndicats. **Ainsi, le télétravail ne se "branche" pas (ou à la marge) sur l'entreprise "toute chose égale par ailleurs".** Enfin, développer le télétravail nécessite de trouver des alliés: qui a intérêt à ? les petites communes pour maintenir les actifs, starbuck ...
 
  
 
-Seule l'expérimentation permettra à l'entreprise (et aux ménages) de **SIMULTANEMENT **repenser ses activités, brancher des solutions de mobilité/immobilité et trouver des alliés dans ce changement. Ce processus d'essais et d'erreurs est le fondement même de toute innovation de rupture. Facebook n'avait aucun modèle d'affaire au départ. Imprévue au départ, sa **[monnaie](http://fr.readwriteweb.com/2010/07/23/a-la-une/les-crdits-facebook-premire-monnaie-mondiale/)** lui apporte une part importante de ses revenus. Demain, elle changera le rapport à l'argent, et donc les échanges.
+Seule l'expérimentation permettra à l'entreprise (et aux ménages) de **SIMULTANEMENT** repenser ses activités, brancher des solutions de mobilité/immobilité et trouver des alliés dans ce changement. Ce processus d'essais et d'erreurs est le fondement même de toute innovation de rupture. Facebook n'avait aucun modèle d'affaire au départ. Imprévue au départ, sa **[monnaie](http://fr.readwriteweb.com/2010/07/23/a-la-une/les-crdits-facebook-premire-monnaie-mondiale/)** lui apporte une part importante de ses revenus. Demain, elle changera le rapport à l'argent, et donc les échanges.
 
  
 

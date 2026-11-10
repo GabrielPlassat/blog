@@ -25,4 +25,4 @@ Si vous êtes  une ville intéressée par l'approche adoptée, les interfaces 
 
  
 
- ** [Citysdk](http://fr.slideshare.net/adrianslatcher/citysdk) ** from **[Adrian Slatcher](http://fr.slideshare.net/adrianslatcher)**
+ **[Citysdk](http://fr.slideshare.net/adrianslatcher/citysdk)** from **[Adrian Slatcher](http://fr.slideshare.net/adrianslatcher)**

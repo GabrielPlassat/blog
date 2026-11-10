@@ -31,8 +31,7 @@ Intervention de **Marc Giget**, Directeur de l'Institut Européen de stratégies
 
  
 
-Intervention de **Yann Moulier Boutang**, UTC :**
-**
+Intervention de **Yann Moulier Boutang**, UTC : 
 
  
 

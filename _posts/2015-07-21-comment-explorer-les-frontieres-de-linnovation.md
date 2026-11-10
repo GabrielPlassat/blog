@@ -14,7 +14,7 @@ redirect_from:
 
  
 
-Ces « voitures » matérialisent physiquement la ***richesse* **de Google : la capacité à prendre des risques, à innover à la frontière, à exploiter ses cartes (lien vers [**le choc à venir entre les industries numériques et automobiles**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/)) et algorithmes, à industrialiser une myriade de services potentiels et à influencer les décideurs pour rendre possible leur futur (lien vers [**le point de basculement**]({{ site.baseurl }}/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc/)). Les morceaux de tôles pliées et de plastique ne sont que l’incarnation de ces nouvelles formes d’innovations : centrées sur la multitude, riches en expérience, en phase avec les besoins de mobilité, adaptables, évolutives.
+Ces « voitures » matérialisent physiquement la ***richesse*** de Google : la capacité à prendre des risques, à innover à la frontière, à exploiter ses cartes (lien vers [**le choc à venir entre les industries numériques et automobiles**]({{ site.baseurl }}/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires/)) et algorithmes, à industrialiser une myriade de services potentiels et à influencer les décideurs pour rendre possible leur futur (lien vers [**le point de basculement**]({{ site.baseurl }}/2012/09/la-google-car-va-rouler-en-californie-tout-va-plus-vite-que-prevu-le-point-de-basculement-se-rapproc/)). Les morceaux de tôles pliées et de plastique ne sont que l’incarnation de ces nouvelles formes d’innovations : centrées sur la multitude, riches en expérience, en phase avec les besoins de mobilité, adaptables, évolutives.
 
  
 
@@ -46,7 +46,7 @@ Cela doit devenir une obsession : comment innover à la frontière, se relier �
 
  
 
-La notion de filière des transports doit être questionnée. Toutes nos organisations de soutien sont conçues autour d'une histoire industrielle : chaînes de fournisseurs, de sous-traitants, pôles de compétitivité, découpages dans les ministères et les agences, formation des cadres et ingénieurs. Le numérique, devenant dominant, traverse ces domaines, s’en nourrit, relie des sujets autrefois séparés, et plus que tout, place l’utilisateur au centre. La **MétaNoté N°6****, **Quelle plateforme pour concevoir un système de mobilité basé sur le numérique, décrit les principales caractéristiques de ces évolutions.
+La notion de filière des transports doit être questionnée. Toutes nos organisations de soutien sont conçues autour d'une histoire industrielle : chaînes de fournisseurs, de sous-traitants, pôles de compétitivité, découpages dans les ministères et les agences, formation des cadres et ingénieurs. Le numérique, devenant dominant, traverse ces domaines, s’en nourrit, relie des sujets autrefois séparés, et plus que tout, place l’utilisateur au centre. La **MétaNoté N°6****,** Quelle plateforme pour concevoir un système de mobilité basé sur le numérique, décrit les principales caractéristiques de ces évolutions.
 
  
 

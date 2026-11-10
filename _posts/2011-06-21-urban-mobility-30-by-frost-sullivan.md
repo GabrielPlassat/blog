@@ -15,7 +15,7 @@ redirect_from:
 
  
 
-**LONDON**** - ****20 June, 2011**** -** Innovative mobility concepts, such as car sharing schemes, have the potential to revolutionise the future of urban transport, yet they will only complement public and other transport solutions. Concepts integrating many different modes of transportation will have to be developed.
+**LONDON****-****20 June, 2011****-** Innovative mobility concepts, such as car sharing schemes, have the potential to revolutionise the future of urban transport, yet they will only complement public and other transport solutions. Concepts integrating many different modes of transportation will have to be developed.
 
  
 

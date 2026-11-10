@@ -35,7 +35,7 @@ Certaines propositions décrites n'ont pas eu lieu, mais le rôle clé du numér
 
  
 
-**MétaNote TdF N°0, l'origine, de l'objet aux services, une chance **
+**MétaNote TdF N°0, l'origine, de l'objet aux services, une chance**
 
  
 
@@ -75,7 +75,7 @@ Pile à combustible, hybridation, plug-in, lithium polymère… une palette de �
 
  
 
-Rappelons tout d’abord que les technologies actuelles apportent dès aujourd’hui un potentiel de gain énergétique très important, ceci avait déjà été démontré dans les années 1980 lors des programmes 3 l/100km. Ainsi, la dernière SMART par exemple, qui est équipée d’un moteur Diesel « simple » émet 87 gCO**2**/km (consommation de 3.3 l/100km), pour une masse de 800 kg. Une autre simulation complète réalisée par l’IFP et l’ADEME permet de dégager quelques ordres de grandeur. En partant d’un véhicule standard actuel (1360 kg, 130 gCO2/km, Diesel 1.6 litre, 120ch), il est possible d’estimer la performance énergétique de son équivalent sobre qui utilise les mêmes technologies : 850 kg, Vmax 165 km/h, 90 gCO2/km ! **La question n’est donc plus de savoir comment faire un véhicule qui émet moins de 90 gCO2/km, mais de se demander pourquoi ne commercialise-t-on toujours pas des véhicules de 800 kg ? **La réponse vient en grande partie du compromis énoncé préalablement : marge bénéficiaire *et/ou *valeur ajoutée pour le client dont l’efficacité énergétique.
+Rappelons tout d’abord que les technologies actuelles apportent dès aujourd’hui un potentiel de gain énergétique très important, ceci avait déjà été démontré dans les années 1980 lors des programmes 3 l/100km. Ainsi, la dernière SMART par exemple, qui est équipée d’un moteur Diesel « simple » émet 87 gCO**2**/km (consommation de 3.3 l/100km), pour une masse de 800 kg. Une autre simulation complète réalisée par l’IFP et l’ADEME permet de dégager quelques ordres de grandeur. En partant d’un véhicule standard actuel (1360 kg, 130 gCO2/km, Diesel 1.6 litre, 120ch), il est possible d’estimer la performance énergétique de son équivalent sobre qui utilise les mêmes technologies : 850 kg, Vmax 165 km/h, 90 gCO2/km ! **La question n’est donc plus de savoir comment faire un véhicule qui émet moins de 90 gCO2/km, mais de se demander pourquoi ne commercialise-t-on toujours pas des véhicules de 800 kg ?** La réponse vient en grande partie du compromis énoncé préalablement : marge bénéficiaire *et/ou *valeur ajoutée pour le client dont l’efficacité énergétique.
 
  
 
@@ -115,7 +115,7 @@ Le prix de la mobilité individuelle est en croissance, avec un point de départ
 
  
 
-Le principe pollueur/payeur, un des mieux accepté par l’opinion publique, pourrait peser sur les acheteurs particuliers ou professionnels une contrainte morale croissante. Par ailleurs, la société évolue et sa (ou ses ?) mobilité également : impact du vieillissement nécessitant des modes spécifiques, de l’éclatement du modèle familial induisant une souplesse aujourd’hui impossible – une semaine avec un deux roues (le couple), une semaine avec un minibus (mes enfants et ceux de ma compagne), de l’arrivée sur le marché du travail de la génération Y qui ne se déplace plus dans l’entreprise pour travailler.** Les besoins en termes de types de véhicule se diversifient. Les évolutions sur « l’objet automobile » ne suffiront pas, les principales sources de progrès pourraient venir des évolutions d’usage, de modes d’organisations.**
+Le principe pollueur/payeur, un des mieux accepté par l’opinion publique, pourrait peser sur les acheteurs particuliers ou professionnels une contrainte morale croissante. Par ailleurs, la société évolue et sa (ou ses ?) mobilité également : impact du vieillissement nécessitant des modes spécifiques, de l’éclatement du modèle familial induisant une souplesse aujourd’hui impossible – une semaine avec un deux roues (le couple), une semaine avec un minibus (mes enfants et ceux de ma compagne), de l’arrivée sur le marché du travail de la génération Y qui ne se déplace plus dans l’entreprise pour travailler. **Les besoins en termes de types de véhicule se diversifient. Les évolutions sur « l’objet automobile » ne suffiront pas, les principales sources de progrès pourraient venir des évolutions d’usage, de modes d’organisations.**
 
  
 
@@ -147,7 +147,7 @@ Ainsi à moyen terme, avec des différences selon les marchés au niveau mondial
 
  
 
-Vitrine technologique utilisant des groupes motopropulseurs (GMP) à haute efficacité énergétique et multicarburants, châssis et carrosserie avec des nanotubes de carbones, communicant avec les autres véhicules et les infrastructures, ce véhicule sera produit par certains constructeurs automobiles « classiques » utilisant des modes de conception globalisés (mondiaux) et dé-intégrés, sur le modèle de DELL (production à la demande). Ce véhicule **vecteur d’émotion et de statut **se développera de la berline au petit véhicule urbain. Acheté par des particuliers, mais surtout par des entreprises comme moyen de promotion, ce sera un objet de mode.
+Vitrine technologique utilisant des groupes motopropulseurs (GMP) à haute efficacité énergétique et multicarburants, châssis et carrosserie avec des nanotubes de carbones, communicant avec les autres véhicules et les infrastructures, ce véhicule sera produit par certains constructeurs automobiles « classiques » utilisant des modes de conception globalisés (mondiaux) et dé-intégrés, sur le modèle de DELL (production à la demande). Ce véhicule **vecteur d’émotion et de statut** se développera de la berline au petit véhicule urbain. Acheté par des particuliers, mais surtout par des entreprises comme moyen de promotion, ce sera un objet de mode.
 
  
 
@@ -253,7 +253,7 @@ Cette transition de l'objet Véhicule aux services de mobilité doit être vue a
 
  
 
-**MétaNote TdF N°0, l'origine, de l'objet aux services, une chance **
+**MétaNote TdF N°0, l'origine, de l'objet aux services, une chance**
 
  
 

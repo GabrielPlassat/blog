@@ -42,4 +42,4 @@ Researchers plan to engage with a rural community who would input into the desig
 
  
 
-Cette idée d'une place de marché des sièges libres, de rendre l'accès à tous les sièges libres aussi simples et rapides que possible est également détaillé **ici **et **là**. Elle se concrétise dans ce projet. Mais quelle **gouvernance **sera associée à cet outil ?
+Cette idée d'une place de marché des sièges libres, de rendre l'accès à tous les sièges libres aussi simples et rapides que possible est également détaillé **ici** et **là**. Elle se concrétise dans ce projet. Mais quelle **gouvernance** sera associée à cet outil ?

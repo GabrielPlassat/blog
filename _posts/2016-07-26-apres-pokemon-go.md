@@ -45,7 +45,7 @@ Magic Leap travaille sur trois réalités : virtuelle, augmentée, mixée. Ce n'
 
 Acteurs industriels des ressources physiques, vous avez donc en face d'autres acteurs industriels qui construisent des infrastructures numériques invisibles ([**Uber** ]({{ site.baseurl }}/2015/11/qui-sont-les-natu-ne-vous-fiez-pas-aux-apparences/)n'est pas une société de Taxi ou VTC, [**Tesla**]({{ site.baseurl }}/2015/11/qui-sont-les-natu-ne-vous-fiez-pas-aux-apparences/) n'est pas un constructeur de voiture). Ces actifs les connectent à la multitude. Et ces connexions se font à travers et sur vos infrastructures physiques qu'ils transforment. Quelles sont les expériences de mobilité aujourd'hui ? Comment vont-elles être hackées d'ici quelques mois ?
 
-**Quelle(s) réalité(s) proposez vous ? Que pourra-t-on y faire ? Quel équipage y travaille aujourd'hui ? **
+**Quelle(s) réalité(s) proposez vous ? Que pourra-t-on y faire ? Quel équipage y travaille aujourd'hui ?**
 
 Pour poursuivre :
 

@@ -14,7 +14,7 @@ L'industrie automobile a choisi de concevoir, développer et commercialiser des 
 
  
 
-Plusieurs **articles** ont été rédigés sur le basculement que provoquera l'arrivée des cybercars à la fois pour les constructeurs, mais également pour les opérateurs de transports publics, car cet objet permettra de réaliser des services inédits. Plus que tout, cet objet assurera **simultanément** des bénéfices individuels et collectifs facilement compréhensibles qui accélèreront les changements de comportement (voir **les articles** rédigés sur la notion d'holoptisme). **L'objectif est ici de présenter la stratégie d'un acteur du numérique, Google, et de souligner la nouvelle bataille en cours dans le domaine des cartes qui révèle l'importance de maîtriser cette représentation du monde physique. **
+Plusieurs **articles** ont été rédigés sur le basculement que provoquera l'arrivée des cybercars à la fois pour les constructeurs, mais également pour les opérateurs de transports publics, car cet objet permettra de réaliser des services inédits. Plus que tout, cet objet assurera **simultanément** des bénéfices individuels et collectifs facilement compréhensibles qui accélèreront les changements de comportement (voir **les articles** rédigés sur la notion d'holoptisme). **L'objectif est ici de présenter la stratégie d'un acteur du numérique, Google, et de souligner la nouvelle bataille en cours dans le domaine des cartes qui révèle l'importance de maîtriser cette représentation du monde physique.**
 
  
 

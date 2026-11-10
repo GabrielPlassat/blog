@@ -11,7 +11,7 @@ redirect_from:
   - /2011/09/28/walkscore-appartment-revolutionne-la-recherche-dun-bien-immobilier-par-les-donnees-de-transports/
 ---
 
-[**Walkscore **](http://www.walkscore.com)(déjà mentionné [**ICI**]({{ site.baseurl }}/2010/08/lier-choix-de-lieux-dhabitations-et-de-transports/)) permet de déterminer un indice de marchabilité d'un bien immobilier pour accéder à des services (école, supermarché, ...) à pied. Cet indice s'est largement diffusé dans plusieurs villes américaines, jusqu'à être repris par les agences immobilières pour mieux vendre un bien. Désormais plusieurs agences indiquent pour chaque bien, l'indice de marchabilité.
+[**Walkscore** ](http://www.walkscore.com)(déjà mentionné [**ICI**]({{ site.baseurl }}/2010/08/lier-choix-de-lieux-dhabitations-et-de-transports/)) permet de déterminer un indice de marchabilité d'un bien immobilier pour accéder à des services (école, supermarché, ...) à pied. Cet indice s'est largement diffusé dans plusieurs villes américaines, jusqu'à être repris par les agences immobilières pour mieux vendre un bien. Désormais plusieurs agences indiquent pour chaque bien, l'indice de marchabilité.
 
  
 

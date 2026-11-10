@@ -23,7 +23,7 @@ Le marché de l’automobile neuve n’est pas actuellement conforme celui des t
 
  
 
-Avec **[MyEnergi](http://www.greencarcongress.com/2013/01/ford-20130108.html) **et son partenariat avec Whirlpool pour l’électroménager et Eaton pour la production d’électricité photovoltaïque, Ford, avec son plug-in, souhaite se positionner comme systémier permettant de réduire la consommation d’énergie et les émissions de GES. 
+Avec **[MyEnergi](http://www.greencarcongress.com/2013/01/ford-20130108.html)** et son partenariat avec Whirlpool pour l’électroménager et Eaton pour la production d’électricité photovoltaïque, Ford, avec son plug-in, souhaite se positionner comme systémier permettant de réduire la consommation d’énergie et les émissions de GES. 
 
  
 

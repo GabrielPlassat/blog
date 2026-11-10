@@ -34,7 +34,7 @@ Les principales raisons invoquées pour expliquer le non-respect de la conformit
 - Peu d’acceptation des mesures par le public, en particulier des mesures concernant la circulation. 
 - Difficulté d’identifier les sources dans le cas des PM10 et inventaires d’émissions inexacts. 
 - Concentrations de fond de PM10 élevées dans les régions. 
-- **Sous-estimation des émissions réelles des véhicules routiers comparées aux limites légales, ainsi qu****’****une augmentation des émissions primaires de NO2 des véhicules diesel. Selon le rapport, ceci peut entraîner une surestimation importante du potentiel de dépollution des mesures actuelles. ** 
+- **Sous-estimation des émissions réelles des véhicules routiers comparées aux limites légales, ainsi qu****’****une augmentation des émissions primaires de NO2 des véhicules diesel. Selon le rapport, ceci peut entraîner une surestimation importante du potentiel de dépollution des mesures actuelles.** 
 - Certaines mesures ne peuvent être prises qu’au niveau local. Il existait aussi une incertitude concernant le timing et l’ambition de certaines mesures communautaires. 
  
 

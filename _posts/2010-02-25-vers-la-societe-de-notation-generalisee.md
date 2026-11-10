@@ -22,7 +22,7 @@ Les acteurs sociaux sont confrontés dans leur vie quotidienne à une multitude 
 
  
 
-**L’enjeu commun à ces notations **est d’englober différentes dimensions d’un bien donné en une appréciation synthétique de sa qualité (**chiffre, étoile, lettre**) qui soit utile aux agents économiques. Apparaissant sur des marchés dont le seul point commun est la présence **d’asymétries d’information **(le consommateur est souvent moins informé de la qualité du bien échangé que le vendeur), les systèmes de notation s’avèrent hétérogènes. Les notations peuvent être fondés sur des dires d’expert ou produites de façon communautaire sur Internet, elles peuvent s’échanger sur des marchés ou être mises à disposition gratuitement, certaines acquièrent un statut de quasi-label qui leur donne un rôle crucial sur les marchés."
+**L’enjeu commun à ces notations** est d’englober différentes dimensions d’un bien donné en une appréciation synthétique de sa qualité (**chiffre, étoile, lettre**) qui soit utile aux agents économiques. Apparaissant sur des marchés dont le seul point commun est la présence **d’asymétries d’information** (le consommateur est souvent moins informé de la qualité du bien échangé que le vendeur), les systèmes de notation s’avèrent hétérogènes. Les notations peuvent être fondés sur des dires d’expert ou produites de façon communautaire sur Internet, elles peuvent s’échanger sur des marchés ou être mises à disposition gratuitement, certaines acquièrent un statut de quasi-label qui leur donne un rôle crucial sur les marchés."
 
  
 
@@ -36,11 +36,11 @@ Il a déjà abordé sur ce blog le besoin de réduire l’asymétrie d’informa
 
 En matière de mobilité, le manque d’informations est, on ne peut plus, évident : aucune connaissance de la consommation réelle du véhicule avant l’achat, aucune connaissance de l’utilisation de la climatisation par exemple, aucune connaissance globale des données liées aux transports en commun sur un territoire, aucune connaissance des destinations/places libres du flux, aucune connaissance des émissions réelles des véhicules … 
 
-**   " Divers *business models*…**
+**" Divers *business models*…**
 
  
 
-La notation n’est donc pas seulement un concentré d’informations destiné à corriger une défaillance de marché, c’est aussi un service qui procure une utilité aux agents et qui, en tant que tel, peut être vendu et acheté sur un marché « autonome ». Chaque situation notateur/noté étant spécifique, il existe pratiquement autant de *business models *que de notations, ce que suggère la figure 3. Deux cas polaires se distinguent cependant, selon que la notation est produite **à l’intérieur du marché par les agents eux mêmes** (notation interne) ou produite par une autorité **extérieure et indépendante **(notation externe). Cela renvoie, entre autres considérations, à la capacité d’objectiver la qualité d’un bien et l’on retrouve la distinction évoquée plus haut entre l’évaluation par les experts et l’évaluation par les acteurs eux-mêmes.
+La notation n’est donc pas seulement un concentré d’informations destiné à corriger une défaillance de marché, c’est aussi un service qui procure une utilité aux agents et qui, en tant que tel, peut être vendu et acheté sur un marché « autonome ». Chaque situation notateur/noté étant spécifique, il existe pratiquement autant de *business models *que de notations, ce que suggère la figure 3. Deux cas polaires se distinguent cependant, selon que la notation est produite **à l’intérieur du marché par les agents eux mêmes** (notation interne) ou produite par une autorité **extérieure et indépendante** (notation externe). Cela renvoie, entre autres considérations, à la capacité d’objectiver la qualité d’un bien et l’on retrouve la distinction évoquée plus haut entre l’évaluation par les experts et l’évaluation par les acteurs eux-mêmes.
 
  
 

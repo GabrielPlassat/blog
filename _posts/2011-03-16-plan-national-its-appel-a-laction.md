@@ -29,7 +29,7 @@ Pour ce faire, ATEC ITS France a largement diffusé un questionnaire invitant ch
  [Atec directive-its-grille-de-recueil](http://www.slideshare.net/transportsdufutur/atec-directiveitsgrillederecueil) View more [documents](http://www.slideshare.net/) from [transportsdufutur](http://www.slideshare.net/transportsdufutur). 
 Le 4 avril, nous vous proposons de vous restituer de manière très synthétique les questionnaires déjà reçus, avant d’organiser des travaux d’approfondissement en sous-groupes. 
 
-**A**** qui s’adresse cette journée ? 
+**A****qui s’adresse cette journée ? 
 **
 La journée s’adresse à tous les acteurs de la mobilité intelligente et notamment : 
  

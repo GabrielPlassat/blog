@@ -35,7 +35,7 @@ Venus des USA, avec **Y combinator** notamment, les accélérateurs se sont dév
 
  
 
-D'un autre coté, des accélérateurs européens comme** FrontierCities**, financé par la Commission Européenne, vise à promouvoir l’incorporation de FIWARE (Future Internet Technology) dans le domaine de la mobilité intelligente pour les villes de l’Union européenne. Au travers du fonds de subventions de FrontierCities, **€3, 920,000 de subventions seront à la disposition de PME, Start-Ups et de Web-Developers** pour le développement et la mise en œuvre d’applications de mobilité intelligente dans les villes.
+D'un autre coté, des accélérateurs européens comme **FrontierCities**, financé par la Commission Européenne, vise à promouvoir l’incorporation de FIWARE (Future Internet Technology) dans le domaine de la mobilité intelligente pour les villes de l’Union européenne. Au travers du fonds de subventions de FrontierCities, **€3, 920,000 de subventions seront à la disposition de PME, Start-Ups et de Web-Developers** pour le développement et la mise en œuvre d’applications de mobilité intelligente dans les villes.
 
  
 
@@ -53,7 +53,7 @@ Alors que le total des fonds de subvention de € 3,92 millions sera attribué a
 
  
 
- ** Leaflet frontier cities ** from **Les transports du futur** 
+ **Leaflet frontier cities** from **Les transports du futur** 
 
 Porté par les Investissements d'Avenir et la communauté French Tech, BPI vient également de lancer un AMI dédié au financement des accélérateurs privés : **fonds french tech Accélération.**
 
@@ -64,4 +64,4 @@ Porté par les Investissements d'Avenir et la communauté French Tech, BPI vient
 
  
 
-**Et si, en s'appuyant sur les accélérateurs existants, la Fabrique des Mobilités était capable de mieux capitaliser les erreurs/réussites, de baisser les barrières pour expérimenter dans quelques territoires pionniers, de connecter les projets et d'organiser les COMMUNS essentiels de cette filière : les datas, les codes sources, les prototypes, les modules de formation, les normes et standards, ... ? **
+**Et si, en s'appuyant sur les accélérateurs existants, la Fabrique des Mobilités était capable de mieux capitaliser les erreurs/réussites, de baisser les barrières pour expérimenter dans quelques territoires pionniers, de connecter les projets et d'organiser les COMMUNS essentiels de cette filière : les datas, les codes sources, les prototypes, les modules de formation, les normes et standards, ... ?**

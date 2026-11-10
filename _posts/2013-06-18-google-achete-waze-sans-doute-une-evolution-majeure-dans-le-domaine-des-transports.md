@@ -19,7 +19,7 @@ Les synergies entre ces 2 sociétés sont nombreuses et puissantes. Waze préfig
 
  
 
-**“Whenever you’re going onto the web, you start with a search bar,” he said. “Wherever you’re going in the real world, you’re going to start with Waze.” **
+**“Whenever you’re going onto the web, you start with a search bar,” he said. “Wherever you’re going in the real world, you’re going to start with Waze.”**
 
  
 
@@ -136,7 +136,7 @@ Pour le moment, il n’y a pas de publicité géolocalisée lors d’une utilisa
 
  
 
-La communauté est basée à la fois sur des données géolocalisées issues des utilisateurs eux-mêmes, des algorithmes, une structure hiérarchique entre les usagers passifs et les autres, et des community managers par pays.** **
+La communauté est basée à la fois sur des données géolocalisées issues des utilisateurs eux-mêmes, des algorithmes, une structure hiérarchique entre les usagers passifs et les autres, et des community managers par pays. 
 
  
 

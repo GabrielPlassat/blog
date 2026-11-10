@@ -20,15 +20,15 @@ En s’appuyant sur l’[**étude récemment publiée par l’ADEME dédiée aux
 - Développer une version de l’outil numérique **public** sous un format/support à définir permettant à chacun de visualiser et comprendre l’impact des principales décisions sur les critères de flux de personnes et marchandises, les émissions de CO2, et les coûts. Ce livrable pourra s’inspirer des *serious games* existants. 
  
 
-**Durée **: 3 à 5 mois, à partir de Mars.
+**Durée**: 3 à 5 mois, à partir de Mars.
 
  
 
-**Lieu **: ADEME Sophia-Antipolis (06)
+**Lieu**: ADEME Sophia-Antipolis (06)
 
  
 
-**Niveau **: Elève Ingénieur
+**Niveau**: Elève Ingénieur
 
  
 

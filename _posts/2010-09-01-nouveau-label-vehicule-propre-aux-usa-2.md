@@ -19,23 +19,23 @@ L'EPA et le National Highway Traffic Safety Administration (NHTSA) sont en trai
 
  
 
-**1. **This vehicle is rated a “B” for fuel economy and tailpipe greenhouse gases. The grading system ranges from A+ to D.
+**1.** This vehicle is rated a “B” for fuel economy and tailpipe greenhouse gases. The grading system ranges from A+ to D.
 
  
 
-**2. **A new website that would describe the new labels and include tools to enable consumers to personalize their estimates based on their own driving habits (i.e., annual miles they drive, their fuel cost, etc.)
+**2.** A new website that would describe the new labels and include tools to enable consumers to personalize their estimates based on their own driving habits (i.e., annual miles they drive, their fuel cost, etc.)
 
  
 
-**3. **This vehicle will save $1,900 in fuel expenses over five years compared to the average vehicle. The estimated 5-year fuel cost of this vehicle ($8,100) is $1,900 lower than that of the average gasoline vehicle ($10,000).
+**3.** This vehicle will save $1,900 in fuel expenses over five years compared to the average vehicle. The estimated 5-year fuel cost of this vehicle ($8,100) is $1,900 lower than that of the average gasoline vehicle ($10,000).
 
  
 
-**4. **This vehicle uses 3.8 gallons of gasoline to travel 100 miles for combined city and highway driving. This is an energy efficiency rate called fuel consumption. Fuel consumption values, unlike MPG, relate directly to the amount of fuel used.
+**4.** This vehicle uses 3.8 gallons of gasoline to travel 100 miles for combined city and highway driving. This is an energy efficiency rate called fuel consumption. Fuel consumption values, unlike MPG, relate directly to the amount of fuel used.
 
  
 
-**5. **This vehicle can travel about 22 miles on a gallon of gas for city driving.
+**5.** This vehicle can travel about 22 miles on a gallon of gas for city driving.
 
  
 

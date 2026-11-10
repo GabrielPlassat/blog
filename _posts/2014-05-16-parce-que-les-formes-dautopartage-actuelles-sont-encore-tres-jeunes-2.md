@@ -50,15 +50,15 @@ De la même façon, encore aujourd'hui, personne n'a la certitude de pouvoir tra
 
  
 
-**Nous sommes à début de l'histoire des services de mobilités portés par le numérique, chaque service doit être étudié, évalué, modestement, en le plaçant en perspective et en considérant le système complet d'offres de mobilité. **
+**Nous sommes à début de l'histoire des services de mobilités portés par le numérique, chaque service doit être étudié, évalué, modestement, en le plaçant en perspective et en considérant le système complet d'offres de mobilité.**
 
  
 
-**Ne condamnons pas un service dès le début, cherchons plutôt à l'orienter pour qu'il puisse exprimer son potentiel dans le contexte le plus adapté, le territoire pertinent. Partageons les connaissances sur les usages, sur les pratiques et surtout sur les changements pour identifier les conditions d'acceptabilité aux changements (lire l'article sur [les changements de comportements]({{ site.baseurl }}/2013/11/changer-de-mode-de-transport-doit-etre-une-consequence-et-non-un-objectif/)). **
+**Ne condamnons pas un service dès le début, cherchons plutôt à l'orienter pour qu'il puisse exprimer son potentiel dans le contexte le plus adapté, le territoire pertinent. Partageons les connaissances sur les usages, sur les pratiques et surtout sur les changements pour identifier les conditions d'acceptabilité aux changements (lire l'article sur [les changements de comportements]({{ site.baseurl }}/2013/11/changer-de-mode-de-transport-doit-etre-une-consequence-et-non-un-objectif/)).**
 
  
 
-**Travaillons, chacun dans nos métiers, les liens entre les différents services, leurs complémentarités, les liens entre les transports publics traditionnels", les liens entre le transport individuel et le transport collectif, le public et le privé. Les principales innovations sont aux interstices des systèmes, des domaineset des métiers. **
+**Travaillons, chacun dans nos métiers, les liens entre les différents services, leurs complémentarités, les liens entre les transports publics traditionnels", les liens entre le transport individuel et le transport collectif, le public et le privé. Les principales innovations sont aux interstices des systèmes, des domaineset des métiers.**
 
  
 

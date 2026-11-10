@@ -19,7 +19,7 @@ Le **[CERES](http://www.ceres.org/)**, qui rassemble une coalition nationale aux
 
  
  
-- ***The six percent scenario (roughly 60 MPG) would generate an estimated $152 billion in fuel savings for consumers in 2030 **compared to business as usual. Of the $152 billion saved at the pump, $59 billion would be expected to be spent in the auto industry as drivers purchase cleaner, more efficient vehicles. The remaining $93 billion will be spent across the rest of the economy, boosting consumers’ discretionary income for everything from retail purchases to restaurant trips to increased spending on health care.* 
+- ***The six percent scenario (roughly 60 MPG) would generate an estimated $152 billion in fuel savings for consumers in 2030** compared to business as usual. Of the $152 billion saved at the pump, $59 billion would be expected to be spent in the auto industry as drivers purchase cleaner, more efficient vehicles. The remaining $93 billion will be spent across the rest of the economy, boosting consumers’ discretionary income for everything from retail purchases to restaurant trips to increased spending on health care.* 
 - ***Nearly 700,000 new full time jobs would be created under the six percent scenario**, compared to only about 350,000 jobs under the three percent (roughly 47 MPG) scenario.* 
 - ***63,000 new, full-time domestic auto industry jobs would be created in 2030 under the six percent scenario**; more than double the 31,000 jobs under the three percent scenario. * 
  

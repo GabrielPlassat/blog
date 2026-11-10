@@ -37,7 +37,7 @@ A plus ou moins court terme, donc, le nombre de stations-service parisiennes est
 
  
 
-Il est également possible de réinventer l'intérêt premier de cette infrastructure : lieu de livraison de marchandises, hotel, lieu de culture, lieu multimodal en complément d'un chargement **rapide** d'énergie fossile. L'achat de carburant électricité va, là aussi, bouleverser ce lieu, le chargement étant plus **lent, **Better Place lance d'ailleurs un **[concours de design](http://www.latribuneauto.com/reportages-68-2554-la-nissan-v2g-remporte-le-concours-de-design-du-salon-de-l-auto-de-los-angeles.html)** sur le sujet. 
+Il est également possible de réinventer l'intérêt premier de cette infrastructure : lieu de livraison de marchandises, hotel, lieu de culture, lieu multimodal en complément d'un chargement **rapide** d'énergie fossile. L'achat de carburant électricité va, là aussi, bouleverser ce lieu, le chargement étant plus **lent,** Better Place lance d'ailleurs un **[concours de design](http://www.latribuneauto.com/reportages-68-2554-la-nissan-v2g-remporte-le-concours-de-design-du-salon-de-l-auto-de-los-angeles.html)** sur le sujet. 
 
  
 

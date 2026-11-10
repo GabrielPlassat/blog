@@ -19,7 +19,7 @@ Blue Solutions fait son introduction en **[bourse](http://www.boursier.com/actio
 
  
 
-** De la batterie, au véhicule, puis à la mobilité**
+**De la batterie, au véhicule, puis à la mobilité**
 
  
 
@@ -31,7 +31,7 @@ Logiquement, les blue bus en circulation en Côte d'Ivoire vont nourrir les proc
 
  
 
-**Accélération **
+**Accélération**
 
  
 
@@ -49,4 +49,4 @@ En partant de la batterie, Blue solutions est devenue une plateforme, sur laquel
 
  
 
- ** Cp bluebus abidjan 3 ** from **Les transports du futur**
+ **Cp bluebus abidjan 3** from **Les transports du futur**

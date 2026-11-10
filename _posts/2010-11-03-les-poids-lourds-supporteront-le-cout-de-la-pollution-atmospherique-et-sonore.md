@@ -27,7 +27,7 @@ Siim Kallas, vice-président de la Commission européenne responsable des transp
 
  
 
-**La réglementation actuelle : **La directive «Eurovignette» de 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures établit, au niveau de l'UE, un cadre pour la perception des péages et des droits d'usage. La directive autorise les États membres, sans les y obliger, à percevoir des droits d'usage (sur une base temporelle, tels que droits journaliers, hebdomadaires, annuels) ou des péages (en fonction de la distance, par exemple kilométrique) pour les poids lourds de plus de 3,5 tonnes (petits camions), à condition d'éviter toute discrimination et de fixer des droits d'usage et des péages limités à la couverture des coûts strictement nécessaires d'entretien et de remplacement des infrastructures routières.
+**La réglementation actuelle :** La directive «Eurovignette» de 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures établit, au niveau de l'UE, un cadre pour la perception des péages et des droits d'usage. La directive autorise les États membres, sans les y obliger, à percevoir des droits d'usage (sur une base temporelle, tels que droits journaliers, hebdomadaires, annuels) ou des péages (en fonction de la distance, par exemple kilométrique) pour les poids lourds de plus de 3,5 tonnes (petits camions), à condition d'éviter toute discrimination et de fixer des droits d'usage et des péages limités à la couverture des coûts strictement nécessaires d'entretien et de remplacement des infrastructures routières.
 
  
 
@@ -37,7 +37,7 @@ La directive «Eurovignette» actuelle interdit la perception d'autres taxes cou
 
  
 
-**La proposition : **La proposition de révision de la directive «Eurovignette» examinée par les ministres des transports vise à :
+**La proposition :** La proposition de révision de la directive «Eurovignette» examinée par les ministres des transports vise à :
 
  
  
@@ -47,11 +47,11 @@ La directive «Eurovignette» actuelle interdit la perception d'autres taxes cou
 - étendre le champ d'application de la directive «Eurovignette» pour qu'elle couvre non seulement le réseau RTE-T (comme c'est le cas à l'heure actuelle) mais également toutes les autoroutes d'Europe, et soumettre ainsi le calcul des taux des péages aux règles de la directive pour éviter toute discrimination 
  
 
-**Et ensuite ? **Le texte adopté par les ministres des transports sera soumis au Parlement européen et n'acquerra force de loi qu'une fois adopté par les députés.
+**Et ensuite ?** Le texte adopté par les ministres des transports sera soumis au Parlement européen et n'acquerra force de loi qu'une fois adopté par les députés.
 
  
 
-**Contexte : **Quelque 30 000 km d'autoroutes sont actuellement soumis à péage en Europe. Environ la moitié fait partie du réseau RTE-T et entre donc dans le champ d'application de la directive «Eurovignette». La directive révisée couvrirait toutes les autoroutes à péage, ce qui constituerait une hausse substantielle.
+**Contexte :** Quelque 30 000 km d'autoroutes sont actuellement soumis à péage en Europe. Environ la moitié fait partie du réseau RTE-T et entre donc dans le champ d'application de la directive «Eurovignette». La directive révisée couvrirait toutes les autoroutes à péage, ce qui constituerait une hausse substantielle.
 
  
 

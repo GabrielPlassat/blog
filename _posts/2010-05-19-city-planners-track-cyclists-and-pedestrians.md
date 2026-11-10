@@ -35,7 +35,7 @@ Mindful of that growth, transportation planners in states and municipalities acr
 
  
 
- **MAP: **[Participation in 2010 Census](http://www.usatoday.com/news/nation/census/2010-04-12-Census-participation--graphic_N.htm) **FULL COVERAGE: **[Census 2010](http://www.usatoday.com/news/nation/census/default.htm) **VIDEO: **[10 strange facts about the Census](http://www.usatoday.com/news/nation/census/10-strange-facts-video.htm) 
+ **MAP:** [Participation in 2010 Census](http://www.usatoday.com/news/nation/census/2010-04-12-Census-participation--graphic_N.htm) **FULL COVERAGE:** [Census 2010](http://www.usatoday.com/news/nation/census/default.htm) **VIDEO:** [10 strange facts about the Census](http://www.usatoday.com/news/nation/census/10-strange-facts-video.htm) 
 
  
 

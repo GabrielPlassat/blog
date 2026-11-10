@@ -16,7 +16,7 @@ redirect_from:
 
  
 
-**Paris, le 20 Avril 2010 – **Une nouvelle étude vient de dévoiler les 59 villes les plus embouteillées d’Europe ; et Bruxelles est la ville la plus touchée. La Pologne et le Royaume-Uni sont également des pays où la conduite urbaine peut vite devenir cauchemardesque, alors qu’en Espagne et les pays Nordiques la conduite est beaucoup plus fluide.
+**Paris, le 20 Avril 2010 –** Une nouvelle étude vient de dévoiler les 59 villes les plus embouteillées d’Europe ; et Bruxelles est la ville la plus touchée. La Pologne et le Royaume-Uni sont également des pays où la conduite urbaine peut vite devenir cauchemardesque, alors qu’en Espagne et les pays Nordiques la conduite est beaucoup plus fluide.
 
  
 

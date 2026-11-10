@@ -21,4 +21,4 @@ Centré sur les techniques, ce rapport n'aborde pas vraiment les conséquences e
 
 Ce rapport de l'homme à la technique est toujours intéressant à remettre en perspective notamment grâce à des penseurs comme J.ELLUL (lire l'article **De Jacques ELLUL à Ray KURZWEIL**).
 
- ** Mgi disruptive technologies_executive_summary_may2013 ** from **Les transports du futur**
+ **Mgi disruptive technologies_executive_summary_may2013** from **Les transports du futur**

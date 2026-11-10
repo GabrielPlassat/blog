@@ -45,7 +45,7 @@ Il y aura toujours des acheteurs traditionnels d'automobile haut de gamme, deman
 
  
 
-Mais Christensen nous explique que c'est déjà trop tard, l'écart ouvert pour la surabondance technologique va, dans tous les cas, générer des ruptures. Comme **Kodak**, Toyota va travailler sur la voiture robotisée pour améliorer la sécurité, déposer des brevets et poursuivre car le confort du modèle d'affaire historique est trop grand. Tout est planifiable, les profits générés et les risques bien connus. Les ingénieurs vont néanmoins alerter les comités de direction des risques d'une automatisation complète, mais ils ne pourront pas répondre aux 2 questions clés,** là où se joue précisement le dilemme de l'innovateur** :
+Mais Christensen nous explique que c'est déjà trop tard, l'écart ouvert pour la surabondance technologique va, dans tous les cas, générer des ruptures. Comme **Kodak**, Toyota va travailler sur la voiture robotisée pour améliorer la sécurité, déposer des brevets et poursuivre car le confort du modèle d'affaire historique est trop grand. Tout est planifiable, les profits générés et les risques bien connus. Les ingénieurs vont néanmoins alerter les comités de direction des risques d'une automatisation complète, mais ils ne pourront pas répondre aux 2 questions clés, **là où se joue précisement le dilemme de l'innovateur** :
 
  
  

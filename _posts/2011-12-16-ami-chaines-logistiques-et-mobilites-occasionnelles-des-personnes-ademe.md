@@ -11,7 +11,7 @@ redirect_from:
   - /2011/12/16/ami-chaines-logistiques-et-mobilites-occasionnelles-des-personnes-ademe/
 ---
 
-[**Ce second Appel à Manifestation d'Inrérêt (AMI)**](http://www2.ademe.fr/servlet/getDoc?id=80842&cid=96&m=3&p1=1) porte sur l’approche intégrée des chaînes logistiques et des systèmes multimodaux de mobilité des personnes et des marchandises, autrement dit sur des **systèmes complets de mobilité **où pourraient converger les problématiques liées tant au transport de personnes que de marchandises, en particulier en matière de partage des données et de gouvernance. Pour les voyageurs, elle concerne des mobilités occasionnelles et non plus quotidiennes, liées par exemple à l’accès à des services de santé ou à des loisirs, des déplacements professionnels.
+[**Ce second Appel à Manifestation d'Inrérêt (AMI)**](http://www2.ademe.fr/servlet/getDoc?id=80842&cid=96&m=3&p1=1) porte sur l’approche intégrée des chaînes logistiques et des systèmes multimodaux de mobilité des personnes et des marchandises, autrement dit sur des **systèmes complets de mobilité** où pourraient converger les problématiques liées tant au transport de personnes que de marchandises, en particulier en matière de partage des données et de gouvernance. Pour les voyageurs, elle concerne des mobilités occasionnelles et non plus quotidiennes, liées par exemple à l’accès à des services de santé ou à des loisirs, des déplacements professionnels.
 
  
 
@@ -61,7 +61,7 @@ Les travaux de recherche, ainsi que les démonstrateurs et expérimentations pou
 
  
  
-- Constituer, assurer la disponibilité et la maintenance de nouvelles bases de données de connaissance et, le cas échéant, créer de nouvelles données stratégiques, sur la mobilité de personnes et la logistique (pollutions, taux de remplissage des véhicules, émissions de CO2 par véhicule, par tonne.km ou [**par colis par exemple**]({{ site.baseurl }}/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/)). Ces nouvelles bases recensant les données les plus influentes devraient être ouvertes et partagées ; elles permettront, d’une part, de mieux comprendre les flux réels et, d’autre part, de concevoir des produits/services adaptés aux besoins. Ce travail pourra se faire en lien avec l’action nationale [**Etalab **](http://www.etalab.gouv.fr/); 
+- Constituer, assurer la disponibilité et la maintenance de nouvelles bases de données de connaissance et, le cas échéant, créer de nouvelles données stratégiques, sur la mobilité de personnes et la logistique (pollutions, taux de remplissage des véhicules, émissions de CO2 par véhicule, par tonne.km ou [**par colis par exemple**]({{ site.baseurl }}/2011/04/dhl-les-solutions-logistiques-durables-passent-par-plus-de-transparence-plus-de-regulation-plus-de-c/)). Ces nouvelles bases recensant les données les plus influentes devraient être ouvertes et partagées ; elles permettront, d’une part, de mieux comprendre les flux réels et, d’autre part, de concevoir des produits/services adaptés aux besoins. Ce travail pourra se faire en lien avec l’action nationale [**Etalab** ](http://www.etalab.gouv.fr/); 
  
  
 - Exploiter ces bases de données (connaissance en temps réel des horaires de tous les modes ou contenu carbone d’un produit par exemple), pour développer des assistants numériques destinés à faciliter le choix des acteurs (usagers, consommateurs, industriels). Ces travaux devront être marginaux en termes de budget et d’implication des acteurs au regard du projet complet. 

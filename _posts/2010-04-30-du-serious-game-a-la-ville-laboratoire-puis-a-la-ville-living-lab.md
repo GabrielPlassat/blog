@@ -15,7 +15,7 @@ En matière de mobilités, après une ère d'innovation basée sur des produits,
 
  
 
-Parmi les serious games en matière de mobilité, nous pouvons citer [**Clim city**](http://climcity.cap-sciences.net/)**,** Bus training game (RATP), Enercities ou encore la ville **[d'Issy les moulineaux](http://www.issy.com/index.php/fr/citoyens/finances_locales/issy_une_ville_qui_compte/issy_lance_un_serious_game_sur_les_impots_locaux)** sur les impôts locaux (voir la liste **[ici](http://www.e-virtuoses.net/detail_atelier8.php)**). Mais il existe d'autres serious games également intéressants ([**changement climatique, le monde des entreprises**](http://www.e-virtuoses.net/detail_atelier9.php)**). **Ces mondes sont entièrement virtuels, reproduisent fidèlement la réalité (tout au moins ce qui est modélisable). Pour accroitre la complexité, des villes laboratoires sont alors nécessaires. 
+Parmi les serious games en matière de mobilité, nous pouvons citer [**Clim city**](http://climcity.cap-sciences.net/)**,** Bus training game (RATP), Enercities ou encore la ville **[d'Issy les moulineaux](http://www.issy.com/index.php/fr/citoyens/finances_locales/issy_une_ville_qui_compte/issy_lance_un_serious_game_sur_les_impots_locaux)** sur les impôts locaux (voir la liste **[ici](http://www.e-virtuoses.net/detail_atelier8.php)**). Mais il existe d'autres serious games également intéressants ([**changement climatique, le monde des entreprises**](http://www.e-virtuoses.net/detail_atelier9.php)**).** Ces mondes sont entièrement virtuels, reproduisent fidèlement la réalité (tout au moins ce qui est modélisable). Pour accroitre la complexité, des villes laboratoires sont alors nécessaires. 
 
  
 

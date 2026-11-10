@@ -15,7 +15,7 @@ Open Hardware in the sector of transportation is starting. Many projects aim to 
 
 Our belief at Faraday Motion is that technology should be available to everyone in order to maintain its rapid and continuous development. As we also ourselves rely on open source technologies to create our products it was perfectly clear that we also will be open sourcing our own code and designs. For now the electronics designs are in CC Non commercial, but it will be changed in the near future to full open source. Together with the open source community a big and accelerated change can be achieved within the mobility industry. Besides that, by opening up our technology we want to encourage others to build even more things that the world has not yet seen. We believe collaboration and open source is the key to global tech advancement.
 
-![faraday1]({{ site.baseurl }}/assets/images/fabmob/2016/faraday1-1024x683.jpg) ** What are the objective of Faraday Motion ? What are your dreams ?**
+![faraday1]({{ site.baseurl }}/assets/images/fabmob/2016/faraday1-1024x683.jpg) **What are the objective of Faraday Motion ? What are your dreams ?**
 
 At Faraday Motion we envision a world of increased mobility efficience. A world in which its easy to combine public city transportation with efficient last mile vehicles in the city. Our objective is to create the technology foundation that will enable people to exploit modularity and find solutions to the current and future mobility challenges.
 

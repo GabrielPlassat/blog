@@ -21,4 +21,4 @@ redirect_from:
 
 Ci-dessous un article regroupant toutes les informations concernant le [**concours**](http://www.netvafrance.com/index.php?option=com_content&view=article&id=45&Itemid=1028&lang=en) ainsi que le lien vers le site de [**Netva**](http://www.netvafrance.com). 
 
- ** [Netva](http://www.slideshare.net/transportsdufutur/netva) ** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**
+ **[Netva](http://www.slideshare.net/transportsdufutur/netva)** from **[Les transports du futur](http://www.slideshare.net/transportsdufutur)**

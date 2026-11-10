@@ -15,11 +15,11 @@ Depuis de nombreuses années à l’étude, **[le « roadpricing » franchit u
 
  
 
-****
+
 
  
 
-**L’utilisateur paie **
+**L’utilisateur paie**
 
  
 
@@ -31,7 +31,7 @@ La vignette *(« MRB ») *et la taxe sur les véhicules motorisés à l’achat 
 
  
 
-**Moins d’embouteillages, environnement plus propre **
+**Moins d’embouteillages, environnement plus propre**
 
  
 
@@ -41,7 +41,7 @@ Plus les conducteurs auront des voitures propres et une attitude responsable, mo
 
  
 
-**Rouler propre, c’est rouler moins cher **
+**Rouler propre, c’est rouler moins cher**
 
  
 
@@ -53,31 +53,31 @@ Le tarif moyen pour une voiture de tourisme évoluera jusqu’en 20181 comme il 
 
  
 
-**2012 **
+**2012**
 
  
 
-**2013 **
+**2013**
 
  
 
-**2014 **
+**2014**
 
  
 
-**2015 **
+**2015**
 
  
 
-**2016 **
+**2016**
 
  
 
-**2017 **
+**2017**
 
  
 
-**2018 **
+**2018**
 
  
 
@@ -123,7 +123,7 @@ Les véhicules pour handicapés, tracteurs agricoles, *véhicules motorisés à 
 
  
 
-**Un instrument en plus de la construction **
+**Un instrument en plus de la construction**
 
  
 
@@ -133,7 +133,7 @@ Le gouvernement considère que la mobilité est une condition indispensable à l
 
  
 
-**Garantie du respect de la vie privée **
+**Garantie du respect de la vie privée**
 
  
 
@@ -144,7 +144,7 @@ tomobiliste gérera ces données. Les pouvoirs publics ne recevront pas de donn�
 
  
 
-**Plutôt rigueur que rapidité **
+**Plutôt rigueur que rapidité**
 
  
 

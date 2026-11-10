@@ -35,11 +35,11 @@ Ce que nous n’avons pu transformer de nos métabolismes cellulaires (qui reste
 
  
 
-1. Lutter contre la sédentarité ; favoriser toutes les conditions de l’accès du plus grand nombre à **l’activité physique OU sportive **; modifier les modes de déplacement en favorisant notamment la **mobilité active **(mobilité à force humaine ou mobilité « douce ») en aménageant les espaces publics pour les rendre favorables à ces modes de déplacement actifs ; les intégrer dans les cahiers des charges publiques (plan local d’urbanisme, voieries, projets d’urbanisation et d’aménagement du territoire…).
+1. Lutter contre la sédentarité ; favoriser toutes les conditions de l’accès du plus grand nombre à **l’activité physique OU sportive**; modifier les modes de déplacement en favorisant notamment la **mobilité active** (mobilité à force humaine ou mobilité « douce ») en aménageant les espaces publics pour les rendre favorables à ces modes de déplacement actifs ; les intégrer dans les cahiers des charges publiques (plan local d’urbanisme, voieries, projets d’urbanisation et d’aménagement du territoire…).
 
  
 
-2. Développer des **plans de déplacements actifs **pour les écoles, les universités, les entreprises et les institutions, en commençant par le ministère de la santé, de la jeunesse, des sports et de la vie associative.
+2. Développer des **plans de déplacements actifs** pour les écoles, les universités, les entreprises et les institutions, en commençant par le ministère de la santé, de la jeunesse, des sports et de la vie associative.
 
  
 

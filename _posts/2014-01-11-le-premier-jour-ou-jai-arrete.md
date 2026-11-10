@@ -31,7 +31,7 @@ Puis une troisième cercle de conséquences émerge pour les personnes qui y pr�
 
  
 
-Ces changements renforcent la décision initiale sur de multiples plans (mobilité bien sûr, mais également santé, lien social, développement personnel), les bénéfices se transforment en évidence, et d'autres champs peuvent évoluer : alimentation, respiration, consommation, engagement social... L'analyse des conséquences d'un changement de pratique, de comportement montre également que nos outils, basés essentiellement sur des bilans comptables utilisant l'euro comme aggrégateur de richesse, sont insuffisants et inadaptés. Vouloir parler de nos comportements oblige à mieux savoir décrire nos** multiples richesses**.
+Ces changements renforcent la décision initiale sur de multiples plans (mobilité bien sûr, mais également santé, lien social, développement personnel), les bénéfices se transforment en évidence, et d'autres champs peuvent évoluer : alimentation, respiration, consommation, engagement social... L'analyse des conséquences d'un changement de pratique, de comportement montre également que nos outils, basés essentiellement sur des bilans comptables utilisant l'euro comme aggrégateur de richesse, sont insuffisants et inadaptés. Vouloir parler de nos comportements oblige à mieux savoir décrire nos **multiples richesses**.
 
  
 

@@ -24,7 +24,7 @@ Ces propositions d'évolutions comportementales arriveront naturellement pour ce
 
  
 
-Les **deux premiers principes **(respect, projet à long terme) pourraient se traduire :
+Les **deux premiers principes** (respect, projet à long terme) pourraient se traduire :
 
  
  
@@ -33,11 +33,11 @@ Les **deux premiers principes **(respect, projet à long terme) pourraient se tr
 - pour le citoyen, par une évolution des comportements, l'intégration de nouvelles valeurs qui leur permettront de mieux vivre. 
  
 
-Le **troisième principe **(empathie) pourrait s'appliquer à tous les niveaux par une analyse permanente du monde qui nous entoure, des jeux d'acteurs, des intérêts croisés, ... pour décrypter, comprendre et agir. Plus particulièrement, les entreprises doivent développer des connaissances fines des clients, de leurs attentes réelles dans un monde moins stable. A l'inverse les citoyens vont demander à connaître en détail les produits qu'ils consomment, et d'accepteront plus de ne pas avoir accès à des informations aujourd'hui jugées confidentielles. Les fonctionnements en réseaux, en temps réel obligeront les industries à une transparence inédite à ce jour. Paradoxalement, pour être plus robuste, il faudra être plus ouvert sur les autres.
+Le **troisième principe** (empathie) pourrait s'appliquer à tous les niveaux par une analyse permanente du monde qui nous entoure, des jeux d'acteurs, des intérêts croisés, ... pour décrypter, comprendre et agir. Plus particulièrement, les entreprises doivent développer des connaissances fines des clients, de leurs attentes réelles dans un monde moins stable. A l'inverse les citoyens vont demander à connaître en détail les produits qu'ils consomment, et d'accepteront plus de ne pas avoir accès à des informations aujourd'hui jugées confidentielles. Les fonctionnements en réseaux, en temps réel obligeront les industries à une transparence inédite à ce jour. Paradoxalement, pour être plus robuste, il faudra être plus ouvert sur les autres.
 
  
 
-Le **quatrième principe **(résilience) vise à développer à tous les niveaux des modes de vie plus robustes aux crises et à ne compter que sur soi-même. Ce point est central pour la mobilité, et tous les acteurs devront s'y employer. Cette recherche d'autonomie, d'autarcie a déjà commencé au niveau :
+Le **quatrième principe** (résilience) vise à développer à tous les niveaux des modes de vie plus robustes aux crises et à ne compter que sur soi-même. Ce point est central pour la mobilité, et tous les acteurs devront s'y employer. Cette recherche d'autonomie, d'autarcie a déjà commencé au niveau :
 
  
  
@@ -50,10 +50,10 @@ Le **cinquième principe** (la créativité) découle des précédents en insta
 
  
 
- Le **sixième principe **(l’ubiquité) propose de changer à l'extrême pour assurer sa survie. Certaines entreprises ont su se réinventer comme Nokia. Mais les exemples sont peu nombreux, les chemins pour le faire restent inconnus. Il faut pourtant s'y préparer, le passage de la vente de voiture à la vente de mobilité doit être vu comme une chance pour le citoyen, les industries et l'environnement. Les pouvoirs publics doivent aider à cette transition par des outils, sans imposer de chemin.
+ Le **sixième principe** (l’ubiquité) propose de changer à l'extrême pour assurer sa survie. Certaines entreprises ont su se réinventer comme Nokia. Mais les exemples sont peu nombreux, les chemins pour le faire restent inconnus. Il faut pourtant s'y préparer, le passage de la vente de voiture à la vente de mobilité doit être vu comme une chance pour le citoyen, les industries et l'environnement. Les pouvoirs publics doivent aider à cette transition par des outils, sans imposer de chemin.
 
  
 
-Le **dernier et septième principe **(pensée révolutionnaire) ne devra être engagé qu'à la condition que les précédents ont tous été mis en oeuvre, sans succès. Pouvant conduire à la survie comme au pire, je propose de retenir une citation d'un des plus grands philosophes *Woody Allen* : "*L'avenir contient de grandes occasions. Il révèle aussi des pièges. Le problème sera d'éviter les pièges, de saisir les occasions et de rentrer chez soi pour six heures."*****
+Le **dernier et septième principe** (pensée révolutionnaire) ne devra être engagé qu'à la condition que les précédents ont tous été mis en oeuvre, sans succès. Pouvant conduire à la survie comme au pire, je propose de retenir une citation d'un des plus grands philosophes *Woody Allen* : "*L'avenir contient de grandes occasions. Il révèle aussi des pièges. Le problème sera d'éviter les pièges, de saisir les occasions et de rentrer chez soi pour six heures."*
 
 "

@@ -11,13 +11,13 @@ redirect_from:
   - /2011/01/27/le-covoiturage-solution-a-experimenter-pour-maitriser-les-depenses-departementales/
 ---
 
-Le rapport réalisé en avril 2010 par Monsieur Pierre JAMET traite des finances des départements. Il donne des exemples d'initiatives et d'expérimentations à lancer. Ainsi En matière de transport, ouvrir l’expérimentation à une organisation et à une participation financière au **covoiturage **en lieu et place de certains transports par cars, plus ou moins vides, aux horaires limités pour des raisons de coût. Il ne s’agit pas de systématiser, mais d’offrir la possibilité de faire quelques expériences. La protection de l’environnement, les finances politiques et les relations sociales y trouveraient avantage."
+Le rapport réalisé en avril 2010 par Monsieur Pierre JAMET traite des finances des départements. Il donne des exemples d'initiatives et d'expérimentations à lancer. Ainsi En matière de transport, ouvrir l’expérimentation à une organisation et à une participation financière au **covoiturage** en lieu et place de certains transports par cars, plus ou moins vides, aux horaires limités pour des raisons de coût. Il ne s’agit pas de systématiser, mais d’offrir la possibilité de faire quelques expériences. La protection de l’environnement, les finances politiques et les relations sociales y trouveraient avantage."
 
  
 
  
 
-La piste du covoiturage est également reprise dans la conclusion avec **de nombreuses propositions concrètes **:
+La piste du covoiturage est également reprise dans la conclusion avec **de nombreuses propositions concrètes**:
 
  
 
@@ -57,7 +57,7 @@ Le covoiturage pourrait prendre un essor rapide avec les mesures proposées suiv
 
  
 
-- **conférer aux Départements le rôle d’autorité organisatrice du covoiturage hors périmètre de transports urbains **(ou aux Régions si à l’avenir le transport inter urbain devient une compétence exclusive régionale),
+- **conférer aux Départements le rôle d’autorité organisatrice du covoiturage hors périmètre de transports urbains** (ou aux Régions si à l’avenir le transport inter urbain devient une compétence exclusive régionale),
 
  
 

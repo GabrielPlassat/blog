@@ -15,17 +15,17 @@ Créateur d’Android, racheté par Google, **[Andy Rubin](http://www.wired.com/
 
 "*Lorsque j'ai une intuition sur la façon dont quelque chose doit être , j'essaye de comprendre pourquoi il ne peut pas en être de cette façon aujourd'hui*", dit-il. Rubin a une certaine expérience de l’entrepreneuriat et toujours un coup d’avance sur des domaines clés :
 
-**1981 - **Social Networking, Twenty-three years before Facebook, Rubin hones his coding skills in college by running an early social network called Spies in the Wire.
+**1981 -** Social Networking, Twenty-three years before Facebook, Rubin hones his coding skills in college by running an early social network called Spies in the Wire.
 
-**1992 - **Mobile Computing, As an engineer at the Apple spinoff General Magic, Rubin helps create Magic Cap, an operating system for early handhelds that is years ahead of its time. It includes a prototype of the virtual keyboards used on phones today.
+**1992 -** Mobile Computing, As an engineer at the Apple spinoff General Magic, Rubin helps create Magic Cap, an operating system for early handhelds that is years ahead of its time. It includes a prototype of the virtual keyboards used on phones today.
 
-**2001 - **Smartphone Design, As a cofounder of Danger, Rubin unveils the Hiptop—aka the T-Mobile Sidekick—which introduces now-familiar features like always-on connectivity, cloud storage, and a rudimentary app store.
+**2001 -** Smartphone Design, As a cofounder of Danger, Rubin unveils the Hiptop—aka the T-Mobile Sidekick—which introduces now-familiar features like always-on connectivity, cloud storage, and a rudimentary app store.
 
-**2003 - **Mobile Platform Dominance, Rubin launches Android, a comprehensive, open source mobile operating system. Android goes on to be acquired by ­Google—and to become the biggest smartphone platform on the planet.
+**2003 -** Mobile Platform Dominance, Rubin launches Android, a comprehensive, open source mobile operating system. Android goes on to be acquired by ­Google—and to become the biggest smartphone platform on the planet.
 
-**2004- **Self-Driving Cars, Rubin puts $100,000 into Sebastian Thrun’s efforts to build a self-driving car—resulting in a victory at the 2005 Darpa Grand Challenge. Thrun goes on to head Google’s autonomous car program.
+**2004-** Self-Driving Cars, Rubin puts $100,000 into Sebastian Thrun’s efforts to build a self-driving car—resulting in a victory at the 2005 Darpa Grand Challenge. Thrun goes on to head Google’s autonomous car program.
 
-**2015 - **Artificially Intelligent Hardware, Eager to move beyond smartphones, Rubin starts Playground, a company that aims to create a manufacturing and development platform for AI-equipped devices.
+**2015 -** Artificially Intelligent Hardware, Eager to move beyond smartphones, Rubin starts Playground, a company that aims to create a manufacturing and development platform for AI-equipped devices.
 
 Rubin a une théorie : « l*'humanité est sur le point d'entrer dans une nouvelle ère de l'informatique* ». Tout comme MS-DOS a fait place à Macintosh et Windows, ce qui a donné lieu au web, ce qui a donné lieu aux smartphones. Il pense que les forces sont en place pour commencer une transition vers la prochaine grande plate-forme : l'intelligence artificielle.
 

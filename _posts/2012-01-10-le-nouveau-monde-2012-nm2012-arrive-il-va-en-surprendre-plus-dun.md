@@ -23,7 +23,7 @@ Cette transition est en cours. Elle ne se fera pas simplement, pas facilement po
 
  
 
-Le peer to peer ouvre de nouvelles possibilités et surtout, il révèle l’appétence de plus en plus de personnes pour fonctionner différemment. Certains sont même ouverts à partager leur voiture, d'autres à produire des connaissances sans recevoir de monnaie rare (euro) uniquement une monnaie de reconnaissance … Mais alors, **[Le peer to peer clé de voûte pour les économies futures ?](http://ht.ly/8iOQh) **Cela ne fait plus aucun doute. Mais malheureusement pour certains, le peer to peer ne se « branchera » pas sur les structures existantes sans rien modifier par ailleurs. 
+Le peer to peer ouvre de nouvelles possibilités et surtout, il révèle l’appétence de plus en plus de personnes pour fonctionner différemment. Certains sont même ouverts à partager leur voiture, d'autres à produire des connaissances sans recevoir de monnaie rare (euro) uniquement une monnaie de reconnaissance … Mais alors, **[Le peer to peer clé de voûte pour les économies futures ?](http://ht.ly/8iOQh)** Cela ne fait plus aucun doute. Mais malheureusement pour certains, le peer to peer ne se « branchera » pas sur les structures existantes sans rien modifier par ailleurs. 
 
  
 
