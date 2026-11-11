@@ -9,6 +9,7 @@ tags: ["citoyen", "confiance", "connectivité", "données réelles", "économie 
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2012/03/19/metanote-13-les-innovations-cles-dans-les-transports-les-services-de-mobilites-et-les-chaines-logist/
+categorie: metanote
 ---
 
 **Quatre années pour tenter de comprendre le problème**

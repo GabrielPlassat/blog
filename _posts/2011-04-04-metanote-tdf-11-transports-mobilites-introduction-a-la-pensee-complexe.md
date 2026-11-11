@@ -9,6 +9,7 @@ tags: ["anthropologie", "autorité des transports", "cité", "citoyen", "collect
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2011/04/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe/
+categorie: metanote
 ---
 
 Nous savons maintenant que les objectifs (Facteur 4, respect des objectifs européens en matière de qualité de l’air, réduction de la congestion, réduction d’utilisation des matières premières dont les ressources énergétiques)  ne pourront être respectés si nous nous limitons à l’optimisation des objets. **Aujourd’hui nous nous pouvons plus faire l’économie des innovations systémiques**.

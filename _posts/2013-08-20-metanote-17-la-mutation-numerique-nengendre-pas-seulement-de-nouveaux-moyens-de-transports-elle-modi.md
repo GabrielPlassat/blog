@@ -9,6 +9,7 @@ tags: ["application", "citoyen", "connectivité", "covoiturage", "donnée data",
 theme: "Stratégies numériques"
 redirect_from:
   - /2013/08/20/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi/
+categorie: metanote
 ---
 
 De nombreux articles de ce blog ont déjà présenté les conséquences visibles liées aux développements des techniques numériques, tant au niveau de l'offre de transports (de nouveaux services de mobilités, de nouvelles informations multimodales, ...) qu'au niveau de notre connaissance de la demande (utilisation des traces numériques, nouvelles formes d'enquêtes ménages déplacements, participation des usagers à la création de données, ...). Ces évolutions du "premier niveau" bouleversent déjà un écosystème entier tant les modèles d'affaires, les positions client/vendeur, les expériences de mobilité sont modifiées en profondeur. **[Des acteurs et des techniques d'une dizaine d'années à peine bousculent des chaînes de valeur établies]({{ site.baseurl }}/2013/07/et-si-les-jeux-etaient-deja-faits/)**.

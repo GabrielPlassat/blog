@@ -9,6 +9,7 @@ tags: ["citoyen", "collectivité", "confiance", "cygne noir", "données réelles
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/11/27/mathieu-philosophe-en-noosphere-et-amandine-hacker-artiste-leader-du-fablab/
+categorie: fiction
 ---
 
 "Vas-y, rajoute une bûche" demande Amandine. Le poële à bois hydraulique s'anime une fois par semaine pour chauffer les 2000 litres des ballons de stockage et fournir chaleur, eau chaude et quelques watts d'électricité pour les serveurs domestiques.

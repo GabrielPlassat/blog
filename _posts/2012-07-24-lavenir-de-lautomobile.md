@@ -10,6 +10,7 @@ theme: "Intelligence collective & innovation"
 aussi_sur: "LinkedIn"
 redirect_from:
   - /2012/07/24/lavenir-de-lautomobile/
+categorie: metanote
 ---
 
 Recherchons les principales tendances de fond qui ont, jusqu’à présent, structuré les choix. Le passage de la calèche à l’automobile est bien « discret » au sens mathématique, il ne s’agit pas d’une évolution continue. Personne ne pouvait imaginer au départ le formidable potentiel de cette rencontre [Moteur à Combustion Interne + Pétrole] ; nous sommes probablement en train de vivre le même type de transition vers un système plus large et plus complexe. Dès le départ, le chemin choisi [Moteur à Combustion Interne + pétrole] est celui qui comportait le plus de risques, le plus de difficultés mais le plus haut potentiel en matière d’intérêt individuel.

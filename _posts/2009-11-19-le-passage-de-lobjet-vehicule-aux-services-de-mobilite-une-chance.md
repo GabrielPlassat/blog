@@ -9,6 +9,7 @@ tags: ["assistant de mobilité", "autarcie", "banque", "citoyen", "cybercar", "c
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2009/11/19/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/
+categorie: metanote
 ---
 
 La mobilité est avant tout source de rencontre et de richesse. Au niveau mondial, nos déplacements individuels sont promis à une croissance importante liée essentiellement à une augmentation du niveau de vie et à la volonté d’optimiser son « temps à soi ». Mais cette croissance risque de ne pas être homogène pour tous, allant de l’exclusion avec de véritables [condamnés](http://www.priceminister.com/offer/buy/65352305/Domicile-Travail---Les-Salaries-A-Bout-De-Souffle-Livre.html) à demeure, à de nouveaux [voyageurs](http://www.virgingalactic.com/) spatiaux. 

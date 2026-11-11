@@ -9,6 +9,7 @@ tags: ["assistant de mobilité", "autorité des transports", "citoyen", "collect
 theme: "Stratégies numériques"
 redirect_from:
   - /2013/04/26/en-supprimant-quasiment-la-matiere-pour-ne-garder-que-les-flux-et-les-renverser-les-glass-avaient-to-1/
+categorie: fiction
 ---
 
 Ce texte (comme deux précédents : [**Amazon Energy Service** ]({{ site.baseurl }}/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service/)et **[Google Mobility Service]({{ site.baseurl }}/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre/)**) est une pure fiction. Il ne vise qu'à faciliter la projection pour mieux agir, aujourd'hui.

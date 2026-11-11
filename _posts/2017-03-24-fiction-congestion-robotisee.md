@@ -9,6 +9,7 @@ tags: ["Acteur historique des Mobilités et Logistiques", "Acteur numérique des
 theme: "Stratégies numériques"
 redirect_from:
   - /2017/03/24/fiction-congestion-robotisee/
+categorie: fiction
 ---
 
 Il fallait désormais se rendre à l’évidence. La robotisation des voitures n’a pas eu l’effet escompté. Enfin tout dépend pour qui… Tous les constructeurs avaient poursuivi les options d’assistance, de sécurité, de délégation de conduite, de parking automatique. De vrais salons roulants. Chacun le sien.

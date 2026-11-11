@@ -9,6 +9,7 @@ tags: ["ADEME", "assistant de mobilité", "assurance", "blockchain", "citoyen", 
 theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2015/12/07/fiction-n11-traceurs/
+categorie: fiction
 ---
 
 Chaque matin, Mathieu se prépare, déjeune et s’hydrate. La matinée s’annonce chargée, physique, forte en endorphine. Il adore cette sensation d’une future fatigue, il est relâché, pleinement ouvert sur ses sensations. 86 inscrits et sans doute autant le rejoindront ce matin. Ses lignes et sa trace sont appréciées. Depuis maintenant 8 ans, Mathieu conduit plusieurs lignes, statiques ou dynamiques en fonction des inscrits, pour le compte de plusieurs opérateurs de transports. Il a été livreur mais il préfère être traceur, c’est plus «* stable, tout aussi agréable et mieux payé *».[![horde-en-formation]({{ site.baseurl }}/assets/images/2015/12/horde-en-formation-170x300.jpg)]({{ site.baseurl }}/assets/images/2015/12/horde-en-formation.jpg)

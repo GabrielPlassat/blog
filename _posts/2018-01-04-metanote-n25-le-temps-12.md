@@ -9,6 +9,7 @@ tags: ["carte", "temps", "vitesse"]
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2018/01/04/metanote-n25-le-temps-12/
+categorie: metanote
 ---
 
 Le temps se mêle aux transports. Il en est même consubstantiel. Les progrès sur les techniques de transport reposent bien souvent sur la volonté de réduire son temps de transports, et son corollaire, augmenter la portée de ses déplacements pour accéder à d’autres ressources. La vitesse, ou plutôt les vitesses (voir cet [**article**]({{ site.baseurl }}/2017/12/la-vitesse-un-vieux-concept/)), semble être une conquête permanente. La connaissance de l’espace, notamment par la carte, remonte également aux sources des transports. Plusieurs articles de ce blog ont tenté de décrire l’importance de ces nouvelles cartes. Les acteurs industriels lancés dans cette course aux cartes rivalisent d’ingéniosité pour indexer les mondes physiques dans toutes leurs dimensions, maintenir à jour ces énormes quantités de données et, plus que tout, les mettre à disposition d’autres machines et de la multitude. Comprendre qui dominent l’espace et le temps, c’est comprendre le futur des transports. Une suite de deux articles nous permettra d’explorer les histoires du temps.

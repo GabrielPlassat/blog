@@ -9,6 +9,7 @@ tags: ["assistant de mobilité", "autorité des transports", "catastrophe", "cit
 theme: "Données & services numériques"
 redirect_from:
   - /2013/03/20/metanote-tdf-3-la-surveillance-reloaded/
+categorie: metanote
 ---
 
 La **[précédente MétaNote Tdf N°3]({{ site.baseurl }}/2010/03/apres-la-surveillance-la-sousveillance/)** portant sur le sujet a été rédigée il y a 3 ans (déjà !). Les tendances identifiées se réalisent toutes, et elles s'accélèrent. Automatisation et Robotisation des radars de contrôle dont les drones, utilisation des technologies numériques nomades pour tracer et apprendre les pratiques réelles notamment dans les transports, industrialisation de ces technologies fusionnées avec nos vêtements-nos lunettes-nos montres ...

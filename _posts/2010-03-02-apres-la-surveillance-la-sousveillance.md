@@ -9,6 +9,7 @@ tags: ["assurance", "citoyen", "données réelles", "internet", "partage de donn
 theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2010/03/02/apres-la-surveillance-la-sousveillance/
+categorie: metanote
 ---
 
 En matière de transport, la surveillance s'exprime aujourd'hui essentiellement par le biais des contrôles de vitesse qui, par l'automatisation, ont pu se développer rapidement ces dernières années. Ainsi depuis 2003, la France a mis en place un système de contrôle automatisé de la vitesse sur les routes qui jalonnent son territoire, principalement dans le but de renforcer la sécurité routière et de réduire ainsi le coût, à la fois humain et économique, des accidents de la route. Il est évident que cette mesure a largement participé à la baisse considérable du nombre de morts sur les routes françaises (inférieur à 5 000 en 2007 alors qu'il dépassait 10 000 à la fin des années 1980).

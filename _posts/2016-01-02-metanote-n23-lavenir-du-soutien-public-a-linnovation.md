@@ -9,6 +9,7 @@ tags: ["MétaNotes", "Non classé"]
 theme: "Communs, écosystèmes & open source"
 redirect_from:
   - /2016/01/02/metanote-n23-lavenir-du-soutien-public-a-linnovation/
+categorie: metanote
 ---
 
 « *Chaque entreprise et même chaque organisation sera obligée de se transformer dans les prochaines années* », **[Tim O’Reilly](https://fr.wikipedia.org/wiki/Tim_O%27Reilly)** – 2015.

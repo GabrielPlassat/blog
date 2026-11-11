@@ -9,6 +9,7 @@ tags: []
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2014/01/23/fiction-n7-cc/
+categorie: fiction
 ---
 
 *« La valeur de la donnée disparaît quand on parvient à lui en donner une. Il faudra fixer la valeur en remontant le temps. De là est née l’idée du traceur informationnel», Mathieu – 2027.*

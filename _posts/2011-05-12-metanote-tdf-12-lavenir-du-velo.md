@@ -9,6 +9,7 @@ tags: ["2 roues", "assurance", "citoyen", "collectivité", "commuter", "Efficaci
 theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2011/05/12/metanote-tdf-12-lavenir-du-velo/
+categorie: metanote
 ---
 
 Solution de mobilité à **[très haute efficacité énergétique ](http://sportech.online.fr/sptc_idx.php?pge=spfr_esy.html)**proche du TGV (pour le **[vélo couché](http://velo.xfou.com/)**), le vélo reste une solution marginale des mobilités quotidiennes en France. Inventé après le train, le vélo poursuit pourtant son évolution : sur l’objet même et sur la fonctionnalité. Il redeviendra un élément central de nos systèmes de mobilité, et modifiera certains jeux d'acteurs.

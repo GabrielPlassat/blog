@@ -9,6 +9,7 @@ tags: ["Efficacité énergétique", "véhicule mono-usage"]
 theme: "Véhicule sobre & fonctionnalité"
 redirect_from:
   - /2012/02/16/50-ans-apres-toute-ressemblance-avec-la-situation-actuelle-ne-serait-que-pure-fiction/
+categorie: fiction
 ---
 
 [![]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e770df75970c-800wi.jpg)]({{ site.baseurl }}/assets/images/old/6a0120a66d2ad4970b0168e770df75970c-pi.jpg)

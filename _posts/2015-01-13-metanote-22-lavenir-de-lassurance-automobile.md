@@ -9,6 +9,7 @@ tags: ["Acteur numérique des Mobilités et des Logistiques", "art de la guerre"
 theme: "Stratégies numériques"
 redirect_from:
   - /2015/01/13/metanote-22-lavenir-de-lassurance-automobile/
+categorie: metanote
 ---
 
 Autorité, étymologiquement "*savoir augmenté*". Depuis son origine, les assureurs gèrent des "informations" précises, contextualisées pour comprendre les risques, garantir et finalement permettre de nouvelles activités. Par la connaissance des pratiques et des risques, ils *augmentent* le savoir dans de nombreuses activités. Ce faisant, ils acquièrent une *Autorité*.
