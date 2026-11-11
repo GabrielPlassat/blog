@@ -33,7 +33,12 @@ header_pages:
   - ciel.html
   - terre.html
   - temps.html
+  - inscription.md
   - about.md
+
+feed:
+  posts_limit: 20
+  excerpt_only: true
 
 twitter:
   username: gabrielplassat
