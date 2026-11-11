@@ -9,6 +9,7 @@ tags: ["citoyen", "collectivité", "données réelles", "économie de l'expérie
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2014/09/10/metanote-21-vers-lhypercitoyen-acteur-heureux-a-lere-des-plateformes-numeriques/
+categorie: metanote
 ---
 
 Les décisions politiques américaines du GPS civil et de l'internet ont fait émerger des géants. Rien n'était planifiable, prévisible. Aucun état stratège ne pouvait penser Facebook, Amazon, Google ou Apple. Les GAFA sont des purs produits de l'innovation. Ces jeunes plateformes mettent en œuvre de nouveaux mécanismes pour se relier à leurs « clients », la multitude. Elles inventent en même temps les produits, les services, les contenus et les outils de reliance. Toutes différentes sur leurs marchés, elles se rejoignent sur un point majeur : l'industrialisation de la production et de l'utilisation de métabases de données sur nos usages, nos comportements numériques, nos pratiques – notamment de **[mobilité]({{ site.baseurl }}/2014/09/apple-a-partir-du-99-vous-ne-vous-deplacerez-plus-comme-avant/)**, de soins, d'achat – et nos contacts, nos réseaux.

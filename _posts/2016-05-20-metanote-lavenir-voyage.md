@@ -10,6 +10,7 @@ theme: "Stratégies numériques"
 aussi_sur: "LinkedIn"
 redirect_from:
   - /2016/05/20/metanote-lavenir-voyage/
+categorie: metanote
 ---
 
 Le voyage est avant tout une expérience, intégrale, de tous nos sens. A la recherche du « beau ». Une expérience est avant tout un stimulus. La marche stimule notre cerveau et certains indiquent que « *seules les pensées que l’on a en marchant valent quelque chose* ». La carte et le guide ont été à l’origine du voyage, la numérisation modifie-t-elle ce paysage ? Quels sont les nouveaux acteurs et comment agissent-ils ? Quelles sont les *couleurs primaires* d’un voyage ?

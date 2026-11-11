@@ -9,6 +9,7 @@ tags: ["Acteur historique des Mobilités et Logistiques", "Acteur numérique des
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2015/05/22/metanote-tdf-0-back-to-the-future/
+categorie: metanote
 ---
 
 Les bases de cette première MétaNote, l'origine, ont été rédigées en 2008 et l'article publié sur ce blog à son ouverture en 2009. Nourrie de nombreuses lectures et d'échanges internes à l'ADEME, elle est à l'origine même de ce blog. 

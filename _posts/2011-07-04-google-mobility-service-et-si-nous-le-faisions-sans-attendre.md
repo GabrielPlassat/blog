@@ -9,6 +9,7 @@ tags: ["citoyen", "confiance", "donnée data", "données réelles", "google", "m
 theme: "Stratégies numériques"
 redirect_from:
   - /2011/07/04/google-mobility-service-et-si-nous-le-faisions-sans-attendre/
+categorie: fiction
 ---
 
 Comme nous ne pouvons pas prévoir l’avenir et les principales innovations, qui par définition changent les usages, les pratiques et les modes de fonctionnement. Mettons tout en œuvre pour accélérer ces évolutions sans forcément les orienter.

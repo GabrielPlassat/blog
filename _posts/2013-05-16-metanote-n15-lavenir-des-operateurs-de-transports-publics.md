@@ -9,6 +9,7 @@ tags: ["Apple", "assistant de mobilité", "Assistant Personnel de Consommation",
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/05/16/metanote-n15-lavenir-des-operateurs-de-transports-publics/
+categorie: metanote
 ---
 
 **Vers un avenir crédible et souhaitable**

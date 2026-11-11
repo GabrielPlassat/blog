@@ -9,6 +9,7 @@ tags: ["citoyen", "collectivité", "dette", "données réelles", "externalité",
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/10/21/metanote-18-pour-une-ontologie-de-la-demandes-de-transport/
+categorie: metanote
 ---
 
 Les offres de transport se comprennent facilement, ce sont des moyens mis en œuvre pour se déplacer. Il y a des industries qui conçoivent, industrialisent des véhicules, d'autres les opèrent, d'autres assurent le déploiement conjoint des infrastructures de distribution d'énergie (carburant), d'autres des infrastructures pour les faire circuler (routes), pour les stocker (parking), d'autres enfin mettent en œuvre des solutions pour prélever des taxes visant à financer partiellement le système. Il n'y a pas besoin d'expliciter longuement, tout ceci se comprend. Nous avons déployé à la fois les industries et les concepts pour en parler.

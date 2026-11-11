@@ -9,6 +9,7 @@ tags: ["cybercar", "économie du quaternaire", "économie fonctionnalité", "fic
 theme: "Véhicule sobre & fonctionnalité"
 redirect_from:
   - /2014/09/30/fiction-n10-usa-la-mobilite-re-programmee/
+categorie: fiction
 ---
 
 Fortement appuyés sur la technologie et le numérique, quatre scénario sont proposés par le [**Centre Rudin (USA)**](http://wagner.nyu.edu/rudincenter/) pour 2030. Ces scénarios sont conçus comme des provocations aux décideurs et aux aménageurs pour stimuler les débats : Growth, Collapse, Constraint ou Transformation...

@@ -9,6 +9,7 @@ tags: ["agence mobilité", "Amazon", "assistant de mobilité", "autorité des tr
 theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2014/09/18/fiction-n9-la-journee-dhubert-dans-les-transports-publics-bruxellois/
+categorie: fiction
 ---
 
 *Cet article a été rédigé par [**Sophie Devillers**](http://www.lalibre.be/actu/planete/bruxelles-futuriste-tram-robot-bus-pop-up-et-telepheriques-5419de6b35708a6d4d5716f0), journaliste à la Libre Belgique, après un entretien portant sur les Transports publics du Futur.*

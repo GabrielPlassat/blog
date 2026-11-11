@@ -1,131 +1,46 @@
 /**
- * Recherche full-text côté client
+ * Recherche plein texte côté client (titre, tags, début du texte).
+ * Insensible aux accents et aux majuscules ; les titres qui contiennent les mots passent en premier.
  */
 (function() {
   'use strict';
-  
-  let searchIndex = [];
-  const searchInput = document.getElementById('search-input');
-  const searchResults = document.getElementById('search-results');
-  
-  if (!searchInput || !searchResults) return;
-  
-  // Charger l'index
-  fetch('/search.json')
-    .then(response => response.json())
-    .then(data => {
-      searchIndex = data;
-      console.log(`✓ Index chargé: ${searchIndex.length} articles`);
-    })
-    .catch(error => console.error('Erreur chargement index:', error));
-  
-  // Recherche avec debounce
-  let searchTimeout;
-  searchInput.addEventListener('input', function() {
-    clearTimeout(searchTimeout);
-    searchTimeout = setTimeout(() => search(this.value), 300);
-  });
-  
-  function search(query) {
-    if (!query || query.length < 2) {
-      searchResults.innerHTML = '';
-      searchResults.style.display = 'none';
-      return;
-    }
-    
-    query = query.toLowerCase();
-    const words = query.split(/\s+/).filter(w => w.length > 1);
-    
-    const results = searchIndex.filter(post => {
-      const searchText = (
-        post.title + ' ' + 
-        post.content + ' ' + 
-        post.tags.join(' ')
-      ).toLowerCase();
-      
-      return words.every(word => searchText.includes(word));
-    });
-    
-    displayResults(results.slice(0, 10), query);
+  const input = document.getElementById('search-input');
+  const box = document.getElementById('search-results');
+  if (!input || !box) return;
+  const BASE = window.BASE || '';
+  let index = null, timer;
+  const norm = s => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const esc = s => String(s || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const load = () => index || (index = fetch(BASE + '/search.json').then(r => r.json()).then(d => d.map(p => ({
+    ...p, nt: norm(p.title), nx: norm(p.title + ' ' + (p.tags || []).join(' ') + ' ' + p.content)
+  }))));
+  input.addEventListener('focus', load);
+  input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(run, 250); });
+
+  async function run() {
+    const q = input.value.trim();
+    if (q.length < 2) { box.innerHTML = ''; box.style.display = 'none'; return; }
+    const words = norm(q).split(/\s+/).filter(w => w.length > 1);
+    const all = await load();
+    const hits = all.filter(p => words.every(w => p.nx.includes(w)))
+      .map(p => ({ p, s: words.filter(w => p.nt.includes(w)).length }))
+      .sort((a, b) => b.s - a.s || (a.p.date < b.p.date ? 1 : -1));
+    box.style.display = 'block';
+    if (!hits.length) { box.innerHTML = `<div class="search-no-results"><p>Aucun résultat pour « <strong>${esc(q)}</strong> »</p></div>`; return; }
+    box.innerHTML = `<div class="search-results-header"><p>${hits.length} article${hits.length > 1 ? 's' : ''}${hits.length > 30 ? ' — les 30 premiers' : ''}</p></div>
+      <div class="search-results-list">${hits.slice(0, 30).map(({ p }) => `
+        <article class="search-result"><h3><a href="${p.url}">${mark(p.title, words)}</a></h3>
+        <time>${new Date(p.date).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+        <p class="excerpt">${mark(p.excerpt, words)}</p></article>`).join('')}</div>`;
   }
-  
-  function displayResults(results, query) {
-    searchResults.style.display = 'block';
-    
-    if (results.length === 0) {
-      searchResults.innerHTML = `
-        <div class="search-no-results">
-          <p>Aucun résultat pour "<strong>${escapeHtml(query)}</strong>"</p>
-        </div>
-      `;
-      return;
-    }
-    
-    const html = `
-      <div class="search-results-header">
-        <p>${results.length} résultat${results.length > 1 ? 's' : ''}</p>
-      </div>
-      <div class="search-results-list">
-        ${results.map(post => `
-          <article class="search-result">
-            <h3><a href="${post.url}">${highlightText(post.title, query)}</a></h3>
-            <time>${formatDate(post.date)}</time>
-            <p class="excerpt">${highlightText(post.excerpt, query)}</p>
-            ${post.tags.length > 0 ? `
-              <div class="tags">
-                ${post.tags.slice(0, 5).map(tag => 
-                  `<span class="tag">${tag}</span>`
-                ).join('')}
-              </div>
-            ` : ''}
-          </article>
-        `).join('')}
-      </div>
-    `;
-    
-    searchResults.innerHTML = html;
+  // surligne les mots trouvés, accents compris (« metanote » surligne « MétaNote »)
+  function mark(text, words) {
+    const t = String(text || ''), n = norm(t); let out = '', i = 0;
+    const spans = [];
+    words.forEach(w => { let k = n.indexOf(w); while (k >= 0) { spans.push([k, k + w.length]); k = n.indexOf(w, k + w.length); } });
+    spans.sort((a, b) => a[0] - b[0]).forEach(([a, b]) => { if (a < i) return; out += esc(t.slice(i, a)) + '<mark>' + esc(t.slice(a, b)) + '</mark>'; i = b; });
+    return out + esc(t.slice(i));
   }
-  
-  function highlightText(text, query) {
-    const words = query.toLowerCase().split(/\s+/).filter(w => w.length > 1);
-    let result = escapeHtml(text);
-    
-    words.forEach(word => {
-      const regex = new RegExp(`(${escapeRegex(word)})`, 'gi');
-      result = result.replace(regex, '<mark>$1</mark>');
-    });
-    
-    return result;
-  }
-  
-  function formatDate(dateStr) {
-    const date = new Date(dateStr);
-    return date.toLocaleDateString('fr-FR', { 
-      day: 'numeric', 
-      month: 'long', 
-      year: 'numeric' 
-    });
-  }
-  
-  function escapeHtml(text) {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
-  }
-  
-  function escapeRegex(str) {
-    return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  }
-  
-  document.addEventListener('click', function(e) {
-    if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
-      searchResults.style.display = 'none';
-    }
-  });
-  
-  searchInput.addEventListener('focus', function() {
-    if (searchResults.innerHTML) {
-      searchResults.style.display = 'block';
-    }
-  });
+  document.addEventListener('click', e => { if (!input.contains(e.target) && !box.contains(e.target)) box.style.display = 'none'; });
+  input.addEventListener('focus', () => { if (box.innerHTML) box.style.display = 'block'; });
 })();

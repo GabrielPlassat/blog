@@ -8,6 +8,7 @@ tags: ["crise", "Energie", "Précarité", "robustesse", "Service de mobilité", 
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2009/11/17/pour-une-mobilite-plus-robuste-aux-crises-a-venir/
+categorie: metanote
 ---
 
 Dans son dernier [livre](http://www.chapitre.com/CHAPITRE/fr/BOOK/attali-jacques/survivre-aux-crises-1020,23600257.aspx#), Jacques Attali propose quelques pistes pour survivre" aux crises (vivre de façon "supérieure" et également réussir à continuer à vivre). **Sept principes sont indiqués**. 

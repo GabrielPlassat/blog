@@ -12,7 +12,8 @@ Trois scripts Python, à lancer dans l'ordre (Colab ou poste local, `pip install
    Le détail est dans `rapport-liens.csv` (une ligne par lien modifié).
 3. `nettoyage.py` — retire la « traîne » de l'ancien export CSV (date, adresse, tags collés par des |, courriel…) laissée en bas de certains articles de Transports du Futur, et rétablit les liens vidés lors de l'ancienne conversion en retrouvant leur adresse dans `articles.csv` (détail dans `rapport-nettoyage.csv`). Relancer ensuite `liens.py`.
 4. `gras.py` — répare les mises en gras cassées par un espace collé aux `**` (« **texte ** » → « **texte** ») et supprime les gras vides ; les paragraphes ambigus (nombre impair de `**`) sont listés dans `rapport-gras.csv`.
-5. `carte.py` — calcule les neuf thèmes, les voisins de chaque article, la constellation et le rhizome des tags,
+5. `categories.py` — marque les MétaNotes (29) et les Fictions (17) d'une ligne `categorie:`, utilisée par les pages /metanotes/ et /fictions/.
+6. `carte.py` — calcule les neuf thèmes, les voisins de chaque article, la constellation et le rhizome des tags,
    écrit `assets/data/carte.json` et la ligne `theme:` de chaque article.
 
 Pour ajouter un article : créer `_posts/AAAA-MM-JJ-titre.md` avec le même front matter, puis relancer `carte.py`.

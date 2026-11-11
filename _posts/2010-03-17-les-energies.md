@@ -9,6 +9,7 @@ tags: ["batiment", "citoyen", "Efficacité énergétique", "Infrastructure", "in
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2010/03/17/les-energies/
+categorie: metanote
 ---
 
 Cette MétaNote vise à faire un bilan dans le domaine des énergies utilisées pour les transports. Le graphique suivant est sans appel, en France, la consommation d'énergie est focalisée sur la route, donc sur le pétrole. Est-ce que cette concentration est robuste aux cygnes noirs (voir [**ici**]({{ site.baseurl }}/2009/11/quel-sera-le-prochain-cygne-noir/) - évènements fortement improbables qui changent tout quand ils arrivent)? Quelles évolutions de la demande de transport, de l'offre énergétique peut-on déjà envisager ? Dans un monde de services de mobilité, quelle pourrait être la place d'un énergéticien ?

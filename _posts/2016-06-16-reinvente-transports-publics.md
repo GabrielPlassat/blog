@@ -9,6 +9,7 @@ tags: ["Acteur historique des Mobilités et Logistiques", "art de la guerre", "a
 theme: "Stratégies numériques"
 redirect_from:
   - /2016/06/16/reinvente-transports-publics/
+categorie: fiction
 ---
 
 Ça y est. Quatre Univers sont désormais proposés. Vous avez le choix entre Nike, GoPro - RedBull, Deezer et AirBnb. Vos solutions de mobilité dites techniques seront enrobées de différents services numériques en fonction de l’univers choisi : Votre sport au quotidien, la volonté d’avoir des sensations fortes, vos musiques ou encore faire de “*chaque déplacement un voyage*” s’immiscent dans les moindres détails.

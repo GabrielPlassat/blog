@@ -9,6 +9,7 @@ tags: ["autorité des transports", "collectivité", "connectivité", "donnée da
 theme: "Données & services numériques"
 redirect_from:
   - /2010/09/29/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives/
+categorie: metanote
 ---
 
 Ces MétaNotes synthétisent les idées, propositions, tendances de plusieurs notes. Elles donnent un fil conducteur, et servent de balises pour favoriser la réflexion, l'émergence des Transports du Futur.

@@ -9,6 +9,7 @@ tags: ["Acteur numérique des Mobilités et des Logistiques", "art de la guerre"
 theme: "Stratégies numériques"
 redirect_from:
   - /2017/03/10/fiction-tout-bascule/
+categorie: fiction
 ---
 
 D’abord les taxis électriques [**fortement subventionnés**](http://gas2.org/2017/02/27/china-plans-replace-70000-beijing-taxis-electric-cars/). Puis obligatoires. Dans 3 mégalopoles. Puis 10. 6 mois…

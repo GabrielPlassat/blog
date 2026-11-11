@@ -9,6 +9,7 @@ tags: ["assistant de mobilité", "autorité des transports", "connectivité", "d
 theme: "Données & services numériques"
 redirect_from:
   - /2010/03/02/metanote-tdf-2-le-marche-des-mobilites-20/
+categorie: metanote
 ---
 
 Après avoir détaillé les origines des mobilités 2.0, les acteurs et les technologies utilisées (**[MétaNote TdF 0]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**), puis les objectifs à atteindre (**[MétaNote TdF 1]({{ site.baseurl }}/2009/11/pour-une-mobilite-plus-robuste-aux-crises-a-venir/)**), cette MétaNote propose de plonger dans les futurs marchés des mobilités 2.0.

@@ -9,6 +9,7 @@ tags: ["Acteur historique des Mobilités et Logistiques", "Acteur numérique des
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2013/07/05/metanote-16-lavenir-du-camion/
+categorie: metanote
 ---
 
 Un parallélépipède rectangle « identique » depuis des décennies, encombrant nos autoroutes lors de nos voyages, telle est la perception générale du camion. Il est proposé ici de renverser la position, de se mettre à la place du constructeur, et de mettre en perspective les évolutions historiques de ce véhicule, puis de tracer sa trajectoire probable.

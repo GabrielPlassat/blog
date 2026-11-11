@@ -9,6 +9,7 @@ tags: ["Articles invités", "Fictions"]
 theme: "Déplacements, vélo & santé"
 redirect_from:
   - /2014/04/04/un-jour-davril-2024-a-paris/
+categorie: fiction
 ---
 
 **Cette fiction a été rédigée par [Nicolas Le Douarec](https://twitter.com/ledouarec).**

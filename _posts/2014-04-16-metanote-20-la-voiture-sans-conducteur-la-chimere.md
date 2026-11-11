@@ -9,6 +9,7 @@ tags: ["autopartage", "catastrophe", "citoyen", "collectivité", "commuter", "co
 theme: "Stratégies numériques"
 redirect_from:
   - /2014/04/16/metanote-20-la-voiture-sans-conducteur-la-chimere/
+categorie: metanote
 ---
 
 D'ici 3 ans nous dit [**Elon Musk**](http://www.businessinsider.com/tesla-driverless-cars-elon-musk-2013-9), à 90% sur une Tesla. En 2020 pour [**Daimler**]({{ site.baseurl }}/2013/07/prochaine-mercedes-classe-s-et-si-cetait-deja-un-cybercar/), Renault-Nissan, Volvo ... (lire [**cette fiction en 2024**]({{ site.baseurl }}/2014/04/un-jour-davril-2024-a-paris/)). Les mots employés varient d'ailleurs selon les points de vues et les auteurs : conduite assistée ou déléguée pour les constructeurs automobiles, voiture sans chauffeur ou "cybernétique" pour les industries du numérique. Cet objet peut être vu avec les lunettes d'un automobiliste classique comme un salon roulant ou comme une solution de mobilité "commandable" à volonté avec des lunettes d'un opérateur. Dans les deux cas, le véhicule sera un hybride du monde de l'industrie de l'acier et du monde du numérique. Cet objet incarne, aujourd'hui, des rêves (lire cet article sur [**les voitures sans conducteur et les drones**](http://www.fastcoexist.com/3028180/how-drones-and-driverless-cars-raise-questions-for-the-future-of-city-services)), des fantasmes, des utopies. Il fait partie de la longue liste des technologies qui pourraient nous "libérer".

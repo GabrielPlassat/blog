@@ -9,6 +9,7 @@ tags: ["autorité des transports", "citoyen", "confiance", "Efficacité énergé
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2010/10/06/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous/
+categorie: metanote
 ---
 
 Nombres d’entités publiques et privés, de la multinationale à la start up, des opérateurs de transports publics aux Telecoms, en passant par les constructeurs, tous annoncent la **[« fin d’une époque ](http://www.cdurable.info/Decisions-durables-mobilite-la-fin-d-une-epoque-magazine-management-durable,2846.html)**» en matière de transports. Est-ce la même époque pour tous ? quelles (r)évolutions ces acteurs sont-ils prêts à réaliser ? pourquoi et pour qui ?

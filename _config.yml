@@ -25,6 +25,8 @@ plugins:
 header_pages:
   - themes.md
   - recents.md
+  - metanotes.md
+  - fictions.md
   - ciel.html
   - terre.html
   - temps.html

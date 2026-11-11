@@ -9,6 +9,7 @@ tags: ["données réelles", "Efficacité énergétique", "emission", "Infrastruc
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2010/04/13/metanote-tdf-5-les-entreprises/
+categorie: metanote
 ---
 
 La transition de l’objet (véhicule) aux services (mobilités) (voir **[ici]({{ site.baseurl }}/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance/)**) dans un secteur industriel lourd implique de s’interroger sur les évolutions nécessaires des entreprises. Comment sera dirigée une entreprise en 2020 ? comment concilier à la fois production massive d’objet et vente de services localement adaptés, changeant, modelables ?

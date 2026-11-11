@@ -9,6 +9,7 @@ tags: ["assistant de mobilité", "Assistant Personnel de Consommation", "biocarb
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2011/08/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service/
+categorie: fiction
 ---
 
 **Bien entendu, ceci n’est que pure fiction …**

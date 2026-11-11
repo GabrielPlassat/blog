@@ -9,6 +9,7 @@ tags: ["citoyen", "économie de l'expérience", "économie du quaternaire", "éc
 theme: "Intelligence collective & innovation"
 redirect_from:
   - /2013/12/10/quelles-sont-les-evolutions-a-venir-de-nos-structures-familiales-de-nos-communautes-et-donc-de-nous/
+categorie: metanote
 ---
 
 Nombreuses sont les études de prospectives centrées sur les techniques. Pensant que toutes les innovations technologiques conditionnent le fonctionnement des organisations humaines, que ces dernières les consomment, uniquement. Mais des tendances historiques plus longues sont à l'oeuvre au niveau des aspirations individuelles. Nous sommes des animaux sociaux, et, malgré les apparences, profondément altruistes (lire [**Plaidoyer pour l'altruisme par Mathieu RICARD**](https://kindle.amazon.com/work/plaidoyer-pour-laltruisme-french-edition-ebook/B00F2RLB9A/B00F2QRTJC)). Désormais, il devient possible de penser que de plus en plus d'individus formés peuvent s'engager "seuls", sans structure de commandement, sans liaison avec les "marques", sans direction fixée par d'autres, dans la conception et la réalisation de projets avec d'autres pairs, et cela à grande échelle. A la fois reliés à de nombreux réseaux, le "nous", et autonome, le "moi". Ceci n'est pas un détail. Ce n'est pas non plus un hasard.

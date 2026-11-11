@@ -9,6 +9,7 @@ tags: ["autorité des transports", "citoyen", "collectivité", "données réelle
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2010/06/28/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20/
+categorie: metanote
 ---
 
 Pour préparer l’atelier organisé par **[Novincie](http://www.id4car.org/wpFichiers/1/1/Ressources/file/PDF/Conference_du_1er_juillet_Novincie.pdf)**, « *La Bretagne, précurseur d’un nouveau standard de mobilité *» et en poursuivant la démarche engagée sur ce blog visant à considérer la mobilité comme un système global du citoyen aux industries, des usages aux modèles économiques, une analyse de « plate formes » dans d’autres domaines est proposée. Quelle pourrait être la structure d’une plate forme permettant de concevoir et réaliser un système de Mobilité 2.0, quels seront les acteurs et qui la pilotera, à quel niveau géographique, et surtout avec quels objectifs ?

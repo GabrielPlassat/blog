@@ -9,6 +9,7 @@ tags: ["autopartage", "citoyen", "commuter", "confiance", "connectivité", "covo
 theme: "Données & services numériques"
 redirect_from:
   - /2013/08/22/les-technologies-de-surveillance-vont-structurer-nos-pratiques-de-mobilites/
+categorie: fiction
 ---
 
 L'étape N°2 s'enclenche déjà. Après avoir permis de créer de nouveaux usages de l'automobile comme l'autopartage, le covoiturage, le taxi partagé, ... , le numérique est en train de les fusionner pour proposer **[Carjump](http://www.carjump.de/?lang=en)** en Allemagne ou [**Carsonar** ](http://www.carsonar.com/)en France. Ces moteurs de recherche d'automobiles partagées" vont devenir rapidement des moteurs de recherche de mobilité. L'iMaaS (lire **[Et si c'est les jeux étaient déjà faits ? l'iMaaS arrive]({{ site.baseurl }}/2013/07/et-si-les-jeux-etaient-deja-faits/)**) est finalement déjà là.

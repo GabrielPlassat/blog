@@ -9,6 +9,7 @@ tags: ["assurance", "citoyen", "données réelles", "Efficacité énergétique",
 theme: "Énergie, émissions & consommateurs"
 redirect_from:
   - /2010/10/14/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises/
+categorie: metanote
 ---
 
 Jamais un sujet de fond n’avait présenté également autant « d’apparitions visibles» ou signaux faibles ces derniers jours. Grèves dans les ports, réponse des **[acteurs économiques](http://www.collectifport.com/)**…
