@@ -49,7 +49,7 @@ Récemment, il cherche à structurer les modes d'intervention publics dans une o
 ## 📬 Contact
 
 - **Email** : gp@gabrielplassat.fr
-- **LinkedIn** : [@plassat]([https://www.linkedin.com/in/plassat/])
+- **LinkedIn** : [Profil]([https://www.linkedin.com/in/plassat/])
 - Https://gabrielplassat.fr
 ---
 
