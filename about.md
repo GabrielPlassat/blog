@@ -4,11 +4,9 @@ title: À propos
 permalink: /about/
 ---
 
-# 🚗 Transports du Futur
-
 ## Le blog
 
-**Transports du Futur** est un blog d'exploration et d'analyse des mutations des mobilités, porté depuis 2009 par Gabriel Plassat.
+**Les Transports du Futur** est un blog d'exploration et d'analyse des mutations des mobilités, porté depuis 2009 par Gabriel Plassat.
 
 ### 📚 Vingt ans d'archives
 
