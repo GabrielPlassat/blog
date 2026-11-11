@@ -3,6 +3,7 @@ layout: page
 title: Thèmes
 permalink: /themes/
 ---
+<img class="illustration-page" src="{{ '/assets/images/illustrations/themes.svg' | relative_url }}" alt="" width="120" height="120">
 Neuf familles de sujets, calculées à partir du vocabulaire des articles (voir `scripts/carte.py`). Chaque article appartient à la famille dont il est le plus proche.
 
 {% assign groups = site.posts | group_by: "theme" | sort: "name" %}

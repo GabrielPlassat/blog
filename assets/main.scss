@@ -600,3 +600,12 @@ body {
 .ctip { position: fixed; display: none; max-width: 280px; background: #222; color: #fff; padding: 7px 10px; border-radius: 6px; font-size: 13px; line-height: 1.35; pointer-events: none; z-index: 99; }
 .ctip small { color: #bbb; }
 .tlist h3 { margin-top: 1.4em; }
+
+/* ---------- Logo et illustrations ---------- */
+.site-logo img { height: 56px; width: auto; display: block; margin: 6px 0; }
+.site-header { min-height: 70px; }
+.site-nav { line-height: 70px; }
+.hero-logo { max-width: 460px; width: 100%; height: auto; display: block; margin: 8px 0 4px; }
+.illustration-page { float: right; margin: -10px 0 10px 20px; width: 120px; height: 120px; }
+.entree img { width: 64px; height: 64px; }
+@media (max-width: 600px) { .illustration-page { width: 80px; height: 80px; } }

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="temps">
+<circle cx="88" cy="96" r="70" fill="#FFE11A"/>
+<circle cx="112" cy="110" r="56" fill="#fff" stroke="#1d1d1b" stroke-width="4"/>
+<g fill="none" stroke="#1d1d1b" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M92 72 h44 M92 148 h44 M96 72 c0 26 32 26 32 38 c0 12 -32 12 -32 38 M132 72 c0 26 -32 26 -32 38 c0 12 32 12 32 38"/><path d="M104 140 q10 -10 20 0z" fill="#1d1d1b"/><circle cx="114" cy="104" r="2.5" fill="#1d1d1b"/></g>
+</svg>

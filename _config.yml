@@ -3,6 +3,9 @@ description: "Vingt ans d'explorations des mobilités, des communs et des véhic
 baseurl: "/blog"
 url: "https://gabrielplassat.github.io"
 
+logo: /assets/images/site/icone-192.png
+image: /assets/images/site/partage.png
+
 author:
   name: "Gabriel Plassat"
 
