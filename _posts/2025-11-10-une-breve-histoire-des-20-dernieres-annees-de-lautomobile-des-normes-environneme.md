@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Une brève histoire des 20 dernières années de l’automobile & des normes environnementales"
+title: "MétaNote N°26 - Une brève histoire des 20 dernières années de l’automobile & des normes environnementales"
 date: 2025-11-10
 source: linkedin
 source_name: "LinkedIn"
 original_url: "https://www.linkedin.com/pulse/une-br%C3%A8ve-histoire-des-20-derni%C3%A8res-ann%C3%A9es-de-normes-gabriel-plassat-adosf/"
 tags: ["normes", "automobile", "Chine", "Europe"]
 theme: "Énergie, émissions & consommateurs"
+categorie: metanote
 ---
 
 **Qualité de l'air**
