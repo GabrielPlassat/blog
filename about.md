@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Le blog
 
-**Les Transports du Futur** est un blog d'exploration et d'analyse des mutations des mobilités, porté depuis 2009 par Gabriel Plassat.
+**Les Transports du Futur** est un blog d'exploration et d'analyse des mutations des mobilités, des méthodes d'innovation en rupture, porté depuis 2009 par Gabriel Plassat.
 
 ### 📚 Vingt ans d'archives
 
