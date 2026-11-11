@@ -43,7 +43,8 @@ Le blog explore les transformations profondes des mobilités à travers plus de 
 
 ### Projets
 
-Gabriel est notamment à l'origine de la [Fabrique des Mobilités](https://lafabriquedesmobilites.fr/), le premier accélérateur européen dédié à un écosystème de la mobilité durable.
+Gabriel est notamment à l'origine de la [Fabrique des Mobilités](https://lafabriquedesmobilites.fr/), le premier accélérateur européen dédié à un écosystème de la mobilité durable. Il crée le concept d'[Appel à Communs](https://wiki.resilience-territoire.ademe.fr/wiki/Accueil) dont plusieurs sont lancés à l'ADEME depuis 2021 et repris par d'autres structures. Puis le concept d'[eXtrême Défi](https://infos.ademe.fr/lettre-strategie-novembre-2026/extremes-defis-de-nouvelles-voies-dinnovation/) pour explorer des problèmes complexes non résolus.
+Récemment, il cherche à structurer les modes d'intervention publics dans une ontologie unique et à exploiter avec l'IA les centaines de rapport d'évaluation antérieurs.
 
 ## 📬 Contact
 
