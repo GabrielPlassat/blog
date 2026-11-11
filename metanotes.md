@@ -3,6 +3,7 @@ layout: page
 title: MétaNotes
 permalink: /metanotes/
 ---
+<img class="illustration-page" src="{{ '/assets/images/illustrations/metanotes.svg' | relative_url }}" alt="" width="120" height="120">
 Les MétaNotes prennent du recul sur un sujet — les énergies, la surveillance, l'avenir du vélo, du camion, de l'automobile, du voyage… — pour en dégager les tendances de fond. La première, la MétaNote N°0 (2009), posait déjà le passage de l'objet véhicule aux services de mobilité.
 
 {% assign notes = site.posts | where: "categorie", "metanote" | sort: "date" %}

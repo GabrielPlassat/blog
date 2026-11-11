@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="themes">
+<circle cx="88" cy="96" r="70" fill="#F0921E"/>
+<circle cx="112" cy="110" r="56" fill="#fff" stroke="#1d1d1b" stroke-width="4"/>
+<g fill="none" stroke="#1d1d1b" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="88" cy="86" r="9" fill="#F0921E"/><circle cx="112" cy="86" r="9" fill="#8CC63F"/><circle cx="136" cy="86" r="9" fill="#FFE11A"/><circle cx="88" cy="110" r="9" fill="#12A9E8"/><circle cx="112" cy="110" r="9" fill="#E2231A"/><circle cx="136" cy="110" r="9" fill="#7d8899"/><circle cx="88" cy="134" r="9" fill="#33a4c4"/><circle cx="112" cy="134" r="9" fill="#8b55cc"/><circle cx="136" cy="134" r="9" fill="#a8a08f"/></g>
+</svg>

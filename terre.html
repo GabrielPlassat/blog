@@ -3,6 +3,7 @@ layout: page
 title: La terre
 permalink: /terre/
 ---
+<img class="illustration-page" src="{{ '/assets/images/illustrations/terre.svg' | relative_url }}" alt="" width="120" height="120">
 <div id="vue" class="vue"></div>
 {% include carte-js.html %}
 <script>terre("#vue").then(()=>{ const h=decodeURIComponent(location.hash.slice(1)); if(h) document.querySelectorAll("#vue g g").forEach(n=>{ if(n.textContent===h) n.dispatchEvent(new Event("click")); }); });</script>
