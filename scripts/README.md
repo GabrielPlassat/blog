@@ -17,3 +17,7 @@ Trois scripts Python, à lancer dans l'ordre (Colab ou poste local, `pip install
    écrit `assets/data/carte.json` et la ligne `theme:` de chaque article.
 
 Pour ajouter un article : créer `_posts/AAAA-MM-JJ-titre.md` avec le même front matter, puis relancer `carte.py`.
+
+## github_activite.py
+
+Lancé automatiquement à chaque publication et chaque nuit par le workflow. Récupère les dépôts publics et l’activité récente sur GitHub et écrit `_data/github.json`, que l’encart « L’atelier » de la page d’accueil affiche. Réglages (compte, nombre de projets, dépôts à exclure) dans `_config.yml`, rubrique `github`.

@@ -1,0 +1,45 @@
+{%- comment -%}
+  Encart « Atelier GitHub » : projets exploratoires et activité récente.
+  Données : _data/github.json, produit par scripts/github_activite.py
+  pendant la publication (et chaque nuit). Absent ou vide → rien ne s'affiche.
+{%- endcomment -%}
+{%- assign gh = site.data.github -%}
+{%- if gh and gh.projets and gh.projets.size > 0 -%}
+<section class="home-github">
+  <div class="gh-tete">
+    <h2>L'atelier : projets exploratoires</h2>
+    <a class="gh-profil" href="{{ gh.profil }}">Tout voir sur GitHub →</a>
+  </div>
+  <p class="note">Des prototypes en cours (notebooks, applications, cartes) qui prolongent les articles par le code. Ce sont des essais, pas des produits finis.</p>
+
+  <div class="gh-activite">
+    <div class="gh-chiffres">
+      <span><b>{{ gh.nb_depots }}</b> projets publics</span>
+      <span><b>{{ gh.actifs_30j }}</b> modifiés ces 30 derniers jours</span>
+      {%- if gh.commits_12s > 0 %}
+      <span><b>{{ gh.commits_12s }}</b> contributions en 12 semaines</span>
+      {%- endif %}
+    </div>
+    {%- if gh.commits_12s > 0 %}
+    <div class="gh-barres" role="img" aria-label="Contributions par semaine sur les 12 dernières semaines">
+      {%- for s in gh.semaines %}<i style="height:{% if s.n > 0 %}{{ s.h | at_least: 8 }}{% else %}3{% endif %}%" title="{{ s.n }} contribution{% if s.n > 1 %}s{% endif %}"></i>{% endfor -%}
+    </div>
+    {%- endif %}
+  </div>
+
+  <div class="gh-grille">
+    {%- for p in gh.projets %}
+    <article class="gh-carte">
+      <a class="gh-nom" href="{{ p.url }}">{{ p.nom }}</a>
+      {%- if p.description != "" %}<p>{{ p.description | escape }}</p>{% endif %}
+      <div class="gh-meta">
+        {%- if p.langage != "" %}<span class="gh-lang">{{ p.langage }}</span>{% endif %}
+        <span>maj {{ p.maj | date: "%d/%m/%Y" }}</span>
+        {%- if p.demo != "" %}<a href="{{ p.demo }}">Essayer ↗</a>{% endif %}
+      </div>
+    </article>
+    {%- endfor %}
+  </div>
+  <p class="note">Mis à jour le {{ gh.genere | date: "%d/%m/%Y" }}.</p>
+</section>
+{%- endif -%}

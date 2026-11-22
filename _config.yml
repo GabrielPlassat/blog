@@ -42,6 +42,13 @@ feed:
 twitter:
   username: gabrielplassat
 
+# Encart « L'atelier » (page d'accueil) : projets GitHub récents
+github:
+  utilisateur: GabrielPlassat
+  nombre: 6
+  exclure:
+    - blog
+
 markdown: kramdown
 kramdown:
   input: GFM

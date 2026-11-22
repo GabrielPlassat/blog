@@ -4,6 +4,8 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"   # chaque nuit : rafraîchit l'encart GitHub
 
 permissions:
   contents: read
@@ -31,6 +33,11 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
         
+      - name: Récupérer l'activité GitHub
+        run: python3 scripts/github_activite.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
