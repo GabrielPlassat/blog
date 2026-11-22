@@ -600,3 +600,20 @@ body {
 .ctip { position: fixed; display: none; max-width: 280px; background: #222; color: #fff; padding: 7px 10px; border-radius: 6px; font-size: 13px; line-height: 1.35; pointer-events: none; z-index: 99; }
 .ctip small { color: #bbb; }
 .tlist h3 { margin-top: 1.4em; }
+
+/* ---------- Encart « L'atelier » (GitHub) ---------- */
+.home-github { margin: 32px 0; padding: 18px 20px; border: 1px solid var(--border); border-radius: 10px; background: var(--bg-light); }
+.home-github h2 { margin: 0; }
+.gh-tete { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+.gh-profil { font-size: .9em; }
+.gh-activite { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 14px; margin: 10px 0 16px; }
+.gh-chiffres { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: .88em; color: var(--text-muted); }
+.gh-chiffres b { color: var(--text); font-size: 1.15em; }
+.gh-barres { display: flex; align-items: flex-end; gap: 3px; height: 34px; }
+.gh-barres i { display: block; width: 9px; background: #1f9d74; border-radius: 2px 2px 0 0; }
+.gh-grille { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px; }
+.gh-carte { display: flex; flex-direction: column; gap: 6px; padding: 12px 14px; background: #fff; border: 1px solid var(--border); border-radius: 8px; }
+.gh-carte p { margin: 0; font-size: .85em; color: var(--text-muted); line-height: 1.4; }
+.gh-nom { font-weight: 600; font-family: ui-monospace, monospace; font-size: .92em; word-break: break-word; }
+.gh-meta { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: auto; font-size: .78em; color: var(--text-muted); }
+.gh-lang { padding: 1px 7px; border: 1px solid var(--border); border-radius: 10px; }
