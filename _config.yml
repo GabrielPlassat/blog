@@ -33,6 +33,7 @@ header_pages:
   - ciel.html
   - terre.html
   - temps.html
+  - atelier.md
   - about.md
 
 feed:
@@ -42,10 +43,10 @@ feed:
 twitter:
   username: gabrielplassat
 
-# Encart « L'atelier » (page d'accueil) : projets GitHub récents
+# Onglet « L'atelier » : projets GitHub (nombre: 0 = tous)
 github:
   utilisateur: GabrielPlassat
-  nombre: 6
+  nombre: 0
   exclure:
     - blog
 

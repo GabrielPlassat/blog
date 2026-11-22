@@ -601,11 +601,8 @@ body {
 .ctip small { color: #bbb; }
 .tlist h3 { margin-top: 1.4em; }
 
-/* ---------- Encart « L'atelier » (GitHub) ---------- */
-.home-github { margin: 32px 0; padding: 18px 20px; border: 1px solid var(--border); border-radius: 10px; background: var(--bg-light); }
-.home-github h2 { margin: 0; }
-.gh-tete { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
-.gh-profil { font-size: .9em; }
+/* ---------- Onglet « L'atelier » (GitHub) ---------- */
+.atelier-github { margin: 24px 0; clear: both; }
 .gh-activite { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 14px; margin: 10px 0 16px; }
 .gh-chiffres { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: .88em; color: var(--text-muted); }
 .gh-chiffres b { color: var(--text); font-size: 1.15em; }
