@@ -1,17 +1,11 @@
 {%- comment -%}
-  Encart « Atelier GitHub » : projets exploratoires et activité récente.
+  Contenu de l'onglet « L'atelier » : projets exploratoires et activité récente.
   Données : _data/github.json, produit par scripts/github_activite.py
-  pendant la publication (et chaque nuit). Absent ou vide → rien ne s'affiche.
+  pendant la publication (et chaque nuit). Absent ou vide → message d'attente.
 {%- endcomment -%}
 {%- assign gh = site.data.github -%}
 {%- if gh and gh.projets and gh.projets.size > 0 -%}
-<section class="home-github">
-  <div class="gh-tete">
-    <h2>L'atelier : projets exploratoires</h2>
-    <a class="gh-profil" href="{{ gh.profil }}">Tout voir sur GitHub →</a>
-  </div>
-  <p class="note">Des prototypes en cours (notebooks, applications, cartes) qui prolongent les articles par le code. Ce sont des essais, pas des produits finis.</p>
-
+<section class="atelier-github">
   <div class="gh-activite">
     <div class="gh-chiffres">
       <span><b>{{ gh.nb_depots }}</b> projets publics</span>
@@ -40,6 +34,8 @@
     </article>
     {%- endfor %}
   </div>
-  <p class="note">Mis à jour le {{ gh.genere | date: "%d/%m/%Y" }}.</p>
+  <p class="note">Classés du plus récemment modifié au plus ancien. Liste mise à jour le {{ gh.genere | date: "%d/%m/%Y" }} — <a href="{{ gh.profil }}">voir le profil GitHub</a>.</p>
 </section>
+{%- else -%}
+<p class="note">La liste des projets n'a pas pu être chargée lors de la dernière publication. Ils sont visibles sur <a href="https://github.com/{{ site.github.utilisateur }}">GitHub</a>.</p>
 {%- endif -%}

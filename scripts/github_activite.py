@@ -2,13 +2,13 @@
 """Récupère l'activité GitHub publique et l'écrit dans _data/github.json.
 
 Lancé par le workflow de publication, juste avant la construction Jekyll.
-L'encart « Atelier GitHub » de la page d'accueil (_includes/github.html)
-lit ce fichier. Si GitHub ne répond pas, le fichier est écrit vide et
-l'encart ne s'affiche simplement pas : la publication n'est jamais bloquée.
+L'onglet « L'atelier » (atelier.md, via _includes/github.html) lit ce
+fichier. Si GitHub ne répond pas, le fichier est écrit vide et la page
+affiche un simple lien vers GitHub : la publication n'est jamais bloquée.
 
 Réglages dans _config.yml, rubrique `github` :
   utilisateur : compte GitHub à afficher
-  nombre      : nombre de projets montrés
+  nombre      : nombre de projets montrés (0 = tous)
   exclure     : dépôts à ne pas montrer (ex. le blog lui-même)
 """
 import datetime as dt
@@ -96,7 +96,8 @@ def construire(depots, evenements, reglages, maintenant):
     pic = max(semaines) or 1
 
     projets = []
-    for d in gardes[: int(reglages.get("nombre", 6))]:
+    nombre = int(reglages.get("nombre", 0)) or len(gardes)
+    for d in gardes[:nombre]:
         projets.append({
             "nom": d["name"],
             "description": d.get("description") or "",

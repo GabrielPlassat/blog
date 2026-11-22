@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="atelier">
+<circle cx="88" cy="96" r="70" fill="#E2231A"/>
+<circle cx="112" cy="110" r="56" fill="#fff" stroke="#1d1d1b" stroke-width="4"/>
+<g fill="none" stroke="#1d1d1b" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M92 92 l-12 14 l12 14"/><path d="M132 92 l12 14 l-12 14"/><path d="M118 88 l-12 38"/><g transform="rotate(-40 112 140)"><path d="M104 140 h16"/><path d="M100 136 a6 6 0 1 0 0 8"/><path d="M124 136 a6 6 0 1 1 0 8"/></g></g>
+</svg>
