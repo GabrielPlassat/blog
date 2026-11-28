@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2012/11/google-trends-montre-les-changements-de-comportements.html"
 tags: ["autopartage", "citoyen", "covoiturage", "google", "internet"]
-theme: "Données & services numériques"
+theme: "Stratégies numériques"
 redirect_from:
   - /2012/11/13/google-trends-montre-les-changements-de-comportements/
 ---
