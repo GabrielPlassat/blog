@@ -576,7 +576,7 @@ body {
 .src { flex: none; font-size: .72em; padding: 2px 7px; border-radius: 10px; color: #fff; background: #7d8899; white-space: nowrap; }
 .src:empty { width: 9px; height: 9px; padding: 0; border-radius: 50%; }
 .src-tdf { background: #2f6fd6; } .src-fabmob { background: #1f9d74; } .src-brico { background: #8b55cc; }
-.src-xd { background: #c7841a; } .src-linkedin { background: #7d8899; }
+.src-xd { background: #c7841a; } .src-linkedin { background: #7d8899; } .src-blog { background: #3c6e5a; }
 .theme-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; }
 .theme-card { padding: 12px 14px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; color: var(--text); display: flex; justify-content: space-between; gap: 8px; }
 .theme-card span { color: var(--text-muted); font-size: .85em; white-space: nowrap; }

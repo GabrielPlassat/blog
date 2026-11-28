@@ -6,7 +6,7 @@ source: tdf
 source_name: "Transports du Futur"
 original_url: "https://transportsdufutur.ademe.fr/2010/06/complete-mobility-vers-un-indicateur-global-de-la-performance.html"
 tags: ["autorité des transports", "cité", "citoyen", "collectivité", "Europe", "Infrastructure"]
-theme: "Énergie, émissions & consommateurs"
+theme: "Veille & documents"
 redirect_from:
   - /2010/06/09/complete-mobility-vers-un-indicateur-global-de-la-performance/
 ---
