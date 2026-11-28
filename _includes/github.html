@@ -37,5 +37,33 @@
   <p class="note">Classés du plus récemment modifié au plus ancien. Liste mise à jour le {{ gh.genere | date: "%d/%m/%Y" }} — <a href="{{ gh.profil }}">voir le profil GitHub</a>.</p>
 </section>
 {%- else -%}
-<p class="note">La liste des projets n'a pas pu être chargée lors de la dernière publication. Ils sont visibles sur <a href="https://github.com/{{ site.github.utilisateur }}">GitHub</a>.</p>
+{%- comment -%} Liste non préparée à la publication : le navigateur la demande directement à GitHub. {%- endcomment -%}
+<section class="atelier-github" id="gh-direct">
+  <p class="note">Chargement des projets depuis GitHub…</p>
+</section>
+<script>
+(function(){
+  var u = "{{ site.atelier.utilisateur | default: 'GabrielPlassat' }}";
+  var exclure = ({{ site.atelier.exclure | jsonify }} || []).map(function(x){return x.toLowerCase();});
+  var box = document.getElementById('gh-direct');
+  var esc = function(t){ return String(t||'').replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); };
+  var jour = function(d){ return d ? d.slice(8,10)+'/'+d.slice(5,7)+'/'+d.slice(0,4) : ''; };
+  fetch('https://api.github.com/users/'+u+'/repos?per_page=100&sort=pushed&type=owner')
+    .then(function(r){ if(!r.ok) throw r.status; return r.json(); })
+    .then(function(rs){
+      rs = rs.filter(function(d){ return !d.fork && !d.archived && exclure.indexOf(d.name.toLowerCase()) < 0; });
+      var mois = Date.now() - 30*864e5;
+      var actifs = rs.filter(function(d){ return Date.parse(d.pushed_at) >= mois; }).length;
+      box.innerHTML = '<div class="gh-activite"><div class="gh-chiffres"><span><b>'+rs.length+'</b> projets publics</span><span><b>'+actifs+'</b> modifiés ces 30 derniers jours</span></div></div>'
+        + '<div class="gh-grille">' + rs.map(function(d){
+          return '<article class="gh-carte"><a class="gh-nom" href="'+esc(d.html_url)+'">'+esc(d.name)+'</a>'
+            + (d.description ? '<p>'+esc(d.description)+'</p>' : '')
+            + '<div class="gh-meta">' + (d.language ? '<span class="gh-lang">'+esc(d.language)+'</span>' : '')
+            + '<span>maj '+jour(d.pushed_at)+'</span>' + (d.homepage ? '<a href="'+esc(d.homepage)+'">Essayer ↗</a>' : '') + '</div></article>';
+        }).join('') + '</div>'
+        + '<p class="note">Classés du plus récemment modifié au plus ancien — <a href="https://github.com/'+u+'">voir le profil GitHub</a>.</p>';
+    })
+    .catch(function(){ box.innerHTML = '<p class="note">Les projets sont visibles sur <a href="https://github.com/'+u+'">GitHub</a>.</p>'; });
+})();
+</script>
 {%- endif -%}

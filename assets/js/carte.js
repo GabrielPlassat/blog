@@ -1,14 +1,14 @@
 /* Carte du blog : ciel (constellation), terre (rhizome des tags), temps (chronologie),
    et voisins d'un article. Données : assets/data/carte.json (scripts/carte.py). */
 const SRC = {tdf:['Transports du Futur','#2f6fd6'], fabmob:['Fabrique des Mobilités','#1f9d74'],
-  brico:['Bricologie','#8b55cc'], xd:['Blog XD','#c7841a'], linkedin:['LinkedIn','#7d8899']};
+  brico:['Bricologie','#8b55cc'], xd:['Blog XD','#c7841a'], linkedin:['LinkedIn','#7d8899'], blog:['Blog','#3c6e5a']};
 const COL = ['#c7841a','#7d8899','#2f6fd6','#a8a08f','#8b55cc','#1f9d74','#d6455d','#33a4c4','#b8931a'];
 const BASE = window.BASE || '';
 let CARTE = null;
 async function carte(){ if(!CARTE) CARTE = await (await fetch(BASE + '/assets/data/carte.json')).json(); return CARTE; }
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function tip(){ let t=document.getElementById('ctip'); if(!t){ t=document.createElement('div'); t.id='ctip'; t.className='ctip'; document.body.appendChild(t);} return t; }
-function showTip(e, p, D){ const t=tip(); t.innerHTML=`<small>${SRC[p.s][0]} · ${p.d} · ${esc(D.themes[p.f].n)}</small><br>${esc(p.t)}`; t.style.display='block'; t.style.left=Math.min(e.clientX+14, innerWidth-300)+'px'; t.style.top=(e.clientY+14)+'px'; }
+function showTip(e, p, D){ const t=tip(); t.innerHTML=`<small>${(SRC[p.s]||[p.s])[0]} · ${p.d} · ${esc(D.themes[p.f].n)}</small><br>${esc(p.t)}`; t.style.display='block'; t.style.left=Math.min(e.clientX+14, innerWidth-300)+'px'; t.style.top=(e.clientY+14)+'px'; }
 function hideTip(){ tip().style.display='none'; }
 const go = p => { location.href = BASE + p.u; };
 function legend(el, D, mode){
@@ -85,7 +85,7 @@ async function temps(sel){
   svg.attr('viewBox',`0 0 1080 ${yy}`);
   const sq = svg.append('g').selectAll('rect').data(pos).join('rect').attr('x',d=>d.x).attr('y',d=>d.y).attr('width',s).attr('height',s).attr('rx',1.5)
     .style('cursor','pointer').on('mousemove',(e,d)=>showTip(e,d.p,D)).on('mouseleave',hideTip).on('click',(e,d)=>go(d.p));
-  const upd=()=>{ const m=box.querySelector('#tm').value; sq.attr('fill',d=>m==='s'?SRC[d.p.s][1]:COL[d.p.f]); legend(box.querySelector('#mleg'),D,m); };
+  const upd=()=>{ const m=box.querySelector('#tm').value; sq.attr('fill',d=>m==='s'?(SRC[d.p.s]||[0,'#999'])[1]:COL[d.p.f]); legend(box.querySelector('#mleg'),D,m); };
   box.querySelector('#tm').onchange=upd; upd();
 }
 

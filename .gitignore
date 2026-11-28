@@ -10,3 +10,4 @@ Gemfile.lock
 .DS_Store
 conversion_stats.json
 _data/github.json
+__pycache__/
