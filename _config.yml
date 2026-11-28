@@ -44,7 +44,7 @@ twitter:
   username: gabrielplassat
 
 # Onglet « L'atelier » : projets GitHub (nombre: 0 = tous)
-github:
+atelier:
   utilisateur: GabrielPlassat
   nombre: 0
   exclure:

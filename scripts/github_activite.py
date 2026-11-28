@@ -6,7 +6,7 @@ L'onglet « L'atelier » (atelier.md, via _includes/github.html) lit ce
 fichier. Si GitHub ne répond pas, le fichier est écrit vide et la page
 affiche un simple lien vers GitHub : la publication n'est jamais bloquée.
 
-Réglages dans _config.yml, rubrique `github` :
+Réglages dans _config.yml, rubrique `atelier` :
   utilisateur : compte GitHub à afficher
   nombre      : nombre de projets montrés (0 = tous)
   exclure     : dépôts à ne pas montrer (ex. le blog lui-même)
@@ -29,7 +29,7 @@ def lire_reglages():
     lignes = (RACINE / "_config.yml").read_text(encoding="utf-8").splitlines()
     dedans, cle_liste = False, None
     for ligne in lignes:
-        if ligne.startswith("github:"):
+        if ligne.startswith("atelier:"):
             dedans = True
             continue
         if dedans and ligne and not ligne.startswith(" "):
